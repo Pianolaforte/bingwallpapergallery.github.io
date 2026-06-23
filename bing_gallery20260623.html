@@ -1,0 +1,2221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bing Gallery</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #f5f5f5; color: #333;
+}
+
+/* Header */
+.header {
+    background: #1a2744; color: white; padding: 0 24px;
+    height: 56px; display: flex; align-items: center;
+    position: sticky; top: 0; z-index: 100;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.logo {
+    display: flex; align-items: center; gap: 0;
+    font-size: 20px; font-weight: 700; text-decoration: none;
+    color: white; cursor: pointer; flex-shrink: 0;
+}
+.logo-text {
+    font-size: 20px; font-weight: 700; color: white;
+    letter-spacing: 0.5px;
+}
+.logo:hover .logo-text {
+    color: #4caf50;
+}
+.header-right {
+    margin-left: auto; display: flex; align-items: center; gap: 10px;
+}
+.view-toggle {
+    display: flex; gap: 2px; background: rgba(255,255,255,0.1);
+    border-radius: 8px; padding: 3px;
+}
+.view-btn {
+    width: 34px; height: 34px; border: none; background: none;
+    color: rgba(255,255,255,0.6); border-radius: 6px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.2s; font-size: 16px;
+}
+.view-btn:hover { background: rgba(255,255,255,0.15); color: white; }
+.view-btn.active { background: rgba(76,175,80,0.8); color: white; }
+.search-box {
+    padding: 7px 16px; border: 2px solid transparent; border-radius: 20px;
+    font-size: 14px; width: 220px; outline: none; transition: border-color 0.2s;
+    background: rgba(255,255,255,0.9);
+}
+.search-box:focus { border-color: #4caf50; }
+.search-box::placeholder { color: #999; }
+
+/* Tabs */
+.tabs-container {
+    background: white; border-bottom: 1px solid #e0e0e0;
+    overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;
+}
+.tabs-container::-webkit-scrollbar { height: 0; }
+.tabs { display: flex; padding: 0 16px; }
+.tab-btn {
+    padding: 10px 16px; border: none; background: none; cursor: pointer;
+    font-size: 14px; color: #666; border-bottom: 3px solid transparent;
+    transition: all 0.2s; white-space: nowrap;
+}
+.tab-btn:hover { color: #1a2744; background: rgba(26,39,68,0.05); }
+.tab-btn.active { color: #1a2744; border-bottom-color: #4caf50; font-weight: 600; }
+
+.update-time {
+    text-align: center; padding: 8px 16px; font-size: 12px;
+    color: #999; background: #fafafa; border-bottom: 1px solid #eee;
+}
+
+.main { max-width: 1200px; margin: 0 auto; padding: 16px; }
+
+/* Stream View */
+.stream-item {
+    display: flex; gap: 16px; padding: 16px; background: white;
+    border-radius: 8px; margin-bottom: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08); transition: box-shadow 0.2s; cursor: pointer;
+}
+.stream-item:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
+.stream-thumb {
+    flex-shrink: 0; width: 200px; height: 112px;
+    border-radius: 6px; overflow: hidden;
+}
+.stream-thumb img {
+    width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s;
+}
+.stream-item:hover .stream-thumb img { transform: scale(1.05); }
+.stream-info {
+    flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 4px;
+}
+.stream-date { font-size: 12px; color: #999; }
+.stream-title {
+    font-size: 16px; font-weight: 600; color: #1a2744;
+    line-height: 1.4; cursor: pointer;
+}
+.stream-title:hover { color: #4caf50; }
+.stream-desc {
+    font-size: 13px; color: #888; line-height: 1.5; margin-top: 4px;
+    display: -webkit-box; -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; overflow: hidden;
+}
+.stream-copyright {
+    font-size: 12px; color: #aaa; line-height: 1.3;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.stream-downloads { display: flex; gap: 8px; margin-top: 4px; }
+.stream-markets { font-size: 16px; margin-top: 4px; }
+
+/* Card View */
+.card-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px;
+}
+.card {
+    background: white; border-radius: 12px; overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08); transition: box-shadow 0.2s; cursor: pointer;
+}
+.card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
+.card-image { width: 100%; aspect-ratio: 16/9; overflow: hidden; }
+.card-image img {
+    width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s;
+}
+.card:hover .card-image img { transform: scale(1.05); }
+.card-body { padding: 12px 16px; }
+.card-title {
+    font-size: 15px; font-weight: 600; color: #1a2744;
+    line-height: 1.4; cursor: pointer;
+}
+.card-title:hover { color: #4caf50; }
+.card-desc {
+    font-size: 12px; color: #999; line-height: 1.4; margin-top: 4px;
+    display: -webkit-box; -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; overflow: hidden;
+}
+.card-date { font-size: 12px; color: #bbb; margin-top: 6px; }
+.card-copyright {
+    font-size: 11px; color: #ccc; line-height: 1.3; margin-top: 2px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.card-downloads { display: flex; gap: 8px; margin-top: 8px; }
+.card-markets { font-size: 16px; margin-top: 6px; }
+
+/* Detail View */
+.detail-container { max-width: 1200px; margin: 0 auto; padding: 24px 16px; }
+.detail-back {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 10px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none; border-radius: 25px;
+    font-size: 14px; font-weight: 700; color: white; cursor: pointer;
+    transition: all 0.3s ease; text-decoration: none; margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+    text-transform: uppercase; letter-spacing: 0.5px;
+}
+.detail-back:hover {
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+}
+.detail-back:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 10px rgba(102, 126, 234, 0.4);
+}
+.detail-image-wrap {
+    background: white; border-radius: 12px; overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-bottom: 24px;
+}
+.detail-image-wrap img { width: 100%; display: block; }
+.detail-info {
+    background: white; border-radius: 12px; padding: 24px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+.detail-title {
+    font-size: 24px; font-weight: 700; color: #1a2744;
+    line-height: 1.4; margin-bottom: 8px;
+}
+.detail-date { font-size: 14px; color: #999; margin-bottom: 12px; }
+.detail-copyright {
+    font-size: 14px; color: #666; line-height: 1.6; margin-bottom: 16px;
+}
+
+/* Description section */
+.desc-section {
+    margin: 20px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.desc-section:last-of-type {
+    border-bottom: none;
+}
+
+/* Language label */
+.lang-label {
+    display: inline-block; font-size: 11px; padding: 4px 12px;
+    border-radius: 12px; margin-bottom: 12px;
+    text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600;
+}
+.lang-en { color: #1565c0; background: #e3f2fd; border: 1px solid #bbdefb; }
+.lang-zh { color: #c62828; background: #ffebee; border: 1px solid #ffcdd2; }
+.lang-local { color: #2e7d32; background: #e8f5e9; border: 1px solid #c8e6c9; }
+
+/* Description text */
+.desc-text {
+    font-size: 15px; color: #444; line-height: 1.8;
+}
+.desc-text-zh {
+    font-size: 15px; color: #444; line-height: 1.8;
+}
+
+/* QuickFact */
+.quick-fact-box {
+    margin-top: 16px;
+    padding: 14px 18px; background: #fff8e1; border-radius: 8px;
+    border-left: 4px solid #ffc107;
+}
+.quick-fact-box-zh {
+    margin-top: 16px;
+    padding: 14px 18px; background: #fffde7; border-radius: 8px;
+    border-left: 4px solid #ffca28;
+}
+.quick-fact-label {
+    display: inline-block; font-size: 11px;
+    color: #f57f17; background: #fff3cd; padding: 2px 8px;
+    border-radius: 10px; margin-bottom: 8px;
+    font-weight: 600;
+}
+.quick-fact-label-zh {
+    display: inline-block; font-size: 11px;
+    color: #e65100; background: #fff3e0; padding: 2px 8px;
+    border-radius: 10px; margin-bottom: 8px;
+    font-weight: 600;
+}
+.quick-fact-text {
+    font-size: 14px; color: #555; line-height: 1.7;
+}
+
+/* Local desc (non-English exclusive) */
+.local-desc-box {
+    margin: 20px 0;
+    padding: 16px; background: #f5f7fa; border-radius: 8px;
+    border: 1px solid #e0e5ec;
+}
+
+.detail-downloads {
+    display: flex; gap: 10px; flex-wrap: wrap; margin: 24px 0;
+}
+.detail-dl-btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 10px 20px; border-radius: 8px; font-size: 14px; font-weight: 600;
+    text-decoration: none; color: white; transition: all 0.2s;
+}
+.detail-dl-btn:hover {
+    transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+.uhd-btn { background: #4caf50; }
+.h1200-btn { background: #2196f3; }
+.h1080-btn { background: #607d8b; }
+.search-btn { background: #1a2744; }
+
+.detail-markets-section { border-top: 1px solid #eee; padding-top: 16px; }
+.detail-markets-label { font-size: 13px; color: #999; margin-bottom: 8px; }
+.detail-markets-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.detail-market-tag {
+    display: inline-flex; align-items: center; gap: 4px;
+    padding: 4px 10px; background: #f5f5f5; border-radius: 16px;
+    font-size: 13px; color: #666;
+}
+
+.view-container { transition: opacity 0.3s ease; }
+.view-hidden { display: none !important; }
+.no-results { text-align: center; padding: 60px 20px; color: #999; font-size: 16px; }
+
+.fi { display: inline-block; width: 1.2em; height: 1.2em; border-radius: 2px; vertical-align: middle; margin-right: 2px; }
+.stream-markets .fi, .card-markets .fi { width: 1.4em; height: 1em; margin: 1px 2px; }
+.detail-market-tag .fi { width: 1.4em; height: 1em; margin-right: 4px; }
+
+.dl-btn {
+    display: inline-flex; align-items: center; padding: 4px 10px;
+    border-radius: 4px; font-size: 11px; font-weight: 600;
+    text-decoration: none; color: white; transition: all 0.2s;
+}
+.dl-btn:hover { opacity: 0.85; }
+
+@media (max-width: 768px) {
+    .stream-item { flex-direction: column; }
+    .stream-thumb { width: 100%; height: auto; aspect-ratio: 16/9; }
+    .search-box { width: 140px; font-size: 13px; }
+    .header { padding: 0 12px; }
+    .main { padding: 8px; }
+    .card-grid { grid-template-columns: 1fr; }
+    .detail-container { padding: 12px 8px; }
+    .detail-title { font-size: 20px; }
+}
+@media (max-width: 480px) {
+    .search-box { width: 100px; }
+    .view-btn { width: 30px; height: 30px; font-size: 14px; }
+    .logo { font-size: 16px; gap: 6px; }
+    .logo-img { height: 22px; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+    <a class="logo" onclick="app.navigate('#/')">
+        <span class="logo-text">Bing Gallery</span>
+    </a>
+    <div class="header-right">
+        <div class="view-toggle" id="viewToggle">
+            <button class="view-btn active" id="streamBtn" title="Stream view">&#9776;</button>
+            <button class="view-btn" id="cardBtn" title="Card view">&#9638;</button>
+        </div>
+        <input type="text" class="search-box" placeholder="Search wallpapers..." id="searchBox" />
+    </div>
+</div>
+
+<div class="tabs-container" id="tabsContainer">
+    <div class="tabs" id="tabsBar"></div>
+</div>
+
+<div class="update-time">Last updated: 2026-06-23 07:58:11 UTC</div>
+
+<div class="main view-container" id="streamView">
+    <div id="streamList"></div>
+</div>
+
+<div class="main view-container view-hidden" id="cardView">
+    <div class="card-grid" id="cardGrid"></div>
+</div>
+
+<div class="view-container view-hidden" id="detailView">
+    <div class="detail-container" id="detailContent"></div>
+</div>
+
+<script>
+var ALL_IMAGES = [
+  {
+    "name": "Fujisan",
+    "date": "20260624",
+    "dateFormatted": "June 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Mount Fuji on Honshu Island, Japan",
+    "copyright": "© phutthiseth thongtae/Getty Images",
+    "copyrightlink": "/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260623_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "Mount Fuji, Japan's highest mountain, rises to 12,389 feet on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion, and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+    "descZh": "富士山是日本最高峰，海拔12,389英尺（约3700米），耸立于本州岛，位于东京西南约60英里（约97公里）处。这座近乎完美的锥形山峰是一座火山——自1707年12月最后一次喷发后便一直处于休眠状态，但仍被归类为活火山。那次大规模喷发被称为宝荣喷发，火山灰和其他火山碎屑喷涌而出，席卷日本东部，甚至远至江户（今东京）。除了地质学意义之外，富士山长期以来被视为神圣的景观和朝圣登山的目的地，这体现了日本自然、宗教和日常生活的交融。这种经久不衰的文化魅力也是它于2013年被联合国教科文组织列为世界遗产的原因之一，被誉为“神圣之地和艺术灵感的源泉”。众所周知，在晴朗的日子里，富士山从远处就能清晰可见，但这并非必然——云层可能在几分钟内将其遮蔽。无论您是徒步攀登，还是只是从火车车窗瞥见它，它依然是日本地平线上的标志性景观。",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "富士山通常从10月开始积雪，山顶白雪往往能持续半年以上，也因此成为日本“四季景观”意象的重要组成部分。",
+    "thumb": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_1920x1080.jpg"
+  },
+  {
+    "name": "SanJuanFuegos",
+    "date": "20260623",
+    "dateFormatted": "June 23, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Fuegos artificiales en la Noche de San Juan",
+    "copyright": "© rui_noronha/Getty Images",
+    "copyrightlink": "/search?q=San+Juan+v%c3%adspera&form=hpcapt&filters=HpDate%3a%2220260622_2200%22",
+    "sourceMarket": "es-ES",
+    "desc": "The Noche de San Juan, held every June 23, marks one of the most anticipated moments of the beginning of summer in many places in Spain and on the Mediterranean coast. With the arrival of the night, beaches and squares are filled with bonfires, lights and meetings that combine tradition and a festive atmosphere. Fire acts as a symbol of renewal and becomes the center of family and social encounters.",
+    "descZh": "",
+    "localDesc": "La Noche de San Juan, celebrada cada 23 de junio, marca uno de los momentos más esperados del inicio del verano en muchos lugares de España y de la costa mediterránea. Con la llegada de la noche, playas y plazas se llenan de hogueras, luces y reuniones que combinan tradición y ambiente festivo. El fuego actúa como símbolo de renovación y se convierte en el centro de encuentros familiares y sociales.",
+    "localLangName": "Español",
+    "descLang": "es",
+    "quickFact": "The Night of San Juan, celebrated on June 23, has its origin in ancient pagan rituals that used fire to celebrate the longest day of the year and chase away negative energies.",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.SanJuanFuegos_ES-ES0457674498_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.SanJuanFuegos_ES-ES0457674498_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.SanJuanFuegos_ES-ES0457674498_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.SanJuanFuegos_ES-ES0457674498_1920x1080.jpg"
+  },
+  {
+    "name": "QuinaultFerns",
+    "date": "20260623",
+    "dateFormatted": "June 23, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Quinault rainforest, Olympic National Park, Washington state",
+    "copyright": "© Chris Moore/Tandem Stills + Motion",
+    "copyrightlink": "/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa, and the forests of Southeast Asia.",
+    "descZh": "6月22日是世界雨林日，这是一个全球性的日子，也是全年呼吁人们保护世界剩余雨林的行动。这些生态系统并非地图上的点点星罗棋布。它们遍布热带地区及其他地区，却仅覆盖地球表面约6%的面积。想想南美洲的亚马逊雨林、非洲的刚果盆地以及东南亚的森林吧。",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface.",
+    "quickFactZh": "尽管热带雨林仅占地球表面积的 6%，但却是世界上一半以上物种的家园。",
+    "thumb": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_1920x1080.jpg"
+  },
+  {
+    "name": "IndigenousMaple",
+    "date": "20260622",
+    "dateFormatted": "June 22, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Red maple leaf, symbol of Canada",
+    "copyright": "© namaki/Getty Images",
+    "copyrightlink": "/search?q=National+Indigenous+Peoples+Day&form=hpcapt&filters=HpDate%3a%2220260621_0400%22",
+    "sourceMarket": "en-CA",
+    "desc": "How many stories can a single day hold? Quite a lot, actually. Today in Canada, National Indigenous Peoples Day celebrates First Nations, Inuit and Métis peoples whose knowledge, traditions and skills have shaped life across the country for thousands of years. The day was officially recognised in 1996 after years of calls from Indigenous organisations and leaders seeking stronger recognition of their cultures and communities.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "Every totem pole is a distinct narrative, often depicting the ancestral lineage of a family or clan.",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_1920x1080.jpg"
+  },
+  {
+    "name": "EggDad",
+    "date": "20260622",
+    "dateFormatted": "June 22, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "King penguin father checking egg",
+    "copyright": "© McDonald Wildlife Photography Inc./Getty Images",
+    "copyrightlink": "/search?q=father%27s+day&form=hpcapt&filters=HpDate%3a%2220260621_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "On the third Sunday in June, we celebrate Father's Day—a moment to thank the steady, watchful figures who help life grow and thrive. Across the world, fatherhood can take surprising and extraordinary forms.",
+    "descZh": "六月的第三个星期日是父亲节——一个感谢那些默默守护、悉心照料孩子成长的长辈们的日子。在世界各地，父亲的角色可以呈现出令人意想不到的非凡形式。",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "In seahorses, males carry fertilized eggs in a brood pouch, supplying oxygen, nutrients, and protection until they hatch.",
+    "quickFactZh": "对海马而言，雄性会将受精卵放入自己的育儿袋中，并在孵化前为它们提供氧气、养分和全方位的保护。",
+    "thumb": "https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_1920x1080.jpg"
+  },
+  {
+    "name": "SeineRiverside",
+    "date": "20260621",
+    "dateFormatted": "June 21, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Notre-Dame de Paris et les quais de Seine, Paris",
+    "copyright": "© RudyBalasko/Getty Images",
+    "copyrightlink": "/search?q=f%c3%aate+de+la+musique&form=hpcapt&filters=HpDate%3a%2220260620_2200%22",
+    "sourceMarket": "fr-FR",
+    "desc": "Every 21 June, as the light stretches until dusk, the Fête de la musique transforms towns and villages into open scenes. Born in 1982 in France, this celebration coincides with the summer solstice, when nature itself vibrates to the rhythm of the longest day. In the streets, under the plane trees still warm with sunshine, amateurs and professionals mix their notes: guitar, jazz, choirs, world music.",
+    "descZh": "",
+    "localDesc": "Chaque 21 juin, alors que la lumière s’étire jusqu’au crépuscule, la Fête de la musique transforme villes et villages en scènes ouvertes. Née en 1982 en France, cette célébration coïncide avec le solstice d’été, moment où la nature elle-même vibre au rythme du jour le plus long. Dans les rues, sous les platanes encore tièdes de soleil, amateurs et professionnels mêlent leurs notes : guitare, jazz, chorales, musiques du monde.",
+    "localLangName": "Français",
+    "descLang": "fr",
+    "quickFact": "The Music Festival was created in 1982 at the initiative of the Minister of Culture Jack Lang, with the idea of making music accessible to all.",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1080.jpg"
+  },
+  {
+    "name": "InternationalDayOfYoga2026",
+    "date": "20260621",
+    "dateFormatted": "June 21, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Colourful sky and clouds reflecting over the Ganges River, Rishikesh",
+    "copyright": "© fbxx/iStock/Getty Images",
+    "copyrightlink": "/search?q=International+Day+of+Yoga&form=hpcapt&filters=HpDate%3a%2220260620_1830%22",
+    "sourceMarket": "en-IN",
+    "desc": "At sunrise, parks around the world become giant stretching sessions as mats roll out and millions practice balance, breathing and poses that sometimes wobble more than they flow smoothly. That is the spirit of the International Day of Yoga, celebrated every year on 21 June.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_1920x1080.jpg"
+  },
+  {
+    "name": "Cesenatico",
+    "date": "20260621",
+    "dateFormatted": "June 21, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Barche a vela tradizionali, Porto Canale Leonardesco, Cesenatico, Emilia-Romagna",
+    "copyright": "© Francesco Riccardo Iacomino/Getty Images",
+    "copyrightlink": "/search?q=Porto+Canale+Leonardesco&form=hpcapt",
+    "sourceMarket": "it-IT",
+    "desc": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+    "descZh": "",
+    "localDesc": "Il Porto Canale Leonardesco è il cuore storico di Cesenatico e il luogo attorno a cui la città ha preso forma nei secoli. Nel tratto più interno conserva ancora le linee progettate nel 1502 da Leonardo da Vinci, chiamato da Cesare Borgia per migliorare l’antico approdo della città. Oggi il canale è molto più di un’opera d’ingegneria ed è anche una passeggiata tra case colorate, vecchie banchine, piazze storiche e tradizioni marinare ancora vive. Qui si trovano il Museo Galleggiante della Marineria, le antiche conserve per il pesce e le imponenti porte vinciane che proteggono il centro dalle mareggiate, ispirate proprio ai progetti di Leonardo. Tra barche storiche, riflessi sull’acqua e profumo di mare, il porto continua a essere il punto d’incontro di Cesenatico. E forse è proprio questo il suo fascino più grande e sembra ancora un luogo dove il tempo rallenta insieme alla marea.",
+    "localLangName": "Italiano",
+    "descLang": "it",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_1920x1080.jpg"
+  },
+  {
+    "name": "ArchedIceberg",
+    "date": "20260621",
+    "dateFormatted": "June 21, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean",
+    "copyright": "© Steven Kazlowski/Nature Picture Library",
+    "copyrightlink": "/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260620_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.",
+    "descZh": "在南极半岛沿岸，一道冰雕般的拱形结构从南大洋拔地而起，而南极半岛是地球上变暖速度最快的地区之一。这道拱形结构最初是由积雪压实而成，历经数千年演变为冰川。最终，冰川或漂浮冰架的一部分断裂脱落——这一过程被称为冰崩——形成了漂浮的冰山。",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "冰山在融化过程中可能因重心变化突然翻转，其释放的能量甚至足以在平静海面上掀起较大波浪。",
+    "thumb": "https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_1920x1080.jpg"
+  },
+  {
+    "name": "KielSailing",
+    "date": "20260620",
+    "dateFormatted": "June 20, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein",
+    "copyright": "© Snapshot freddy/Shutterstock",
+    "copyrightlink": "/search?q=Kieler+Woche&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
+    "sourceMarket": "de-DE",
+    "desc": "\"Let's go!\" – this is how one of the largest and most traditional sailing events in the world begins every year in Kiel: the Kiel Week. The renowned festival in Schleswig-Holstein combines international regattas with a maritime folk festival that characterises the city for nine days. Modern yachts, historic sailing ships and numerous smaller boats meet on the Kiel Fjord and determine the image of the coast.",
+    "descZh": "",
+    "localDesc": "„Leinen los!“ – so beginnt in Kiel jedes Jahr eines der größten und traditionsreichsten Segelereignisse der Welt: die Kieler Woche. Das renommierte Festival in Schleswig-Holstein verbindet internationale Regatten mit einem maritimen Volksfest, das die Stadt neun Tage lang prägt. Auf der Kieler Förde treffen moderne Yachten, historische Segelschiffe sowie zahlreiche kleinere Boote aufeinander und bestimmen das Bild der Küste.",
+    "localLangName": "Deutsch",
+    "descLang": "de",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_1920x1080.jpg"
+  },
+  {
+    "name": "JuneteenthNMAAHC",
+    "date": "20260620",
+    "dateFormatted": "June 20, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "National Museum of African American History and Culture, Washington, DC",
+    "copyright": "© Walter Bibikow/Alamy",
+    "copyrightlink": "/search?q=Juneteenth&form=hpcapt&filters=HpDate%3a%2220260619_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "Across the National Mall in Washington, DC, the National Museum of African American History and Culture rises with a striking bronze-colored exterior. This powerful landmark reflects the story of Juneteenth, a holiday marking June 19, 1865, when Union troops arrived in Galveston, Texas, and finally announced freedom for more than 250,000 enslaved people—more than two years after the Emancipation Proclamation took effect.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1080.jpg"
+  },
+  {
+    "name": "IsolaElba",
+    "date": "20260620",
+    "dateFormatted": "June 20, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy",
+    "copyright": "© StevanZZ/Getty Images",
+    "copyrightlink": "/search?q=Lighthouse+la+Rocchetta+Piombino&form=hpcapt&filters=HpDate%3a%2220260618_2300%22",
+    "sourceMarket": "en-GB",
+    "desc": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_1920x1080.jpg"
+  },
+  {
+    "name": "Saqsaywaman",
+    "date": "20260619",
+    "dateFormatted": "June 19, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
+    "copyright": "© Creative-Family/Getty Images Plus",
+    "copyrightlink": "/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260618_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas, and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 27 feet tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
+    "descZh": "萨克塞华曼（Sacsayhuamán）坐落于秘鲁库斯科的高处，通过石材展现了印加帝国的宏大雄心。这座宏伟的建筑群始建于15世纪，曾是印加帝国神圣都城的一部分。从高空俯瞰，其布局清晰呈现：梯田、开阔的广场以及塔楼遗迹，共同构成了一座经过精密规划的卫城。其中最为壮观的墙体由巨型石块砌成，至今依然屹立不倒。部分石材高度超过 27 英尺（约 8.2 米），且在未使用灰浆的情况下实现了极度精确的无缝拼接，这使得该结构历经数百年的地震仍完好无损。",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "萨克塞华曼遗址（位于库斯科，秘鲁）中最重的单体巨石重量超过 120 吨，是在完全没有使用轮式工具的情况下，仅凭人力从数英里外的采石场搬运而来的。",
+    "thumb": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_1920x1080.jpg"
+  },
+  {
+    "name": "GrandPlace",
+    "date": "20260619",
+    "dateFormatted": "June 19, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Buildings on Grand-Place Square in Brussels, Belgium",
+    "copyright": "© Vladislav Zolotov/Getty Images Plus",
+    "copyrightlink": "/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%ef%bc%9d%e3%83%97%e3%83%a9%e3%82%b9%ef%bc%88%e3%83%96%e3%83%aa%e3%83%a5%e3%83%83%e3%82%bb%e3%83%ab%ef%bc%89&form=hpcapt&filters=HpDate%3a%2220260618_1500%22",
+    "sourceMarket": "en-US",
+    "desc": "Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants, and craftsmen treated architecture as language, translating work, status, and rivalry into stone through reliefs, coats of arms, and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbors and unapologetically asymmetrical, holds the composition together.",
+    "descZh": "在比利时，很少有哪个广场能像大广场那样承载如此丰富的历史。广场周围的建筑，正如照片所示，最初都是行会会所，每座会所都由特定的行业出资兴建。酿酒师、面包师、商人和工匠们将建筑视为一种语言，通过浮雕、纹章和大量的金箔，将工作、地位和竞争关系凝结于石头之上。各种建筑风格在此交融碰撞，毫不拘束。哥特式的垂直线条与巴洛克式的曲线并肩而立，而市政厅——这座比周围建筑更古老、造型大胆不对称的建筑——则将整个建筑群和谐地连接起来。",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "布鲁塞尔大广场并非严格的正方形，而是略呈梯形，这种微妙的透视结构会产生“视觉矫正”效果，使市政厅在空间中显得更加居中与平衡。该遗址于1998年被列入联合国教科文组织世界遗产名录。",
+    "thumb": "https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_1920x1080.jpg"
+  },
+  {
+    "name": "DragonBoatFestivalY26",
+    "date": "20260619",
+    "dateFormatted": "June 19, 2026",
+    "markets": [
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "湖中的龙舟，中国",
+    "copyright": "©  Zhonghui Bao/Getty Images",
+    "copyrightlink": "/search?q=%e7%ab%af%e5%8d%88%e8%8a%82&form=hpcapt&mkt=zh-cn",
+    "sourceMarket": "zh-CN",
+    "desc": "On the ten thousand hectares of blue waves in the Chinese land, dragon boat racing has stretched for more than two thousand years. This sporting event, which is now world-renowned, is not only a game of speed and power, but also a cultural symbol deeply imprinted in the bloodlines of Chinese sons and daughters. The origin of the dragon boat varies widely, combining mythology, history and other colors, which together form the backbone of the Dragon Boat Culture.",
+    "descZh": "在华夏大地的万顷碧波上，龙舟竞渡已绵延了两千多年。这项如今享誉全球的体育活动，不仅是一场速度与力量的博弈，更是一枚深深烙印在中华儿女血脉中的文化符号。龙舟的起源众说纷纭，融汇了神话、历史等多重色彩，共同构成了端午文化的底蕴。",
+    "localDesc": "在华夏大地的万顷碧波上，龙舟竞渡已绵延了两千多年。这项如今享誉全球的体育活动，不仅是一场速度与力量的博弈，更是一枚深深烙印在中华儿女血脉中的文化符号。龙舟的起源众说纷纭，融汇了神话、历史等多重色彩，共同构成了端午文化的底蕴。",
+    "localLangName": "中文",
+    "descLang": "zh",
+    "quickFact": "Fluid dynamics principles are prominent in dragon boat racing, and its elongated hull design effectively reduces water resistance, enabling trained teams to achieve amazing sailing speeds.",
+    "quickFactZh": "流体力学原理在龙舟竞渡中表现显著，其细长的船体设计能有效减少水的阻力，使训练有素的团队能够实现惊人的航行速度。",
+    "thumb": "https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_1920x1080.jpg"
+  },
+  {
+    "name": "TremolaRoad",
+    "date": "20260618",
+    "dateFormatted": "June 18, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland",
+    "copyright": "© Sandro Bisaro/Getty Images",
+    "copyrightlink": "/search?q=Tremola+Road&form=hpcapt&filters=HpDate%3a%2220260617_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "Follow the glowing ribbon of switchbacks and you'll find one of Switzerland's most legendary drives: Tremola Road, the historic southern approach to the Saint Gotthard Pass, above Airolo. Built in the early 1800s and largely shaped by a 1951 reconstruction, this route is celebrated as Switzerland's longest monument to historic road construction. Its showstopper stretch climbs about 980 feet in just 2.5 miles, curling through 24 named hairpin bends on granite cobblestones, with sturdy retaining walls edging the way. Overall, it runs about 7 miles and features 37 bends in total. Take it slow—every curve feels like a step back in time, trading speed for sweeping mountain scenery and big views toward the upper Leventina Valley. Whether you're driving, cycling, or pulling over for photos, look for the Grand Tour of Switzerland photo spot framing those iconic zigzags.",
+    "descZh": "沿着那如丝带般盘旋的连续弯道，您将领略到瑞士最具传奇色彩的驾驶路线之一：特雷莫拉公路（Tremola Road）。它是位于艾罗洛（Airolo）上方、通往圣哥达山口（Saint Gotthard Pass）的历史悠久的南坡入口。该公路始建于 19 世纪初期，并在 1951 年的重建中基本定型，被公认为瑞士最长的历史道路建筑纪念碑。其最引人入胜的一段路程在短短 2.5 英里（约 4 公里）内爬升了约 980 英尺（约 300 米），在花岗岩鹅卵石铺就的 24 个著名发卡弯中盘旋而上，路缘筑有坚固的挡土墙。全路段长约 7 英里（约 11 公里），总计 37 个弯道。请减速慢行——每一处曲线都像是一场穿越时空的旅行，虽然牺牲了车速，却能换取壮丽的山地景观，并俯瞰上勒文蒂纳山谷（upper Leventina Valley）的广阔视野。无论您是驾驶、骑行还是停车拍照，都请留意那个以此标志性“之”字形道路为背景的“瑞士环游之路”（Grand Tour of Switzerland）摄影打卡点。",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "“特雷莫拉”一词源于意大利语“tremolare”（意为颤动），生动地描述了往昔马车在特雷莫拉公路（位于艾罗洛，瑞士）的鹅卵石路面上行驶时产生的剧烈震动。",
+    "thumb": "https://www.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_1920x1080.jpg"
+  },
+  {
+    "name": "SevenMileTurtle",
+    "date": "20260617",
+    "dateFormatted": "June 17, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Nature's reef keepers",
+    "copyright": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
+    "copyrightlink": "/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260616_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on June 16, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change, and accidental capture in fishing gear.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_1920x1080.jpg"
+  },
+  {
+    "name": "ParkEstd",
+    "date": "20260616",
+    "dateFormatted": "June 16, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Aged to scenic perfection",
+    "copyright": "Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)",
+    "copyrightlink": "/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260615_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 522,000 acres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_1920x1080.jpg"
+  },
+  {
+    "name": "FlagsMonument",
+    "date": "20260615",
+    "dateFormatted": "June 15, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "History flies high",
+    "copyright": "US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)",
+    "copyrightlink": "/search?q=US+Flag+Day&form=hpcapt&filters=HpDate%3a%2220260614_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "On June 14, the stars align—and not just figuratively. They line up on a piece of fabric that has seen battles, protests, and backyard barbecues. Flag Day marks the 1777 decision by the Second Continental Congress to adopt the national flag, but the story goes beyond stitches and stripes.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_1920x1080.jpg"
+  },
+  {
+    "name": "DuckPond",
+    "date": "20260615",
+    "dateFormatted": "June 15, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Drift and paddle",
+    "copyright": "Mallard duck (© Philippe Paternolli/Getty Images)",
+    "copyrightlink": "/search?q=Mallard+duck&form=hpcapt&filters=HpDate%3a%2220260614_0400%22",
+    "sourceMarket": "en-CA",
+    "desc": "At daybreak, the mallard glides over the still water like a brush across a canvas. Its shimmering plumage—emerald-green head in the male, speckled brown coat in the female—catches the first light. It can be seen from the marshes of the Camargue to the urban canals of Amsterdam, a faithful companion of Europe's aquatic landscapes.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.DuckPond_EN-CA5165691235_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.DuckPond_EN-CA5165691235_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.DuckPond_EN-CA5165691235_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.DuckPond_EN-CA5165691235_1920x1080.jpg"
+  },
+  {
+    "name": "SpainBeeEater",
+    "date": "20260614",
+    "dateFormatted": "June 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "A flash in flight",
+    "copyright": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+    "copyrightlink": "/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260612_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "A streak of color glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold, and chestnut shimmer across its wings as it hunts in flight, snatching insects midair with swift turns. Bees and wasps are among its favored prey, and the bird often removes the stinger before feeding—a behavior that reduces the risk of injury.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_1920x1080.jpg"
+  },
+  {
+    "name": "MainauFlowers",
+    "date": "20260614",
+    "dateFormatted": "June 14, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Die stille Kunst des Gartens",
+    "copyright": "Blumengarten auf der Insel Mainau im Bodensee, Baden-Württemberg (© toriru/Shutterstock)",
+    "copyrightlink": "/search?q=Tag+des+Gartens&form=hpcapt&filters=HpDate%3a%2220260613_2200%22",
+    "sourceMarket": "de-DE",
+    "desc": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+    "descZh": "",
+    "localDesc": "Wer durch einen gut gestalteten Garten geht, spürt sofort: Hier steckt mehr dahinter als nur schöne Blumen. Der Tag des Gartens, der am zweiten Sonntag im Juni begangen wird, lenkt den Blick gezielt auf diese stille Kunst und würdigt Orte, an denen Gestaltung, Pflege und Natur ineinandergreifen. Die Insel Mainau im Bodensee ist dafür ein besonders eindrucksvolles Beispiel. Auf der sogenannten Blumeninsel wechseln sich im Rhythmus der Jahreszeiten Farben, Formen und Düfte ab. Frühjahrsblüher gehen nahtlos in sommerliche Arrangements über, wobei jede Pflanzung sorgfältig geplant und kontinuierlich gepflegt wird. Wege und Beete geben Struktur und Orientierung, ohne die Leichtigkeit des Ortes zu stören oder zu überformen.",
+    "localLangName": "Deutsch",
+    "descLang": "de",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1080.jpg"
+  },
+  {
+    "name": "BadSunset",
+    "date": "20260614",
+    "dateFormatted": "June 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Layers of change",
+    "copyright": "Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)",
+    "copyrightlink": "/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, gray, and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash, and periods when shallow seas covered the region.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_1920x1080.jpg"
+  },
+  {
+    "name": "ValentineFrog",
+    "date": "20260613",
+    "dateFormatted": "June 13, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "hasEnglish": false,
+    "title": "Um match amazônico",
+    "copyright": "Casal de rãs-leitosas-da-amazônia, ou pererecas-de-leite (© Lauren Suryanata/Shutterstock)",
+    "copyrightlink": "/search?q=perereca-de-leite&form=hpcapt&mkt=pt-br",
+    "sourceMarket": "pt-BR",
+    "desc": "",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "Português",
+    "descLang": "pt",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_1920x1080.jpg"
+  },
+  {
+    "name": "TroopingTheColour2026",
+    "date": "20260613",
+    "dateFormatted": "June 13, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Marching to the royal beat",
+    "copyright": "Members of the Household Cavalry Mounted Regiment at Hyde Park, London (© Leon Neal/Staff/Getty Images)",
+    "copyrightlink": "/search?q=Trooping+the+Colour&form=hpcapt&filters=HpDate%3a%2220260612_2300%22",
+    "sourceMarket": "en-GB",
+    "desc": "Every June, London swaps its traffic noise for drumbeats, marching soldiers and horses trotting with clockwork precision. Trooping the Colour is the royal birthday parade where scarlet uniforms steal the spotlight and every polished boot seems to shine on cue.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.TroopingTheColour2026_EN-GB9412651820_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.TroopingTheColour2026_EN-GB9412651820_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.TroopingTheColour2026_EN-GB9412651820_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.TroopingTheColour2026_EN-GB9412651820_1920x1080.jpg"
+  },
+  {
+    "name": "HayabusaDay2026",
+    "date": "20260613",
+    "dateFormatted": "June 13, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "今日ははやぶさの日",
+    "copyright": "はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images)",
+    "copyrightlink": "/search?q=%e3%81%af%e3%82%84%e3%81%b6%e3%81%95+%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260612_1500%22",
+    "sourceMarket": "ja-JP",
+    "desc": "Today, June 13, is Hayabusa Day. Hayabusa is an asteroid probe launched by the Japan Aerospace Exploration Agency (JAXA) in 2003. I gained a lot of attention by returning to Earth on June 13, 2010 after overcoming various troubles such as loss of communication. “Hayabusa Day” is an anniversary designated in 2012 in honor of Hayabusa and the people involved in the project. In 2014, the successor aircraft “Hayabusa 2” was launched and successfully touched down to the asteroid Ryugu in 2019. Today's image shows a capsule of samples being separated from Hayabusa 2 and falling toward Earth on December 6, 2020. The mainframe is still up and running and the extended mission is ongoing.",
+    "descZh": "",
+    "localDesc": "今日、6 月 13 日は「はやぶさの日」。「はやぶさ」は、2003 年に宇宙航空研究開発機構 (JAXA) によって打ち上げられた小惑星探査機です。交信途絶などの様々なトラブルを乗り越えて、2010 年 6 月 13 日に地球へ帰還したことで大きな注目を集めました。「はやぶさの日」は、そんな「はやぶさ」とそのプロジェクトに関わった人々を称え、2012 年に認定された記念日です。2014 年には後継機「はやぶさ 2 」が打ち上げられ、2019 年に小惑星リュウグウへのタッチダウンに成功しました。今日の画像は、2020 年 12 月 6 日に、「はやぶさ 2 」からサンプルの入ったカプセルが地球へ向けて分離され、落下する様子です。本体は現在も稼働しており、拡張ミッションを継続中です。",
+    "localLangName": "日本語",
+    "descLang": "ja",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_1920x1080.jpg"
+  },
+  {
+    "name": "AltafullaTarragona",
+    "date": "20260613",
+    "dateFormatted": "June 13, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Historia en piedra viva",
+    "copyright": "Castillo de Altafulla, Tarragona (© Mario Marco/Getty Images)",
+    "copyrightlink": "/search?q=Castillo+de+Altafulla&form=hpcapt&filters=HpDate%3a%2220260612_2200%22",
+    "sourceMarket": "es-ES",
+    "desc": "Located in the historic centre of Altafulla, in the province of Tarragona, the castle of Altafulla dominates the urban landscape from a gentle elevation close to the Mediterranean. Its origin dates back to medieval times, when it fulfilled defensive and territorial control functions. Over the centuries, the fortress has undergone various transformations that have softened its military character and given way to a stately residence integrated into the municipality as a whole.",
+    "descZh": "",
+    "localDesc": "Situado en el núcleo histórico de Altafulla, en la provincia de Tarragona, el castillo de Altafulla domina el paisaje urbano desde una suave elevación cercana al Mediterráneo. Su origen se remonta a la época medieval, cuando cumplía funciones defensivas y de control del territorio. A lo largo de los siglos, la fortaleza ha experimentado diversas transformaciones que han suavizado su carácter militar y han dado paso a una residencia señorial integrada en el conjunto del municipio.",
+    "localLangName": "Español",
+    "descLang": "es",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_1920x1080.jpg"
+  },
+  {
+    "name": "Limpets",
+    "date": "20260612",
+    "dateFormatted": "June 12, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Quiet strength",
+    "copyright": "Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
+    "copyrightlink": "/search?q=Praia+da+Ursa+Portugal&form=hpcapt&filters=HpDate%3a%2220260611_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "Tucked away beneath steep cliffs near Cabo da Roca, the westernmost point of mainland Europe, Praia da Ursa feels like the edge of the continent. Reached by a narrow, rugged trail, this secluded beach along Portugal's Atlantic coast is shaped largely by wind, stone, and powerful waves. When the tide recedes, the shoreline briefly widens. Smooth rocks emerge, and with them, small signs of life. Limpets cling tightly to the exposed stone, holding fast where the ocean usually breaks.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_1920x1080.jpg"
+  },
+  {
+    "name": "Hnausapollur",
+    "date": "20260611",
+    "dateFormatted": "June 11, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "A splash of blue",
+    "copyright": "Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)",
+    "copyrightlink": "/search?q=Hnausapollur+Iceland&form=hpcapt&filters=HpDate%3a%2220260610_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "From above, the lake's smooth surface contrasts sharply with the rugged ground surrounding it. Hnausapollur crater lake—also known as Bláhylur—lies in the heart of Fjallabak Nature Reserve, a remote area of Iceland's highlands shaped more by volcanic activity than by human settlement. The crater formed when magma met groundwater, triggering an explosion that carved out the circular basin visible today.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_1920x1080.jpg"
+  },
+  {
+    "name": "FireflySeason2026",
+    "date": "20260611",
+    "dateFormatted": "June 11, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "初夏の渓流に舞う光",
+    "copyright": "蛍の光がきらめく森, 日本 (© tdub303/Getty Images)",
+    "copyrightlink": "/search?q=%e8%9b%8d%e3%81%ae%e5%85%89%e3%81%8c%e3%81%8d%e3%82%89%e3%82%81%e3%81%8f%e6%a3%ae+&form=hpcapt&filters=HpDate%3a%2220260610_1500%22",
+    "sourceMarket": "ja-JP",
+    "desc": "The streams flow quietly among the deep green trees, and from the end of May to the beginning of July, the \"Firefly Season\" arrives and the forest is filled with light. The countless fireflies fluttering and shining are fantastic landscapes, as if the stars had fallen to the ground. This examination of the light nurtured by the nature of Okinawa makes you feel the mystery of nature and the rhythm of life, bringing a quiet impression to visitors.",
+    "descZh": "",
+    "localDesc": "深い緑に包まれた木々のあいだを、小川が静かに流れています。5月末から 7 月上旬の初夏に、「蛍のシーズン」が訪れ、森はやわらかな光に満たされます。無数の蛍が舞いながら輝く様子は、まるで星が地上に降りてきたかのような幻想的な風景です。沖縄の自然が育むこの光の調べは、自然の神秘と生命のリズムを感じさせ、訪れる人々に静かな感動をもたらします。",
+    "localLangName": "日本語",
+    "descLang": "ja",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_1920x1080.jpg"
+  },
+  {
+    "name": "BOwl",
+    "date": "20260611",
+    "dateFormatted": "June 11, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "hasEnglish": false,
+    "title": "O chão como mirante",
+    "copyright": "Coruja-buraqueira em sentinela (© Wendy/Jeff Sparks/Torquemada/Getty Images)",
+    "copyrightlink": "/search?q=coruja+buraqueira&form=hpcapt&mkt=pt-br",
+    "sourceMarket": "pt-BR",
+    "desc": "",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "Português",
+    "descLang": "pt",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_1920x1080.jpg"
+  },
+  {
+    "name": "OlivaPalermo",
+    "date": "20260610",
+    "dateFormatted": "June 10, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "hasEnglish": false,
+    "title": "Santi misteri",
+    "copyright": "Palermo, Sicilia (© Sean Pavone/Getty Images)",
+    "copyrightlink": "/search?q=Palermo&form=hpcapt",
+    "sourceMarket": "it-IT",
+    "desc": "",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "Italiano",
+    "descLang": "it",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_1920x1080.jpg"
+  },
+  {
+    "name": "CTNPVernazza",
+    "date": "20260610",
+    "dateFormatted": "June 10, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "hasEnglish": true,
+    "title": "Taste the sunset",
+    "copyright": "Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)",
+    "copyrightlink": "/search?q=Vernazza+Cinque+Terre+Liguria+Italy&form=hpcapt&filters=HpDate%3a%2220260609_0700%22",
+    "sourceMarket": "en-US",
+    "desc": "Vernazza is a small seaside town in Cinque Terre, in Italy's Liguria region. Built around the area's only natural harbor, it has long been tied to the sea. First recorded in 1080 as a fortified settlement and maritime base, it later became part of the Republic of Genoa's coastal defenses. To this day, the village preserves its past in the ruins of Doria Castle and the watchtowers overlooking the bay. At the water's edge stands the Church of Santa Margherita d'Antiochia, first mentioned in 1318 and expanded in later centuries, with a bell tower overlooking the port. Above the houses and narrow lanes, steep terraces support vineyards and olive groves, shaped by generations of stonework in a landscape protected within Cinque Terre National Park, part of a UNESCO World Heritage Site. Picture an aperitivo here: a glass of local white wine, the harbor in view, and Ligurian favorites like focaccia and basil pesto—basically a postcard you can taste.",
+    "descZh": "",
+    "localDesc": "",
+    "localLangName": "",
+    "descLang": "",
+    "quickFact": "",
+    "quickFactZh": "",
+    "thumb": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_1920x1080.jpg",
+    "uhd": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg",
+    "h1200": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_1920x1200.jpg",
+    "h1080": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_1920x1080.jpg"
+  }
+];
+var ALL_MARKETS = [
+  {
+    "code": "en-US",
+    "name": "US",
+    "flag": "us"
+  },
+  {
+    "code": "en-GB",
+    "name": "UK",
+    "flag": "gb"
+  },
+  {
+    "code": "en-CA",
+    "name": "CA",
+    "flag": "ca"
+  },
+  {
+    "code": "de-DE",
+    "name": "DE",
+    "flag": "de"
+  },
+  {
+    "code": "fr-FR",
+    "name": "FR",
+    "flag": "fr"
+  },
+  {
+    "code": "it-IT",
+    "name": "IT",
+    "flag": "it"
+  },
+  {
+    "code": "es-ES",
+    "name": "ES",
+    "flag": "es"
+  },
+  {
+    "code": "pt-BR",
+    "name": "BR",
+    "flag": "br"
+  },
+  {
+    "code": "ja-JP",
+    "name": "JP",
+    "flag": "jp"
+  },
+  {
+    "code": "zh-CN",
+    "name": "CN",
+    "flag": "cn"
+  },
+  {
+    "code": "en-IN",
+    "name": "IN",
+    "flag": "in"
+  }
+];
+var app = { currentView: 'stream', currentMarket: 'all', searchQuery: '', currentImageName: null };
+
+function escapeHtml(s) { if (!s) return ''; return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+function getFilteredImages() {
+    var q = app.searchQuery.toLowerCase();
+    return ALL_IMAGES.filter(function(img) {
+        if (app.currentMarket !== 'all') {
+            var f = false;
+            for (var i = 0; i < img.markets.length; i++) { if (img.markets[i].code === app.currentMarket) { f = true; break; } }
+            if (!f) return false;
+        }
+        if (q) {
+            var t = (img.title + ' ' + img.copyright + ' ' + img.desc + ' ' + img.descZh + ' ' + img.dateFormatted).toLowerCase();
+            if (t.indexOf(q) === -1) return false;
+        }
+        return true;
+    });
+}
+
+function buildMarketFlags(markets) {
+    return markets.map(function(m) { return '<span class="fi fi-' + m.flag + '" title="' + m.name + '"></span>'; }).join(' ');
+}
+function buildMarketTagsHtml(markets) {
+    return markets.map(function(m) {
+        return '<span class="detail-market-tag"><span class="fi fi-' + m.flag + '" title="' + m.name + '"></span> ' + m.name + '</span>';
+    }).join('');
+}
+
+function renderTabs() {
+    var h = '<button class="tab-btn' + (app.currentMarket === 'all' ? ' active' : '') + '" data-market="all">All</button>';
+    ALL_MARKETS.forEach(function(m) {
+        h += '<button class="tab-btn' + (app.currentMarket === m.code ? ' active' : '') + '" data-market="' + m.code + '"><span class="fi fi-' + m.flag + '"></span> ' + m.name + '</button>';
+    });
+    document.getElementById('tabsBar').innerHTML = h;
+    document.querySelectorAll('.tab-btn').forEach(function(t) {
+        t.addEventListener('click', function() { app.currentMarket = this.getAttribute('data-market'); renderTabs(); renderCurrentView(); });
+    });
+}
+
+function renderStreamView() {
+    var imgs = getFilteredImages(), c = document.getElementById('streamList');
+    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; return; }
+    var h = '';
+    imgs.forEach(function(img) {
+        var dp = img.desc ? '<div class="stream-desc">' + escapeHtml(img.desc.substring(0, 150)) + '</div>' : '';
+        h += '<div class="stream-item" data-name="' + img.name + '">' +
+            '<div class="stream-thumb" onclick="app.navigate(`#/image/' + img.name + '`)"><img src="' + img.thumb + '" alt="' + escapeHtml(img.title) + '" loading="lazy" /></div>' +
+            '<div class="stream-info"><div class="stream-date">' + img.dateFormatted + '</div>' +
+            '<div class="stream-title" onclick="app.navigate(`#/image/' + img.name + '`)">' + escapeHtml(img.title) + '</div>' +
+            dp + '<div class="stream-copyright">' + escapeHtml(img.copyright) + '</div>' +
+            '<div class="stream-downloads"><a href="' + img.uhd + '" class="dl-btn uhd-btn" target="_blank" onclick="event.stopPropagation()">UHD</a><a href="' + img.h1200 + '" class="dl-btn h1200-btn" target="_blank" onclick="event.stopPropagation()">1920x1200</a></div>' +
+            '<div class="stream-markets">' + buildMarketFlags(img.markets) + '</div></div></div>';
+    });
+    c.innerHTML = h;
+}
+
+function renderCardView() {
+    var imgs = getFilteredImages(), c = document.getElementById('cardGrid');
+    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; return; }
+    var h = '';
+    imgs.forEach(function(img) {
+        var dp = img.desc ? '<div class="card-desc">' + escapeHtml(img.desc.substring(0, 120)) + '</div>' : '';
+        h += '<div class="card" data-name="' + img.name + '">' +
+            '<div class="card-image" onclick="app.navigate(`#/image/' + img.name + '`)"><img src="' + img.thumb + '" alt="' + escapeHtml(img.title) + '" loading="lazy" /></div>' +
+            '<div class="card-body"><div class="card-title" onclick="app.navigate(`#/image/' + img.name + '`)">' + escapeHtml(img.title) + '</div>' +
+            dp + '<div class="card-date">' + img.dateFormatted + '</div><div class="card-copyright">' + escapeHtml(img.copyright) + '</div>' +
+            '<div class="card-downloads"><a href="' + img.uhd + '" class="dl-btn uhd-btn" target="_blank" onclick="event.stopPropagation()">UHD</a><a href="' + img.h1200 + '" class="dl-btn h1200-btn" target="_blank" onclick="event.stopPropagation()">1920x1200</a></div>' +
+            '<div class="card-markets">' + buildMarketFlags(img.markets) + '</div></div></div>';
+    });
+    c.innerHTML = h;
+}
+
+function renderDetailView(imageName) {
+    var img = null;
+    for (var i = 0; i < ALL_IMAGES.length; i++) { if (ALL_IMAGES[i].name === imageName) { img = ALL_IMAGES[i]; break; } }
+    if (!img) { document.getElementById('detailContent').innerHTML = '<div class="no-results">Image not found.</div>'; return; }
+
+    var bingBtn = img.copyrightlink ? '<a href="' + escapeHtml(img.copyrightlink) + '" class="detail-dl-btn search-btn" target="_blank">&#128269; Search on Bing</a>' : '';
+
+    var contentHtml = '';
+
+    // Local language section (for non-English exclusives)
+    if (img.localDesc && img.localLangName) {
+        contentHtml += '<div class="local-desc-box">';
+        contentHtml += '<div class="lang-label lang-local">' + img.localLangName + '</div><br>';
+        contentHtml += '<div class="desc-text">' + escapeHtml(img.localDesc) + '</div>';
+        contentHtml += '</div>';
+    }
+
+    // Primary description section
+    if (img.desc) {
+        contentHtml += '<div class="desc-section">';
+        if (img.hasEnglish) {
+            contentHtml += '<div class="lang-label lang-en">English</div><br>';
+        } else {
+            var langMap = {"de":"Deutsch","fr":"Français","it":"Italiano","es":"Español","pt":"Português","ja":"日本語","zh":"中文","en":"English"};
+            var langName = langMap[img.descLang] || img.descLang || "English";
+            contentHtml += '<div class="lang-label lang-local">' + langName + '</div><br>';
+        }
+        contentHtml += '<div class="desc-text">' + escapeHtml(img.desc) + '</div>';
+        if (img.quickFact) {
+            contentHtml += '<div class="quick-fact-box">';
+            contentHtml += '<div class="quick-fact-label">&#128161; Did You Know</div><br>';
+            contentHtml += '<div class="quick-fact-text">' + escapeHtml(img.quickFact) + '</div>';
+            contentHtml += '</div>';
+        }
+        contentHtml += '</div>';
+    }
+
+    // Chinese section
+    if (img.descZh) {
+        contentHtml += '<div class="desc-section">';
+        contentHtml += '<div class="lang-label lang-zh">&#20013;&#25991;</div><br>';
+        contentHtml += '<div class="desc-text-zh">' + escapeHtml(img.descZh) + '</div>';
+        if (img.quickFactZh) {
+            contentHtml += '<div class="quick-fact-box-zh">';
+            contentHtml += '<div class="quick-fact-label-zh">&#128161; &#20320;&#30693;&#36947;&#21527;&#65311;</div><br>';
+            contentHtml += '<div class="quick-fact-text">' + escapeHtml(img.quickFactZh) + '</div>';
+            contentHtml += '</div>';
+        }
+        contentHtml += '</div>';
+    }
+
+    var html =
+        '<a class="detail-back" onclick="app.navigate(`#/`)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:6px;flex-shrink:0"><path d="M15 18l-6-6 6-6"/></svg>Return to Gallery</a>' +
+        '<div class="detail-image-wrap"><img src="' + img.h1080 + '" alt="' + escapeHtml(img.title) + '" /></div>' +
+        '<div class="detail-info"><div class="detail-title">' + escapeHtml(img.title) + '</div>' +
+        '<div class="detail-date">' + img.dateFormatted + '</div>' +
+        '<div class="detail-copyright">' + escapeHtml(img.copyright) + '</div>' +
+        contentHtml +
+        '<div class="detail-downloads">' +
+        '<a href="' + img.uhd + '" class="detail-dl-btn uhd-btn" target="_blank">UHD</a>' +
+        '<a href="' + img.h1200 + '" class="detail-dl-btn h1200-btn" target="_blank">1920x1200</a>' +
+        '<a href="' + img.h1080 + '" class="detail-dl-btn h1080-btn" target="_blank">1920x1080</a>' +
+        bingBtn + '</div>' +
+        '<div class="detail-markets-section"><div class="detail-markets-label">Appears in:</div>' +
+        '<div class="detail-markets-list">' + buildMarketTagsHtml(img.markets) + '</div></div></div>';
+
+    document.getElementById('detailContent').innerHTML = html;
+}
+
+function showView(v) {
+    document.getElementById('streamView').classList.toggle('view-hidden', v !== 'stream');
+    document.getElementById('cardView').classList.toggle('view-hidden', v !== 'card');
+    document.getElementById('detailView').classList.toggle('view-hidden', v !== 'detail');
+    var s = v !== 'detail';
+    document.getElementById('tabsContainer').style.display = s ? '' : 'none';
+    document.querySelector('.update-time').style.display = s ? '' : 'none';
+    document.getElementById('viewToggle').style.display = s ? '' : 'none';
+    app.currentView = v;
+}
+function renderCurrentView() {
+    if (app.currentView === 'stream') renderStreamView();
+    else if (app.currentView === 'card') renderCardView();
+    else renderDetailView(app.currentImageName);
+}
+
+app.navigate = function(p) { window.location.hash = p; };
+function handleRoute() {
+    var h = window.location.hash || '#/';
+    if (h.indexOf('#/image/') === 0) {
+        app.currentImageName = h.replace('#/image/', '');
+        showView('detail'); renderDetailView(app.currentImageName); window.scrollTo(0, 0);
+    } else {
+        app.currentImageName = null;
+        showView(app.currentView === 'detail' ? 'stream' : app.currentView);
+        renderCurrentView();
+    }
+}
+
+(function init() {
+    renderTabs();
+    document.getElementById('streamBtn').addEventListener('click', function() {
+        app.currentView = 'stream'; this.classList.add('active');
+        document.getElementById('cardBtn').classList.remove('active');
+        showView('stream'); renderStreamView();
+    });
+    document.getElementById('cardBtn').addEventListener('click', function() {
+        app.currentView = 'card'; this.classList.add('active');
+        document.getElementById('streamBtn').classList.remove('active');
+        showView('card'); renderCardView();
+    });
+    document.getElementById('searchBox').addEventListener('input', function() {
+        app.searchQuery = this.value;
+        if (app.searchQuery) { app.currentMarket = 'all'; renderTabs(); }
+        renderCurrentView();
+    });
+    window.addEventListener('hashchange', handleRoute);
+    handleRoute(); renderStreamView(); renderCardView();
+})();
+</script>
+</body>
+</html>
