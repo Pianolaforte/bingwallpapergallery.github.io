@@ -1,55 +1,81 @@
-name: Auto Update Wallpapers Daily
+name: Bing Daily Wallpaper Gallery
 
 on:
   schedule:
-    # 北京时间早 8 点 = UTC 0 点 (因为北京时间 UTC+8)
-    - cron: '0 0 * * *'
-  # 也可以手动触发
-  workflow_dispatch:
+    # 每天北京时间 8:30 (UTC 0:30)
+    - cron: '30 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  update:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    name: Update Bing Wallpapers
-    
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
+          fetch-depth: 0
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
-      - name: Install dependencies
+
+      - name: Generate Gallery HTML
+        run: python bing_gallery_github.py
+
+      - name: Validate Output
+        id: validate
         run: |
-          pip install requests beautifulsoup4
-      
-      - name: Fetch wallpapers and update HTML
+          python -c "
+          import json, re, os, sys
+          with open('index.html', 'r', encoding='utf-8') as f:
+              html = f.read()
+          match = re.search(r'var ALL_IMAGES\s*=\s*(\[[\s\S]*?\]);', html)
+          if not match:
+              print('ERROR: ALL_IMAGES not found')
+              sys.exit(1)
+          imgs = json.loads(match.group(1), strict=False)
+          total = len(imgs)
+          empty_desc = sum(1 for i in imgs if not i.get('desc',''))
+          short_desc = sum(1 for i in imgs if 0 < len(i.get('desc','')) < 200)
+          file_size = os.path.getsize('index.html')
+          max_empty = max(2, int(total * 0.1))
+          max_trunc = max(3, int(total * 0.1))
+          print(f'壁纸总数: {total}')
+          print(f'空描述: {empty_desc} (<= {max_empty})')
+          print(f'截断描述: {short_desc} (<= {max_trunc})')
+          print(f'文件大小: {file_size/1024:.1f} KB')
+          if total < 28 or empty_desc > max_empty or short_desc > max_trunc or file_size < 50000:
+              print('校对失败！')
+              sys.exit(1)
+          print('校对通过！')
+          "
+
+      - name: Generate Supplement (if validation passed)
+        if: success()
+        run: python bing_gallery_github.py --supplement || true
+
+      - name: Commit and Push
         run: |
-          python scripts/update_wallpapers.py
-      
-      - name: Check if changes exist
-        id: verify_changes
-        run: |
-          if git diff --quiet index.html; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html .bing_cache.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
           else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
+            git commit -m "Daily update: $(date -u '+%Y-%m-%d') Bing Wallpaper Gallery"
+            git push
           fi
-      
-      - name: Commit and push changes
-        if: steps.verify_changes.outputs.has_changes == 'true'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
-          git add index.html
-          git commit -m "🎨 Auto update wallpapers - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-          git push
-      
-      - name: No changes to commit
-        if: steps.verify_changes.outputs.has_changes == 'false'
-        run: |
-          echo "✅ No new wallpapers, index.html is up to date"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          keep_files: true
