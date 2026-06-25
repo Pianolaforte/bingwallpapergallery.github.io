@@ -25,6 +25,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Create .nojekyll for GitHub Pages
+        run: touch .nojekyll
+
       - name: Generate Gallery HTML
         run: python bing_gallery_github.py
 
@@ -60,11 +63,11 @@ jobs:
         if: success()
         run: python bing_gallery_github.py --supplement || true
 
-      - name: Commit and Push
+      - name: Commit and Push to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html .bing_cache.json
+          git add index.html .bing_cache.json .nojekyll
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -78,4 +81,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           publish_branch: gh-pages
-          keep_files: true
+          keep_files: false
+          force_orphan: true
