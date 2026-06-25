@@ -29,7 +29,7 @@ jobs:
         run: touch .nojekyll
 
       - name: Run Python script
-        run: python .github/workflows/scripts/bing_gallery_github.py
+        run: python bing_gallery_github.py
 
       - name: Validate Output
         id: validate
