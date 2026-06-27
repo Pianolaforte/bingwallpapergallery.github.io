@@ -1,4 +1,137 @@
 {
+  "ThamesSummer": {
+    "name": "ThamesSummer",
+    "urlbase": "/th?id=OHR.ThamesSummer_EN-US6783349970",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Current affairs. The River Thames, London, England",
+      "en-GB": "Current affairs. The River Thames, London",
+      "en-CA": "Current affairs. The River Thames, London, England",
+      "de-DE": "Die Stadt im Fluss der Zeit. Themse, London, England",
+      "fr-FR": "On se la coule douce. La Tamise, Londres, Angleterre",
+      "it-IT": "Attualità",
+      "es-ES": "Recorriendo la actualidad. Río Támesis, Londres, Inglaterra",
+      "ja-JP": "活気あふれる川沿いの街並み",
+      "zh-CN": "时事",
+      "en-IN": "Current affairs. The River Thames, London, England"
+    },
+    "copyrights": {
+      "en-US": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+      "en-GB": "The River Thames, London (© Daniel Lange/Getty Images)",
+      "en-CA": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+      "de-DE": "Themse, London, England (© Daniel Lange/Getty Images)",
+      "fr-FR": "La Tamise, Londres, Angleterre (© Daniel Lange/Getty Images)",
+      "it-IT": "Il fiume Tamigi, Londra, Inghilterra (© Daniel Lange/Getty Images)",
+      "es-ES": "El río Támesis, Londres, Inglaterra (© Daniel Lange/Getty Images)",
+      "ja-JP": "テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)",
+      "zh-CN": "泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)",
+      "en-IN": "The River Thames, London, England (© Daniel Lange/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower, and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "en-GB": "Current affairs. The River Thames, London. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "en-CA": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "de-DE": "Entlang der Themse in London entfaltet sich eine der bekanntesten Stadtsilhouetten Europas, geprägt von Geschichte, Bewegung und einem stetigen Rhythmus. Boote gleiten ruhig vorbei, während Brücken das Bild strukturieren und verschiedene Viertel miteinander verbinden. Tagsüber spiegelt das Wasser graue Wolken und gläserne Fassaden, nachts tauchen Lichter alles in ein warmes Leuchten. Besucher und Einheimische folgen oft ihrem Verlauf, entdecken historische Gebäude und genießen die besondere Atmosphäre zwischen Tradition und Moderne. Big Ben und das London Eye prägen diese Ansicht.",
+      "fr-FR": "Qu'ont en commun un parlement, une tour horloge et une immense roue ? Tous se dressent le long de la Tamise, comme si Londres avait soigneusement disposé ses monuments emblématiques pour créer un décor spectaculaire.",
+      "es-ES": "En Londres, Reino Unido, el río Támesis reúne algunos de los iconos más reconocibles de Europa en una escena casi cinematográfica. A un lado, el Palacio de Westminster—reconstruido tras el incendio de 1834 en estilo neogótico—marca el pulso político del país, mientras la torre Elizabeth guarda en su interior la campana del Big Ben, cuyas horas resuenan desde 1859. Frente a él, la silueta moderna del London Eye aporta una mirada tranquila y elevada sobre la ciudad.",
+      "ja-JP": "活気あふれる川沿いの街並み. テムズ川, イングランド ロンドン. イングランド南部を流れるテムズ川は、古代から交通・交易・軍事などの要所とされていました。全長は 346km で、川沿いにはローマ時代や中世の名残が見られます。ロンドン市街を流れる区間には、タワーブリッジや、世界遺産のウェストミンスター宮殿といった建築物が立ち並んでおり、ロンドンの観光名所として知られています。",
+      "en-IN": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "it-IT": "Attualità. Il fiume Tamigi, Londra, Inghilterra. Sul Tamigi, a Londra, le icone sembrano disposte come su un palcoscenico, dove storia e architettura dialogano con sorprendente armonia.",
+      "zh-CN": "时事. 泰晤士河, 伦敦, 英格兰. 议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。"
+    },
+    "quickFacts": {
+      "zh-CN": "泰晤士河防洪闸于1984年建成，是世界上规模最大的可移动防洪设施之一，用于保护伦敦免受北海风暴潮引发的洪水威胁。"
+    },
+    "captions": {
+      "en-US": "The River Thames, London, England",
+      "en-GB": "The River Thames, London",
+      "en-CA": "The River Thames, London, England",
+      "de-DE": "Themse, London, England",
+      "fr-FR": "La Tamise, Londres, Angleterre",
+      "it-IT": "",
+      "es-ES": "Río Támesis, Londres, Inglaterra",
+      "ja-JP": "活気あふれる川沿いの街並み",
+      "zh-CN": "",
+      "en-IN": "The River Thames, London, England"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260626_0700%22",
+      "en-GB": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260625_2300%22",
+      "en-CA": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260626_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Themse&form=hpcapt&filters=HpDate%3a%2220260625_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Fleuve+Tamise&form=hpcapt&filters=HpDate%3a%2220260625_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Tamigi+Londra&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Londres+ciudad&form=hpcapt&filters=HpDate%3a%2220260625_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%86%e3%83%a0%e3%82%ba%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220260625_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b3%b0%e6%99%a4%e5%a3%ab%e6%b2%b3&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260625_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ThamesSummer_EN-US6783349970",
+      "en-GB": "/th?id=OHR.ThamesSummer_EN-GB9133126004",
+      "en-CA": "/th?id=OHR.ThamesSummer_EN-CA4092680642",
+      "de-DE": "/th?id=OHR.ThamesSummer_DE-DE5848189110",
+      "fr-FR": "/th?id=OHR.ThamesSummer_FR-FR5709336854",
+      "it-IT": "/th?id=OHR.ThamesSummer_IT-IT7472747077",
+      "es-ES": "/th?id=OHR.ThamesSummer_ES-ES8043595451",
+      "ja-JP": "/th?id=OHR.ThamesSummer_JA-JP5302199333",
+      "zh-CN": "/th?id=OHR.ThamesSummer_ZH-CN5292532714",
+      "en-IN": "/th?id=OHR.ThamesSummer_EN-IN8289570374"
+    }
+  },
   "GrandPlace": {
     "name": "GrandPlace",
     "urlbase": "/th?id=OHR.GrandPlace_EN-US6561229456",
@@ -1443,132 +1576,69 @@
         "flag": "gb"
       },
       {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Layers of change. Sunset in Badlands National Park, South Dakota",
       "en-GB": "Layers of change. Badlands National Park, South Dakota, United States",
+      "ja-JP": "夕焼けに染まる層をなす岩の景観",
       "en-CA": "Layers of change. Sunset in Badlands National Park, South Dakota, United States",
       "de-DE": "Schichten des Wandels. Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA",
       "fr-FR": "Au fil du temps. Parc national des Badlands, Dakota du Sud, États-Unis",
       "it-IT": "Terre di cenere",
-      "ja-JP": "夕焼けに染まる層をなす岩の景観",
       "zh-CN": "岁月的层峦",
       "en-IN": "Layers of change. Badlands National Park, South Dakota, United States"
     },
     "copyrights": {
       "en-US": "Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)",
       "en-GB": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
+      "ja-JP": "バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)",
       "en-CA": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
       "de-DE": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA (© Troy Harrison/Getty Images)",
       "fr-FR": "Coucher de soleil au parc national des Badlands, Dakota du Sud, États-Unis (© Troy Harrison/Getty Images)",
       "it-IT": "Parco nazionale delle Badlands, South Dakota, USA (© Troy Harrison/Getty Images)",
-      "ja-JP": "バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)",
       "zh-CN": "落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)",
       "en-IN": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)"
     },
     "descs": {
       "en-US": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, gray, and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash, and periods when shallow seas covered the region.",
       "en-GB": "Layered ridges stretch across Badlands National Park in South Dakota, United States. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region.",
+      "ja-JP": "ここは、米国サウスダコタ州に位置するバッドランズ国立公園。面積約 980km² の広大な敷地には、水と風の浸食によって長い年月をかけて形成された崖や峡谷、そそり立つ尖峰など、独特の地形が広がっています。化石の宝庫としても知られており、荒涼とした地表の下には、3400 万年前から 2500 万年前に生きていた哺乳類の化石が多く確認されています。また、公園の周囲に広がる草原には、バイソン、ビッグホーン、プレーリードッグなどの野生動物が多数生息しています。",
       "en-CA": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region.",
       "de-DE": "Wenn die Sonne über dem Badlands-Nationalpark in South Dakota, USA, untergeht, erstrahlen die zerfurchten Hügel in Rosé, Ocker und Aschegrau. Im Abendlicht wirken die Kanten fast wie gemalt, und die Schatten zeichnen jede Falte nach. Die Schichtbänder ähneln einem aufgeschlagenen Gesteinsbuch: Sedimente lagerten sich einst in einem flachen Binnenmeer ab und bauten sich über Millionen Jahre wie ein Schichtkuchen auf, bevor Wind und Wasser die weichen Lagen wieder freilegten.",
       "fr-FR": "Dans le Dakota du Sud, aux États-Unis, les Badlands déploient un paysage sculpté par le temps. Des crêtes stratifiées ondulent à perte de vue, mêlant roses poudrés, gris cendrés et ors brûlés, dont les nuances évoluent avec la lumière. Ici, le vent et l’eau poursuivent une lente œuvre d’érosion, grignotant les roches sédimentaires et révélant, couche après couche, près de 75 millions d’années d’histoire géologique.",
-      "ja-JP": "ここは、米国サウスダコタ州に位置するバッドランズ国立公園。面積約 980km² の広大な敷地には、水と風の浸食によって長い年月をかけて形成された崖や峡谷、そそり立つ尖峰など、独特の地形が広がっています。化石の宝庫としても知られており、荒涼とした地表の下には、3400 万年前から 2500 万年前に生きていた哺乳類の化石が多く確認されています。また、公園の周囲に広がる草原には、バイソン、ビッグホーン、プレーリードッグなどの野生動物が多数生息しています。",
       "en-IN": "Layered ridges stretch across Badlands National Park in South Dakota, United States. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region."
     },
     "quickFacts": {},
     "captions": {
       "en-US": "Sunset in Badlands National Park, South Dakota",
       "en-GB": "Badlands National Park, South Dakota, United States",
-      "en-CA": "Sunset in Badlands National Park, South Dakota, United States",
-      "de-DE": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA",
-      "fr-FR": "Parc national des Badlands, Dakota du Sud, États-Unis",
-      "it-IT": "",
-      "ja-JP": "夕焼けに染まる層をなす岩の景観",
-      "zh-CN": "",
-      "en-IN": "Badlands National Park, South Dakota, United States"
+      "ja-JP": "夕焼けに染まる層をなす岩の景観"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_0700%22",
       "en-GB": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Badlands-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260612_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=parc+national+des+Badlands&form=hpcapt&filters=HpDate%3a%2220260612_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+delle+Badlands&form=hpcapt",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%83%a9%e3%83%b3%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260613_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%81%b6%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260612_1830%22"
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%83%a9%e3%83%b3%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260613_1500%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.BadSunset_EN-US5981956630",
       "en-GB": "/th?id=OHR.BadSunset_EN-GB9659525576",
-      "en-CA": "/th?id=OHR.BadSunset_EN-CA4785183991",
-      "de-DE": "/th?id=OHR.BadSunset_DE-DE9498581527",
-      "fr-FR": "/th?id=OHR.BadSunset_FR-FR8337431465",
-      "it-IT": "/th?id=OHR.BadSunset_IT-IT7610700468",
-      "ja-JP": "/th?id=OHR.BadSunset_JA-JP5960860484",
-      "zh-CN": "/th?id=OHR.BadSunset_ZH-CN9050997938",
-      "en-IN": "/th?id=OHR.BadSunset_EN-IN7356808062"
+      "ja-JP": "/th?id=OHR.BadSunset_JA-JP5960860484"
     }
   },
-  "SpainBeeEater": {
-    "name": "SpainBeeEater",
-    "urlbase": "/th?id=OHR.SpainBeeEater_EN-US5920719155",
-    "date": "20260612",
-    "dateFormatted": "June 12, 2026",
+  "BoneyardBeach": {
+    "name": "BoneyardBeach",
+    "urlbase": "/th?id=OHR.BoneyardBeach_EN-GB1157661849",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
     "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
       },
       {
         "code": "fr-FR",
@@ -1591,80 +1661,78 @@
         "flag": "br"
       },
       {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
         "code": "en-IN",
         "name": "IN",
         "flag": "in"
       }
     ],
     "titles": {
-      "en-US": "A flash in flight. European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
-      "en-GB": "A flash in flight. European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain",
-      "en-CA": "A flash in flight. European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
-      "de-DE": "Farben in Bewegung. Naturpark Sierra de Grazalema, Cádiz, Spanien",
-      "fr-FR": "Comme un éclair de couleurs. Guêpier d’Europe, Sierra de Grazalema, Cadix, Espagne",
-      "it-IT": "Scia di colore",
-      "es-ES": "Un destello en pleno vuelo. Abejaruco europeo, parque natural Sierra de Grazalema, Cádiz",
-      "pt-BR": "O arco-íris ganhou asas",
-      "en-IN": "A flash in flight. European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain",
-      "ja-JP": "野の花をかすめる色鮮やかな鳥",
-      "zh-CN": "惊鸿一瞥"
+      "en-GB": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
+      "fr-FR": "Perdre pied. Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
+      "it-IT": "Gli alberi che hanno perso terreno",
+      "es-ES": "Los árboles que perdieron terreno. Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
+      "pt-BR": "A floresta que o mar redesenhou",
+      "zh-CN": "逐渐失去立足之地的树木",
+      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
+      "en-US": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina",
+      "ja-JP": "夕焼けに染まる水辺と枯れ木. ボニーヤード・ビーチ, 米国 サウスカロライナ州"
     },
     "copyrights": {
-      "en-US": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
-      "en-GB": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
-      "en-CA": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
-      "de-DE": "Europäischer Bienenfresser im Naturpark Sierra de Grazalema, Cádiz, Spanien (© Andres M. Dominguez/Nature Picture Library)",
-      "fr-FR": "Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne (© Andres M. Dominguez/Nature Picture Library)",
-      "it-IT": "Gruccione comune, parco naturale della Sierra de Grazalema, Spagna (© Andres M. Dominguez/Nature Picture Library)",
-      "es-ES": "Abejaruco europeo en el parque natural de la Sierra de Grazalema, Cádiz (© Andres M. Dominguez/Nature Picture Library)",
-      "pt-BR": "Abelharuco no Parque Natural Sierra de Grazalema, Cádiz, Espanha (© Andres M. Dominguez/Nature Picture Library)",
-      "en-IN": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
-      "ja-JP": "ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library)",
-      "zh-CN": "黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)"
+      "en-GB": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+      "fr-FR": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
+      "it-IT": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
+      "es-ES": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
+      "pt-BR": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
+      "zh-CN": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
+      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+      "en-US": "© Frances/Adobe Stock",
+      "ja-JP": "© Frances/Adobe Stock"
     },
     "descs": {
-      "en-US": "A streak of color glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold, and chestnut shimmer across its wings as it hunts in flight, snatching insects midair with swift turns. Bees and wasps are among its favored prey, and the bird often removes the stinger before feeding—a behavior that reduces the risk of injury.",
-      "en-GB": "A streak of colour glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold and chestnut shimmer across its wings as it hunts in flight, snatching insects mid-air with swift turns. Bees and wasps are among its favoured prey, and the bird often removes the stinger before feeding—a behaviour that reduces the risk of injury.",
-      "en-CA": "A streak of colour glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold and chestnut shimmer across its wings as it hunts in flight, snatching insects mid-air with swift turns. Bees and wasps are among its favoured prey, and the bird often removes the stinger before feeding—a behaviour that reduces the risk of injury.",
-      "de-DE": "Ein leuchtender Farbklecks in der Landschaft – und schon ist er wieder weg. Kaum ein Vogel zieht mit seinem schillernden Gefieder so schnell die Blicke auf sich wie der Europäische Bienenfresser, der mit wendigem, leichtem Flug durch die Luft gleitet. Er zählt zu den faszinierendsten Sommergästen Europas. Während der Jagd fängt er Insekten wie Bienen oder Wespen direkt aus der Luft. Bevor er sie frisst, entfernt er mit erstaunlicher Präzision deren Stachel – eine spezialisierte Technik eines erfahrenen Jägers.",
-      "fr-FR": "Un éclair de couleurs fend l’air au-dessus des prairies fleuries : le guêpier d’Europe surgit, agile et lumineux. Turquoise éclatant, or et brun profond se mêlent sur ses ailes alors qu’il chasse en plein vol, capturant des abeilles et des guêpes avec une précision fulgurante. Avant de se nourrir, il ôte le dard — un geste appris, comme un rituel révélant son étonnante intelligence.",
-      "es-ES": "En el parque natural de la Sierra de Grazalema, en Cádiz, el abejaruco europeo ofrece un espectáculo de color difícil de olvidar. Esta ave migratoria surca los cielos con destellos verdes, azules y ocres que brillan al sol. Suele posarse en ramas o cables desde donde observa con atención el vuelo de insectos, especialmente abejas, su alimento preferido.",
-      "en-IN": "A streak of colour glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold and chestnut shimmer across its wings as it hunts in flight, snatching insects mid-air with swift turns. Bees and wasps are among its favoured prey, and the bird often removes the stinger before feeding—a behaviour that reduces the risk of injury.",
-      "ja-JP": "今日の画像は、茶、黄、青、緑とカラフルな羽色が目を引くヨーロッパハチクイ。その名の通りハチ類を主に食べる鳥です。飛行中のハチを空中で巧みに捕らえ、地面などに打ちつけて毒針を抜いて食べており、1 日に約 250 匹のミツバチを捕食することもあります。渡り鳥であり、南ヨーロッパや北アフリカ・西アジアの一部で繁殖し、冬はアフリカの熱帯地域で過ごします。"
+      "en-GB": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "fr-FR": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
+      "es-ES": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
+      "en-IN": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "en-US": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
+      "it-IT": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
+      "pt-BR": "A floresta que o mar redesenhou. Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos. A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
+      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
+      "zh-CN": "逐渐失去立足之地的树木. 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国. 在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。"
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "zh-CN": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
+    },
     "captions": {
-      "en-US": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
-      "en-GB": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain",
-      "en-CA": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
-      "de-DE": "Naturpark Sierra de Grazalema, Cádiz, Spanien",
-      "fr-FR": "Guêpier d’Europe, Sierra de Grazalema, Cadix, Espagne",
+      "en-GB": "Boneyard Beach, Hunting Island, South Carolina, United States",
+      "fr-FR": "Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
       "it-IT": "",
-      "es-ES": "Abejaruco europeo, parque natural Sierra de Grazalema, Cádiz",
+      "es-ES": "Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
       "pt-BR": "",
-      "en-IN": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain"
+      "zh-CN": "",
+      "en-IN": "Boneyard Beach, Hunting Island, South Carolina, United States"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260612_0700%22",
-      "en-GB": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260611_2300%22",
-      "en-CA": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260612_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Europ%c3%a4ischer+Bienenfresser&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=gu%c3%aapier+d%e2%80%99Europe&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Gruccione+comune&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Abejaruco+europeo&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=abelharuco&form=hpcapt&mkt=pt-br",
-      "en-IN": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260611_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=%c3%aele+de+Hunting&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Hunting+Island+Carolina+del+Sud%2c+USA&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=carolina+del+sur&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Carolina+do+Sul&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e4%ba%a8%e5%bb%b7%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.SpainBeeEater_EN-US5920719155",
-      "en-GB": "/th?id=OHR.SpainBeeEater_EN-GB0400736039",
-      "en-CA": "/th?id=OHR.SpainBeeEater_EN-CA4532177883",
-      "de-DE": "/th?id=OHR.SpainBeeEater_DE-DE9310458421",
-      "fr-FR": "/th?id=OHR.SpainBeeEater_FR-FR5420456430",
-      "it-IT": "/th?id=OHR.SpainBeeEater_IT-IT9615288576",
-      "es-ES": "/th?id=OHR.SpainBeeEater_ES-ES8052156644",
-      "pt-BR": "/th?id=OHR.SpainBeeEater_PT-BR8358258406",
-      "en-IN": "/th?id=OHR.SpainBeeEater_EN-IN7232456385"
+      "en-GB": "/th?id=OHR.BoneyardBeach_EN-GB1157661849",
+      "fr-FR": "/th?id=OHR.BoneyardBeach_FR-FR6517949092",
+      "it-IT": "/th?id=OHR.BoneyardBeach_IT-IT9837372965",
+      "es-ES": "/th?id=OHR.BoneyardBeach_ES-ES1143251949",
+      "pt-BR": "/th?id=OHR.BoneyardBeach_PT-BR8811510135",
+      "zh-CN": "/th?id=OHR.BoneyardBeach_ZH-CN5540590570",
+      "en-IN": "/th?id=OHR.BoneyardBeach_EN-IN2656634065"
     }
   },
   "IsolaElba": {
@@ -1776,36 +1844,36 @@
       "en-IN": "/th?id=OHR.IsolaElba_EN-IN7931152562"
     }
   },
-  "TroopingTheColour2026": {
-    "name": "TroopingTheColour2026",
-    "urlbase": "/th?id=OHR.TroopingTheColour2026_EN-GB9412651820",
-    "date": "20260612",
-    "dateFormatted": "June 12, 2026",
+  "MulticulturalismDY": {
+    "name": "MulticulturalismDY",
+    "urlbase": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353",
+    "date": "20260627",
+    "dateFormatted": "June 27, 2026",
     "markets": [
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
       }
     ],
     "titles": {
-      "en-GB": "Marching to the royal beat. Trooping the Colour"
+      "en-CA": "Many voices, one country. Canadian Multiculturalism Day"
     },
     "copyrights": {
-      "en-GB": "Members of the Household Cavalry Mounted Regiment at Hyde Park, London (© Leon Neal/Staff/Getty Images)"
+      "en-CA": "Dramatic sky over Montreal, Quebec (© d3sign/Getty Images)"
     },
     "descs": {
-      "en-GB": "Every June, London swaps its traffic noise for drumbeats, marching soldiers and horses trotting with clockwork precision. Trooping the Colour is the royal birthday parade where scarlet uniforms steal the spotlight and every polished boot seems to shine on cue."
+      "en-CA": "Imagine standing beneath Montreal's dramatic sky on a balmy June evening. Around you, conversations switch between French, English, Mandarin, Tagalog and many other languages. A family shares a traditional dish, musicians perform songs from different cultures, and children get to hear folklore passed down through generations. That scene captures the spirit of Canadian Multiculturalism Day."
     },
     "quickFacts": {},
     "captions": {
-      "en-GB": "Trooping the Colour"
+      "en-CA": "Canadian Multiculturalism Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Trooping+the+Colour&form=hpcapt&filters=HpDate%3a%2220260612_2300%22"
+      "en-CA": "https://www.bing.com/search?q=Multiculturalism+Day+Canada&form=hpcapt&filters=HpDate%3a%2220260627_0400%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.TroopingTheColour2026_EN-GB9412651820"
+      "en-CA": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353"
     }
   },
   "IndigenousMaple": {
@@ -1946,6 +2014,38 @@
       "pt-BR": "/th?id=OHR.DuckPond_PT-BR2199019099",
       "zh-CN": "/th?id=OHR.DuckPond_ZH-CN1683101997",
       "en-IN": "/th?id=OHR.DuckPond_EN-IN7848254317"
+    }
+  },
+  "Westerheversand": {
+    "name": "Westerheversand",
+    "urlbase": "/th?id=OHR.Westerheversand_DE-DE9270031466",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Rot‑weiß am Horizont. Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
+    },
+    "copyrights": {
+      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Leuchtturm+Westerheversand&form=hpcapt&filters=HpDate%3a%2220260626_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.Westerheversand_DE-DE9270031466"
     }
   },
   "KielSailing": {
@@ -2112,36 +2212,36 @@
       "es-ES": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498"
     }
   },
-  "AltafullaTarragona": {
-    "name": "AltafullaTarragona",
-    "urlbase": "/th?id=OHR.AltafullaTarragona_ES-ES8470758712",
-    "date": "20260612",
-    "dateFormatted": "June 12, 2026",
+  "Parintins": {
+    "name": "Parintins",
+    "urlbase": "/th?id=OHR.Parintins_PT-BR8364769128",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
     "markets": [
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
       }
     ],
     "titles": {
-      "es-ES": "Historia en piedra viva. Castillo de Altafulla, Tarragona"
+      "pt-BR": "A festa que veste memória"
     },
     "copyrights": {
-      "es-ES": "Castillo de Altafulla, Tarragona (© Mario Marco/Getty Images)"
+      "pt-BR": "Integrantes do Bloco Boi Faceiro na celebração do bumba-meu-boi, São Caetano de Odivelas, Pará (© Pedro Vilela/Stringer/Getty Images)"
     },
     "descs": {
-      "es-ES": "Situado en el núcleo histórico de Altafulla, en la provincia de Tarragona, el castillo de Altafulla domina el paisaje urbano desde una suave elevación cercana al Mediterráneo. Su origen se remonta a la época medieval, cuando cumplía funciones defensivas y de control del territorio. A lo largo de los siglos, la fortaleza ha experimentado diversas transformaciones que han suavizado su carácter militar y han dado paso a una residencia señorial integrada en el conjunto del municipio."
+      "pt-BR": "O Festival de Parintins começa com a pergunta: vermelho ou azul? A partir de hoje, esta pequena ilha no Amazonas vira centro de um duelo que não admite neutralidade. O Bumbódromo, uma arena em forma de cabeça de boi, se divide: de um lado, Garantido, vermelho. Do outro, Caprichoso, azul. Por três noites, a cidade borra a linha entre espetáculo e torcida."
     },
     "quickFacts": {},
     "captions": {
-      "es-ES": "Castillo de Altafulla, Tarragona"
+      "pt-BR": ""
     },
     "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Castillo+de+Altafulla&form=hpcapt&filters=HpDate%3a%2220260612_2200%22"
+      "pt-BR": "https://www.bing.com/search?q=Festival+Parintins&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "es-ES": "/th?id=OHR.AltafullaTarragona_ES-ES8470758712"
+      "pt-BR": "/th?id=OHR.Parintins_PT-BR8364769128"
     }
   },
   "IbiSP": {
@@ -2176,103 +2276,36 @@
       "pt-BR": "/th?id=OHR.IbiSP_PT-BR5842175553"
     }
   },
-  "ValentineFrog": {
-    "name": "ValentineFrog",
-    "urlbase": "/th?id=OHR.ValentineFrog_PT-BR1899609261",
-    "date": "20260612",
-    "dateFormatted": "June 12, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Um match amazônico"
-    },
-    "copyrights": {
-      "pt-BR": "Casal de rãs-leitosas-da-amazônia, ou pererecas-de-leite (© Lauren Suryanata/Shutterstock)"
-    },
-    "descs": {},
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=perereca-de-leite&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.ValentineFrog_PT-BR1899609261"
-    }
-  },
-  "ThamesSummer": {
-    "name": "ThamesSummer",
-    "urlbase": "/th?id=OHR.ThamesSummer_JA-JP5302199333",
-    "date": "20260625",
-    "dateFormatted": "June 25, 2026",
+  "Ajisai2026": {
+    "name": "Ajisai2026",
+    "urlbase": "/th?id=OHR.Ajisai2026_JA-JP5953428145",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
     "markets": [
       {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
       }
     ],
     "titles": {
-      "ja-JP": "活気あふれる川沿いの街並み",
-      "zh-CN": "时事",
-      "en-US": "Current affairs. The River Thames, London, England",
-      "en-GB": "Current affairs. The River Thames, London",
-      "en-CA": "Current affairs. The River Thames, London, England",
-      "de-DE": "Die Stadt im Fluss der Zeit. Themse, London, England",
-      "fr-FR": "On se la coule douce. La Tamise, Londres, Angleterre",
-      "it-IT": "Attualità. Il fiume Tamigi, Londra, Inghilterra",
-      "es-ES": "Recorriendo la actualidad. El río Támesis, Londres, Inglaterra",
-      "en-IN": "Current affairs. The River Thames, London, England"
+      "ja-JP": "青い花に包まれた小道"
     },
     "copyrights": {
-      "ja-JP": "テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)",
-      "zh-CN": "泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)",
-      "en-US": "© Daniel Lange/Getty Images",
-      "en-GB": "© Daniel Lange/Getty Images",
-      "en-CA": "© Daniel Lange/Getty Images",
-      "de-DE": "© Daniel Lange/Getty Images",
-      "fr-FR": "© Daniel Lange/Getty Images",
-      "it-IT": "© Daniel Lange/Getty Images",
-      "es-ES": "© Daniel Lange/Getty Images",
-      "en-IN": "© Daniel Lange/Getty Images"
+      "ja-JP": "あじさいの花房, 岩手県 奥州市 (© nattya3714/Getty Images)"
     },
     "descs": {
-      "ja-JP": "活気あふれる川沿いの街並み. テムズ川, イングランド ロンドン. イングランド南部を流れるテムズ川は、古代から交通・交易・軍事などの要所とされていました。全長は 346km で、川沿いにはローマ時代や中世の名残が見られます。ロンドン市街を流れる区間には、タワーブリッジや、世界遺産のウェストミンスター宮殿といった建築物が立ち並んでおり、ロンドンの観光名所として知られています。",
-      "en-US": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower, and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "en-GB": "Current affairs. The River Thames, London. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "en-CA": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "de-DE": "Entlang der Themse in London entfaltet sich eine der bekanntesten Stadtsilhouetten Europas, geprägt von Geschichte, Bewegung und einem stetigen Rhythmus. Boote gleiten ruhig vorbei, während Brücken das Bild strukturieren und verschiedene Viertel miteinander verbinden. Tagsüber spiegelt das Wasser graue Wolken und gläserne Fassaden, nachts tauchen Lichter alles in ein warmes Leuchten. Besucher und Einheimische folgen oft ihrem Verlauf, entdecken historische Gebäude und genießen die besondere Atmosphäre zwischen Tradition und Moderne. Big Ben und das London Eye prägen diese Ansicht.",
-      "fr-FR": "Qu'ont en commun un parlement, une tour horloge et une immense roue ? Tous se dressent le long de la Tamise, comme si Londres avait soigneusement disposé ses monuments emblématiques pour créer un décor spectaculaire.",
-      "it-IT": "Attualità. Il fiume Tamigi, Londra, Inghilterra. Sul Tamigi, a Londra, le icone sembrano disposte come su un palcoscenico, dove storia e architettura dialogano con sorprendente armonia.",
-      "es-ES": "En Londres, Reino Unido, el río Támesis reúne algunos de los iconos más reconocibles de Europa en una escena casi cinematográfica. A un lado, el Palacio de Westminster—reconstruido tras el incendio de 1834 en estilo neogótico—marca el pulso político del país, mientras la torre Elizabeth guarda en su interior la campana del Big Ben, cuyas horas resuenan desde 1859. Frente a él, la silueta moderna del London Eye aporta una mirada tranquila y elevada sobre la ciudad.",
-      "zh-CN": "时事. 泰晤士河, 伦敦, 英格兰. 议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。",
-      "en-IN": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect."
+      "ja-JP": "あじさい（紫陽花）は、梅雨の時期を代表する美しい花です。今日の画像は、岩手県奥州市で撮影されたあじさい。例年、6 月下旬から 7 月下旬ごろにかけて見頃を迎えます。あじさいは、画像のような青以外にも様々な色がありますが、これは土壌の酸性度によって変化するものです。日本は、弱酸性の土壌が広く分布しているため、青や紫の花が多く見られます。梅雨の曇り空の下に広がる爽やかな青いあじさいが、ジメジメとした梅雨の空気を和らげてくれます。"
     },
-    "quickFacts": {
-      "zh-CN": "泰晤士河防洪闸于1984年建成，是世界上规模最大的可移动防洪设施之一，用于保护伦敦免受北海风暴潮引发的洪水威胁。"
-    },
+    "quickFacts": {},
     "captions": {
-      "ja-JP": "活気あふれる川沿いの街並み",
-      "zh-CN": ""
+      "ja-JP": "青い花に包まれた小道"
     },
     "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%86%e3%83%a0%e3%82%ba%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220260625_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%b3%b0%e6%99%a4%e5%a3%ab%e6%b2%b3&form=hpcapt&mkt=zh-cn"
+      "ja-JP": "https://www.bing.com/search?q=%e3%81%82%e3%81%98%e3%81%95%e3%81%84%e3%81%ae%e8%8a%b1%e6%88%bf&form=hpcapt&filters=HpDate%3a%2220260626_1500%22"
     },
     "urlbases": {
-      "ja-JP": "/th?id=OHR.ThamesSummer_JA-JP5302199333",
-      "zh-CN": "/th?id=OHR.ThamesSummer_ZH-CN5292532714"
+      "ja-JP": "/th?id=OHR.Ajisai2026_JA-JP5953428145"
     }
   },
   "LavenderSeason2026": {
@@ -2305,38 +2338,6 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.LavenderSeason2026_JA-JP7050134160"
-    }
-  },
-  "HayabusaDay2026": {
-    "name": "HayabusaDay2026",
-    "urlbase": "/th?id=OHR.HayabusaDay2026_JA-JP6590656546",
-    "date": "20260612",
-    "dateFormatted": "June 12, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日ははやぶさの日"
-    },
-    "copyrights": {
-      "ja-JP": "はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "今日、6 月 13 日は「はやぶさの日」。「はやぶさ」は、2003 年に宇宙航空研究開発機構 (JAXA) によって打ち上げられた小惑星探査機です。交信途絶などの様々なトラブルを乗り越えて、2010 年 6 月 13 日に地球へ帰還したことで大きな注目を集めました。「はやぶさの日」は、そんな「はやぶさ」とそのプロジェクトに関わった人々を称え、2012 年に認定された記念日です。2014 年には後継機「はやぶさ 2 」が打ち上げられ、2019 年に小惑星リュウグウへのタッチダウンに成功しました。今日の画像は、2020 年 12 月 6 日に、「はやぶさ 2 」からサンプルの入ったカプセルが地球へ向けて分離され、落下する様子です。本体は現在も稼働しており、拡張ミッションを継続中です。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "今日ははやぶさの日"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e3%81%af%e3%82%84%e3%81%b6%e3%81%95+%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260612_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.HayabusaDay2026_JA-JP6590656546"
     }
   },
   "DragonBoatFestivalY26": {
@@ -2403,6 +2404,255 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108"
+    }
+  },
+  "SpainBeeEater": {
+    "name": "SpainBeeEater",
+    "urlbase": "/th?id=OHR.SpainBeeEater_EN-US5920719155",
+    "date": "20260612",
+    "dateFormatted": "June 12, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A flash in flight. European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
+      "en-GB": "A flash in flight. European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain",
+      "en-CA": "A flash in flight. European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
+      "de-DE": "Farben in Bewegung. Naturpark Sierra de Grazalema, Cádiz, Spanien",
+      "fr-FR": "Comme un éclair de couleurs. Guêpier d’Europe, Sierra de Grazalema, Cadix, Espagne",
+      "it-IT": "Scia di colore",
+      "es-ES": "Un destello en pleno vuelo. Abejaruco europeo, parque natural Sierra de Grazalema, Cádiz",
+      "pt-BR": "O arco-íris ganhou asas",
+      "en-IN": "A flash in flight. European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain",
+      "ja-JP": "野の花をかすめる色鮮やかな鳥",
+      "zh-CN": "惊鸿一瞥"
+    },
+    "copyrights": {
+      "en-US": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+      "en-GB": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+      "en-CA": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+      "de-DE": "Europäischer Bienenfresser im Naturpark Sierra de Grazalema, Cádiz, Spanien (© Andres M. Dominguez/Nature Picture Library)",
+      "fr-FR": "Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne (© Andres M. Dominguez/Nature Picture Library)",
+      "it-IT": "Gruccione comune, parco naturale della Sierra de Grazalema, Spagna (© Andres M. Dominguez/Nature Picture Library)",
+      "es-ES": "Abejaruco europeo en el parque natural de la Sierra de Grazalema, Cádiz (© Andres M. Dominguez/Nature Picture Library)",
+      "pt-BR": "Abelharuco no Parque Natural Sierra de Grazalema, Cádiz, Espanha (© Andres M. Dominguez/Nature Picture Library)",
+      "en-IN": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+      "ja-JP": "ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library)",
+      "zh-CN": "黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "A streak of color glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold, and chestnut shimmer across its wings as it hunts in flight, snatching insects midair with swift turns. Bees and wasps are among its favored prey, and the bird often removes the stinger before feeding—a behavior that reduces the risk of injury.",
+      "en-GB": "A streak of colour glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold and chestnut shimmer across its wings as it hunts in flight, snatching insects mid-air with swift turns. Bees and wasps are among its favoured prey, and the bird often removes the stinger before feeding—a behaviour that reduces the risk of injury.",
+      "en-CA": "A streak of colour glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold and chestnut shimmer across its wings as it hunts in flight, snatching insects mid-air with swift turns. Bees and wasps are among its favoured prey, and the bird often removes the stinger before feeding—a behaviour that reduces the risk of injury.",
+      "de-DE": "Ein leuchtender Farbklecks in der Landschaft – und schon ist er wieder weg. Kaum ein Vogel zieht mit seinem schillernden Gefieder so schnell die Blicke auf sich wie der Europäische Bienenfresser, der mit wendigem, leichtem Flug durch die Luft gleitet. Er zählt zu den faszinierendsten Sommergästen Europas. Während der Jagd fängt er Insekten wie Bienen oder Wespen direkt aus der Luft. Bevor er sie frisst, entfernt er mit erstaunlicher Präzision deren Stachel – eine spezialisierte Technik eines erfahrenen Jägers.",
+      "fr-FR": "Un éclair de couleurs fend l’air au-dessus des prairies fleuries : le guêpier d’Europe surgit, agile et lumineux. Turquoise éclatant, or et brun profond se mêlent sur ses ailes alors qu’il chasse en plein vol, capturant des abeilles et des guêpes avec une précision fulgurante. Avant de se nourrir, il ôte le dard — un geste appris, comme un rituel révélant son étonnante intelligence.",
+      "es-ES": "En el parque natural de la Sierra de Grazalema, en Cádiz, el abejaruco europeo ofrece un espectáculo de color difícil de olvidar. Esta ave migratoria surca los cielos con destellos verdes, azules y ocres que brillan al sol. Suele posarse en ramas o cables desde donde observa con atención el vuelo de insectos, especialmente abejas, su alimento preferido.",
+      "en-IN": "A streak of colour glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold and chestnut shimmer across its wings as it hunts in flight, snatching insects mid-air with swift turns. Bees and wasps are among its favoured prey, and the bird often removes the stinger before feeding—a behaviour that reduces the risk of injury.",
+      "ja-JP": "今日の画像は、茶、黄、青、緑とカラフルな羽色が目を引くヨーロッパハチクイ。その名の通りハチ類を主に食べる鳥です。飛行中のハチを空中で巧みに捕らえ、地面などに打ちつけて毒針を抜いて食べており、1 日に約 250 匹のミツバチを捕食することもあります。渡り鳥であり、南ヨーロッパや北アフリカ・西アジアの一部で繁殖し、冬はアフリカの熱帯地域で過ごします。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
+      "en-GB": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain",
+      "en-CA": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
+      "de-DE": "Naturpark Sierra de Grazalema, Cádiz, Spanien",
+      "fr-FR": "Guêpier d’Europe, Sierra de Grazalema, Cadix, Espagne",
+      "it-IT": "",
+      "es-ES": "Abejaruco europeo, parque natural Sierra de Grazalema, Cádiz",
+      "pt-BR": "",
+      "en-IN": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260612_0700%22",
+      "en-GB": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260611_2300%22",
+      "en-CA": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260612_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Europ%c3%a4ischer+Bienenfresser&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=gu%c3%aapier+d%e2%80%99Europe&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Gruccione+comune&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Abejaruco+europeo&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=abelharuco&form=hpcapt&mkt=pt-br",
+      "en-IN": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260611_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SpainBeeEater_EN-US5920719155",
+      "en-GB": "/th?id=OHR.SpainBeeEater_EN-GB0400736039",
+      "en-CA": "/th?id=OHR.SpainBeeEater_EN-CA4532177883",
+      "de-DE": "/th?id=OHR.SpainBeeEater_DE-DE9310458421",
+      "fr-FR": "/th?id=OHR.SpainBeeEater_FR-FR5420456430",
+      "it-IT": "/th?id=OHR.SpainBeeEater_IT-IT9615288576",
+      "es-ES": "/th?id=OHR.SpainBeeEater_ES-ES8052156644",
+      "pt-BR": "/th?id=OHR.SpainBeeEater_PT-BR8358258406",
+      "en-IN": "/th?id=OHR.SpainBeeEater_EN-IN7232456385"
+    }
+  },
+  "TroopingTheColour2026": {
+    "name": "TroopingTheColour2026",
+    "urlbase": "/th?id=OHR.TroopingTheColour2026_EN-GB9412651820",
+    "date": "20260612",
+    "dateFormatted": "June 12, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "Marching to the royal beat. Trooping the Colour"
+    },
+    "copyrights": {
+      "en-GB": "Members of the Household Cavalry Mounted Regiment at Hyde Park, London (© Leon Neal/Staff/Getty Images)"
+    },
+    "descs": {
+      "en-GB": "Every June, London swaps its traffic noise for drumbeats, marching soldiers and horses trotting with clockwork precision. Trooping the Colour is the royal birthday parade where scarlet uniforms steal the spotlight and every polished boot seems to shine on cue."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "Trooping the Colour"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Trooping+the+Colour&form=hpcapt&filters=HpDate%3a%2220260612_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.TroopingTheColour2026_EN-GB9412651820"
+    }
+  },
+  "AltafullaTarragona": {
+    "name": "AltafullaTarragona",
+    "urlbase": "/th?id=OHR.AltafullaTarragona_ES-ES8470758712",
+    "date": "20260612",
+    "dateFormatted": "June 12, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Historia en piedra viva. Castillo de Altafulla, Tarragona"
+    },
+    "copyrights": {
+      "es-ES": "Castillo de Altafulla, Tarragona (© Mario Marco/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Situado en el núcleo histórico de Altafulla, en la provincia de Tarragona, el castillo de Altafulla domina el paisaje urbano desde una suave elevación cercana al Mediterráneo. Su origen se remonta a la época medieval, cuando cumplía funciones defensivas y de control del territorio. A lo largo de los siglos, la fortaleza ha experimentado diversas transformaciones que han suavizado su carácter militar y han dado paso a una residencia señorial integrada en el conjunto del municipio."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Castillo de Altafulla, Tarragona"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Castillo+de+Altafulla&form=hpcapt&filters=HpDate%3a%2220260612_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.AltafullaTarragona_ES-ES8470758712"
+    }
+  },
+  "ValentineFrog": {
+    "name": "ValentineFrog",
+    "urlbase": "/th?id=OHR.ValentineFrog_PT-BR1899609261",
+    "date": "20260612",
+    "dateFormatted": "June 12, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Um match amazônico"
+    },
+    "copyrights": {
+      "pt-BR": "Casal de rãs-leitosas-da-amazônia, ou pererecas-de-leite (© Lauren Suryanata/Shutterstock)"
+    },
+    "descs": {},
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=perereca-de-leite&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.ValentineFrog_PT-BR1899609261"
+    }
+  },
+  "HayabusaDay2026": {
+    "name": "HayabusaDay2026",
+    "urlbase": "/th?id=OHR.HayabusaDay2026_JA-JP6590656546",
+    "date": "20260612",
+    "dateFormatted": "June 12, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日ははやぶさの日"
+    },
+    "copyrights": {
+      "ja-JP": "はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日、6 月 13 日は「はやぶさの日」。「はやぶさ」は、2003 年に宇宙航空研究開発機構 (JAXA) によって打ち上げられた小惑星探査機です。交信途絶などの様々なトラブルを乗り越えて、2010 年 6 月 13 日に地球へ帰還したことで大きな注目を集めました。「はやぶさの日」は、そんな「はやぶさ」とそのプロジェクトに関わった人々を称え、2012 年に認定された記念日です。2014 年には後継機「はやぶさ 2 」が打ち上げられ、2019 年に小惑星リュウグウへのタッチダウンに成功しました。今日の画像は、2020 年 12 月 6 日に、「はやぶさ 2 」からサンプルの入ったカプセルが地球へ向けて分離され、落下する様子です。本体は現在も稼働しており、拡張ミッションを継続中です。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日ははやぶさの日"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e3%81%af%e3%82%84%e3%81%b6%e3%81%95+%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260612_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.HayabusaDay2026_JA-JP6590656546"
     }
   },
   "Limpets": {
