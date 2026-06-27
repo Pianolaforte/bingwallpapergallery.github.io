@@ -2,14 +2,13 @@ name: Bing Daily Wallpaper Gallery
 
 on:
   schedule:
-    # 每天北京时间 8:30 (UTC 0:30)
-    - cron: '30 0 * * *'
+    # 每天北京时间 8:00 (UTC 0:00)
+    - cron: '0 0 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
   contents: write
   pages: write
-  id-token: write
 
 jobs:
   build-and-deploy:
@@ -25,11 +24,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Create .nojekyll for GitHub Pages
+      - name: Create .nojekyll
         run: touch .nojekyll
 
-      - name: Run Python script
-        run: python bing_gallery_v5.3.py
+      - name: Generate Gallery HTML (full mode)
+        run: python bing_gallery_github.py
 
       - name: Validate Output
         id: validate
@@ -53,33 +52,50 @@ jobs:
           print(f'空描述: {empty_desc} (<= {max_empty})')
           print(f'截断描述: {short_desc} (<= {max_trunc})')
           print(f'文件大小: {file_size/1024:.1f} KB')
-          if total < 28 or empty_desc > max_empty or short_desc > max_trunc or file_size < 50000:
+          # Check JS is present
+          has_js = '<script>' in html and 'ALL_IMAGES' in html and 'renderStreamView' in html
+          has_css = '<style>' in html and '.stream-item' in html
+          print(f'JS present: {has_js}')
+          print(f'CSS present: {has_css}')
+          if total < 28 or empty_desc > max_empty or short_desc > max_trunc or file_size < 50000 or not has_js or not has_css:
               print('校对失败！')
               sys.exit(1)
           print('校对通过！')
           "
 
-      - name: Generate Supplement (if validation passed)
+      - name: Generate Supplement (cn.bing.com)
         if: success()
         run: python bing_gallery_github.py --supplement || true
 
-      - name: Commit and Push to main
+      - name: Re-validate after supplement
+        if: success()
+        run: |
+          python -c "
+          import os
+          size = os.path.getsize('index.html')
+          print(f'Final file size: {size/1024:.1f} KB')
+          if size < 50000:
+              print('ERROR: File too small after supplement')
+              sys.exit(1)
+          print('Final validation passed!')
+          "
+
+      - name: Commit and Push to main (GitHub Pages serves from main)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html .bing_cache.json .nojekyll
+          TODAY=$(date -u '+%Y-%m-%d')
+          git add index.html .bing_cache.json .nojekyll bing_gallery_*.html
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Daily update: $(date -u '+%Y-%m-%d') Bing Wallpaper Gallery"
+            git commit -m "Daily update: ${TODAY} Bing Wallpaper Gallery"
             git push
           fi
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
-          publish_branch: gh-pages
-          keep_files: false
-          force_orphan: true
+      - name: List archived files
+        run: |
+          echo "=== Archived HTML files ==="
+          ls -la bing_gallery_*.html 2>/dev/null || echo "No archives found"
+          echo "=== Current index.html ==="
+          ls -la index.html
