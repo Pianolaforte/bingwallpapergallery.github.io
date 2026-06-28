@@ -1,4 +1,118 @@
 {
+  "BoneyardBeach": {
+    "name": "BoneyardBeach",
+    "urlbase": "/th?id=OHR.BoneyardBeach_EN-US8247496696",
+    "date": "20260627",
+    "dateFormatted": "June 27, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina",
+      "en-GB": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
+      "fr-FR": "Perdre pied. Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
+      "it-IT": "Gli alberi che hanno perso terreno",
+      "es-ES": "Los árboles que perdieron terreno. Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
+      "pt-BR": "A floresta que o mar redesenhou",
+      "zh-CN": "逐渐失去立足之地的树木",
+      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
+      "ja-JP": "夕焼けに染まる水辺と枯れ木. ボニーヤード・ビーチ, 米国 サウスカロライナ州"
+    },
+    "copyrights": {
+      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
+      "en-GB": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+      "fr-FR": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
+      "it-IT": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
+      "es-ES": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
+      "pt-BR": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
+      "zh-CN": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
+      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+      "ja-JP": "© Frances/Adobe Stock"
+    },
+    "descs": {
+      "en-US": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
+      "en-GB": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "fr-FR": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
+      "es-ES": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
+      "en-IN": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "it-IT": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
+      "pt-BR": "A floresta que o mar redesenhou. Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos. A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
+      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
+      "zh-CN": "逐渐失去立足之地的树木. 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国. 在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。"
+    },
+    "quickFacts": {
+      "zh-CN": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
+    },
+    "captions": {
+      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina",
+      "en-GB": "Boneyard Beach, Hunting Island, South Carolina, United States",
+      "fr-FR": "Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
+      "it-IT": "",
+      "es-ES": "Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Boneyard Beach, Hunting Island, South Carolina, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260627_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=%c3%aele+de+Hunting&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Hunting+Island+Carolina+del+Sud%2c+USA&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=carolina+del+sur&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Carolina+do+Sul&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e4%ba%a8%e5%bb%b7%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BoneyardBeach_EN-US8247496696",
+      "en-GB": "/th?id=OHR.BoneyardBeach_EN-GB1157661849",
+      "fr-FR": "/th?id=OHR.BoneyardBeach_FR-FR6517949092",
+      "it-IT": "/th?id=OHR.BoneyardBeach_IT-IT9837372965",
+      "es-ES": "/th?id=OHR.BoneyardBeach_ES-ES1143251949",
+      "pt-BR": "/th?id=OHR.BoneyardBeach_PT-BR8811510135",
+      "zh-CN": "/th?id=OHR.BoneyardBeach_ZH-CN5540590570",
+      "en-IN": "/th?id=OHR.BoneyardBeach_EN-IN2656634065"
+    }
+  },
   "ThamesSummer": {
     "name": "ThamesSummer",
     "urlbase": "/th?id=OHR.ThamesSummer_EN-US6783349970",
@@ -1559,86 +1673,21 @@
       "en-US": "/th?id=OHR.FlagsMonument_EN-US6034154869"
     }
   },
-  "BadSunset": {
-    "name": "BadSunset",
-    "urlbase": "/th?id=OHR.BadSunset_EN-US5981956630",
-    "date": "20260613",
-    "dateFormatted": "June 13, 2026",
+  "SaguaroSun": {
+    "name": "SaguaroSun",
+    "urlbase": "/th?id=OHR.SaguaroSun_EN-GB1588043989",
+    "date": "20260627",
+    "dateFormatted": "June 27, 2026",
     "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
       },
       {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "en-US": "Layers of change. Sunset in Badlands National Park, South Dakota",
-      "en-GB": "Layers of change. Badlands National Park, South Dakota, United States",
-      "ja-JP": "夕焼けに染まる層をなす岩の景観",
-      "en-CA": "Layers of change. Sunset in Badlands National Park, South Dakota, United States",
-      "de-DE": "Schichten des Wandels. Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA",
-      "fr-FR": "Au fil du temps. Parc national des Badlands, Dakota du Sud, États-Unis",
-      "it-IT": "Terre di cenere",
-      "zh-CN": "岁月的层峦",
-      "en-IN": "Layers of change. Badlands National Park, South Dakota, United States"
-    },
-    "copyrights": {
-      "en-US": "Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)",
-      "en-GB": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
-      "ja-JP": "バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)",
-      "en-CA": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
-      "de-DE": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA (© Troy Harrison/Getty Images)",
-      "fr-FR": "Coucher de soleil au parc national des Badlands, Dakota du Sud, États-Unis (© Troy Harrison/Getty Images)",
-      "it-IT": "Parco nazionale delle Badlands, South Dakota, USA (© Troy Harrison/Getty Images)",
-      "zh-CN": "落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)",
-      "en-IN": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, gray, and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash, and periods when shallow seas covered the region.",
-      "en-GB": "Layered ridges stretch across Badlands National Park in South Dakota, United States. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region.",
-      "ja-JP": "ここは、米国サウスダコタ州に位置するバッドランズ国立公園。面積約 980km² の広大な敷地には、水と風の浸食によって長い年月をかけて形成された崖や峡谷、そそり立つ尖峰など、独特の地形が広がっています。化石の宝庫としても知られており、荒涼とした地表の下には、3400 万年前から 2500 万年前に生きていた哺乳類の化石が多く確認されています。また、公園の周囲に広がる草原には、バイソン、ビッグホーン、プレーリードッグなどの野生動物が多数生息しています。",
-      "en-CA": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region.",
-      "de-DE": "Wenn die Sonne über dem Badlands-Nationalpark in South Dakota, USA, untergeht, erstrahlen die zerfurchten Hügel in Rosé, Ocker und Aschegrau. Im Abendlicht wirken die Kanten fast wie gemalt, und die Schatten zeichnen jede Falte nach. Die Schichtbänder ähneln einem aufgeschlagenen Gesteinsbuch: Sedimente lagerten sich einst in einem flachen Binnenmeer ab und bauten sich über Millionen Jahre wie ein Schichtkuchen auf, bevor Wind und Wasser die weichen Lagen wieder freilegten.",
-      "fr-FR": "Dans le Dakota du Sud, aux États-Unis, les Badlands déploient un paysage sculpté par le temps. Des crêtes stratifiées ondulent à perte de vue, mêlant roses poudrés, gris cendrés et ors brûlés, dont les nuances évoluent avec la lumière. Ici, le vent et l’eau poursuivent une lente œuvre d’érosion, grignotant les roches sédimentaires et révélant, couche après couche, près de 75 millions d’années d’histoire géologique.",
-      "en-IN": "Layered ridges stretch across Badlands National Park in South Dakota, United States. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-US": "Sunset in Badlands National Park, South Dakota",
-      "en-GB": "Badlands National Park, South Dakota, United States",
-      "ja-JP": "夕焼けに染まる層をなす岩の景観"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_2300%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%83%a9%e3%83%b3%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260613_1500%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BadSunset_EN-US5981956630",
-      "en-GB": "/th?id=OHR.BadSunset_EN-GB9659525576",
-      "ja-JP": "/th?id=OHR.BadSunset_JA-JP5960860484"
-    }
-  },
-  "BoneyardBeach": {
-    "name": "BoneyardBeach",
-    "urlbase": "/th?id=OHR.BoneyardBeach_EN-GB1157661849",
-    "date": "20260626",
-    "dateFormatted": "June 26, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       },
       {
         "code": "fr-FR",
@@ -1651,14 +1700,9 @@
         "flag": "it"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
       },
       {
         "code": "zh-CN",
@@ -1672,67 +1716,70 @@
       }
     ],
     "titles": {
-      "en-GB": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
-      "fr-FR": "Perdre pied. Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
-      "it-IT": "Gli alberi che hanno perso terreno",
-      "es-ES": "Los árboles que perdieron terreno. Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
-      "pt-BR": "A floresta que o mar redesenhou",
-      "zh-CN": "逐渐失去立足之地的树木",
-      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
-      "en-US": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina",
-      "ja-JP": "夕焼けに染まる水辺と枯れ木. ボニーヤード・ビーチ, 米国 サウスカロライナ州"
+      "en-GB": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
+      "de-DE": "Stille Riesen der Wüste. Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
+      "fr-FR": "Un piquant sans égal. Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
+      "it-IT": "Pieni di spine, ma belli!",
+      "ja-JP": "夕日を浴びるベンケイチュウ",
+      "zh-CN": "看起来很精神",
+      "en-IN": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
+      "en-US": "Looking sharp. Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA",
+      "en-CA": "Looking sharp. Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States",
+      "pt-BR": "Afiado na sobrevivência. Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos"
     },
     "copyrights": {
-      "en-GB": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
-      "fr-FR": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
-      "it-IT": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
-      "es-ES": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
-      "pt-BR": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
-      "zh-CN": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
-      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
-      "en-US": "© Frances/Adobe Stock",
-      "ja-JP": "© Frances/Adobe Stock"
+      "en-GB": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+      "de-DE": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "fr-FR": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
+      "it-IT": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "ja-JP": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)",
+      "zh-CN": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)",
+      "en-IN": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+      "en-US": "© Eric Mischke/Getty Images",
+      "en-CA": "© Eric Mischke/Getty Images",
+      "pt-BR": "© Eric Mischke/Getty Images"
     },
     "descs": {
-      "en-GB": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
-      "fr-FR": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
-      "es-ES": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
-      "en-IN": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
-      "en-US": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
-      "it-IT": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
-      "pt-BR": "A floresta que o mar redesenhou. Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos. A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
-      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
-      "zh-CN": "逐渐失去立足之地的树木. 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国. 在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。"
+      "en-GB": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "de-DE": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
+      "fr-FR": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
+      "ja-JP": "ベンケイチュウは、米国とメキシコにかけて広がるソノラ砂漠固有のサボテンです。高さは 12m 以上、重さは最大で約 6 トンに達し、世界最大級のサボテンといわれています。過酷な乾燥環境に適応した植物で、根は約 30m にわたって浅く広く伸び、わずかな雨水も効率よく吸収するほか、ひだ状の幹に水分を蓄え、雨の後には膨らみ、干ばつ時には縮むという特徴もあります。寿命は長く、最大で 200 年ほど生きることもあります。",
+      "en-IN": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "en-US": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "en-CA": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "it-IT": "Nel deserto di Sonora, il saguaro trasforma l’idea di immobilità in una straordinaria strategia di vita. Con le sue silhouette ramificate rivolte al cielo, questo cactus iconico domina paesaggi tra Arizona, California e Messico, dove cresce esclusivamente. Può superare i dodici metri d’altezza e vivere oltre centocinquanta anni, ma i primi passi sono quasi impercettibili: nei primi anni aumenta di pochi centimetri e attende fino a settanta anni prima di sviluppare i suoi caratteristici «bracci».",
+      "pt-BR": "Se o deserto fosse um teste, o saguaro passaria com louvor. Fotografado aqui no Arizona, Estados Unidos, este cacto já entendeu que crescer devagar, captar e armazenar água com eficiência é uma receita infalível para sobreviver à seca. E o deserto agradece: pica‑paus escavam nele cavidades que depois viram abrigo para outras espécies, suas flores alimentam polinizadores e, pouco a pouco, ao seu redor surge uma rede de vida que faz o deserto florescer.",
+      "zh-CN": "看起来很精神. 温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国. 在索诺拉沙漠，作为生存大师的巨人柱仙人掌赋予了“坚守”（stick around）一词新的含义。这种巨型植物伸展着躯干与枝臂，向四面八方昂然挺立，已然成为美国西南部的标志性象征。"
     },
     "quickFacts": {
-      "zh-CN": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
+      "zh-CN": "巨柱仙人掌洁白的花朵是亚利桑那州的州花。它们在晚春短暂盛开，能够吸引大量蜜蜂采蜜，并孕育出广受欢迎的沙漠蜂蜜。"
     },
     "captions": {
-      "en-GB": "Boneyard Beach, Hunting Island, South Carolina, United States",
-      "fr-FR": "Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
+      "en-GB": "Saguaro cacti, Windgate Pass, Arizona, United States",
+      "de-DE": "Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
+      "fr-FR": "Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
       "it-IT": "",
-      "es-ES": "Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
-      "pt-BR": "",
+      "ja-JP": "夕日を浴びるベンケイチュウ",
       "zh-CN": "",
-      "en-IN": "Boneyard Beach, Hunting Island, South Carolina, United States"
+      "en-IN": "Saguaro cacti, Windgate Pass, Arizona, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=%c3%aele+de+Hunting&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Hunting+Island+Carolina+del+Sud%2c+USA&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=carolina+del+sur&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Carolina+do+Sul&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e4%ba%a8%e5%bb%b7%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Saguaro-Kaktus&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=cactus+Saguaro&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Il+saguaro&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=Windgate+Pass&form=hpcapt&filters=HpDate%3a%2220260627_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%a8%e4%ba%ba%e6%9f%b1%e4%bb%99%e4%ba%ba%e6%8e%8c&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.BoneyardBeach_EN-GB1157661849",
-      "fr-FR": "/th?id=OHR.BoneyardBeach_FR-FR6517949092",
-      "it-IT": "/th?id=OHR.BoneyardBeach_IT-IT9837372965",
-      "es-ES": "/th?id=OHR.BoneyardBeach_ES-ES1143251949",
-      "pt-BR": "/th?id=OHR.BoneyardBeach_PT-BR8811510135",
-      "zh-CN": "/th?id=OHR.BoneyardBeach_ZH-CN5540590570",
-      "en-IN": "/th?id=OHR.BoneyardBeach_EN-IN2656634065"
+      "en-GB": "/th?id=OHR.SaguaroSun_EN-GB1588043989",
+      "de-DE": "/th?id=OHR.SaguaroSun_DE-DE9702644922",
+      "fr-FR": "/th?id=OHR.SaguaroSun_FR-FR5935266298",
+      "it-IT": "/th?id=OHR.SaguaroSun_IT-IT8055685927",
+      "ja-JP": "/th?id=OHR.SaguaroSun_JA-JP5856249761",
+      "zh-CN": "/th?id=OHR.SaguaroSun_ZH-CN5820504732",
+      "en-IN": "/th?id=OHR.SaguaroSun_EN-IN9141839272"
     }
   },
   "IsolaElba": {
@@ -1927,53 +1974,28 @@
         "flag": "de"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-CA": "Drift and paddle. Mallard duck",
       "de-DE": "Ein vertrauter Gast am Wasser. Stockente",
+      "pt-BR": "Urbanamente selvagem",
       "fr-FR": "C’est la danse des canards. Canard colvert",
       "it-IT": "Real-mente elegante",
       "es-ES": "Belleza flotante. Ánade real",
-      "pt-BR": "Urbanamente selvagem",
       "zh-CN": "潜羽探清波",
       "en-IN": "Ducking under water. Mallard duck"
     },
     "copyrights": {
       "en-CA": "Mallard duck (© Philippe Paternolli/Getty Images)",
       "de-DE": "Stockente (© Philippe Paternolli/Getty Images)",
+      "pt-BR": "Pato-real (© Philippe Paternolli/Getty Images)",
       "fr-FR": "Canard colvert (© Philippe Paternolli/Getty Images)",
       "it-IT": "Germano reale (© Philippe Paternolli/Getty Images)",
       "es-ES": "Ánade real (© Philippe Paternolli/Getty Images)",
-      "pt-BR": "Pato-real (© Philippe Paternolli/Getty Images)",
       "zh-CN": "绿头鸭 (© Philippe Paternolli/Getty Images)",
       "en-IN": "Mallard duck (© Philippe Paternolli/Getty Images)"
     },
@@ -1988,32 +2010,17 @@
     "captions": {
       "en-CA": "Mallard duck",
       "de-DE": "Stockente",
-      "fr-FR": "Canard colvert",
-      "it-IT": "",
-      "es-ES": "Ánade real",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Mallard duck"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-CA": "https://www.bing.com/search?q=Mallard+duck&form=hpcapt&filters=HpDate%3a%2220260614_0400%22",
       "de-DE": "https://www.bing.com/search?q=Stockente&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=canard+colvert&form=hpcapt&filters=HpDate%3a%2220260613_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Germano+reale&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=%c3%81nade+real&form=hpcapt&filters=HpDate%3a%2220260613_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=pato-real&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e7%bb%bf%e5%a4%b4%e9%b8%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Mallard+duck&form=hpcapt&filters=HpDate%3a%2220260613_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=pato-real&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.DuckPond_EN-CA5165691235",
       "de-DE": "/th?id=OHR.DuckPond_DE-DE9877208937",
-      "fr-FR": "/th?id=OHR.DuckPond_FR-FR7676171535",
-      "it-IT": "/th?id=OHR.DuckPond_IT-IT3562995004",
-      "es-ES": "/th?id=OHR.DuckPond_ES-ES8621996260",
-      "pt-BR": "/th?id=OHR.DuckPond_PT-BR2199019099",
-      "zh-CN": "/th?id=OHR.DuckPond_ZH-CN1683101997",
-      "en-IN": "/th?id=OHR.DuckPond_EN-IN7848254317"
+      "pt-BR": "/th?id=OHR.DuckPond_PT-BR2199019099"
     }
   },
   "Westerheversand": {
@@ -2080,38 +2087,6 @@
       "de-DE": "/th?id=OHR.KielSailing_DE-DE0980571166"
     }
   },
-  "MainauFlowers": {
-    "name": "MainauFlowers",
-    "urlbase": "/th?id=OHR.MainauFlowers_DE-DE9640558313",
-    "date": "20260613",
-    "dateFormatted": "June 13, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Die stille Kunst des Gartens. Tag des Gartens"
-    },
-    "copyrights": {
-      "de-DE": "Blumengarten auf der Insel Mainau im Bodensee, Baden-Württemberg (© toriru/Shutterstock)"
-    },
-    "descs": {
-      "de-DE": "Wer durch einen gut gestalteten Garten geht, spürt sofort: Hier steckt mehr dahinter als nur schöne Blumen. Der Tag des Gartens, der am zweiten Sonntag im Juni begangen wird, lenkt den Blick gezielt auf diese stille Kunst und würdigt Orte, an denen Gestaltung, Pflege und Natur ineinandergreifen. Die Insel Mainau im Bodensee ist dafür ein besonders eindrucksvolles Beispiel. Auf der sogenannten Blumeninsel wechseln sich im Rhythmus der Jahreszeiten Farben, Formen und Düfte ab. Frühjahrsblüher gehen nahtlos in sommerliche Arrangements über, wobei jede Pflanzung sorgfältig geplant und kontinuierlich gepflegt wird. Wege und Beete geben Struktur und Orientierung, ohne die Leichtigkeit des Ortes zu stören oder zu überformen."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Tag des Gartens"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Tag+des+Gartens&form=hpcapt&filters=HpDate%3a%2220260613_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.MainauFlowers_DE-DE9640558313"
-    }
-  },
   "SeineRiverside": {
     "name": "SeineRiverside",
     "urlbase": "/th?id=OHR.SeineRiverside_FR-FR9034174472",
@@ -2176,6 +2151,38 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.Cesenatico_IT-IT1478062900"
+    }
+  },
+  "PrideChueca": {
+    "name": "PrideChueca",
+    "urlbase": "/th?id=OHR.PrideChueca_ES-ES4043385731",
+    "date": "20260627",
+    "dateFormatted": "June 27, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "¡Los colores del orgullo!. Día Internacional del Orgullo LGTBI+"
+    },
+    "copyrights": {
+      "es-ES": "Chueca, Madrid, España (© MarioMonte/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Chueca, en Madrid, se llena de color cada verano cuando la bandera del orgullo ondea entre balcones y calles, marcando el inicio de una de las celebraciones más vibrantes de Europa. Durante estos días, el barrio se transforma en un escenario abierto donde música, cultura y reivindicación conviven, reflejando el espíritu diverso y acogedor de la ciudad."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Día Internacional del Orgullo LGTBI+"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Orgullo&form=hpcapt&filters=HpDate%3a%2220260627_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.PrideChueca_ES-ES4043385731"
     }
   },
   "SanJuanFuegos": {
@@ -2404,6 +2411,108 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108"
+    }
+  },
+  "BadSunset": {
+    "name": "BadSunset",
+    "urlbase": "/th?id=OHR.BadSunset_EN-US5981956630",
+    "date": "20260613",
+    "dateFormatted": "June 13, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "en-US": "Layers of change. Sunset in Badlands National Park, South Dakota",
+      "en-GB": "Layers of change. Badlands National Park, South Dakota, United States",
+      "ja-JP": "夕焼けに染まる層をなす岩の景観",
+      "en-CA": "Layers of change. Sunset in Badlands National Park, South Dakota, United States",
+      "de-DE": "Schichten des Wandels. Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA",
+      "fr-FR": "Au fil du temps. Parc national des Badlands, Dakota du Sud, États-Unis",
+      "it-IT": "Terre di cenere",
+      "zh-CN": "岁月的层峦",
+      "en-IN": "Layers of change. Badlands National Park, South Dakota, United States"
+    },
+    "copyrights": {
+      "en-US": "Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)",
+      "en-GB": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
+      "ja-JP": "バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)",
+      "en-CA": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
+      "de-DE": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA (© Troy Harrison/Getty Images)",
+      "fr-FR": "Coucher de soleil au parc national des Badlands, Dakota du Sud, États-Unis (© Troy Harrison/Getty Images)",
+      "it-IT": "Parco nazionale delle Badlands, South Dakota, USA (© Troy Harrison/Getty Images)",
+      "zh-CN": "落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)",
+      "en-IN": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, gray, and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash, and periods when shallow seas covered the region.",
+      "en-GB": "Layered ridges stretch across Badlands National Park in South Dakota, United States. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region.",
+      "ja-JP": "ここは、米国サウスダコタ州に位置するバッドランズ国立公園。面積約 980km² の広大な敷地には、水と風の浸食によって長い年月をかけて形成された崖や峡谷、そそり立つ尖峰など、独特の地形が広がっています。化石の宝庫としても知られており、荒涼とした地表の下には、3400 万年前から 2500 万年前に生きていた哺乳類の化石が多く確認されています。また、公園の周囲に広がる草原には、バイソン、ビッグホーン、プレーリードッグなどの野生動物が多数生息しています。",
+      "en-CA": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region.",
+      "de-DE": "Wenn die Sonne über dem Badlands-Nationalpark in South Dakota, USA, untergeht, erstrahlen die zerfurchten Hügel in Rosé, Ocker und Aschegrau. Im Abendlicht wirken die Kanten fast wie gemalt, und die Schatten zeichnen jede Falte nach. Die Schichtbänder ähneln einem aufgeschlagenen Gesteinsbuch: Sedimente lagerten sich einst in einem flachen Binnenmeer ab und bauten sich über Millionen Jahre wie ein Schichtkuchen auf, bevor Wind und Wasser die weichen Lagen wieder freilegten.",
+      "fr-FR": "Dans le Dakota du Sud, aux États-Unis, les Badlands déploient un paysage sculpté par le temps. Des crêtes stratifiées ondulent à perte de vue, mêlant roses poudrés, gris cendrés et ors brûlés, dont les nuances évoluent avec la lumière. Ici, le vent et l’eau poursuivent une lente œuvre d’érosion, grignotant les roches sédimentaires et révélant, couche après couche, près de 75 millions d’années d’histoire géologique.",
+      "en-IN": "Layered ridges stretch across Badlands National Park in South Dakota, United States. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Sunset in Badlands National Park, South Dakota",
+      "en-GB": "Badlands National Park, South Dakota, United States",
+      "ja-JP": "夕焼けに染まる層をなす岩の景観"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_2300%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%83%a9%e3%83%b3%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260613_1500%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BadSunset_EN-US5981956630",
+      "en-GB": "/th?id=OHR.BadSunset_EN-GB9659525576",
+      "ja-JP": "/th?id=OHR.BadSunset_JA-JP5960860484"
+    }
+  },
+  "MainauFlowers": {
+    "name": "MainauFlowers",
+    "urlbase": "/th?id=OHR.MainauFlowers_DE-DE9640558313",
+    "date": "20260613",
+    "dateFormatted": "June 13, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Die stille Kunst des Gartens. Tag des Gartens"
+    },
+    "copyrights": {
+      "de-DE": "Blumengarten auf der Insel Mainau im Bodensee, Baden-Württemberg (© toriru/Shutterstock)"
+    },
+    "descs": {
+      "de-DE": "Wer durch einen gut gestalteten Garten geht, spürt sofort: Hier steckt mehr dahinter als nur schöne Blumen. Der Tag des Gartens, der am zweiten Sonntag im Juni begangen wird, lenkt den Blick gezielt auf diese stille Kunst und würdigt Orte, an denen Gestaltung, Pflege und Natur ineinandergreifen. Die Insel Mainau im Bodensee ist dafür ein besonders eindrucksvolles Beispiel. Auf der sogenannten Blumeninsel wechseln sich im Rhythmus der Jahreszeiten Farben, Formen und Düfte ab. Frühjahrsblüher gehen nahtlos in sommerliche Arrangements über, wobei jede Pflanzung sorgfältig geplant und kontinuierlich gepflegt wird. Wege und Beete geben Struktur und Orientierung, ohne die Leichtigkeit des Ortes zu stören oder zu überformen."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Tag des Gartens"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Tag+des+Gartens&form=hpcapt&filters=HpDate%3a%2220260613_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.MainauFlowers_DE-DE9640558313"
     }
   },
   "SpainBeeEater": {
