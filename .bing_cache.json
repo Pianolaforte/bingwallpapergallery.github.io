@@ -1,4 +1,137 @@
 {
+  "SaguaroSun": {
+    "name": "SaguaroSun",
+    "urlbase": "/th?id=OHR.SaguaroSun_EN-US8982109543",
+    "date": "20260628",
+    "dateFormatted": "June 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
+      "en-GB": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
+      "en-CA": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
+      "de-DE": "Stille Riesen der Wüste. Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
+      "fr-FR": "Un piquant sans égal. Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
+      "it-IT": "Pieni di spine, ma belli!",
+      "pt-BR": "Afiado na sobrevivência",
+      "ja-JP": "夕日を浴びるベンケイチュウ",
+      "zh-CN": "看起来很精神",
+      "en-IN": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States"
+    },
+    "copyrights": {
+      "en-US": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "en-GB": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+      "en-CA": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+      "de-DE": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "fr-FR": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
+      "it-IT": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "pt-BR": "Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos (© Eric Mischke/Getty Images)",
+      "ja-JP": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)",
+      "zh-CN": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)",
+      "en-IN": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)"
+    },
+    "descs": {
+      "en-US": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "en-GB": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "en-CA": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "de-DE": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
+      "fr-FR": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
+      "ja-JP": "ベンケイチュウは、米国とメキシコにかけて広がるソノラ砂漠固有のサボテンです。高さは 12m 以上、重さは最大で約 6 トンに達し、世界最大級のサボテンといわれています。過酷な乾燥環境に適応した植物で、根は約 30m にわたって浅く広く伸び、わずかな雨水も効率よく吸収するほか、ひだ状の幹に水分を蓄え、雨の後には膨らみ、干ばつ時には縮むという特徴もあります。寿命は長く、最大で 200 年ほど生きることもあります。",
+      "en-IN": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "it-IT": "Nel deserto di Sonora, il saguaro trasforma l’idea di immobilità in una straordinaria strategia di vita. Con le sue silhouette ramificate rivolte al cielo, questo cactus iconico domina paesaggi tra Arizona, California e Messico, dove cresce esclusivamente. Può superare i dodici metri d’altezza e vivere oltre centocinquanta anni, ma i primi passi sono quasi impercettibili: nei primi anni aumenta di pochi centimetri e attende fino a settanta anni prima di sviluppare i suoi caratteristici «bracci».",
+      "pt-BR": "Se o deserto fosse um teste, o saguaro passaria com louvor. Fotografado aqui no Arizona, Estados Unidos, este cacto já entendeu que crescer devagar, captar e armazenar água com eficiência é uma receita infalível para sobreviver à seca. E o deserto agradece: pica‑paus escavam nele cavidades que depois viram abrigo para outras espécies, suas flores alimentam polinizadores e, pouco a pouco, ao seu redor surge uma rede de vida que faz o deserto florescer.",
+      "zh-CN": "看起来很精神. 温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国. 在索诺拉沙漠，作为生存大师的巨人柱仙人掌赋予了“坚守”（stick around）一词新的含义。这种巨型植物伸展着躯干与枝臂，向四面八方昂然挺立，已然成为美国西南部的标志性象征。"
+    },
+    "quickFacts": {
+      "zh-CN": "巨柱仙人掌洁白的花朵是亚利桑那州的州花。它们在晚春短暂盛开，能够吸引大量蜜蜂采蜜，并孕育出广受欢迎的沙漠蜂蜜。"
+    },
+    "captions": {
+      "en-US": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
+      "en-GB": "Saguaro cacti, Windgate Pass, Arizona, United States",
+      "en-CA": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
+      "de-DE": "Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
+      "fr-FR": "Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
+      "it-IT": "",
+      "pt-BR": "",
+      "ja-JP": "夕日を浴びるベンケイチュウ",
+      "zh-CN": "",
+      "en-IN": "Saguaro cacti, Windgate Pass, Arizona, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Saguaro-Kaktus&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=cactus+Saguaro&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Il+saguaro&form=hpcapt",
+      "pt-BR": "https://www.bing.com/search?q=cactos+saguaro&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=Windgate+Pass&form=hpcapt&filters=HpDate%3a%2220260627_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%a8%e4%ba%ba%e6%9f%b1%e4%bb%99%e4%ba%ba%e6%8e%8c&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SaguaroSun_EN-US8982109543",
+      "en-GB": "/th?id=OHR.SaguaroSun_EN-GB1588043989",
+      "en-CA": "/th?id=OHR.SaguaroSun_EN-CA5131430817",
+      "de-DE": "/th?id=OHR.SaguaroSun_DE-DE9702644922",
+      "fr-FR": "/th?id=OHR.SaguaroSun_FR-FR5935266298",
+      "it-IT": "/th?id=OHR.SaguaroSun_IT-IT8055685927",
+      "pt-BR": "/th?id=OHR.SaguaroSun_PT-BR3626457853",
+      "ja-JP": "/th?id=OHR.SaguaroSun_JA-JP5856249761",
+      "zh-CN": "/th?id=OHR.SaguaroSun_ZH-CN5820504732",
+      "en-IN": "/th?id=OHR.SaguaroSun_EN-IN9141839272"
+    }
+  },
   "BoneyardBeach": {
     "name": "BoneyardBeach",
     "urlbase": "/th?id=OHR.BoneyardBeach_EN-US8247496696",
@@ -1525,79 +1658,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Aged to scenic perfection. Great Smoky Mountains National Park turns 92!",
-      "en-GB": "Aged to scenic perfection. Great Smoky Mountains National Park",
       "en-CA": "Aged to scenic perfection. Great Smoky Mountains National Park, Tennessee, United States",
+      "pt-BR": "A névoa como assinatura",
+      "en-GB": "Aged to scenic perfection. Great Smoky Mountains National Park",
       "fr-FR": "Le silence des vallées. Parc national des Great Smoky Mountains, États-Unis",
       "it-IT": "Valli nella nebbia",
       "es-ES": "Perfeccionado por el tiempo. Parque nacional de las Grandes Montañas Humeantes, EE. UU.",
-      "pt-BR": "A névoa como assinatura",
       "ja-JP": "今日はグレート・スモーキー山脈国立公園の記念日",
       "zh-CN": "岁月雕琢，风景始成",
       "en-IN": "Aged to scenic perfection. Great Smoky Mountains National Park"
     },
     "copyrights": {
       "en-US": "Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)",
-      "en-GB": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
       "en-CA": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
+      "pt-BR": "Parque Nacional Great Smoky Mountains, Tennessee, Estados Unidos (© Mint Images/Getty Images)",
+      "en-GB": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
       "fr-FR": "Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Mint Images/Getty Images)",
       "it-IT": "Parco nazionale delle Great Smoky Mountains, Tennessee, USA (© Mint Images/Getty Images)",
       "es-ES": "Parque nacional de las Grandes Montañas Humeantes, Tennessee, EE. UU. (© Mint Images/Getty Images)",
-      "pt-BR": "Parque Nacional Great Smoky Mountains, Tennessee, Estados Unidos (© Mint Images/Getty Images)",
       "ja-JP": "グレート・スモーキー山脈国立公園, 米国 テネシー州 (© Mint Images/Getty Images)",
       "zh-CN": "大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)",
       "en-IN": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)"
     },
     "descs": {
       "en-US": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 522,000 acres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
-      "en-GB": "These mountains were shaped over time long before they became a protected landscape. The Great Smoky Mountains National Park in Tennessee and North Carolina, United States covers over 522,000 acres (more than 200,000 hectares). The park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
       "en-CA": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 2,112 square kilometres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
+      "en-GB": "These mountains were shaped over time long before they became a protected landscape. The Great Smoky Mountains National Park in Tennessee and North Carolina, United States covers over 522,000 acres (more than 200,000 hectares). The park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
       "fr-FR": "Façonnées par le temps, les Great Smoky Mountains sont protégées depuis le 15 juin 1934, date de la création du parc national situé entre le Tennessee et la Caroline du Nord, aux États-Unis. S’étendant sur environ 211 000 hectares, il abrite des roches des Appalaches datant de plus de 300 millions d’années, qui se fondent dans la brume bleutée à l’origine de leur nom.",
       "es-ES": "Situado entre Tennessee y Carolina del Norte, el parque nacional de las Grandes Montañas Humeantes es uno de los espacios protegidos más visitados de Estados Unidos. Su nombre alude a la neblina azulada que envuelve las cumbres y crea un efecto visual parecido al humo. Este fenómeno se debe a la humedad y a los compuestos orgánicos liberados por la vegetación, especialmente abundante en la zona.",
       "ja-JP": "1934 年 6 月 15 日、グレート・スモーキー山脈国立公園は米国議会により設立されました。この公園はテネシー州とノースカロライナ州の州境に位置し、約 2,100km² の面積を誇る米国東部で最も広い保護地域の一つです。公園の標高は約 250m から 2,000m で、最高地点であるクウォヒ（標高 2,025m ）の展望台は、壮大な景観を一望できる人気のスポットとなっています。標高差や豊富な降水量、広大な原生林によって、多様な生態系が育まれており、クロクマやヘラジカ、200 種以上の鳥類、数千種の植物が生息しています。また、約 30 種のサンショウウオが生息しており、「サンショウウオの世界の首都」とも呼ばれています。",
@@ -1606,78 +1704,25 @@
     "quickFacts": {},
     "captions": {
       "en-US": "Great Smoky Mountains National Park turns 92!",
-      "en-GB": "Great Smoky Mountains National Park",
       "en-CA": "Great Smoky Mountains National Park, Tennessee, United States",
-      "fr-FR": "Parc national des Great Smoky Mountains, États-Unis",
-      "it-IT": "",
-      "es-ES": "Parque nacional de las Grandes Montañas Humeantes, EE. UU.",
-      "pt-BR": "",
-      "ja-JP": "今日はグレート・スモーキー山脈国立公園の記念日",
-      "zh-CN": "",
-      "en-IN": "Great Smoky Mountains National Park"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260615_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260614_2300%22",
       "en-CA": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260615_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+delle+Great+Smoky+Mountains&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Parque+nacional+de+las+Grandes+Monta%c3%b1as+Humeantes&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+Great+Smoky+Mountains+Tennesse&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%88%e3%83%bb%e3%82%b9%e3%83%a2%e3%83%bc%e3%82%ad%e3%83%bc%e5%b1%b1%e8%84%88%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%e3%81%ae%e8%a8%98%e5%bf%b5%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260614_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a4%a7%e7%83%9f%e5%b1%b1%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260614_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+Great+Smoky+Mountains+Tennesse&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.ParkEstd_EN-US6114949122",
-      "en-GB": "/th?id=OHR.ParkEstd_EN-GB0010694750",
       "en-CA": "/th?id=OHR.ParkEstd_EN-CA5456833657",
-      "fr-FR": "/th?id=OHR.ParkEstd_FR-FR1451638947",
-      "it-IT": "/th?id=OHR.ParkEstd_IT-IT3908775482",
-      "es-ES": "/th?id=OHR.ParkEstd_ES-ES8806715182",
-      "pt-BR": "/th?id=OHR.ParkEstd_PT-BR2427992581",
-      "ja-JP": "/th?id=OHR.ParkEstd_JA-JP9205724491",
-      "zh-CN": "/th?id=OHR.ParkEstd_ZH-CN3419035151",
-      "en-IN": "/th?id=OHR.ParkEstd_EN-IN7979223128"
+      "pt-BR": "/th?id=OHR.ParkEstd_PT-BR2427992581"
     }
   },
-  "FlagsMonument": {
-    "name": "FlagsMonument",
-    "urlbase": "/th?id=OHR.FlagsMonument_EN-US6034154869",
-    "date": "20260614",
-    "dateFormatted": "June 14, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "History flies high. Flag Day"
-    },
-    "copyrights": {
-      "en-US": "US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "On June 14, the stars align—and not just figuratively. They line up on a piece of fabric that has seen battles, protests, and backyard barbecues. Flag Day marks the 1777 decision by the Second Continental Congress to adopt the national flag, but the story goes beyond stitches and stripes."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-US": "Flag Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=US+Flag+Day&form=hpcapt&filters=HpDate%3a%2220260614_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.FlagsMonument_EN-US6034154869"
-    }
-  },
-  "SaguaroSun": {
-    "name": "SaguaroSun",
-    "urlbase": "/th?id=OHR.SaguaroSun_EN-GB1588043989",
-    "date": "20260627",
-    "dateFormatted": "June 27, 2026",
+  "BoraBoraLagoon": {
+    "name": "BoraBoraLagoon",
+    "urlbase": "/th?id=OHR.BoraBoraLagoon_EN-GB1950063282",
+    "date": "20260628",
+    "dateFormatted": "June 28, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1695,9 +1740,9 @@
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
       },
       {
         "code": "ja-JP",
@@ -1716,70 +1761,70 @@
       }
     ],
     "titles": {
-      "en-GB": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
-      "de-DE": "Stille Riesen der Wüste. Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
-      "fr-FR": "Un piquant sans égal. Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
-      "it-IT": "Pieni di spine, ma belli!",
-      "ja-JP": "夕日を浴びるベンケイチュウ",
-      "zh-CN": "看起来很精神",
-      "en-IN": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
-      "en-US": "Looking sharp. Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA",
-      "en-CA": "Looking sharp. Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States",
-      "pt-BR": "Afiado na sobrevivência. Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos"
+      "en-GB": "Born on fire, held by water. International Day of the Tropics",
+      "de-DE": "Aus Feuer geboren, vom Wasser gehalten. Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
+      "fr-FR": "D’eau et de feu. Journée internationale des tropiques",
+      "es-ES": "Nacidas entre llamas, sostenidas por el agua. Día Internacional de los Trópicos",
+      "ja-JP": "今日は国際熱帯デー",
+      "zh-CN": "生于烈火，拥于碧水",
+      "en-IN": "Born on fire, held by water. International Day of the Tropics",
+      "en-US": "Born on fire, held by water. Bora Bora and its lagoon, South Pacific, French Polynesia",
+      "en-CA": "Born on fire, held by water. Bora Bora and its lagoon, South Pacific, French Polynesia",
+      "pt-BR": "Uma exuberância bem tropical. Bora Bora e sua lagoa, Pacífico Sul, Polinésia Francesa"
     },
     "copyrights": {
-      "en-GB": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
-      "de-DE": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
-      "fr-FR": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
-      "it-IT": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
-      "ja-JP": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)",
-      "zh-CN": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)",
-      "en-IN": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
-      "en-US": "© Eric Mischke/Getty Images",
-      "en-CA": "© Eric Mischke/Getty Images",
-      "pt-BR": "© Eric Mischke/Getty Images"
+      "en-GB": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+      "de-DE": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien (© Frederick Millett/Shutterstock)",
+      "fr-FR": "Bora Bora et son lagon, Pacifique Sud, Polynésie française (© Frederick Millett/Shutterstock)",
+      "es-ES": "Bora Bora y su laguna, Pacífico Sur, Polinesia Francesa (© Frederick Millett/Shutterstock)",
+      "ja-JP": "ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)",
+      "zh-CN": "波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)",
+      "en-IN": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+      "en-US": "© Frederick Millett/Shutterstock",
+      "en-CA": "© Frederick Millett/Shutterstock",
+      "pt-BR": "© Frederick Millett/Shutterstock"
     },
     "descs": {
-      "en-GB": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "de-DE": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
-      "fr-FR": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
-      "ja-JP": "ベンケイチュウは、米国とメキシコにかけて広がるソノラ砂漠固有のサボテンです。高さは 12m 以上、重さは最大で約 6 トンに達し、世界最大級のサボテンといわれています。過酷な乾燥環境に適応した植物で、根は約 30m にわたって浅く広く伸び、わずかな雨水も効率よく吸収するほか、ひだ状の幹に水分を蓄え、雨の後には膨らみ、干ばつ時には縮むという特徴もあります。寿命は長く、最大で 200 年ほど生きることもあります。",
-      "en-IN": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "en-US": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "en-CA": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "it-IT": "Nel deserto di Sonora, il saguaro trasforma l’idea di immobilità in una straordinaria strategia di vita. Con le sue silhouette ramificate rivolte al cielo, questo cactus iconico domina paesaggi tra Arizona, California e Messico, dove cresce esclusivamente. Può superare i dodici metri d’altezza e vivere oltre centocinquanta anni, ma i primi passi sono quasi impercettibili: nei primi anni aumenta di pochi centimetri e attende fino a settanta anni prima di sviluppare i suoi caratteristici «bracci».",
-      "pt-BR": "Se o deserto fosse um teste, o saguaro passaria com louvor. Fotografado aqui no Arizona, Estados Unidos, este cacto já entendeu que crescer devagar, captar e armazenar água com eficiência é uma receita infalível para sobreviver à seca. E o deserto agradece: pica‑paus escavam nele cavidades que depois viram abrigo para outras espécies, suas flores alimentam polinizadores e, pouco a pouco, ao seu redor surge uma rede de vida que faz o deserto florescer.",
-      "zh-CN": "看起来很精神. 温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国. 在索诺拉沙漠，作为生存大师的巨人柱仙人掌赋予了“坚守”（stick around）一词新的含义。这种巨型植物伸展着躯干与枝臂，向四面八方昂然挺立，已然成为美国西南部的标志性象征。"
+      "en-GB": "Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "de-DE": "Bora Bora im Südpazifik in Französisch-Polynesien gehört zu den eindrucksvollsten Landschaften der Erde. Die Insel entstand aus einem erloschenen Vulkan, dessen dunkle Gipfel sich steil über das Meer erheben. Ringförmig umgeben von einem Korallenriff liegt eine ruhige Lagune mit schimmernden Blautönen, die sich je nach Licht und Tiefe verändern. Palmen, weiße Strände und kristallklares Wasser prägen das Bild und verleihen dem Ort eine fast unwirkliche Schönheit. Besonders bei Sonnenaufgang und Sonnenuntergang entfaltet die Lagune eine beeindruckende Farbvielfalt, die Besucher immer wieder aufs Neue fasziniert.",
+      "fr-FR": "Chaque 29 juin, la Journée internationale des tropiques met à l’honneur la vaste région située entre les tropiques du Cancer et du Capricorne. Couvrant environ 40 % de la surface terrestre, elle abrite près de 80 % de la biodiversité mondiale et joue un rôle essentiel pour les équilibres climatiques et écologiques de la planète.",
+      "es-ES": "Bora Bora, en la Polinesia Francesa, ofrece una ventana fascinante a las regiones tropicales, protagonistas del Día Internacional de los Trópicos celebrado cada veintinueve de junio. Estas zonas del planeta, definidas por su clima cálido y húmedo, ocupan cerca del 40 % de la superficie terrestre y concentran alrededor del 80 % de la biodiversidad mundial, lo que las convierte en un pilar esencial para el equilibrio global.",
+      "ja-JP": "今日 6 月 29 日は国際熱帯デー。熱帯とは、赤道を中心に南北回帰線に挟まれた年中温暖な地域を指します。世界人口の約 40% が暮らし、地球上の生物種の約 80% が生息する重要な場所です。そして、画像は赤道近くに位置するフランス領ポリネシアにあるボラボラ島。島の中央にはオテマヌ山とパヒア山といった玄武岩の峰々がそびえています。周囲を取り囲むサンゴ礁の内側には穏やかなターコイズ色のラグーンが広がり、その美しさから「太平洋の真珠」とも称されています。",
+      "en-IN": "Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "en-US": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "en-CA": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "pt-BR": "Hoje é Dia Internacional dos Trópicos, essa faixa entre Câncer e Capricórnio onde calor e umidade parecem ter opinião própria. Essa área cobre cerca de 40% da superfície terrestre, mas concentra mais ou menos 80% da biodiversidade. Tudo aqui opera em escala maior: florestas mais densas, recifes mais vibrantes, culturas mais intensas. E o Brasil, com a Amazônia e seus biomas, está no centro dessa potência.",
+      "zh-CN": "生于烈火，拥于碧水. 波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚. “国际热带日”于每年6月29日纪念，旨在聚焦北回归线与南回归线之间那片广阔的区域——在这里，温暖的气候与充沛的降水塑造着人们的日常生活。该区域虽仅占地球表面积的约40%，却承载了全球约80%的生物多样性，对于地球生态健康与人类文化而言至关重要。"
     },
     "quickFacts": {
-      "zh-CN": "巨柱仙人掌洁白的花朵是亚利桑那州的州花。它们在晚春短暂盛开，能够吸引大量蜜蜂采蜜，并孕育出广受欢迎的沙漠蜂蜜。"
+      "zh-CN": "波拉波拉岛的泻湖栖息着鹰魟，它们常成群活动，在太平洋最清澈的海域之一的沙质海底优雅滑行。"
     },
     "captions": {
-      "en-GB": "Saguaro cacti, Windgate Pass, Arizona, United States",
-      "de-DE": "Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
-      "fr-FR": "Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
-      "it-IT": "",
-      "ja-JP": "夕日を浴びるベンケイチュウ",
+      "en-GB": "International Day of the Tropics",
+      "de-DE": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
+      "fr-FR": "Journée internationale des tropiques",
+      "es-ES": "Día Internacional de los Trópicos",
+      "ja-JP": "今日は国際熱帯デー",
       "zh-CN": "",
-      "en-IN": "Saguaro cacti, Windgate Pass, Arizona, United States"
+      "en-IN": "International Day of the Tropics"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Saguaro-Kaktus&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=cactus+Saguaro&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Il+saguaro&form=hpcapt",
-      "ja-JP": "https://www.bing.com/search?q=Windgate+Pass&form=hpcapt&filters=HpDate%3a%2220260627_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b7%a8%e4%ba%ba%e6%9f%b1%e4%bb%99%e4%ba%ba%e6%8e%8c&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_1830%22"
+      "en-GB": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Bora+Bora&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+Internationale+Tropiques&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Bora+Bora+Atol%c3%b3n&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e7%86%b1%e5%b8%af%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260628_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e7%83%ad%e5%b8%a6%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.SaguaroSun_EN-GB1588043989",
-      "de-DE": "/th?id=OHR.SaguaroSun_DE-DE9702644922",
-      "fr-FR": "/th?id=OHR.SaguaroSun_FR-FR5935266298",
-      "it-IT": "/th?id=OHR.SaguaroSun_IT-IT8055685927",
-      "ja-JP": "/th?id=OHR.SaguaroSun_JA-JP5856249761",
-      "zh-CN": "/th?id=OHR.SaguaroSun_ZH-CN5820504732",
-      "en-IN": "/th?id=OHR.SaguaroSun_EN-IN9141839272"
+      "en-GB": "/th?id=OHR.BoraBoraLagoon_EN-GB1950063282",
+      "de-DE": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686",
+      "fr-FR": "/th?id=OHR.BoraBoraLagoon_FR-FR6825831086",
+      "es-ES": "/th?id=OHR.BoraBoraLagoon_ES-ES4364920301",
+      "ja-JP": "/th?id=OHR.BoraBoraLagoon_JA-JP3981162879",
+      "zh-CN": "/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590",
+      "en-IN": "/th?id=OHR.BoraBoraLagoon_EN-IN9424063973"
     }
   },
   "IsolaElba": {
@@ -1957,72 +2002,6 @@
       "en-CA": "/th?id=OHR.IndigenousMaple_EN-CA8176109531"
     }
   },
-  "DuckPond": {
-    "name": "DuckPond",
-    "urlbase": "/th?id=OHR.DuckPond_EN-CA5165691235",
-    "date": "20260614",
-    "dateFormatted": "June 14, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-CA": "Drift and paddle. Mallard duck",
-      "de-DE": "Ein vertrauter Gast am Wasser. Stockente",
-      "pt-BR": "Urbanamente selvagem",
-      "fr-FR": "C’est la danse des canards. Canard colvert",
-      "it-IT": "Real-mente elegante",
-      "es-ES": "Belleza flotante. Ánade real",
-      "zh-CN": "潜羽探清波",
-      "en-IN": "Ducking under water. Mallard duck"
-    },
-    "copyrights": {
-      "en-CA": "Mallard duck (© Philippe Paternolli/Getty Images)",
-      "de-DE": "Stockente (© Philippe Paternolli/Getty Images)",
-      "pt-BR": "Pato-real (© Philippe Paternolli/Getty Images)",
-      "fr-FR": "Canard colvert (© Philippe Paternolli/Getty Images)",
-      "it-IT": "Germano reale (© Philippe Paternolli/Getty Images)",
-      "es-ES": "Ánade real (© Philippe Paternolli/Getty Images)",
-      "zh-CN": "绿头鸭 (© Philippe Paternolli/Getty Images)",
-      "en-IN": "Mallard duck (© Philippe Paternolli/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "At daybreak, the mallard glides over the still water like a brush across a canvas. Its shimmering plumage—emerald-green head in the male, speckled brown coat in the female—catches the first light. It can be seen from the marshes of the Camargue to the urban canals of Amsterdam, a faithful companion of Europe's aquatic landscapes.",
-      "de-DE": "Ob an stillen Seen, an langsam fließenden Flüssen oder in belebten Parkanlagen – die Stockente gehört in vielen Landschaften zum vertrauten Bild. Mit ihrer weiten Verbreitung zählt sie zu den häufigsten Entenarten Europas und ist auch in Deutschland ganzjährig zu beobachten. Auffällig ist das unterschiedliche Aussehen: Während das Männchen mit grün schimmerndem Kopf und weißem Halsring ins Auge fällt, bleibt das Weibchen in braunen Tarnfarben unauffällig.",
-      "fr-FR": "Au petit matin, le colvert glisse sur l’eau calme tel un pinceau glissant sur une toile. Son plumage chatoyant — tête vert émeraude chez le mâle, robe brun moucheté chez la femelle — capte la lumière naissante. On le croise des marais de Camargue aux canaux urbains d’Amsterdam, fidèle compagnon des paysages aquatiques d’Europe.",
-      "es-ES": "El ánade real es uno de los patos más conocidos y reconocibles del mundo. Destaca por el llamativo contraste entre el verde brillante de la cabeza del macho y los tonos pardos de la hembra, una diferencia que facilita su identificación en humedales, ríos y parques urbanos. Se trata de una especie muy adaptable que convive con facilidad cerca de las personas, lo que explica su presencia habitual en estanques y canales de ciudades europeas.",
-      "en-IN": "At daybreak, the mallard glides over the still water like a brush across a canvas. Its shimmering plumage—emerald-green head in the male, speckled brown coat in the female—catches the first light. It can be seen from the marshes of the Camargue to the urban canals of Amsterdam, a faithful companion of Europe's aquatic landscapes."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-CA": "Mallard duck",
-      "de-DE": "Stockente",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Mallard+duck&form=hpcapt&filters=HpDate%3a%2220260614_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Stockente&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=pato-real&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.DuckPond_EN-CA5165691235",
-      "de-DE": "/th?id=OHR.DuckPond_DE-DE9877208937",
-      "pt-BR": "/th?id=OHR.DuckPond_PT-BR2199019099"
-    }
-  },
   "Westerheversand": {
     "name": "Westerheversand",
     "urlbase": "/th?id=OHR.Westerheversand_DE-DE9270031466",
@@ -2119,6 +2098,38 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.SeineRiverside_FR-FR9034174472"
+    }
+  },
+  "SanPietroPaolo": {
+    "name": "SanPietroPaolo",
+    "urlbase": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696",
+    "date": "20260628",
+    "dateFormatted": "June 28, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Notte della Girandola"
+    },
+    "copyrights": {
+      "it-IT": "Castel Sant’Angelo, Roma (© Domenico Cippitelli/NurPhoto via Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Il 29 giugno Roma celebra i Santi Pietro e Paolo, patroni della città, con una delle ricorrenze più sentite del calendario romano. Accanto alle celebrazioni religiose, la festa è famosa per la «Girandola», lo storico spettacolo pirotecnico che illumina il cielo sopra Castel Sant'Angelo. La tradizione della Girandola risale al XV secolo e si sviluppò sotto il pontificato di papa Sisto IV, che affidò ai migliori artisti dell’epoca la progettazione delle spettacolari «macchine per i fuochi»."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Santi+Pietro+e+Paolo&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696"
     }
   },
   "Cesenatico": {
@@ -2411,6 +2422,104 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108"
+    }
+  },
+  "FlagsMonument": {
+    "name": "FlagsMonument",
+    "urlbase": "/th?id=OHR.FlagsMonument_EN-US6034154869",
+    "date": "20260614",
+    "dateFormatted": "June 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "History flies high. Flag Day"
+    },
+    "copyrights": {
+      "en-US": "US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "On June 14, the stars align—and not just figuratively. They line up on a piece of fabric that has seen battles, protests, and backyard barbecues. Flag Day marks the 1777 decision by the Second Continental Congress to adopt the national flag, but the story goes beyond stitches and stripes."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Flag Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=US+Flag+Day&form=hpcapt&filters=HpDate%3a%2220260614_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FlagsMonument_EN-US6034154869"
+    }
+  },
+  "DuckPond": {
+    "name": "DuckPond",
+    "urlbase": "/th?id=OHR.DuckPond_EN-CA5165691235",
+    "date": "20260614",
+    "dateFormatted": "June 14, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-CA": "Drift and paddle. Mallard duck",
+      "de-DE": "Ein vertrauter Gast am Wasser. Stockente",
+      "pt-BR": "Urbanamente selvagem",
+      "fr-FR": "C’est la danse des canards. Canard colvert",
+      "it-IT": "Real-mente elegante",
+      "es-ES": "Belleza flotante. Ánade real",
+      "zh-CN": "潜羽探清波",
+      "en-IN": "Ducking under water. Mallard duck"
+    },
+    "copyrights": {
+      "en-CA": "Mallard duck (© Philippe Paternolli/Getty Images)",
+      "de-DE": "Stockente (© Philippe Paternolli/Getty Images)",
+      "pt-BR": "Pato-real (© Philippe Paternolli/Getty Images)",
+      "fr-FR": "Canard colvert (© Philippe Paternolli/Getty Images)",
+      "it-IT": "Germano reale (© Philippe Paternolli/Getty Images)",
+      "es-ES": "Ánade real (© Philippe Paternolli/Getty Images)",
+      "zh-CN": "绿头鸭 (© Philippe Paternolli/Getty Images)",
+      "en-IN": "Mallard duck (© Philippe Paternolli/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "At daybreak, the mallard glides over the still water like a brush across a canvas. Its shimmering plumage—emerald-green head in the male, speckled brown coat in the female—catches the first light. It can be seen from the marshes of the Camargue to the urban canals of Amsterdam, a faithful companion of Europe's aquatic landscapes.",
+      "de-DE": "Ob an stillen Seen, an langsam fließenden Flüssen oder in belebten Parkanlagen – die Stockente gehört in vielen Landschaften zum vertrauten Bild. Mit ihrer weiten Verbreitung zählt sie zu den häufigsten Entenarten Europas und ist auch in Deutschland ganzjährig zu beobachten. Auffällig ist das unterschiedliche Aussehen: Während das Männchen mit grün schimmerndem Kopf und weißem Halsring ins Auge fällt, bleibt das Weibchen in braunen Tarnfarben unauffällig.",
+      "fr-FR": "Au petit matin, le colvert glisse sur l’eau calme tel un pinceau glissant sur une toile. Son plumage chatoyant — tête vert émeraude chez le mâle, robe brun moucheté chez la femelle — capte la lumière naissante. On le croise des marais de Camargue aux canaux urbains d’Amsterdam, fidèle compagnon des paysages aquatiques d’Europe.",
+      "es-ES": "El ánade real es uno de los patos más conocidos y reconocibles del mundo. Destaca por el llamativo contraste entre el verde brillante de la cabeza del macho y los tonos pardos de la hembra, una diferencia que facilita su identificación en humedales, ríos y parques urbanos. Se trata de una especie muy adaptable que convive con facilidad cerca de las personas, lo que explica su presencia habitual en estanques y canales de ciudades europeas.",
+      "en-IN": "At daybreak, the mallard glides over the still water like a brush across a canvas. Its shimmering plumage—emerald-green head in the male, speckled brown coat in the female—catches the first light. It can be seen from the marshes of the Camargue to the urban canals of Amsterdam, a faithful companion of Europe's aquatic landscapes."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "Mallard duck",
+      "de-DE": "Stockente",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Mallard+duck&form=hpcapt&filters=HpDate%3a%2220260614_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Stockente&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=pato-real&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.DuckPond_EN-CA5165691235",
+      "de-DE": "/th?id=OHR.DuckPond_DE-DE9877208937",
+      "pt-BR": "/th?id=OHR.DuckPond_PT-BR2199019099"
     }
   },
   "BadSunset": {
