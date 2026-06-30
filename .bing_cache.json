@@ -1,4 +1,137 @@
 {
+  "BoraBoraLagoon": {
+    "name": "BoraBoraLagoon",
+    "urlbase": "/th?id=OHR.BoraBoraLagoon_EN-US1491116478",
+    "date": "20260629",
+    "dateFormatted": "June 29, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Born on fire, held by water. International Day of the Tropics",
+      "en-GB": "Born on fire, held by water. International Day of the Tropics",
+      "en-CA": "Born on fire, held by water. International Day of the Tropics",
+      "de-DE": "Aus Feuer geboren, vom Wasser gehalten. Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
+      "fr-FR": "D’eau et de feu. Journée internationale des tropiques",
+      "es-ES": "Nacidas entre llamas, sostenidas por el agua. Día Internacional de los Trópicos",
+      "pt-BR": "Uma exuberância bem tropical",
+      "ja-JP": "今日は国際熱帯デー",
+      "zh-CN": "生于烈火，拥于碧水",
+      "en-IN": "Born on fire, held by water. International Day of the Tropics"
+    },
+    "copyrights": {
+      "en-US": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+      "en-GB": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+      "en-CA": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+      "de-DE": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien (© Frederick Millett/Shutterstock)",
+      "fr-FR": "Bora Bora et son lagon, Pacifique Sud, Polynésie française (© Frederick Millett/Shutterstock)",
+      "es-ES": "Bora Bora y su laguna, Pacífico Sur, Polinesia Francesa (© Frederick Millett/Shutterstock)",
+      "pt-BR": "Bora Bora e sua lagoa, Pacífico Sul, Polinésia Francesa (© Frederick Millett/Shutterstock)",
+      "ja-JP": "ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)",
+      "zh-CN": "波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)",
+      "en-IN": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "en-GB": "Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "en-CA": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "de-DE": "Bora Bora im Südpazifik in Französisch-Polynesien gehört zu den eindrucksvollsten Landschaften der Erde. Die Insel entstand aus einem erloschenen Vulkan, dessen dunkle Gipfel sich steil über das Meer erheben. Ringförmig umgeben von einem Korallenriff liegt eine ruhige Lagune mit schimmernden Blautönen, die sich je nach Licht und Tiefe verändern. Palmen, weiße Strände und kristallklares Wasser prägen das Bild und verleihen dem Ort eine fast unwirkliche Schönheit. Besonders bei Sonnenaufgang und Sonnenuntergang entfaltet die Lagune eine beeindruckende Farbvielfalt, die Besucher immer wieder aufs Neue fasziniert.",
+      "fr-FR": "Chaque 29 juin, la Journée internationale des tropiques met à l’honneur la vaste région située entre les tropiques du Cancer et du Capricorne. Couvrant environ 40 % de la surface terrestre, elle abrite près de 80 % de la biodiversité mondiale et joue un rôle essentiel pour les équilibres climatiques et écologiques de la planète.",
+      "es-ES": "Bora Bora, en la Polinesia Francesa, ofrece una ventana fascinante a las regiones tropicales, protagonistas del Día Internacional de los Trópicos celebrado cada veintinueve de junio. Estas zonas del planeta, definidas por su clima cálido y húmedo, ocupan cerca del 40 % de la superficie terrestre y concentran alrededor del 80 % de la biodiversidad mundial, lo que las convierte en un pilar esencial para el equilibrio global.",
+      "ja-JP": "今日 6 月 29 日は国際熱帯デー。熱帯とは、赤道を中心に南北回帰線に挟まれた年中温暖な地域を指します。世界人口の約 40% が暮らし、地球上の生物種の約 80% が生息する重要な場所です。そして、画像は赤道近くに位置するフランス領ポリネシアにあるボラボラ島。島の中央にはオテマヌ山とパヒア山といった玄武岩の峰々がそびえています。周囲を取り囲むサンゴ礁の内側には穏やかなターコイズ色のラグーンが広がり、その美しさから「太平洋の真珠」とも称されています。",
+      "en-IN": "Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "pt-BR": "Hoje é Dia Internacional dos Trópicos, essa faixa entre Câncer e Capricórnio onde calor e umidade parecem ter opinião própria. Essa área cobre cerca de 40% da superfície terrestre, mas concentra mais ou menos 80% da biodiversidade. Tudo aqui opera em escala maior: florestas mais densas, recifes mais vibrantes, culturas mais intensas. E o Brasil, com a Amazônia e seus biomas, está no centro dessa potência.",
+      "zh-CN": "生于烈火，拥于碧水. 波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚. “国际热带日”于每年6月29日纪念，旨在聚焦北回归线与南回归线之间那片广阔的区域——在这里，温暖的气候与充沛的降水塑造着人们的日常生活。该区域虽仅占地球表面积的约40%，却承载了全球约80%的生物多样性，对于地球生态健康与人类文化而言至关重要。"
+    },
+    "quickFacts": {
+      "zh-CN": "波拉波拉岛的泻湖栖息着鹰魟，它们常成群活动，在太平洋最清澈的海域之一的沙质海底优雅滑行。"
+    },
+    "captions": {
+      "en-US": "International Day of the Tropics",
+      "en-GB": "International Day of the Tropics",
+      "en-CA": "International Day of the Tropics",
+      "de-DE": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
+      "fr-FR": "Journée internationale des tropiques",
+      "es-ES": "Día Internacional de los Trópicos",
+      "pt-BR": "",
+      "ja-JP": "今日は国際熱帯デー",
+      "zh-CN": "",
+      "en-IN": "International Day of the Tropics"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260629_0700%22",
+      "en-GB": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_2300%22",
+      "en-CA": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260629_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Bora+Bora&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+Internationale+Tropiques&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Bora+Bora+Atol%c3%b3n&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+dos+Tr%c3%b3picos&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e7%86%b1%e5%b8%af%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260628_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e7%83%ad%e5%b8%a6%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BoraBoraLagoon_EN-US1491116478",
+      "en-GB": "/th?id=OHR.BoraBoraLagoon_EN-GB1950063282",
+      "en-CA": "/th?id=OHR.BoraBoraLagoon_EN-CA7294184526",
+      "de-DE": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686",
+      "fr-FR": "/th?id=OHR.BoraBoraLagoon_FR-FR6825831086",
+      "es-ES": "/th?id=OHR.BoraBoraLagoon_ES-ES4364920301",
+      "pt-BR": "/th?id=OHR.BoraBoraLagoon_PT-BR8111630763",
+      "ja-JP": "/th?id=OHR.BoraBoraLagoon_JA-JP3981162879",
+      "zh-CN": "/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590",
+      "en-IN": "/th?id=OHR.BoraBoraLagoon_EN-IN9424063973"
+    }
+  },
   "SaguaroSun": {
     "name": "SaguaroSun",
     "urlbase": "/th?id=OHR.SaguaroSun_EN-US8982109543",
@@ -904,7 +1037,7 @@
       "de-DE": "Am 22. Juni rückt der Welttag des Regenwaldes die letzten Regenwälder der Erde in den Fokus. Diese komplexen Ökosysteme bedecken nur rund sechs Prozent der Erdoberfläche. Sie liegen vor allem in tropischen Regionen wie dem Amazonasbecken, dem Kongobecken und in Südostasien und spielen eine zentrale Rolle für Klima, Wasserhaushalt und Artenvielfalt weltweit. Sie speichern große Mengen Kohlenstoff und beeinflussen regionale wie globale Wetter- und Klimasysteme.",
       "fr-FR": "Le 22 juin, la Journée mondiale des forêts tropicales nous invite à protéger ces mondes vivants, principalement présents sous les tropiques, mais ne couvrant qu’environ 6 % des terres émergées. De l’Amazonie au bassin du Congo, jusqu’aux forêts d’Asie du Sud-Est, ces écosystèmes foisonnent de vie et régulent le climat. Leur richesse ne se mesure pas seulement en hectares, mais en chants d’oiseaux, cycles d’eau et équilibres fragiles.",
       "es-ES": "El 22 de junio se celebra el Día Internacional de los Bosques Tropicales, una fecha que invita a reconocer el valor de estos ecosistemas y su papel esencial para la vida en la Tierra. A pesar de ocupar una pequeña fracción de la superficie terrestre, albergan una riqueza biológica extraordinaria y regulan el clima global. También sostienen a numerosas comunidades y proporcionan recursos imprescindibles, lo que convierte su conservación en una responsabilidad compartida.",
-      "ja-JP": "陽光が貫く密林. キノート・レイン・フォレスト, 米国 ワシントン州. ここは、米国ワシントン州のオリンピック国立公園南西部に位置するキノート・レイン・フォレスト。年間降水量は 5,200mm にも達する温帯雨林です。湿ったコケやシダに覆われたオオバカエデやマウンテンヘムロックなどの樹木が見られ、林床には菌類や昆虫、両生類が生息しています。また、この森の中では、オリンピック国立公園内で最大の陸生哺乳類であるルーズベルトエルクの姿を見ることもできます。",
+      "ja-JP": "ここは、米国ワシントン州のオリンピック国立公園南西部に位置するキノート・レイン・フォレスト。年間降水量は 5,200mm にも達する温帯雨林です。湿ったコケやシダに覆われたオオバカエデやマウンテンヘムロックなどの樹木が見られ、林床には菌類や昆虫、両生類が生息しています。また、この森の中では、オリンピック国立公園内で最大の陸生哺乳類であるルーズベルトエルクの姿を見ることもできます。",
       "en-IN": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
       "it-IT": "Il 22 giugno è la «Giornata mondiale della foresta pluviale», un momento globale e un richiamo costante, valido tutto l’anno, per proteggere le foreste pluviali ancora esistenti sul pianeta. Questi ecosistemi non sono solo punti sulla mappa, ma prosperano nei tropici e oltre, ma coprono appena circa il 6% della superficie terrestre. Pensiamo all’Amazzonia in Sud America, al Bacino del Congo in Africa e alle foreste del Sud-est asiatico.",
       "pt-BR": "Um reino movido a chuva. Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos. Em algumas matas, até o silêncio parece úmido. O Dia Mundial das Florestas Tropicais, celebrado em 22 de junho, só dá nome ao que já está em pleno funcionamento.",
@@ -1519,14 +1652,79 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Nature's reef keepers. World Sea Turtle Day",
+      "en-CA": "Nature's reef keepers. World Sea Turtle Day",
+      "pt-BR": "Vida longa aos oceanos",
+      "en-GB": "Nature's reef keepers. World Sea Turtle Day",
+      "de-DE": "Hüter der Korallenriffe. Internationaler Tag der Meeresschildkröten",
+      "fr-FR": "Les gardiennes des récifs. Journée mondiale des tortues marines",
+      "it-IT": "Saggi protettori",
+      "es-ES": "Al ritmo del océano. Día Mundial de las Tortugas Marinas",
+      "ja-JP": "今日は世界ウミガメの日",
+      "zh-CN": "蔚蓝海礁的守护者",
+      "en-IN": "Nature's reef keepers. World Sea Turtle Day"
+    },
+    "copyrights": {
+      "en-US": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
+      "en-CA": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
+      "pt-BR": "Tartarugas-de-pente perto de Seven Mile Beach, Grand Cayman, Ilhas Cayman (© Alex Mustard/Nature Picture Library)",
+      "en-GB": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
+      "de-DE": "Zwei Echte Karettschildkröten in der Nähe des Seven Mile Beach, Grand Cayman, Kaimaninseln (© Alex Mustard/Nature Picture Library)",
+      "fr-FR": "Un couple de tortues imbriquées près de Seven Mile Beach, Grand Cayman, Îles Caïmans (© Alex Mustard/Nature Picture Library)",
+      "it-IT": "Tartarughe embricate, Seven Mile Beach, Isole Cayman (© Alex Mustard/Nature Picture Library)",
+      "es-ES": "Pareja de tortugas carey cerca de Seven Mile Beach, Gran Caimán, Islas Caimán (© Alex Mustard/Nature Picture Library)",
+      "ja-JP": "優雅に泳ぐタイマイ, ケイマン諸島 (© Alex Mustard/Nature Picture Library)",
+      "zh-CN": "七英里海滩附近的玳瑁海龟伴侣，大开曼岛，开曼群岛 (© Alex Mustard/Nature Picture Library)",
+      "en-IN": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on June 16, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change, and accidental capture in fishing gear.",
+      "en-CA": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on June 16, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear.",
+      "en-GB": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on 16 June, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear.",
+      "de-DE": "Seit über 100 Millionen Jahren durchqueren Meeresschildkröten die Ozeane und prägen bis heute empfindliche Meeresökosysteme. Am 16. Juni, dem Internationalen Tag der Meeresschildkröten, rückt ihr Schutz in den Mittelpunkt. Fast alle Arten gelten inzwischen als bedroht, da ihnen Plastikverschmutzung, Klimawandel, Lebensraumverlust und Beifang weltweit zu schaffen machen. Dabei spielen sie eine entscheidende Rolle für das Gleichgewicht der Meere, beispielsweise indem sie Seegraswiesen pflegen, Nährstoffe transportieren und Korallenriffe stabilisieren. Viele Arten legen dabei erstaunliche Distanzen zurück und kehren zur Eiablage an genau jene Strände zurück, an denen sie selbst geschlüpft sind.",
+      "fr-FR": "Chaque 16 juin, la Journée mondiale des tortues marines nous invite à contempler ces navigateurs millénaires, présents depuis plus de 100 millions d’années. Leur lenteur n’est qu’apparente : elles parcourent des distances immenses entre zones d’alimentation et plages de ponte. En broutant les herbiers et en régulant les récifs, elles maintiennent l’équilibre d’écosystèmes essentiels à une vie marine foisonnante. Pourtant, leur destin vacille face à la disparition des habitats, au plastique, au réchauffement des océans et aux captures accidentelles.",
+      "es-ES": "El 16 de junio se celebra el Día Mundial de las Tortugas Marinas, una fecha dedicada a la conservación de estos reptiles milenarios. La elección del día rinde homenaje a Archie Carr, biólogo marino considerado uno de los mayores defensores de las tortugas. Su labor impulsó la investigación y la protección de especies amenazadas por la contaminación, la pesca incidental y la pérdida de hábitat. Hoy, esta jornada invita a reflexionar sobre la fragilidad de los océanos y sobre la necesidad de actuar para garantizar su futuro.",
+      "ja-JP": "今日 6 月 16 日は「世界ウミガメの日」。ウミガメの存在やその保護の大切さについて、改めて考える日です。世界に生息している 7 種のウミガメのうち、日本の砂浜で産卵が確認されているのは、アカウミガメ、アオウミガメ、そして画像のタイマイの 3 種です。タイマイは、模様のある甲羅と、タカのくちばしのように先のとがった口元が特徴です。沿岸の浅い海域を好み、主に海綿動物を食べることで、サンゴ礁のバランスを保つ役割を果たしています。現在、絶滅の危機に瀕しており、ウミガメの中でも特に希少な種のひとつです。",
+      "en-IN": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on 16 June, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "World Sea Turtle Day",
+      "en-CA": "World Sea Turtle Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260616_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260616_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=dia+da+tartaruga+marinha&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SevenMileTurtle_EN-US6164934763",
+      "en-CA": "/th?id=OHR.SevenMileTurtle_EN-CA5750272834",
+      "pt-BR": "/th?id=OHR.SevenMileTurtle_PT-BR3827841290"
+    }
+  },
+  "MasaiGiraffe": {
+    "name": "MasaiGiraffe",
+    "urlbase": "/th?id=OHR.MasaiGiraffe_EN-GB8702520320",
+    "date": "20260629",
+    "dateFormatted": "June 29, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1549,11 +1747,6 @@
         "flag": "es"
       },
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1570,261 +1763,76 @@
       }
     ],
     "titles": {
-      "en-US": "Nature's reef keepers. World Sea Turtle Day",
-      "en-GB": "Nature's reef keepers. World Sea Turtle Day",
-      "en-CA": "Nature's reef keepers. World Sea Turtle Day",
-      "de-DE": "Hüter der Korallenriffe. Internationaler Tag der Meeresschildkröten",
-      "fr-FR": "Les gardiennes des récifs. Journée mondiale des tortues marines",
-      "it-IT": "Saggi protettori",
-      "es-ES": "Al ritmo del océano. Día Mundial de las Tortugas Marinas",
-      "pt-BR": "Vida longa aos oceanos",
-      "ja-JP": "今日は世界ウミガメの日",
-      "zh-CN": "蔚蓝海礁的守护者",
-      "en-IN": "Nature's reef keepers. World Sea Turtle Day"
+      "en-GB": "Where shadows stretch tall. Giraffes in the Masai Mara National Reserve, Kenya",
+      "de-DE": "Wo sich die Schatten in die Länge ziehen. Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia",
+      "fr-FR": "Jouer à l’ombre la plus longue. Réserve nationale du Masai Mara, Kenya",
+      "it-IT": "La vista dalla cima è meravigliosa",
+      "es-ES": "¡Una vista fascinante!. Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia",
+      "ja-JP": "夕焼けに浮かぶキリンの影",
+      "zh-CN": "阴影被拉得修长之处",
+      "en-IN": "Where shadows stretch tall. Giraffes in the Masai Mara National Reserve, Kenya",
+      "en-US": "Where shadows stretch tall. Giraffes at sunset in the Masai Mara National Reserve, Kenya",
+      "en-CA": "Where shadows stretch tall. Giraffes at sunset in the Masai Mara National Reserve, Kenya",
+      "pt-BR": "O entardecer das gigantes. Girafas ao pôr do sol na Reserva Nacional Masai Mara, Quênia"
     },
     "copyrights": {
-      "en-US": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
-      "en-GB": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
-      "en-CA": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
-      "de-DE": "Zwei Echte Karettschildkröten in der Nähe des Seven Mile Beach, Grand Cayman, Kaimaninseln (© Alex Mustard/Nature Picture Library)",
-      "fr-FR": "Un couple de tortues imbriquées près de Seven Mile Beach, Grand Cayman, Îles Caïmans (© Alex Mustard/Nature Picture Library)",
-      "it-IT": "Tartarughe embricate, Seven Mile Beach, Isole Cayman (© Alex Mustard/Nature Picture Library)",
-      "es-ES": "Pareja de tortugas carey cerca de Seven Mile Beach, Gran Caimán, Islas Caimán (© Alex Mustard/Nature Picture Library)",
-      "pt-BR": "Tartarugas-de-pente perto de Seven Mile Beach, Grand Cayman, Ilhas Cayman (© Alex Mustard/Nature Picture Library)",
-      "ja-JP": "優雅に泳ぐタイマイ, ケイマン諸島 (© Alex Mustard/Nature Picture Library)",
-      "zh-CN": "七英里海滩附近的玳瑁海龟伴侣，大开曼岛，开曼群岛 (© Alex Mustard/Nature Picture Library)",
-      "en-IN": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)"
+      "en-GB": "Giraffes in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+      "de-DE": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia (© danm/Getty Images)",
+      "fr-FR": "Girafes au coucher du soleil, Masai Mara, Kenya (© danm/Getty Images)",
+      "it-IT": "Giraffe al tramonto nella Riserva Nazionale Masai Mara, Kenya (© danm/Getty Images)",
+      "es-ES": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia (© danm/Getty Images)",
+      "ja-JP": "マサイキリン, ケニヤ (© danm/Getty Images)",
+      "zh-CN": "马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)",
+      "en-IN": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+      "en-US": "© danm/Getty Images",
+      "en-CA": "© danm/Getty Images",
+      "pt-BR": "© danm/Getty Images"
     },
     "descs": {
-      "en-US": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on June 16, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change, and accidental capture in fishing gear.",
-      "en-GB": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on 16 June, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear.",
-      "en-CA": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on June 16, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear.",
-      "de-DE": "Seit über 100 Millionen Jahren durchqueren Meeresschildkröten die Ozeane und prägen bis heute empfindliche Meeresökosysteme. Am 16. Juni, dem Internationalen Tag der Meeresschildkröten, rückt ihr Schutz in den Mittelpunkt. Fast alle Arten gelten inzwischen als bedroht, da ihnen Plastikverschmutzung, Klimawandel, Lebensraumverlust und Beifang weltweit zu schaffen machen. Dabei spielen sie eine entscheidende Rolle für das Gleichgewicht der Meere, beispielsweise indem sie Seegraswiesen pflegen, Nährstoffe transportieren und Korallenriffe stabilisieren. Viele Arten legen dabei erstaunliche Distanzen zurück und kehren zur Eiablage an genau jene Strände zurück, an denen sie selbst geschlüpft sind.",
-      "fr-FR": "Chaque 16 juin, la Journée mondiale des tortues marines nous invite à contempler ces navigateurs millénaires, présents depuis plus de 100 millions d’années. Leur lenteur n’est qu’apparente : elles parcourent des distances immenses entre zones d’alimentation et plages de ponte. En broutant les herbiers et en régulant les récifs, elles maintiennent l’équilibre d’écosystèmes essentiels à une vie marine foisonnante. Pourtant, leur destin vacille face à la disparition des habitats, au plastique, au réchauffement des océans et aux captures accidentelles.",
-      "es-ES": "El 16 de junio se celebra el Día Mundial de las Tortugas Marinas, una fecha dedicada a la conservación de estos reptiles milenarios. La elección del día rinde homenaje a Archie Carr, biólogo marino considerado uno de los mayores defensores de las tortugas. Su labor impulsó la investigación y la protección de especies amenazadas por la contaminación, la pesca incidental y la pérdida de hábitat. Hoy, esta jornada invita a reflexionar sobre la fragilidad de los océanos y sobre la necesidad de actuar para garantizar su futuro.",
-      "ja-JP": "今日 6 月 16 日は「世界ウミガメの日」。ウミガメの存在やその保護の大切さについて、改めて考える日です。世界に生息している 7 種のウミガメのうち、日本の砂浜で産卵が確認されているのは、アカウミガメ、アオウミガメ、そして画像のタイマイの 3 種です。タイマイは、模様のある甲羅と、タカのくちばしのように先のとがった口元が特徴です。沿岸の浅い海域を好み、主に海綿動物を食べることで、サンゴ礁のバランスを保つ役割を果たしています。現在、絶滅の危機に瀕しており、ウミガメの中でも特に希少な種のひとつです。",
-      "en-IN": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on 16 June, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-US": "World Sea Turtle Day",
-      "en-GB": "World Sea Turtle Day",
-      "en-CA": "World Sea Turtle Day",
-      "de-DE": "Internationaler Tag der Meeresschildkröten",
-      "fr-FR": "Journée mondiale des tortues marines",
-      "it-IT": "",
-      "es-ES": "Día Mundial de las Tortugas Marinas",
-      "pt-BR": "",
-      "ja-JP": "今日は世界ウミガメの日",
-      "zh-CN": "",
-      "en-IN": "World Sea Turtle Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260616_0700%22",
-      "en-GB": "https://www.bing.com/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260615_2300%22",
-      "en-CA": "https://www.bing.com/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260616_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+der+Meeresschildkr%c3%b6ten&form=hpcapt&filters=HpDate%3a%2220260615_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+tortues+marines+2026&form=hpcapt&filters=HpDate%3a%2220260615_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Cheloni&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+las+Tortugas+Marinas&form=hpcapt&filters=HpDate%3a%2220260615_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=dia+da+tartaruga+marinha&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e3%82%a6%e3%83%9f%e3%82%ac%e3%83%a1%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260615_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b5%b7%e9%be%9f%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260615_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.SevenMileTurtle_EN-US6164934763",
-      "en-GB": "/th?id=OHR.SevenMileTurtle_EN-GB9965359647",
-      "en-CA": "/th?id=OHR.SevenMileTurtle_EN-CA5750272834",
-      "de-DE": "/th?id=OHR.SevenMileTurtle_DE-DE3122799407",
-      "fr-FR": "/th?id=OHR.SevenMileTurtle_FR-FR7065841321",
-      "it-IT": "/th?id=OHR.SevenMileTurtle_IT-IT4183755480",
-      "es-ES": "/th?id=OHR.SevenMileTurtle_ES-ES8939258902",
-      "pt-BR": "/th?id=OHR.SevenMileTurtle_PT-BR3827841290",
-      "ja-JP": "/th?id=OHR.SevenMileTurtle_JA-JP9577560353",
-      "zh-CN": "/th?id=OHR.SevenMileTurtle_ZH-CN4346512721",
-      "en-IN": "/th?id=OHR.SevenMileTurtle_EN-IN0218913418"
-    }
-  },
-  "ParkEstd": {
-    "name": "ParkEstd",
-    "urlbase": "/th?id=OHR.ParkEstd_EN-US6114949122",
-    "date": "20260615",
-    "dateFormatted": "June 15, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Aged to scenic perfection. Great Smoky Mountains National Park turns 92!",
-      "en-CA": "Aged to scenic perfection. Great Smoky Mountains National Park, Tennessee, United States",
-      "pt-BR": "A névoa como assinatura",
-      "en-GB": "Aged to scenic perfection. Great Smoky Mountains National Park",
-      "fr-FR": "Le silence des vallées. Parc national des Great Smoky Mountains, États-Unis",
-      "it-IT": "Valli nella nebbia",
-      "es-ES": "Perfeccionado por el tiempo. Parque nacional de las Grandes Montañas Humeantes, EE. UU.",
-      "ja-JP": "今日はグレート・スモーキー山脈国立公園の記念日",
-      "zh-CN": "岁月雕琢，风景始成",
-      "en-IN": "Aged to scenic perfection. Great Smoky Mountains National Park"
-    },
-    "copyrights": {
-      "en-US": "Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)",
-      "en-CA": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
-      "pt-BR": "Parque Nacional Great Smoky Mountains, Tennessee, Estados Unidos (© Mint Images/Getty Images)",
-      "en-GB": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
-      "fr-FR": "Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Mint Images/Getty Images)",
-      "it-IT": "Parco nazionale delle Great Smoky Mountains, Tennessee, USA (© Mint Images/Getty Images)",
-      "es-ES": "Parque nacional de las Grandes Montañas Humeantes, Tennessee, EE. UU. (© Mint Images/Getty Images)",
-      "ja-JP": "グレート・スモーキー山脈国立公園, 米国 テネシー州 (© Mint Images/Getty Images)",
-      "zh-CN": "大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)",
-      "en-IN": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)"
-    },
-    "descs": {
-      "en-US": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 522,000 acres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
-      "en-CA": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 2,112 square kilometres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
-      "en-GB": "These mountains were shaped over time long before they became a protected landscape. The Great Smoky Mountains National Park in Tennessee and North Carolina, United States covers over 522,000 acres (more than 200,000 hectares). The park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
-      "fr-FR": "Façonnées par le temps, les Great Smoky Mountains sont protégées depuis le 15 juin 1934, date de la création du parc national situé entre le Tennessee et la Caroline du Nord, aux États-Unis. S’étendant sur environ 211 000 hectares, il abrite des roches des Appalaches datant de plus de 300 millions d’années, qui se fondent dans la brume bleutée à l’origine de leur nom.",
-      "es-ES": "Situado entre Tennessee y Carolina del Norte, el parque nacional de las Grandes Montañas Humeantes es uno de los espacios protegidos más visitados de Estados Unidos. Su nombre alude a la neblina azulada que envuelve las cumbres y crea un efecto visual parecido al humo. Este fenómeno se debe a la humedad y a los compuestos orgánicos liberados por la vegetación, especialmente abundante en la zona.",
-      "ja-JP": "1934 年 6 月 15 日、グレート・スモーキー山脈国立公園は米国議会により設立されました。この公園はテネシー州とノースカロライナ州の州境に位置し、約 2,100km² の面積を誇る米国東部で最も広い保護地域の一つです。公園の標高は約 250m から 2,000m で、最高地点であるクウォヒ（標高 2,025m ）の展望台は、壮大な景観を一望できる人気のスポットとなっています。標高差や豊富な降水量、広大な原生林によって、多様な生態系が育まれており、クロクマやヘラジカ、200 種以上の鳥類、数千種の植物が生息しています。また、約 30 種のサンショウウオが生息しており、「サンショウウオの世界の首都」とも呼ばれています。",
-      "en-IN": "These mountains were shaped over time long before they became a protected landscape. The Great Smoky Mountains National Park in Tennessee and North Carolina, United States covers more than 2,000 square kilometres. The park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-US": "Great Smoky Mountains National Park turns 92!",
-      "en-CA": "Great Smoky Mountains National Park, Tennessee, United States",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260615_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260615_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+Great+Smoky+Mountains+Tennesse&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.ParkEstd_EN-US6114949122",
-      "en-CA": "/th?id=OHR.ParkEstd_EN-CA5456833657",
-      "pt-BR": "/th?id=OHR.ParkEstd_PT-BR2427992581"
-    }
-  },
-  "BoraBoraLagoon": {
-    "name": "BoraBoraLagoon",
-    "urlbase": "/th?id=OHR.BoraBoraLagoon_EN-GB1950063282",
-    "date": "20260628",
-    "dateFormatted": "June 28, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Born on fire, held by water. International Day of the Tropics",
-      "de-DE": "Aus Feuer geboren, vom Wasser gehalten. Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
-      "fr-FR": "D’eau et de feu. Journée internationale des tropiques",
-      "es-ES": "Nacidas entre llamas, sostenidas por el agua. Día Internacional de los Trópicos",
-      "ja-JP": "今日は国際熱帯デー",
-      "zh-CN": "生于烈火，拥于碧水",
-      "en-IN": "Born on fire, held by water. International Day of the Tropics",
-      "en-US": "Born on fire, held by water. Bora Bora and its lagoon, South Pacific, French Polynesia",
-      "en-CA": "Born on fire, held by water. Bora Bora and its lagoon, South Pacific, French Polynesia",
-      "pt-BR": "Uma exuberância bem tropical. Bora Bora e sua lagoa, Pacífico Sul, Polinésia Francesa"
-    },
-    "copyrights": {
-      "en-GB": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
-      "de-DE": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien (© Frederick Millett/Shutterstock)",
-      "fr-FR": "Bora Bora et son lagon, Pacifique Sud, Polynésie française (© Frederick Millett/Shutterstock)",
-      "es-ES": "Bora Bora y su laguna, Pacífico Sur, Polinesia Francesa (© Frederick Millett/Shutterstock)",
-      "ja-JP": "ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)",
-      "zh-CN": "波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)",
-      "en-IN": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
-      "en-US": "© Frederick Millett/Shutterstock",
-      "en-CA": "© Frederick Millett/Shutterstock",
-      "pt-BR": "© Frederick Millett/Shutterstock"
-    },
-    "descs": {
-      "en-GB": "Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
-      "de-DE": "Bora Bora im Südpazifik in Französisch-Polynesien gehört zu den eindrucksvollsten Landschaften der Erde. Die Insel entstand aus einem erloschenen Vulkan, dessen dunkle Gipfel sich steil über das Meer erheben. Ringförmig umgeben von einem Korallenriff liegt eine ruhige Lagune mit schimmernden Blautönen, die sich je nach Licht und Tiefe verändern. Palmen, weiße Strände und kristallklares Wasser prägen das Bild und verleihen dem Ort eine fast unwirkliche Schönheit. Besonders bei Sonnenaufgang und Sonnenuntergang entfaltet die Lagune eine beeindruckende Farbvielfalt, die Besucher immer wieder aufs Neue fasziniert.",
-      "fr-FR": "Chaque 29 juin, la Journée internationale des tropiques met à l’honneur la vaste région située entre les tropiques du Cancer et du Capricorne. Couvrant environ 40 % de la surface terrestre, elle abrite près de 80 % de la biodiversité mondiale et joue un rôle essentiel pour les équilibres climatiques et écologiques de la planète.",
-      "es-ES": "Bora Bora, en la Polinesia Francesa, ofrece una ventana fascinante a las regiones tropicales, protagonistas del Día Internacional de los Trópicos celebrado cada veintinueve de junio. Estas zonas del planeta, definidas por su clima cálido y húmedo, ocupan cerca del 40 % de la superficie terrestre y concentran alrededor del 80 % de la biodiversidad mundial, lo que las convierte en un pilar esencial para el equilibrio global.",
-      "ja-JP": "今日 6 月 29 日は国際熱帯デー。熱帯とは、赤道を中心に南北回帰線に挟まれた年中温暖な地域を指します。世界人口の約 40% が暮らし、地球上の生物種の約 80% が生息する重要な場所です。そして、画像は赤道近くに位置するフランス領ポリネシアにあるボラボラ島。島の中央にはオテマヌ山とパヒア山といった玄武岩の峰々がそびえています。周囲を取り囲むサンゴ礁の内側には穏やかなターコイズ色のラグーンが広がり、その美しさから「太平洋の真珠」とも称されています。",
-      "en-IN": "Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
-      "en-US": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
-      "en-CA": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
-      "pt-BR": "Hoje é Dia Internacional dos Trópicos, essa faixa entre Câncer e Capricórnio onde calor e umidade parecem ter opinião própria. Essa área cobre cerca de 40% da superfície terrestre, mas concentra mais ou menos 80% da biodiversidade. Tudo aqui opera em escala maior: florestas mais densas, recifes mais vibrantes, culturas mais intensas. E o Brasil, com a Amazônia e seus biomas, está no centro dessa potência.",
-      "zh-CN": "生于烈火，拥于碧水. 波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚. “国际热带日”于每年6月29日纪念，旨在聚焦北回归线与南回归线之间那片广阔的区域——在这里，温暖的气候与充沛的降水塑造着人们的日常生活。该区域虽仅占地球表面积的约40%，却承载了全球约80%的生物多样性，对于地球生态健康与人类文化而言至关重要。"
+      "en-GB": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 580 square miles in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
+      "de-DE": "Das Masai-Mara-Nationalreservat im Südwesten Kenias umfasst etwa 1500 Quadratkilometer und grenzt direkt an die Serengeti in Tansania. Es zählt zu den bedeutendsten Schutzgebieten für Wildtiere weltweit. Die Landschaft besteht aus offenen Grasflächen, locker verteilten Akazien und dem Mara-Fluss als zentraler Wasserquelle. Diese Bedingungen ermöglichen eine hohe Artenvielfalt und prägen das ökologische Gleichgewicht. In den Abendstunden, wenn die Sonne sinkt, verbessern sich die Sichtverhältnisse und viele Tiere werden in der weiten Savanne deutlich erkennbar.",
+      "fr-FR": "Alors que le soleil décline sur la réserve nationale du Masai Mara, les girafes masaï se découpent sur un ciel flamboyant et des plaines infinies. Située au sud-ouest du Kenya, à la frontière du parc national du Serengeti en Tanzanie, cette réserve d’environ 1 500 km² est l’un des plus grands sanctuaires animaliers au monde. Ses prairies vallonnées, ses acacias dispersés et la rivière Mara, essentielle à l’écosystème, en font un lieu privilégié pour observer la faune.",
+      "es-ES": "En la Reserva Nacional Masai Mara, en Kenia, las jirafas masái dominan el horizonte cuando el sol se funde con la sabana en tonos ardientes. Este santuario natural, que se extiende por unos 1.500 km² en el suroeste del país, forma parte de uno de los grandes escenarios de vida salvaje del planeta, conectado con el Serengeti. Entre praderas abiertas, acacias dispersas y el río Mara, la naturaleza marca un ritmo que impresiona por su escala y su intensidad.",
+      "ja-JP": "今日の画像は、ケニアのマサイマラ国立保護区で撮影されたマサイキリンです。マサイキリンは、他のキリン同様体に模様があり、ギザギザとした葉のような形をしているのが特徴です。この模様は、人間の指紋のように、個体ごとに異なります。彼らは、一日の大半を食事に充てており、長い舌を器用に使って鋭い棘の間から葉を摘み取って食べています。普段は穏やかで優雅に過ごしていますが、捕食者から逃げる際などは時速約 55km に達する速さで走れます。",
+      "en-IN": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 1,500 square kilometres in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
+      "en-US": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 580 square miles in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees, and the life-giving Mara River set the stage for unforgettable encounters.",
+      "en-CA": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 1,500 square kilometres in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
+      "it-IT": "Nel Masai Mara in Kenya, le giraffe Masai si stagliano al tramonto come silhouette eleganti contro un cielo rosso intenso. Quando la luce si abbassa, la riserva — un’enorme distesa di circa 1.500 km² al confine con il Serengeti — si trasforma in un teatro naturale fatto di praterie ondulate, acacie isolate e il sinuoso fiume Mara. Qui ogni dettaglio racconta la vita allo stato puro.",
+      "pt-BR": "À medida que o sol se aproxima do horizonte, as girafas‑masai vistas na imagem ganham forma em contraste com o céu quente do Quênia. A cena acontece na Reserva Nacional de Masai Mara, um mosaico de campos abertos, acácias espaçadas e o rio Mara, que mantém a vida circulando em um dos maiores palcos naturais do planeta.",
+      "zh-CN": "阴影被拉得修长之处. 马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚. 当夕阳在马赛马拉国家保护区缓缓西沉，马赛长颈鹿的剪影映衬着绚烂如火的天空与辽阔原野，显得格外醒目。这座保护区位于肯尼亚西南部，与坦桑尼亚的塞伦盖蒂国家公园接壤，占地约580平方英里；随着夜幕降临，这里又度过了精彩的一天。这是一片广袤无垠的土地，也是世界上最壮观的野生动物乐园之一。起伏的草原、零星点缀的金合欢树，以及孕育万物的马拉河，共同构成了上演难忘邂逅的绝佳舞台。"
     },
     "quickFacts": {
-      "zh-CN": "波拉波拉岛的泻湖栖息着鹰魟，它们常成群活动，在太平洋最清澈的海域之一的沙质海底优雅滑行。"
+      "zh-CN": "长颈鹿的心脏重量可超过11千克（25磅），能够将血液克服重力输送至近2米高的头部，是陆地动物中极为强大的循环系统之一。"
     },
     "captions": {
-      "en-GB": "International Day of the Tropics",
-      "de-DE": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
-      "fr-FR": "Journée internationale des tropiques",
-      "es-ES": "Día Internacional de los Trópicos",
-      "ja-JP": "今日は国際熱帯デー",
+      "en-GB": "Giraffes in the Masai Mara National Reserve, Kenya",
+      "de-DE": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia",
+      "fr-FR": "Réserve nationale du Masai Mara, Kenya",
+      "it-IT": "",
+      "es-ES": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia",
+      "ja-JP": "夕焼けに浮かぶキリンの影",
       "zh-CN": "",
-      "en-IN": "International Day of the Tropics"
+      "en-IN": "Giraffes in the Masai Mara National Reserve, Kenya"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Bora+Bora&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+Internationale+Tropiques&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Bora+Bora+Atol%c3%b3n&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e7%86%b1%e5%b8%af%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260628_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e7%83%ad%e5%b8%a6%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260629_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Masai+Mara+Nationalreservat&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=r%c3%a9serve+Masai+Mara&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Masai+Mara&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Reserva+Nacional+Masai+Mara&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%9e%e3%82%b5%e3%82%a4%e3%82%ad%e3%83%aa%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260629_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%a9%ac%e8%b5%9b%e9%a9%ac%e6%8b%89%e5%9b%bd%e5%ae%b6%e4%bf%9d%e6%8a%a4%e5%8c%ba&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260629_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.BoraBoraLagoon_EN-GB1950063282",
-      "de-DE": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686",
-      "fr-FR": "/th?id=OHR.BoraBoraLagoon_FR-FR6825831086",
-      "es-ES": "/th?id=OHR.BoraBoraLagoon_ES-ES4364920301",
-      "ja-JP": "/th?id=OHR.BoraBoraLagoon_JA-JP3981162879",
-      "zh-CN": "/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590",
-      "en-IN": "/th?id=OHR.BoraBoraLagoon_EN-IN9424063973"
+      "en-GB": "/th?id=OHR.MasaiGiraffe_EN-GB8702520320",
+      "de-DE": "/th?id=OHR.MasaiGiraffe_DE-DE5053384610",
+      "fr-FR": "/th?id=OHR.MasaiGiraffe_FR-FR7072948459",
+      "it-IT": "/th?id=OHR.MasaiGiraffe_IT-IT8100161271",
+      "es-ES": "/th?id=OHR.MasaiGiraffe_ES-ES0604244262",
+      "ja-JP": "/th?id=OHR.MasaiGiraffe_JA-JP6554855892",
+      "zh-CN": "/th?id=OHR.MasaiGiraffe_ZH-CN1665123897",
+      "en-IN": "/th?id=OHR.MasaiGiraffe_EN-IN0088128873"
     }
   },
   "IsolaElba": {
@@ -2422,6 +2430,78 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108"
+    }
+  },
+  "ParkEstd": {
+    "name": "ParkEstd",
+    "urlbase": "/th?id=OHR.ParkEstd_EN-US6114949122",
+    "date": "20260615",
+    "dateFormatted": "June 15, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Aged to scenic perfection. Great Smoky Mountains National Park turns 92!",
+      "en-CA": "Aged to scenic perfection. Great Smoky Mountains National Park, Tennessee, United States",
+      "pt-BR": "A névoa como assinatura",
+      "en-GB": "Aged to scenic perfection. Great Smoky Mountains National Park",
+      "fr-FR": "Le silence des vallées. Parc national des Great Smoky Mountains, États-Unis",
+      "it-IT": "Valli nella nebbia",
+      "es-ES": "Perfeccionado por el tiempo. Parque nacional de las Grandes Montañas Humeantes, EE. UU.",
+      "ja-JP": "今日はグレート・スモーキー山脈国立公園の記念日",
+      "zh-CN": "岁月雕琢，风景始成",
+      "en-IN": "Aged to scenic perfection. Great Smoky Mountains National Park"
+    },
+    "copyrights": {
+      "en-US": "Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)",
+      "en-CA": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
+      "pt-BR": "Parque Nacional Great Smoky Mountains, Tennessee, Estados Unidos (© Mint Images/Getty Images)",
+      "en-GB": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
+      "fr-FR": "Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Mint Images/Getty Images)",
+      "it-IT": "Parco nazionale delle Great Smoky Mountains, Tennessee, USA (© Mint Images/Getty Images)",
+      "es-ES": "Parque nacional de las Grandes Montañas Humeantes, Tennessee, EE. UU. (© Mint Images/Getty Images)",
+      "ja-JP": "グレート・スモーキー山脈国立公園, 米国 テネシー州 (© Mint Images/Getty Images)",
+      "zh-CN": "大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)",
+      "en-IN": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)"
+    },
+    "descs": {
+      "en-US": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 522,000 acres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
+      "en-CA": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 2,112 square kilometres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
+      "en-GB": "These mountains were shaped over time long before they became a protected landscape. The Great Smoky Mountains National Park in Tennessee and North Carolina, United States covers over 522,000 acres (more than 200,000 hectares). The park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
+      "fr-FR": "Façonnées par le temps, les Great Smoky Mountains sont protégées depuis le 15 juin 1934, date de la création du parc national situé entre le Tennessee et la Caroline du Nord, aux États-Unis. S’étendant sur environ 211 000 hectares, il abrite des roches des Appalaches datant de plus de 300 millions d’années, qui se fondent dans la brume bleutée à l’origine de leur nom.",
+      "es-ES": "Situado entre Tennessee y Carolina del Norte, el parque nacional de las Grandes Montañas Humeantes es uno de los espacios protegidos más visitados de Estados Unidos. Su nombre alude a la neblina azulada que envuelve las cumbres y crea un efecto visual parecido al humo. Este fenómeno se debe a la humedad y a los compuestos orgánicos liberados por la vegetación, especialmente abundante en la zona.",
+      "ja-JP": "1934 年 6 月 15 日、グレート・スモーキー山脈国立公園は米国議会により設立されました。この公園はテネシー州とノースカロライナ州の州境に位置し、約 2,100km² の面積を誇る米国東部で最も広い保護地域の一つです。公園の標高は約 250m から 2,000m で、最高地点であるクウォヒ（標高 2,025m ）の展望台は、壮大な景観を一望できる人気のスポットとなっています。標高差や豊富な降水量、広大な原生林によって、多様な生態系が育まれており、クロクマやヘラジカ、200 種以上の鳥類、数千種の植物が生息しています。また、約 30 種のサンショウウオが生息しており、「サンショウウオの世界の首都」とも呼ばれています。",
+      "en-IN": "These mountains were shaped over time long before they became a protected landscape. The Great Smoky Mountains National Park in Tennessee and North Carolina, United States covers more than 2,000 square kilometres. The park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Great Smoky Mountains National Park turns 92!",
+      "en-CA": "Great Smoky Mountains National Park, Tennessee, United States",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260615_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260615_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+Great+Smoky+Mountains+Tennesse&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ParkEstd_EN-US6114949122",
+      "en-CA": "/th?id=OHR.ParkEstd_EN-CA5456833657",
+      "pt-BR": "/th?id=OHR.ParkEstd_PT-BR2427992581"
     }
   },
   "FlagsMonument": {
