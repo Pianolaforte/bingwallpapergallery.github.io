@@ -1,4 +1,140 @@
 {
+  "TempleEsna": {
+    "name": "TempleEsna",
+    "urlbase": "/th?id=OHR.TempleEsna_EN-US1999215513",
+    "date": "20260702",
+    "dateFormatted": "July 02, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "en-GB": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "en-CA": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "de-DE": "Ein Blick in Esnas Universum. Decke des Tempels von Esna, Ägypten",
+      "fr-FR": "Dans l'univers sacré d'Esna. Plafond du temple d'Esna, Égypte",
+      "es-ES": "Dentro del universo sagrado de Esna. Templo de Jnum en Esna, Egipto",
+      "pt-BR": "O cosmos segundo Esna",
+      "ja-JP": "古代神殿の壮麗な内部空間",
+      "zh-CN": "走进埃斯纳神圣的世界",
+      "en-IN": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "it-IT": "All'interno dell'universo sacro di Esna. Soffitto del Tempio di Khnum ad Esna, Egitto"
+    },
+    "copyrights": {
+      "en-US": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "en-GB": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "en-CA": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "de-DE": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
+      "fr-FR": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
+      "es-ES": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
+      "pt-BR": "Teto do Templo de Esna, Egito (© Nick Brundle Photography/Getty Images)",
+      "ja-JP": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
+      "zh-CN": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
+      "en-IN": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "it-IT": "© Nick Brundle Photography/Getty Images"
+    },
+    "descs": {
+      "en-US": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have molded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honoring various deities.",
+      "en-GB": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "en-CA": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "de-DE": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
+      "fr-FR": "Au sud de Louxor, en Égypte, le temple d’Esna plonge les visiteurs dans le culte de Khnoum, dieu à tête de bélier associé à la création de l’Humanité à partir de l’argile du Nil. Principalement construit à l’époque ptolémaïque puis romaine, il possède une salle hypostyle remarquablement conservée, grâce à la poussière qui l’a couvert pendant des siècles.",
+      "es-ES": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
+      "ja-JP": "今日の画像は、古代エジプトにあるエスナ神殿（クヌム神殿）の天井です。エスナ神殿は、エジプト南部のナイル川西岸に位置し、主にプトレマイオス朝からローマ時代にかけて建設されました。現在残っている柱廊ホールは、24本の巨大な柱に支えられ、その柱や壁面には宗教的な文様が刻まれています。また、天井には黄道十二宮（星座）や天体図、神々などの天文学的装飾が描かれています。それらの装飾は儀礼や宇宙の循環などを象徴し、参拝者を神聖な世界へと導く役割を果たしていたと考えられています。",
+      "en-IN": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "it-IT": "Nel Tempio di Khnum ad Esna, in Egitto, si entra in un universo dove arte, mito e cielo si intrecciano in modo sorprendente. Dedicato al dio dalla testa d’ariete che, secondo la tradizione, plasmava l’umanità con l’argilla del Nilo, il santuario custodisce una sala sostenuta da ventiquattro colonne monumentali, ricche di rilievi e iscrizioni sacre.",
+      "pt-BR": "Uma construção pode nascer para durar. O Templo de Esna, no Egito, nasceu para conversar com o cosmos. Dedicado a Khnum, o deus com cabeça de carneiro que moldou a humanidade a partir do barro do Nilo, o templo tomou forma entre cerca de 200 a.C. e 250 d.C., atravessando períodos ptolemaicos e romanos sem perder a ambição.",
+      "zh-CN": "走进埃斯纳神圣的世界. 埃斯纳神庙穹顶天花板, 埃及. 在埃及卢克索以南的埃斯纳神庙（Temple of Esna），游客将步入一个充满生机的世界，这里供奉着公羊头神——赫努姆（Khnum）；传说他曾用尼罗河的黏土塑造了人类。这座神庙主要建于托勒密王朝和罗马统治时期，其现存的大厅由24根高耸的石柱支撑，每根柱子上都雕刻着精美的浮雕与颂扬诸神的仪式铭文。"
+    },
+    "quickFacts": {
+      "zh-CN": "数个世纪以来，埃斯纳神庙的大部分区域曾被淤泥和周边建筑掩埋，这在一定程度上减少了风化作用，使许多雕刻得以较好保存。"
+    },
+    "captions": {
+      "en-US": "Ceiling of the Temple of Esna, Egypt",
+      "en-GB": "Ceiling of the Temple of Esna, Egypt",
+      "en-CA": "Ceiling of the Temple of Esna, Egypt",
+      "de-DE": "Decke des Tempels von Esna, Ägypten",
+      "fr-FR": "Plafond du temple d'Esna, Égypte",
+      "es-ES": "Templo de Jnum en Esna, Egipto",
+      "pt-BR": "",
+      "ja-JP": "古代神殿の壮麗な内部空間",
+      "zh-CN": "",
+      "en-IN": "Ceiling of the Temple of Esna, Egypt"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260702_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260701_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260702_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Tempel+von+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Temple+Khnoum+Esna+Egypte&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+      "es-ES": "https://www.bing.com/search?q=El+Templo+de+Jnum+en+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Templo+Esna+Egito&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%82%b9%e3%83%8a%e7%a5%9e%e6%ae%bf&form=hpcapt&filters=HpDate%3a%2220260701_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9f%83%e5%8f%8a%e5%9f%83%e6%96%af%e7%ba%b3%e7%a5%9e%e5%ba%99&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260701_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.TempleEsna_EN-US1999215513",
+      "en-GB": "/th?id=OHR.TempleEsna_EN-GB9683013446",
+      "en-CA": "/th?id=OHR.TempleEsna_EN-CA5880187651",
+      "de-DE": "/th?id=OHR.TempleEsna_DE-DE2277338406",
+      "fr-FR": "/th?id=OHR.TempleEsna_FR-FR7122811032",
+      "es-ES": "/th?id=OHR.TempleEsna_ES-ES5295149663",
+      "pt-BR": "/th?id=OHR.TempleEsna_PT-BR4377934596",
+      "ja-JP": "/th?id=OHR.TempleEsna_JA-JP0629204284",
+      "zh-CN": "/th?id=OHR.TempleEsna_ZH-CN9834689523",
+      "en-IN": "/th?id=OHR.TempleEsna_EN-IN3356286000"
+    }
+  },
   "DungeonPark": {
     "name": "DungeonPark",
     "urlbase": "/th?id=OHR.DungeonPark_EN-US2499621341",
@@ -557,6 +693,11 @@
         "flag": "br"
       },
       {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -574,9 +715,9 @@
       "it-IT": "Gli alberi che hanno perso terreno",
       "es-ES": "Los árboles que perdieron terreno. Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
       "pt-BR": "A floresta que o mar redesenhou",
+      "ja-JP": "夕焼けに染まる水辺と枯れ木",
       "zh-CN": "逐渐失去立足之地的树木",
-      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
-      "ja-JP": "夕焼けに染まる水辺と枯れ木. ボニーヤード・ビーチ, 米国 サウスカロライナ州"
+      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States"
     },
     "copyrights": {
       "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
@@ -585,19 +726,19 @@
       "it-IT": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
       "es-ES": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
       "pt-BR": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
+      "ja-JP": "ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)",
       "zh-CN": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
-      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
-      "ja-JP": "© Frances/Adobe Stock"
+      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)"
     },
     "descs": {
       "en-US": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
       "en-GB": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
       "fr-FR": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
       "es-ES": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
+      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
       "en-IN": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
       "it-IT": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
       "pt-BR": "A floresta que o mar redesenhou. Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos. A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
-      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
       "zh-CN": "逐渐失去立足之地的树木. 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国. 在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。"
     },
     "quickFacts": {
@@ -610,6 +751,7 @@
       "it-IT": "",
       "es-ES": "Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
       "pt-BR": "",
+      "ja-JP": "夕焼けに染まる水辺と枯れ木",
       "zh-CN": "",
       "en-IN": "Boneyard Beach, Hunting Island, South Carolina, United States"
     },
@@ -620,6 +762,7 @@
       "it-IT": "https://www.bing.com/search?q=Hunting+Island+Carolina+del+Sud%2c+USA&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=carolina+del+sur&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Carolina+do+Sul&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e5%b3%b6%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260702_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e4%ba%a8%e5%bb%b7%e5%b2%9b&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_1830%22"
     },
@@ -630,6 +773,7 @@
       "it-IT": "/th?id=OHR.BoneyardBeach_IT-IT9837372965",
       "es-ES": "/th?id=OHR.BoneyardBeach_ES-ES1143251949",
       "pt-BR": "/th?id=OHR.BoneyardBeach_PT-BR8811510135",
+      "ja-JP": "/th?id=OHR.BoneyardBeach_JA-JP3339035555",
       "zh-CN": "/th?id=OHR.BoneyardBeach_ZH-CN5540590570",
       "en-IN": "/th?id=OHR.BoneyardBeach_EN-IN2656634065"
     }
@@ -717,13 +861,13 @@
     },
     "descs": {
       "en-US": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower, and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "en-GB": "Current affairs. The River Thames, London. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "en-GB": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
       "en-CA": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
       "de-DE": "Entlang der Themse in London entfaltet sich eine der bekanntesten Stadtsilhouetten Europas, geprägt von Geschichte, Bewegung und einem stetigen Rhythmus. Boote gleiten ruhig vorbei, während Brücken das Bild strukturieren und verschiedene Viertel miteinander verbinden. Tagsüber spiegelt das Wasser graue Wolken und gläserne Fassaden, nachts tauchen Lichter alles in ein warmes Leuchten. Besucher und Einheimische folgen oft ihrem Verlauf, entdecken historische Gebäude und genießen die besondere Atmosphäre zwischen Tradition und Moderne. Big Ben und das London Eye prägen diese Ansicht.",
       "fr-FR": "Qu'ont en commun un parlement, une tour horloge et une immense roue ? Tous se dressent le long de la Tamise, comme si Londres avait soigneusement disposé ses monuments emblématiques pour créer un décor spectaculaire.",
       "es-ES": "En Londres, Reino Unido, el río Támesis reúne algunos de los iconos más reconocibles de Europa en una escena casi cinematográfica. A un lado, el Palacio de Westminster—reconstruido tras el incendio de 1834 en estilo neogótico—marca el pulso político del país, mientras la torre Elizabeth guarda en su interior la campana del Big Ben, cuyas horas resuenan desde 1859. Frente a él, la silueta moderna del London Eye aporta una mirada tranquila y elevada sobre la ciudad.",
-      "ja-JP": "活気あふれる川沿いの街並み. テムズ川, イングランド ロンドン. イングランド南部を流れるテムズ川は、古代から交通・交易・軍事などの要所とされていました。全長は 346km で、川沿いにはローマ時代や中世の名残が見られます。ロンドン市街を流れる区間には、タワーブリッジや、世界遺産のウェストミンスター宮殿といった建築物が立ち並んでおり、ロンドンの観光名所として知られています。",
-      "en-IN": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "ja-JP": "イングランド南部を流れるテムズ川は、古代から交通・交易・軍事などの要所とされていました。全長は 346km で、川沿いにはローマ時代や中世の名残が見られます。ロンドン市街を流れる区間には、タワーブリッジや、世界遺産のウェストミンスター宮殿といった建築物が立ち並んでおり、ロンドンの観光名所として知られています。",
+      "en-IN": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
       "it-IT": "Attualità. Il fiume Tamigi, Londra, Inghilterra. Sul Tamigi, a Londra, le icone sembrano disposte come su un palcoscenico, dove storia e architettura dialogano con sorprendente armonia.",
       "zh-CN": "时事. 泰晤士河, 伦敦, 英格兰. 议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。"
     },
@@ -809,11 +953,6 @@
         "flag": "es"
       },
       {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -832,9 +971,9 @@
       "fr-FR": "Grande et incontournable. Bâtiments sur la Grand-Place de Bruxelles, Belgique",
       "it-IT": "Rinata dal fuoco",
       "es-ES": "Enfrente de la historia. Edificios de la Grand Place de Bruselas, Bélgica",
-      "ja-JP": "装飾美が際立つ歴史的街並み",
       "zh-CN": "在广场中感受历史",
-      "en-IN": "Square up to history. Buildings on Grand-Place Square in Brussels, Belgium"
+      "en-IN": "Square up to history. Buildings on Grand-Place Square in Brussels, Belgium",
+      "ja-JP": "装飾美が際立つ歴史的街並み"
     },
     "copyrights": {
       "en-US": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
@@ -844,9 +983,9 @@
       "fr-FR": "Bâtiments sur la Grand-Place de Bruxelles, Belgique (© Vladislav Zolotov/Getty Images Plus)",
       "it-IT": "Edifici sulla Grand-Place a Bruxelles, Belgio (© Vladislav Zolotov/Getty Images Plus)",
       "es-ES": "Edificios de la Grand Place de Bruselas, Bélgica (© Vladislav Zolotov/Getty Images Plus)",
-      "ja-JP": "グラン＝プラス, ベルギー (© Vladislav Zolotov/Getty Images Plus)",
       "zh-CN": "布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)",
-      "en-IN": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)"
+      "en-IN": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+      "ja-JP": "グラン＝プラス, ベルギー (© Vladislav Zolotov/Getty Images Plus)"
     },
     "descs": {
       "en-US": "Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants, and craftsmen treated architecture as language, translating work, status, and rivalry into stone through reliefs, coats of arms, and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbors and unapologetically asymmetrical, holds the composition together.",
@@ -855,8 +994,8 @@
       "de-DE": "Rund um den Grand-Place in Brüssel, Belgien, entfaltet sich lebendige Geschichte. Prächtige Zunfthäuser säumen den Platz – einst von Brauern, Bäckern und Kaufleuten errichtet, die ihren Wohlstand in Stein, Reliefs und vergoldeten Details sichtbar machten. Gotische Höhen treffen auf barocke Fassaden, während das alte, leicht asymmetrische Rathaus das Ensemble zusammenhält.",
       "fr-FR": "Peu de places en Belgique racontent leur histoire avec autant d’éloquence que la Grand-Place de Bruxelles. Tout autour, la plupart des façades abritaient autrefois des commerces. Brasseurs, boulangers, marchands ou artisans, tous façonnaient la pierre comme un langage, y inscrivant symboles, blasons et dorures pour affirmer leur rang et rivaliser avec leurs voisins. Les styles dialoguent librement : les élans gothiques côtoient les courbes baroques, tandis que l’Hôtel de Ville, plus ancien et asymétrique, semble orchestrer l’ensemble avec assurance.",
       "es-ES": "La Grand Place de Bruselas, Bélgica, es uno de los conjuntos arquitectónicos más impresionantes de Europa. Sus edificios, alineados en torno a la plaza, muestran una armonía visual notable, con fachadas ricamente decoradas que reflejan siglos de historia y prosperidad. Antiguas casas gremiales, el Ayuntamiento y la Maison du Roi destacan por sus detalles dorados, esculturas y ornamentaciones que evocan el esplendor de distintas épocas. Cada fachada cuenta una historia ligada a los gremios que dieron forma a la vida económica de la ciudad.",
-      "ja-JP": "今日の画像は「グラン＝プラス」。ベルギーの首都、ブリュッセルの中心地にある大広場です。世界で最も美しい広場のひとつとも称され、ユネスコの世界遺産にも登録されています。かつてこの広場を囲む建物の多くは木造でしたが、大同盟戦争中の 1695 年に、フランスの砲撃によって大半が破壊されました。その後、様々な職業別組合（ギルド）によって、現在のような石造りの建物に再建されました。建物の壁に飾られた樽や手押し車などの紋章は、それぞれの職業を象徴しています。",
       "en-IN": "Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.",
+      "ja-JP": "今日の画像は「グラン＝プラス」。ベルギーの首都、ブリュッセルの中心地にある大広場です。世界で最も美しい広場のひとつとも称され、ユネスコの世界遺産にも登録されています。かつてこの広場を囲む建物の多くは木造でしたが、大同盟戦争中の 1695 年に、フランスの砲撃によって大半が破壊されました。その後、様々な職業別組合（ギルド）によって、現在のような石造りの建物に再建されました。建物の壁に飾られた樽や手押し車などの紋章は、それぞれの職業を象徴しています。",
       "it-IT": "La Grand-Place non è solo la piazza più celebre del Belgio, ma il manifesto storico di Bruxelles. Gli edifici che la circondano nacquero come sedi delle corporazioni, ciascuna finanziata da un mestiere specifico. Birrai, fornai, mercanti e artigiani trasformarono l’architettura in un linguaggio, traducendo lavoro, prestigio e rivalità in bassorilievi, stemmi e decorazioni in foglia d’oro. Qui gli stili convivono senza timore: le verticalità gotiche si affiancano alle curve barocche, mentre il municipio, più antico e volutamente asimmetrico, tiene insieme l’intera composizione.",
       "zh-CN": "在比利时，很少有哪个广场能像大广场那样承载如此丰富的历史。广场周围的建筑，正如照片所示，最初都是行会会所，每座会所都由特定的行业出资兴建。酿酒师、面包师、商人和工匠们将建筑视为一种语言，通过浮雕、纹章和大量的金箔，将工作、地位和竞争关系凝结于石头之上。各种建筑风格在此交融碰撞，毫不拘束。哥特式的垂直线条与巴洛克式的曲线并肩而立，而市政厅——这座比周围建筑更古老、造型大胆不对称的建筑——则将整个建筑群和谐地连接起来。"
     },
@@ -871,7 +1010,6 @@
       "fr-FR": "Bâtiments sur la Grand-Place de Bruxelles, Belgique",
       "it-IT": "",
       "es-ES": "Edificios de la Grand Place de Bruselas, Bélgica",
-      "ja-JP": "装飾美が際立つ歴史的街並み",
       "zh-CN": "",
       "en-IN": "Buildings on Grand-Place Square in Brussels, Belgium"
     },
@@ -883,7 +1021,6 @@
       "fr-FR": "https://www.bing.com/search?q=Grand-Place+Bruxelles&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
       "it-IT": "https://www.bing.com/search?q=La+Grand-Place+a+Bruxelles&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Grand+Place+Bruselas&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%ef%bc%9d%e3%83%97%e3%83%a9%e3%82%b9%ef%bc%88%e3%83%96%e3%83%aa%e3%83%a5%e3%83%83%e3%82%bb%e3%83%ab%ef%bc%89&form=hpcapt&filters=HpDate%3a%2220260618_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e5%b8%83%e9%b2%81%e5%a1%9e%e5%b0%94%e5%a4%a7%e5%b9%bf%e5%9c%ba&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260624_1830%22"
     },
@@ -895,7 +1032,6 @@
       "fr-FR": "/th?id=OHR.GrandPlace_FR-FR1172312712",
       "it-IT": "/th?id=OHR.GrandPlace_IT-IT4483523148",
       "es-ES": "/th?id=OHR.GrandPlace_ES-ES0768815464",
-      "ja-JP": "/th?id=OHR.GrandPlace_JA-JP0571812680",
       "zh-CN": "/th?id=OHR.GrandPlace_ZH-CN8806496436",
       "en-IN": "/th?id=OHR.GrandPlace_EN-IN3033098257"
     }
@@ -1607,91 +1743,11 @@
       "en-US": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628"
     }
   },
-  "Saqsaywaman": {
-    "name": "Saqsaywaman",
-    "urlbase": "/th?id=OHR.Saqsaywaman_EN-US6250260694",
-    "date": "20260618",
-    "dateFormatted": "June 18, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "A rock-solid marvel. Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
-      "en-CA": "A rock-solid marvel. Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
-      "pt-BR": "Peso bruto, ajuste fino",
-      "en-GB": "A rock-solid marvel. The ruins of Sacsayhuamán, Cusco, Peru",
-      "de-DE": "Wunder aus Stein. Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru",
-      "fr-FR": "Une merveille faite de pierre. Vue aérienne des ruines de Sacsayhuamán, Cusco, Pérou",
-      "it-IT": "Pietre degli dèi",
-      "es-ES": "Una maravilla de solidez pétrea. Vista aérea de las ruinas de Sacsayhuamán, Cuzco, Perú",
-      "ja-JP": "上空から望む古代遺跡の構造美",
-      "zh-CN": "坚如磐石的奇观",
-      "en-IN": "A rock-solid marvel. The ruins of Sacsayhuamán, Cusco, Peru"
-    },
-    "copyrights": {
-      "en-US": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
-      "en-CA": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
-      "pt-BR": "Vista aérea das ruínas de Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
-      "en-GB": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
-      "de-DE": "Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
-      "fr-FR": "Vue aérienne des ruines de Sacsayhuamán, Cusco, Pérou (© Creative-Family/Getty Images Plus)",
-      "it-IT": "Rovine di Sacsayhuamán, Cusco, Perù (© Creative-Family/Getty Images Plus)",
-      "es-ES": "Vista aérea de las ruinas de Sacsayhuamán, Cuzco, Perú (© Creative-Family/Getty Images Plus)",
-      "ja-JP": "サクサイワマン, ペルー (© Creative-Family/Getty Images Plus)",
-      "zh-CN": "萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)",
-      "en-IN": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)"
-    },
-    "descs": {
-      "en-US": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas, and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 27 feet tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
-      "en-CA": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 8.2 metres tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
-      "en-GB": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 8 metres tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
-      "de-DE": "Hoch über der ehemaligen Inkahauptstadt Cusco in Peru thront Sacsayhuamán, ein beeindruckendes Zeugnis der Baukunst und Ambitionen des Inkareichs. Die im 15. Jahrhundert errichtete Anlage war Teil des heiligen Zentrums dieses Reichs. Aus der Vogelperspektive erschließt sich ihre Struktur: Terrassen, offene Plätze und die Überreste von Türmen fügen sich zu einer sorgfältig geplanten Zitadelle zusammen. Besonders imposant sind die gewaltigen Mauern aus riesigen Steinblöcken, von denen einige mehr als acht Meter hoch sind. Präzise ohne Mörtel gefügt, haben sie Jahrhunderte von Erdbeben überdauert.",
-      "fr-FR": "Perché sur les hauteurs de Cusco, Sacsayhuamán se dévoile comme une œuvre monumentale où la pierre témoigne de l’audace de l’Empire inca. Édifié au XVe siècle, ce vaste ensemble dominait la capitale sacrée, entre terrasses sculptées, vastes esplanades et vestiges de tours veillant sur la vallée. En arpentant ses murs, le regard s’arrête, fasciné : d’immenses blocs, certains hauts de plus de huit mètres, s’imbriquent avec une précision presque irréelle, sans la moindre trace de mortier.",
-      "es-ES": "Las ruinas de Sacsayhuamán, en Cuzco, Perú, se alzan sobre una colina que domina la antigua capital inca y ofrecen una muestra impresionante de la ingeniería prehispánica. Sus muros están formados por enormes bloques de piedra perfectamente encajados, sin mortero, que resisten el paso del tiempo y los frecuentes terremotos de la región. Cada pieza fue tallada con precisión para ajustarse a las contiguas, creando superficies irregulares que, sin embargo, encajan con asombrosa firmeza y estabilidad.",
-      "ja-JP": "今日の画像は、インカの遺跡「サクサイワマン」です。ペルー南東部、インカ帝国の古都クスコの高台に位置し、かつてはインカ帝国の聖都の一部でした。15 世紀に築かれた広大な複合施設であり、段状のテラスや広場、塔の遺構が今もなお整然と並んでいます。巨大な石塊の城壁には高さ約 8m を超える石も見られ、モルタルを使わず精密に組まれた構造は、幾度もの地震に耐えてきました。その圧倒的な精度と規模からなる石造技術は、今もなお注目を集めています。",
-      "en-IN": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 8 metres tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
-      "it-IT": "Situata in posizione elevata sopra Cusco, in Perù, Sacsayhuamán riflette la maestria architettonica raggiunta dall’Impero Inca. Costruito nel XV secolo, questo vasto complesso faceva parte della capitale sacra. Vista dall’alto, la struttura rivela una disposizione precisa, fatta di terrazze, ampie piazze aperte e resti di torri che delineano una cittadella attentamente pianificata. Le mura più imponenti, costruite con enormi blocchi di pietra, sono ancora oggi perfettamente conservate. Alcuni blocchi superano gli otto metri di altezza e furono incastrati con una precisione tale, senza l’uso di malta, permettendo alla struttura di resistere a secoli di terremoti.",
-      "pt-BR": "No século XV, os incas olharam para uma montanha em Cusco, no Peru, e decidiram moldá‑la à própria imaginação. O resultado foi Sacsayhuamán, este complexo onde pedras gigantescas parecem ter sido empilhadas por titãs pacientes, movidas, cortadas e encaixadas sem cimento, metal ou rodas.",
-      "zh-CN": "萨克塞华曼（Sacsayhuamán）坐落于秘鲁库斯科的高处，通过石材展现了印加帝国的宏大雄心。这座宏伟的建筑群始建于15世纪，曾是印加帝国神圣都城的一部分。从高空俯瞰，其布局清晰呈现：梯田、开阔的广场以及塔楼遗迹，共同构成了一座经过精密规划的卫城。其中最为壮观的墙体由巨型石块砌成，至今依然屹立不倒。部分石材高度超过 27 英尺（约 8.2 米），且在未使用灰浆的情况下实现了极度精确的无缝拼接，这使得该结构历经数百年的地震仍完好无损。"
-    },
-    "quickFacts": {
-      "zh-CN": "萨克塞华曼遗址（位于库斯科，秘鲁）中最重的单体巨石重量超过 120 吨，是在完全没有使用轮式工具的情况下，仅凭人力从数英里外的采石场搬运而来的。"
-    },
-    "captions": {
-      "en-US": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
-      "en-CA": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260618_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260618_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Sacsayhuaman+Cusco&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.Saqsaywaman_EN-US6250260694",
-      "en-CA": "/th?id=OHR.Saqsaywaman_EN-CA6349309682",
-      "pt-BR": "/th?id=OHR.Saqsaywaman_PT-BR5528021582"
-    }
-  },
-  "TempleEsna": {
-    "name": "TempleEsna",
-    "urlbase": "/th?id=OHR.TempleEsna_EN-GB9683013446",
-    "date": "20260701",
-    "dateFormatted": "July 01, 2026",
+  "FirefliesJapan": {
+    "name": "FirefliesJapan",
+    "urlbase": "/th?id=OHR.FirefliesJapan_EN-GB8401520779",
+    "date": "20260702",
+    "dateFormatted": "July 02, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1709,14 +1765,14 @@
         "flag": "fr"
       },
       {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
       },
       {
         "code": "zh-CN",
@@ -1730,73 +1786,70 @@
       }
     ],
     "titles": {
-      "en-GB": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "de-DE": "Ein Blick in Esnas Universum. Decke des Tempels von Esna, Ägypten",
-      "fr-FR": "Dans l'univers sacré d'Esna. Plafond du temple d'Esna, Égypte",
-      "es-ES": "Dentro del universo sagrado de Esna. Templo de Jnum en Esna, Egipto",
-      "ja-JP": "古代神殿の壮麗な内部空間",
-      "zh-CN": "走进埃斯纳神圣的世界",
-      "en-IN": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "en-US": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "en-CA": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "it-IT": "All'interno dell'universo sacro di Esna. Soffitto del Tempio di Khnum ad Esna, Egitto",
-      "pt-BR": "O cosmos segundo Esna. Teto do Templo de Esna, Egito"
+      "en-GB": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "de-DE": "Die Poesie des schwindenden Lichts. Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
+      "fr-FR": "La féerie des lucioles. Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
+      "it-IT": "La poesia della luce che svanisce",
+      "es-ES": "La luz de la naturaleza. Luciérnagas, prefectura de Okayama, Japón",
+      "zh-CN": "流光之诗",
+      "en-IN": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-US": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-CA": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "pt-BR": "O código luminoso da natureza. Vaga-lumes sobre um riacho, província de Okayama, Japão"
     },
     "copyrights": {
-      "en-GB": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "de-DE": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
-      "fr-FR": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
-      "es-ES": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
-      "ja-JP": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
-      "zh-CN": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
-      "en-IN": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "en-US": "© Nick Brundle Photography/Getty Images",
-      "en-CA": "© Nick Brundle Photography/Getty Images",
-      "it-IT": "© Nick Brundle Photography/Getty Images",
-      "pt-BR": "© Nick Brundle Photography/Getty Images"
+      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
+      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
+      "it-IT": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone (© tdub303/Getty Images)",
+      "es-ES": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
+      "zh-CN": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)",
+      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "en-US": "© tdub303/Getty Images",
+      "en-CA": "© tdub303/Getty Images",
+      "pt-BR": "© tdub303/Getty Images"
     },
     "descs": {
-      "en-GB": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "de-DE": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
-      "fr-FR": "Au sud de Louxor, en Égypte, le temple d’Esna plonge les visiteurs dans le culte de Khnoum, dieu à tête de bélier associé à la création de l’Humanité à partir de l’argile du Nil. Principalement construit à l’époque ptolémaïque puis romaine, il possède une salle hypostyle remarquablement conservée, grâce à la poussière qui l’a couvert pendant des siècles.",
-      "es-ES": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
-      "ja-JP": "今日の画像は、古代エジプトにあるエスナ神殿（クヌム神殿）の天井です。エスナ神殿は、エジプト南部のナイル川西岸に位置し、主にプトレマイオス朝からローマ時代にかけて建設されました。現在残っている柱廊ホールは、24本の巨大な柱に支えられ、その柱や壁面には宗教的な文様が刻まれています。また、天井には黄道十二宮（星座）や天体図、神々などの天文学的装飾が描かれています。それらの装飾は儀礼や宇宙の循環などを象徴し、参拝者を神聖な世界へと導く役割を果たしていたと考えられています。",
-      "en-IN": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "en-US": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have molded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honoring various deities.",
-      "en-CA": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "it-IT": "Nel Tempio di Khnum ad Esna, in Egitto, si entra in un universo dove arte, mito e cielo si intrecciano in modo sorprendente. Dedicato al dio dalla testa d’ariete che, secondo la tradizione, plasmava l’umanità con l’argilla del Nilo, il santuario custodisce una sala sostenuta da ventiquattro colonne monumentali, ricche di rilievi e iscrizioni sacre.",
-      "pt-BR": "Uma construção pode nascer para durar. O Templo de Esna, no Egito, nasceu para conversar com o cosmos. Dedicado a Khnum, o deus com cabeça de carneiro que moldou a humanidade a partir do barro do Nilo, o templo tomou forma entre cerca de 200 a.C. e 250 d.C., atravessando períodos ptolemaicos e romanos sem perder a ambição.",
-      "zh-CN": "走进埃斯纳神圣的世界. 埃斯纳神庙穹顶天花板, 埃及. 在埃及卢克索以南的埃斯纳神庙（Temple of Esna），游客将步入一个充满生机的世界，这里供奉着公羊头神——赫努姆（Khnum）；传说他曾用尼罗河的黏土塑造了人类。这座神庙主要建于托勒密王朝和罗马统治时期，其现存的大厅由24根高耸的石柱支撑，每根柱子上都雕刻着精美的浮雕与颂扬诸神的仪式铭文。"
+      "en-GB": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "de-DE": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
+      "fr-FR": "Dans la préfecture d'Okayama, au Japon, lorsque l'air humide flotte au-dessus des cours d'eau, les hotaru, les lucioles japonaises, se mettent à clignoter. Elles s'illuminent souvent environ deux heures après le coucher du soleil, invitant au silence au bord de l'eau.",
+      "es-ES": "En la prefectura de Okayama, en Japón, las luciérnagas —conocidas como hotaru— transforman las noches de verano en un espectáculo silencioso sobre el agua. Cuando el aire húmedo envuelve arroyos y estanques, comienzan a brillar unas horas después del atardecer, creando una coreografía de luz que invita a la calma.",
+      "en-IN": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "en-US": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signaling. On warm, windless evenings, they often start glowing about two hours after sunset under favorable conditions, inviting silence beside water.",
+      "en-CA": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "it-IT": "La poesia della luce che svanisce. Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone. Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.",
+      "pt-BR": "Se estiver caminhando por uma noite calma no Japão e o ar se encher de pontos de luz, não são estrelas perdidas: são vaga-lumes. A foto de hoje vem da província de Okayama, onde esses pequenos besouros transformam as margens do riacho numa conversa luminosa. Cada espécie pisca num ritmo próprio, como uma assinatura em neon usada para se reconhecer e encontrar parceiros.",
+      "zh-CN": "流光之诗. 小溪上方的萤火虫，冈山县，日本. 在冈山县（Okayama Prefecture），当湿润的空气笼罩在溪流之上，被称为“hotaru”的日本萤火虫便开始发出信号。在温暖无风的夜晚，如果条件理想，它们通常会在日落约两小时后开始发光，发散出一种水边独有的静谧感。"
     },
     "quickFacts": {
-      "zh-CN": "数个世纪以来，埃斯纳神庙的大部分区域曾被淤泥和周边建筑掩埋，这在一定程度上减少了风化作用，使许多雕刻得以较好保存。"
+      "zh-CN": "环境健康的生物指标在冈山县，日本表现得尤为典型，特别是源氏萤（Luciola cruciata）对水质极其敏感，它们需要含氧量高且清澈的流动水源以及极低的光污染环境才能完成其复杂的生命周期"
     },
     "captions": {
-      "en-GB": "Ceiling of the Temple of Esna, Egypt",
-      "de-DE": "Decke des Tempels von Esna, Ägypten",
-      "fr-FR": "Plafond du temple d'Esna, Égypte",
-      "es-ES": "Templo de Jnum en Esna, Egipto",
-      "ja-JP": "古代神殿の壮麗な内部空間",
+      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
+      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
+      "it-IT": "",
+      "es-ES": "Luciérnagas, prefectura de Okayama, Japón",
       "zh-CN": "",
-      "en-IN": "Ceiling of the Temple of Esna, Egypt"
+      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260701_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Tempel+von+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Temple+Khnoum+Esna+Egypte&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
-      "es-ES": "https://www.bing.com/search?q=El+Templo+de+Jnum+en+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%82%b9%e3%83%8a%e7%a5%9e%e6%ae%bf&form=hpcapt&filters=HpDate%3a%2220260701_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9f%83%e5%8f%8a%e5%9f%83%e6%96%af%e7%ba%b3%e7%a5%9e%e5%ba%99&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260701_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Gl%c3%bchw%c3%bcrmchen&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=luciole&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lampyridae&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Luci%c3%a9rnaga+insecto&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%90%a4%e7%81%ab%e8%99%ab&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.TempleEsna_EN-GB9683013446",
-      "de-DE": "/th?id=OHR.TempleEsna_DE-DE2277338406",
-      "fr-FR": "/th?id=OHR.TempleEsna_FR-FR7122811032",
-      "es-ES": "/th?id=OHR.TempleEsna_ES-ES5295149663",
-      "ja-JP": "/th?id=OHR.TempleEsna_JA-JP0629204284",
-      "zh-CN": "/th?id=OHR.TempleEsna_ZH-CN9834689523",
-      "en-IN": "/th?id=OHR.TempleEsna_EN-IN3356286000"
+      "en-GB": "/th?id=OHR.FirefliesJapan_EN-GB8401520779",
+      "de-DE": "/th?id=OHR.FirefliesJapan_DE-DE4398668270",
+      "fr-FR": "/th?id=OHR.FirefliesJapan_FR-FR8593158782",
+      "it-IT": "/th?id=OHR.FirefliesJapan_IT-IT1298859269",
+      "es-ES": "/th?id=OHR.FirefliesJapan_ES-ES5556389569",
+      "zh-CN": "/th?id=OHR.FirefliesJapan_ZH-CN0071253415",
+      "en-IN": "/th?id=OHR.FirefliesJapan_EN-IN4315418814"
     }
   },
   "KaysersbergVillage": {
@@ -1852,115 +1905,6 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742"
-    }
-  },
-  "IsolaElba": {
-    "name": "IsolaElba",
-    "urlbase": "/th?id=OHR.IsolaElba_EN-GB6917681747",
-    "date": "20260618",
-    "dateFormatted": "June 18, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "What stands at the edge?. La Rocchetta Lighthouse, Piombino, Tuscany, Italy",
-      "en-CA": "Where the light stands. La Rocchetta Lighthouse, Piombino, Italy",
-      "de-DE": "Meer, Licht und Weite. Leuchtturm „La Rocchetta“, Piombino, Italien",
-      "fr-FR": "Entre ciel, mer et mémoire. Phare de La Rocchetta, Piombino, Toscane, Italie",
-      "it-IT": "Sentinella del Tirreno",
-      "es-ES": "Belleza en los confines. Faro de La Rocchetta, Piombino, Toscana, Italia",
-      "pt-BR": "Um final em aberto",
-      "en-IN": "What stands at the edge?. La Rocchetta Lighthouse, Piombino, Tuscany, Italy"
-    },
-    "copyrights": {
-      "en-GB": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
-      "en-CA": "La Rocchetta Lighthouse, Piombino, Italy (© StevanZZ/Getty Images)",
-      "de-DE": "Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)",
-      "fr-FR": "Phare de La Rocchetta, Piombino, Toscane, Italie (© StevanZZ/Getty Images)",
-      "it-IT": "Faro di Piombino, provincia di Livorno, Toscana (© StevanZZ/Getty Images)",
-      "es-ES": "Faro de La Rocchetta, Piombino, Toscana, Italia (© StevanZZ/Getty Images)",
-      "pt-BR": "Farol La Rocchetta, Piombino, Toscana, Itália (© StevanZZ/Getty Images)",
-      "en-IN": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)"
-    },
-    "descs": {
-      "en-GB": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
-      "en-CA": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
-      "de-DE": "Am Rand der Piazza Bovio, im Herzen von Piombino in der Toskana, erhebt sich ein Leuchtturm über der Küste. Der Leuchtturm von Piombino, auch „La Rocchetta“ genannt, steht an einem Punkt, an dem sich der Blick zur Insel Elba öffnet. Errichtet im 20. Jahrhundert auf den Resten einer älteren Befestigung, präsentiert sich der kleine Bau im neugotischen Stil. Bis heute dient er als Orientierung für Schiffe im Kanal des toskanischen Archipels – sein Licht ist weit sichtbar über dem Meer.",
-      "fr-FR": "À l’extrémité de la Piazza Bovio, à Piombino, en Italie, là où la terre semble hésiter avant de s’abandonner à la mer, le phare, délicatement posé sur d’anciens remparts, veille sur l’horizon. Sa silhouette néo-gothique, discrète mais fière, témoigne d’un passé maritime où chaque lumière guidait les navigateurs à travers les courants du canal vers l’île d’Elbe.",
-      "es-ES": "Situado en el extremo de la Piazza Bovio, en Piombino, Toscana, el Faro de La Rocchetta se alza sobre un promontorio que mira hacia el mar Tirreno y el canal que separa la costa toscana de la isla de Elba (Italia). Construido en el siglo XX sobre restos de antiguas defensas, este faro de aire neogótico conserva su función original, guiando a las embarcaciones que atraviesan estas aguas. Su silueta discreta, pero reconocible, forma parte del perfil histórico de la ciudad y recuerda su estrecha relación con el mar.",
-      "en-IN": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
-      "it-IT": "Affacciato sull’estremità di Piazza Bovio, nel cuore di Piombino, città costiera della provincia di Livorno, in Toscana, protesa verso l’Isola d’Elba, il faro di Piombino, noto anche come «faro della Rocchetta», domina il mare come una sentinella di pietra sospesa tra storia e orizzonte. Costruito nel XX secolo sui resti di un’antica fortificazione, questa elegante torretta neogotica guida ancora oggi le imbarcazioni nel canale che separa la costa toscana dall’Isola d’Elba, con il suo caratteristico segnale luminoso visibile fino al largo.",
-      "pt-BR": "Nem todo final precisa de ponto. Em Piombino, na região da Toscana, a Itália decidiu terminar em forma de península. Ali, na extremidade da Piazza Bovio, o pequeno farol de Piombino, também conhecido como La Rocchetta, observa o vai e vem entre o continente e a ilha de Elba, a poucos quilômetros dali. Pequeno, quase modesto, ele surgiu no século XX sobre vestígios de uma antiga fortificação, como quem assume o turno seguinte de vigia sem interromper a história."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-GB": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy",
-      "en-CA": "La Rocchetta Lighthouse, Piombino, Italy",
-      "de-DE": "Leuchtturm „La Rocchetta“, Piombino, Italien",
-      "fr-FR": "Phare de La Rocchetta, Piombino, Toscane, Italie",
-      "it-IT": "",
-      "es-ES": "Faro de La Rocchetta, Piombino, Toscana, Italia",
-      "pt-BR": "",
-      "en-IN": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Lighthouse+la+Rocchetta+Piombino&form=hpcapt&filters=HpDate%3a%2220260618_2300%22",
-      "en-CA": "https://www.bing.com/search?q=La+Rocchetta+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260619_0400%22",
-      "de-DE": "https://www.bing.com/search?q=La+Rocchetta+Leuchtturm&form=hpcapt&filters=HpDate%3a%2220260618_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=phare+de+la+Rocchetta+Piombino&form=hpcapt&filters=HpDate%3a%2220260618_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Faro+di+Piombino&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Faro+de+La+Rocchetta&form=hpcapt&filters=HpDate%3a%2220260618_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Farol+La+Rocchetta+na+Italia&form=hpcapt&mkt=pt-br",
-      "en-IN": "https://www.bing.com/search?q=Lighthouse+la+Rocchetta+Piombino&form=hpcapt&filters=HpDate%3a%2220260618_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.IsolaElba_EN-GB6917681747",
-      "en-CA": "/th?id=OHR.IsolaElba_EN-CA8613795085",
-      "de-DE": "/th?id=OHR.IsolaElba_DE-DE0710166341",
-      "fr-FR": "/th?id=OHR.IsolaElba_FR-FR6759091748",
-      "it-IT": "/th?id=OHR.IsolaElba_IT-IT8863679360",
-      "es-ES": "/th?id=OHR.IsolaElba_ES-ES9499583337",
-      "pt-BR": "/th?id=OHR.IsolaElba_PT-BR4257374246",
-      "en-IN": "/th?id=OHR.IsolaElba_EN-IN7931152562"
     }
   },
   "MulticulturalismDY": {
@@ -2027,6 +1971,67 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.IndigenousMaple_EN-CA8176109531"
+    }
+  },
+  "IsolaElba": {
+    "name": "IsolaElba",
+    "urlbase": "/th?id=OHR.IsolaElba_EN-CA8613795085",
+    "date": "20260619",
+    "dateFormatted": "June 19, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-CA": "Where the light stands. La Rocchetta Lighthouse, Piombino, Italy",
+      "pt-BR": "Um final em aberto",
+      "en-GB": "What stands at the edge?. La Rocchetta Lighthouse, Piombino, Tuscany, Italy",
+      "de-DE": "Meer, Licht und Weite. Leuchtturm „La Rocchetta“, Piombino, Italien",
+      "fr-FR": "Entre ciel, mer et mémoire. Phare de La Rocchetta, Piombino, Toscane, Italie",
+      "it-IT": "Sentinella del Tirreno",
+      "es-ES": "Belleza en los confines. Faro de La Rocchetta, Piombino, Toscana, Italia",
+      "en-IN": "What stands at the edge?. La Rocchetta Lighthouse, Piombino, Tuscany, Italy"
+    },
+    "copyrights": {
+      "en-CA": "La Rocchetta Lighthouse, Piombino, Italy (© StevanZZ/Getty Images)",
+      "pt-BR": "Farol La Rocchetta, Piombino, Toscana, Itália (© StevanZZ/Getty Images)",
+      "en-GB": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
+      "de-DE": "Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)",
+      "fr-FR": "Phare de La Rocchetta, Piombino, Toscane, Italie (© StevanZZ/Getty Images)",
+      "it-IT": "Faro di Piombino, provincia di Livorno, Toscana (© StevanZZ/Getty Images)",
+      "es-ES": "Faro de La Rocchetta, Piombino, Toscana, Italia (© StevanZZ/Getty Images)",
+      "en-IN": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+      "en-GB": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+      "de-DE": "Am Rand der Piazza Bovio, im Herzen von Piombino in der Toskana, erhebt sich ein Leuchtturm über der Küste. Der Leuchtturm von Piombino, auch „La Rocchetta“ genannt, steht an einem Punkt, an dem sich der Blick zur Insel Elba öffnet. Errichtet im 20. Jahrhundert auf den Resten einer älteren Befestigung, präsentiert sich der kleine Bau im neugotischen Stil. Bis heute dient er als Orientierung für Schiffe im Kanal des toskanischen Archipels – sein Licht ist weit sichtbar über dem Meer.",
+      "fr-FR": "À l’extrémité de la Piazza Bovio, à Piombino, en Italie, là où la terre semble hésiter avant de s’abandonner à la mer, le phare, délicatement posé sur d’anciens remparts, veille sur l’horizon. Sa silhouette néo-gothique, discrète mais fière, témoigne d’un passé maritime où chaque lumière guidait les navigateurs à travers les courants du canal vers l’île d’Elbe.",
+      "es-ES": "Situado en el extremo de la Piazza Bovio, en Piombino, Toscana, el Faro de La Rocchetta se alza sobre un promontorio que mira hacia el mar Tirreno y el canal que separa la costa toscana de la isla de Elba (Italia). Construido en el siglo XX sobre restos de antiguas defensas, este faro de aire neogótico conserva su función original, guiando a las embarcaciones que atraviesan estas aguas. Su silueta discreta, pero reconocible, forma parte del perfil histórico de la ciudad y recuerda su estrecha relación con el mar.",
+      "en-IN": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+      "it-IT": "Affacciato sull’estremità di Piazza Bovio, nel cuore di Piombino, città costiera della provincia di Livorno, in Toscana, protesa verso l’Isola d’Elba, il faro di Piombino, noto anche come «faro della Rocchetta», domina il mare come una sentinella di pietra sospesa tra storia e orizzonte. Costruito nel XX secolo sui resti di un’antica fortificazione, questa elegante torretta neogotica guida ancora oggi le imbarcazioni nel canale che separa la costa toscana dall’Isola d’Elba, con il suo caratteristico segnale luminoso visibile fino al largo.",
+      "pt-BR": "Nem todo final precisa de ponto. Em Piombino, na região da Toscana, a Itália decidiu terminar em forma de península. Ali, na extremidade da Piazza Bovio, o pequeno farol de Piombino, também conhecido como La Rocchetta, observa o vai e vem entre o continente e a ilha de Elba, a poucos quilômetros dali. Pequeno, quase modesto, ele surgiu no século XX sobre vestígios de uma antiga fortificação, como quem assume o turno seguinte de vigia sem interromper a história."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "La Rocchetta Lighthouse, Piombino, Italy",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=La+Rocchetta+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260619_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Farol+La+Rocchetta+na+Italia&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.IsolaElba_EN-CA8613795085",
+      "pt-BR": "/th?id=OHR.IsolaElba_PT-BR4257374246"
     }
   },
   "NeckarVineyards": {
@@ -2449,40 +2454,6 @@
       "ja-JP": "/th?id=OHR.LavenderSeason2026_JA-JP7050134160"
     }
   },
-  "DragonBoatFestivalY26": {
-    "name": "DragonBoatFestivalY26",
-    "urlbase": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555",
-    "date": "20260618",
-    "dateFormatted": "June 18, 2026",
-    "markets": [
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      }
-    ],
-    "titles": {
-      "zh-CN": "龙吟古韵"
-    },
-    "copyrights": {
-      "zh-CN": "湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)"
-    },
-    "descs": {
-      "zh-CN": "龙吟古韵. 湖中的龙舟，中国. 在华夏大地的万顷碧波上，龙舟竞渡已绵延了两千多年。这项如今享誉全球的体育活动，不仅是一场速度与力量的博弈，更是一枚深深烙印在中华儿女血脉中的文化符号。龙舟的起源众说纷纭，融汇了神话、历史等多重色彩，共同构成了端午文化的底蕴。"
-    },
-    "quickFacts": {
-      "zh-CN": "流体力学原理在龙舟竞渡中表现显著，其细长的船体设计能有效减少水的阻力，使训练有素的团队能够实现惊人的航行速度。"
-    },
-    "captions": {
-      "zh-CN": ""
-    },
-    "copyrightlinks": {
-      "zh-CN": "https://www.bing.com/search?q=%e7%ab%af%e5%8d%88%e8%8a%82&form=hpcapt&mkt=zh-cn"
-    },
-    "urlbases": {
-      "zh-CN": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555"
-    }
-  },
   "JogFalls2026": {
     "name": "JogFalls2026",
     "urlbase": "/th?id=OHR.JogFalls2026_EN-IN2533705121",
@@ -2545,6 +2516,120 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108"
+    }
+  },
+  "Saqsaywaman": {
+    "name": "Saqsaywaman",
+    "urlbase": "/th?id=OHR.Saqsaywaman_EN-US6250260694",
+    "date": "20260618",
+    "dateFormatted": "June 18, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "A rock-solid marvel. Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
+      "en-CA": "A rock-solid marvel. Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
+      "pt-BR": "Peso bruto, ajuste fino",
+      "en-GB": "A rock-solid marvel. The ruins of Sacsayhuamán, Cusco, Peru",
+      "de-DE": "Wunder aus Stein. Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru",
+      "fr-FR": "Une merveille faite de pierre. Vue aérienne des ruines de Sacsayhuamán, Cusco, Pérou",
+      "it-IT": "Pietre degli dèi",
+      "es-ES": "Una maravilla de solidez pétrea. Vista aérea de las ruinas de Sacsayhuamán, Cuzco, Perú",
+      "ja-JP": "上空から望む古代遺跡の構造美",
+      "zh-CN": "坚如磐石的奇观",
+      "en-IN": "A rock-solid marvel. The ruins of Sacsayhuamán, Cusco, Peru"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+      "en-CA": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+      "pt-BR": "Vista aérea das ruínas de Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+      "en-GB": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+      "de-DE": "Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+      "fr-FR": "Vue aérienne des ruines de Sacsayhuamán, Cusco, Pérou (© Creative-Family/Getty Images Plus)",
+      "it-IT": "Rovine di Sacsayhuamán, Cusco, Perù (© Creative-Family/Getty Images Plus)",
+      "es-ES": "Vista aérea de las ruinas de Sacsayhuamán, Cuzco, Perú (© Creative-Family/Getty Images Plus)",
+      "ja-JP": "サクサイワマン, ペルー (© Creative-Family/Getty Images Plus)",
+      "zh-CN": "萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)",
+      "en-IN": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)"
+    },
+    "descs": {
+      "en-US": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas, and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 27 feet tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
+      "en-CA": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 8.2 metres tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
+      "en-GB": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 8 metres tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
+      "de-DE": "Hoch über der ehemaligen Inkahauptstadt Cusco in Peru thront Sacsayhuamán, ein beeindruckendes Zeugnis der Baukunst und Ambitionen des Inkareichs. Die im 15. Jahrhundert errichtete Anlage war Teil des heiligen Zentrums dieses Reichs. Aus der Vogelperspektive erschließt sich ihre Struktur: Terrassen, offene Plätze und die Überreste von Türmen fügen sich zu einer sorgfältig geplanten Zitadelle zusammen. Besonders imposant sind die gewaltigen Mauern aus riesigen Steinblöcken, von denen einige mehr als acht Meter hoch sind. Präzise ohne Mörtel gefügt, haben sie Jahrhunderte von Erdbeben überdauert.",
+      "fr-FR": "Perché sur les hauteurs de Cusco, Sacsayhuamán se dévoile comme une œuvre monumentale où la pierre témoigne de l’audace de l’Empire inca. Édifié au XVe siècle, ce vaste ensemble dominait la capitale sacrée, entre terrasses sculptées, vastes esplanades et vestiges de tours veillant sur la vallée. En arpentant ses murs, le regard s’arrête, fasciné : d’immenses blocs, certains hauts de plus de huit mètres, s’imbriquent avec une précision presque irréelle, sans la moindre trace de mortier.",
+      "es-ES": "Las ruinas de Sacsayhuamán, en Cuzco, Perú, se alzan sobre una colina que domina la antigua capital inca y ofrecen una muestra impresionante de la ingeniería prehispánica. Sus muros están formados por enormes bloques de piedra perfectamente encajados, sin mortero, que resisten el paso del tiempo y los frecuentes terremotos de la región. Cada pieza fue tallada con precisión para ajustarse a las contiguas, creando superficies irregulares que, sin embargo, encajan con asombrosa firmeza y estabilidad.",
+      "ja-JP": "今日の画像は、インカの遺跡「サクサイワマン」です。ペルー南東部、インカ帝国の古都クスコの高台に位置し、かつてはインカ帝国の聖都の一部でした。15 世紀に築かれた広大な複合施設であり、段状のテラスや広場、塔の遺構が今もなお整然と並んでいます。巨大な石塊の城壁には高さ約 8m を超える石も見られ、モルタルを使わず精密に組まれた構造は、幾度もの地震に耐えてきました。その圧倒的な精度と規模からなる石造技術は、今もなお注目を集めています。",
+      "en-IN": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 8 metres tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
+      "it-IT": "Situata in posizione elevata sopra Cusco, in Perù, Sacsayhuamán riflette la maestria architettonica raggiunta dall’Impero Inca. Costruito nel XV secolo, questo vasto complesso faceva parte della capitale sacra. Vista dall’alto, la struttura rivela una disposizione precisa, fatta di terrazze, ampie piazze aperte e resti di torri che delineano una cittadella attentamente pianificata. Le mura più imponenti, costruite con enormi blocchi di pietra, sono ancora oggi perfettamente conservate. Alcuni blocchi superano gli otto metri di altezza e furono incastrati con una precisione tale, senza l’uso di malta, permettendo alla struttura di resistere a secoli di terremoti.",
+      "pt-BR": "No século XV, os incas olharam para uma montanha em Cusco, no Peru, e decidiram moldá‑la à própria imaginação. O resultado foi Sacsayhuamán, este complexo onde pedras gigantescas parecem ter sido empilhadas por titãs pacientes, movidas, cortadas e encaixadas sem cimento, metal ou rodas.",
+      "zh-CN": "萨克塞华曼（Sacsayhuamán）坐落于秘鲁库斯科的高处，通过石材展现了印加帝国的宏大雄心。这座宏伟的建筑群始建于15世纪，曾是印加帝国神圣都城的一部分。从高空俯瞰，其布局清晰呈现：梯田、开阔的广场以及塔楼遗迹，共同构成了一座经过精密规划的卫城。其中最为壮观的墙体由巨型石块砌成，至今依然屹立不倒。部分石材高度超过 27 英尺（约 8.2 米），且在未使用灰浆的情况下实现了极度精确的无缝拼接，这使得该结构历经数百年的地震仍完好无损。"
+    },
+    "quickFacts": {
+      "zh-CN": "萨克塞华曼遗址（位于库斯科，秘鲁）中最重的单体巨石重量超过 120 吨，是在完全没有使用轮式工具的情况下，仅凭人力从数英里外的采石场搬运而来的。"
+    },
+    "captions": {
+      "en-US": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
+      "en-CA": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260618_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260618_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Sacsayhuaman+Cusco&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Saqsaywaman_EN-US6250260694",
+      "en-CA": "/th?id=OHR.Saqsaywaman_EN-CA6349309682",
+      "pt-BR": "/th?id=OHR.Saqsaywaman_PT-BR5528021582"
+    }
+  },
+  "DragonBoatFestivalY26": {
+    "name": "DragonBoatFestivalY26",
+    "urlbase": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555",
+    "date": "20260618",
+    "dateFormatted": "June 18, 2026",
+    "markets": [
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "zh-CN": "龙吟古韵"
+    },
+    "copyrights": {
+      "zh-CN": "湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)"
+    },
+    "descs": {
+      "zh-CN": "龙吟古韵. 湖中的龙舟，中国. 在华夏大地的万顷碧波上，龙舟竞渡已绵延了两千多年。这项如今享誉全球的体育活动，不仅是一场速度与力量的博弈，更是一枚深深烙印在中华儿女血脉中的文化符号。龙舟的起源众说纷纭，融汇了神话、历史等多重色彩，共同构成了端午文化的底蕴。"
+    },
+    "quickFacts": {
+      "zh-CN": "流体力学原理在龙舟竞渡中表现显著，其细长的船体设计能有效减少水的阻力，使训练有素的团队能够实现惊人的航行速度。"
+    },
+    "captions": {
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "zh-CN": "https://www.bing.com/search?q=%e7%ab%af%e5%8d%88%e8%8a%82&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "zh-CN": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555"
     }
   },
   "TremolaRoad": {
