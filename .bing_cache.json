@@ -1,4 +1,137 @@
 {
+  "FirefliesJapan": {
+    "name": "FirefliesJapan",
+    "urlbase": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
+    "date": "20260703",
+    "dateFormatted": "July 03, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-GB": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-CA": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "de-DE": "Die Poesie des schwindenden Lichts. Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
+      "fr-FR": "La féerie des lucioles. Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
+      "it-IT": "La poesia della luce che svanisce",
+      "es-ES": "La luz de la naturaleza. Luciérnagas, prefectura de Okayama, Japón",
+      "pt-BR": "O código luminoso da natureza",
+      "zh-CN": "流光之诗",
+      "en-IN": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan"
+    },
+    "copyrights": {
+      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
+      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
+      "it-IT": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone (© tdub303/Getty Images)",
+      "es-ES": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
+      "pt-BR": "Vaga-lumes sobre um riacho, província de Okayama, Japão (© tdub303/Getty Images)",
+      "zh-CN": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)",
+      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
+    },
+    "descs": {
+      "en-US": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signaling. On warm, windless evenings, they often start glowing about two hours after sunset under favorable conditions, inviting silence beside water.",
+      "en-GB": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "en-CA": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "de-DE": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
+      "fr-FR": "Dans la préfecture d'Okayama, au Japon, lorsque l'air humide flotte au-dessus des cours d'eau, les hotaru, les lucioles japonaises, se mettent à clignoter. Elles s'illuminent souvent environ deux heures après le coucher du soleil, invitant au silence au bord de l'eau.",
+      "es-ES": "En la prefectura de Okayama, en Japón, las luciérnagas —conocidas como hotaru— transforman las noches de verano en un espectáculo silencioso sobre el agua. Cuando el aire húmedo envuelve arroyos y estanques, comienzan a brillar unas horas después del atardecer, creando una coreografía de luz que invita a la calma.",
+      "en-IN": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "it-IT": "La poesia della luce che svanisce. Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone. Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.",
+      "pt-BR": "Se estiver caminhando por uma noite calma no Japão e o ar se encher de pontos de luz, não são estrelas perdidas: são vaga-lumes. A foto de hoje vem da província de Okayama, onde esses pequenos besouros transformam as margens do riacho numa conversa luminosa. Cada espécie pisca num ritmo próprio, como uma assinatura em neon usada para se reconhecer e encontrar parceiros.",
+      "zh-CN": "流光之诗. 小溪上方的萤火虫，冈山县，日本. 在冈山县（Okayama Prefecture），当湿润的空气笼罩在溪流之上，被称为“hotaru”的日本萤火虫便开始发出信号。在温暖无风的夜晚，如果条件理想，它们通常会在日落约两小时后开始发光，发散出一种水边独有的静谧感。"
+    },
+    "quickFacts": {
+      "zh-CN": "环境健康的生物指标在冈山县，日本表现得尤为典型，特别是源氏萤（Luciola cruciata）对水质极其敏感，它们需要含氧量高且清澈的流动水源以及极低的光污染环境才能完成其复杂的生命周期"
+    },
+    "captions": {
+      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
+      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
+      "it-IT": "",
+      "es-ES": "Luciérnagas, prefectura de Okayama, Japón",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Gl%c3%bchw%c3%bcrmchen&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=luciole&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lampyridae&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Luci%c3%a9rnaga+insecto&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=vaga+lumes&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e8%90%a4%e7%81%ab%e8%99%ab&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
+      "en-GB": "/th?id=OHR.FirefliesJapan_EN-GB8401520779",
+      "en-CA": "/th?id=OHR.FirefliesJapan_EN-CA2012875414",
+      "de-DE": "/th?id=OHR.FirefliesJapan_DE-DE4398668270",
+      "fr-FR": "/th?id=OHR.FirefliesJapan_FR-FR8593158782",
+      "it-IT": "/th?id=OHR.FirefliesJapan_IT-IT1298859269",
+      "es-ES": "/th?id=OHR.FirefliesJapan_ES-ES5556389569",
+      "pt-BR": "/th?id=OHR.FirefliesJapan_PT-BR7106842411",
+      "zh-CN": "/th?id=OHR.FirefliesJapan_ZH-CN0071253415",
+      "en-IN": "/th?id=OHR.FirefliesJapan_EN-IN4315418814"
+    }
+  },
   "TempleEsna": {
     "name": "TempleEsna",
     "urlbase": "/th?id=OHR.TempleEsna_EN-US1999215513",
@@ -29,6 +162,11 @@
         "code": "fr-FR",
         "name": "FR",
         "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
       },
       {
         "code": "es-ES",
@@ -62,12 +200,12 @@
       "en-CA": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
       "de-DE": "Ein Blick in Esnas Universum. Decke des Tempels von Esna, Ägypten",
       "fr-FR": "Dans l'univers sacré d'Esna. Plafond du temple d'Esna, Égypte",
+      "it-IT": "All'interno dell'universo sacro di Esna",
       "es-ES": "Dentro del universo sagrado de Esna. Templo de Jnum en Esna, Egipto",
       "pt-BR": "O cosmos segundo Esna",
       "ja-JP": "古代神殿の壮麗な内部空間",
       "zh-CN": "走进埃斯纳神圣的世界",
-      "en-IN": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "it-IT": "All'interno dell'universo sacro di Esna. Soffitto del Tempio di Khnum ad Esna, Egitto"
+      "en-IN": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt"
     },
     "copyrights": {
       "en-US": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
@@ -75,12 +213,12 @@
       "en-CA": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
       "de-DE": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
       "fr-FR": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
+      "it-IT": "Soffitto del Tempio di Khnum ad Esna, Egitto (© Nick Brundle Photography/Getty Images)",
       "es-ES": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
       "pt-BR": "Teto do Templo de Esna, Egito (© Nick Brundle Photography/Getty Images)",
       "ja-JP": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
       "zh-CN": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
-      "en-IN": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "it-IT": "© Nick Brundle Photography/Getty Images"
+      "en-IN": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)"
     },
     "descs": {
       "en-US": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have molded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honoring various deities.",
@@ -104,6 +242,7 @@
       "en-CA": "Ceiling of the Temple of Esna, Egypt",
       "de-DE": "Decke des Tempels von Esna, Ägypten",
       "fr-FR": "Plafond du temple d'Esna, Égypte",
+      "it-IT": "",
       "es-ES": "Templo de Jnum en Esna, Egipto",
       "pt-BR": "",
       "ja-JP": "古代神殿の壮麗な内部空間",
@@ -116,6 +255,7 @@
       "en-CA": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260702_0400%22",
       "de-DE": "https://www.bing.com/search?q=Tempel+von+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Temple+Khnoum+Esna+Egypte&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Tempio+di+Khnum+ad+Esna&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=El+Templo+de+Jnum+en+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Templo+Esna+Egito&form=hpcapt&mkt=pt-br",
       "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%82%b9%e3%83%8a%e7%a5%9e%e6%ae%bf&form=hpcapt&filters=HpDate%3a%2220260701_1500%22",
@@ -128,6 +268,7 @@
       "en-CA": "/th?id=OHR.TempleEsna_EN-CA5880187651",
       "de-DE": "/th?id=OHR.TempleEsna_DE-DE2277338406",
       "fr-FR": "/th?id=OHR.TempleEsna_FR-FR7122811032",
+      "it-IT": "/th?id=OHR.TempleEsna_IT-IT9484438188",
       "es-ES": "/th?id=OHR.TempleEsna_ES-ES5295149663",
       "pt-BR": "/th?id=OHR.TempleEsna_PT-BR4377934596",
       "ja-JP": "/th?id=OHR.TempleEsna_JA-JP0629204284",
@@ -860,9 +1001,9 @@
       "en-IN": "The River Thames, London, England (© Daniel Lange/Getty Images)"
     },
     "descs": {
-      "en-US": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower, and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "en-US": "What does a parliament, a clock tower, and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
       "en-GB": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "en-CA": "Current affairs. The River Thames, London, England. What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "en-CA": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
       "de-DE": "Entlang der Themse in London entfaltet sich eine der bekanntesten Stadtsilhouetten Europas, geprägt von Geschichte, Bewegung und einem stetigen Rhythmus. Boote gleiten ruhig vorbei, während Brücken das Bild strukturieren und verschiedene Viertel miteinander verbinden. Tagsüber spiegelt das Wasser graue Wolken und gläserne Fassaden, nachts tauchen Lichter alles in ein warmes Leuchten. Besucher und Einheimische folgen oft ihrem Verlauf, entdecken historische Gebäude und genießen die besondere Atmosphäre zwischen Tradition und Moderne. Big Ben und das London Eye prägen diese Ansicht.",
       "fr-FR": "Qu'ont en commun un parlement, une tour horloge et une immense roue ? Tous se dressent le long de la Tamise, comme si Londres avait soigneusement disposé ses monuments emblématiques pour créer un décor spectaculaire.",
       "es-ES": "En Londres, Reino Unido, el río Támesis reúne algunos de los iconos más reconocibles de Europa en una escena casi cinematográfica. A un lado, el Palacio de Westminster—reconstruido tras el incendio de 1834 en estilo neogótico—marca el pulso político del país, mientras la torre Elizabeth guarda en su interior la campana del Big Ben, cuyas horas resuenan desde 1859. Frente a él, la silueta moderna del London Eye aporta una mirada tranquila y elevada sobre la ciudad.",
@@ -1590,79 +1731,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "An ocean's frozen cathedral. Arched iceberg, western Antarctic Peninsula, Southern Ocean",
-      "en-GB": "An ocean's frozen cathedral. Arched iceberg, western Antarctic Peninsula, Southern Ocean",
       "en-CA": "An ocean's frozen cathedral. Arched iceberg, western Antarctic Peninsula, Southern Ocean",
+      "pt-BR": "Além da ponta do iceberg",
+      "en-GB": "An ocean's frozen cathedral. Arched iceberg, western Antarctic Peninsula, Southern Ocean",
       "fr-FR": "Sculpté dans la glace. Arche naturelle sculptée dans un iceberg, Océan Antarctique",
       "it-IT": "Il tempio del ghiaccio",
       "es-ES": "Una catedral de hielo en medio del océano. Iceberg frente a la península Antártica occidental, océano Austral",
-      "pt-BR": "Além da ponta do iceberg",
       "ja-JP": "氷山に穿たれた天然のアーチ",
       "zh-CN": "海洋中冰封的大教堂",
       "en-IN": "An ocean's frozen cathedral. Arched iceberg, western Antarctic Peninsula, Southern Ocean"
     },
     "copyrights": {
       "en-US": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
-      "en-GB": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
       "en-CA": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
+      "pt-BR": "Iceberg flutuando na Antártica Ocidental, oceano Antártico (© Steven Kazlowski/Nature Picture Library)",
+      "en-GB": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
       "fr-FR": "Arche naturelle sculptée dans un iceberg, Océan Antarctique (© Steven Kazlowski/Nature Picture Library)",
       "it-IT": "Iceberg, costa occidentale della penisola Antartica, oceano Antartico (© Steven Kazlowski/Nature Picture Library)",
       "es-ES": "Iceberg arqueado flotando frente a la península Antártica occidental, océano Austral (© Steven Kazlowski/Nature Picture Library)",
-      "pt-BR": "Iceberg flutuando na Antártica Ocidental, oceano Antártico (© Steven Kazlowski/Nature Picture Library)",
       "ja-JP": "アーチ状の氷山, 南極半島西部 (© Steven Kazlowski/Nature Picture Library)",
       "zh-CN": "漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)",
       "en-IN": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)"
     },
     "descs": {
       "en-US": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.",
-      "en-GB": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.",
       "en-CA": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.",
+      "en-GB": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.",
       "fr-FR": "Une arche sculptée de glace surgit des eaux froides de l’océan Austral, le long de la péninsule Antarctique, région particulièrement touchée par le réchauffement climatique. Cette matière figée s’est formée il y a des millénaires, lorsque la neige s’est lentement comprimée pour devenir de la glace. Un jour, sous l’effet de contraintes mécaniques liées à des fractures internes, un fragment de glacier ou de plateforme flottante se détache : ce phénomène, appelé vêlage, donne naissance à un iceberg voyageur.",
       "es-ES": "Un iceberg arqueado flota frente a la península Antártica occidental, en el océano Austral, como una gran estructura de hielo esculpida por el tiempo. Su forma curva recuerda a una bóveda natural, resultado de un equilibrio delicado entre el frío implacable, el viento constante y el movimiento del mar. La luz se refleja en sus superficies translúcidas, creando matices azules que cambian con el paso del día y revelan la densidad compacta de un hielo formado durante siglos.",
       "ja-JP": "氷山は、南極に降り積もった雪が氷となり、海へ移動して割れることで形成されます。南極海で主に見られるのは、上面が平らな卓状氷山ですが、画像のように、浸食によって不規則な形に形成された氷山なども存在します。一見するとただの氷の塊の氷山ですが、実際には生態系を支える重要な存在です。海中部分には藻類が付着しており、オキアミなどのプランクトンが餌としています。そして、そのプランクトンは、魚やアザラシ、クジラなどの食料となります。また、氷が溶けるとその栄養分が周囲の海へと放出され、周辺海域の生態系を豊かにしています。このように氷山は、「移動する生態系」ともいえる役割を果たしています。",
@@ -1676,78 +1782,57 @@
     },
     "captions": {
       "en-US": "Arched iceberg, western Antarctic Peninsula, Southern Ocean",
-      "en-GB": "Arched iceberg, western Antarctic Peninsula, Southern Ocean",
       "en-CA": "Arched iceberg, western Antarctic Peninsula, Southern Ocean",
-      "fr-FR": "Arche naturelle sculptée dans un iceberg, Océan Antarctique",
-      "it-IT": "",
-      "es-ES": "Iceberg frente a la península Antártica occidental, océano Austral",
-      "pt-BR": "",
-      "ja-JP": "氷山に穿たれた天然のアーチ",
-      "zh-CN": "",
-      "en-IN": "Arched iceberg, western Antarctic Peninsula, Southern Ocean"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260620_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260619_2300%22",
       "en-CA": "https://www.bing.com/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260620_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Iceberg&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Iceberg&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e7%8a%b6%e3%81%ae%e6%b0%b7%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220260619_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%86%b0%e5%b1%b1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260619_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Iceberg&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.ArchedIceberg_EN-US6345786269",
-      "en-GB": "/th?id=OHR.ArchedIceberg_EN-GB1807420935",
       "en-CA": "/th?id=OHR.ArchedIceberg_EN-CA7836830010",
-      "fr-FR": "/th?id=OHR.ArchedIceberg_FR-FR8603937918",
-      "it-IT": "/th?id=OHR.ArchedIceberg_IT-IT9191790217",
-      "es-ES": "/th?id=OHR.ArchedIceberg_ES-ES9715091871",
-      "pt-BR": "/th?id=OHR.ArchedIceberg_PT-BR4679375878",
-      "ja-JP": "/th?id=OHR.ArchedIceberg_JA-JP0865478817",
-      "zh-CN": "/th?id=OHR.ArchedIceberg_ZH-CN2698040371",
-      "en-IN": "/th?id=OHR.ArchedIceberg_EN-IN0531378206"
+      "pt-BR": "/th?id=OHR.ArchedIceberg_PT-BR4679375878"
     }
   },
-  "JuneteenthNMAAHC": {
-    "name": "JuneteenthNMAAHC",
-    "urlbase": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628",
-    "date": "20260619",
-    "dateFormatted": "June 19, 2026",
+  "PrideInLondon2026": {
+    "name": "PrideInLondon2026",
+    "urlbase": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875",
+    "date": "20260703",
+    "dateFormatted": "July 03, 2026",
     "markets": [
       {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       }
     ],
     "titles": {
-      "en-US": "A story rising in bronze. Happy Juneteenth!"
+      "en-GB": "London under a rainbow. Pride in London"
     },
     "copyrights": {
-      "en-US": "National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)"
+      "en-GB": "London (© TomasSereda/Getty Images)"
     },
     "descs": {
-      "en-US": "Across the National Mall in Washington, DC, the National Museum of African American History and Culture rises with a striking bronze-colored exterior. This powerful landmark reflects the story of Juneteenth, a holiday marking June 19, 1865, when Union troops arrived in Galveston, Texas, and finally announced freedom for more than 250,000 enslaved people—more than two years after the Emancipation Proclamation took effect."
+      "en-GB": "For one day each summer, London becomes a giant rainbow-coloured procession. Streets fill with music, banners, dancing and enough glitter to keep a craft shop in business for months. But Pride in London is more than a party."
     },
     "quickFacts": {},
     "captions": {
-      "en-US": "Happy Juneteenth!"
+      "en-GB": "Pride in London"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Juneteenth&form=hpcapt&filters=HpDate%3a%2220260619_0700%22"
+      "en-GB": "https://www.bing.com/search?q=Pride+in+London&form=hpcapt&filters=HpDate%3a%2220260703_2300%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628"
+      "en-GB": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875"
     }
   },
-  "FirefliesJapan": {
-    "name": "FirefliesJapan",
-    "urlbase": "/th?id=OHR.FirefliesJapan_EN-GB8401520779",
-    "date": "20260702",
-    "dateFormatted": "July 02, 2026",
+  "KaysersbergVillage": {
+    "name": "KaysersbergVillage",
+    "urlbase": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742",
+    "date": "20260630",
+    "dateFormatted": "June 30, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1765,11 +1850,6 @@
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
@@ -1786,125 +1866,61 @@
       }
     ],
     "titles": {
-      "en-GB": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "de-DE": "Die Poesie des schwindenden Lichts. Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
-      "fr-FR": "La féerie des lucioles. Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
-      "it-IT": "La poesia della luce che svanisce",
-      "es-ES": "La luz de la naturaleza. Luciérnagas, prefectura de Okayama, Japón",
-      "zh-CN": "流光之诗",
-      "en-IN": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "en-US": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "en-CA": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "pt-BR": "O código luminoso da natureza. Vaga-lumes sobre um riacho, província de Okayama, Japão"
-    },
-    "copyrights": {
-      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
-      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
-      "it-IT": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone (© tdub303/Getty Images)",
-      "es-ES": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
-      "zh-CN": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)",
-      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-      "en-US": "© tdub303/Getty Images",
-      "en-CA": "© tdub303/Getty Images",
-      "pt-BR": "© tdub303/Getty Images"
-    },
-    "descs": {
-      "en-GB": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "de-DE": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
-      "fr-FR": "Dans la préfecture d'Okayama, au Japon, lorsque l'air humide flotte au-dessus des cours d'eau, les hotaru, les lucioles japonaises, se mettent à clignoter. Elles s'illuminent souvent environ deux heures après le coucher du soleil, invitant au silence au bord de l'eau.",
-      "es-ES": "En la prefectura de Okayama, en Japón, las luciérnagas —conocidas como hotaru— transforman las noches de verano en un espectáculo silencioso sobre el agua. Cuando el aire húmedo envuelve arroyos y estanques, comienzan a brillar unas horas después del atardecer, creando una coreografía de luz que invita a la calma.",
-      "en-IN": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "en-US": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signaling. On warm, windless evenings, they often start glowing about two hours after sunset under favorable conditions, inviting silence beside water.",
-      "en-CA": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "it-IT": "La poesia della luce che svanisce. Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone. Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.",
-      "pt-BR": "Se estiver caminhando por uma noite calma no Japão e o ar se encher de pontos de luz, não são estrelas perdidas: são vaga-lumes. A foto de hoje vem da província de Okayama, onde esses pequenos besouros transformam as margens do riacho numa conversa luminosa. Cada espécie pisca num ritmo próprio, como uma assinatura em neon usada para se reconhecer e encontrar parceiros.",
-      "zh-CN": "流光之诗. 小溪上方的萤火虫，冈山县，日本. 在冈山县（Okayama Prefecture），当湿润的空气笼罩在溪流之上，被称为“hotaru”的日本萤火虫便开始发出信号。在温暖无风的夜晚，如果条件理想，它们通常会在日落约两小时后开始发光，发散出一种水边独有的静谧感。"
-    },
-    "quickFacts": {
-      "zh-CN": "环境健康的生物指标在冈山县，日本表现得尤为典型，特别是源氏萤（Luciola cruciata）对水质极其敏感，它们需要含氧量高且清澈的流动水源以及极低的光污染环境才能完成其复杂的生命周期"
-    },
-    "captions": {
-      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
-      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
-      "it-IT": "",
-      "es-ES": "Luciérnagas, prefectura de Okayama, Japón",
-      "zh-CN": "",
-      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Gl%c3%bchw%c3%bcrmchen&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=luciole&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lampyridae&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Luci%c3%a9rnaga+insecto&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%90%a4%e7%81%ab%e8%99%ab&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.FirefliesJapan_EN-GB8401520779",
-      "de-DE": "/th?id=OHR.FirefliesJapan_DE-DE4398668270",
-      "fr-FR": "/th?id=OHR.FirefliesJapan_FR-FR8593158782",
-      "it-IT": "/th?id=OHR.FirefliesJapan_IT-IT1298859269",
-      "es-ES": "/th?id=OHR.FirefliesJapan_ES-ES5556389569",
-      "zh-CN": "/th?id=OHR.FirefliesJapan_ZH-CN0071253415",
-      "en-IN": "/th?id=OHR.FirefliesJapan_EN-IN4315418814"
-    }
-  },
-  "KaysersbergVillage": {
-    "name": "KaysersbergVillage",
-    "urlbase": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742",
-    "date": "20260630",
-    "dateFormatted": "June 30, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      }
-    ],
-    "titles": {
       "en-GB": "This is your detour. Kaysersberg, Alsace, France",
-      "en-CA": "This is your detour. Kaysersberg, Alsace, France",
       "de-DE": "Im Herzen des Elsass. Kaysersberg, Elsass, Frankreich",
       "fr-FR": "Faire un Tour au village. Kaysersberg, Alsace",
       "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
-      "pt-BR": "Do império à enoteca. Kaysersberg, Alsácia, França",
-      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国",
-      "en-IN": "This is your detour. Kaysersberg, Alsace, France"
+      "zh-CN": "此行，不虚绕道",
+      "en-IN": "This is your detour. Kaysersberg, Alsace, France",
+      "en-CA": "This is your detour. Kaysersberg, Alsace, France",
+      "pt-BR": "Do império à enoteca. Kaysersberg, Alsácia, França"
     },
     "copyrights": {
       "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "de-DE": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
+      "fr-FR": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
+      "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
+      "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
+      "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
       "en-CA": "© Federica Gentile/Getty Images",
-      "de-DE": "© Federica Gentile/Getty Images",
-      "fr-FR": "© Federica Gentile/Getty Images",
-      "es-ES": "© Federica Gentile/Getty Images",
-      "pt-BR": "© Federica Gentile/Getty Images",
-      "zh-CN": "© Federica Gentile/Getty Images",
-      "en-IN": "© Federica Gentile/Getty Images"
+      "pt-BR": "© Federica Gentile/Getty Images"
     },
     "descs": {
       "en-GB": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
-      "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
       "de-DE": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
       "fr-FR": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
       "es-ES": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
+      "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
+      "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
       "pt-BR": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
-      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。",
-      "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains."
+      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。"
     },
     "quickFacts": {
       "zh-CN": "白鹳（Ciconia ciconia）的复育生境在凯泽斯堡，阿尔萨斯，法国具有典型的生态指标意义，自1970年代险些灭绝后的保护行动，使这种标志性鸟类重新在村落的烟囱顶端筑巢，成为衡量当地跨区域生态系统健康的重要标志。"
     },
     "captions": {
-      "en-GB": "Kaysersberg, Alsace, France"
+      "en-GB": "Kaysersberg, Alsace, France",
+      "de-DE": "Kaysersberg, Elsass, Frankreich",
+      "fr-FR": "Kaysersberg, Alsace",
+      "es-ES": "Kaysersberg, Alsacia, Francia",
+      "zh-CN": "",
+      "en-IN": "Kaysersberg, Alsace, France"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260630_2300%22"
+      "en-GB": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260630_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Kaysersberg&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Kaysersberg+Francia&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%87%af%e6%b3%bd%e6%96%af%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742"
+      "en-GB": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742",
+      "de-DE": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295",
+      "fr-FR": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
+      "es-ES": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084",
+      "zh-CN": "/th?id=OHR.KaysersbergVillage_ZH-CN0445080679",
+      "en-IN": "/th?id=OHR.KaysersbergVillage_EN-IN4147544931"
     }
   },
   "MulticulturalismDY": {
@@ -1973,67 +1989,6 @@
       "en-CA": "/th?id=OHR.IndigenousMaple_EN-CA8176109531"
     }
   },
-  "IsolaElba": {
-    "name": "IsolaElba",
-    "urlbase": "/th?id=OHR.IsolaElba_EN-CA8613795085",
-    "date": "20260619",
-    "dateFormatted": "June 19, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-CA": "Where the light stands. La Rocchetta Lighthouse, Piombino, Italy",
-      "pt-BR": "Um final em aberto",
-      "en-GB": "What stands at the edge?. La Rocchetta Lighthouse, Piombino, Tuscany, Italy",
-      "de-DE": "Meer, Licht und Weite. Leuchtturm „La Rocchetta“, Piombino, Italien",
-      "fr-FR": "Entre ciel, mer et mémoire. Phare de La Rocchetta, Piombino, Toscane, Italie",
-      "it-IT": "Sentinella del Tirreno",
-      "es-ES": "Belleza en los confines. Faro de La Rocchetta, Piombino, Toscana, Italia",
-      "en-IN": "What stands at the edge?. La Rocchetta Lighthouse, Piombino, Tuscany, Italy"
-    },
-    "copyrights": {
-      "en-CA": "La Rocchetta Lighthouse, Piombino, Italy (© StevanZZ/Getty Images)",
-      "pt-BR": "Farol La Rocchetta, Piombino, Toscana, Itália (© StevanZZ/Getty Images)",
-      "en-GB": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
-      "de-DE": "Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)",
-      "fr-FR": "Phare de La Rocchetta, Piombino, Toscane, Italie (© StevanZZ/Getty Images)",
-      "it-IT": "Faro di Piombino, provincia di Livorno, Toscana (© StevanZZ/Getty Images)",
-      "es-ES": "Faro de La Rocchetta, Piombino, Toscana, Italia (© StevanZZ/Getty Images)",
-      "en-IN": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
-      "en-GB": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
-      "de-DE": "Am Rand der Piazza Bovio, im Herzen von Piombino in der Toskana, erhebt sich ein Leuchtturm über der Küste. Der Leuchtturm von Piombino, auch „La Rocchetta“ genannt, steht an einem Punkt, an dem sich der Blick zur Insel Elba öffnet. Errichtet im 20. Jahrhundert auf den Resten einer älteren Befestigung, präsentiert sich der kleine Bau im neugotischen Stil. Bis heute dient er als Orientierung für Schiffe im Kanal des toskanischen Archipels – sein Licht ist weit sichtbar über dem Meer.",
-      "fr-FR": "À l’extrémité de la Piazza Bovio, à Piombino, en Italie, là où la terre semble hésiter avant de s’abandonner à la mer, le phare, délicatement posé sur d’anciens remparts, veille sur l’horizon. Sa silhouette néo-gothique, discrète mais fière, témoigne d’un passé maritime où chaque lumière guidait les navigateurs à travers les courants du canal vers l’île d’Elbe.",
-      "es-ES": "Situado en el extremo de la Piazza Bovio, en Piombino, Toscana, el Faro de La Rocchetta se alza sobre un promontorio que mira hacia el mar Tirreno y el canal que separa la costa toscana de la isla de Elba (Italia). Construido en el siglo XX sobre restos de antiguas defensas, este faro de aire neogótico conserva su función original, guiando a las embarcaciones que atraviesan estas aguas. Su silueta discreta, pero reconocible, forma parte del perfil histórico de la ciudad y recuerda su estrecha relación con el mar.",
-      "en-IN": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
-      "it-IT": "Affacciato sull’estremità di Piazza Bovio, nel cuore di Piombino, città costiera della provincia di Livorno, in Toscana, protesa verso l’Isola d’Elba, il faro di Piombino, noto anche come «faro della Rocchetta», domina il mare come una sentinella di pietra sospesa tra storia e orizzonte. Costruito nel XX secolo sui resti di un’antica fortificazione, questa elegante torretta neogotica guida ancora oggi le imbarcazioni nel canale che separa la costa toscana dall’Isola d’Elba, con il suo caratteristico segnale luminoso visibile fino al largo.",
-      "pt-BR": "Nem todo final precisa de ponto. Em Piombino, na região da Toscana, a Itália decidiu terminar em forma de península. Ali, na extremidade da Piazza Bovio, o pequeno farol de Piombino, também conhecido como La Rocchetta, observa o vai e vem entre o continente e a ilha de Elba, a poucos quilômetros dali. Pequeno, quase modesto, ele surgiu no século XX sobre vestígios de uma antiga fortificação, como quem assume o turno seguinte de vigia sem interromper a história."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-CA": "La Rocchetta Lighthouse, Piombino, Italy",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=La+Rocchetta+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260619_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Farol+La+Rocchetta+na+Italia&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.IsolaElba_EN-CA8613795085",
-      "pt-BR": "/th?id=OHR.IsolaElba_PT-BR4257374246"
-    }
-  },
   "NeckarVineyards": {
     "name": "NeckarVineyards",
     "urlbase": "/th?id=OHR.NeckarVineyards_DE-DE0300601892",
@@ -2096,38 +2051,6 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.Westerheversand_DE-DE9270031466"
-    }
-  },
-  "KielSailing": {
-    "name": "KielSailing",
-    "urlbase": "/th?id=OHR.KielSailing_DE-DE0980571166",
-    "date": "20260619",
-    "dateFormatted": "June 19, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Unter vollen Segeln. Kieler Woche"
-    },
-    "copyrights": {
-      "de-DE": "Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock)"
-    },
-    "descs": {
-      "de-DE": "„Leinen los!“ – so beginnt in Kiel jedes Jahr eines der größten und traditionsreichsten Segelereignisse der Welt: die Kieler Woche. Das renommierte Festival in Schleswig-Holstein verbindet internationale Regatten mit einem maritimen Volksfest, das die Stadt neun Tage lang prägt. Auf der Kieler Förde treffen moderne Yachten, historische Segelschiffe sowie zahlreiche kleinere Boote aufeinander und bestimmen das Bild der Küste."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Kieler Woche"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Kieler+Woche&form=hpcapt&filters=HpDate%3a%2220260619_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.KielSailing_DE-DE0980571166"
     }
   },
   "SeineRiverside": {
@@ -2390,6 +2313,73 @@
       "pt-BR": "/th?id=OHR.IbiSP_PT-BR5842175553"
     }
   },
+  "MountainToucanOrchids": {
+    "name": "MountainToucanOrchids",
+    "urlbase": "/th?id=OHR.MountainToucanOrchids_JA-JP8375436996",
+    "date": "20260703",
+    "dateFormatted": "July 03, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "枝に止まるユニークなオオハシ",
+      "en-US": "Color, craft, and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "en-CA": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "de-DE": "Farbenpracht im Blätterdach. Leistenschnabeltukan mit Orchideen, Ecuador",
+      "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat avec des orchidées, Équateur",
+      "it-IT": "Colori e fauna selvatica. Tucano montano pettogrigio, Ecuador",
+      "pt-BR": "Voos que espalham futuro. Tucano “Andigena laminirostris” com orquídeas, Equador",
+      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔",
+      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador"
+    },
+    "copyrights": {
+      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)",
+      "en-US": "© Murray Cooper/Minden Pictures",
+      "en-GB": "© Murray Cooper/Minden Pictures",
+      "en-CA": "© Murray Cooper/Minden Pictures",
+      "de-DE": "© Murray Cooper/Minden Pictures",
+      "fr-FR": "© Murray Cooper/Minden Pictures",
+      "it-IT": "© Murray Cooper/Minden Pictures",
+      "pt-BR": "© Murray Cooper/Minden Pictures",
+      "zh-CN": "© Murray Cooper/Minden Pictures",
+      "en-IN": "© Murray Cooper/Minden Pictures"
+    },
+    "descs": {
+      "ja-JP": "枝に止まるユニークなオオハシ. イタハシヤマオオハシ, エクアドル. イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
+      "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
+      "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
+      "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
+      "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
+      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔. 拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。",
+      "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy."
+    },
+    "quickFacts": {
+      "en-US": "The plate-billed mountain toucan's colorful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "en-GB": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "en-CA": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "de-DE": "Leistenschnabeltukane gehören zur Gattung der Bergtukane, die vor allem in den Anden leben.",
+      "fr-FR": "Le toucan montagnard à bec plat possède un bec coloré orné d'une « plaque » jaune pâle, une caractéristique rare qui donne son nom à cette espèce.",
+      "zh-CN": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。",
+      "en-IN": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name."
+    },
+    "captions": {
+      "ja-JP": "枝に止まるユニークなオオハシ"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%8f%e3%82%b7%e3%83%a4%e3%83%9e%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%b7&form=hpcapt&filters=HpDate%3a%2220260703_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.MountainToucanOrchids_JA-JP8375436996"
+    }
+  },
   "Ajisai2026": {
     "name": "Ajisai2026",
     "urlbase": "/th?id=OHR.Ajisai2026_JA-JP5953428145",
@@ -2516,6 +2506,131 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108"
+    }
+  },
+  "JuneteenthNMAAHC": {
+    "name": "JuneteenthNMAAHC",
+    "urlbase": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628",
+    "date": "20260619",
+    "dateFormatted": "June 19, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "A story rising in bronze. Happy Juneteenth!"
+    },
+    "copyrights": {
+      "en-US": "National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)"
+    },
+    "descs": {
+      "en-US": "Across the National Mall in Washington, DC, the National Museum of African American History and Culture rises with a striking bronze-colored exterior. This powerful landmark reflects the story of Juneteenth, a holiday marking June 19, 1865, when Union troops arrived in Galveston, Texas, and finally announced freedom for more than 250,000 enslaved people—more than two years after the Emancipation Proclamation took effect."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Happy Juneteenth!"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Juneteenth&form=hpcapt&filters=HpDate%3a%2220260619_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628"
+    }
+  },
+  "IsolaElba": {
+    "name": "IsolaElba",
+    "urlbase": "/th?id=OHR.IsolaElba_EN-CA8613795085",
+    "date": "20260619",
+    "dateFormatted": "June 19, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-CA": "Where the light stands. La Rocchetta Lighthouse, Piombino, Italy",
+      "pt-BR": "Um final em aberto",
+      "en-GB": "What stands at the edge?. La Rocchetta Lighthouse, Piombino, Tuscany, Italy",
+      "de-DE": "Meer, Licht und Weite. Leuchtturm „La Rocchetta“, Piombino, Italien",
+      "fr-FR": "Entre ciel, mer et mémoire. Phare de La Rocchetta, Piombino, Toscane, Italie",
+      "it-IT": "Sentinella del Tirreno",
+      "es-ES": "Belleza en los confines. Faro de La Rocchetta, Piombino, Toscana, Italia",
+      "en-IN": "What stands at the edge?. La Rocchetta Lighthouse, Piombino, Tuscany, Italy"
+    },
+    "copyrights": {
+      "en-CA": "La Rocchetta Lighthouse, Piombino, Italy (© StevanZZ/Getty Images)",
+      "pt-BR": "Farol La Rocchetta, Piombino, Toscana, Itália (© StevanZZ/Getty Images)",
+      "en-GB": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
+      "de-DE": "Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)",
+      "fr-FR": "Phare de La Rocchetta, Piombino, Toscane, Italie (© StevanZZ/Getty Images)",
+      "it-IT": "Faro di Piombino, provincia di Livorno, Toscana (© StevanZZ/Getty Images)",
+      "es-ES": "Faro de La Rocchetta, Piombino, Toscana, Italia (© StevanZZ/Getty Images)",
+      "en-IN": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+      "en-GB": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+      "de-DE": "Am Rand der Piazza Bovio, im Herzen von Piombino in der Toskana, erhebt sich ein Leuchtturm über der Küste. Der Leuchtturm von Piombino, auch „La Rocchetta“ genannt, steht an einem Punkt, an dem sich der Blick zur Insel Elba öffnet. Errichtet im 20. Jahrhundert auf den Resten einer älteren Befestigung, präsentiert sich der kleine Bau im neugotischen Stil. Bis heute dient er als Orientierung für Schiffe im Kanal des toskanischen Archipels – sein Licht ist weit sichtbar über dem Meer.",
+      "fr-FR": "À l’extrémité de la Piazza Bovio, à Piombino, en Italie, là où la terre semble hésiter avant de s’abandonner à la mer, le phare, délicatement posé sur d’anciens remparts, veille sur l’horizon. Sa silhouette néo-gothique, discrète mais fière, témoigne d’un passé maritime où chaque lumière guidait les navigateurs à travers les courants du canal vers l’île d’Elbe.",
+      "es-ES": "Situado en el extremo de la Piazza Bovio, en Piombino, Toscana, el Faro de La Rocchetta se alza sobre un promontorio que mira hacia el mar Tirreno y el canal que separa la costa toscana de la isla de Elba (Italia). Construido en el siglo XX sobre restos de antiguas defensas, este faro de aire neogótico conserva su función original, guiando a las embarcaciones que atraviesan estas aguas. Su silueta discreta, pero reconocible, forma parte del perfil histórico de la ciudad y recuerda su estrecha relación con el mar.",
+      "en-IN": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+      "it-IT": "Affacciato sull’estremità di Piazza Bovio, nel cuore di Piombino, città costiera della provincia di Livorno, in Toscana, protesa verso l’Isola d’Elba, il faro di Piombino, noto anche come «faro della Rocchetta», domina il mare come una sentinella di pietra sospesa tra storia e orizzonte. Costruito nel XX secolo sui resti di un’antica fortificazione, questa elegante torretta neogotica guida ancora oggi le imbarcazioni nel canale che separa la costa toscana dall’Isola d’Elba, con il suo caratteristico segnale luminoso visibile fino al largo.",
+      "pt-BR": "Nem todo final precisa de ponto. Em Piombino, na região da Toscana, a Itália decidiu terminar em forma de península. Ali, na extremidade da Piazza Bovio, o pequeno farol de Piombino, também conhecido como La Rocchetta, observa o vai e vem entre o continente e a ilha de Elba, a poucos quilômetros dali. Pequeno, quase modesto, ele surgiu no século XX sobre vestígios de uma antiga fortificação, como quem assume o turno seguinte de vigia sem interromper a história."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "La Rocchetta Lighthouse, Piombino, Italy",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=La+Rocchetta+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260619_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Farol+La+Rocchetta+na+Italia&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.IsolaElba_EN-CA8613795085",
+      "pt-BR": "/th?id=OHR.IsolaElba_PT-BR4257374246"
+    }
+  },
+  "KielSailing": {
+    "name": "KielSailing",
+    "urlbase": "/th?id=OHR.KielSailing_DE-DE0980571166",
+    "date": "20260619",
+    "dateFormatted": "June 19, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Unter vollen Segeln. Kieler Woche"
+    },
+    "copyrights": {
+      "de-DE": "Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock)"
+    },
+    "descs": {
+      "de-DE": "„Leinen los!“ – so beginnt in Kiel jedes Jahr eines der größten und traditionsreichsten Segelereignisse der Welt: die Kieler Woche. Das renommierte Festival in Schleswig-Holstein verbindet internationale Regatten mit einem maritimen Volksfest, das die Stadt neun Tage lang prägt. Auf der Kieler Förde treffen moderne Yachten, historische Segelschiffe sowie zahlreiche kleinere Boote aufeinander und bestimmen das Bild der Küste."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Kieler Woche"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Kieler+Woche&form=hpcapt&filters=HpDate%3a%2220260619_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.KielSailing_DE-DE0980571166"
     }
   },
   "Saqsaywaman": {
