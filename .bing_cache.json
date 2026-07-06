@@ -1,4 +1,148 @@
 {
+  "LavenderRows": {
+    "name": "LavenderRows",
+    "urlbase": "/th?id=OHR.LavenderRows_EN-US2831933520",
+    "date": "20260705",
+    "dateFormatted": "July 05, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "en-GB": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "en-CA": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "de-DE": "Ein Meer aus Lila. Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
+      "fr-FR": "Les mers pourpres. Plateau de Valensole, Provence",
+      "it-IT": "Mare di viola",
+      "es-ES": "Un mar púrpura. Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
+      "pt-BR": "O perfume da Provença",
+      "ja-JP": "一面に広がる紫色のラベンダー畑",
+      "zh-CN": "紫色花海",
+      "en-IN": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France"
+    },
+    "copyrights": {
+      "en-US": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
+      "fr-FR": "Champs de lavande, Plateau de Valensole, Provence (© Robert Harding/Shutterstock)",
+      "it-IT": "Righe lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+      "pt-BR": "Campos de lavanda no Plateau de Valensole, Provença, França (© Robert Harding/Shutterstock)",
+      "ja-JP": "ヴァランソール高原, フランス (© Robert Harding/Shutterstock)",
+      "zh-CN": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
+      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognizable sights. The air carries a sharp, dry, and unmistakably Mediterranean scent.",
+      "en-GB": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "en-CA": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "de-DE": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
+      "fr-FR": "Au cœur de la Provence, sur le plateau de Valensole, l’été s’accorde aux tons violets. Situé dans le Parc naturel régional du Verdon, entre les vallées de la Durance et de l’Asse, ce vaste plateau offre, de mi-juin à début juillet, l’un des paysages les plus emblématiques de Provence. Lorsque la lavande et le lavandin fleurissent, l’air se charge de leurs parfums caractéristiques.",
+      "es-ES": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
+      "ja-JP": "一面に広がる紫色のラベンダー畑. ヴァランソール高原, フランス. ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
+      "en-IN": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "it-IT": "Sull’altopiano di Valensole, nel sud-est della Francia, l’estate si accende in distese ondulate di viola e blu che sembrano dipinte a mano. Tra metà giugno e inizio luglio, nel cuore del Parco del Verdon, lavanda e lavandin trasformano il paesaggio in un mosaico profumato, attraversato dal ronzio continuo delle api. L’atmosfera, intensa e mediterranea, richiama scenari familiari anche in Italia: basti pensare ai campi di lavanda della Val d’Orcia o alle colline piemontesi, dove la stessa fioritura regala emozioni simili, seppur su scala più raccolta.",
+      "pt-BR": "Entre junho e julho no sul da França, até o vento fica perfumado. No Planalto de Valensole, na região de Provença, fileiras de lavanda e lavandim — um híbrido mais resistente e produtivo — pintam a paisagem de um violeta quase hipnótico. Por trás da estética, há agricultura em plena operação.",
+      "zh-CN": "在法国东南部，瓦朗索勒高原（Valensole Plateau）的夏季伴随着阵阵紫蓝色的波浪而至。瓦朗索勒作为该地区最大的高原之一，坐落在迪朗斯河（Durance）与阿斯河（Asse）流域之间的韦尔东地区自然公园（Verdon Regional Natural Park）内，毗邻韦尔东大峡谷（Gorges du Verdon）及其湖泊。从6月中旬到7月初，受海拔和天气影响，薰衣草与杂交薰衣草（Lavandin）竞相绽放，将大地转化为普罗旺斯最具标志性的景观之一。空气中弥漫着清冽、干爽且极具地中海特色的香气。"
+    },
+    "quickFacts": {
+      "zh-CN": "独特的碱性石质土壤在瓦朗索勒高原，普罗旺斯，法国为植物提供了卓越的排水性能，这种地质特性对于薰衣草在高海拔地中海气候下生存至关重要，能有效防止冬季根部腐烂并提升精油品质。"
+    },
+    "captions": {
+      "en-US": "Lavender rows, Plateau de Valensole, Provence, France",
+      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France",
+      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France",
+      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
+      "fr-FR": "Plateau de Valensole, Provence",
+      "it-IT": "",
+      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
+      "pt-BR": "",
+      "ja-JP": "一面に広がる紫色のラベンダー畑",
+      "zh-CN": "",
+      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260704_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Lavendel&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Lavande&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lavanda+pianta&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lavanda&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=lavandas&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%ab%e9%ab%98%e5%8e%9f&form=hpcapt&filters=HpDate%3a%2220260704_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%96%b0%e8%a1%a3%e8%8d%89%e5%b1%9e&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260704_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LavenderRows_EN-US2831933520",
+      "en-GB": "/th?id=OHR.LavenderRows_EN-GB8618053489",
+      "en-CA": "/th?id=OHR.LavenderRows_EN-CA8245005019",
+      "de-DE": "/th?id=OHR.LavenderRows_DE-DE5950929230",
+      "fr-FR": "/th?id=OHR.LavenderRows_FR-FR9535531184",
+      "it-IT": "/th?id=OHR.LavenderRows_IT-IT7009632566",
+      "es-ES": "/th?id=OHR.LavenderRows_ES-ES6518419327",
+      "pt-BR": "/th?id=OHR.LavenderRows_PT-BR5358719596",
+      "ja-JP": "/th?id=OHR.LavenderRows_JA-JP9275300496",
+      "zh-CN": "/th?id=OHR.LavenderRows_ZH-CN0676810895",
+      "en-IN": "/th?id=OHR.LavenderRows_EN-IN4483122586"
+    }
+  },
   "LibertyHall": {
     "name": "LibertyHall",
     "urlbase": "/th?id=OHR.LibertyHall_EN-US2562041614",
@@ -1406,11 +1550,6 @@
         "flag": "br"
       },
       {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -1429,9 +1568,9 @@
       "fr-FR": "Empreinte intemporelle à l’horizon. Mont Fuji sur l’île de Honshū, Japon",
       "it-IT": "Firma celeste",
       "pt-BR": "Um ghosting meteorológico",
-      "ja-JP": "今日は富士山が世界文化遺産に登録された日",
       "zh-CN": "天际线上的印记",
       "en-IN": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
+      "ja-JP": "今日は富士山が世界文化遺産に登録された日",
       "es-ES": "Icono en el horizonte. Monte Fuji en la isla de Honshu, Japón"
     },
     "copyrights": {
@@ -1442,9 +1581,9 @@
       "fr-FR": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
       "it-IT": "Monte Fuji, Honshu, Giappone (© phutthiseth thongtae/Getty Images)",
       "pt-BR": "Monte Fuji na ilha de Honshu, Japão (© phutthiseth thongtae/Getty Images)",
-      "ja-JP": "富士山 (© phutthiseth thongtae/Getty Images)",
       "zh-CN": "本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)",
       "en-IN": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+      "ja-JP": "富士山 (© phutthiseth thongtae/Getty Images)",
       "es-ES": "Monte Fuji en la isla de Honshu, Japón (© phutthiseth thongtae/Getty Images)"
     },
     "descs": {
@@ -1453,8 +1592,8 @@
       "en-CA": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 97 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
       "de-DE": "Der Fuji erhebt sich über Japan als nahezu perfekter Kegel, ist oft schneebedeckt und schon aus großer Entfernung sichtbar. Mit einer Höhe von 3.776 Metern ist er der höchste Berg des Landes. Er liegt etwa 100 Kilometer südwestlich von Tokio auf der Insel Honshū. Zum Vergleich: Die Zugspitze, Deutschlands höchster Gipfel, ist mit 2.962 Metern rund 800 Meter niedriger. Seine symmetrische Form verdankt der Fuji seiner vulkanischen Herkunft. Der Stratovulkan gilt als aktiv, auch wenn er seit der Hōei-Eruption im Jahr 1707 ruht. Damals trieb der Wind große Mengen Asche bis nach Edo, dem heutigen Tokio.",
       "fr-FR": "Le mont Fuji, plus haut sommet du Japon, s’élève à 3 776 mètres d’altitude sur l’île de Honshū, à environ 100 km au sud-ouest de Tokyo. Sa silhouette quasi parfaite révèle sa nature volcanique : un géant endormi depuis l’éruption de Hōei en décembre 1707, bien que toujours considéré comme actif. À l’époque, ses cendres avaient recouvert une large partie de l’est du pays, jusqu’à Edo, l’actuelle Tokyo. Aujourd’hui encore, il incarne la rencontre entre forces naturelles puissantes et mémoire collective.",
-      "ja-JP": "今日 6 月 22 日は、富士山が世界文化遺産に登録された日です。古くから日本では霊峰とされてきた富士山ですが、1992 年の日本最初の世界遺産暫定一覧表には選ばれないなど、世界遺産登録までには長い年月を要しました。1994 年の 100 万人署名運動や、1998 年の富士山憲章制定など、20 年以上に渡る世界遺産登録運動を経て、2007 年に世界遺産暫定一覧表に登録。そして、2013 年 6 月 22 日、カンボジアで開催されたユネスコ世界遺産委員会において、「富士山―信仰の対象と芸術の源泉」として世界文化遺産に登録されました。この登録は、景観の美しさに加え、人々の信仰や芸術に与えてきた文化的価値が認められたものです。",
       "en-IN": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 100 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+      "ja-JP": "今日 6 月 22 日は、富士山が世界文化遺産に登録された日です。古くから日本では霊峰とされてきた富士山ですが、1992 年の日本最初の世界遺産暫定一覧表には選ばれないなど、世界遺産登録までには長い年月を要しました。1994 年の 100 万人署名運動や、1998 年の富士山憲章制定など、20 年以上に渡る世界遺産登録運動を経て、2007 年に世界遺産暫定一覧表に登録。そして、2013 年 6 月 22 日、カンボジアで開催されたユネスコ世界遺産委員会において、「富士山―信仰の対象と芸術の源泉」として世界文化遺産に登録されました。この登録は、景観の美しさに加え、人々の信仰や芸術に与えてきた文化的価値が認められたものです。",
       "es-ES": "El monte Fuji, situado en la isla de Honshu, es la cumbre más alta de Japón y uno de sus símbolos más reconocibles. Este volcán de forma casi perfecta se eleva hasta los 3776 metros y destaca por su silueta armoniosa, visible desde grandes distancias en días despejados. Su imagen ha inspirado durante siglos a artistas, poetas y viajeros, convirtiéndose en un referente cultural profundamente arraigado en la identidad japonesa.",
       "it-IT": "Il Monte Fuji, la montagna più alta del Giappone, si innalza fino a 3.776 metri sull’isola di Honshu, circa 100 chilometri a sud-ovest di Tokyo. Il suo cono quasi perfetto è uno stratovulcano, inattivo dall’ultima eruzione del dicembre 1707, ma ancora classificato come attivo. Quell’ultimo grande evento è noto come eruzione Hōei. Sparse cenere e altri materiali vulcanici su tutto il Giappone orientale, raggiungendo Edo (l’attuale Tokyo).",
       "pt-BR": "Nem todo horizonte aceita concorrência. Na foto do dia, o Monte Fuji domina a paisagem japonesa com a calma de quem conhece o próprio impacto. São 3.776 metros de altitude e um cone quase simétrico, tão perfeito que parece erro de renderização da natureza. Mas o Fuji não vive só de aparência: é um vulcão ativo, silencioso desde a grande erupção de 1707, quando lançou cinzas até Edo, atual Tóquio. Silencioso, mas longe de aposentado.",
@@ -1471,7 +1610,6 @@
       "fr-FR": "Mont Fuji sur l’île de Honshū, Japon",
       "it-IT": "",
       "pt-BR": "",
-      "ja-JP": "今日は富士山が世界文化遺産に登録された日",
       "zh-CN": "",
       "en-IN": "Mount Fuji on Honshu Island, Japan"
     },
@@ -1483,7 +1621,6 @@
       "fr-FR": "https://www.bing.com/search?q=Mont+Fuji&form=hpcapt&filters=HpDate%3a%2220260622_2200%22",
       "it-IT": "https://www.bing.com/search?q=Monte+Fuji&form=hpcapt",
       "pt-BR": "https://www.bing.com/search?q=Monte+Fuji&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1%e3%81%8c%e4%b8%96%e7%95%8c%e6%96%87%e5%8c%96%e9%81%ba%e7%94%a3%e3%81%ab%e7%99%bb%e9%8c%b2%e3%81%95%e3%82%8c%e3%81%9f%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260621_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260622_1830%22"
     },
@@ -1495,7 +1632,6 @@
       "fr-FR": "/th?id=OHR.Fujisan_FR-FR9764365414",
       "it-IT": "/th?id=OHR.Fujisan_IT-IT7252704388",
       "pt-BR": "/th?id=OHR.Fujisan_PT-BR5438513277",
-      "ja-JP": "/th?id=OHR.Fujisan_JA-JP1483326201",
       "zh-CN": "/th?id=OHR.Fujisan_ZH-CN7203975085",
       "en-IN": "/th?id=OHR.Fujisan_EN-IN2234581475"
     }
@@ -1512,34 +1648,9 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
       },
       {
         "code": "pt-BR",
@@ -1550,52 +1661,42 @@
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "A lush kingdom. World Rainforest Day",
-      "en-GB": "A lush kingdom. World Rainforest Day",
       "en-CA": "A lush kingdom. World Rainforest Day",
+      "pt-BR": "Um reino movido a chuva",
+      "ja-JP": "陽光が貫く密林",
+      "en-GB": "A lush kingdom. World Rainforest Day",
       "de-DE": "Regenwälder voller Leben. Welttag des Regenwaldes",
       "fr-FR": "Un royaume humide. Journée mondiale des forêts tropicales",
       "it-IT": "Il richiamo della foresta?",
       "es-ES": "Un reino lleno de vida. Día Internacional de los Bosques Tropicales",
-      "pt-BR": "Um reino movido a chuva",
-      "ja-JP": "陽光が貫く密林",
       "zh-CN": "一个郁郁葱葱的王国",
       "en-IN": "A lush kingdom. World Rainforest Day"
     },
     "copyrights": {
       "en-US": "Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)",
-      "en-GB": "Quinault rainforest, Olympic National Park, Washington, United States (© Chris Moore/Tandem Stills + Motion)",
       "en-CA": "Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)",
+      "pt-BR": "Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos (© Chris Moore/Tandem Stills + Motion)",
+      "ja-JP": "キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)",
+      "en-GB": "Quinault rainforest, Olympic National Park, Washington, United States (© Chris Moore/Tandem Stills + Motion)",
       "de-DE": "Quinault‑Regenwald im Olympic‑Nationalpark, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
       "fr-FR": "Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion)",
       "it-IT": "Foresta pluviale di Quinault, parco nazionale Olympic, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
       "es-ES": "Selva tropical de Quinault, parque nacional Olympic, estado de Washington, EE. UU. (© Chris Moore/Tandem Stills + Motion)",
-      "pt-BR": "Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos (© Chris Moore/Tandem Stills + Motion)",
-      "ja-JP": "キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)",
       "zh-CN": "奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)",
       "en-IN": "Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)"
     },
     "descs": {
       "en-US": "June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa, and the forests of Southeast Asia.",
-      "en-GB": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
       "en-CA": "June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
+      "ja-JP": "ここは、米国ワシントン州のオリンピック国立公園南西部に位置するキノート・レイン・フォレスト。年間降水量は 5,200mm にも達する温帯雨林です。湿ったコケやシダに覆われたオオバカエデやマウンテンヘムロックなどの樹木が見られ、林床には菌類や昆虫、両生類が生息しています。また、この森の中では、オリンピック国立公園内で最大の陸生哺乳類であるルーズベルトエルクの姿を見ることもできます。",
+      "en-GB": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
       "de-DE": "Am 22. Juni rückt der Welttag des Regenwaldes die letzten Regenwälder der Erde in den Fokus. Diese komplexen Ökosysteme bedecken nur rund sechs Prozent der Erdoberfläche. Sie liegen vor allem in tropischen Regionen wie dem Amazonasbecken, dem Kongobecken und in Südostasien und spielen eine zentrale Rolle für Klima, Wasserhaushalt und Artenvielfalt weltweit. Sie speichern große Mengen Kohlenstoff und beeinflussen regionale wie globale Wetter- und Klimasysteme.",
       "fr-FR": "Le 22 juin, la Journée mondiale des forêts tropicales nous invite à protéger ces mondes vivants, principalement présents sous les tropiques, mais ne couvrant qu’environ 6 % des terres émergées. De l’Amazonie au bassin du Congo, jusqu’aux forêts d’Asie du Sud-Est, ces écosystèmes foisonnent de vie et régulent le climat. Leur richesse ne se mesure pas seulement en hectares, mais en chants d’oiseaux, cycles d’eau et équilibres fragiles.",
       "es-ES": "El 22 de junio se celebra el Día Internacional de los Bosques Tropicales, una fecha que invita a reconocer el valor de estos ecosistemas y su papel esencial para la vida en la Tierra. A pesar de ocupar una pequeña fracción de la superficie terrestre, albergan una riqueza biológica extraordinaria y regulan el clima global. También sostienen a numerosas comunidades y proporcionan recursos imprescindibles, lo que convierte su conservación en una responsabilidad compartida.",
-      "ja-JP": "ここは、米国ワシントン州のオリンピック国立公園南西部に位置するキノート・レイン・フォレスト。年間降水量は 5,200mm にも達する温帯雨林です。湿ったコケやシダに覆われたオオバカエデやマウンテンヘムロックなどの樹木が見られ、林床には菌類や昆虫、両生類が生息しています。また、この森の中では、オリンピック国立公園内で最大の陸生哺乳類であるルーズベルトエルクの姿を見ることもできます。",
       "en-IN": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
       "it-IT": "Il 22 giugno è la «Giornata mondiale della foresta pluviale», un momento globale e un richiamo costante, valido tutto l’anno, per proteggere le foreste pluviali ancora esistenti sul pianeta. Questi ecosistemi non sono solo punti sulla mappa, ma prosperano nei tropici e oltre, ma coprono appena circa il 6% della superficie terrestre. Pensiamo all’Amazzonia in Sud America, al Bacino del Congo in Africa e alle foreste del Sud-est asiatico.",
       "pt-BR": "Um reino movido a chuva. Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos. Em algumas matas, até o silêncio parece úmido. O Dia Mundial das Florestas Tropicais, celebrado em 22 de junho, só dá nome ao que já está em pleno funcionamento.",
@@ -1614,110 +1715,28 @@
     },
     "captions": {
       "en-US": "World Rainforest Day",
-      "en-GB": "World Rainforest Day",
       "en-CA": "World Rainforest Day",
-      "de-DE": "Welttag des Regenwaldes",
-      "fr-FR": "Journée mondiale des forêts tropicales",
-      "it-IT": "",
-      "es-ES": "Día Internacional de los Bosques Tropicales",
       "pt-BR": "",
-      "ja-JP": "陽光が貫く密林",
-      "zh-CN": "",
-      "en-IN": "World Rainforest Day"
+      "ja-JP": "陽光が貫く密林"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0700%22",
-      "en-GB": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260621_2300%22",
       "en-CA": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Welttag+des+Regenwaldes&form=hpcapt&filters=HpDate%3a%2220260621_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=journ%c3%a9e+mondiale+des+for%c3%aats+tropicales&form=hpcapt&filters=HpDate%3a%2220260621_2200%22",
-      "it-IT": "https://www.bing.com/search?q=giornata+mondiale+della+foresta+pluviale&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+los+Bosques+Tropicales&form=hpcapt&filters=HpDate%3a%2220260621_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Florestas+Tropicais&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ad%e3%83%8e%e3%83%bc%e3%83%88%e3%83%bb%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260622_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e9%9b%a8%e6%9e%97%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260621_1830%22"
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ad%e3%83%8e%e3%83%bc%e3%83%88%e3%83%bb%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260622_1500%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.QuinaultFerns_EN-US6436576493",
-      "en-GB": "/th?id=OHR.QuinaultFerns_EN-GB3562324915",
       "en-CA": "/th?id=OHR.QuinaultFerns_EN-CA8536233053",
-      "de-DE": "/th?id=OHR.QuinaultFerns_DE-DE3985266590",
-      "fr-FR": "/th?id=OHR.QuinaultFerns_FR-FR2142936548",
-      "it-IT": "/th?id=OHR.QuinaultFerns_IT-IT2013381547",
-      "es-ES": "/th?id=OHR.QuinaultFerns_ES-ES0176872139",
       "pt-BR": "/th?id=OHR.QuinaultFerns_PT-BR5147575881",
-      "ja-JP": "/th?id=OHR.QuinaultFerns_JA-JP6908853562",
-      "zh-CN": "/th?id=OHR.QuinaultFerns_ZH-CN6696428927",
-      "en-IN": "/th?id=OHR.QuinaultFerns_EN-IN6306076955"
+      "ja-JP": "/th?id=OHR.QuinaultFerns_JA-JP6908853562"
     }
   },
-  "EggDad": {
-    "name": "EggDad",
-    "urlbase": "/th?id=OHR.EggDad_EN-US6390221455",
-    "date": "20260621",
-    "dateFormatted": "June 21, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Feathered fathers. Happy Father's Day!",
-      "pt-BR": "Paternidade emplumada",
-      "en-GB": "Feathered fathers. Happy Father's Day!",
-      "de-DE": "Wächter im Eis. Königspinguin‑Männchen bei der Brutpflege",
-      "ja-JP": "今日は父の日",
-      "zh-CN": "鸟类好爸爸"
-    },
-    "copyrights": {
-      "en-US": "King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)",
-      "pt-BR": "Pinguim-rei protegendo um ovo (© McDonald Wildlife Photography Inc./Getty Images)",
-      "en-GB": "King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)",
-      "de-DE": "Ein Königspinguin-Männchen schaut nach seinem Ei (© McDonald Wildlife Photography Inc./Getty Images)",
-      "ja-JP": "オウサマペンギンの父親 (© McDonald Wildlife Photography Inc./Getty Images)",
-      "zh-CN": "企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)"
-    },
-    "descs": {
-      "en-US": "On the third Sunday in June, we celebrate Father's Day—a moment to thank the steady, watchful figures who help life grow and thrive. Across the world, fatherhood can take surprising and extraordinary forms.",
-      "en-GB": "On the third Sunday in June, we celebrate Father's Day—a moment to thank the steady, watchful figures who help life grow and thrive. Across the world, fatherhood can take surprising and extraordinary forms.",
-      "de-DE": "Inmitten einer dicht gedrängten Kolonie hebt sich ein einzelnes Männchen der Königspinguine kaum vom Gewimmel ab. Mit gesenktem Kopf hält es ein Ei sicher auf seinen Füßen, das unter einer warmen, gut durchbluteten Hautfalte verborgen ist. Ein Nest gibt es nicht – alles hängt davon ab, die empfindliche Last vor dem eisigen Wind zu schützen und konstant warmzuhalten.",
-      "ja-JP": "今日 6 月 21 日は父の日。米国発祥の記念日であり、1909 年にワシントン州のソノラ・スマート・ドッドという女性が、父親を讃えるため教会に礼拝をしてもらったことが始まりとされており、1972 年に米国の正式な記念日となりました。日本や米国は 6 月の第 3 日曜日に祝いますが、国によっては日付が異なります。そして画像は、卵を守るオウサマペンギンの父親。卵を後肢の上に乗せ、「抱卵嚢」と呼ばれる腹部の皮膚で温めています。巣を持たないペンギンのため、父と母は交代しながら托卵しており、片方が海に餌を捕りに行っている間、片方はほとんど動かず、時に絶食しながら卵を守り続けます。",
-      "pt-BR": "Na imagem, um pinguim‑rei executa um dos atos mais improváveis da natureza: equilibrar a próxima geração entre os pés. O único ovo fica encaixado sobre eles, protegido por uma dobra de pele quente — a chamada bolsa incubadora — enquanto a fêmea parte rumo ao mar para se alimentar e repor as energias. Sem ninho, sem margem de erro: se o ovo toca o gelo, congela em minutos.",
-      "zh-CN": "鸟类好爸爸. 企鹅爸爸正在检查蛋的情况. 六月的第三个星期日是父亲节——一个感谢那些默默守护、悉心照料孩子成长的长辈们的日子。在世界各地，父亲的角色可以呈现出令人意想不到的非凡形式。"
-    },
-    "quickFacts": {
-      "en-US": "In seahorses, males carry fertilized eggs in a brood pouch, supplying oxygen, nutrients, and protection until they hatch.",
-      "en-GB": "In seahorses, males carry fertilised eggs in a brood pouch, supplying oxygen, nutrients and protection until they hatch.",
-      "de-DE": "Weltweit gibt es 18 Pinguinarten – der Königspinguin ist nach dem Kaiserpinguin die zweitgrößte.",
-      "ja-JP": "オウサマペンギンは複数の層からなる羽毛で寒さを防ぎます。特にヒナはふわふわの綿羽に覆われており、親より大きく見えることもあります。",
-      "zh-CN": "对海马而言，雄性会将受精卵放入自己的育儿袋中，并在孵化前为它们提供氧气、养分和全方位的保护。"
-    },
-    "captions": {
-      "en-US": "Happy Father's Day!",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=father%27s+day&form=hpcapt&filters=HpDate%3a%2220260621_0700%22",
-      "pt-BR": "https://www.bing.com/search?q=pinguim-rei&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.EggDad_EN-US6390221455",
-      "pt-BR": "/th?id=OHR.EggDad_PT-BR4988690729"
-    }
-  },
-  "LavenderRows": {
-    "name": "LavenderRows",
-    "urlbase": "/th?id=OHR.LavenderRows_EN-GB8618053489",
-    "date": "20260704",
-    "dateFormatted": "July 04, 2026",
+  "SyracuseItaly": {
+    "name": "SyracuseItaly",
+    "urlbase": "/th?id=OHR.SyracuseItaly_EN-GB9688094986",
+    "date": "20260705",
+    "dateFormatted": "July 05, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1761,76 +1780,73 @@
       }
     ],
     "titles": {
-      "en-GB": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "de-DE": "Ein Meer aus Lila. Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
-      "fr-FR": "Les mers pourpres. Plateau de Valensole, Provence",
-      "it-IT": "Mare di viola",
-      "es-ES": "Un mar púrpura. Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
-      "ja-JP": "一面に広がる紫色のラベンダー畑",
-      "zh-CN": "紫色花海",
-      "en-IN": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "en-US": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "en-CA": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "pt-BR": "O perfume da Provença. Campos de lavanda no Plateau de Valensole, Provença, França"
+      "en-GB": "A city written in centuries. Syracuse, Sicily, Italy",
+      "de-DE": "Im Licht der Jahrhunderte. Syrakus, Sizilien, Italien",
+      "fr-FR": "Des siècles d’Histoire. Syracuse, Sicile, Italie",
+      "it-IT": "Passato presente",
+      "es-ES": "Una ciudad forjada a lo largo de los siglos. Siracusa, Sicilia, Italia",
+      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
+      "zh-CN": "百代镌刻之城",
+      "en-IN": "A city written in centuries. Syracuse, Sicily, Italy",
+      "en-US": "A city written in centuries. Syracuse at sunset, Sicily, Italy",
+      "en-CA": "A city written in centuries. Syracuse at sunset, Sicily, Italy"
     },
     "copyrights": {
-      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
-      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
-      "fr-FR": "Champs de lavande, Plateau de Valensole, Provence (© Robert Harding/Shutterstock)",
-      "it-IT": "Righe lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
-      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
-      "ja-JP": "ヴァランソール高原, フランス (© Robert Harding/Shutterstock)",
-      "zh-CN": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
-      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
-      "en-US": "© Robert Harding/Shutterstock",
-      "en-CA": "© Robert Harding/Shutterstock",
-      "pt-BR": "© Robert Harding/Shutterstock"
+      "en-GB": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "de-DE": "Syrakus bei Sonnenuntergang, Sizilien, Italien (© Balate Dorin/Getty Images)",
+      "fr-FR": "Syracuse au coucher du soleil, Sicile, Italie (© Balate Dorin/Getty Images)",
+      "it-IT": "Tramonto a Siracusa, Sicilia (© Balate Dorin/Getty Images)",
+      "es-ES": "Siracusa al atardecer, Sicilia, Italia (© Balate Dorin/Getty Images)",
+      "ja-JP": "シラクサ, イタリア (© Balate Dorin/Getty Images)",
+      "zh-CN": "锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)",
+      "en-IN": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "en-US": "© Balate Dorin/Getty Images",
+      "en-CA": "© Balate Dorin/Getty Images"
     },
     "descs": {
-      "en-GB": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "de-DE": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
-      "fr-FR": "Au cœur de la Provence, sur le plateau de Valensole, l’été s’accorde aux tons violets. Situé dans le Parc naturel régional du Verdon, entre les vallées de la Durance et de l’Asse, ce vaste plateau offre, de mi-juin à début juillet, l’un des paysages les plus emblématiques de Provence. Lorsque la lavande et le lavandin fleurissent, l’air se charge de leurs parfums caractéristiques.",
-      "es-ES": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
-      "ja-JP": "一面に広がる紫色のラベンダー畑. ヴァランソール高原, フランス. ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
-      "en-IN": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "en-US": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognizable sights. The air carries a sharp, dry, and unmistakably Mediterranean scent.",
-      "en-CA": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "it-IT": "Sull’altopiano di Valensole, nel sud-est della Francia, l’estate si accende in distese ondulate di viola e blu che sembrano dipinte a mano. Tra metà giugno e inizio luglio, nel cuore del Parco del Verdon, lavanda e lavandin trasformano il paesaggio in un mosaico profumato, attraversato dal ronzio continuo delle api. L’atmosfera, intensa e mediterranea, richiama scenari familiari anche in Italia: basti pensare ai campi di lavanda della Val d’Orcia o alle colline piemontesi, dove la stessa fioritura regala emozioni simili, seppur su scala più raccolta.",
-      "pt-BR": "Entre junho e julho no sul da França, até o vento fica perfumado. No Planalto de Valensole, na região de Provença, fileiras de lavanda e lavandim — um híbrido mais resistente e produtivo — pintam a paisagem de um violeta quase hipnótico. Por trás da estética, há agricultura em plena operação.",
-      "zh-CN": "在法国东南部，瓦朗索勒高原（Valensole Plateau）的夏季伴随着阵阵紫蓝色的波浪而至。瓦朗索勒作为该地区最大的高原之一，坐落在迪朗斯河（Durance）与阿斯河（Asse）流域之间的韦尔东地区自然公园（Verdon Regional Natural Park）内，毗邻韦尔东大峡谷（Gorges du Verdon）及其湖泊。从6月中旬到7月初，受海拔和天气影响，薰衣草与杂交薰衣草（Lavandin）竞相绽放，将大地转化为普罗旺斯最具标志性的景观之一。空气中弥漫着清冽、干爽且极具地中海特色的香气。"
+      "en-GB": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "de-DE": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
+      "fr-FR": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
+      "es-ES": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
+      "ja-JP": "夕焼けに染まる海に突き出た石造要塞. シラクサ, イタリア. ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
+      "en-IN": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "en-US": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "en-CA": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "it-IT": "Siracusa, in Italia, vi accoglie con la forza di una storia che affonda le radici nel 734 a.C., quando i coloni greci la trasformarono in una delle capitali del Mediterraneo antico. Passeggiando tra i suoi resti archeologici, oggi patrimonio UNESCO insieme alle Necropoli di Pantalica, si percepisce ancora l’eco di Archimede e il passaggio di Platone, che qui cercò di dare forma concreta alle sue idee politiche.",
+      "zh-CN": "意大利锡拉库萨（Syracuse）位于西西里岛，由来自科林斯的希腊移民于公元前 734 年左右建立。它曾发展成为古地中海最伟大的强权之一，现已被列入联合国教科文组织世界遗产名录——“锡拉库萨和潘塔立克石墓群”。这座城市永远与阿基米德（Archimedes）联系在一起，他的天才至今仍在塑造着城市的身份；同时也与柏拉图（Plato）紧密相连，他曾满怀着哲学可能重塑政治生活的希望来到此处。这种层叠的历史在马尼亚切城堡（Castello Maniace）中依然清晰可感，这座 13 世纪为神圣罗马帝国皇帝腓特烈二世建造的海滨要塞，至今仍令世人赞叹。"
     },
     "quickFacts": {
-      "zh-CN": "独特的碱性石质土壤在瓦朗索勒高原，普罗旺斯，法国为植物提供了卓越的排水性能，这种地质特性对于薰衣草在高海拔地中海气候下生存至关重要，能有效防止冬季根部腐烂并提升精油品质。"
+      "zh-CN": "原生纸莎草的生态孤岛在锡拉库萨，西西里岛，意大利表现出极高的植物学价值，林特奥斯河（Arethusa Spring）不仅是当地重要的淡水水源，更是全欧洲唯一一处野生纸莎草自然生长的原生生境。"
     },
     "captions": {
-      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France",
-      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
-      "fr-FR": "Plateau de Valensole, Provence",
+      "en-GB": "Syracuse, Sicily, Italy",
+      "de-DE": "Syrakus, Sizilien, Italien",
+      "fr-FR": "Syracuse, Sicile, Italie",
       "it-IT": "",
-      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
-      "ja-JP": "一面に広がる紫色のラベンダー畑",
+      "es-ES": "Siracusa, Sicilia, Italia",
+      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
       "zh-CN": "",
-      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France"
+      "en-IN": "Syracuse, Sicily, Italy"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260704_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Lavendel&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Lavande&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lavanda+pianta&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lavanda&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%ab%e9%ab%98%e5%8e%9f&form=hpcapt&filters=HpDate%3a%2220260704_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%96%b0%e8%a1%a3%e8%8d%89%e5%b1%9e&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260704_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Syrakus&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Syracuse+Sicile&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Siracusa&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Siracusa&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%83%a9%e3%82%af%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260705_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%94%a1%e6%8b%89%e5%ba%93%e8%90%a8+%e8%a5%bf%e8%a5%bf%e9%87%8c%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.LavenderRows_EN-GB8618053489",
-      "de-DE": "/th?id=OHR.LavenderRows_DE-DE5950929230",
-      "fr-FR": "/th?id=OHR.LavenderRows_FR-FR9535531184",
-      "it-IT": "/th?id=OHR.LavenderRows_IT-IT7009632566",
-      "es-ES": "/th?id=OHR.LavenderRows_ES-ES6518419327",
-      "ja-JP": "/th?id=OHR.LavenderRows_JA-JP9275300496",
-      "zh-CN": "/th?id=OHR.LavenderRows_ZH-CN0676810895",
-      "en-IN": "/th?id=OHR.LavenderRows_EN-IN4483122586"
+      "en-GB": "/th?id=OHR.SyracuseItaly_EN-GB9688094986",
+      "de-DE": "/th?id=OHR.SyracuseItaly_DE-DE7459831277",
+      "fr-FR": "/th?id=OHR.SyracuseItaly_FR-FR9604430573",
+      "it-IT": "/th?id=OHR.SyracuseItaly_IT-IT1893295925",
+      "es-ES": "/th?id=OHR.SyracuseItaly_ES-ES6910557655",
+      "ja-JP": "/th?id=OHR.SyracuseItaly_JA-JP9524720514",
+      "zh-CN": "/th?id=OHR.SyracuseItaly_ZH-CN1001695972",
+      "en-IN": "/th?id=OHR.SyracuseItaly_EN-IN1535239880"
     }
   },
   "PrideInLondon2026": {
@@ -2006,40 +2022,6 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353"
-    }
-  },
-  "IndigenousMaple": {
-    "name": "IndigenousMaple",
-    "urlbase": "/th?id=OHR.IndigenousMaple_EN-CA8176109531",
-    "date": "20260621",
-    "dateFormatted": "June 21, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "Rooted across generations. National Indigenous Peoples Day"
-    },
-    "copyrights": {
-      "en-CA": "Red maple leaf, symbol of Canada (© namaki/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "How many stories can a single day hold? Quite a lot, actually. Today in Canada, National Indigenous Peoples Day celebrates First Nations, Inuit and Métis peoples whose knowledge, traditions and skills have shaped life across the country for thousands of years. The day was officially recognised in 1996 after years of calls from Indigenous organisations and leaders seeking stronger recognition of their cultures and communities."
-    },
-    "quickFacts": {
-      "en-CA": "Every totem pole is a distinct narrative, often depicting the ancestral lineage of a family or clan."
-    },
-    "captions": {
-      "en-CA": "National Indigenous Peoples Day"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=National+Indigenous+Peoples+Day&form=hpcapt&filters=HpDate%3a%2220260621_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.IndigenousMaple_EN-CA8176109531"
     }
   },
   "NeckarVineyards": {
@@ -2461,6 +2443,101 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.JogFalls2026_EN-IN2533705121"
+    }
+  },
+  "EggDad": {
+    "name": "EggDad",
+    "urlbase": "/th?id=OHR.EggDad_EN-US6390221455",
+    "date": "20260621",
+    "dateFormatted": "June 21, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Feathered fathers. Happy Father's Day!",
+      "pt-BR": "Paternidade emplumada",
+      "en-GB": "Feathered fathers. Happy Father's Day!",
+      "de-DE": "Wächter im Eis. Königspinguin‑Männchen bei der Brutpflege",
+      "ja-JP": "今日は父の日",
+      "zh-CN": "鸟类好爸爸"
+    },
+    "copyrights": {
+      "en-US": "King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)",
+      "pt-BR": "Pinguim-rei protegendo um ovo (© McDonald Wildlife Photography Inc./Getty Images)",
+      "en-GB": "King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)",
+      "de-DE": "Ein Königspinguin-Männchen schaut nach seinem Ei (© McDonald Wildlife Photography Inc./Getty Images)",
+      "ja-JP": "オウサマペンギンの父親 (© McDonald Wildlife Photography Inc./Getty Images)",
+      "zh-CN": "企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)"
+    },
+    "descs": {
+      "en-US": "On the third Sunday in June, we celebrate Father's Day—a moment to thank the steady, watchful figures who help life grow and thrive. Across the world, fatherhood can take surprising and extraordinary forms.",
+      "en-GB": "On the third Sunday in June, we celebrate Father's Day—a moment to thank the steady, watchful figures who help life grow and thrive. Across the world, fatherhood can take surprising and extraordinary forms.",
+      "de-DE": "Inmitten einer dicht gedrängten Kolonie hebt sich ein einzelnes Männchen der Königspinguine kaum vom Gewimmel ab. Mit gesenktem Kopf hält es ein Ei sicher auf seinen Füßen, das unter einer warmen, gut durchbluteten Hautfalte verborgen ist. Ein Nest gibt es nicht – alles hängt davon ab, die empfindliche Last vor dem eisigen Wind zu schützen und konstant warmzuhalten.",
+      "ja-JP": "今日 6 月 21 日は父の日。米国発祥の記念日であり、1909 年にワシントン州のソノラ・スマート・ドッドという女性が、父親を讃えるため教会に礼拝をしてもらったことが始まりとされており、1972 年に米国の正式な記念日となりました。日本や米国は 6 月の第 3 日曜日に祝いますが、国によっては日付が異なります。そして画像は、卵を守るオウサマペンギンの父親。卵を後肢の上に乗せ、「抱卵嚢」と呼ばれる腹部の皮膚で温めています。巣を持たないペンギンのため、父と母は交代しながら托卵しており、片方が海に餌を捕りに行っている間、片方はほとんど動かず、時に絶食しながら卵を守り続けます。",
+      "pt-BR": "Na imagem, um pinguim‑rei executa um dos atos mais improváveis da natureza: equilibrar a próxima geração entre os pés. O único ovo fica encaixado sobre eles, protegido por uma dobra de pele quente — a chamada bolsa incubadora — enquanto a fêmea parte rumo ao mar para se alimentar e repor as energias. Sem ninho, sem margem de erro: se o ovo toca o gelo, congela em minutos.",
+      "zh-CN": "鸟类好爸爸. 企鹅爸爸正在检查蛋的情况. 六月的第三个星期日是父亲节——一个感谢那些默默守护、悉心照料孩子成长的长辈们的日子。在世界各地，父亲的角色可以呈现出令人意想不到的非凡形式。"
+    },
+    "quickFacts": {
+      "en-US": "In seahorses, males carry fertilized eggs in a brood pouch, supplying oxygen, nutrients, and protection until they hatch.",
+      "en-GB": "In seahorses, males carry fertilised eggs in a brood pouch, supplying oxygen, nutrients and protection until they hatch.",
+      "de-DE": "Weltweit gibt es 18 Pinguinarten – der Königspinguin ist nach dem Kaiserpinguin die zweitgrößte.",
+      "ja-JP": "オウサマペンギンは複数の層からなる羽毛で寒さを防ぎます。特にヒナはふわふわの綿羽に覆われており、親より大きく見えることもあります。",
+      "zh-CN": "对海马而言，雄性会将受精卵放入自己的育儿袋中，并在孵化前为它们提供氧气、养分和全方位的保护。"
+    },
+    "captions": {
+      "en-US": "Happy Father's Day!",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=father%27s+day&form=hpcapt&filters=HpDate%3a%2220260621_0700%22",
+      "pt-BR": "https://www.bing.com/search?q=pinguim-rei&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.EggDad_EN-US6390221455",
+      "pt-BR": "/th?id=OHR.EggDad_PT-BR4988690729"
+    }
+  },
+  "IndigenousMaple": {
+    "name": "IndigenousMaple",
+    "urlbase": "/th?id=OHR.IndigenousMaple_EN-CA8176109531",
+    "date": "20260621",
+    "dateFormatted": "June 21, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Rooted across generations. National Indigenous Peoples Day"
+    },
+    "copyrights": {
+      "en-CA": "Red maple leaf, symbol of Canada (© namaki/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "How many stories can a single day hold? Quite a lot, actually. Today in Canada, National Indigenous Peoples Day celebrates First Nations, Inuit and Métis peoples whose knowledge, traditions and skills have shaped life across the country for thousands of years. The day was officially recognised in 1996 after years of calls from Indigenous organisations and leaders seeking stronger recognition of their cultures and communities."
+    },
+    "quickFacts": {
+      "en-CA": "Every totem pole is a distinct narrative, often depicting the ancestral lineage of a family or clan."
+    },
+    "captions": {
+      "en-CA": "National Indigenous Peoples Day"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=National+Indigenous+Peoples+Day&form=hpcapt&filters=HpDate%3a%2220260621_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.IndigenousMaple_EN-CA8176109531"
     }
   },
   "ArchedIceberg": {
