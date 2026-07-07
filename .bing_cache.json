@@ -1,4 +1,137 @@
 {
+  "SyracuseItaly": {
+    "name": "SyracuseItaly",
+    "urlbase": "/th?id=OHR.SyracuseItaly_EN-US3071727282",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A city written in centuries. Syracuse, Sicily, Italy",
+      "en-GB": "A city written in centuries. Syracuse, Sicily, Italy",
+      "en-CA": "A city written in centuries. Syracuse, Sicily, Italy",
+      "de-DE": "Im Licht der Jahrhunderte. Syrakus, Sizilien, Italien",
+      "fr-FR": "Des siècles d’Histoire. Syracuse, Sicile, Italie",
+      "it-IT": "Passato presente",
+      "es-ES": "Una ciudad forjada a lo largo de los siglos. Siracusa, Sicilia, Italia",
+      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
+      "zh-CN": "百代镌刻之城",
+      "en-IN": "A city written in centuries. Syracuse, Sicily, Italy"
+    },
+    "copyrights": {
+      "en-US": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "en-GB": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "en-CA": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "de-DE": "Syrakus bei Sonnenuntergang, Sizilien, Italien (© Balate Dorin/Getty Images)",
+      "fr-FR": "Syracuse au coucher du soleil, Sicile, Italie (© Balate Dorin/Getty Images)",
+      "it-IT": "Tramonto a Siracusa, Sicilia (© Balate Dorin/Getty Images)",
+      "es-ES": "Siracusa al atardecer, Sicilia, Italia (© Balate Dorin/Getty Images)",
+      "ja-JP": "シラクサ, イタリア (© Balate Dorin/Getty Images)",
+      "zh-CN": "锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)",
+      "en-IN": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "en-GB": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "en-CA": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "de-DE": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
+      "fr-FR": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
+      "es-ES": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
+      "ja-JP": "夕焼けに染まる海に突き出た石造要塞. シラクサ, イタリア. ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
+      "en-IN": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "it-IT": "Siracusa, in Italia, vi accoglie con la forza di una storia che affonda le radici nel 734 a.C., quando i coloni greci la trasformarono in una delle capitali del Mediterraneo antico. Passeggiando tra i suoi resti archeologici, oggi patrimonio UNESCO insieme alle Necropoli di Pantalica, si percepisce ancora l’eco di Archimede e il passaggio di Platone, che qui cercò di dare forma concreta alle sue idee politiche.",
+      "zh-CN": "意大利锡拉库萨（Syracuse）位于西西里岛，由来自科林斯的希腊移民于公元前 734 年左右建立。它曾发展成为古地中海最伟大的强权之一，现已被列入联合国教科文组织世界遗产名录——“锡拉库萨和潘塔立克石墓群”。这座城市永远与阿基米德（Archimedes）联系在一起，他的天才至今仍在塑造着城市的身份；同时也与柏拉图（Plato）紧密相连，他曾满怀着哲学可能重塑政治生活的希望来到此处。这种层叠的历史在马尼亚切城堡（Castello Maniace）中依然清晰可感，这座 13 世纪为神圣罗马帝国皇帝腓特烈二世建造的海滨要塞，至今仍令世人赞叹。"
+    },
+    "quickFacts": {
+      "zh-CN": "原生纸莎草的生态孤岛在锡拉库萨，西西里岛，意大利表现出极高的植物学价值，林特奥斯河（Arethusa Spring）不仅是当地重要的淡水水源，更是全欧洲唯一一处野生纸莎草自然生长的原生生境。"
+    },
+    "captions": {
+      "en-US": "Syracuse, Sicily, Italy",
+      "en-GB": "Syracuse, Sicily, Italy",
+      "en-CA": "Syracuse, Sicily, Italy",
+      "de-DE": "Syrakus, Sizilien, Italien",
+      "fr-FR": "Syracuse, Sicile, Italie",
+      "it-IT": "",
+      "es-ES": "Siracusa, Sicilia, Italia",
+      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
+      "zh-CN": "",
+      "en-IN": "Syracuse, Sicily, Italy"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Syrakus&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Syracuse+Sicile&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Siracusa&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Siracusa&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%83%a9%e3%82%af%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260705_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%94%a1%e6%8b%89%e5%ba%93%e8%90%a8+%e8%a5%bf%e8%a5%bf%e9%87%8c%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SyracuseItaly_EN-US3071727282",
+      "en-GB": "/th?id=OHR.SyracuseItaly_EN-GB9688094986",
+      "en-CA": "/th?id=OHR.SyracuseItaly_EN-CA4724586582",
+      "de-DE": "/th?id=OHR.SyracuseItaly_DE-DE7459831277",
+      "fr-FR": "/th?id=OHR.SyracuseItaly_FR-FR9604430573",
+      "it-IT": "/th?id=OHR.SyracuseItaly_IT-IT1893295925",
+      "es-ES": "/th?id=OHR.SyracuseItaly_ES-ES6910557655",
+      "ja-JP": "/th?id=OHR.SyracuseItaly_JA-JP9524720514",
+      "zh-CN": "/th?id=OHR.SyracuseItaly_ZH-CN1001695972",
+      "en-IN": "/th?id=OHR.SyracuseItaly_EN-IN1535239880"
+    }
+  },
   "LavenderRows": {
     "name": "LavenderRows",
     "urlbase": "/th?id=OHR.LavenderRows_EN-US2831933520",
@@ -1520,54 +1653,24 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
-      "en-GB": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
       "en-CA": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
+      "pt-BR": "Um ghosting meteorológico",
+      "en-GB": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
       "de-DE": "Ikone am Horizont. Berg Fuji auf der Insel Honshū, Japan",
       "fr-FR": "Empreinte intemporelle à l’horizon. Mont Fuji sur l’île de Honshū, Japon",
       "it-IT": "Firma celeste",
-      "pt-BR": "Um ghosting meteorológico",
       "zh-CN": "天际线上的印记",
       "en-IN": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
       "ja-JP": "今日は富士山が世界文化遺産に登録された日",
@@ -1575,12 +1678,12 @@
     },
     "copyrights": {
       "en-US": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
-      "en-GB": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
       "en-CA": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+      "pt-BR": "Monte Fuji na ilha de Honshu, Japão (© phutthiseth thongtae/Getty Images)",
+      "en-GB": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
       "de-DE": "Berg Fuji auf der Insel Honshū, Japan (© phutthiseth thongtae/Getty Images)",
       "fr-FR": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
       "it-IT": "Monte Fuji, Honshu, Giappone (© phutthiseth thongtae/Getty Images)",
-      "pt-BR": "Monte Fuji na ilha de Honshu, Japão (© phutthiseth thongtae/Getty Images)",
       "zh-CN": "本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)",
       "en-IN": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
       "ja-JP": "富士山 (© phutthiseth thongtae/Getty Images)",
@@ -1588,8 +1691,8 @@
     },
     "descs": {
       "en-US": "Mount Fuji, Japan's highest mountain, rises to 12,389 feet on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion, and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
-      "en-GB": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
       "en-CA": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 97 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+      "en-GB": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
       "de-DE": "Der Fuji erhebt sich über Japan als nahezu perfekter Kegel, ist oft schneebedeckt und schon aus großer Entfernung sichtbar. Mit einer Höhe von 3.776 Metern ist er der höchste Berg des Landes. Er liegt etwa 100 Kilometer südwestlich von Tokio auf der Insel Honshū. Zum Vergleich: Die Zugspitze, Deutschlands höchster Gipfel, ist mit 2.962 Metern rund 800 Meter niedriger. Seine symmetrische Form verdankt der Fuji seiner vulkanischen Herkunft. Der Stratovulkan gilt als aktiv, auch wenn er seit der Hōei-Eruption im Jahr 1707 ruht. Damals trieb der Wind große Mengen Asche bis nach Edo, dem heutigen Tokio.",
       "fr-FR": "Le mont Fuji, plus haut sommet du Japon, s’élève à 3 776 mètres d’altitude sur l’île de Honshū, à environ 100 km au sud-ouest de Tokyo. Sa silhouette quasi parfaite révèle sa nature volcanique : un géant endormi depuis l’éruption de Hōei en décembre 1707, bien que toujours considéré comme actif. À l’époque, ses cendres avaient recouvert une large partie de l’est du pays, jusqu’à Edo, l’actuelle Tokyo. Aujourd’hui encore, il incarne la rencontre entre forces naturelles puissantes et mémoire collective.",
       "en-IN": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 100 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
@@ -1604,139 +1707,25 @@
     },
     "captions": {
       "en-US": "Mount Fuji on Honshu Island, Japan",
-      "en-GB": "Mount Fuji on Honshu Island, Japan",
       "en-CA": "Mount Fuji on Honshu Island, Japan",
-      "de-DE": "Berg Fuji auf der Insel Honshū, Japan",
-      "fr-FR": "Mont Fuji sur l’île de Honshū, Japon",
-      "it-IT": "",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Mount Fuji on Honshu Island, Japan"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260623_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260622_2300%22",
       "en-CA": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260623_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Fuji+Berg&form=hpcapt&filters=HpDate%3a%2220260622_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Mont+Fuji&form=hpcapt&filters=HpDate%3a%2220260622_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Monte+Fuji&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=Monte+Fuji&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260622_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Monte+Fuji&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.Fujisan_EN-US6479372200",
-      "en-GB": "/th?id=OHR.Fujisan_EN-GB3917508589",
       "en-CA": "/th?id=OHR.Fujisan_EN-CA8841580600",
-      "de-DE": "/th?id=OHR.Fujisan_DE-DE4332870275",
-      "fr-FR": "/th?id=OHR.Fujisan_FR-FR9764365414",
-      "it-IT": "/th?id=OHR.Fujisan_IT-IT7252704388",
-      "pt-BR": "/th?id=OHR.Fujisan_PT-BR5438513277",
-      "zh-CN": "/th?id=OHR.Fujisan_ZH-CN7203975085",
-      "en-IN": "/th?id=OHR.Fujisan_EN-IN2234581475"
+      "pt-BR": "/th?id=OHR.Fujisan_PT-BR5438513277"
     }
   },
-  "QuinaultFerns": {
-    "name": "QuinaultFerns",
-    "urlbase": "/th?id=OHR.QuinaultFerns_EN-US6436576493",
-    "date": "20260622",
-    "dateFormatted": "June 22, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "en-US": "A lush kingdom. World Rainforest Day",
-      "en-CA": "A lush kingdom. World Rainforest Day",
-      "pt-BR": "Um reino movido a chuva",
-      "ja-JP": "陽光が貫く密林",
-      "en-GB": "A lush kingdom. World Rainforest Day",
-      "de-DE": "Regenwälder voller Leben. Welttag des Regenwaldes",
-      "fr-FR": "Un royaume humide. Journée mondiale des forêts tropicales",
-      "it-IT": "Il richiamo della foresta?",
-      "es-ES": "Un reino lleno de vida. Día Internacional de los Bosques Tropicales",
-      "zh-CN": "一个郁郁葱葱的王国",
-      "en-IN": "A lush kingdom. World Rainforest Day"
-    },
-    "copyrights": {
-      "en-US": "Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)",
-      "en-CA": "Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)",
-      "pt-BR": "Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos (© Chris Moore/Tandem Stills + Motion)",
-      "ja-JP": "キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)",
-      "en-GB": "Quinault rainforest, Olympic National Park, Washington, United States (© Chris Moore/Tandem Stills + Motion)",
-      "de-DE": "Quinault‑Regenwald im Olympic‑Nationalpark, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
-      "fr-FR": "Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion)",
-      "it-IT": "Foresta pluviale di Quinault, parco nazionale Olympic, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
-      "es-ES": "Selva tropical de Quinault, parque nacional Olympic, estado de Washington, EE. UU. (© Chris Moore/Tandem Stills + Motion)",
-      "zh-CN": "奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)",
-      "en-IN": "Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)"
-    },
-    "descs": {
-      "en-US": "June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa, and the forests of Southeast Asia.",
-      "en-CA": "June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
-      "ja-JP": "ここは、米国ワシントン州のオリンピック国立公園南西部に位置するキノート・レイン・フォレスト。年間降水量は 5,200mm にも達する温帯雨林です。湿ったコケやシダに覆われたオオバカエデやマウンテンヘムロックなどの樹木が見られ、林床には菌類や昆虫、両生類が生息しています。また、この森の中では、オリンピック国立公園内で最大の陸生哺乳類であるルーズベルトエルクの姿を見ることもできます。",
-      "en-GB": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
-      "de-DE": "Am 22. Juni rückt der Welttag des Regenwaldes die letzten Regenwälder der Erde in den Fokus. Diese komplexen Ökosysteme bedecken nur rund sechs Prozent der Erdoberfläche. Sie liegen vor allem in tropischen Regionen wie dem Amazonasbecken, dem Kongobecken und in Südostasien und spielen eine zentrale Rolle für Klima, Wasserhaushalt und Artenvielfalt weltweit. Sie speichern große Mengen Kohlenstoff und beeinflussen regionale wie globale Wetter- und Klimasysteme.",
-      "fr-FR": "Le 22 juin, la Journée mondiale des forêts tropicales nous invite à protéger ces mondes vivants, principalement présents sous les tropiques, mais ne couvrant qu’environ 6 % des terres émergées. De l’Amazonie au bassin du Congo, jusqu’aux forêts d’Asie du Sud-Est, ces écosystèmes foisonnent de vie et régulent le climat. Leur richesse ne se mesure pas seulement en hectares, mais en chants d’oiseaux, cycles d’eau et équilibres fragiles.",
-      "es-ES": "El 22 de junio se celebra el Día Internacional de los Bosques Tropicales, una fecha que invita a reconocer el valor de estos ecosistemas y su papel esencial para la vida en la Tierra. A pesar de ocupar una pequeña fracción de la superficie terrestre, albergan una riqueza biológica extraordinaria y regulan el clima global. También sostienen a numerosas comunidades y proporcionan recursos imprescindibles, lo que convierte su conservación en una responsabilidad compartida.",
-      "en-IN": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
-      "it-IT": "Il 22 giugno è la «Giornata mondiale della foresta pluviale», un momento globale e un richiamo costante, valido tutto l’anno, per proteggere le foreste pluviali ancora esistenti sul pianeta. Questi ecosistemi non sono solo punti sulla mappa, ma prosperano nei tropici e oltre, ma coprono appena circa il 6% della superficie terrestre. Pensiamo all’Amazzonia in Sud America, al Bacino del Congo in Africa e alle foreste del Sud-est asiatico.",
-      "pt-BR": "Um reino movido a chuva. Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos. Em algumas matas, até o silêncio parece úmido. O Dia Mundial das Florestas Tropicais, celebrado em 22 de junho, só dá nome ao que já está em pleno funcionamento.",
-      "zh-CN": "一个郁郁葱葱的王国. 奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国. 6月22日是世界雨林日，这是一个全球性的日子，也是全年呼吁人们保护世界剩余雨林的行动。这些生态系统并非地图上的点点星罗棋布。它们遍布热带地区及其他地区，却仅覆盖地球表面约6%的面积。想想南美洲的亚马逊雨林、非洲的刚果盆地以及东南亚的森林吧。"
-    },
-    "quickFacts": {
-      "en-US": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface.",
-      "en-GB": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface.",
-      "en-CA": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface.",
-      "de-DE": "Obwohl sie nur rund 6 % der Erdoberfläche bedecken, beherbergen Regenwälder mehr als die Hälfte der weltweiten Artenvielfalt.",
-      "fr-FR": "Les forêts tropicales abritent plus de la moitié des espèces de la planète, bien qu'elles ne couvrent que 6 % de la surface terrestre.",
-      "it-IT": "Le foreste pluviali ospitano più della metà delle specie del mondo, nonostante coprano solo il 6% della superficie terrestre.",
-      "es-ES": "Las selvas tropicales albergan más de la mitad de las especies del mundo, a pesar de que solo cubren el 6 % de la superficie terrestre.",
-      "zh-CN": "尽管热带雨林仅占地球表面积的 6%，但却是世界上一半以上物种的家园。",
-      "en-IN": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface."
-    },
-    "captions": {
-      "en-US": "World Rainforest Day",
-      "en-CA": "World Rainforest Day",
-      "pt-BR": "",
-      "ja-JP": "陽光が貫く密林"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0700%22",
-      "en-CA": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Florestas+Tropicais&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ad%e3%83%8e%e3%83%bc%e3%83%88%e3%83%bb%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260622_1500%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.QuinaultFerns_EN-US6436576493",
-      "en-CA": "/th?id=OHR.QuinaultFerns_EN-CA8536233053",
-      "pt-BR": "/th?id=OHR.QuinaultFerns_PT-BR5147575881",
-      "ja-JP": "/th?id=OHR.QuinaultFerns_JA-JP6908853562"
-    }
-  },
-  "SyracuseItaly": {
-    "name": "SyracuseItaly",
-    "urlbase": "/th?id=OHR.SyracuseItaly_EN-GB9688094986",
-    "date": "20260705",
-    "dateFormatted": "July 05, 2026",
+  "MountainToucanOrchids": {
+    "name": "MountainToucanOrchids",
+    "urlbase": "/th?id=OHR.MountainToucanOrchids_EN-GB2911291133",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1759,11 +1748,6 @@
         "flag": "it"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1780,73 +1764,76 @@
       }
     ],
     "titles": {
-      "en-GB": "A city written in centuries. Syracuse, Sicily, Italy",
-      "de-DE": "Im Licht der Jahrhunderte. Syrakus, Sizilien, Italien",
-      "fr-FR": "Des siècles d’Histoire. Syracuse, Sicile, Italie",
-      "it-IT": "Passato presente",
-      "es-ES": "Una ciudad forjada a lo largo de los siglos. Siracusa, Sicilia, Italia",
-      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
-      "zh-CN": "百代镌刻之城",
-      "en-IN": "A city written in centuries. Syracuse, Sicily, Italy",
-      "en-US": "A city written in centuries. Syracuse at sunset, Sicily, Italy",
-      "en-CA": "A city written in centuries. Syracuse at sunset, Sicily, Italy"
+      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "de-DE": "Farbenpracht im Blätterdach. Leistenschnabeltukan mit Orchideen, Ecuador",
+      "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat, Équateur",
+      "it-IT": "Colori e fauna selvatica",
+      "ja-JP": "枝に止まるユニークなオオハシ",
+      "zh-CN": "林冠华彩",
+      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "en-US": "Color, craft, and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "en-CA": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "pt-BR": "Voos que espalham futuro. Tucano “Andigena laminirostris” com orquídeas, Equador"
     },
     "copyrights": {
-      "en-GB": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
-      "de-DE": "Syrakus bei Sonnenuntergang, Sizilien, Italien (© Balate Dorin/Getty Images)",
-      "fr-FR": "Syracuse au coucher du soleil, Sicile, Italie (© Balate Dorin/Getty Images)",
-      "it-IT": "Tramonto a Siracusa, Sicilia (© Balate Dorin/Getty Images)",
-      "es-ES": "Siracusa al atardecer, Sicilia, Italia (© Balate Dorin/Getty Images)",
-      "ja-JP": "シラクサ, イタリア (© Balate Dorin/Getty Images)",
-      "zh-CN": "锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)",
-      "en-IN": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
-      "en-US": "© Balate Dorin/Getty Images",
-      "en-CA": "© Balate Dorin/Getty Images"
+      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)",
+      "fr-FR": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
+      "it-IT": "Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)",
+      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)",
+      "zh-CN": "板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
+      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "en-US": "© Murray Cooper/Minden Pictures",
+      "en-CA": "© Murray Cooper/Minden Pictures",
+      "pt-BR": "© Murray Cooper/Minden Pictures"
     },
     "descs": {
-      "en-GB": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "de-DE": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
-      "fr-FR": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
-      "es-ES": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
-      "ja-JP": "夕焼けに染まる海に突き出た石造要塞. シラクサ, イタリア. ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
-      "en-IN": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "en-US": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "en-CA": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "it-IT": "Siracusa, in Italia, vi accoglie con la forza di una storia che affonda le radici nel 734 a.C., quando i coloni greci la trasformarono in una delle capitali del Mediterraneo antico. Passeggiando tra i suoi resti archeologici, oggi patrimonio UNESCO insieme alle Necropoli di Pantalica, si percepisce ancora l’eco di Archimede e il passaggio di Platone, che qui cercò di dare forma concreta alle sue idee politiche.",
-      "zh-CN": "意大利锡拉库萨（Syracuse）位于西西里岛，由来自科林斯的希腊移民于公元前 734 年左右建立。它曾发展成为古地中海最伟大的强权之一，现已被列入联合国教科文组织世界遗产名录——“锡拉库萨和潘塔立克石墓群”。这座城市永远与阿基米德（Archimedes）联系在一起，他的天才至今仍在塑造着城市的身份；同时也与柏拉图（Plato）紧密相连，他曾满怀着哲学可能重塑政治生活的希望来到此处。这种层叠的历史在马尼亚切城堡（Castello Maniace）中依然清晰可感，这座 13 世纪为神圣罗马帝国皇帝腓特烈二世建造的海滨要塞，至今仍令世人赞叹。"
+      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
+      "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
+      "ja-JP": "枝に止まるユニークなオオハシ. イタハシヤマオオハシ, エクアドル. イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
+      "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
+      "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
+      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔. 拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。"
     },
     "quickFacts": {
-      "zh-CN": "原生纸莎草的生态孤岛在锡拉库萨，西西里岛，意大利表现出极高的植物学价值，林特奥斯河（Arethusa Spring）不仅是当地重要的淡水水源，更是全欧洲唯一一处野生纸莎草自然生长的原生生境。"
+      "en-US": "The plate-billed mountain toucan's colorful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "en-GB": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "en-CA": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "de-DE": "Leistenschnabeltukane gehören zur Gattung der Bergtukane, die vor allem in den Anden leben.",
+      "fr-FR": "Le toucan montagnard à bec plat possède un bec coloré orné d'une « plaque » jaune pâle, une caractéristique rare qui donne son nom à cette espèce.",
+      "zh-CN": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。",
+      "en-IN": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name."
     },
     "captions": {
-      "en-GB": "Syracuse, Sicily, Italy",
-      "de-DE": "Syrakus, Sizilien, Italien",
-      "fr-FR": "Syracuse, Sicile, Italie",
+      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador",
+      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador",
+      "fr-FR": "Toucan montagnard à bec plat, Équateur",
       "it-IT": "",
-      "es-ES": "Siracusa, Sicilia, Italia",
-      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
+      "ja-JP": "枝に止まるユニークなオオハシ",
       "zh-CN": "",
-      "en-IN": "Syracuse, Sicily, Italy"
+      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Syrakus&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Syracuse+Sicile&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Siracusa&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Siracusa&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%83%a9%e3%82%af%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260705_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%94%a1%e6%8b%89%e5%ba%93%e8%90%a8+%e8%a5%bf%e8%a5%bf%e9%87%8c%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Leistenschnabeltukan&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Tucano+montano+pettogrigio&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%8f%e3%82%b7%e3%83%a4%e3%83%9e%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%b7&form=hpcapt&filters=HpDate%3a%2220260703_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%9d%bf%e5%98%b4%e5%b1%b1%e5%b7%a8%e5%98%b4%e9%b8%9f&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.SyracuseItaly_EN-GB9688094986",
-      "de-DE": "/th?id=OHR.SyracuseItaly_DE-DE7459831277",
-      "fr-FR": "/th?id=OHR.SyracuseItaly_FR-FR9604430573",
-      "it-IT": "/th?id=OHR.SyracuseItaly_IT-IT1893295925",
-      "es-ES": "/th?id=OHR.SyracuseItaly_ES-ES6910557655",
-      "ja-JP": "/th?id=OHR.SyracuseItaly_JA-JP9524720514",
-      "zh-CN": "/th?id=OHR.SyracuseItaly_ZH-CN1001695972",
-      "en-IN": "/th?id=OHR.SyracuseItaly_EN-IN1535239880"
+      "en-GB": "/th?id=OHR.MountainToucanOrchids_EN-GB2911291133",
+      "de-DE": "/th?id=OHR.MountainToucanOrchids_DE-DE0710570038",
+      "fr-FR": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325",
+      "it-IT": "/th?id=OHR.MountainToucanOrchids_IT-IT8965138427",
+      "ja-JP": "/th?id=OHR.MountainToucanOrchids_JA-JP8375436996",
+      "zh-CN": "/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431",
+      "en-IN": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935"
     }
   },
   "PrideInLondon2026": {
@@ -2152,6 +2139,38 @@
       "it-IT": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696"
     }
   },
+  "GranCanaria": {
+    "name": "GranCanaria",
+    "urlbase": "/th?id=OHR.GranCanaria_ES-ES7578658409",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Dos épocas, mismo lugar. Dunas de arena en Maspalomas, Gran Canaria, España"
+    },
+    "copyrights": {
+      "es-ES": "Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Maspalomas, en Gran Canaria, España, sorprende con un paisaje donde la ciudad y el desierto parecen tocarse sin mezclarse. Desde el aire, el trazado ordenado de calles y edificios se detiene de forma abrupta ante un mar de dunas doradas que se extiende junto al Atlántico, creando un contraste único en el archipiélago."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Dunas de arena en Maspalomas, Gran Canaria, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Maspalomas&form=hpcapt&filters=HpDate%3a%2220260706_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.GranCanaria_ES-ES7578658409"
+    }
+  },
   "PrideChueca": {
     "name": "PrideChueca",
     "urlbase": "/th?id=OHR.PrideChueca_ES-ES4043385731",
@@ -2184,38 +2203,36 @@
       "es-ES": "/th?id=OHR.PrideChueca_ES-ES4043385731"
     }
   },
-  "SanJuanFuegos": {
-    "name": "SanJuanFuegos",
-    "urlbase": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498",
-    "date": "20260622",
-    "dateFormatted": "June 22, 2026",
+  "PepJalapao": {
+    "name": "PepJalapao",
+    "urlbase": "/th?id=OHR.PepJalapao_PT-BR2714528924",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
     "markets": [
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
       }
     ],
     "titles": {
-      "es-ES": "Noche de deseos y hogueras. Fuegos artificiales en la Noche de San Juan"
+      "pt-BR": "Cerrado, uma fábrica estrelas"
     },
     "copyrights": {
-      "es-ES": "Fuegos artificiales en la Noche de San Juan (© rui_noronha/Getty Images)"
+      "pt-BR": "Sempre-viva, ou chuveirinho, no Cerrado, Parque Estadual do Jalapão, Tocantins (© Caio Pederneiras/Getty Images)"
     },
     "descs": {
-      "es-ES": "La Noche de San Juan, celebrada cada 23 de junio, marca uno de los momentos más esperados del inicio del verano en muchos lugares de España y de la costa mediterránea. Con la llegada de la noche, playas y plazas se llenan de hogueras, luces y reuniones que combinan tradición y ambiente festivo. El fuego actúa como símbolo de renovación y se convierte en el centro de encuentros familiares y sociales."
+      "pt-BR": "Na estação seca, o capim perde o verde, a água se esconde e o calor reorganiza o Cerrado em torno da resistência. Mesmo assim, elas aparecem: hastes finas que terminam em esferas com dezenas de flores minúsculas, formando um “chuveirinho” quase geométrico — daí seu nome. Delicadíssimas, mas nada frágeis, chuveirinhos crescem onde muita coisa desistiria, suportando sol intenso, solo pobre, vento seco e queimadas frequentes. Costumam florescer entre o fim das chuvas e o avanço da seca, de março a julho, podendo ultrapassar dois metros e produzir centenas de flores numa única estrutura."
     },
-    "quickFacts": {
-      "es-ES": "La Noche de San Juan, celebrada el 23 de junio, tiene origen en antiguos rituales paganos que usaban el fuego para celebrar el día más largo del año y ahuyentar energías negativas."
-    },
+    "quickFacts": {},
     "captions": {
-      "es-ES": "Fuegos artificiales en la Noche de San Juan"
+      "pt-BR": ""
     },
     "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=San+Juan+v%c3%adspera&form=hpcapt&filters=HpDate%3a%2220260622_2200%22"
+      "pt-BR": "https://www.bing.com/search?q=sempre-viva+chuveirinho+flor&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "es-ES": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498"
+      "pt-BR": "/th?id=OHR.PepJalapao_PT-BR2714528924"
     }
   },
   "Parintins": {
@@ -2282,11 +2299,11 @@
       "pt-BR": "/th?id=OHR.IbiSP_PT-BR5842175553"
     }
   },
-  "MountainToucanOrchids": {
-    "name": "MountainToucanOrchids",
-    "urlbase": "/th?id=OHR.MountainToucanOrchids_JA-JP8375436996",
-    "date": "20260703",
-    "dateFormatted": "July 03, 2026",
+  "Tanabata2026": {
+    "name": "Tanabata2026",
+    "urlbase": "/th?id=OHR.Tanabata2026_JA-JP9678732410",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
     "markets": [
       {
         "code": "ja-JP",
@@ -2295,58 +2312,23 @@
       }
     ],
     "titles": {
-      "ja-JP": "枝に止まるユニークなオオハシ",
-      "en-US": "Color, craft, and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "en-CA": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "de-DE": "Farbenpracht im Blätterdach. Leistenschnabeltukan mit Orchideen, Ecuador",
-      "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat avec des orchidées, Équateur",
-      "it-IT": "Colori e fauna selvatica. Tucano montano pettogrigio, Ecuador",
-      "pt-BR": "Voos que espalham futuro. Tucano “Andigena laminirostris” com orquídeas, Equador",
-      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔",
-      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador"
+      "ja-JP": "七夕の伝統行事"
     },
     "copyrights": {
-      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)",
-      "en-US": "© Murray Cooper/Minden Pictures",
-      "en-GB": "© Murray Cooper/Minden Pictures",
-      "en-CA": "© Murray Cooper/Minden Pictures",
-      "de-DE": "© Murray Cooper/Minden Pictures",
-      "fr-FR": "© Murray Cooper/Minden Pictures",
-      "it-IT": "© Murray Cooper/Minden Pictures",
-      "pt-BR": "© Murray Cooper/Minden Pictures",
-      "zh-CN": "© Murray Cooper/Minden Pictures",
-      "en-IN": "© Murray Cooper/Minden Pictures"
+      "ja-JP": "七夕まつりの吹き流し, 宮城県 仙台市 (© kororokerokero/Getty Images)"
     },
     "descs": {
-      "ja-JP": "枝に止まるユニークなオオハシ. イタハシヤマオオハシ, エクアドル. イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
-      "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
-      "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
-      "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
-      "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
-      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔. 拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。",
-      "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy."
+      "ja-JP": "今日 7 月 7 日は七夕。全国各地で七夕飾りの豪華さを競う七夕まつりが行われますが、なかでも有名なのが仙台七夕まつりです。旧暦の七夕行事を受け継いでいるため、現在の暦では毎年8月に開催されています。商店街や街の通りには、色鮮やかな吹き流しや豪華な七夕飾りが並び、夏の風に揺れる幻想的な景色が広がります。願いを書いた短冊や繊細な和紙細工は、日本ならではの伝統文化と職人技が感じられるとして、海外の観光客にも人気です。歴史と美しさに彩られた、仙台の夏を象徴する祭りとして知られています。"
     },
-    "quickFacts": {
-      "en-US": "The plate-billed mountain toucan's colorful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "en-GB": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "en-CA": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "de-DE": "Leistenschnabeltukane gehören zur Gattung der Bergtukane, die vor allem in den Anden leben.",
-      "fr-FR": "Le toucan montagnard à bec plat possède un bec coloré orné d'une « plaque » jaune pâle, une caractéristique rare qui donne son nom à cette espèce.",
-      "zh-CN": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。",
-      "en-IN": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name."
-    },
+    "quickFacts": {},
     "captions": {
-      "ja-JP": "枝に止まるユニークなオオハシ"
+      "ja-JP": "七夕の伝統行事"
     },
     "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%8f%e3%82%b7%e3%83%a4%e3%83%9e%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%b7&form=hpcapt&filters=HpDate%3a%2220260703_1500%22"
+      "ja-JP": "https://www.bing.com/search?q=%e4%bb%99%e5%8f%b0%e3%81%ae%e4%b8%83%e5%a4%95%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220260706_1500%22"
     },
     "urlbases": {
-      "ja-JP": "/th?id=OHR.MountainToucanOrchids_JA-JP8375436996"
+      "ja-JP": "/th?id=OHR.Tanabata2026_JA-JP9678732410"
     }
   },
   "Ajisai2026": {
@@ -2443,6 +2425,136 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.JogFalls2026_EN-IN2533705121"
+    }
+  },
+  "QuinaultFerns": {
+    "name": "QuinaultFerns",
+    "urlbase": "/th?id=OHR.QuinaultFerns_EN-US6436576493",
+    "date": "20260622",
+    "dateFormatted": "June 22, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "en-US": "A lush kingdom. World Rainforest Day",
+      "en-CA": "A lush kingdom. World Rainforest Day",
+      "pt-BR": "Um reino movido a chuva",
+      "ja-JP": "陽光が貫く密林",
+      "en-GB": "A lush kingdom. World Rainforest Day",
+      "de-DE": "Regenwälder voller Leben. Welttag des Regenwaldes",
+      "fr-FR": "Un royaume humide. Journée mondiale des forêts tropicales",
+      "it-IT": "Il richiamo della foresta?",
+      "es-ES": "Un reino lleno de vida. Día Internacional de los Bosques Tropicales",
+      "zh-CN": "一个郁郁葱葱的王国",
+      "en-IN": "A lush kingdom. World Rainforest Day"
+    },
+    "copyrights": {
+      "en-US": "Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)",
+      "en-CA": "Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)",
+      "pt-BR": "Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos (© Chris Moore/Tandem Stills + Motion)",
+      "ja-JP": "キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)",
+      "en-GB": "Quinault rainforest, Olympic National Park, Washington, United States (© Chris Moore/Tandem Stills + Motion)",
+      "de-DE": "Quinault‑Regenwald im Olympic‑Nationalpark, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
+      "fr-FR": "Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion)",
+      "it-IT": "Foresta pluviale di Quinault, parco nazionale Olympic, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
+      "es-ES": "Selva tropical de Quinault, parque nacional Olympic, estado de Washington, EE. UU. (© Chris Moore/Tandem Stills + Motion)",
+      "zh-CN": "奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)",
+      "en-IN": "Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)"
+    },
+    "descs": {
+      "en-US": "June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa, and the forests of Southeast Asia.",
+      "en-CA": "June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
+      "ja-JP": "ここは、米国ワシントン州のオリンピック国立公園南西部に位置するキノート・レイン・フォレスト。年間降水量は 5,200mm にも達する温帯雨林です。湿ったコケやシダに覆われたオオバカエデやマウンテンヘムロックなどの樹木が見られ、林床には菌類や昆虫、両生類が生息しています。また、この森の中では、オリンピック国立公園内で最大の陸生哺乳類であるルーズベルトエルクの姿を見ることもできます。",
+      "en-GB": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
+      "de-DE": "Am 22. Juni rückt der Welttag des Regenwaldes die letzten Regenwälder der Erde in den Fokus. Diese komplexen Ökosysteme bedecken nur rund sechs Prozent der Erdoberfläche. Sie liegen vor allem in tropischen Regionen wie dem Amazonasbecken, dem Kongobecken und in Südostasien und spielen eine zentrale Rolle für Klima, Wasserhaushalt und Artenvielfalt weltweit. Sie speichern große Mengen Kohlenstoff und beeinflussen regionale wie globale Wetter- und Klimasysteme.",
+      "fr-FR": "Le 22 juin, la Journée mondiale des forêts tropicales nous invite à protéger ces mondes vivants, principalement présents sous les tropiques, mais ne couvrant qu’environ 6 % des terres émergées. De l’Amazonie au bassin du Congo, jusqu’aux forêts d’Asie du Sud-Est, ces écosystèmes foisonnent de vie et régulent le climat. Leur richesse ne se mesure pas seulement en hectares, mais en chants d’oiseaux, cycles d’eau et équilibres fragiles.",
+      "es-ES": "El 22 de junio se celebra el Día Internacional de los Bosques Tropicales, una fecha que invita a reconocer el valor de estos ecosistemas y su papel esencial para la vida en la Tierra. A pesar de ocupar una pequeña fracción de la superficie terrestre, albergan una riqueza biológica extraordinaria y regulan el clima global. También sostienen a numerosas comunidades y proporcionan recursos imprescindibles, lo que convierte su conservación en una responsabilidad compartida.",
+      "en-IN": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
+      "it-IT": "Il 22 giugno è la «Giornata mondiale della foresta pluviale», un momento globale e un richiamo costante, valido tutto l’anno, per proteggere le foreste pluviali ancora esistenti sul pianeta. Questi ecosistemi non sono solo punti sulla mappa, ma prosperano nei tropici e oltre, ma coprono appena circa il 6% della superficie terrestre. Pensiamo all’Amazzonia in Sud America, al Bacino del Congo in Africa e alle foreste del Sud-est asiatico.",
+      "pt-BR": "Um reino movido a chuva. Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos. Em algumas matas, até o silêncio parece úmido. O Dia Mundial das Florestas Tropicais, celebrado em 22 de junho, só dá nome ao que já está em pleno funcionamento.",
+      "zh-CN": "一个郁郁葱葱的王国. 奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国. 6月22日是世界雨林日，这是一个全球性的日子，也是全年呼吁人们保护世界剩余雨林的行动。这些生态系统并非地图上的点点星罗棋布。它们遍布热带地区及其他地区，却仅覆盖地球表面约6%的面积。想想南美洲的亚马逊雨林、非洲的刚果盆地以及东南亚的森林吧。"
+    },
+    "quickFacts": {
+      "en-US": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface.",
+      "en-GB": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface.",
+      "en-CA": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface.",
+      "de-DE": "Obwohl sie nur rund 6 % der Erdoberfläche bedecken, beherbergen Regenwälder mehr als die Hälfte der weltweiten Artenvielfalt.",
+      "fr-FR": "Les forêts tropicales abritent plus de la moitié des espèces de la planète, bien qu'elles ne couvrent que 6 % de la surface terrestre.",
+      "it-IT": "Le foreste pluviali ospitano più della metà delle specie del mondo, nonostante coprano solo il 6% della superficie terrestre.",
+      "es-ES": "Las selvas tropicales albergan más de la mitad de las especies del mundo, a pesar de que solo cubren el 6 % de la superficie terrestre.",
+      "zh-CN": "尽管热带雨林仅占地球表面积的 6%，但却是世界上一半以上物种的家园。",
+      "en-IN": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface."
+    },
+    "captions": {
+      "en-US": "World Rainforest Day",
+      "en-CA": "World Rainforest Day",
+      "pt-BR": "",
+      "ja-JP": "陽光が貫く密林"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Florestas+Tropicais&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ad%e3%83%8e%e3%83%bc%e3%83%88%e3%83%bb%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260622_1500%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.QuinaultFerns_EN-US6436576493",
+      "en-CA": "/th?id=OHR.QuinaultFerns_EN-CA8536233053",
+      "pt-BR": "/th?id=OHR.QuinaultFerns_PT-BR5147575881",
+      "ja-JP": "/th?id=OHR.QuinaultFerns_JA-JP6908853562"
+    }
+  },
+  "SanJuanFuegos": {
+    "name": "SanJuanFuegos",
+    "urlbase": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498",
+    "date": "20260622",
+    "dateFormatted": "June 22, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Noche de deseos y hogueras. Fuegos artificiales en la Noche de San Juan"
+    },
+    "copyrights": {
+      "es-ES": "Fuegos artificiales en la Noche de San Juan (© rui_noronha/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "La Noche de San Juan, celebrada cada 23 de junio, marca uno de los momentos más esperados del inicio del verano en muchos lugares de España y de la costa mediterránea. Con la llegada de la noche, playas y plazas se llenan de hogueras, luces y reuniones que combinan tradición y ambiente festivo. El fuego actúa como símbolo de renovación y se convierte en el centro de encuentros familiares y sociales."
+    },
+    "quickFacts": {
+      "es-ES": "La Noche de San Juan, celebrada el 23 de junio, tiene origen en antiguos rituales paganos que usaban el fuego para celebrar el día más largo del año y ahuyentar energías negativas."
+    },
+    "captions": {
+      "es-ES": "Fuegos artificiales en la Noche de San Juan"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=San+Juan+v%c3%adspera&form=hpcapt&filters=HpDate%3a%2220260622_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498"
     }
   },
   "EggDad": {
