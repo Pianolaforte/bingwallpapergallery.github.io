@@ -1,4 +1,143 @@
 {
+  "MountainToucanOrchids": {
+    "name": "MountainToucanOrchids",
+    "urlbase": "/th?id=OHR.MountainToucanOrchids_EN-US3433249651",
+    "date": "20260707",
+    "dateFormatted": "July 07, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Color, craft, and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "en-CA": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "de-DE": "Farbenpracht im Blätterdach. Leistenschnabeltukan mit Orchideen, Ecuador",
+      "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat, Équateur",
+      "it-IT": "Colori e fauna selvatica",
+      "pt-BR": "Voos que espalham futuro",
+      "ja-JP": "枝に止まるユニークなオオハシ",
+      "zh-CN": "林冠华彩",
+      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador"
+    },
+    "copyrights": {
+      "en-US": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "en-CA": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)",
+      "fr-FR": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
+      "it-IT": "Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)",
+      "pt-BR": "Tucano “Andigena laminirostris” com orquídeas, Equador (© Murray Cooper/Minden Pictures)",
+      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)",
+      "zh-CN": "板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
+      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
+      "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
+      "ja-JP": "枝に止まるユニークなオオハシ. イタハシヤマオオハシ, エクアドル. イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
+      "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
+      "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
+      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔. 拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。"
+    },
+    "quickFacts": {
+      "en-US": "The plate-billed mountain toucan's colorful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "en-GB": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "en-CA": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "de-DE": "Leistenschnabeltukane gehören zur Gattung der Bergtukane, die vor allem in den Anden leben.",
+      "fr-FR": "Le toucan montagnard à bec plat possède un bec coloré orné d'une « plaque » jaune pâle, une caractéristique rare qui donne son nom à cette espèce.",
+      "zh-CN": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。",
+      "en-IN": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name."
+    },
+    "captions": {
+      "en-US": "Plate-billed mountain toucan with orchids, Ecuador",
+      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador",
+      "en-CA": "Plate-billed mountain toucan with orchids, Ecuador",
+      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador",
+      "fr-FR": "Toucan montagnard à bec plat, Équateur",
+      "it-IT": "",
+      "pt-BR": "",
+      "ja-JP": "枝に止まるユニークなオオハシ",
+      "zh-CN": "",
+      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Leistenschnabeltukan&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Tucano+montano+pettogrigio&form=hpcapt",
+      "pt-BR": "https://www.bing.com/search?q=o+tucano&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%8f%e3%82%b7%e3%83%a4%e3%83%9e%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%b7&form=hpcapt&filters=HpDate%3a%2220260703_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%9d%bf%e5%98%b4%e5%b1%b1%e5%b7%a8%e5%98%b4%e9%b8%9f&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MountainToucanOrchids_EN-US3433249651",
+      "en-GB": "/th?id=OHR.MountainToucanOrchids_EN-GB2911291133",
+      "en-CA": "/th?id=OHR.MountainToucanOrchids_EN-CA5781848121",
+      "de-DE": "/th?id=OHR.MountainToucanOrchids_DE-DE0710570038",
+      "fr-FR": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325",
+      "it-IT": "/th?id=OHR.MountainToucanOrchids_IT-IT8965138427",
+      "pt-BR": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838",
+      "ja-JP": "/th?id=OHR.MountainToucanOrchids_JA-JP8375436996",
+      "zh-CN": "/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431",
+      "en-IN": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935"
+    }
+  },
   "SyracuseItaly": {
     "name": "SyracuseItaly",
     "urlbase": "/th?id=OHR.SyracuseItaly_EN-US3071727282",
@@ -1500,86 +1639,46 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Pollen meets wings. Pollinator Week",
-      "en-GB": "Pollen meets wings. Pollinator Week",
       "en-CA": "Pollen meets wings. Pollinator Week",
+      "pt-BR": "O pit-stop dos jardins",
+      "en-GB": "Pollen meets wings. Pollinator Week",
       "de-DE": "Kleine Flügel, große Wirkung. Schmetterling beim Bestäuben einer gelben Blüte",
       "fr-FR": "Silence, ça butine !. Pollinisateurs",
       "it-IT": "Impollinare il mondo",
       "es-ES": "Entre polen y alas. Mariposa polinizando una flor amarilla",
-      "pt-BR": "O pit-stop dos jardins",
       "ja-JP": "今週は全米花粉媒介者週間",
       "zh-CN": "花粉与翅膀相遇",
       "en-IN": "Pollen meets wings. Pollinator Week"
     },
     "copyrights": {
       "en-US": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
-      "en-GB": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
       "en-CA": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
+      "pt-BR": "Borboleta polinizando uma flor amarela (© lzh/Getty Images)",
+      "en-GB": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
       "de-DE": "Schmetterling beim Bestäuben einer gelben Blüte (© lzh/Getty Images)",
       "fr-FR": "Papillon sur une fleur jaune (© lzh/Getty Images)",
       "it-IT": "Farfalla che impollina un fiore giallo (© lzh/Getty Images)",
       "es-ES": "Mariposa polinizando una flor amarilla (© lzh/Getty Images)",
-      "pt-BR": "Borboleta polinizando uma flor amarela (© lzh/Getty Images)",
       "ja-JP": "花の蜜を味わう蝶 (© lzh/Getty Images)",
       "zh-CN": "蝴蝶正在黄花上授粉 (© lzh/Getty Images)",
       "en-IN": "Butterfly pollinating on yellow flower (© lzh/Getty Images)"
     },
     "descs": {
       "en-US": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles, and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
-      "en-GB": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
       "en-CA": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
+      "en-GB": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
       "de-DE": "Ein Schmetterling flattert von Blüte zu Blüte und setzt dabei einen unscheinbaren Kreislauf in Bewegung: Beim Nektarsammeln bleibt Blütenstaub an ihm haften und wird weitergetragen. So können viele Pflanzen überhaupt Samen und Früchte bilden. Besonders tagaktive Schmetterlinge bestäuben oft farbenreiche Wildblumen und tragen so zur Artenvielfalt vieler Wiesen bei.",
       "fr-FR": "Observer de près un geste minuscule, c’est parfois découvrir tout un univers, comme celui de ce papillon posé sur une fleur jaune, y puisant son nectar. En se nourrissant, il emporte avec lui une fine poussière de pollen qu’il déposera sur une autre corolle. Ce cycle discret permet aux plantes de se reproduire et de perdurer. Les pollinisateurs ne se limitent pas aux abeilles : papillons, oiseaux, chauves-souris et coléoptères participent tous à cet échange vital, soutenant la diversité des plantes sauvages comme celle des fruits et légumes qui garnissent nos assiettes.",
       "es-ES": "Los polinizadores desempeñan un papel esencial en el equilibrio de los ecosistemas y en la producción de alimentos. Insectos como abejas, mariposas y escarabajos transportan el polen de una flor a otra, lo que permite la fecundación de muchas plantas. Gracias a este proceso natural, una gran parte de los cultivos que consumimos a diario se pueden desarrollar. Se estima que uno de cada tres bocados de comida depende directa o indirectamente de su labor, lo que subraya su importancia.",
@@ -1603,129 +1702,25 @@
     },
     "captions": {
       "en-US": "Pollinator Week",
-      "en-GB": "Pollinator Week",
       "en-CA": "Pollinator Week",
-      "de-DE": "Schmetterling beim Bestäuben einer gelben Blüte",
-      "fr-FR": "Pollinisateurs",
-      "it-IT": "",
-      "es-ES": "Mariposa polinizando una flor amarilla",
-      "pt-BR": "",
-      "ja-JP": "今週は全米花粉媒介者週間",
-      "zh-CN": "",
-      "en-IN": "Pollinator Week"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Pollinator+Week&form=hpcapt&filters=HpDate%3a%2220260623_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Best%c3%a4uber+Insekten+&form=hpcapt&filters=HpDate%3a%2220260623_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=pollinisateur&form=hpcapt&filters=HpDate%3a%2220260623_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Impollinazione&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Polinizaci%c3%b3n&form=hpcapt&filters=HpDate%3a%2220260623_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=polinizadores&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e8%8a%b1%e3%81%ae%e8%9c%9c%e3%82%92%e5%90%b8%e3%81%86%e8%9d%b6&form=hpcapt&filters=HpDate%3a%2220260623_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%9d%b4%e8%9d%b6%e6%8e%88%e7%b2%89&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Pollinator+Week&form=hpcapt&filters=HpDate%3a%2220260623_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BFPollin_EN-US6519187095",
-      "en-GB": "/th?id=OHR.BFPollin_EN-GB9787494533",
-      "en-CA": "/th?id=OHR.BFPollin_EN-CA9136085313",
-      "de-DE": "/th?id=OHR.BFPollin_DE-DE1648202484",
-      "fr-FR": "/th?id=OHR.BFPollin_FR-FR2895321472",
-      "it-IT": "/th?id=OHR.BFPollin_IT-IT1968773839",
-      "es-ES": "/th?id=OHR.BFPollin_ES-ES0605051254",
-      "pt-BR": "/th?id=OHR.BFPollin_PT-BR5634257849",
-      "ja-JP": "/th?id=OHR.BFPollin_JA-JP2026844024",
-      "zh-CN": "/th?id=OHR.BFPollin_ZH-CN7654067396",
-      "en-IN": "/th?id=OHR.BFPollin_EN-IN2234226266"
-    }
-  },
-  "Fujisan": {
-    "name": "Fujisan",
-    "urlbase": "/th?id=OHR.Fujisan_EN-US6479372200",
-    "date": "20260623",
-    "dateFormatted": "June 23, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
-      "en-CA": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
-      "pt-BR": "Um ghosting meteorológico",
-      "en-GB": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
-      "de-DE": "Ikone am Horizont. Berg Fuji auf der Insel Honshū, Japan",
-      "fr-FR": "Empreinte intemporelle à l’horizon. Mont Fuji sur l’île de Honshū, Japon",
-      "it-IT": "Firma celeste",
-      "zh-CN": "天际线上的印记",
-      "en-IN": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
-      "ja-JP": "今日は富士山が世界文化遺産に登録された日",
-      "es-ES": "Icono en el horizonte. Monte Fuji en la isla de Honshu, Japón"
-    },
-    "copyrights": {
-      "en-US": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
-      "en-CA": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
-      "pt-BR": "Monte Fuji na ilha de Honshu, Japão (© phutthiseth thongtae/Getty Images)",
-      "en-GB": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
-      "de-DE": "Berg Fuji auf der Insel Honshū, Japan (© phutthiseth thongtae/Getty Images)",
-      "fr-FR": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
-      "it-IT": "Monte Fuji, Honshu, Giappone (© phutthiseth thongtae/Getty Images)",
-      "zh-CN": "本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)",
-      "en-IN": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
-      "ja-JP": "富士山 (© phutthiseth thongtae/Getty Images)",
-      "es-ES": "Monte Fuji en la isla de Honshu, Japón (© phutthiseth thongtae/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Mount Fuji, Japan's highest mountain, rises to 12,389 feet on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion, and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
-      "en-CA": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 97 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
-      "en-GB": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
-      "de-DE": "Der Fuji erhebt sich über Japan als nahezu perfekter Kegel, ist oft schneebedeckt und schon aus großer Entfernung sichtbar. Mit einer Höhe von 3.776 Metern ist er der höchste Berg des Landes. Er liegt etwa 100 Kilometer südwestlich von Tokio auf der Insel Honshū. Zum Vergleich: Die Zugspitze, Deutschlands höchster Gipfel, ist mit 2.962 Metern rund 800 Meter niedriger. Seine symmetrische Form verdankt der Fuji seiner vulkanischen Herkunft. Der Stratovulkan gilt als aktiv, auch wenn er seit der Hōei-Eruption im Jahr 1707 ruht. Damals trieb der Wind große Mengen Asche bis nach Edo, dem heutigen Tokio.",
-      "fr-FR": "Le mont Fuji, plus haut sommet du Japon, s’élève à 3 776 mètres d’altitude sur l’île de Honshū, à environ 100 km au sud-ouest de Tokyo. Sa silhouette quasi parfaite révèle sa nature volcanique : un géant endormi depuis l’éruption de Hōei en décembre 1707, bien que toujours considéré comme actif. À l’époque, ses cendres avaient recouvert une large partie de l’est du pays, jusqu’à Edo, l’actuelle Tokyo. Aujourd’hui encore, il incarne la rencontre entre forces naturelles puissantes et mémoire collective.",
-      "en-IN": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 100 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
-      "ja-JP": "今日 6 月 22 日は、富士山が世界文化遺産に登録された日です。古くから日本では霊峰とされてきた富士山ですが、1992 年の日本最初の世界遺産暫定一覧表には選ばれないなど、世界遺産登録までには長い年月を要しました。1994 年の 100 万人署名運動や、1998 年の富士山憲章制定など、20 年以上に渡る世界遺産登録運動を経て、2007 年に世界遺産暫定一覧表に登録。そして、2013 年 6 月 22 日、カンボジアで開催されたユネスコ世界遺産委員会において、「富士山―信仰の対象と芸術の源泉」として世界文化遺産に登録されました。この登録は、景観の美しさに加え、人々の信仰や芸術に与えてきた文化的価値が認められたものです。",
-      "es-ES": "El monte Fuji, situado en la isla de Honshu, es la cumbre más alta de Japón y uno de sus símbolos más reconocibles. Este volcán de forma casi perfecta se eleva hasta los 3776 metros y destaca por su silueta armoniosa, visible desde grandes distancias en días despejados. Su imagen ha inspirado durante siglos a artistas, poetas y viajeros, convirtiéndose en un referente cultural profundamente arraigado en la identidad japonesa.",
-      "it-IT": "Il Monte Fuji, la montagna più alta del Giappone, si innalza fino a 3.776 metri sull’isola di Honshu, circa 100 chilometri a sud-ovest di Tokyo. Il suo cono quasi perfetto è uno stratovulcano, inattivo dall’ultima eruzione del dicembre 1707, ma ancora classificato come attivo. Quell’ultimo grande evento è noto come eruzione Hōei. Sparse cenere e altri materiali vulcanici su tutto il Giappone orientale, raggiungendo Edo (l’attuale Tokyo).",
-      "pt-BR": "Nem todo horizonte aceita concorrência. Na foto do dia, o Monte Fuji domina a paisagem japonesa com a calma de quem conhece o próprio impacto. São 3.776 metros de altitude e um cone quase simétrico, tão perfeito que parece erro de renderização da natureza. Mas o Fuji não vive só de aparência: é um vulcão ativo, silencioso desde a grande erupção de 1707, quando lançou cinzas até Edo, atual Tóquio. Silencioso, mas longe de aposentado.",
-      "zh-CN": "富士山是日本最高峰，海拔12,389英尺（约3700米），耸立于本州岛，位于东京西南约60英里（约97公里）处。这座近乎完美的锥形山峰是一座火山——自1707年12月最后一次喷发后便一直处于休眠状态，但仍被归类为活火山。那次大规模喷发被称为宝荣喷发，火山灰和其他火山碎屑喷涌而出，席卷日本东部，甚至远至江户（今东京）。除了地质学意义之外，富士山长期以来被视为神圣的景观和朝圣登山的目的地，这体现了日本自然、宗教和日常生活的交融。这种经久不衰的文化魅力也是它于2013年被联合国教科文组织列为世界遗产的原因之一，被誉为“神圣之地和艺术灵感的源泉”。众所周知，在晴朗的日子里，富士山从远处就能清晰可见，但这并非必然——云层可能在几分钟内将其遮蔽。无论您是徒步攀登，还是只是从火车车窗瞥见它，它依然是日本地平线上的标志性景观。"
-    },
-    "quickFacts": {
-      "zh-CN": "富士山通常从10月开始积雪，山顶白雪往往能持续半年以上，也因此成为日本“四季景观”意象的重要组成部分。"
-    },
-    "captions": {
-      "en-US": "Mount Fuji on Honshu Island, Japan",
-      "en-CA": "Mount Fuji on Honshu Island, Japan",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260623_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260623_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Monte+Fuji&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=polinizadores&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.Fujisan_EN-US6479372200",
-      "en-CA": "/th?id=OHR.Fujisan_EN-CA8841580600",
-      "pt-BR": "/th?id=OHR.Fujisan_PT-BR5438513277"
+      "en-US": "/th?id=OHR.BFPollin_EN-US6519187095",
+      "en-CA": "/th?id=OHR.BFPollin_EN-CA9136085313",
+      "pt-BR": "/th?id=OHR.BFPollin_PT-BR5634257849"
     }
   },
-  "MountainToucanOrchids": {
-    "name": "MountainToucanOrchids",
-    "urlbase": "/th?id=OHR.MountainToucanOrchids_EN-GB2911291133",
-    "date": "20260706",
-    "dateFormatted": "July 06, 2026",
+  "LakeAtitlan": {
+    "name": "LakeAtitlan",
+    "urlbase": "/th?id=OHR.LakeAtitlan_EN-GB6255247922",
+    "date": "20260707",
+    "dateFormatted": "July 07, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1748,6 +1743,11 @@
         "flag": "it"
       },
       {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1764,76 +1764,76 @@
       }
     ],
     "titles": {
-      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "de-DE": "Farbenpracht im Blätterdach. Leistenschnabeltukan mit Orchideen, Ecuador",
-      "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat, Équateur",
-      "it-IT": "Colori e fauna selvatica",
-      "ja-JP": "枝に止まるユニークなオオハシ",
-      "zh-CN": "林冠华彩",
-      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "en-US": "Color, craft, and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "en-CA": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "pt-BR": "Voos que espalham futuro. Tucano “Andigena laminirostris” com orquídeas, Equador"
+      "en-GB": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
+      "de-DE": "Echos einer vulkanischen Vergangenheit. Sonnenaufgang am Atitlán-See, Guatemala",
+      "fr-FR": "Échos d'un passé volcanique. Lever du soleil sur le lac Atitlán, Guatemala",
+      "it-IT": "Echi vulcanici",
+      "es-ES": "Ecos de un pasado volcánico. Amanecer en el Lago de Atitlán, Guatemala",
+      "ja-JP": "静けさにしずむ湖",
+      "zh-CN": "远古火山的回响",
+      "en-IN": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
+      "en-US": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
+      "en-CA": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
+      "pt-BR": "Um vulcão transformado em horizonte. Nascer do sol no Lago de Atitlán, Guatemala"
     },
     "copyrights": {
-      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
-      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)",
-      "fr-FR": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
-      "it-IT": "Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)",
-      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)",
-      "zh-CN": "板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
-      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
-      "en-US": "© Murray Cooper/Minden Pictures",
-      "en-CA": "© Murray Cooper/Minden Pictures",
-      "pt-BR": "© Murray Cooper/Minden Pictures"
+      "en-GB": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
+      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
+      "it-IT": "Lago Atitlán, Guatemala (© shayes17/Getty Images)",
+      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
+      "ja-JP": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
+      "zh-CN": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
+      "en-IN": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "en-US": "© shayes17/Getty Images",
+      "en-CA": "© shayes17/Getty Images",
+      "pt-BR": "© shayes17/Getty Images"
     },
     "descs": {
-      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
-      "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
-      "ja-JP": "枝に止まるユニークなオオハシ. イタハシヤマオオハシ, エクアドル. イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
-      "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
-      "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
-      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔. 拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。"
+      "en-GB": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "de-DE": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
+      "fr-FR": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
+      "es-ES": "El Lago de Atitlán, en las tierras altas de Guatemala, cautiva con un paisaje de aguas profundas rodeadas por antiguos volcanes que dibujan un horizonte imponente. Encajado en una caldera formada tras una gran erupción, este lago combina calma y fuerza geológica en una escena que parece suspendida en el tiempo.",
+      "ja-JP": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
+      "en-IN": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "en-US": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán, and San Pedro. Wooden piers stretch into the still lake, emphasizing the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "en-CA": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "it-IT": "Il lago di Atitlán riempie una spettacolare caldera vulcanica negli altopiani occidentali del Guatemala. Le sue acque blu intenso sono circondate da ripide pareti crateriche e dai vulcani Atitlán, Tolimán e San Pedro, in un paesaggio che alterna quiete assoluta e origine esplosiva. Formatosi circa 84.000 anni fa dopo una violenta eruzione, è considerato il lago più profondo dell’America Centrale, con profondità che raggiungono circa 335 metri. Le pareti della caldera lo racchiudono come un anfiteatro naturale scolpito dal fuoco.",
+      "pt-BR": "Na imagem, o Lago de Atitlán, na Guatemala, é um daqueles lugares que parecem tranquilos demais para a história intensa que carregam. A superfície azul parece imóvel, mas o relevo ao redor — crateras, encostas íngremes e os vulcões Atitlán, Tolimán e San Pedro — entrega que essa beleza nasceu do caos geológico.",
+      "zh-CN": "远古火山的回响. 阿蒂特兰湖的日出，危地马拉. 阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。"
     },
     "quickFacts": {
-      "en-US": "The plate-billed mountain toucan's colorful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "en-GB": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "en-CA": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "de-DE": "Leistenschnabeltukane gehören zur Gattung der Bergtukane, die vor allem in den Anden leben.",
-      "fr-FR": "Le toucan montagnard à bec plat possède un bec coloré orné d'une « plaque » jaune pâle, une caractéristique rare qui donne son nom à cette espèce.",
-      "zh-CN": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。",
-      "en-IN": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name."
+      "zh-CN": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。"
     },
     "captions": {
-      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador",
-      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador",
-      "fr-FR": "Toucan montagnard à bec plat, Équateur",
+      "en-GB": "Lake Atitlán, Guatemala",
+      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala",
+      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala",
       "it-IT": "",
-      "ja-JP": "枝に止まるユニークなオオハシ",
+      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala",
+      "ja-JP": "静けさにしずむ湖",
       "zh-CN": "",
-      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador"
+      "en-IN": "Lake Atitlán, Guatemala"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Leistenschnabeltukan&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Tucano+montano+pettogrigio&form=hpcapt",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%8f%e3%82%b7%e3%83%a4%e3%83%9e%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%b7&form=hpcapt&filters=HpDate%3a%2220260703_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%9d%bf%e5%98%b4%e5%b1%b1%e5%b7%a8%e5%98%b4%e9%b8%9f&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=lac+atitlan+guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lago+Atitl%c3%a1n&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%86%e3%82%a3%e3%83%88%e3%83%a9%e3%83%b3%e6%b9%96&form=hpcapt&filters=HpDate%3a%2220260707_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89+%e9%98%bf%e8%92%82%e7%89%b9%e5%85%b0%e6%b9%96&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.MountainToucanOrchids_EN-GB2911291133",
-      "de-DE": "/th?id=OHR.MountainToucanOrchids_DE-DE0710570038",
-      "fr-FR": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325",
-      "it-IT": "/th?id=OHR.MountainToucanOrchids_IT-IT8965138427",
-      "ja-JP": "/th?id=OHR.MountainToucanOrchids_JA-JP8375436996",
-      "zh-CN": "/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431",
-      "en-IN": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935"
+      "en-GB": "/th?id=OHR.LakeAtitlan_EN-GB6255247922",
+      "de-DE": "/th?id=OHR.LakeAtitlan_DE-DE9365650175",
+      "fr-FR": "/th?id=OHR.LakeAtitlan_FR-FR9789294273",
+      "it-IT": "/th?id=OHR.LakeAtitlan_IT-IT2695003451",
+      "es-ES": "/th?id=OHR.LakeAtitlan_ES-ES9285347150",
+      "ja-JP": "/th?id=OHR.LakeAtitlan_JA-JP9857275970",
+      "zh-CN": "/th?id=OHR.LakeAtitlan_ZH-CN1920221893",
+      "en-IN": "/th?id=OHR.LakeAtitlan_EN-IN1783282765"
     }
   },
   "PrideInLondon2026": {
@@ -2425,6 +2425,86 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.JogFalls2026_EN-IN2533705121"
+    }
+  },
+  "Fujisan": {
+    "name": "Fujisan",
+    "urlbase": "/th?id=OHR.Fujisan_EN-US6479372200",
+    "date": "20260623",
+    "dateFormatted": "June 23, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
+      "en-CA": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
+      "pt-BR": "Um ghosting meteorológico",
+      "en-GB": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
+      "de-DE": "Ikone am Horizont. Berg Fuji auf der Insel Honshū, Japan",
+      "fr-FR": "Empreinte intemporelle à l’horizon. Mont Fuji sur l’île de Honshū, Japon",
+      "it-IT": "Firma celeste",
+      "zh-CN": "天际线上的印记",
+      "en-IN": "Signature on the horizon. Mount Fuji on Honshu Island, Japan",
+      "ja-JP": "今日は富士山が世界文化遺産に登録された日",
+      "es-ES": "Icono en el horizonte. Monte Fuji en la isla de Honshu, Japón"
+    },
+    "copyrights": {
+      "en-US": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+      "en-CA": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+      "pt-BR": "Monte Fuji na ilha de Honshu, Japão (© phutthiseth thongtae/Getty Images)",
+      "en-GB": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+      "de-DE": "Berg Fuji auf der Insel Honshū, Japan (© phutthiseth thongtae/Getty Images)",
+      "fr-FR": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
+      "it-IT": "Monte Fuji, Honshu, Giappone (© phutthiseth thongtae/Getty Images)",
+      "zh-CN": "本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)",
+      "en-IN": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+      "ja-JP": "富士山 (© phutthiseth thongtae/Getty Images)",
+      "es-ES": "Monte Fuji en la isla de Honshu, Japón (© phutthiseth thongtae/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Mount Fuji, Japan's highest mountain, rises to 12,389 feet on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion, and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+      "en-CA": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 97 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+      "en-GB": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+      "de-DE": "Der Fuji erhebt sich über Japan als nahezu perfekter Kegel, ist oft schneebedeckt und schon aus großer Entfernung sichtbar. Mit einer Höhe von 3.776 Metern ist er der höchste Berg des Landes. Er liegt etwa 100 Kilometer südwestlich von Tokio auf der Insel Honshū. Zum Vergleich: Die Zugspitze, Deutschlands höchster Gipfel, ist mit 2.962 Metern rund 800 Meter niedriger. Seine symmetrische Form verdankt der Fuji seiner vulkanischen Herkunft. Der Stratovulkan gilt als aktiv, auch wenn er seit der Hōei-Eruption im Jahr 1707 ruht. Damals trieb der Wind große Mengen Asche bis nach Edo, dem heutigen Tokio.",
+      "fr-FR": "Le mont Fuji, plus haut sommet du Japon, s’élève à 3 776 mètres d’altitude sur l’île de Honshū, à environ 100 km au sud-ouest de Tokyo. Sa silhouette quasi parfaite révèle sa nature volcanique : un géant endormi depuis l’éruption de Hōei en décembre 1707, bien que toujours considéré comme actif. À l’époque, ses cendres avaient recouvert une large partie de l’est du pays, jusqu’à Edo, l’actuelle Tokyo. Aujourd’hui encore, il incarne la rencontre entre forces naturelles puissantes et mémoire collective.",
+      "en-IN": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 100 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+      "ja-JP": "今日 6 月 22 日は、富士山が世界文化遺産に登録された日です。古くから日本では霊峰とされてきた富士山ですが、1992 年の日本最初の世界遺産暫定一覧表には選ばれないなど、世界遺産登録までには長い年月を要しました。1994 年の 100 万人署名運動や、1998 年の富士山憲章制定など、20 年以上に渡る世界遺産登録運動を経て、2007 年に世界遺産暫定一覧表に登録。そして、2013 年 6 月 22 日、カンボジアで開催されたユネスコ世界遺産委員会において、「富士山―信仰の対象と芸術の源泉」として世界文化遺産に登録されました。この登録は、景観の美しさに加え、人々の信仰や芸術に与えてきた文化的価値が認められたものです。",
+      "es-ES": "El monte Fuji, situado en la isla de Honshu, es la cumbre más alta de Japón y uno de sus símbolos más reconocibles. Este volcán de forma casi perfecta se eleva hasta los 3776 metros y destaca por su silueta armoniosa, visible desde grandes distancias en días despejados. Su imagen ha inspirado durante siglos a artistas, poetas y viajeros, convirtiéndose en un referente cultural profundamente arraigado en la identidad japonesa.",
+      "it-IT": "Il Monte Fuji, la montagna più alta del Giappone, si innalza fino a 3.776 metri sull’isola di Honshu, circa 100 chilometri a sud-ovest di Tokyo. Il suo cono quasi perfetto è uno stratovulcano, inattivo dall’ultima eruzione del dicembre 1707, ma ancora classificato come attivo. Quell’ultimo grande evento è noto come eruzione Hōei. Sparse cenere e altri materiali vulcanici su tutto il Giappone orientale, raggiungendo Edo (l’attuale Tokyo).",
+      "pt-BR": "Nem todo horizonte aceita concorrência. Na foto do dia, o Monte Fuji domina a paisagem japonesa com a calma de quem conhece o próprio impacto. São 3.776 metros de altitude e um cone quase simétrico, tão perfeito que parece erro de renderização da natureza. Mas o Fuji não vive só de aparência: é um vulcão ativo, silencioso desde a grande erupção de 1707, quando lançou cinzas até Edo, atual Tóquio. Silencioso, mas longe de aposentado.",
+      "zh-CN": "富士山是日本最高峰，海拔12,389英尺（约3700米），耸立于本州岛，位于东京西南约60英里（约97公里）处。这座近乎完美的锥形山峰是一座火山——自1707年12月最后一次喷发后便一直处于休眠状态，但仍被归类为活火山。那次大规模喷发被称为宝荣喷发，火山灰和其他火山碎屑喷涌而出，席卷日本东部，甚至远至江户（今东京）。除了地质学意义之外，富士山长期以来被视为神圣的景观和朝圣登山的目的地，这体现了日本自然、宗教和日常生活的交融。这种经久不衰的文化魅力也是它于2013年被联合国教科文组织列为世界遗产的原因之一，被誉为“神圣之地和艺术灵感的源泉”。众所周知，在晴朗的日子里，富士山从远处就能清晰可见，但这并非必然——云层可能在几分钟内将其遮蔽。无论您是徒步攀登，还是只是从火车车窗瞥见它，它依然是日本地平线上的标志性景观。"
+    },
+    "quickFacts": {
+      "zh-CN": "富士山通常从10月开始积雪，山顶白雪往往能持续半年以上，也因此成为日本“四季景观”意象的重要组成部分。"
+    },
+    "captions": {
+      "en-US": "Mount Fuji on Honshu Island, Japan",
+      "en-CA": "Mount Fuji on Honshu Island, Japan",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260623_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260623_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Monte+Fuji&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Fujisan_EN-US6479372200",
+      "en-CA": "/th?id=OHR.Fujisan_EN-CA8841580600",
+      "pt-BR": "/th?id=OHR.Fujisan_PT-BR5438513277"
     }
   },
   "QuinaultFerns": {
