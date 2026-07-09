@@ -1,4 +1,148 @@
 {
+  "LakeAtitlan": {
+    "name": "LakeAtitlan",
+    "urlbase": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
+    "date": "20260708",
+    "dateFormatted": "July 08, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
+      "en-GB": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
+      "en-CA": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
+      "de-DE": "Echos einer vulkanischen Vergangenheit. Sonnenaufgang am Atitlán-See, Guatemala",
+      "fr-FR": "Échos d'un passé volcanique. Lever du soleil sur le lac Atitlán, Guatemala",
+      "it-IT": "Echi vulcanici",
+      "es-ES": "Ecos de un pasado volcánico. Amanecer en el Lago de Atitlán, Guatemala",
+      "pt-BR": "Um vulcão transformado em horizonte",
+      "ja-JP": "静けさにしずむ湖",
+      "zh-CN": "远古火山的回响",
+      "en-IN": "Echoes of a volcanic past. Lake Atitlán, Guatemala"
+    },
+    "copyrights": {
+      "en-US": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "en-GB": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "en-CA": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
+      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
+      "it-IT": "Lago Atitlán, Guatemala (© shayes17/Getty Images)",
+      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
+      "pt-BR": "Nascer do sol no Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
+      "ja-JP": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
+      "zh-CN": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
+      "en-IN": "Lake Atitlán, Guatemala (© shayes17/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán, and San Pedro. Wooden piers stretch into the still lake, emphasizing the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "en-GB": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "en-CA": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "de-DE": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
+      "fr-FR": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
+      "es-ES": "El Lago de Atitlán, en las tierras altas de Guatemala, cautiva con un paisaje de aguas profundas rodeadas por antiguos volcanes que dibujan un horizonte imponente. Encajado en una caldera formada tras una gran erupción, este lago combina calma y fuerza geológica en una escena que parece suspendida en el tiempo.",
+      "ja-JP": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
+      "en-IN": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "it-IT": "Il lago di Atitlán riempie una spettacolare caldera vulcanica negli altopiani occidentali del Guatemala. Le sue acque blu intenso sono circondate da ripide pareti crateriche e dai vulcani Atitlán, Tolimán e San Pedro, in un paesaggio che alterna quiete assoluta e origine esplosiva. Formatosi circa 84.000 anni fa dopo una violenta eruzione, è considerato il lago più profondo dell’America Centrale, con profondità che raggiungono circa 335 metri. Le pareti della caldera lo racchiudono come un anfiteatro naturale scolpito dal fuoco.",
+      "pt-BR": "Na imagem, o Lago de Atitlán, na Guatemala, é um daqueles lugares que parecem tranquilos demais para a história intensa que carregam. A superfície azul parece imóvel, mas o relevo ao redor — crateras, encostas íngremes e os vulcões Atitlán, Tolimán e San Pedro — entrega que essa beleza nasceu do caos geológico.",
+      "zh-CN": "远古火山的回响. 阿蒂特兰湖的日出，危地马拉. 阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。"
+    },
+    "quickFacts": {
+      "zh-CN": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。"
+    },
+    "captions": {
+      "en-US": "Sunrise at Lake Atitlán, Guatemala",
+      "en-GB": "Lake Atitlán, Guatemala",
+      "en-CA": "Sunrise at Lake Atitlán, Guatemala",
+      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala",
+      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala",
+      "it-IT": "",
+      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala",
+      "pt-BR": "",
+      "ja-JP": "静けさにしずむ湖",
+      "zh-CN": "",
+      "en-IN": "Lake Atitlán, Guatemala"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=lac+atitlan+guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lago+Atitl%c3%a1n&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Lago+de+Atitlan&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%86%e3%82%a3%e3%83%88%e3%83%a9%e3%83%b3%e6%b9%96&form=hpcapt&filters=HpDate%3a%2220260707_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89+%e9%98%bf%e8%92%82%e7%89%b9%e5%85%b0%e6%b9%96&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
+      "en-GB": "/th?id=OHR.LakeAtitlan_EN-GB6255247922",
+      "en-CA": "/th?id=OHR.LakeAtitlan_EN-CA6427862489",
+      "de-DE": "/th?id=OHR.LakeAtitlan_DE-DE9365650175",
+      "fr-FR": "/th?id=OHR.LakeAtitlan_FR-FR9789294273",
+      "it-IT": "/th?id=OHR.LakeAtitlan_IT-IT2695003451",
+      "es-ES": "/th?id=OHR.LakeAtitlan_ES-ES9285347150",
+      "pt-BR": "/th?id=OHR.LakeAtitlan_PT-BR6236816511",
+      "ja-JP": "/th?id=OHR.LakeAtitlan_JA-JP9857275970",
+      "zh-CN": "/th?id=OHR.LakeAtitlan_ZH-CN1920221893",
+      "en-IN": "/th?id=OHR.LakeAtitlan_EN-IN1783282765"
+    }
+  },
   "MountainToucanOrchids": {
     "name": "MountainToucanOrchids",
     "urlbase": "/th?id=OHR.MountainToucanOrchids_EN-US3433249651",
@@ -794,8 +938,8 @@
       "zh-CN": "地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)"
     },
     "descs": {
-      "en-US": "Canada, carved by the Atlantic. Dungeon Provincial Park, Newfoundland and Labrador, Canada. On July 1, Canada celebrates its national day, marking the events of 1867, when the British North America Act (now called the Constitution Act, 1867) united three British colonies into one Dominion.",
-      "en-CA": "Canada, carved by the Atlantic. Dungeon Provincial Park, Newfoundland and Labrador. On July 1, Canada celebrates its national day, marking the events of 1867, when the British North America Act (now called the Constitution Act, 1867) united three British colonies into one Dominion.",
+      "en-US": "On July 1, Canada celebrates its national day, marking the events of 1867, when the British North America Act (now called the Constitution Act, 1867) united three British colonies into one Dominion.",
+      "en-CA": "On July 1, Canada celebrates its national day, marking the events of 1867, when the British North America Act (now called the Constitution Act, 1867) united three British colonies into one Dominion.",
       "fr-FR": "Puisque nos amis canadiens fêtent aujourd’hui leur grand jour, rendons-leur visite ! Direction le Parc provincial de Dungeon, sur la côte sauvage de Terre-Neuve-et-Labrador, où les falaises abruptes dominent un littoral battu par l’Atlantique.",
       "es-ES": "El Dungeon Provincial Park, en Canadá, revela una costa indómita donde el Atlántico sigue moldeando el paisaje con una fuerza imparable. Cada 1 de julio, el país celebra su día nacional, recordando la unión de sus primeras colonias en 1867 y una identidad que hoy se vive entre conciertos, encuentros y fuegos artificiales.",
       "ja-JP": "今日 7 月 1 日はカナダの日。1867 年 7 月 1 日に制定された英領北米法によって、カナダ連邦が誕生したことを記念する日です。そして画像は、カナダのニューファンドランド・ラブラドール州の険しい海岸沿いに位置するダンジョン州立公園。大西洋の波によって 2 つの開口部を持つ海食洞が削られ、天井が崩落したことで、現在の独特な地形が形成されました。荒々しい海と切り立った断崖が織りなすこの景観は、今なおカナダの大地が持つ自然の力を物語っています。",
@@ -1514,50 +1658,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Square up to history. Buildings on Grand-Place Square in Brussels, Belgium",
-      "en-GB": "Square up to history. Buildings on Grand-Place Square in Brussels, Belgium",
       "en-CA": "Square up to history. Buildings on Grand-Place Square in Brussels, Belgium",
+      "en-GB": "Square up to history. Buildings on Grand-Place Square in Brussels, Belgium",
       "de-DE": "Glanz trifft Geschichte. Gebäude am Grand-Place in Brüssel, Belgien",
       "fr-FR": "Grande et incontournable. Bâtiments sur la Grand-Place de Bruxelles, Belgique",
       "it-IT": "Rinata dal fuoco",
@@ -1568,8 +1677,8 @@
     },
     "copyrights": {
       "en-US": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
-      "en-GB": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
       "en-CA": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+      "en-GB": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
       "de-DE": "Gebäude am Grand-Place in Brüssel, Belgien (© Vladislav Zolotov/Getty Images Plus)",
       "fr-FR": "Bâtiments sur la Grand-Place de Bruxelles, Belgique (© Vladislav Zolotov/Getty Images Plus)",
       "it-IT": "Edifici sulla Grand-Place a Bruxelles, Belgio (© Vladislav Zolotov/Getty Images Plus)",
@@ -1580,8 +1689,8 @@
     },
     "descs": {
       "en-US": "Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants, and craftsmen treated architecture as language, translating work, status, and rivalry into stone through reliefs, coats of arms, and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbors and unapologetically asymmetrical, holds the composition together.",
-      "en-GB": "Few squares in Belgium wear history as well as the Grand‑Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.",
       "en-CA": "Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.",
+      "en-GB": "Few squares in Belgium wear history as well as the Grand‑Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.",
       "de-DE": "Rund um den Grand-Place in Brüssel, Belgien, entfaltet sich lebendige Geschichte. Prächtige Zunfthäuser säumen den Platz – einst von Brauern, Bäckern und Kaufleuten errichtet, die ihren Wohlstand in Stein, Reliefs und vergoldeten Details sichtbar machten. Gotische Höhen treffen auf barocke Fassaden, während das alte, leicht asymmetrische Rathaus das Ensemble zusammenhält.",
       "fr-FR": "Peu de places en Belgique racontent leur histoire avec autant d’éloquence que la Grand-Place de Bruxelles. Tout autour, la plupart des façades abritaient autrefois des commerces. Brasseurs, boulangers, marchands ou artisans, tous façonnaient la pierre comme un langage, y inscrivant symboles, blasons et dorures pour affirmer leur rang et rivaliser avec leurs voisins. Les styles dialoguent librement : les élans gothiques côtoient les courbes baroques, tandis que l’Hôtel de Ville, plus ancien et asymétrique, semble orchestrer l’ensemble avec assurance.",
       "es-ES": "La Grand Place de Bruselas, Bélgica, es uno de los conjuntos arquitectónicos más impresionantes de Europa. Sus edificios, alineados en torno a la plaza, muestran una armonía visual notable, con fachadas ricamente decoradas que reflejan siglos de historia y prosperidad. Antiguas casas gremiales, el Ayuntamiento y la Maison du Roi destacan por sus detalles dorados, esculturas y ornamentaciones que evocan el esplendor de distintas épocas. Cada fachada cuenta una historia ligada a los gremios que dieron forma a la vida económica de la ciudad.",
@@ -1595,132 +1704,22 @@
     },
     "captions": {
       "en-US": "Buildings on Grand-Place Square in Brussels, Belgium",
-      "en-GB": "Buildings on Grand-Place Square in Brussels, Belgium",
-      "en-CA": "Buildings on Grand-Place Square in Brussels, Belgium",
-      "de-DE": "Gebäude am Grand-Place in Brüssel, Belgien",
-      "fr-FR": "Bâtiments sur la Grand-Place de Bruxelles, Belgique",
-      "it-IT": "",
-      "es-ES": "Edificios de la Grand Place de Bruselas, Bélgica",
-      "zh-CN": "",
-      "en-IN": "Buildings on Grand-Place Square in Brussels, Belgium"
+      "en-CA": "Buildings on Grand-Place Square in Brussels, Belgium"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260625_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260624_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260625_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Grand-Place+Br%c3%bcssel&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Grand-Place+Bruxelles&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
-      "it-IT": "https://www.bing.com/search?q=La+Grand-Place+a+Bruxelles&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Grand+Place+Bruselas&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b8%83%e9%b2%81%e5%a1%9e%e5%b0%94%e5%a4%a7%e5%b9%bf%e5%9c%ba&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260624_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260625_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.GrandPlace_EN-US6561229456",
-      "en-GB": "/th?id=OHR.GrandPlace_EN-GB4788838849",
-      "en-CA": "/th?id=OHR.GrandPlace_EN-CA9367099821",
-      "de-DE": "/th?id=OHR.GrandPlace_DE-DE1914769137",
-      "fr-FR": "/th?id=OHR.GrandPlace_FR-FR1172312712",
-      "it-IT": "/th?id=OHR.GrandPlace_IT-IT4483523148",
-      "es-ES": "/th?id=OHR.GrandPlace_ES-ES0768815464",
-      "zh-CN": "/th?id=OHR.GrandPlace_ZH-CN8806496436",
-      "en-IN": "/th?id=OHR.GrandPlace_EN-IN3033098257"
+      "en-CA": "/th?id=OHR.GrandPlace_EN-CA9367099821"
     }
   },
-  "BFPollin": {
-    "name": "BFPollin",
-    "urlbase": "/th?id=OHR.BFPollin_EN-US6519187095",
-    "date": "20260624",
-    "dateFormatted": "June 24, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Pollen meets wings. Pollinator Week",
-      "en-CA": "Pollen meets wings. Pollinator Week",
-      "pt-BR": "O pit-stop dos jardins",
-      "en-GB": "Pollen meets wings. Pollinator Week",
-      "de-DE": "Kleine Flügel, große Wirkung. Schmetterling beim Bestäuben einer gelben Blüte",
-      "fr-FR": "Silence, ça butine !. Pollinisateurs",
-      "it-IT": "Impollinare il mondo",
-      "es-ES": "Entre polen y alas. Mariposa polinizando una flor amarilla",
-      "ja-JP": "今週は全米花粉媒介者週間",
-      "zh-CN": "花粉与翅膀相遇",
-      "en-IN": "Pollen meets wings. Pollinator Week"
-    },
-    "copyrights": {
-      "en-US": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
-      "en-CA": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
-      "pt-BR": "Borboleta polinizando uma flor amarela (© lzh/Getty Images)",
-      "en-GB": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
-      "de-DE": "Schmetterling beim Bestäuben einer gelben Blüte (© lzh/Getty Images)",
-      "fr-FR": "Papillon sur une fleur jaune (© lzh/Getty Images)",
-      "it-IT": "Farfalla che impollina un fiore giallo (© lzh/Getty Images)",
-      "es-ES": "Mariposa polinizando una flor amarilla (© lzh/Getty Images)",
-      "ja-JP": "花の蜜を味わう蝶 (© lzh/Getty Images)",
-      "zh-CN": "蝴蝶正在黄花上授粉 (© lzh/Getty Images)",
-      "en-IN": "Butterfly pollinating on yellow flower (© lzh/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles, and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
-      "en-CA": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
-      "en-GB": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
-      "de-DE": "Ein Schmetterling flattert von Blüte zu Blüte und setzt dabei einen unscheinbaren Kreislauf in Bewegung: Beim Nektarsammeln bleibt Blütenstaub an ihm haften und wird weitergetragen. So können viele Pflanzen überhaupt Samen und Früchte bilden. Besonders tagaktive Schmetterlinge bestäuben oft farbenreiche Wildblumen und tragen so zur Artenvielfalt vieler Wiesen bei.",
-      "fr-FR": "Observer de près un geste minuscule, c’est parfois découvrir tout un univers, comme celui de ce papillon posé sur une fleur jaune, y puisant son nectar. En se nourrissant, il emporte avec lui une fine poussière de pollen qu’il déposera sur une autre corolle. Ce cycle discret permet aux plantes de se reproduire et de perdurer. Les pollinisateurs ne se limitent pas aux abeilles : papillons, oiseaux, chauves-souris et coléoptères participent tous à cet échange vital, soutenant la diversité des plantes sauvages comme celle des fruits et légumes qui garnissent nos assiettes.",
-      "es-ES": "Los polinizadores desempeñan un papel esencial en el equilibrio de los ecosistemas y en la producción de alimentos. Insectos como abejas, mariposas y escarabajos transportan el polen de una flor a otra, lo que permite la fecundación de muchas plantas. Gracias a este proceso natural, una gran parte de los cultivos que consumimos a diario se pueden desarrollar. Se estima que uno de cada tres bocados de comida depende directa o indirectamente de su labor, lo que subraya su importancia.",
-      "ja-JP": "今週は全米花粉媒介者週間。ミツバチをはじめ、蝶や鳥、コウモリ、甲虫といった花粉媒介者の存在に気づき、守ることを呼びかける期間です。画像のように、蝶が蜜を吸う際に、体に花粉が付着します。この花粉をつけた蝶が次の花へ移動することで、植物は受粉し、繁殖します。花粉媒介者は植物の繁殖や農作物の安定した供給に欠かせない存在です。生態系の保全や私たちの豊かな食生活を維持するためにも、彼らの保護は重要です。",
-      "en-IN": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
-      "it-IT": "Si posa leggera su un fiore giallo, e per un istante sembra che il mondo resti in equilibrio sulle sue ali. La farfalla sfiora i petali con delicatezza, come se seguisse una mappa invisibile fatta di luce e profumi. È in questo gesto semplice che si intreccia uno dei processi più importanti per la vita sulla Terra. Mentre si sposta di fiore in fiore, trasporta il polline e contribuisce alla riproduzione di molte piante, incluse quelle da cui dipende gran parte della nostra alimentazione. Non solo farfalle, ma anche api, bombi, sirfidi, altri insetti e persino alcuni pipistrelli svolgono questo lavoro silenzioso e continuo. Gli impollinatori sono essenziali per la biodiversità e per la stabilità degli ecosistemi, ma sono sempre più minacciati da pesticidi, perdita di habitat e cambiamenti climatici. Un battito d’ali, un passaggio invisibile, e la vita che si rinnova, un fiore alla volta.",
-      "pt-BR": "A imagem parece banal: a borboleta pousa, bebe néctar e segue seu caminho. Mas aqui acontece um dos processos mais eficientes da natureza: ao mergulhar na flor, a borboleta se cobre de pólen. Ao visitar outra, parte desse material é transferido para a nova planta, permitindo que flores que jamais se tocariam troquem informação genética e produzam sementes.",
-      "zh-CN": "花粉与翅膀相遇. 蝴蝶正在黄花上授粉. 放大观察维持大地生机的微小交易：一只蝴蝶停在黄色的花朵上，吮吸着花蜜。它吸食花蜜的同时，花粉沾满了它的身体，搭上了前往下一朵花的“顺风车”——这是开花植物悄无声息的繁殖方式之一。传粉者并非只有蜜蜂。蝴蝶、鸟类、蝙蝠、甲虫以及许多其他昆虫都在帮助传播花粉，从而支持野生植物以及我们食用的许多水果和蔬菜的生长。"
-    },
-    "quickFacts": {
-      "en-US": "Pollinators are responsible for about one out of three bites of food we eat.",
-      "en-GB": "Pollinators are responsible for about one out of three bites of food we eat.",
-      "en-CA": "Pollinators are responsible for about one out of three bites of food we eat.",
-      "de-DE": "Etwa jeder dritte Bissen Nahrung hängt von Bestäubern ab.",
-      "fr-FR": "Les pollinisateurs sont à l'origine d'environ un tiers de ce que nous mangeons.",
-      "it-IT": "Gli impollinatori sono responsabili di circa un terzo del cibo che mangiamo.",
-      "es-ES": "Los polinizadores son responsables de aproximadamente uno de cada tres bocados de comida que consumimos.",
-      "ja-JP": "昼間に活動するミツバチや蝶とは異なり、夜に花粉を運ぶ生き物も多く存在します。",
-      "zh-CN": "我们所吃的食物中，大约有三分之一要归功于授粉昆虫。",
-      "en-IN": "Pollinators are responsible for about one out of three bites of food we eat."
-    },
-    "captions": {
-      "en-US": "Pollinator Week",
-      "en-CA": "Pollinator Week",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=polinizadores&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BFPollin_EN-US6519187095",
-      "en-CA": "/th?id=OHR.BFPollin_EN-CA9136085313",
-      "pt-BR": "/th?id=OHR.BFPollin_PT-BR5634257849"
-    }
-  },
-  "LakeAtitlan": {
-    "name": "LakeAtitlan",
-    "urlbase": "/th?id=OHR.LakeAtitlan_EN-GB6255247922",
-    "date": "20260707",
-    "dateFormatted": "July 07, 2026",
+  "SapaVietnam": {
+    "name": "SapaVietnam",
+    "urlbase": "/th?id=OHR.SapaVietnam_EN-GB9686207282",
+    "date": "20260708",
+    "dateFormatted": "July 08, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1764,76 +1763,76 @@
       }
     ],
     "titles": {
-      "en-GB": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
-      "de-DE": "Echos einer vulkanischen Vergangenheit. Sonnenaufgang am Atitlán-See, Guatemala",
-      "fr-FR": "Échos d'un passé volcanique. Lever du soleil sur le lac Atitlán, Guatemala",
-      "it-IT": "Echi vulcanici",
-      "es-ES": "Ecos de un pasado volcánico. Amanecer en el Lago de Atitlán, Guatemala",
-      "ja-JP": "静けさにしずむ湖",
-      "zh-CN": "远古火山的回响",
-      "en-IN": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
-      "en-US": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
-      "en-CA": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
-      "pt-BR": "Um vulcão transformado em horizonte. Nascer do sol no Lago de Atitlán, Guatemala"
+      "en-GB": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
+      "de-DE": "Tradition auf Schritt und Tritt. Reisfelder in Sapa, Lào Cai, Vietnam",
+      "fr-FR": "Une autre montée des marches. Champs de riz à Sapa, Lào Cai, Vietnam",
+      "it-IT": "La tradizione in ogni passo",
+      "es-ES": "La tradición en cada paso. Arrozales en Sapa, Lào Cai, Vietnam",
+      "ja-JP": "光差す山岳地帯の棚田",
+      "zh-CN": "步步传承",
+      "en-IN": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
+      "en-US": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
+      "en-CA": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
+      "pt-BR": "Plantando entre nuvens. Campos de arroz em Sapa, província de Lào Cai, Vietnã"
     },
     "copyrights": {
-      "en-GB": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
-      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
-      "it-IT": "Lago Atitlán, Guatemala (© shayes17/Getty Images)",
-      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
-      "ja-JP": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
-      "zh-CN": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
-      "en-IN": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-      "en-US": "© shayes17/Getty Images",
-      "en-CA": "© shayes17/Getty Images",
-      "pt-BR": "© shayes17/Getty Images"
+      "en-GB": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "de-DE": "Reisfelder in Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "fr-FR": "Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "it-IT": "Risaie a Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "es-ES": "Arrozales en Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "ja-JP": "サパの棚田, ベトナム (© Anujak Jaimook/Getty Images)",
+      "zh-CN": "在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)",
+      "en-IN": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "en-US": "© Anujak Jaimook/Getty Images",
+      "en-CA": "© Anujak Jaimook/Getty Images",
+      "pt-BR": "© Anujak Jaimook/Getty Images"
     },
     "descs": {
-      "en-GB": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "de-DE": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
-      "fr-FR": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
-      "es-ES": "El Lago de Atitlán, en las tierras altas de Guatemala, cautiva con un paisaje de aguas profundas rodeadas por antiguos volcanes que dibujan un horizonte imponente. Encajado en una caldera formada tras una gran erupción, este lago combina calma y fuerza geológica en una escena que parece suspendida en el tiempo.",
-      "ja-JP": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
-      "en-IN": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "en-US": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán, and San Pedro. Wooden piers stretch into the still lake, emphasizing the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "en-CA": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "it-IT": "Il lago di Atitlán riempie una spettacolare caldera vulcanica negli altopiani occidentali del Guatemala. Le sue acque blu intenso sono circondate da ripide pareti crateriche e dai vulcani Atitlán, Tolimán e San Pedro, in un paesaggio che alterna quiete assoluta e origine esplosiva. Formatosi circa 84.000 anni fa dopo una violenta eruzione, è considerato il lago più profondo dell’America Centrale, con profondità che raggiungono circa 335 metri. Le pareti della caldera lo racchiudono come un anfiteatro naturale scolpito dal fuoco.",
-      "pt-BR": "Na imagem, o Lago de Atitlán, na Guatemala, é um daqueles lugares que parecem tranquilos demais para a história intensa que carregam. A superfície azul parece imóvel, mas o relevo ao redor — crateras, encostas íngremes e os vulcões Atitlán, Tolimán e San Pedro — entrega que essa beleza nasceu do caos geológico.",
-      "zh-CN": "远古火山的回响. 阿蒂特兰湖的日出，危地马拉. 阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。"
+      "en-GB": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+      "de-DE": "Sanftes Licht dringt durch vorbeiziehende Wolken und legt sich über die gestuften Hänge von Sapa in der Provinz Lào Cai in Vietnam. Die Reisfelder ziehen sich wie eine endlose Abfolge von Terrassen die Berghänge hinab und wirken wie ein Geflecht aus Linien. Seit Generationen gestalten hier indigene Gemeinschaften wie die Hmong diese Landschaft, indem sie den steilen Boden formen und das Wasser gezielt über die Felder leiten. So entsteht ein fein abgestimmtes Zusammenspiel zwischen Natur und menschlicher Arbeit.",
+      "fr-FR": "La lumière du soleil perce les nuages et éclaire les rizières en terrasses de Sapa, qui dévalent les montagnes comme un immense escalier vivant. Située dans la province de Lào Cai, au Vietnam, cette région spectaculaire a été façonnée au fil des siècles par les communautés ethniques locales, notamment les Hmong. Génération après génération, elles ont aménagé ces terrasses et mis au point un ingénieux réseau d'irrigation permettant de cultiver le riz sur des pentes escarpées.",
+      "es-ES": "Sapa, en Vietnam, deslumbra con sus arrozales en bancales que descienden por las laderas como una escalera viva bañada por la luz. En esta región montañosa de la provincia de Lào Cai, el paisaje es fruto de siglos de ingenio humano, donde comunidades como los hmong han moldeado la tierra para acompañar el ritmo del agua y del cultivo.",
+      "ja-JP": "光差す山岳地帯の棚田. サパの棚田, ベトナム. 今日の画像は、ベトナム北部ラオカイ省に位置する「サパ」です。モン族などの少数民族の人々が何世代にもわたって急な斜面を切り開き、水を巧みに引きながら棚田を築いてきました。標高は 1600m で、夏は雨が多いものの、冬は冷たい霧に包まれ、幻想的な風景が広がります。近年は観光地としても注目され、訪れる人々はその美しさと、今も息づく伝統を実感することができます。",
+      "en-IN": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+      "en-US": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+      "en-CA": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+      "it-IT": "A Sapa, nel nord del Vietnam, le risaie terrazzate scendono lungo le montagne come una scalinata vivente, illuminate da una luce che filtra tra le nuvole. Nella provincia di Lào Cai, ogni gradone è il frutto di secoli di lavoro delle comunità locali, come gli Hmong, che hanno modellato i pendii per guidare l’acqua e coltivare il riso, alimento centrale nella vita quotidiana e nella cultura di tutta l’Asia.",
+      "pt-BR": "Sapa, no norte do Vietnã, parece suspensa entre montanha e céu. Na imagem, seus arrozais descem pelas encostas como uma escadaria líquida, cada terraço segurando uma fina lâmina de água que reflete o céu enquanto alimenta as mudas de arroz.",
+      "zh-CN": "步步传承. 在沙巴的水稻田，老街，越南. 阳光穿透流云，洒在沙巴（Sapa）的层层坡地之上，那里的水稻田宛如“活的阶梯”，顺着山脊倾泻而下。这一高地地区位于越南老街省（Lào Cai），其地貌既受大自然的造化，也离不开人类双手的雕琢。数个世纪以来，包括赫蒙族（Hmong）在内的当地少数民族世代在此开垦并维护着这些梯田，他们引导水源流过陡峭的山坡，以维持每个生长季节的灌溉需求。"
     },
     "quickFacts": {
-      "zh-CN": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。"
+      "zh-CN": "“稻-鱼-鸭”共生系统在沙巴，老街，越南被广泛应用，通过在该生态位引入鱼类与鸭子实现自然肥田并控制病虫害，显著提升了高地农业的可持续性。"
     },
     "captions": {
-      "en-GB": "Lake Atitlán, Guatemala",
-      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala",
-      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala",
+      "en-GB": "Rice fields at Sapa, Lào Cai, Vietnam",
+      "de-DE": "Reisfelder in Sapa, Lào Cai, Vietnam",
+      "fr-FR": "Champs de riz à Sapa, Lào Cai, Vietnam",
       "it-IT": "",
-      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala",
-      "ja-JP": "静けさにしずむ湖",
+      "es-ES": "Arrozales en Sapa, Lào Cai, Vietnam",
+      "ja-JP": "光差す山岳地帯の棚田",
       "zh-CN": "",
-      "en-IN": "Lake Atitlán, Guatemala"
+      "en-IN": "Rice fields at Sapa, Lào Cai, Vietnam"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=lac+atitlan+guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lago+Atitl%c3%a1n&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%86%e3%82%a3%e3%83%88%e3%83%a9%e3%83%b3%e6%b9%96&form=hpcapt&filters=HpDate%3a%2220260707_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89+%e9%98%bf%e8%92%82%e7%89%b9%e5%85%b0%e6%b9%96&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_1830%22"
+      "en-GB": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Sapa+Reisfelder+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2200%22",
+      "it-IT": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%91%e3%81%ae%e6%a3%9a%e7%94%b0&form=hpcapt&filters=HpDate%3a%2220260708_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%b6%8a%e5%8d%97%e8%80%81%e8%a1%97&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.LakeAtitlan_EN-GB6255247922",
-      "de-DE": "/th?id=OHR.LakeAtitlan_DE-DE9365650175",
-      "fr-FR": "/th?id=OHR.LakeAtitlan_FR-FR9789294273",
-      "it-IT": "/th?id=OHR.LakeAtitlan_IT-IT2695003451",
-      "es-ES": "/th?id=OHR.LakeAtitlan_ES-ES9285347150",
-      "ja-JP": "/th?id=OHR.LakeAtitlan_JA-JP9857275970",
-      "zh-CN": "/th?id=OHR.LakeAtitlan_ZH-CN1920221893",
-      "en-IN": "/th?id=OHR.LakeAtitlan_EN-IN1783282765"
+      "en-GB": "/th?id=OHR.SapaVietnam_EN-GB9686207282",
+      "de-DE": "/th?id=OHR.SapaVietnam_DE-DE8741456092",
+      "fr-FR": "/th?id=OHR.SapaVietnam_FR-FR9797558235",
+      "it-IT": "/th?id=OHR.SapaVietnam_IT-IT8377161369",
+      "es-ES": "/th?id=OHR.SapaVietnam_ES-ES9535992527",
+      "ja-JP": "/th?id=OHR.SapaVietnam_JA-JP3354489397",
+      "zh-CN": "/th?id=OHR.SapaVietnam_ZH-CN2178893672",
+      "en-IN": "/th?id=OHR.SapaVietnam_EN-IN1797190767"
     }
   },
   "PrideInLondon2026": {
@@ -2363,38 +2362,6 @@
       "ja-JP": "/th?id=OHR.Ajisai2026_JA-JP5953428145"
     }
   },
-  "LavenderSeason2026": {
-    "name": "LavenderSeason2026",
-    "urlbase": "/th?id=OHR.LavenderSeason2026_JA-JP7050134160",
-    "date": "20260624",
-    "dateFormatted": "June 24, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "初夏に揺れる紫の花畑"
-    },
-    "copyrights": {
-      "ja-JP": "ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)"
-    },
-    "descs": {
-      "ja-JP": "今日の画像は、初夏の日差しを浴びる北海道・中富良野のラベンダー畑。富良野のラベンダーは、例年 6 月下旬から 7 月中旬ごろにかけて見頃を迎えます。ラベンダーらしいさわやかな香りと一面に広がる鮮やかな紫色が、季節の移ろいと自然の豊かさを感じさせてくれます。また、紫のラベンダー以外にも、ひまわりやマリーゴールド、サルビアなどの花も咲き誇り、訪れた人々に安らぎを与えてくれます。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "初夏に揺れる紫の花畑"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260624_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.LavenderSeason2026_JA-JP7050134160"
-    }
-  },
   "JogFalls2026": {
     "name": "JogFalls2026",
     "urlbase": "/th?id=OHR.JogFalls2026_EN-IN2533705121",
@@ -2425,6 +2392,127 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.JogFalls2026_EN-IN2533705121"
+    }
+  },
+  "BFPollin": {
+    "name": "BFPollin",
+    "urlbase": "/th?id=OHR.BFPollin_EN-US6519187095",
+    "date": "20260624",
+    "dateFormatted": "June 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Pollen meets wings. Pollinator Week",
+      "en-CA": "Pollen meets wings. Pollinator Week",
+      "pt-BR": "O pit-stop dos jardins",
+      "en-GB": "Pollen meets wings. Pollinator Week",
+      "de-DE": "Kleine Flügel, große Wirkung. Schmetterling beim Bestäuben einer gelben Blüte",
+      "fr-FR": "Silence, ça butine !. Pollinisateurs",
+      "it-IT": "Impollinare il mondo",
+      "es-ES": "Entre polen y alas. Mariposa polinizando una flor amarilla",
+      "ja-JP": "今週は全米花粉媒介者週間",
+      "zh-CN": "花粉与翅膀相遇",
+      "en-IN": "Pollen meets wings. Pollinator Week"
+    },
+    "copyrights": {
+      "en-US": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
+      "en-CA": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
+      "pt-BR": "Borboleta polinizando uma flor amarela (© lzh/Getty Images)",
+      "en-GB": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
+      "de-DE": "Schmetterling beim Bestäuben einer gelben Blüte (© lzh/Getty Images)",
+      "fr-FR": "Papillon sur une fleur jaune (© lzh/Getty Images)",
+      "it-IT": "Farfalla che impollina un fiore giallo (© lzh/Getty Images)",
+      "es-ES": "Mariposa polinizando una flor amarilla (© lzh/Getty Images)",
+      "ja-JP": "花の蜜を味わう蝶 (© lzh/Getty Images)",
+      "zh-CN": "蝴蝶正在黄花上授粉 (© lzh/Getty Images)",
+      "en-IN": "Butterfly pollinating on yellow flower (© lzh/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles, and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
+      "en-CA": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
+      "en-GB": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
+      "de-DE": "Ein Schmetterling flattert von Blüte zu Blüte und setzt dabei einen unscheinbaren Kreislauf in Bewegung: Beim Nektarsammeln bleibt Blütenstaub an ihm haften und wird weitergetragen. So können viele Pflanzen überhaupt Samen und Früchte bilden. Besonders tagaktive Schmetterlinge bestäuben oft farbenreiche Wildblumen und tragen so zur Artenvielfalt vieler Wiesen bei.",
+      "fr-FR": "Observer de près un geste minuscule, c’est parfois découvrir tout un univers, comme celui de ce papillon posé sur une fleur jaune, y puisant son nectar. En se nourrissant, il emporte avec lui une fine poussière de pollen qu’il déposera sur une autre corolle. Ce cycle discret permet aux plantes de se reproduire et de perdurer. Les pollinisateurs ne se limitent pas aux abeilles : papillons, oiseaux, chauves-souris et coléoptères participent tous à cet échange vital, soutenant la diversité des plantes sauvages comme celle des fruits et légumes qui garnissent nos assiettes.",
+      "es-ES": "Los polinizadores desempeñan un papel esencial en el equilibrio de los ecosistemas y en la producción de alimentos. Insectos como abejas, mariposas y escarabajos transportan el polen de una flor a otra, lo que permite la fecundación de muchas plantas. Gracias a este proceso natural, una gran parte de los cultivos que consumimos a diario se pueden desarrollar. Se estima que uno de cada tres bocados de comida depende directa o indirectamente de su labor, lo que subraya su importancia.",
+      "ja-JP": "今週は全米花粉媒介者週間。ミツバチをはじめ、蝶や鳥、コウモリ、甲虫といった花粉媒介者の存在に気づき、守ることを呼びかける期間です。画像のように、蝶が蜜を吸う際に、体に花粉が付着します。この花粉をつけた蝶が次の花へ移動することで、植物は受粉し、繁殖します。花粉媒介者は植物の繁殖や農作物の安定した供給に欠かせない存在です。生態系の保全や私たちの豊かな食生活を維持するためにも、彼らの保護は重要です。",
+      "en-IN": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
+      "it-IT": "Si posa leggera su un fiore giallo, e per un istante sembra che il mondo resti in equilibrio sulle sue ali. La farfalla sfiora i petali con delicatezza, come se seguisse una mappa invisibile fatta di luce e profumi. È in questo gesto semplice che si intreccia uno dei processi più importanti per la vita sulla Terra. Mentre si sposta di fiore in fiore, trasporta il polline e contribuisce alla riproduzione di molte piante, incluse quelle da cui dipende gran parte della nostra alimentazione. Non solo farfalle, ma anche api, bombi, sirfidi, altri insetti e persino alcuni pipistrelli svolgono questo lavoro silenzioso e continuo. Gli impollinatori sono essenziali per la biodiversità e per la stabilità degli ecosistemi, ma sono sempre più minacciati da pesticidi, perdita di habitat e cambiamenti climatici. Un battito d’ali, un passaggio invisibile, e la vita che si rinnova, un fiore alla volta.",
+      "pt-BR": "A imagem parece banal: a borboleta pousa, bebe néctar e segue seu caminho. Mas aqui acontece um dos processos mais eficientes da natureza: ao mergulhar na flor, a borboleta se cobre de pólen. Ao visitar outra, parte desse material é transferido para a nova planta, permitindo que flores que jamais se tocariam troquem informação genética e produzam sementes.",
+      "zh-CN": "花粉与翅膀相遇. 蝴蝶正在黄花上授粉. 放大观察维持大地生机的微小交易：一只蝴蝶停在黄色的花朵上，吮吸着花蜜。它吸食花蜜的同时，花粉沾满了它的身体，搭上了前往下一朵花的“顺风车”——这是开花植物悄无声息的繁殖方式之一。传粉者并非只有蜜蜂。蝴蝶、鸟类、蝙蝠、甲虫以及许多其他昆虫都在帮助传播花粉，从而支持野生植物以及我们食用的许多水果和蔬菜的生长。"
+    },
+    "quickFacts": {
+      "en-US": "Pollinators are responsible for about one out of three bites of food we eat.",
+      "en-GB": "Pollinators are responsible for about one out of three bites of food we eat.",
+      "en-CA": "Pollinators are responsible for about one out of three bites of food we eat.",
+      "de-DE": "Etwa jeder dritte Bissen Nahrung hängt von Bestäubern ab.",
+      "fr-FR": "Les pollinisateurs sont à l'origine d'environ un tiers de ce que nous mangeons.",
+      "it-IT": "Gli impollinatori sono responsabili di circa un terzo del cibo che mangiamo.",
+      "es-ES": "Los polinizadores son responsables de aproximadamente uno de cada tres bocados de comida que consumimos.",
+      "ja-JP": "昼間に活動するミツバチや蝶とは異なり、夜に花粉を運ぶ生き物も多く存在します。",
+      "zh-CN": "我们所吃的食物中，大约有三分之一要归功于授粉昆虫。",
+      "en-IN": "Pollinators are responsible for about one out of three bites of food we eat."
+    },
+    "captions": {
+      "en-US": "Pollinator Week",
+      "en-CA": "Pollinator Week",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=polinizadores&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BFPollin_EN-US6519187095",
+      "en-CA": "/th?id=OHR.BFPollin_EN-CA9136085313",
+      "pt-BR": "/th?id=OHR.BFPollin_PT-BR5634257849"
+    }
+  },
+  "LavenderSeason2026": {
+    "name": "LavenderSeason2026",
+    "urlbase": "/th?id=OHR.LavenderSeason2026_JA-JP7050134160",
+    "date": "20260624",
+    "dateFormatted": "June 24, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "初夏に揺れる紫の花畑"
+    },
+    "copyrights": {
+      "ja-JP": "ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)"
+    },
+    "descs": {
+      "ja-JP": "今日の画像は、初夏の日差しを浴びる北海道・中富良野のラベンダー畑。富良野のラベンダーは、例年 6 月下旬から 7 月中旬ごろにかけて見頃を迎えます。ラベンダーらしいさわやかな香りと一面に広がる鮮やかな紫色が、季節の移ろいと自然の豊かさを感じさせてくれます。また、紫のラベンダー以外にも、ひまわりやマリーゴールド、サルビアなどの花も咲き誇り、訪れた人々に安らぎを与えてくれます。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "初夏に揺れる紫の花畑"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260624_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.LavenderSeason2026_JA-JP7050134160"
     }
   },
   "Fujisan": {
