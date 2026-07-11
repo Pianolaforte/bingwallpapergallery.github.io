@@ -1,4 +1,129 @@
 {
+  "VictoriaBeach": {
+    "name": "VictoriaBeach",
+    "urlbase": "/th?id=OHR.VictoriaBeach_EN-US7607379912",
+    "date": "20260710",
+    "dateFormatted": "July 10, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
+      "de-DE": "Zwischen zwei Welten. Luftaufnahme von Land und Meer, Victoria, Australien",
+      "fr-FR": "Le pays des rivages mouvants. Vue aérienne des terres et de l'océan, Victoria, Australie",
+      "it-IT": "La terra delle coste in movimento",
+      "es-ES": "La tierra de las orillas móviles. Vista aérea de tierra y océano, Victoria, Australia",
+      "pt-BR": "A arte lenta das marés",
+      "ja-JP": "浜辺に打ち寄せる波",
+      "zh-CN": "陆地与海洋的鸟瞰图",
+      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
+      "en-GB": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
+      "de-DE": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
+      "fr-FR": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
+      "it-IT": "Veduta aerea di terra e oceano, Victoria, Australia (© Nearmap/Getty Images)",
+      "es-ES": "Vista aérea de tierra y océano, Victoria, Australia (© Nearmap/Getty Images)",
+      "pt-BR": "Vista aérea da costa de Vitória, Austrália (© Nearmap/Getty Images)",
+      "ja-JP": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
+      "zh-CN": "陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)",
+      "en-IN": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
+      "en-GB": "© Nearmap/Getty Images"
+    },
+    "descs": {
+      "en-US": "Victoria, a southeastern state of Australia, extends along more than 1,000 miles of coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands, and seaside towns.",
+      "de-DE": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
+      "fr-FR": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
+      "es-ES": "Victoria, en el sureste de Australia, despliega más de 1.800 kilómetros de costa modelada por el océano Antártico, donde playas de arena clara se funden con aguas turquesas y acantilados escarpados. Desde el aire, el paisaje recuerda por momentos a la Costa Brava en Girona, aunque aquí la escala es más salvaje y abierta.",
+      "ja-JP": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
+      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia. Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
+      "en-GB": "Victoria, a southeastern state of Australia, extends along more than 1,100 miles of mainland coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands and seaside towns.",
+      "it-IT": "Victoria, stato nel sud-est dell’Australia, si estende lungo oltre 1.800 km di costa modellata dall’Oceano Meridionale: dall’alto, le sue spiagge appaiono come nastri chiari tra acque turchesi e scogliere scolpite. Questo dialogo continuo tra terra e mare ricorda, per intensità e varietà, alcuni tratti della Sardegna o della Costiera Amalfitana, pur con un carattere più selvaggio e ventoso. La celebre Great Ocean Road percorre circa 240 km di litorale, tra spot di surf, promontori boscosi e piccoli centri affacciati sull’oceano.",
+      "pt-BR": "A imagem do dia traz o litoral do estado australiano de Vitória, onde o encontro entre terra e mar está sempre sendo redesenhado. Faixas de areia clara se alternam com água azul intensa e paredões que parecem ter sido recortados com cuidado, em um cenário marcado pela ação contínua do oceano.",
+      "zh-CN": "陆地与海洋的鸟瞰图. 陆地与海洋的鸟瞰图，维多利亚州，澳大利亚. 维多利亚州位于澳大利亚东南部，坐拥由南大洋雕琢而成的绵延千余英里的海岸线。从高空俯瞰，这里的海滩宛如一条条宽阔的浅色沙带，边缘环绕着碧绿的海水与崎岖的峭壁。这种海陆交融的独特景致构成了该地区的主要魅力所在。著名的“大洋路”沿这段海岸线蜿蜒延伸约150英里，途经热门冲浪胜地、林木葱郁的海角以及各具特色的海滨小镇。"
+    },
+    "quickFacts": {
+      "zh-CN": "十二使徒岩一直在发生变化；在2005年发生一次重大坍塌后，最初的石灰岩柱目前仅存八座。"
+    },
+    "captions": {
+      "en-US": "Aerial view of land and ocean, Victoria, Australia",
+      "de-DE": "Luftaufnahme von Land und Meer, Victoria, Australien",
+      "fr-FR": "Vue aérienne des terres et de l'océan, Victoria, Australie",
+      "it-IT": "",
+      "es-ES": "Vista aérea de tierra y océano, Victoria, Australia",
+      "pt-BR": "",
+      "ja-JP": "浜辺に打ち寄せる波",
+      "zh-CN": "",
+      "en-IN": "Aerial view of land and ocean, Victoria, Australia"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260710_0700%22",
+      "de-DE": "https://www.bing.com/search?q=Victoria+Australien&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Victoria+Australie&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Vitoria+Australia&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%93%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e5%b7%9e%e3%81%ab%e3%81%82%e3%82%8b%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260709_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e5%b7%9e&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260709_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.VictoriaBeach_EN-US7607379912",
+      "de-DE": "/th?id=OHR.VictoriaBeach_DE-DE7288099938",
+      "fr-FR": "/th?id=OHR.VictoriaBeach_FR-FR3702097800",
+      "it-IT": "/th?id=OHR.VictoriaBeach_IT-IT7530420052",
+      "es-ES": "/th?id=OHR.VictoriaBeach_ES-ES0275659103",
+      "pt-BR": "/th?id=OHR.VictoriaBeach_PT-BR0308396736",
+      "ja-JP": "/th?id=OHR.VictoriaBeach_JA-JP5622574083",
+      "zh-CN": "/th?id=OHR.VictoriaBeach_ZH-CN8892195426",
+      "en-IN": "/th?id=OHR.VictoriaBeach_EN-IN4783068086"
+    }
+  },
   "SapaVietnam": {
     "name": "SapaVietnam",
     "urlbase": "/th?id=OHR.SapaVietnam_EN-US4008171614",
@@ -374,7 +499,7 @@
       "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
       "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
       "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
-      "ja-JP": "枝に止まるユニークなオオハシ. イタハシヤマオオハシ, エクアドル. イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
+      "ja-JP": "イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
       "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
       "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
       "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
@@ -1547,9 +1672,86 @@
         "flag": "us"
       },
       {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "en-US": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina",
+      "pt-BR": "A floresta que o mar redesenhou",
+      "ja-JP": "夕焼けに染まる水辺と枯れ木",
+      "en-GB": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
+      "fr-FR": "Perdre pied. Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
+      "it-IT": "Gli alberi che hanno perso terreno",
+      "es-ES": "Los árboles que perdieron terreno. Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
+      "zh-CN": "逐渐失去立足之地的树木",
+      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
+      "en-CA": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina"
+    },
+    "copyrights": {
+      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
+      "pt-BR": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
+      "ja-JP": "ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)",
+      "en-GB": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+      "fr-FR": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
+      "it-IT": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
+      "es-ES": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
+      "zh-CN": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
+      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+      "en-CA": "© Frances/Adobe Stock"
+    },
+    "descs": {
+      "en-US": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
+      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
+      "en-GB": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "fr-FR": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
+      "es-ES": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
+      "en-IN": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "it-IT": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
+      "pt-BR": "A floresta que o mar redesenhou. Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos. A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
+      "zh-CN": "逐渐失去立足之地的树木. 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国. 在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。",
+      "en-CA": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas."
+    },
+    "quickFacts": {
+      "zh-CN": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
+    },
+    "captions": {
+      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina",
+      "pt-BR": "",
+      "ja-JP": "夕焼けに染まる水辺と枯れ木"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260627_0700%22",
+      "pt-BR": "https://www.bing.com/search?q=Carolina+do+Sul&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e5%b3%b6%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260702_1500%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BoneyardBeach_EN-US8247496696",
+      "pt-BR": "/th?id=OHR.BoneyardBeach_PT-BR8811510135",
+      "ja-JP": "/th?id=OHR.BoneyardBeach_JA-JP3339035555"
+    }
+  },
+  "AurayBrittany": {
+    "name": "AurayBrittany",
+    "urlbase": "/th?id=OHR.AurayBrittany_EN-GB4284557242",
+    "date": "20260710",
+    "dateFormatted": "July 10, 2026",
+    "markets": [
+      {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       },
       {
         "code": "fr-FR",
@@ -1557,19 +1759,9 @@
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
       },
       {
         "code": "ja-JP",
@@ -1588,150 +1780,72 @@
       }
     ],
     "titles": {
-      "en-US": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina",
-      "en-GB": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
-      "fr-FR": "Perdre pied. Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
-      "it-IT": "Gli alberi che hanno perso terreno",
-      "es-ES": "Los árboles que perdieron terreno. Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
-      "pt-BR": "A floresta que o mar redesenhou",
-      "ja-JP": "夕焼けに染まる水辺と枯れ木",
-      "zh-CN": "逐渐失去立足之地的树木",
-      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
-      "en-CA": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina"
+      "en-GB": "Just across the channel: Port de Saint-Goustan. Port de Saint-Goustan, Auray, Brittany, France",
+      "de-DE": "Wo die Bretagne auf die Gezeiten trifft. Hafen von Saint-Goustan, Auray, Bretagne, Frankreich",
+      "fr-FR": "Niché au creux du Loc’h. Port de Saint-Goustan, Auray, Bretagne",
+      "es-ES": "Donde Bretaña se encuentra con la marea. Puerto de Saint-Goustan, Auray, Bretaña, Francia",
+      "ja-JP": "港に停泊する観光船",
+      "zh-CN": "布列塔尼的潮汐之约",
+      "en-IN": "Where Brittany meets the tide. Port de Saint-Goustan, Auray, Brittany, France",
+      "en-US": "Where Brittany meets the tide. Port de Saint-Goustan, Auray, Brittany, France",
+      "pt-BR": "A cidade que ancorou no tempo. Porto de Saint-Goustan, Auray, Bretanha, França"
     },
     "copyrights": {
-      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
-      "en-GB": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
-      "fr-FR": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
-      "it-IT": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
-      "es-ES": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
-      "pt-BR": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
-      "ja-JP": "ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)",
-      "zh-CN": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
-      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
-      "en-CA": "© Frances/Adobe Stock"
+      "en-GB": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+      "de-DE": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich (© Rolf E. Staerk/Shutterstock)",
+      "fr-FR": "Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock)",
+      "es-ES": "Puerto de Saint-Goustan, Auray, Bretaña, Francia (© Rolf E. Staerk/Shutterstock)",
+      "ja-JP": "サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)",
+      "zh-CN": "圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)",
+      "en-IN": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+      "en-US": "© Rolf E. Staerk/Shutterstock",
+      "pt-BR": "© Rolf E. Staerk/Shutterstock"
     },
     "descs": {
-      "en-US": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
-      "en-GB": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
-      "fr-FR": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
-      "es-ES": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
-      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
-      "en-IN": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
-      "it-IT": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
-      "pt-BR": "A floresta que o mar redesenhou. Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos. A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
-      "zh-CN": "逐渐失去立足之地的树木. 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国. 在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。",
-      "en-CA": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas."
+      "en-GB": "In France, Port de Saint-Goustan lies just below Auray’s upper town, where a narrow inlet meets the estuary leading into the Gulf of Morbihan. The harbour sits along the Auray River In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has vanished, but cobbled quays and timber-framed houses still line the waterfront.",
+      "de-DE": "Der Hafen von Saint-Goustan in Auray in der Bretagne in Frankreich gehört zu den stimmungsvollsten Orten der Region. Er liegt an einer geschützten Mündung, wo der Loc’h und der Auray zusammen eine riaartige Flussmündung bilden, die sich in Richtung Golf von Morbihan öffnet. Bereits im Mittelalter entstand hier ein wichtiger Handelsplatz, der unter den Herzögen der Bretagne ausgebaut wurde und bis heute seinen historischen Charakter bewahrt hat.",
+      "fr-FR": "Au sud d’Auray, le port de Saint-Goustan s’étend là où le Loc’h rejoint la rivière d’Auray avant de s’ouvrir vers le golfe du Morbihan. Ce havre pittoresque, protégé par les méandres de l’estuaire, conserve l’atmosphère d’un ancien port breton. Dès le XIIIᵉ siècle, les ducs de Bretagne y firent bâtir un pont, un port et une forteresse aujourd’hui disparue, mais les quais pavés, les ruelles étroites et les maisons à pans de bois témoignent encore de ce passé.",
+      "es-ES": "En el Puerto de Saint-Goustan, en Auray, Francia, el tiempo parece detenerse donde un pequeño estuario se abre al golfo de Morbihan. Sus muelles empedrados, casas con entramado de madera y callejuelas estrechas evocan rincones históricos del norte de España como Hondarribia o Combarro, donde el pasado sigue vivo junto al agua.",
+      "ja-JP": "ここは、サン＝グスタン港。フランスのブルターニュ地域圏にある港町オーレーの港です。その歴史は 12 世紀にまでさかのぼり、当時のブルターニュ公が橋や港、さらに城塞を築いたことに始まります。1776 年には、米国建国の父ともいわれるベンジャミン・フランクリンが訪れており、埠頭の一つは、「フランクリン・ドック」と呼ばれるようになりました。港は 19 世紀まで船の入港が可能でしたが、現在ではツアーの寄港地やマリーナとして利用されています。",
+      "en-IN": "In France, Port de Saint-Goustan lies just below Auray's upper town, where a narrow tidal inlet along the Auray River opens towards the Gulf of Morbihan. The harbour sits along the Auray River, also known locally as the Loc’h, creating its sheltered, storybook setting. In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has long since disappeared, but cobbled quays, winding lanes and timber-framed houses still line the waterfront.",
+      "en-US": "In France, Port de Saint-Goustan sits just below Auray's upper town, where a small inlet meets the Gulf of Morbihan estuary. The harbor lies at the confluence of the Auray and Loc'h rivers, creating its sheltered, storybook setting. In the 13th century, the Dukes of Brittany built a bridge, a port, and a castle here; the fortress has vanished, but cobbled quays, narrow lanes, and timber-framed houses still line the water. From Place de la République, Rue du Château passes art studios and galleries down to the waterfront; ramps along the Loc'h, built on old fortifications, open views across the port. Cross the four-arched stone bridge to Place Saint-Sauveur, then climb toward Saint-Gildas Church, where the town rises above the harbor. The quay also marks a transatlantic moment: Benjamin Franklin arrived here in 1776, and a dock now bears his name. Today, cafés and small boats fill the scene, while nearby Auray hosts a well-known weekly market and lively summer events.",
+      "pt-BR": "Na imagem, o Porto de Saint‑Goustan parece decidido a envelhecer bem. Ele ocupa uma curva protegida da cidade francesa de Auray, onde o estuário encontra os rios Auray e Loc’h. Não por acaso, duques da região da Bretanha ergueram ali, no século XIII, um castelo e toda uma estrutura portuária para controlar a região. O castelo virou memória: o resto, charme. Casas em enxaimel, fachadas de pedra e ruas estreitas acompanham a descida da Place de la République pela Rue du Château, num percurso que termina inevitavelmente à beira d’água. O que antes servia à defesa hoje abriga ateliês, galerias e cafés, enquanto antigas muralhas oferecem alguns dos melhores mirantes do porto.",
+      "zh-CN": "在法国，圣古斯坦港位于奥雷上城区下方，一条小海湾在此汇入莫尔比昂湾。港口坐落于奥雷河与洛克河的交汇处，营造出如诗如画的静谧氛围。13世纪，布列塔尼公爵在此修建了一座桥梁、一座港口和一座城堡；如今城堡已不复存在，但鹅卵石铺就的码头、狭窄的巷道和木结构房屋依然沿水而建。从共和国广场出发，沿着城堡街一路向下，途经艺术工作室和画廊，最终抵达海滨；洛克河畔的坡道建于古老的防御工事之上，可以饱览港口的景色。穿过四拱石桥，即可到达圣索沃尔广场，然后拾级而上，前往圣吉尔达教堂，小镇从那里开始逐渐升高，俯瞰着港口。码头也见证了一段跨大西洋的历史：本杰明·富兰克林于1776年抵达此地，如今一个码头以他的名字命名。如今，咖啡馆和小船点缀着这片区域，而附近的奥雷镇则拥有远近闻名的每周集市和热闹的夏季活动。"
     },
     "quickFacts": {
-      "zh-CN": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
+      "zh-CN": "该港口水源流向的莫尔比汉湾拥有欧洲最强劲的潮汐流，在其狭窄的湾口处，水流速度可高达每秒4米。"
     },
     "captions": {
-      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina",
-      "en-GB": "Boneyard Beach, Hunting Island, South Carolina, United States",
-      "fr-FR": "Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
-      "it-IT": "",
-      "es-ES": "Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
-      "pt-BR": "",
-      "ja-JP": "夕焼けに染まる水辺と枯れ木",
+      "en-GB": "Port de Saint-Goustan, Auray, Brittany, France",
+      "de-DE": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich",
+      "fr-FR": "Port de Saint-Goustan, Auray, Bretagne",
+      "es-ES": "Puerto de Saint-Goustan, Auray, Bretaña, Francia",
+      "ja-JP": "港に停泊する観光船",
       "zh-CN": "",
-      "en-IN": "Boneyard Beach, Hunting Island, South Carolina, United States"
+      "en-IN": "Port de Saint-Goustan, Auray, Brittany, France"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260627_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=%c3%aele+de+Hunting&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Hunting+Island+Carolina+del+Sud%2c+USA&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=carolina+del+sur&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Carolina+do+Sul&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e5%b3%b6%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260702_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%ba%a8%e5%bb%b7%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Hafen+von+Saint-Goustan&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Auray+Saint-Goustan+Francia&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%ef%bc%9d%e3%82%b0%e3%82%b9%e3%82%bf%e3%83%b3%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220260710_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e6%ac%a7%e8%b5%96%e5%9c%a3%e5%8f%a4%e6%96%af%e5%bd%93%e6%b8%af&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.BoneyardBeach_EN-US8247496696",
-      "en-GB": "/th?id=OHR.BoneyardBeach_EN-GB1157661849",
-      "fr-FR": "/th?id=OHR.BoneyardBeach_FR-FR6517949092",
-      "it-IT": "/th?id=OHR.BoneyardBeach_IT-IT9837372965",
-      "es-ES": "/th?id=OHR.BoneyardBeach_ES-ES1143251949",
-      "pt-BR": "/th?id=OHR.BoneyardBeach_PT-BR8811510135",
-      "ja-JP": "/th?id=OHR.BoneyardBeach_JA-JP3339035555",
-      "zh-CN": "/th?id=OHR.BoneyardBeach_ZH-CN5540590570",
-      "en-IN": "/th?id=OHR.BoneyardBeach_EN-IN2656634065"
-    }
-  },
-  "ThamesSummer": {
-    "name": "ThamesSummer",
-    "urlbase": "/th?id=OHR.ThamesSummer_EN-US6783349970",
-    "date": "20260626",
-    "dateFormatted": "June 26, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Current affairs. The River Thames, London, England",
-      "en-CA": "Current affairs. The River Thames, London, England",
-      "en-GB": "Current affairs. The River Thames, London",
-      "de-DE": "Die Stadt im Fluss der Zeit. Themse, London, England",
-      "fr-FR": "On se la coule douce. La Tamise, Londres, Angleterre",
-      "it-IT": "Attualità",
-      "es-ES": "Recorriendo la actualidad. Río Támesis, Londres, Inglaterra",
-      "ja-JP": "活気あふれる川沿いの街並み",
-      "zh-CN": "时事",
-      "en-IN": "Current affairs. The River Thames, London, England"
-    },
-    "copyrights": {
-      "en-US": "The River Thames, London, England (© Daniel Lange/Getty Images)",
-      "en-CA": "The River Thames, London, England (© Daniel Lange/Getty Images)",
-      "en-GB": "The River Thames, London (© Daniel Lange/Getty Images)",
-      "de-DE": "Themse, London, England (© Daniel Lange/Getty Images)",
-      "fr-FR": "La Tamise, Londres, Angleterre (© Daniel Lange/Getty Images)",
-      "it-IT": "Il fiume Tamigi, Londra, Inghilterra (© Daniel Lange/Getty Images)",
-      "es-ES": "El río Támesis, Londres, Inglaterra (© Daniel Lange/Getty Images)",
-      "ja-JP": "テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)",
-      "zh-CN": "泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)",
-      "en-IN": "The River Thames, London, England (© Daniel Lange/Getty Images)"
-    },
-    "descs": {
-      "en-US": "What does a parliament, a clock tower, and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "en-CA": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "en-GB": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "de-DE": "Entlang der Themse in London entfaltet sich eine der bekanntesten Stadtsilhouetten Europas, geprägt von Geschichte, Bewegung und einem stetigen Rhythmus. Boote gleiten ruhig vorbei, während Brücken das Bild strukturieren und verschiedene Viertel miteinander verbinden. Tagsüber spiegelt das Wasser graue Wolken und gläserne Fassaden, nachts tauchen Lichter alles in ein warmes Leuchten. Besucher und Einheimische folgen oft ihrem Verlauf, entdecken historische Gebäude und genießen die besondere Atmosphäre zwischen Tradition und Moderne. Big Ben und das London Eye prägen diese Ansicht.",
-      "fr-FR": "Qu'ont en commun un parlement, une tour horloge et une immense roue ? Tous se dressent le long de la Tamise, comme si Londres avait soigneusement disposé ses monuments emblématiques pour créer un décor spectaculaire.",
-      "es-ES": "En Londres, Reino Unido, el río Támesis reúne algunos de los iconos más reconocibles de Europa en una escena casi cinematográfica. A un lado, el Palacio de Westminster—reconstruido tras el incendio de 1834 en estilo neogótico—marca el pulso político del país, mientras la torre Elizabeth guarda en su interior la campana del Big Ben, cuyas horas resuenan desde 1859. Frente a él, la silueta moderna del London Eye aporta una mirada tranquila y elevada sobre la ciudad.",
-      "ja-JP": "イングランド南部を流れるテムズ川は、古代から交通・交易・軍事などの要所とされていました。全長は 346km で、川沿いにはローマ時代や中世の名残が見られます。ロンドン市街を流れる区間には、タワーブリッジや、世界遺産のウェストミンスター宮殿といった建築物が立ち並んでおり、ロンドンの観光名所として知られています。",
-      "en-IN": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-      "it-IT": "Attualità. Il fiume Tamigi, Londra, Inghilterra. Sul Tamigi, a Londra, le icone sembrano disposte come su un palcoscenico, dove storia e architettura dialogano con sorprendente armonia.",
-      "zh-CN": "时事. 泰晤士河, 伦敦, 英格兰. 议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。"
-    },
-    "quickFacts": {
-      "zh-CN": "泰晤士河防洪闸于1984年建成，是世界上规模最大的可移动防洪设施之一，用于保护伦敦免受北海风暴潮引发的洪水威胁。"
-    },
-    "captions": {
-      "en-US": "The River Thames, London, England",
-      "en-CA": "The River Thames, London, England"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260626_0700%22",
-      "en-CA": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260626_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.ThamesSummer_EN-US6783349970",
-      "en-CA": "/th?id=OHR.ThamesSummer_EN-CA4092680642"
+      "en-GB": "/th?id=OHR.AurayBrittany_EN-GB4284557242",
+      "de-DE": "/th?id=OHR.AurayBrittany_DE-DE3196003934",
+      "fr-FR": "/th?id=OHR.AurayBrittany_FR-FR2151221761",
+      "es-ES": "/th?id=OHR.AurayBrittany_ES-ES0686964132",
+      "ja-JP": "/th?id=OHR.AurayBrittany_JA-JP5965695214",
+      "zh-CN": "/th?id=OHR.AurayBrittany_ZH-CN5549157888",
+      "en-IN": "/th?id=OHR.AurayBrittany_EN-IN7972438884"
     }
   },
   "LlanthonyPriory2026": {
     "name": "LlanthonyPriory2026",
-    "urlbase": "/th?id=OHR.LlanthonyPriory2026_EN-GB4079729139",
+    "urlbase": "/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988",
     "date": "20260709",
     "dateFormatted": "July 09, 2026",
     "markets": [
@@ -1758,7 +1872,7 @@
       "en-GB": "https://www.bing.com/search?q=Llanthony+Priory&form=hpcapt&filters=HpDate%3a%2220260709_2300%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.LlanthonyPriory2026_EN-GB4079729139"
+      "en-GB": "/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988"
     }
   },
   "PrideInLondon2026": {
@@ -1904,6 +2018,38 @@
       "en-IN": "/th?id=OHR.KaysersbergVillage_EN-IN4147544931"
     }
   },
+  "SummerBC": {
+    "name": "SummerBC",
+    "urlbase": "/th?id=OHR.SummerBC_EN-CA3026184215",
+    "date": "20260710",
+    "dateFormatted": "July 10, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Nature's summer showcase. Emerald Lake in Yoho National Park, British Columbia"
+    },
+    "copyrights": {
+      "en-CA": "Pink wildflowers by Emerald Lake in summer, Yoho National Park, British Columbia (© Olga Matveeva/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Some places are best introduced with one word: Yoho. It is a Cree expression of wonder, which is exactly the reaction most people have. Established in 1886, Yoho National Park protects part of the Canadian Rockies in British Columbia. Visitors can stop at Takakkaw Falls, where water plunges more than 370 metres, or explore the world-famous Burgess Shale fossil sites. These rocks preserve the remains of marine animals that lived more than 500 million years ago."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "Emerald Lake in Yoho National Park, British Columbia"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Yoho+National+Park&form=hpcapt&filters=HpDate%3a%2220260710_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.SummerBC_EN-CA3026184215"
+    }
+  },
   "MulticulturalismDY": {
     "name": "MulticulturalismDY",
     "urlbase": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353",
@@ -1934,115 +2080,6 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353"
-    }
-  },
-  "VictoriaBeach": {
-    "name": "VictoriaBeach",
-    "urlbase": "/th?id=OHR.VictoriaBeach_DE-DE7288099938",
-    "date": "20260709",
-    "dateFormatted": "July 09, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "de-DE": "Zwischen zwei Welten. Luftaufnahme von Land und Meer, Victoria, Australien",
-      "fr-FR": "Le pays des rivages mouvants. Vue aérienne des terres et de l'océan, Victoria, Australie",
-      "it-IT": "La terra delle coste in movimento",
-      "es-ES": "La tierra de las orillas móviles. Vista aérea de tierra y océano, Victoria, Australia",
-      "ja-JP": "浜辺に打ち寄せる波",
-      "zh-CN": "陆地与海洋的鸟瞰图",
-      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
-      "en-US": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
-      "en-GB": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
-      "pt-BR": "A arte lenta das marés. Vista aérea da costa de Vitória, Austrália"
-    },
-    "copyrights": {
-      "de-DE": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
-      "fr-FR": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
-      "it-IT": "Veduta aerea di terra e oceano, Victoria, Australia (© Nearmap/Getty Images)",
-      "es-ES": "Vista aérea de tierra y océano, Victoria, Australia (© Nearmap/Getty Images)",
-      "ja-JP": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
-      "zh-CN": "陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)",
-      "en-IN": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
-      "en-US": "© Nearmap/Getty Images",
-      "en-GB": "© Nearmap/Getty Images",
-      "pt-BR": "© Nearmap/Getty Images"
-    },
-    "descs": {
-      "de-DE": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
-      "fr-FR": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
-      "es-ES": "Victoria, en el sureste de Australia, despliega más de 1.800 kilómetros de costa modelada por el océano Antártico, donde playas de arena clara se funden con aguas turquesas y acantilados escarpados. Desde el aire, el paisaje recuerda por momentos a la Costa Brava en Girona, aunque aquí la escala es más salvaje y abierta.",
-      "ja-JP": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
-      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia. Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
-      "en-US": "Victoria, a southeastern state of Australia, extends along more than 1,000 miles of coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands, and seaside towns.",
-      "en-GB": "Victoria, a southeastern state of Australia, extends along more than 1,100 miles of mainland coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands and seaside towns.",
-      "it-IT": "Victoria, stato nel sud-est dell’Australia, si estende lungo oltre 1.800 km di costa modellata dall’Oceano Meridionale: dall’alto, le sue spiagge appaiono come nastri chiari tra acque turchesi e scogliere scolpite. Questo dialogo continuo tra terra e mare ricorda, per intensità e varietà, alcuni tratti della Sardegna o della Costiera Amalfitana, pur con un carattere più selvaggio e ventoso. La celebre Great Ocean Road percorre circa 240 km di litorale, tra spot di surf, promontori boscosi e piccoli centri affacciati sull’oceano.",
-      "pt-BR": "A imagem do dia traz o litoral do estado australiano de Vitória, onde o encontro entre terra e mar está sempre sendo redesenhado. Faixas de areia clara se alternam com água azul intensa e paredões que parecem ter sido recortados com cuidado, em um cenário marcado pela ação contínua do oceano.",
-      "zh-CN": "陆地与海洋的鸟瞰图. 陆地与海洋的鸟瞰图，维多利亚州，澳大利亚. 维多利亚州位于澳大利亚东南部，坐拥由南大洋雕琢而成的绵延千余英里的海岸线。从高空俯瞰，这里的海滩宛如一条条宽阔的浅色沙带，边缘环绕着碧绿的海水与崎岖的峭壁。这种海陆交融的独特景致构成了该地区的主要魅力所在。著名的“大洋路”沿这段海岸线蜿蜒延伸约150英里，途经热门冲浪胜地、林木葱郁的海角以及各具特色的海滨小镇。"
-    },
-    "quickFacts": {
-      "zh-CN": "十二使徒岩一直在发生变化；在2005年发生一次重大坍塌后，最初的石灰岩柱目前仅存八座。"
-    },
-    "captions": {
-      "de-DE": "Luftaufnahme von Land und Meer, Victoria, Australien",
-      "fr-FR": "Vue aérienne des terres et de l'océan, Victoria, Australie",
-      "it-IT": "",
-      "es-ES": "Vista aérea de tierra y océano, Victoria, Australia",
-      "ja-JP": "浜辺に打ち寄せる波",
-      "zh-CN": "",
-      "en-IN": "Aerial view of land and ocean, Victoria, Australia"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Victoria+Australien&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Victoria+Australie&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%93%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e5%b7%9e%e3%81%ab%e3%81%82%e3%82%8b%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260709_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e5%b7%9e&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260709_1830%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.VictoriaBeach_DE-DE7288099938",
-      "fr-FR": "/th?id=OHR.VictoriaBeach_FR-FR3702097800",
-      "it-IT": "/th?id=OHR.VictoriaBeach_IT-IT7530420052",
-      "es-ES": "/th?id=OHR.VictoriaBeach_ES-ES0275659103",
-      "ja-JP": "/th?id=OHR.VictoriaBeach_JA-JP5622574083",
-      "zh-CN": "/th?id=OHR.VictoriaBeach_ZH-CN8892195426",
-      "en-IN": "/th?id=OHR.VictoriaBeach_EN-IN4783068086"
     }
   },
   "NeckarVineyards": {
@@ -2077,36 +2114,36 @@
       "de-DE": "/th?id=OHR.NeckarVineyards_DE-DE0300601892"
     }
   },
-  "Westerheversand": {
-    "name": "Westerheversand",
-    "urlbase": "/th?id=OHR.Westerheversand_DE-DE9270031466",
-    "date": "20260626",
-    "dateFormatted": "June 26, 2026",
+  "IsolaBella": {
+    "name": "IsolaBella",
+    "urlbase": "/th?id=OHR.IsolaBella_IT-IT9517303219",
+    "date": "20260710",
+    "dateFormatted": "July 10, 2026",
     "markets": [
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
       }
     ],
     "titles": {
-      "de-DE": "Rot‑weiß am Horizont. Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
+      "it-IT": "Il luogo perfetto per riposarsi"
     },
     "copyrights": {
-      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)"
+      "it-IT": "Veduta aerea di Isola Bella a Taormina, Sicilia, Italia (© DaLiu/iStock/Getty Images)"
     },
     "descs": {
-      "de-DE": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann."
+      "it-IT": "Isola Bella a Taormina, Sicilia, sorprende al primo sguardo: un minuscolo gioiello immerso nel blu del Mar Ionio, collegato alla costa da una sottile lingua di sabbia che appare e scompare con le maree."
     },
     "quickFacts": {},
     "captions": {
-      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
+      "it-IT": ""
     },
     "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Leuchtturm+Westerheversand&form=hpcapt&filters=HpDate%3a%2220260626_2200%22"
+      "it-IT": "https://www.bing.com/search?q=Taormina+Sicilia&form=hpcapt"
     },
     "urlbases": {
-      "de-DE": "/th?id=OHR.Westerheversand_DE-DE9270031466"
+      "it-IT": "/th?id=OHR.IsolaBella_IT-IT9517303219"
     }
   },
   "SienaPalioToscana": {
@@ -2269,38 +2306,6 @@
       "pt-BR": "/th?id=OHR.PepJalapao_PT-BR2714528924"
     }
   },
-  "Parintins": {
-    "name": "Parintins",
-    "urlbase": "/th?id=OHR.Parintins_PT-BR8364769128",
-    "date": "20260626",
-    "dateFormatted": "June 26, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "A festa que veste memória"
-    },
-    "copyrights": {
-      "pt-BR": "Integrantes do Bloco Boi Faceiro na celebração do bumba-meu-boi, São Caetano de Odivelas, Pará (© Pedro Vilela/Stringer/Getty Images)"
-    },
-    "descs": {
-      "pt-BR": "O Festival de Parintins começa com a pergunta: vermelho ou azul? A partir de hoje, esta pequena ilha no Amazonas vira centro de um duelo que não admite neutralidade. O Bumbódromo, uma arena em forma de cabeça de boi, se divide: de um lado, Garantido, vermelho. Do outro, Caprichoso, azul. Por três noites, a cidade borra a linha entre espetáculo e torcida."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=Festival+Parintins&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.Parintins_PT-BR8364769128"
-    }
-  },
   "Tanabata2026": {
     "name": "Tanabata2026",
     "urlbase": "/th?id=OHR.Tanabata2026_JA-JP9678732410",
@@ -2333,38 +2338,6 @@
       "ja-JP": "/th?id=OHR.Tanabata2026_JA-JP9678732410"
     }
   },
-  "Ajisai2026": {
-    "name": "Ajisai2026",
-    "urlbase": "/th?id=OHR.Ajisai2026_JA-JP5953428145",
-    "date": "20260626",
-    "dateFormatted": "June 26, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "青い花に包まれた小道"
-    },
-    "copyrights": {
-      "ja-JP": "あじさいの花房, 岩手県 奥州市 (© nattya3714/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "あじさい（紫陽花）は、梅雨の時期を代表する美しい花です。今日の画像は、岩手県奥州市で撮影されたあじさい。例年、6 月下旬から 7 月下旬ごろにかけて見頃を迎えます。あじさいは、画像のような青以外にも様々な色がありますが、これは土壌の酸性度によって変化するものです。日本は、弱酸性の土壌が広く分布しているため、青や紫の花が多く見られます。梅雨の曇り空の下に広がる爽やかな青いあじさいが、ジメジメとした梅雨の空気を和らげてくれます。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "青い花に包まれた小道"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e3%81%82%e3%81%98%e3%81%95%e3%81%84%e3%81%ae%e8%8a%b1%e6%88%bf&form=hpcapt&filters=HpDate%3a%2220260626_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.Ajisai2026_JA-JP5953428145"
-    }
-  },
   "JogFalls2026": {
     "name": "JogFalls2026",
     "urlbase": "/th?id=OHR.JogFalls2026_EN-IN2533705121",
@@ -2395,6 +2368,171 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.JogFalls2026_EN-IN2533705121"
+    }
+  },
+  "ThamesSummer": {
+    "name": "ThamesSummer",
+    "urlbase": "/th?id=OHR.ThamesSummer_EN-US6783349970",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Current affairs. The River Thames, London, England",
+      "en-CA": "Current affairs. The River Thames, London, England",
+      "en-GB": "Current affairs. The River Thames, London",
+      "de-DE": "Die Stadt im Fluss der Zeit. Themse, London, England",
+      "fr-FR": "On se la coule douce. La Tamise, Londres, Angleterre",
+      "it-IT": "Attualità",
+      "es-ES": "Recorriendo la actualidad. Río Támesis, Londres, Inglaterra",
+      "ja-JP": "活気あふれる川沿いの街並み",
+      "zh-CN": "时事",
+      "en-IN": "Current affairs. The River Thames, London, England"
+    },
+    "copyrights": {
+      "en-US": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+      "en-CA": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+      "en-GB": "The River Thames, London (© Daniel Lange/Getty Images)",
+      "de-DE": "Themse, London, England (© Daniel Lange/Getty Images)",
+      "fr-FR": "La Tamise, Londres, Angleterre (© Daniel Lange/Getty Images)",
+      "it-IT": "Il fiume Tamigi, Londra, Inghilterra (© Daniel Lange/Getty Images)",
+      "es-ES": "El río Támesis, Londres, Inglaterra (© Daniel Lange/Getty Images)",
+      "ja-JP": "テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)",
+      "zh-CN": "泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)",
+      "en-IN": "The River Thames, London, England (© Daniel Lange/Getty Images)"
+    },
+    "descs": {
+      "en-US": "What does a parliament, a clock tower, and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "en-CA": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "en-GB": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "de-DE": "Entlang der Themse in London entfaltet sich eine der bekanntesten Stadtsilhouetten Europas, geprägt von Geschichte, Bewegung und einem stetigen Rhythmus. Boote gleiten ruhig vorbei, während Brücken das Bild strukturieren und verschiedene Viertel miteinander verbinden. Tagsüber spiegelt das Wasser graue Wolken und gläserne Fassaden, nachts tauchen Lichter alles in ein warmes Leuchten. Besucher und Einheimische folgen oft ihrem Verlauf, entdecken historische Gebäude und genießen die besondere Atmosphäre zwischen Tradition und Moderne. Big Ben und das London Eye prägen diese Ansicht.",
+      "fr-FR": "Qu'ont en commun un parlement, une tour horloge et une immense roue ? Tous se dressent le long de la Tamise, comme si Londres avait soigneusement disposé ses monuments emblématiques pour créer un décor spectaculaire.",
+      "es-ES": "En Londres, Reino Unido, el río Támesis reúne algunos de los iconos más reconocibles de Europa en una escena casi cinematográfica. A un lado, el Palacio de Westminster—reconstruido tras el incendio de 1834 en estilo neogótico—marca el pulso político del país, mientras la torre Elizabeth guarda en su interior la campana del Big Ben, cuyas horas resuenan desde 1859. Frente a él, la silueta moderna del London Eye aporta una mirada tranquila y elevada sobre la ciudad.",
+      "ja-JP": "イングランド南部を流れるテムズ川は、古代から交通・交易・軍事などの要所とされていました。全長は 346km で、川沿いにはローマ時代や中世の名残が見られます。ロンドン市街を流れる区間には、タワーブリッジや、世界遺産のウェストミンスター宮殿といった建築物が立ち並んでおり、ロンドンの観光名所として知られています。",
+      "en-IN": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+      "it-IT": "Attualità. Il fiume Tamigi, Londra, Inghilterra. Sul Tamigi, a Londra, le icone sembrano disposte come su un palcoscenico, dove storia e architettura dialogano con sorprendente armonia.",
+      "zh-CN": "时事. 泰晤士河, 伦敦, 英格兰. 议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。"
+    },
+    "quickFacts": {
+      "zh-CN": "泰晤士河防洪闸于1984年建成，是世界上规模最大的可移动防洪设施之一，用于保护伦敦免受北海风暴潮引发的洪水威胁。"
+    },
+    "captions": {
+      "en-US": "The River Thames, London, England",
+      "en-CA": "The River Thames, London, England"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260626_0700%22",
+      "en-CA": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260626_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ThamesSummer_EN-US6783349970",
+      "en-CA": "/th?id=OHR.ThamesSummer_EN-CA4092680642"
+    }
+  },
+  "Westerheversand": {
+    "name": "Westerheversand",
+    "urlbase": "/th?id=OHR.Westerheversand_DE-DE9270031466",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Rot‑weiß am Horizont. Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
+    },
+    "copyrights": {
+      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Leuchtturm+Westerheversand&form=hpcapt&filters=HpDate%3a%2220260626_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.Westerheversand_DE-DE9270031466"
+    }
+  },
+  "Parintins": {
+    "name": "Parintins",
+    "urlbase": "/th?id=OHR.Parintins_PT-BR8364769128",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "A festa que veste memória"
+    },
+    "copyrights": {
+      "pt-BR": "Integrantes do Bloco Boi Faceiro na celebração do bumba-meu-boi, São Caetano de Odivelas, Pará (© Pedro Vilela/Stringer/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "O Festival de Parintins começa com a pergunta: vermelho ou azul? A partir de hoje, esta pequena ilha no Amazonas vira centro de um duelo que não admite neutralidade. O Bumbódromo, uma arena em forma de cabeça de boi, se divide: de um lado, Garantido, vermelho. Do outro, Caprichoso, azul. Por três noites, a cidade borra a linha entre espetáculo e torcida."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Festival+Parintins&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Parintins_PT-BR8364769128"
+    }
+  },
+  "Ajisai2026": {
+    "name": "Ajisai2026",
+    "urlbase": "/th?id=OHR.Ajisai2026_JA-JP5953428145",
+    "date": "20260626",
+    "dateFormatted": "June 26, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "青い花に包まれた小道"
+    },
+    "copyrights": {
+      "ja-JP": "あじさいの花房, 岩手県 奥州市 (© nattya3714/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "あじさい（紫陽花）は、梅雨の時期を代表する美しい花です。今日の画像は、岩手県奥州市で撮影されたあじさい。例年、6 月下旬から 7 月下旬ごろにかけて見頃を迎えます。あじさいは、画像のような青以外にも様々な色がありますが、これは土壌の酸性度によって変化するものです。日本は、弱酸性の土壌が広く分布しているため、青や紫の花が多く見られます。梅雨の曇り空の下に広がる爽やかな青いあじさいが、ジメジメとした梅雨の空気を和らげてくれます。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "青い花に包まれた小道"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e3%81%82%e3%81%98%e3%81%95%e3%81%84%e3%81%ae%e8%8a%b1%e6%88%bf&form=hpcapt&filters=HpDate%3a%2220260626_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Ajisai2026_JA-JP5953428145"
     }
   },
   "GrandPlace": {
