@@ -1,4 +1,126 @@
 {
+  "AurayBrittany": {
+    "name": "AurayBrittany",
+    "urlbase": "/th?id=OHR.AurayBrittany_EN-US7890619884",
+    "date": "20260711",
+    "dateFormatted": "July 11, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where Brittany meets the tide. Port de Saint-Goustan, Auray, Brittany, France",
+      "en-GB": "Just across the channel: Port de Saint-Goustan. Port de Saint-Goustan, Auray, Brittany, France",
+      "de-DE": "Wo die Bretagne auf die Gezeiten trifft. Hafen von Saint-Goustan, Auray, Bretagne, Frankreich",
+      "fr-FR": "Niché au creux du Loc’h. Port de Saint-Goustan, Auray, Bretagne",
+      "es-ES": "Donde Bretaña se encuentra con la marea. Puerto de Saint-Goustan, Auray, Bretaña, Francia",
+      "pt-BR": "A cidade que ancorou no tempo",
+      "ja-JP": "港に停泊する観光船",
+      "zh-CN": "布列塔尼的潮汐之约",
+      "en-IN": "Where Brittany meets the tide. Port de Saint-Goustan, Auray, Brittany, France"
+    },
+    "copyrights": {
+      "en-US": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+      "en-GB": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+      "de-DE": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich (© Rolf E. Staerk/Shutterstock)",
+      "fr-FR": "Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock)",
+      "es-ES": "Puerto de Saint-Goustan, Auray, Bretaña, Francia (© Rolf E. Staerk/Shutterstock)",
+      "pt-BR": "Porto de Saint-Goustan, Auray, Bretanha, França (© Rolf E. Staerk/Shutterstock)",
+      "ja-JP": "サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)",
+      "zh-CN": "圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)",
+      "en-IN": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "In France, Port de Saint-Goustan sits just below Auray's upper town, where a small inlet meets the Gulf of Morbihan estuary. The harbor lies at the confluence of the Auray and Loc'h rivers, creating its sheltered, storybook setting. In the 13th century, the Dukes of Brittany built a bridge, a port, and a castle here; the fortress has vanished, but cobbled quays, narrow lanes, and timber-framed houses still line the water. From Place de la République, Rue du Château passes art studios and galleries down to the waterfront; ramps along the Loc'h, built on old fortifications, open views across the port. Cross the four-arched stone bridge to Place Saint-Sauveur, then climb toward Saint-Gildas Church, where the town rises above the harbor. The quay also marks a transatlantic moment: Benjamin Franklin arrived here in 1776, and a dock now bears his name. Today, cafés and small boats fill the scene, while nearby Auray hosts a well-known weekly market and lively summer events.",
+      "en-GB": "In France, Port de Saint-Goustan lies just below Auray’s upper town, where a narrow inlet meets the estuary leading into the Gulf of Morbihan. The harbour sits along the Auray River In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has vanished, but cobbled quays and timber-framed houses still line the waterfront.",
+      "de-DE": "Der Hafen von Saint-Goustan in Auray in der Bretagne in Frankreich gehört zu den stimmungsvollsten Orten der Region. Er liegt an einer geschützten Mündung, wo der Loc’h und der Auray zusammen eine riaartige Flussmündung bilden, die sich in Richtung Golf von Morbihan öffnet. Bereits im Mittelalter entstand hier ein wichtiger Handelsplatz, der unter den Herzögen der Bretagne ausgebaut wurde und bis heute seinen historischen Charakter bewahrt hat.",
+      "fr-FR": "Au sud d’Auray, le port de Saint-Goustan s’étend là où le Loc’h rejoint la rivière d’Auray avant de s’ouvrir vers le golfe du Morbihan. Ce havre pittoresque, protégé par les méandres de l’estuaire, conserve l’atmosphère d’un ancien port breton. Dès le XIIIᵉ siècle, les ducs de Bretagne y firent bâtir un pont, un port et une forteresse aujourd’hui disparue, mais les quais pavés, les ruelles étroites et les maisons à pans de bois témoignent encore de ce passé.",
+      "es-ES": "En el Puerto de Saint-Goustan, en Auray, Francia, el tiempo parece detenerse donde un pequeño estuario se abre al golfo de Morbihan. Sus muelles empedrados, casas con entramado de madera y callejuelas estrechas evocan rincones históricos del norte de España como Hondarribia o Combarro, donde el pasado sigue vivo junto al agua.",
+      "ja-JP": "ここは、サン＝グスタン港。フランスのブルターニュ地域圏にある港町オーレーの港です。その歴史は 12 世紀にまでさかのぼり、当時のブルターニュ公が橋や港、さらに城塞を築いたことに始まります。1776 年には、米国建国の父ともいわれるベンジャミン・フランクリンが訪れており、埠頭の一つは、「フランクリン・ドック」と呼ばれるようになりました。港は 19 世紀まで船の入港が可能でしたが、現在ではツアーの寄港地やマリーナとして利用されています。",
+      "en-IN": "In France, Port de Saint-Goustan lies just below Auray's upper town, where a narrow tidal inlet along the Auray River opens towards the Gulf of Morbihan. The harbour sits along the Auray River, also known locally as the Loc’h, creating its sheltered, storybook setting. In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has long since disappeared, but cobbled quays, winding lanes and timber-framed houses still line the waterfront.",
+      "pt-BR": "Na imagem, o Porto de Saint‑Goustan parece decidido a envelhecer bem. Ele ocupa uma curva protegida da cidade francesa de Auray, onde o estuário encontra os rios Auray e Loc’h. Não por acaso, duques da região da Bretanha ergueram ali, no século XIII, um castelo e toda uma estrutura portuária para controlar a região. O castelo virou memória: o resto, charme. Casas em enxaimel, fachadas de pedra e ruas estreitas acompanham a descida da Place de la République pela Rue du Château, num percurso que termina inevitavelmente à beira d’água. O que antes servia à defesa hoje abriga ateliês, galerias e cafés, enquanto antigas muralhas oferecem alguns dos melhores mirantes do porto.",
+      "zh-CN": "在法国，圣古斯坦港位于奥雷上城区下方，一条小海湾在此汇入莫尔比昂湾。港口坐落于奥雷河与洛克河的交汇处，营造出如诗如画的静谧氛围。13世纪，布列塔尼公爵在此修建了一座桥梁、一座港口和一座城堡；如今城堡已不复存在，但鹅卵石铺就的码头、狭窄的巷道和木结构房屋依然沿水而建。从共和国广场出发，沿着城堡街一路向下，途经艺术工作室和画廊，最终抵达海滨；洛克河畔的坡道建于古老的防御工事之上，可以饱览港口的景色。穿过四拱石桥，即可到达圣索沃尔广场，然后拾级而上，前往圣吉尔达教堂，小镇从那里开始逐渐升高，俯瞰着港口。码头也见证了一段跨大西洋的历史：本杰明·富兰克林于1776年抵达此地，如今一个码头以他的名字命名。如今，咖啡馆和小船点缀着这片区域，而附近的奥雷镇则拥有远近闻名的每周集市和热闹的夏季活动。"
+    },
+    "quickFacts": {
+      "zh-CN": "该港口水源流向的莫尔比汉湾拥有欧洲最强劲的潮汐流，在其狭窄的湾口处，水流速度可高达每秒4米。"
+    },
+    "captions": {
+      "en-US": "Port de Saint-Goustan, Auray, Brittany, France",
+      "en-GB": "Port de Saint-Goustan, Auray, Brittany, France",
+      "de-DE": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich",
+      "fr-FR": "Port de Saint-Goustan, Auray, Bretagne",
+      "es-ES": "Puerto de Saint-Goustan, Auray, Bretaña, Francia",
+      "pt-BR": "",
+      "ja-JP": "港に停泊する観光船",
+      "zh-CN": "",
+      "en-IN": "Port de Saint-Goustan, Auray, Brittany, France"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260711_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Hafen+von+Saint-Goustan&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Auray+Saint-Goustan+Francia&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Auray+Bretanha+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%ef%bc%9d%e3%82%b0%e3%82%b9%e3%82%bf%e3%83%b3%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220260710_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e6%ac%a7%e8%b5%96%e5%9c%a3%e5%8f%a4%e6%96%af%e5%bd%93%e6%b8%af&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AurayBrittany_EN-US7890619884",
+      "en-GB": "/th?id=OHR.AurayBrittany_EN-GB4284557242",
+      "de-DE": "/th?id=OHR.AurayBrittany_DE-DE3196003934",
+      "fr-FR": "/th?id=OHR.AurayBrittany_FR-FR2151221761",
+      "es-ES": "/th?id=OHR.AurayBrittany_ES-ES0686964132",
+      "pt-BR": "/th?id=OHR.AurayBrittany_PT-BR2396626414",
+      "ja-JP": "/th?id=OHR.AurayBrittany_JA-JP5965695214",
+      "zh-CN": "/th?id=OHR.AurayBrittany_ZH-CN5549157888",
+      "en-IN": "/th?id=OHR.AurayBrittany_EN-IN7972438884"
+    }
+  },
   "VictoriaBeach": {
     "name": "VictoriaBeach",
     "urlbase": "/th?id=OHR.VictoriaBeach_EN-US7607379912",
@@ -779,7 +901,7 @@
       "de-DE": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
       "fr-FR": "Au cœur de la Provence, sur le plateau de Valensole, l’été s’accorde aux tons violets. Situé dans le Parc naturel régional du Verdon, entre les vallées de la Durance et de l’Asse, ce vaste plateau offre, de mi-juin à début juillet, l’un des paysages les plus emblématiques de Provence. Lorsque la lavande et le lavandin fleurissent, l’air se charge de leurs parfums caractéristiques.",
       "es-ES": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
-      "ja-JP": "一面に広がる紫色のラベンダー畑. ヴァランソール高原, フランス. ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
+      "ja-JP": "ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
       "en-IN": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
       "it-IT": "Sull’altopiano di Valensole, nel sud-est della Francia, l’estate si accende in distese ondulate di viola e blu che sembrano dipinte a mano. Tra metà giugno e inizio luglio, nel cuore del Parco del Verdon, lavanda e lavandin trasformano il paesaggio in un mosaico profumato, attraversato dal ronzio continuo delle api. L’atmosfera, intensa e mediterranea, richiama scenari familiari anche in Italia: basti pensare ai campi di lavanda della Val d’Orcia o alle colline piemontesi, dove la stessa fioritura regala emozioni simili, seppur su scala più raccolta.",
       "pt-BR": "Entre junho e julho no sul da França, até o vento fica perfumado. No Planalto de Valensole, na região de Provença, fileiras de lavanda e lavandim — um híbrido mais resistente e produtivo — pintam a paisagem de um violeta quase hipnótico. Por trás da estética, há agricultura em plena operação.",
@@ -1539,14 +1661,81 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
+      "en-CA": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
+      "pt-BR": "Afiado na sobrevivência",
+      "en-GB": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
+      "de-DE": "Stille Riesen der Wüste. Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
+      "fr-FR": "Un piquant sans égal. Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
+      "it-IT": "Pieni di spine, ma belli!",
+      "ja-JP": "夕日を浴びるベンケイチュウ",
+      "zh-CN": "看起来很精神",
+      "en-IN": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States"
+    },
+    "copyrights": {
+      "en-US": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "en-CA": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+      "pt-BR": "Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos (© Eric Mischke/Getty Images)",
+      "en-GB": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+      "de-DE": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "fr-FR": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
+      "it-IT": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "ja-JP": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)",
+      "zh-CN": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)",
+      "en-IN": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)"
+    },
+    "descs": {
+      "en-US": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "en-CA": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "en-GB": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "de-DE": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
+      "fr-FR": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
+      "ja-JP": "ベンケイチュウは、米国とメキシコにかけて広がるソノラ砂漠固有のサボテンです。高さは 12m 以上、重さは最大で約 6 トンに達し、世界最大級のサボテンといわれています。過酷な乾燥環境に適応した植物で、根は約 30m にわたって浅く広く伸び、わずかな雨水も効率よく吸収するほか、ひだ状の幹に水分を蓄え、雨の後には膨らみ、干ばつ時には縮むという特徴もあります。寿命は長く、最大で 200 年ほど生きることもあります。",
+      "en-IN": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "it-IT": "Nel deserto di Sonora, il saguaro trasforma l’idea di immobilità in una straordinaria strategia di vita. Con le sue silhouette ramificate rivolte al cielo, questo cactus iconico domina paesaggi tra Arizona, California e Messico, dove cresce esclusivamente. Può superare i dodici metri d’altezza e vivere oltre centocinquanta anni, ma i primi passi sono quasi impercettibili: nei primi anni aumenta di pochi centimetri e attende fino a settanta anni prima di sviluppare i suoi caratteristici «bracci».",
+      "pt-BR": "Se o deserto fosse um teste, o saguaro passaria com louvor. Fotografado aqui no Arizona, Estados Unidos, este cacto já entendeu que crescer devagar, captar e armazenar água com eficiência é uma receita infalível para sobreviver à seca. E o deserto agradece: pica‑paus escavam nele cavidades que depois viram abrigo para outras espécies, suas flores alimentam polinizadores e, pouco a pouco, ao seu redor surge uma rede de vida que faz o deserto florescer.",
+      "zh-CN": "看起来很精神. 温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国. 在索诺拉沙漠，作为生存大师的巨人柱仙人掌赋予了“坚守”（stick around）一词新的含义。这种巨型植物伸展着躯干与枝臂，向四面八方昂然挺立，已然成为美国西南部的标志性象征。"
+    },
+    "quickFacts": {
+      "zh-CN": "巨柱仙人掌洁白的花朵是亚利桑那州的州花。它们在晚春短暂盛开，能够吸引大量蜜蜂采蜜，并孕育出广受欢迎的沙漠蜂蜜。"
+    },
+    "captions": {
+      "en-US": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
+      "en-CA": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=cactos+saguaro&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SaguaroSun_EN-US8982109543",
+      "en-CA": "/th?id=OHR.SaguaroSun_EN-CA5131430817",
+      "pt-BR": "/th?id=OHR.SaguaroSun_PT-BR3626457853"
+    }
+  },
+  "KatahdinWWNM": {
+    "name": "KatahdinWWNM",
+    "urlbase": "/th?id=OHR.KatahdinWWNM_EN-GB4389807993",
+    "date": "20260711",
+    "dateFormatted": "July 11, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1562,201 +1751,6 @@
         "code": "it-IT",
         "name": "IT",
         "flag": "it"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-US": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
-      "en-GB": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
-      "en-CA": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
-      "de-DE": "Stille Riesen der Wüste. Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
-      "fr-FR": "Un piquant sans égal. Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
-      "it-IT": "Pieni di spine, ma belli!",
-      "pt-BR": "Afiado na sobrevivência",
-      "ja-JP": "夕日を浴びるベンケイチュウ",
-      "zh-CN": "看起来很精神",
-      "en-IN": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States"
-    },
-    "copyrights": {
-      "en-US": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
-      "en-GB": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
-      "en-CA": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
-      "de-DE": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
-      "fr-FR": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
-      "it-IT": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
-      "pt-BR": "Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos (© Eric Mischke/Getty Images)",
-      "ja-JP": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)",
-      "zh-CN": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)",
-      "en-IN": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)"
-    },
-    "descs": {
-      "en-US": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "en-GB": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "en-CA": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "de-DE": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
-      "fr-FR": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
-      "ja-JP": "ベンケイチュウは、米国とメキシコにかけて広がるソノラ砂漠固有のサボテンです。高さは 12m 以上、重さは最大で約 6 トンに達し、世界最大級のサボテンといわれています。過酷な乾燥環境に適応した植物で、根は約 30m にわたって浅く広く伸び、わずかな雨水も効率よく吸収するほか、ひだ状の幹に水分を蓄え、雨の後には膨らみ、干ばつ時には縮むという特徴もあります。寿命は長く、最大で 200 年ほど生きることもあります。",
-      "en-IN": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "it-IT": "Nel deserto di Sonora, il saguaro trasforma l’idea di immobilità in una straordinaria strategia di vita. Con le sue silhouette ramificate rivolte al cielo, questo cactus iconico domina paesaggi tra Arizona, California e Messico, dove cresce esclusivamente. Può superare i dodici metri d’altezza e vivere oltre centocinquanta anni, ma i primi passi sono quasi impercettibili: nei primi anni aumenta di pochi centimetri e attende fino a settanta anni prima di sviluppare i suoi caratteristici «bracci».",
-      "pt-BR": "Se o deserto fosse um teste, o saguaro passaria com louvor. Fotografado aqui no Arizona, Estados Unidos, este cacto já entendeu que crescer devagar, captar e armazenar água com eficiência é uma receita infalível para sobreviver à seca. E o deserto agradece: pica‑paus escavam nele cavidades que depois viram abrigo para outras espécies, suas flores alimentam polinizadores e, pouco a pouco, ao seu redor surge uma rede de vida que faz o deserto florescer.",
-      "zh-CN": "看起来很精神. 温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国. 在索诺拉沙漠，作为生存大师的巨人柱仙人掌赋予了“坚守”（stick around）一词新的含义。这种巨型植物伸展着躯干与枝臂，向四面八方昂然挺立，已然成为美国西南部的标志性象征。"
-    },
-    "quickFacts": {
-      "zh-CN": "巨柱仙人掌洁白的花朵是亚利桑那州的州花。它们在晚春短暂盛开，能够吸引大量蜜蜂采蜜，并孕育出广受欢迎的沙漠蜂蜜。"
-    },
-    "captions": {
-      "en-US": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
-      "en-GB": "Saguaro cacti, Windgate Pass, Arizona, United States",
-      "en-CA": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
-      "de-DE": "Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
-      "fr-FR": "Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
-      "it-IT": "",
-      "pt-BR": "",
-      "ja-JP": "夕日を浴びるベンケイチュウ",
-      "zh-CN": "",
-      "en-IN": "Saguaro cacti, Windgate Pass, Arizona, United States"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Saguaro-Kaktus&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=cactus+Saguaro&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Il+saguaro&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=cactos+saguaro&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=Windgate+Pass&form=hpcapt&filters=HpDate%3a%2220260627_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b7%a8%e4%ba%ba%e6%9f%b1%e4%bb%99%e4%ba%ba%e6%8e%8c&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.SaguaroSun_EN-US8982109543",
-      "en-GB": "/th?id=OHR.SaguaroSun_EN-GB1588043989",
-      "en-CA": "/th?id=OHR.SaguaroSun_EN-CA5131430817",
-      "de-DE": "/th?id=OHR.SaguaroSun_DE-DE9702644922",
-      "fr-FR": "/th?id=OHR.SaguaroSun_FR-FR5935266298",
-      "it-IT": "/th?id=OHR.SaguaroSun_IT-IT8055685927",
-      "pt-BR": "/th?id=OHR.SaguaroSun_PT-BR3626457853",
-      "ja-JP": "/th?id=OHR.SaguaroSun_JA-JP5856249761",
-      "zh-CN": "/th?id=OHR.SaguaroSun_ZH-CN5820504732",
-      "en-IN": "/th?id=OHR.SaguaroSun_EN-IN9141839272"
-    }
-  },
-  "BoneyardBeach": {
-    "name": "BoneyardBeach",
-    "urlbase": "/th?id=OHR.BoneyardBeach_EN-US8247496696",
-    "date": "20260627",
-    "dateFormatted": "June 27, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "en-US": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina",
-      "pt-BR": "A floresta que o mar redesenhou",
-      "ja-JP": "夕焼けに染まる水辺と枯れ木",
-      "en-GB": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
-      "fr-FR": "Perdre pied. Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
-      "it-IT": "Gli alberi che hanno perso terreno",
-      "es-ES": "Los árboles que perdieron terreno. Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
-      "zh-CN": "逐渐失去立足之地的树木",
-      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
-      "en-CA": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina"
-    },
-    "copyrights": {
-      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
-      "pt-BR": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
-      "ja-JP": "ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)",
-      "en-GB": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
-      "fr-FR": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
-      "it-IT": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
-      "es-ES": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
-      "zh-CN": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
-      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
-      "en-CA": "© Frances/Adobe Stock"
-    },
-    "descs": {
-      "en-US": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
-      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
-      "en-GB": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
-      "fr-FR": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
-      "es-ES": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
-      "en-IN": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
-      "it-IT": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
-      "pt-BR": "A floresta que o mar redesenhou. Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos. A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
-      "zh-CN": "逐渐失去立足之地的树木. 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国. 在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。",
-      "en-CA": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas."
-    },
-    "quickFacts": {
-      "zh-CN": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
-    },
-    "captions": {
-      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina",
-      "pt-BR": "",
-      "ja-JP": "夕焼けに染まる水辺と枯れ木"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260627_0700%22",
-      "pt-BR": "https://www.bing.com/search?q=Carolina+do+Sul&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e5%b3%b6%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260702_1500%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BoneyardBeach_EN-US8247496696",
-      "pt-BR": "/th?id=OHR.BoneyardBeach_PT-BR8811510135",
-      "ja-JP": "/th?id=OHR.BoneyardBeach_JA-JP3339035555"
-    }
-  },
-  "AurayBrittany": {
-    "name": "AurayBrittany",
-    "urlbase": "/th?id=OHR.AurayBrittany_EN-GB4284557242",
-    "date": "20260710",
-    "dateFormatted": "July 10, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
       },
       {
         "code": "es-ES",
@@ -1780,67 +1774,76 @@
       }
     ],
     "titles": {
-      "en-GB": "Just across the channel: Port de Saint-Goustan. Port de Saint-Goustan, Auray, Brittany, France",
-      "de-DE": "Wo die Bretagne auf die Gezeiten trifft. Hafen von Saint-Goustan, Auray, Bretagne, Frankreich",
-      "fr-FR": "Niché au creux du Loc’h. Port de Saint-Goustan, Auray, Bretagne",
-      "es-ES": "Donde Bretaña se encuentra con la marea. Puerto de Saint-Goustan, Auray, Bretaña, Francia",
-      "ja-JP": "港に停泊する観光船",
-      "zh-CN": "布列塔尼的潮汐之约",
-      "en-IN": "Where Brittany meets the tide. Port de Saint-Goustan, Auray, Brittany, France",
-      "en-US": "Where Brittany meets the tide. Port de Saint-Goustan, Auray, Brittany, France",
-      "pt-BR": "A cidade que ancorou no tempo. Porto de Saint-Goustan, Auray, Bretanha, França"
+      "en-GB": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine, United States",
+      "de-DE": "Maine von seiner wilden Seite. Katahdin Woods and Waters National Monument in Maine, USA",
+      "fr-FR": "Le côté sauvage du Maine. Monument national de Katahdin, Maine, États-Unis",
+      "it-IT": "Il suono del Maine",
+      "es-ES": "El lado tranquilo de Maine. Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.",
+      "ja-JP": "静かな池に映る鬱蒼とした森",
+      "zh-CN": "缅因州的狂野一面",
+      "en-IN": "Where the forest swallows sound. Katahdin Woods and Waters National Monument, Maine, United States",
+      "en-US": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine",
+      "en-CA": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine, United States",
+      "pt-BR": "Zero barras, mil estrelas. Monumento Nacional Katahdin Woods and Waters, Maine, Estados Unidos"
     },
     "copyrights": {
-      "en-GB": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
-      "de-DE": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich (© Rolf E. Staerk/Shutterstock)",
-      "fr-FR": "Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock)",
-      "es-ES": "Puerto de Saint-Goustan, Auray, Bretaña, Francia (© Rolf E. Staerk/Shutterstock)",
-      "ja-JP": "サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)",
-      "zh-CN": "圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)",
-      "en-IN": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
-      "en-US": "© Rolf E. Staerk/Shutterstock",
-      "pt-BR": "© Rolf E. Staerk/Shutterstock"
+      "en-GB": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+      "de-DE": "Katahdin Woods and Waters National Monument in Maine, USA (© Cavan Images/Offset/Shutterstock)",
+      "fr-FR": "Monument national des bois et des eaux de Katahdin, Maine, États-Unis (© Cavan Images/Offset/Shutterstock)",
+      "it-IT": "Il Monumento Nazionale Katahdin Woods and Waters, Maine, USA (© Cavan Images/Offset/Shutterstock)",
+      "es-ES": "Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.  (© Cavan Images/Offset/Shutterstock)",
+      "ja-JP": "カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州 (© Cavan Images/Offset/Shutterstock)",
+      "zh-CN": "卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)",
+      "en-IN": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+      "en-US": "© Cavan Images/Offset/Shutterstock",
+      "en-CA": "© Cavan Images/Offset/Shutterstock",
+      "pt-BR": "© Cavan Images/Offset/Shutterstock"
     },
     "descs": {
-      "en-GB": "In France, Port de Saint-Goustan lies just below Auray’s upper town, where a narrow inlet meets the estuary leading into the Gulf of Morbihan. The harbour sits along the Auray River In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has vanished, but cobbled quays and timber-framed houses still line the waterfront.",
-      "de-DE": "Der Hafen von Saint-Goustan in Auray in der Bretagne in Frankreich gehört zu den stimmungsvollsten Orten der Region. Er liegt an einer geschützten Mündung, wo der Loc’h und der Auray zusammen eine riaartige Flussmündung bilden, die sich in Richtung Golf von Morbihan öffnet. Bereits im Mittelalter entstand hier ein wichtiger Handelsplatz, der unter den Herzögen der Bretagne ausgebaut wurde und bis heute seinen historischen Charakter bewahrt hat.",
-      "fr-FR": "Au sud d’Auray, le port de Saint-Goustan s’étend là où le Loc’h rejoint la rivière d’Auray avant de s’ouvrir vers le golfe du Morbihan. Ce havre pittoresque, protégé par les méandres de l’estuaire, conserve l’atmosphère d’un ancien port breton. Dès le XIIIᵉ siècle, les ducs de Bretagne y firent bâtir un pont, un port et une forteresse aujourd’hui disparue, mais les quais pavés, les ruelles étroites et les maisons à pans de bois témoignent encore de ce passé.",
-      "es-ES": "En el Puerto de Saint-Goustan, en Auray, Francia, el tiempo parece detenerse donde un pequeño estuario se abre al golfo de Morbihan. Sus muelles empedrados, casas con entramado de madera y callejuelas estrechas evocan rincones históricos del norte de España como Hondarribia o Combarro, donde el pasado sigue vivo junto al agua.",
-      "ja-JP": "ここは、サン＝グスタン港。フランスのブルターニュ地域圏にある港町オーレーの港です。その歴史は 12 世紀にまでさかのぼり、当時のブルターニュ公が橋や港、さらに城塞を築いたことに始まります。1776 年には、米国建国の父ともいわれるベンジャミン・フランクリンが訪れており、埠頭の一つは、「フランクリン・ドック」と呼ばれるようになりました。港は 19 世紀まで船の入港が可能でしたが、現在ではツアーの寄港地やマリーナとして利用されています。",
-      "en-IN": "In France, Port de Saint-Goustan lies just below Auray's upper town, where a narrow tidal inlet along the Auray River opens towards the Gulf of Morbihan. The harbour sits along the Auray River, also known locally as the Loc’h, creating its sheltered, storybook setting. In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has long since disappeared, but cobbled quays, winding lanes and timber-framed houses still line the waterfront.",
-      "en-US": "In France, Port de Saint-Goustan sits just below Auray's upper town, where a small inlet meets the Gulf of Morbihan estuary. The harbor lies at the confluence of the Auray and Loc'h rivers, creating its sheltered, storybook setting. In the 13th century, the Dukes of Brittany built a bridge, a port, and a castle here; the fortress has vanished, but cobbled quays, narrow lanes, and timber-framed houses still line the water. From Place de la République, Rue du Château passes art studios and galleries down to the waterfront; ramps along the Loc'h, built on old fortifications, open views across the port. Cross the four-arched stone bridge to Place Saint-Sauveur, then climb toward Saint-Gildas Church, where the town rises above the harbor. The quay also marks a transatlantic moment: Benjamin Franklin arrived here in 1776, and a dock now bears his name. Today, cafés and small boats fill the scene, while nearby Auray hosts a well-known weekly market and lively summer events.",
-      "pt-BR": "Na imagem, o Porto de Saint‑Goustan parece decidido a envelhecer bem. Ele ocupa uma curva protegida da cidade francesa de Auray, onde o estuário encontra os rios Auray e Loc’h. Não por acaso, duques da região da Bretanha ergueram ali, no século XIII, um castelo e toda uma estrutura portuária para controlar a região. O castelo virou memória: o resto, charme. Casas em enxaimel, fachadas de pedra e ruas estreitas acompanham a descida da Place de la République pela Rue du Château, num percurso que termina inevitavelmente à beira d’água. O que antes servia à defesa hoje abriga ateliês, galerias e cafés, enquanto antigas muralhas oferecem alguns dos melhores mirantes do porto.",
-      "zh-CN": "在法国，圣古斯坦港位于奥雷上城区下方，一条小海湾在此汇入莫尔比昂湾。港口坐落于奥雷河与洛克河的交汇处，营造出如诗如画的静谧氛围。13世纪，布列塔尼公爵在此修建了一座桥梁、一座港口和一座城堡；如今城堡已不复存在，但鹅卵石铺就的码头、狭窄的巷道和木结构房屋依然沿水而建。从共和国广场出发，沿着城堡街一路向下，途经艺术工作室和画廊，最终抵达海滨；洛克河畔的坡道建于古老的防御工事之上，可以饱览港口的景色。穿过四拱石桥，即可到达圣索沃尔广场，然后拾级而上，前往圣吉尔达教堂，小镇从那里开始逐渐升高，俯瞰着港口。码头也见证了一段跨大西洋的历史：本杰明·富兰克林于1776年抵达此地，如今一个码头以他的名字命名。如今，咖啡馆和小船点缀着这片区域，而附近的奥雷镇则拥有远近闻名的每周集市和热闹的夏季活动。"
+      "en-GB": "If you're looking for Maine in the United States at its wildest, Katahdin Woods and Waters National Monument is hard to beat. Covering around 35,400 hectares of the North Woods, it is a landscape of quiet ponds, winding rivers and dense forests where nature still dominates.",
+      "de-DE": "Das Katahdin Woods and Waters National Monument im US-Bundesstaat Maine wurde 2016 ausgewiesen und zählt mit rund 35.000 Hektar zu den jüngeren Schutzgebieten des Landes. Weite Wälder, klare Flüsse und zahlreiche Teiche prägen die Landschaft, während sich im Hintergrund der markante Mount Katahdin westlich angrenzend außerhalb des Gebiets im Baxter State Park erhebt und dem Gebiet eine eindrucksvolle Präsenz verleiht.",
+      "fr-FR": "Pour découvrir le Maine (États-Unis) dans ce qu’il a de plus sauvage, il faut venir ici. Le monument national des Bois et des Eaux de Katahdin couvre près de 35 000 hectares de forêts profondes, où étangs silencieux et pistes isolées composent un paysage brut et préservé.",
+      "es-ES": "En el Monumento Nacional Katahdin Woods and Waters, en Maine, Estados Unidos, la naturaleza se expresa sin filtros entre bosques espesos y lagos que reflejan el cielo con una calma casi hipnótica. Este espacio remoto, protegido desde 2016, recuerda en cierta forma a parajes remotos de los Pirineos o rincones aislados de la Cordillera Cantábrica, donde el silencio también forma parte del entorno.",
+      "ja-JP": "静かな池に映る鬱蒼とした森. カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州. ここは、カタディン・ウッズ・アンド・ウォーターズ国定記念物。2016 年に設立された保護区で、約 350km² の面積を誇ります。米国メイン州ペノブスコット郡北部の山地と森林地帯に広がっており、ヘラジカやクロクマ、カナダオオヤマネコなどのほか、多様な魚類が生息しています。また、人里から遠く光害が少ないことから、星空観察に適しているとして、国際ダークスカイ・サンクチュアリに指定されています。",
+      "en-IN": "If you're looking for Maine in the United States at its most untamed, this is it. Katahdin Woods and Waters National Monument spans more than 350 square kilometres of rugged North Woods wilderness, where still ponds reflect the sky and dense forests seem to absorb every sound.",
+      "en-US": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across about 87,500 acres of the raw North Woods—where quiet ponds mirror the sky and dense forests seem to swallow sound.",
+      "en-CA": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across more than 350 square kilometres of the rugged North Woods, where quiet ponds mirror the sky and dense forests seem to swallow sound.",
+      "it-IT": "Nel Maine, Stati Uniti, il Monumento Nazionale Katahdin Woods and Waters mostra la natura nella sua forma più selvaggia: oltre 35.400 ettari di foreste fitte e specchi d’acqua silenziosi dove il paesaggio sembra inghiottire ogni suono.",
+      "pt-BR": "O Monumento Nacional Katahdin Woods and Waters, visto na imagem de hoje, mostra um lado dos Estados Unidos que raramente aparece nos cartões-postais. São mais de 35 mil hectares de florestas, lagoas e rios no estado do Maine, no extremo nordeste do país, uma região onde a mata engole estradas, sons e distrações com a mesma facilidade.",
+      "zh-CN": "缅因州的狂野一面. 卡塔丁森林和水域国家纪念地，缅因州，美国. 如果你想寻找缅因州最原始的自然风光，这里就是了。卡塔丁森林和水域国家纪念碑横跨约87,500英亩的北部原始森林——静谧的池塘倒映着天空，茂密的森林仿佛吞噬了所有声音。不要指望这里人潮涌动或生活便利。在这里，泥泞的道路颠簸不已，手机信号也很快就会消失。但这正是它的魅力所在。漫步在静谧的池塘边，或沿着佩诺布斯科特河东支流漂流，你会立刻感受到这片荒野的气息，仿佛置身其中，触手可及。"
     },
     "quickFacts": {
-      "zh-CN": "该港口水源流向的莫尔比汉湾拥有欧洲最强劲的潮汐流，在其狭窄的湾口处，水流速度可高达每秒4米。"
+      "zh-CN": "保护这片荒野的全部87,500英亩土地，是由小蜜蜂（Burt's Bees）化妆品公司的联合创始人罗克珊·昆比（Roxanne Quimby）私人出资购买，随后无偿捐赠给美国公众的。"
     },
     "captions": {
-      "en-GB": "Port de Saint-Goustan, Auray, Brittany, France",
-      "de-DE": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich",
-      "fr-FR": "Port de Saint-Goustan, Auray, Bretagne",
-      "es-ES": "Puerto de Saint-Goustan, Auray, Bretaña, Francia",
-      "ja-JP": "港に停泊する観光船",
+      "en-GB": "Katahdin Woods and Waters National Monument, Maine, United States",
+      "de-DE": "Katahdin Woods and Waters National Monument in Maine, USA",
+      "fr-FR": "Monument national de Katahdin, Maine, États-Unis",
+      "it-IT": "",
+      "es-ES": "Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.",
+      "ja-JP": "静かな池に映る鬱蒼とした森",
       "zh-CN": "",
-      "en-IN": "Port de Saint-Goustan, Auray, Brittany, France"
+      "en-IN": "Katahdin Woods and Waters National Monument, Maine, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Hafen+von+Saint-Goustan&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Auray+Saint-Goustan+Francia&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%ef%bc%9d%e3%82%b0%e3%82%b9%e3%82%bf%e3%83%b3%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220260710_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e6%ac%a7%e8%b5%96%e5%9c%a3%e5%8f%a4%e6%96%af%e5%bd%93%e6%b8%af&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260711_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument+Vereinigte+Staaten+Informationen&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Monument+des+bois+et+des+eaux+Katahdin&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Maine+USA&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Monumento+Nacional+Katahdin+Woods+and+Waters&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%bf%e3%83%87%e3%82%a3%e3%83%b3%e3%83%bb%e3%82%a6%e3%83%83%e3%82%ba%e3%83%bb%e3%82%a2%e3%83%b3%e3%83%89%e3%83%bb%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%ba%e5%9b%bd%e5%ae%9a%e8%a8%98%e5%bf%b5%e7%89%a9&form=hpcapt&filters=HpDate%3a%2220260711_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8d%a1%e5%a1%94%e4%b8%81%e6%a3%ae%e6%9e%97%e5%92%8c%e6%b0%b4%e5%9f%9f%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260711_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AurayBrittany_EN-GB4284557242",
-      "de-DE": "/th?id=OHR.AurayBrittany_DE-DE3196003934",
-      "fr-FR": "/th?id=OHR.AurayBrittany_FR-FR2151221761",
-      "es-ES": "/th?id=OHR.AurayBrittany_ES-ES0686964132",
-      "ja-JP": "/th?id=OHR.AurayBrittany_JA-JP5965695214",
-      "zh-CN": "/th?id=OHR.AurayBrittany_ZH-CN5549157888",
-      "en-IN": "/th?id=OHR.AurayBrittany_EN-IN7972438884"
+      "en-GB": "/th?id=OHR.KatahdinWWNM_EN-GB4389807993",
+      "de-DE": "/th?id=OHR.KatahdinWWNM_DE-DE4221964213",
+      "fr-FR": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139",
+      "it-IT": "/th?id=OHR.KatahdinWWNM_IT-IT7750657395",
+      "es-ES": "/th?id=OHR.KatahdinWWNM_ES-ES0827560100",
+      "ja-JP": "/th?id=OHR.KatahdinWWNM_JA-JP6177719073",
+      "zh-CN": "/th?id=OHR.KatahdinWWNM_ZH-CN5496444375",
+      "en-IN": "/th?id=OHR.KatahdinWWNM_EN-IN8091413320"
     }
   },
   "LlanthonyPriory2026": {
@@ -2018,6 +2021,75 @@
       "en-IN": "/th?id=OHR.KaysersbergVillage_EN-IN4147544931"
     }
   },
+  "BoneyardBeach": {
+    "name": "BoneyardBeach",
+    "urlbase": "/th?id=OHR.BoneyardBeach_EN-CA4145832513",
+    "date": "20260711",
+    "dateFormatted": "July 11, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "en-CA": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
+      "ja-JP": "夕焼けに染まる水辺と枯れ木",
+      "en-US": "The trees that lost ground. Driftwood on Boneyard Beach, Hunting Island, South Carolina",
+      "pt-BR": "A floresta que o mar redesenhou",
+      "en-GB": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States",
+      "fr-FR": "Perdre pied. Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
+      "it-IT": "Gli alberi che hanno perso terreno",
+      "es-ES": "Los árboles que perdieron terreno. Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
+      "zh-CN": "逐渐失去立足之地的树木",
+      "en-IN": "The trees that lost ground. Boneyard Beach, Hunting Island, South Carolina, United States"
+    },
+    "copyrights": {
+      "en-CA": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
+      "ja-JP": "ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)",
+      "en-US": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
+      "pt-BR": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
+      "en-GB": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+      "fr-FR": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
+      "it-IT": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
+      "es-ES": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
+      "zh-CN": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
+      "en-IN": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)"
+    },
+    "descs": {
+      "en-CA": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "ja-JP": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
+      "en-US": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
+      "en-GB": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "fr-FR": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
+      "es-ES": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
+      "en-IN": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+      "it-IT": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
+      "pt-BR": "A floresta que o mar redesenhou. Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos. A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
+      "zh-CN": "逐渐失去立足之地的树木. 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国. 在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。"
+    },
+    "quickFacts": {
+      "zh-CN": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
+    },
+    "captions": {
+      "en-CA": "Boneyard Beach, Hunting Island, South Carolina, United States",
+      "ja-JP": "夕焼けに染まる水辺と枯れ木"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260711_0400%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e5%b3%b6%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260702_1500%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.BoneyardBeach_EN-CA4145832513",
+      "ja-JP": "/th?id=OHR.BoneyardBeach_JA-JP3339035555"
+    }
+  },
   "SummerBC": {
     "name": "SummerBC",
     "urlbase": "/th?id=OHR.SummerBC_EN-CA3026184215",
@@ -2048,38 +2120,6 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.SummerBC_EN-CA3026184215"
-    }
-  },
-  "MulticulturalismDY": {
-    "name": "MulticulturalismDY",
-    "urlbase": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353",
-    "date": "20260627",
-    "dateFormatted": "June 27, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "Many voices, one country. Canadian Multiculturalism Day"
-    },
-    "copyrights": {
-      "en-CA": "Dramatic sky over Montreal, Quebec (© d3sign/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "Imagine standing beneath Montreal's dramatic sky on a balmy June evening. Around you, conversations switch between French, English, Mandarin, Tagalog and many other languages. A family shares a traditional dish, musicians perform songs from different cultures, and children get to hear folklore passed down through generations. That scene captures the spirit of Canadian Multiculturalism Day."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-CA": "Canadian Multiculturalism Day"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Multiculturalism+Day+Canada&form=hpcapt&filters=HpDate%3a%2220260627_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353"
     }
   },
   "NeckarVineyards": {
@@ -2242,38 +2282,6 @@
       "es-ES": "/th?id=OHR.GranCanaria_ES-ES7578658409"
     }
   },
-  "PrideChueca": {
-    "name": "PrideChueca",
-    "urlbase": "/th?id=OHR.PrideChueca_ES-ES4043385731",
-    "date": "20260627",
-    "dateFormatted": "June 27, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "¡Los colores del orgullo!. Día Internacional del Orgullo LGTBI+"
-    },
-    "copyrights": {
-      "es-ES": "Chueca, Madrid, España (© MarioMonte/Getty Images)"
-    },
-    "descs": {
-      "es-ES": "Chueca, en Madrid, se llena de color cada verano cuando la bandera del orgullo ondea entre balcones y calles, marcando el inicio de una de las celebraciones más vibrantes de Europa. Durante estos días, el barrio se transforma en un escenario abierto donde música, cultura y reivindicación conviven, reflejando el espíritu diverso y acogedor de la ciudad."
-    },
-    "quickFacts": {},
-    "captions": {
-      "es-ES": "Día Internacional del Orgullo LGTBI+"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Orgullo&form=hpcapt&filters=HpDate%3a%2220260627_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.PrideChueca_ES-ES4043385731"
-    }
-  },
   "PepJalapao": {
     "name": "PepJalapao",
     "urlbase": "/th?id=OHR.PepJalapao_PT-BR2714528924",
@@ -2368,6 +2376,70 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.JogFalls2026_EN-IN2533705121"
+    }
+  },
+  "MulticulturalismDY": {
+    "name": "MulticulturalismDY",
+    "urlbase": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353",
+    "date": "20260627",
+    "dateFormatted": "June 27, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Many voices, one country. Canadian Multiculturalism Day"
+    },
+    "copyrights": {
+      "en-CA": "Dramatic sky over Montreal, Quebec (© d3sign/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Imagine standing beneath Montreal's dramatic sky on a balmy June evening. Around you, conversations switch between French, English, Mandarin, Tagalog and many other languages. A family shares a traditional dish, musicians perform songs from different cultures, and children get to hear folklore passed down through generations. That scene captures the spirit of Canadian Multiculturalism Day."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "Canadian Multiculturalism Day"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Multiculturalism+Day+Canada&form=hpcapt&filters=HpDate%3a%2220260627_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353"
+    }
+  },
+  "PrideChueca": {
+    "name": "PrideChueca",
+    "urlbase": "/th?id=OHR.PrideChueca_ES-ES4043385731",
+    "date": "20260627",
+    "dateFormatted": "June 27, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "¡Los colores del orgullo!. Día Internacional del Orgullo LGTBI+"
+    },
+    "copyrights": {
+      "es-ES": "Chueca, Madrid, España (© MarioMonte/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Chueca, en Madrid, se llena de color cada verano cuando la bandera del orgullo ondea entre balcones y calles, marcando el inicio de una de las celebraciones más vibrantes de Europa. Durante estos días, el barrio se transforma en un escenario abierto donde música, cultura y reivindicación conviven, reflejando el espíritu diverso y acogedor de la ciudad."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Día Internacional del Orgullo LGTBI+"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Orgullo&form=hpcapt&filters=HpDate%3a%2220260627_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.PrideChueca_ES-ES4043385731"
     }
   },
   "ThamesSummer": {
