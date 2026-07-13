@@ -1,4 +1,148 @@
 {
+  "KatahdinWWNM": {
+    "name": "KatahdinWWNM",
+    "urlbase": "/th?id=OHR.KatahdinWWNM_EN-US8982810797",
+    "date": "20260712",
+    "dateFormatted": "July 12, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine",
+      "en-GB": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine, United States",
+      "en-CA": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine, USA",
+      "de-DE": "Maine von seiner wilden Seite. Katahdin Woods and Waters National Monument in Maine, USA",
+      "fr-FR": "Le côté sauvage du Maine. Monument national de Katahdin, Maine, États-Unis",
+      "it-IT": "Il suono del Maine",
+      "es-ES": "El lado tranquilo de Maine. Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.",
+      "pt-BR": "Zero barras, mil estrelas",
+      "ja-JP": "静かな池に映る鬱蒼とした森",
+      "zh-CN": "缅因州的狂野一面",
+      "en-IN": "Where the forest swallows sound. Katahdin Woods and Waters National Monument, Maine, United States"
+    },
+    "copyrights": {
+      "en-US": "Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)",
+      "en-GB": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+      "en-CA": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+      "de-DE": "Katahdin Woods and Waters National Monument in Maine, USA (© Cavan Images/Offset/Shutterstock)",
+      "fr-FR": "Monument national des bois et des eaux de Katahdin, Maine, États-Unis (© Cavan Images/Offset/Shutterstock)",
+      "it-IT": "Il Monumento Nazionale Katahdin Woods and Waters, Maine, USA (© Cavan Images/Offset/Shutterstock)",
+      "es-ES": "Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.  (© Cavan Images/Offset/Shutterstock)",
+      "pt-BR": "Monumento Nacional Katahdin Woods and Waters, Maine, Estados Unidos (© Cavan Images/Offset/Shutterstock)",
+      "ja-JP": "カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州 (© Cavan Images/Offset/Shutterstock)",
+      "zh-CN": "卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)",
+      "en-IN": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across about 87,500 acres of the raw North Woods—where quiet ponds mirror the sky and dense forests seem to swallow sound.",
+      "en-GB": "If you're looking for Maine in the United States at its wildest, Katahdin Woods and Waters National Monument is hard to beat. Covering around 35,400 hectares of the North Woods, it is a landscape of quiet ponds, winding rivers and dense forests where nature still dominates.",
+      "en-CA": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across more than 350 square kilometres of the rugged North Woods, where quiet ponds mirror the sky and dense forests seem to swallow sound.",
+      "de-DE": "Das Katahdin Woods and Waters National Monument im US-Bundesstaat Maine wurde 2016 ausgewiesen und zählt mit rund 35.000 Hektar zu den jüngeren Schutzgebieten des Landes. Weite Wälder, klare Flüsse und zahlreiche Teiche prägen die Landschaft, während sich im Hintergrund der markante Mount Katahdin westlich angrenzend außerhalb des Gebiets im Baxter State Park erhebt und dem Gebiet eine eindrucksvolle Präsenz verleiht.",
+      "fr-FR": "Pour découvrir le Maine (États-Unis) dans ce qu’il a de plus sauvage, il faut venir ici. Le monument national des Bois et des Eaux de Katahdin couvre près de 35 000 hectares de forêts profondes, où étangs silencieux et pistes isolées composent un paysage brut et préservé.",
+      "es-ES": "En el Monumento Nacional Katahdin Woods and Waters, en Maine, Estados Unidos, la naturaleza se expresa sin filtros entre bosques espesos y lagos que reflejan el cielo con una calma casi hipnótica. Este espacio remoto, protegido desde 2016, recuerda en cierta forma a parajes remotos de los Pirineos o rincones aislados de la Cordillera Cantábrica, donde el silencio también forma parte del entorno.",
+      "ja-JP": "静かな池に映る鬱蒼とした森. カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州. ここは、カタディン・ウッズ・アンド・ウォーターズ国定記念物。2016 年に設立された保護区で、約 350km² の面積を誇ります。米国メイン州ペノブスコット郡北部の山地と森林地帯に広がっており、ヘラジカやクロクマ、カナダオオヤマネコなどのほか、多様な魚類が生息しています。また、人里から遠く光害が少ないことから、星空観察に適しているとして、国際ダークスカイ・サンクチュアリに指定されています。",
+      "en-IN": "If you're looking for Maine in the United States at its most untamed, this is it. Katahdin Woods and Waters National Monument spans more than 350 square kilometres of rugged North Woods wilderness, where still ponds reflect the sky and dense forests seem to absorb every sound.",
+      "it-IT": "Nel Maine, Stati Uniti, il Monumento Nazionale Katahdin Woods and Waters mostra la natura nella sua forma più selvaggia: oltre 35.400 ettari di foreste fitte e specchi d’acqua silenziosi dove il paesaggio sembra inghiottire ogni suono.",
+      "pt-BR": "O Monumento Nacional Katahdin Woods and Waters, visto na imagem de hoje, mostra um lado dos Estados Unidos que raramente aparece nos cartões-postais. São mais de 35 mil hectares de florestas, lagoas e rios no estado do Maine, no extremo nordeste do país, uma região onde a mata engole estradas, sons e distrações com a mesma facilidade.",
+      "zh-CN": "缅因州的狂野一面. 卡塔丁森林和水域国家纪念地，缅因州，美国. 如果你想寻找缅因州最原始的自然风光，这里就是了。卡塔丁森林和水域国家纪念碑横跨约87,500英亩的北部原始森林——静谧的池塘倒映着天空，茂密的森林仿佛吞噬了所有声音。不要指望这里人潮涌动或生活便利。在这里，泥泞的道路颠簸不已，手机信号也很快就会消失。但这正是它的魅力所在。漫步在静谧的池塘边，或沿着佩诺布斯科特河东支流漂流，你会立刻感受到这片荒野的气息，仿佛置身其中，触手可及。"
+    },
+    "quickFacts": {
+      "zh-CN": "保护这片荒野的全部87,500英亩土地，是由小蜜蜂（Burt's Bees）化妆品公司的联合创始人罗克珊·昆比（Roxanne Quimby）私人出资购买，随后无偿捐赠给美国公众的。"
+    },
+    "captions": {
+      "en-US": "Katahdin Woods and Waters National Monument, Maine",
+      "en-GB": "Katahdin Woods and Waters National Monument, Maine, United States",
+      "en-CA": "Katahdin Woods and Waters National Monument, Maine, USA",
+      "de-DE": "Katahdin Woods and Waters National Monument in Maine, USA",
+      "fr-FR": "Monument national de Katahdin, Maine, États-Unis",
+      "it-IT": "",
+      "es-ES": "Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.",
+      "pt-BR": "",
+      "ja-JP": "静かな池に映る鬱蒼とした森",
+      "zh-CN": "",
+      "en-IN": "Katahdin Woods and Waters National Monument, Maine, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260712_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260711_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260712_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument+Vereinigte+Staaten+Informationen&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Monument+des+bois+et+des+eaux+Katahdin&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Maine+USA&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Monumento+Nacional+Katahdin+Woods+and+Waters&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Maine&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%bf%e3%83%87%e3%82%a3%e3%83%b3%e3%83%bb%e3%82%a6%e3%83%83%e3%82%ba%e3%83%bb%e3%82%a2%e3%83%b3%e3%83%89%e3%83%bb%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%ba%e5%9b%bd%e5%ae%9a%e8%a8%98%e5%bf%b5%e7%89%a9&form=hpcapt&filters=HpDate%3a%2220260711_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8d%a1%e5%a1%94%e4%b8%81%e6%a3%ae%e6%9e%97%e5%92%8c%e6%b0%b4%e5%9f%9f%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260711_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.KatahdinWWNM_EN-US8982810797",
+      "en-GB": "/th?id=OHR.KatahdinWWNM_EN-GB4389807993",
+      "en-CA": "/th?id=OHR.KatahdinWWNM_EN-CA7288146923",
+      "de-DE": "/th?id=OHR.KatahdinWWNM_DE-DE4221964213",
+      "fr-FR": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139",
+      "it-IT": "/th?id=OHR.KatahdinWWNM_IT-IT7750657395",
+      "es-ES": "/th?id=OHR.KatahdinWWNM_ES-ES0827560100",
+      "pt-BR": "/th?id=OHR.KatahdinWWNM_PT-BR2485169040",
+      "ja-JP": "/th?id=OHR.KatahdinWWNM_JA-JP6177719073",
+      "zh-CN": "/th?id=OHR.KatahdinWWNM_ZH-CN5496444375",
+      "en-IN": "/th?id=OHR.KatahdinWWNM_EN-IN8091413320"
+    }
+  },
   "AurayBrittany": {
     "name": "AurayBrittany",
     "urlbase": "/th?id=OHR.AurayBrittany_EN-US7890619884",
@@ -761,7 +905,7 @@
       "de-DE": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
       "fr-FR": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
       "es-ES": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
-      "ja-JP": "夕焼けに染まる海に突き出た石造要塞. シラクサ, イタリア. ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
+      "ja-JP": "ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
       "en-IN": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
       "it-IT": "Siracusa, in Italia, vi accoglie con la forza di una storia che affonda le radici nel 734 a.C., quando i coloni greci la trasformarono in una delle capitali del Mediterraneo antico. Passeggiando tra i suoi resti archeologici, oggi patrimonio UNESCO insieme alle Necropoli di Pantalica, si percepisce ancora l’eco di Archimede e il passaggio di Platone, che qui cercò di dare forma concreta alle sue idee politiche.",
       "zh-CN": "意大利锡拉库萨（Syracuse）位于西西里岛，由来自科林斯的希腊移民于公元前 734 年左右建立。它曾发展成为古地中海最伟大的强权之一，现已被列入联合国教科文组织世界遗产名录——“锡拉库萨和潘塔立克石墓群”。这座城市永远与阿基米德（Archimedes）联系在一起，他的天才至今仍在塑造着城市的身份；同时也与柏拉图（Plato）紧密相连，他曾满怀着哲学可能重塑政治生活的希望来到此处。这种层叠的历史在马尼亚切城堡（Castello Maniace）中依然清晰可感，这座 13 世纪为神圣罗马帝国皇帝腓特烈二世建造的海滨要塞，至今仍令世人赞叹。"
@@ -1528,79 +1672,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Born on fire, held by water. International Day of the Tropics",
-      "en-GB": "Born on fire, held by water. International Day of the Tropics",
       "en-CA": "Born on fire, held by water. International Day of the Tropics",
+      "pt-BR": "Uma exuberância bem tropical",
+      "en-GB": "Born on fire, held by water. International Day of the Tropics",
       "de-DE": "Aus Feuer geboren, vom Wasser gehalten. Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
       "fr-FR": "D’eau et de feu. Journée internationale des tropiques",
       "es-ES": "Nacidas entre llamas, sostenidas por el agua. Día Internacional de los Trópicos",
-      "pt-BR": "Uma exuberância bem tropical",
       "ja-JP": "今日は国際熱帯デー",
       "zh-CN": "生于烈火，拥于碧水",
       "en-IN": "Born on fire, held by water. International Day of the Tropics"
     },
     "copyrights": {
       "en-US": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
-      "en-GB": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
       "en-CA": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+      "pt-BR": "Bora Bora e sua lagoa, Pacífico Sul, Polinésia Francesa (© Frederick Millett/Shutterstock)",
+      "en-GB": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
       "de-DE": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien (© Frederick Millett/Shutterstock)",
       "fr-FR": "Bora Bora et son lagon, Pacifique Sud, Polynésie française (© Frederick Millett/Shutterstock)",
       "es-ES": "Bora Bora y su laguna, Pacífico Sur, Polinesia Francesa (© Frederick Millett/Shutterstock)",
-      "pt-BR": "Bora Bora e sua lagoa, Pacífico Sul, Polinésia Francesa (© Frederick Millett/Shutterstock)",
       "ja-JP": "ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)",
       "zh-CN": "波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)",
       "en-IN": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)"
     },
     "descs": {
       "en-US": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
-      "en-GB": "Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
       "en-CA": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
+      "en-GB": "Observed each 29 June, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
       "de-DE": "Bora Bora im Südpazifik in Französisch-Polynesien gehört zu den eindrucksvollsten Landschaften der Erde. Die Insel entstand aus einem erloschenen Vulkan, dessen dunkle Gipfel sich steil über das Meer erheben. Ringförmig umgeben von einem Korallenriff liegt eine ruhige Lagune mit schimmernden Blautönen, die sich je nach Licht und Tiefe verändern. Palmen, weiße Strände und kristallklares Wasser prägen das Bild und verleihen dem Ort eine fast unwirkliche Schönheit. Besonders bei Sonnenaufgang und Sonnenuntergang entfaltet die Lagune eine beeindruckende Farbvielfalt, die Besucher immer wieder aufs Neue fasziniert.",
       "fr-FR": "Chaque 29 juin, la Journée internationale des tropiques met à l’honneur la vaste région située entre les tropiques du Cancer et du Capricorne. Couvrant environ 40 % de la surface terrestre, elle abrite près de 80 % de la biodiversité mondiale et joue un rôle essentiel pour les équilibres climatiques et écologiques de la planète.",
       "es-ES": "Bora Bora, en la Polinesia Francesa, ofrece una ventana fascinante a las regiones tropicales, protagonistas del Día Internacional de los Trópicos celebrado cada veintinueve de junio. Estas zonas del planeta, definidas por su clima cálido y húmedo, ocupan cerca del 40 % de la superficie terrestre y concentran alrededor del 80 % de la biodiversidad mundial, lo que las convierte en un pilar esencial para el equilibrio global.",
@@ -1614,133 +1723,30 @@
     },
     "captions": {
       "en-US": "International Day of the Tropics",
-      "en-GB": "International Day of the Tropics",
       "en-CA": "International Day of the Tropics",
-      "de-DE": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
-      "fr-FR": "Journée internationale des tropiques",
-      "es-ES": "Día Internacional de los Trópicos",
-      "pt-BR": "",
-      "ja-JP": "今日は国際熱帯デー",
-      "zh-CN": "",
-      "en-IN": "International Day of the Tropics"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260629_0700%22",
-      "en-GB": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_2300%22",
-      "en-CA": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260629_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Bora+Bora&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+Internationale+Tropiques&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Bora+Bora+Atol%c3%b3n&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+dos+Tr%c3%b3picos&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e7%86%b1%e5%b8%af%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260628_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e7%83%ad%e5%b8%a6%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BoraBoraLagoon_EN-US1491116478",
-      "en-GB": "/th?id=OHR.BoraBoraLagoon_EN-GB1950063282",
-      "en-CA": "/th?id=OHR.BoraBoraLagoon_EN-CA7294184526",
-      "de-DE": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686",
-      "fr-FR": "/th?id=OHR.BoraBoraLagoon_FR-FR6825831086",
-      "es-ES": "/th?id=OHR.BoraBoraLagoon_ES-ES4364920301",
-      "pt-BR": "/th?id=OHR.BoraBoraLagoon_PT-BR8111630763",
-      "ja-JP": "/th?id=OHR.BoraBoraLagoon_JA-JP3981162879",
-      "zh-CN": "/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590",
-      "en-IN": "/th?id=OHR.BoraBoraLagoon_EN-IN9424063973"
-    }
-  },
-  "SaguaroSun": {
-    "name": "SaguaroSun",
-    "urlbase": "/th?id=OHR.SaguaroSun_EN-US8982109543",
-    "date": "20260628",
-    "dateFormatted": "June 28, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
-      "en-CA": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
-      "pt-BR": "Afiado na sobrevivência",
-      "en-GB": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
-      "de-DE": "Stille Riesen der Wüste. Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
-      "fr-FR": "Un piquant sans égal. Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
-      "it-IT": "Pieni di spine, ma belli!",
-      "ja-JP": "夕日を浴びるベンケイチュウ",
-      "zh-CN": "看起来很精神",
-      "en-IN": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States"
-    },
-    "copyrights": {
-      "en-US": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
-      "en-CA": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
-      "pt-BR": "Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos (© Eric Mischke/Getty Images)",
-      "en-GB": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
-      "de-DE": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
-      "fr-FR": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
-      "it-IT": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
-      "ja-JP": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)",
-      "zh-CN": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)",
-      "en-IN": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)"
-    },
-    "descs": {
-      "en-US": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "en-CA": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "en-GB": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "de-DE": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
-      "fr-FR": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
-      "ja-JP": "ベンケイチュウは、米国とメキシコにかけて広がるソノラ砂漠固有のサボテンです。高さは 12m 以上、重さは最大で約 6 トンに達し、世界最大級のサボテンといわれています。過酷な乾燥環境に適応した植物で、根は約 30m にわたって浅く広く伸び、わずかな雨水も効率よく吸収するほか、ひだ状の幹に水分を蓄え、雨の後には膨らみ、干ばつ時には縮むという特徴もあります。寿命は長く、最大で 200 年ほど生きることもあります。",
-      "en-IN": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-      "it-IT": "Nel deserto di Sonora, il saguaro trasforma l’idea di immobilità in una straordinaria strategia di vita. Con le sue silhouette ramificate rivolte al cielo, questo cactus iconico domina paesaggi tra Arizona, California e Messico, dove cresce esclusivamente. Può superare i dodici metri d’altezza e vivere oltre centocinquanta anni, ma i primi passi sono quasi impercettibili: nei primi anni aumenta di pochi centimetri e attende fino a settanta anni prima di sviluppare i suoi caratteristici «bracci».",
-      "pt-BR": "Se o deserto fosse um teste, o saguaro passaria com louvor. Fotografado aqui no Arizona, Estados Unidos, este cacto já entendeu que crescer devagar, captar e armazenar água com eficiência é uma receita infalível para sobreviver à seca. E o deserto agradece: pica‑paus escavam nele cavidades que depois viram abrigo para outras espécies, suas flores alimentam polinizadores e, pouco a pouco, ao seu redor surge uma rede de vida que faz o deserto florescer.",
-      "zh-CN": "看起来很精神. 温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国. 在索诺拉沙漠，作为生存大师的巨人柱仙人掌赋予了“坚守”（stick around）一词新的含义。这种巨型植物伸展着躯干与枝臂，向四面八方昂然挺立，已然成为美国西南部的标志性象征。"
-    },
-    "quickFacts": {
-      "zh-CN": "巨柱仙人掌洁白的花朵是亚利桑那州的州花。它们在晚春短暂盛开，能够吸引大量蜜蜂采蜜，并孕育出广受欢迎的沙漠蜂蜜。"
-    },
-    "captions": {
-      "en-US": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
-      "en-CA": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=cactos+saguaro&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260629_0700%22",
+      "en-CA": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260629_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+dos+Tr%c3%b3picos&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.SaguaroSun_EN-US8982109543",
-      "en-CA": "/th?id=OHR.SaguaroSun_EN-CA5131430817",
-      "pt-BR": "/th?id=OHR.SaguaroSun_PT-BR3626457853"
+      "en-US": "/th?id=OHR.BoraBoraLagoon_EN-US1491116478",
+      "en-CA": "/th?id=OHR.BoraBoraLagoon_EN-CA7294184526",
+      "pt-BR": "/th?id=OHR.BoraBoraLagoon_PT-BR8111630763"
     }
   },
-  "KatahdinWWNM": {
-    "name": "KatahdinWWNM",
-    "urlbase": "/th?id=OHR.KatahdinWWNM_EN-GB4389807993",
-    "date": "20260711",
-    "dateFormatted": "July 11, 2026",
+  "NavajoSandstone": {
+    "name": "NavajoSandstone",
+    "urlbase": "/th?id=OHR.NavajoSandstone_EN-GB4980697300",
+    "date": "20260712",
+    "dateFormatted": "July 12, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
       },
       {
         "code": "fr-FR",
@@ -1774,76 +1780,70 @@
       }
     ],
     "titles": {
-      "en-GB": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine, United States",
-      "de-DE": "Maine von seiner wilden Seite. Katahdin Woods and Waters National Monument in Maine, USA",
-      "fr-FR": "Le côté sauvage du Maine. Monument national de Katahdin, Maine, États-Unis",
-      "it-IT": "Il suono del Maine",
-      "es-ES": "El lado tranquilo de Maine. Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.",
-      "ja-JP": "静かな池に映る鬱蒼とした森",
-      "zh-CN": "缅因州的狂野一面",
-      "en-IN": "Where the forest swallows sound. Katahdin Woods and Waters National Monument, Maine, United States",
-      "en-US": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine",
-      "en-CA": "A wilder side of Maine. Katahdin Woods and Waters National Monument, Maine, United States",
-      "pt-BR": "Zero barras, mil estrelas. Monumento Nacional Katahdin Woods and Waters, Maine, Estados Unidos"
+      "en-GB": "Born to rock. International Rock Day",
+      "fr-FR": "Ondes minérales. Antelope Canyon, Arizona, États-Unis",
+      "it-IT": "Levigato per millenni",
+      "es-ES": "Lijado durante milenios. Día Internacional de la Roca",
+      "ja-JP": "今日は国際岩の日",
+      "zh-CN": "为摇滚而生",
+      "en-IN": "Born to rock. International Rock Day",
+      "en-US": "Born to rock. Antelope Canyon on the Navajo Nation, east of Page, Arizona",
+      "en-CA": "Born to rock. Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States",
+      "pt-BR": "A pedra que aprendeu a fluir. Antelope Canyon, leste de Page, Arizona, Estados Unidos"
     },
     "copyrights": {
-      "en-GB": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
-      "de-DE": "Katahdin Woods and Waters National Monument in Maine, USA (© Cavan Images/Offset/Shutterstock)",
-      "fr-FR": "Monument national des bois et des eaux de Katahdin, Maine, États-Unis (© Cavan Images/Offset/Shutterstock)",
-      "it-IT": "Il Monumento Nazionale Katahdin Woods and Waters, Maine, USA (© Cavan Images/Offset/Shutterstock)",
-      "es-ES": "Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.  (© Cavan Images/Offset/Shutterstock)",
-      "ja-JP": "カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州 (© Cavan Images/Offset/Shutterstock)",
-      "zh-CN": "卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)",
-      "en-IN": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
-      "en-US": "© Cavan Images/Offset/Shutterstock",
-      "en-CA": "© Cavan Images/Offset/Shutterstock",
-      "pt-BR": "© Cavan Images/Offset/Shutterstock"
+      "en-GB": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
+      "fr-FR": "Antelope Canyon, territoire Navajo, Arizona, États-Unis (© Mark Skalny/Getty Images)",
+      "it-IT": "Antelope Canyon sulla Nazione Navajo, a est di Page, Arizona, USA (© Mark Skalny/Getty Images)",
+      "es-ES": "Antelope Canyon en la Nación Navajo, al este de Page, Arizona, EE. UU. (© Mark Skalny/Getty Images)",
+      "ja-JP": "アンテロープ・キャニオン, 米国 アリゾナ州 (© Mark Skalny/Getty Images)",
+      "zh-CN": "羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)",
+      "en-IN": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
+      "en-US": "© Mark Skalny/Getty Images",
+      "en-CA": "© Mark Skalny/Getty Images",
+      "pt-BR": "© Mark Skalny/Getty Images"
     },
     "descs": {
-      "en-GB": "If you're looking for Maine in the United States at its wildest, Katahdin Woods and Waters National Monument is hard to beat. Covering around 35,400 hectares of the North Woods, it is a landscape of quiet ponds, winding rivers and dense forests where nature still dominates.",
-      "de-DE": "Das Katahdin Woods and Waters National Monument im US-Bundesstaat Maine wurde 2016 ausgewiesen und zählt mit rund 35.000 Hektar zu den jüngeren Schutzgebieten des Landes. Weite Wälder, klare Flüsse und zahlreiche Teiche prägen die Landschaft, während sich im Hintergrund der markante Mount Katahdin westlich angrenzend außerhalb des Gebiets im Baxter State Park erhebt und dem Gebiet eine eindrucksvolle Präsenz verleiht.",
-      "fr-FR": "Pour découvrir le Maine (États-Unis) dans ce qu’il a de plus sauvage, il faut venir ici. Le monument national des Bois et des Eaux de Katahdin couvre près de 35 000 hectares de forêts profondes, où étangs silencieux et pistes isolées composent un paysage brut et préservé.",
-      "es-ES": "En el Monumento Nacional Katahdin Woods and Waters, en Maine, Estados Unidos, la naturaleza se expresa sin filtros entre bosques espesos y lagos que reflejan el cielo con una calma casi hipnótica. Este espacio remoto, protegido desde 2016, recuerda en cierta forma a parajes remotos de los Pirineos o rincones aislados de la Cordillera Cantábrica, donde el silencio también forma parte del entorno.",
-      "ja-JP": "静かな池に映る鬱蒼とした森. カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州. ここは、カタディン・ウッズ・アンド・ウォーターズ国定記念物。2016 年に設立された保護区で、約 350km² の面積を誇ります。米国メイン州ペノブスコット郡北部の山地と森林地帯に広がっており、ヘラジカやクロクマ、カナダオオヤマネコなどのほか、多様な魚類が生息しています。また、人里から遠く光害が少ないことから、星空観察に適しているとして、国際ダークスカイ・サンクチュアリに指定されています。",
-      "en-IN": "If you're looking for Maine in the United States at its most untamed, this is it. Katahdin Woods and Waters National Monument spans more than 350 square kilometres of rugged North Woods wilderness, where still ponds reflect the sky and dense forests seem to absorb every sound.",
-      "en-US": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across about 87,500 acres of the raw North Woods—where quiet ponds mirror the sky and dense forests seem to swallow sound.",
-      "en-CA": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across more than 350 square kilometres of the rugged North Woods, where quiet ponds mirror the sky and dense forests seem to swallow sound.",
-      "it-IT": "Nel Maine, Stati Uniti, il Monumento Nazionale Katahdin Woods and Waters mostra la natura nella sua forma più selvaggia: oltre 35.400 ettari di foreste fitte e specchi d’acqua silenziosi dove il paesaggio sembra inghiottire ogni suono.",
-      "pt-BR": "O Monumento Nacional Katahdin Woods and Waters, visto na imagem de hoje, mostra um lado dos Estados Unidos que raramente aparece nos cartões-postais. São mais de 35 mil hectares de florestas, lagoas e rios no estado do Maine, no extremo nordeste do país, uma região onde a mata engole estradas, sons e distrações com a mesma facilidade.",
-      "zh-CN": "缅因州的狂野一面. 卡塔丁森林和水域国家纪念地，缅因州，美国. 如果你想寻找缅因州最原始的自然风光，这里就是了。卡塔丁森林和水域国家纪念碑横跨约87,500英亩的北部原始森林——静谧的池塘倒映着天空，茂密的森林仿佛吞噬了所有声音。不要指望这里人潮涌动或生活便利。在这里，泥泞的道路颠簸不已，手机信号也很快就会消失。但这正是它的魅力所在。漫步在静谧的池塘边，或沿着佩诺布斯科特河东支流漂流，你会立刻感受到这片荒野的气息，仿佛置身其中，触手可及。"
+      "en-GB": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and encourages curiosity about how rocks shape Earth's landscapes and history. From the dramatic cliffs of Britain's coastline to vast desert canyons abroad, rocks reveal stories of ancient seas, shifting continents and life over millions of years.",
+      "fr-FR": "À l’est de Page, en Arizona, États-Unis, sur les terres de la Nation Navajo, Antelope Canyon se dévoile comme une rivière figée dans la pierre. Ses parois de grès rouge et orangé ondulent en courbes douces, sculptées par des crues soudaines qui, siècle après siècle, ont creusé ce passage étroit.",
+      "es-ES": "El Día Internacional de las Rocas, celebrado el trece de julio, invita a mirar con nuevos ojos paisajes como Antelope Canyon, en Arizona, Estados Unidos, donde la geología cobra vida en cada curva de piedra. Este cañón estrecho, esculpido durante siglos en arenisca por riadas y erosión, revela cómo el agua y el tiempo transforman la Tierra con una precisión casi artística. Sus paredes onduladas, teñidas de rojo y naranja, capturan la luz en haces que parecen moverse.",
+      "ja-JP": "今日 7 月 13 日は国際岩の日 (International Rock Day) 。岩石が人類の歴史や地球の形成に果たしてきた重要な役割を称える日です。そして、今日の画像は、米国アリゾナ州ペイジ近郊のナバホ族の土地に位置するアンテロープ・キャニオン。水による浸食や堆積物などにより、何百万年もの時間をかけてナバホ砂岩が削り出されることで形成されました。滑らかにうねる独特な岩肌が、地球と岩石の雄大な歴史を象徴しています。",
+      "en-IN": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and encourages curiosity about how rocks shape Earth's landscapes and history. From ancient tools to modern mineral uses, rocks hold clues to volcanic eruptions, shifting continents and the evolution of life over millions of years. In India, the vast Deccan Traps stand as a dramatic reminder of the powerful volcanic forces that have shaped our planet.",
+      "en-US": "International Rock Day, observed on July 13, celebrates the geologic building blocks beneath our feet and encourages curiosity about how rocks shape Earth's landscapes and history. From ancient tools to modern mineral uses, these solid structures hold clues to volcanic eruptions, shifting continents, and life over millions of years. Few places display that story as vividly as Antelope Canyon, a narrow slot canyon on Navajo Nation land east of Page, Arizona. Carved from Navajo Sandstone by flash floods and erosion, its smooth, flowing walls reveal how water and sediment sculpt rock over time. Sunlight filters through the canyon's narrow openings, creating beams of light that dance across red and orange stone, shaped by centuries of natural forces. On International Rock Day, landscapes like this turn geology into a living gallery—inviting visitors to see rocks not as static objects, but as evolving records of our planet's dynamic past.",
+      "en-CA": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and the stories they preserve. From ancient tools to towering mountains, rocks reveal clues about shifting continents, changing climates and the evolution of life over millions of years. Few places showcase nature's artistry as vividly as Antelope Canyon on Navajo Nation land in Arizona, seen in today's image. Formed as flash floods gradually eroded Navajo Sandstone over thousands of years, the canyon's graceful, curving walls showcase the slow but relentless force of nature.",
+      "it-IT": "Nell'Antelope Canyon, in Arizona, situato su territorio della Nazione Navajo, la roccia prende vita in un intreccio di forme fluide scolpite da acqua e tempo. Questo stretto canyon, inciso nell'arenaria Navajo, rivela pareti ondulate che catturano la luce in fasci luminosi, accendendosi di tonalità calde dal rosso all'arancione.",
+      "pt-BR": "O Antelope Canyon, no Arizona, Estados Unidos, parece ter esquecido que é feito de rocha. As paredes que vemos aqui se dobram e ondulam em curvas tão suaves que lembram tecido em movimento. Mas nasceram de um processo nada delicado: começaram como dunas de areia em um deserto antigo, compactadas ao longo do tempo. Depois, enxurradas repentinas atravessaram fendas estreitas no arenito, remodelando sua forma enchente após enchente.",
+      "zh-CN": "7月13日是国际岩石日，旨在庆祝我们脚下地质构造的基石，并激发人们对岩石如何塑造地球地貌和历史的好奇心。从古代工具到现代矿物用途，这些坚实的结构蕴藏着火山喷发、大陆漂移以及数百万年来生命演化的线索。很少有地方能像羚羊峡谷那样生动地展现这段历史。羚羊峡谷位于亚利桑那州佩吉市以东的纳瓦霍族保留地，是一条狭窄的缝隙型峡谷。它由纳瓦霍砂岩经山洪和侵蚀作用雕琢而成，光滑流畅的岩壁展现了水和沉积物如何随着时间的推移塑造岩石。阳光透过峡谷狭窄的缝隙照射进来，在经受了数百年自然力量雕琢的红色和橙色岩石上，形成一道道光束，跳跃闪烁。在国际岩石日，像这样的景观将地质学变成了一座活生生的艺术馆——邀请游客们将岩石视为地球动态历史的不断演进的记录，而不是静止的物体。"
     },
     "quickFacts": {
-      "zh-CN": "保护这片荒野的全部87,500英亩土地，是由小蜜蜂（Burt's Bees）化妆品公司的联合创始人罗克珊·昆比（Roxanne Quimby）私人出资购买，随后无偿捐赠给美国公众的。"
+      "zh-CN": "羚羊峡谷砂岩墙面上独特的流线型波纹，主要是由每年季风季节的突发山洪冲刷而成的，这些山洪可能会在短短几分钟内迅速席卷狭窄的缝隙峡谷。"
     },
     "captions": {
-      "en-GB": "Katahdin Woods and Waters National Monument, Maine, United States",
-      "de-DE": "Katahdin Woods and Waters National Monument in Maine, USA",
-      "fr-FR": "Monument national de Katahdin, Maine, États-Unis",
+      "en-GB": "International Rock Day",
+      "fr-FR": "Antelope Canyon, Arizona, États-Unis",
       "it-IT": "",
-      "es-ES": "Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.",
-      "ja-JP": "静かな池に映る鬱蒼とした森",
+      "es-ES": "Día Internacional de la Roca",
+      "ja-JP": "今日は国際岩の日",
       "zh-CN": "",
-      "en-IN": "Katahdin Woods and Waters National Monument, Maine, United States"
+      "en-IN": "International Rock Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260711_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument+Vereinigte+Staaten+Informationen&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Monument+des+bois+et+des+eaux+Katahdin&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Maine+USA&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Monumento+Nacional+Katahdin+Woods+and+Waters&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%bf%e3%83%87%e3%82%a3%e3%83%b3%e3%83%bb%e3%82%a6%e3%83%83%e3%82%ba%e3%83%bb%e3%82%a2%e3%83%b3%e3%83%89%e3%83%bb%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%ba%e5%9b%bd%e5%ae%9a%e8%a8%98%e5%bf%b5%e7%89%a9&form=hpcapt&filters=HpDate%3a%2220260711_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8d%a1%e5%a1%94%e4%b8%81%e6%a3%ae%e6%9e%97%e5%92%8c%e6%b0%b4%e5%9f%9f%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260711_1830%22"
+      "en-GB": "https://www.bing.com/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate%3a%2220260712_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Antelope+canyon+fente&form=hpcapt&filters=HpDate%3a%2220260712_2200%22",
+      "it-IT": "https://www.bing.com/search?q=L%27Antelope+Canyon+sulla+Nazione+Navajo&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+internacional+de+la+roca+geolog%c3%ada&form=hpcapt&filters=HpDate%3a%2220260712_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e5%b2%a9%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260712_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%be%9a%e7%be%8a%e5%b3%a1%e8%b0%b7&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate%3a%2220260712_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.KatahdinWWNM_EN-GB4389807993",
-      "de-DE": "/th?id=OHR.KatahdinWWNM_DE-DE4221964213",
-      "fr-FR": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139",
-      "it-IT": "/th?id=OHR.KatahdinWWNM_IT-IT7750657395",
-      "es-ES": "/th?id=OHR.KatahdinWWNM_ES-ES0827560100",
-      "ja-JP": "/th?id=OHR.KatahdinWWNM_JA-JP6177719073",
-      "zh-CN": "/th?id=OHR.KatahdinWWNM_ZH-CN5496444375",
-      "en-IN": "/th?id=OHR.KatahdinWWNM_EN-IN8091413320"
+      "en-GB": "/th?id=OHR.NavajoSandstone_EN-GB4980697300",
+      "fr-FR": "/th?id=OHR.NavajoSandstone_FR-FR2547131354",
+      "it-IT": "/th?id=OHR.NavajoSandstone_IT-IT0263432431",
+      "es-ES": "/th?id=OHR.NavajoSandstone_ES-ES1041732911",
+      "ja-JP": "/th?id=OHR.NavajoSandstone_JA-JP6458327046",
+      "zh-CN": "/th?id=OHR.NavajoSandstone_ZH-CN5009673011",
+      "en-IN": "/th?id=OHR.NavajoSandstone_EN-IN8391264023"
     }
   },
   "LlanthonyPriory2026": {
@@ -2122,6 +2122,38 @@
       "en-CA": "/th?id=OHR.SummerBC_EN-CA3026184215"
     }
   },
+  "MunichTwilight": {
+    "name": "MunichTwilight",
+    "urlbase": "/th?id=OHR.MunichTwilight_DE-DE5540064188",
+    "date": "20260712",
+    "dateFormatted": "July 12, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Im Festspielglanz. Münchner Opernfestspiele"
+    },
+    "copyrights": {
+      "de-DE": "München mit der Frauenkirche vor den Alpen, Bayern (© MarcelStrelow/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Münchens Skyline leuchtet in der Dämmerung, während sich die Türme der Frauenkirche markant vor der Silhouette der Alpen abzeichnen und der Himmel langsam in tiefe Blau- und Violetttöne übergeht. In dieser eindrucksvollen Kulisse finden jeden Sommer die Münchner Opernfestspiele statt, eines der bedeutendsten Klassikfestivals Europas. Über mehrere Wochen hinweg verwandelt sich die Stadt in einen kulturellen Mittelpunkt, an dem die Bayerische Staatsoper ein vielseitiges Programm aus Opern, Konzerten und Ballettaufführungen präsentiert und damit Besucherinnen und Besucher aus aller Welt anzieht."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Münchner Opernfestspiele"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=M%c3%bcnchner+Opernfestspiele&form=hpcapt&filters=HpDate%3a%2220260712_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.MunichTwilight_DE-DE5540064188"
+    }
+  },
   "NeckarVineyards": {
     "name": "NeckarVineyards",
     "urlbase": "/th?id=OHR.NeckarVineyards_DE-DE0300601892",
@@ -2216,38 +2248,6 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.SienaPalioToscana_IT-IT6720555051"
-    }
-  },
-  "SanPietroPaolo": {
-    "name": "SanPietroPaolo",
-    "urlbase": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696",
-    "date": "20260628",
-    "dateFormatted": "June 28, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "Notte della Girandola"
-    },
-    "copyrights": {
-      "it-IT": "Castel Sant’Angelo, Roma (© Domenico Cippitelli/NurPhoto via Getty Images)"
-    },
-    "descs": {
-      "it-IT": "Il 29 giugno Roma celebra i Santi Pietro e Paolo, patroni della città, con una delle ricorrenze più sentite del calendario romano. Accanto alle celebrazioni religiose, la festa è famosa per la «Girandola», lo storico spettacolo pirotecnico che illumina il cielo sopra Castel Sant'Angelo. La tradizione della Girandola risale al XV secolo e si sviluppò sotto il pontificato di papa Sisto IV, che affidò ai migliori artisti dell’epoca la progettazione delle spettacolari «macchine per i fuochi»."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Santi+Pietro+e+Paolo&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696"
     }
   },
   "GranCanaria": {
@@ -2376,6 +2376,115 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.JogFalls2026_EN-IN2533705121"
+    }
+  },
+  "SaguaroSun": {
+    "name": "SaguaroSun",
+    "urlbase": "/th?id=OHR.SaguaroSun_EN-US8982109543",
+    "date": "20260628",
+    "dateFormatted": "June 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
+      "en-CA": "Looking sharp. Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
+      "pt-BR": "Afiado na sobrevivência",
+      "en-GB": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States",
+      "de-DE": "Stille Riesen der Wüste. Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
+      "fr-FR": "Un piquant sans égal. Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
+      "it-IT": "Pieni di spine, ma belli!",
+      "ja-JP": "夕日を浴びるベンケイチュウ",
+      "zh-CN": "看起来很精神",
+      "en-IN": "Looking sharp. Saguaro cacti, Windgate Pass, Arizona, United States"
+    },
+    "copyrights": {
+      "en-US": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "en-CA": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+      "pt-BR": "Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos (© Eric Mischke/Getty Images)",
+      "en-GB": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+      "de-DE": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "fr-FR": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
+      "it-IT": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+      "ja-JP": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)",
+      "zh-CN": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)",
+      "en-IN": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)"
+    },
+    "descs": {
+      "en-US": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "en-CA": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "en-GB": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "de-DE": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
+      "fr-FR": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
+      "ja-JP": "ベンケイチュウは、米国とメキシコにかけて広がるソノラ砂漠固有のサボテンです。高さは 12m 以上、重さは最大で約 6 トンに達し、世界最大級のサボテンといわれています。過酷な乾燥環境に適応した植物で、根は約 30m にわたって浅く広く伸び、わずかな雨水も効率よく吸収するほか、ひだ状の幹に水分を蓄え、雨の後には膨らみ、干ばつ時には縮むという特徴もあります。寿命は長く、最大で 200 年ほど生きることもあります。",
+      "en-IN": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+      "it-IT": "Nel deserto di Sonora, il saguaro trasforma l’idea di immobilità in una straordinaria strategia di vita. Con le sue silhouette ramificate rivolte al cielo, questo cactus iconico domina paesaggi tra Arizona, California e Messico, dove cresce esclusivamente. Può superare i dodici metri d’altezza e vivere oltre centocinquanta anni, ma i primi passi sono quasi impercettibili: nei primi anni aumenta di pochi centimetri e attende fino a settanta anni prima di sviluppare i suoi caratteristici «bracci».",
+      "pt-BR": "Se o deserto fosse um teste, o saguaro passaria com louvor. Fotografado aqui no Arizona, Estados Unidos, este cacto já entendeu que crescer devagar, captar e armazenar água com eficiência é uma receita infalível para sobreviver à seca. E o deserto agradece: pica‑paus escavam nele cavidades que depois viram abrigo para outras espécies, suas flores alimentam polinizadores e, pouco a pouco, ao seu redor surge uma rede de vida que faz o deserto florescer.",
+      "zh-CN": "看起来很精神. 温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国. 在索诺拉沙漠，作为生存大师的巨人柱仙人掌赋予了“坚守”（stick around）一词新的含义。这种巨型植物伸展着躯干与枝臂，向四面八方昂然挺立，已然成为美国西南部的标志性象征。"
+    },
+    "quickFacts": {
+      "zh-CN": "巨柱仙人掌洁白的花朵是亚利桑那州的州花。它们在晚春短暂盛开，能够吸引大量蜜蜂采蜜，并孕育出广受欢迎的沙漠蜂蜜。"
+    },
+    "captions": {
+      "en-US": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
+      "en-CA": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona, USA",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=cactos+saguaro&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SaguaroSun_EN-US8982109543",
+      "en-CA": "/th?id=OHR.SaguaroSun_EN-CA5131430817",
+      "pt-BR": "/th?id=OHR.SaguaroSun_PT-BR3626457853"
+    }
+  },
+  "SanPietroPaolo": {
+    "name": "SanPietroPaolo",
+    "urlbase": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696",
+    "date": "20260628",
+    "dateFormatted": "June 28, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Notte della Girandola"
+    },
+    "copyrights": {
+      "it-IT": "Castel Sant’Angelo, Roma (© Domenico Cippitelli/NurPhoto via Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Il 29 giugno Roma celebra i Santi Pietro e Paolo, patroni della città, con una delle ricorrenze più sentite del calendario romano. Accanto alle celebrazioni religiose, la festa è famosa per la «Girandola», lo storico spettacolo pirotecnico che illumina il cielo sopra Castel Sant'Angelo. La tradizione della Girandola risale al XV secolo e si sviluppò sotto il pontificato di papa Sisto IV, che affidò ai migliori artisti dell’epoca la progettazione delle spettacolari «macchine per i fuochi»."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Santi+Pietro+e+Paolo&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696"
     }
   },
   "MulticulturalismDY": {
