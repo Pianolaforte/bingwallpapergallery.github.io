@@ -1,4 +1,154 @@
 {
+  "LemonShark": {
+    "name": "LemonShark",
+    "urlbase": "/th?id=OHR.LemonShark_EN-US9828936448",
+    "date": "20260714",
+    "dateFormatted": "July 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Fin-tastic truths. Shark Awareness Day",
+      "en-GB": "Fin-tastic truths. Shark Awareness Day",
+      "en-CA": "Fin-tastic truths. Shark Awareness Day",
+      "de-DE": "Könige der Meere. Tag der Haie",
+      "fr-FR": "Des racines et des zestes. Requin-citron dans la mangrove",
+      "it-IT": "Cerco limoni",
+      "es-ES": "En busca de “Limonada”. Día Mundial de los Tiburones",
+      "pt-BR": "O mar em modo incubadora",
+      "ja-JP": "今日はサメ啓発の日",
+      "zh-CN": "奇妙的真相",
+      "en-IN": "Fin-tastic truths. Shark Awareness Day"
+    },
+    "copyrights": {
+      "en-US": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "en-GB": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "en-CA": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "de-DE": "Zitronenhai-Jungtier im Mangrovenwald, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "fr-FR": "Jeune requin-citron dans la mangrove, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "it-IT": "Cucciolo di squalo limone nella foresta di mangrovie, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "es-ES": "Tiburón limón en bosque de manglares, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "pt-BR": "Filhote de tubarão-limão em floresta de mangue, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "ja-JP": "レモンザメの幼魚, バハマ (© Shane Gross/Nature Picture Library)",
+      "zh-CN": "柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)",
+      "en-IN": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+      "en-GB": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+      "en-CA": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+      "de-DE": "Am 14. Juli wird weltweit der Tag der Haie gefeiert. Dieser Tag soll das Bild dieser Tiere verändern und Wissen vermitteln. Haie durchstreifen die Meere seit mehr als 420 Millionen Jahren und gehören zu den ältesten Bewohnern unseres Planeten. Dieser Tag rückt Wissen, Faszination und die Bedeutung dieser Tiere für gesunde Meere in den Mittelpunkt.",
+      "fr-FR": "Dans les eaux peu profondes d’Eleuthera, aux Bahamas, un jeune requin-citron glisse entre les racines entrelacées des mangroves. Ici, la lumière danse à la surface tandis que l’eau tiède filtre doucement entre ces arbres étonnants, dont les racines offrent un refuge à d’innombrables poissons, crustacés et juvéniles marins.",
+      "es-ES": "En Eleuthera, en las Bahamas, un pequeño tiburón limón se desliza entre manglares y nos invita a redescubrir el mar con otros ojos en el Día Mundial de los Tiburones, celebrado el catorce de julio. Lejos de la imagen alarmista, estos animales patrullan los océanos desde hace más de 420 millones de años, desempeñando un papel clave en el equilibrio de los ecosistemas marinos.",
+      "ja-JP": "今日 7 月 14 日はサメ啓発の日。サメは 4 億年以上前から存在しているといわれており、頂点捕食者として海洋生態系のバランスを保つ重要な役割を果たしています。そういったサメについての知識を広め、映画などによって植え付けられたイメージを払拭するとともに、保護について考えるための日です。そして、今日の画像は、バハマのエレウテラ島のマングローブ林を泳ぐレモンザメの幼魚。幼いうちは天敵も多いため、マングローブ林にとどまり、大型の捕食者から身を守ります。しかし、繁殖力の低さに加え、乱獲や環境破壊などによって個体数が減少しており、危急種 (VU) に指定されています。",
+      "en-IN": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+      "it-IT": "Il cucciolo di squalo limone che nuota tra le mangrovie di Eleuthera, alle Bahamas, racconta un lato inaspettato dell’oceano: quello della crescita e della fragilità. Lontano dall’immaginario dominante, questi piccoli predatori iniziano la vita in acque basse e tranquille, dove trovano riparo e condizioni ideali per svilupparsi.",
+      "pt-BR": "Na ilha de Eleuthera, nas Bahamas, este pequeno tubarão-limão testa o mundo pela primeira vez, protegido por labirintos de raízes submersas. A espécie ocorre ao longo do Atlântico ocidental, do Caribe à América do Sul, em áreas como recifes de coral, manguezais, baías e desembocaduras de rios. No Brasil, alguns dos principais berçários conhecidos ficam em áreas oceânicas como Fernando de Noronha e o Atol das Rocas, onde filhotes encontram águas rasas que funcionam como refúgios naturais. Ali, ganham tempo para crescer antes de encarar mar aberto.",
+      "zh-CN": "奇妙的真相. 柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马. 7月14日是世界鲨鱼日，它呼吁我们用海洋的真实面貌取代电影中的恐慌。鲨鱼已经在海洋中遨游了超过4.2亿年，作为顶级掠食者，它们有助于维持海洋生态系统的平衡。"
+    },
+    "quickFacts": {
+      "en-US": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
+      "en-GB": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
+      "en-CA": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
+      "de-DE": "Der Grönlandhai kann bis zu 400 Jahre alt werden und gehört damit zu den langlebigsten Wirbeltieren überhaupt.",
+      "fr-FR": "Le requin-citron naît indépendant, capable de chasser seul dès sa sortie du ventre.",
+      "zh-CN": "格陵兰鲨的寿命可达400年，是脊椎动物中寿命最长的物种之一。",
+      "en-IN": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate."
+    },
+    "captions": {
+      "en-US": "Shark Awareness Day",
+      "en-GB": "Shark Awareness Day",
+      "en-CA": "Shark Awareness Day",
+      "de-DE": "Tag der Haie",
+      "fr-FR": "Requin-citron dans la mangrove",
+      "it-IT": "",
+      "es-ES": "Día Mundial de los Tiburones",
+      "pt-BR": "",
+      "ja-JP": "今日はサメ啓発の日",
+      "zh-CN": "",
+      "en-IN": "Shark Awareness Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260714_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260713_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260714_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Tag+der+Haie&form=hpcapt&filters=HpDate%3a%2220260713_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Requin+citron&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
+      "it-IT": "https://www.bing.com/search?q=squalo+limone&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Tiburones&form=hpcapt&filters=HpDate%3a%2220260713_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+da+Conscientizacao+sobre+Tubaroes&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%a1%e5%95%93%e7%99%ba%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260713_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%9f%a0%e6%aa%ac%e9%b2%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260713_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LemonShark_EN-US9828936448",
+      "en-GB": "/th?id=OHR.LemonShark_EN-GB6406610577",
+      "en-CA": "/th?id=OHR.LemonShark_EN-CA1838897902",
+      "de-DE": "/th?id=OHR.LemonShark_DE-DE6087754416",
+      "fr-FR": "/th?id=OHR.LemonShark_FR-FR4291742004",
+      "it-IT": "/th?id=OHR.LemonShark_IT-IT7940960388",
+      "es-ES": "/th?id=OHR.LemonShark_ES-ES9243591847",
+      "pt-BR": "/th?id=OHR.LemonShark_PT-BR3191818241",
+      "ja-JP": "/th?id=OHR.LemonShark_JA-JP9266528977",
+      "zh-CN": "/th?id=OHR.LemonShark_ZH-CN4650331008",
+      "en-IN": "/th?id=OHR.LemonShark_EN-IN7069732478"
+    }
+  },
   "NavajoSandstone": {
     "name": "NavajoSandstone",
     "urlbase": "/th?id=OHR.NavajoSandstone_EN-US9496264383",
@@ -1555,53 +1705,28 @@
         "flag": "ca"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
       }
     ],
     "titles": {
       "en-US": "Canada, carved by the Atlantic. Canada Day",
       "en-CA": "Canada, carved by the Atlantic. Canada Day",
+      "pt-BR": "A costa que o Atlântico moldou",
       "fr-FR": "Le Canada, sculpté par l'Atlantique. Parc provincial de Dungeon, Terre-Neuve-et-Labrador, Canada",
       "it-IT": "Canada, scolpito dall'Atlantico",
       "es-ES": "Canadá, tallado por el Atlántico. Día de Canadá",
-      "pt-BR": "A costa que o Atlântico moldou",
       "ja-JP": "今日はカナダの日",
       "zh-CN": "大西洋雕琢而成的加拿大"
     },
     "copyrights": {
       "en-US": "Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
       "en-CA": "Dungeon Provincial Park, Newfoundland and Labrador (© Kaitlyn McLachlan/Getty Images)",
+      "pt-BR": "Dungeon Provincial Park, Terra Nova e Labrador, Canadá (© Kaitlyn McLachlan/Getty Images)",
       "fr-FR": "Parc provincial de Dungeon, Terre-Neuve-et-Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
       "it-IT": "Parco provinciale di Dungeon, Terranova e Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
       "es-ES": "Dungeon Provincial Park, Terranova y Labrador, Canadá (© Kaitlyn McLachlan/Getty Images)",
-      "pt-BR": "Dungeon Provincial Park, Terra Nova e Labrador, Canadá (© Kaitlyn McLachlan/Getty Images)",
       "ja-JP": "ダンジョン州立公園, カナダ (© Kaitlyn McLachlan/Getty Images)",
       "zh-CN": "地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)"
     },
@@ -1621,119 +1746,24 @@
     "captions": {
       "en-US": "Canada Day",
       "en-CA": "Canada Day",
-      "fr-FR": "Parc provincial de Dungeon, Terre-Neuve-et-Labrador, Canada",
-      "it-IT": "",
-      "es-ES": "Día de Canadá",
-      "pt-BR": "",
-      "ja-JP": "今日はカナダの日",
-      "zh-CN": ""
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Canada+Day&form=hpcapt&filters=HpDate%3a%2220260701_0700%22",
       "en-CA": "https://www.bing.com/search?q=Canada+Day&form=hpcapt&filters=HpDate%3a%2220260701_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=F%c3%aate+du+Canada&form=hpcapt&filters=HpDate%3a%2220260630_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Festa+del+Canada&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+de+Canada&form=hpcapt&filters=HpDate%3a%2220260630_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+do+Canada&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260630_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9c%b0%e7%89%a2%e7%9c%81%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+      "pt-BR": "https://www.bing.com/search?q=Dia+do+Canada&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.DungeonPark_EN-US2499621341",
       "en-CA": "/th?id=OHR.DungeonPark_EN-CA5716185591",
-      "fr-FR": "/th?id=OHR.DungeonPark_FR-FR7667168923",
-      "it-IT": "/th?id=OHR.DungeonPark_IT-IT0964634478",
-      "es-ES": "/th?id=OHR.DungeonPark_ES-ES4904785525",
-      "pt-BR": "/th?id=OHR.DungeonPark_PT-BR3960378944",
-      "ja-JP": "/th?id=OHR.DungeonPark_JA-JP3903067497",
-      "zh-CN": "/th?id=OHR.DungeonPark_ZH-CN9544093701"
+      "pt-BR": "/th?id=OHR.DungeonPark_PT-BR3960378944"
     }
   },
-  "MasaiGiraffe": {
-    "name": "MasaiGiraffe",
-    "urlbase": "/th?id=OHR.MasaiGiraffe_EN-US2240704874",
-    "date": "20260630",
-    "dateFormatted": "June 30, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Where shadows stretch tall. Giraffes at sunset in the Masai Mara National Reserve, Kenya",
-      "en-CA": "Where shadows stretch tall. Giraffes at sunset in the Masai Mara National Reserve, Kenya",
-      "pt-BR": "O entardecer das gigantes",
-      "en-GB": "Where shadows stretch tall. Giraffes in the Masai Mara National Reserve, Kenya",
-      "de-DE": "Wo sich die Schatten in die Länge ziehen. Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia",
-      "fr-FR": "Jouer à l’ombre la plus longue. Réserve nationale du Masai Mara, Kenya",
-      "it-IT": "La vista dalla cima è meravigliosa",
-      "es-ES": "¡Una vista fascinante!. Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia",
-      "ja-JP": "夕焼けに浮かぶキリンの影",
-      "zh-CN": "阴影被拉得修长之处",
-      "en-IN": "Where shadows stretch tall. Giraffes in the Masai Mara National Reserve, Kenya"
-    },
-    "copyrights": {
-      "en-US": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
-      "en-CA": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
-      "pt-BR": "Girafas ao pôr do sol na Reserva Nacional Masai Mara, Quênia (© danm/Getty Images)",
-      "en-GB": "Giraffes in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
-      "de-DE": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia (© danm/Getty Images)",
-      "fr-FR": "Girafes au coucher du soleil, Masai Mara, Kenya (© danm/Getty Images)",
-      "it-IT": "Giraffe al tramonto nella Riserva Nazionale Masai Mara, Kenya (© danm/Getty Images)",
-      "es-ES": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia (© danm/Getty Images)",
-      "ja-JP": "マサイキリン, ケニヤ (© danm/Getty Images)",
-      "zh-CN": "马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)",
-      "en-IN": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)"
-    },
-    "descs": {
-      "en-US": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 580 square miles in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees, and the life-giving Mara River set the stage for unforgettable encounters.",
-      "en-CA": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 1,500 square kilometres in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
-      "en-GB": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 580 square miles in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
-      "de-DE": "Das Masai-Mara-Nationalreservat im Südwesten Kenias umfasst etwa 1500 Quadratkilometer und grenzt direkt an die Serengeti in Tansania. Es zählt zu den bedeutendsten Schutzgebieten für Wildtiere weltweit. Die Landschaft besteht aus offenen Grasflächen, locker verteilten Akazien und dem Mara-Fluss als zentraler Wasserquelle. Diese Bedingungen ermöglichen eine hohe Artenvielfalt und prägen das ökologische Gleichgewicht. In den Abendstunden, wenn die Sonne sinkt, verbessern sich die Sichtverhältnisse und viele Tiere werden in der weiten Savanne deutlich erkennbar.",
-      "fr-FR": "Alors que le soleil décline sur la réserve nationale du Masai Mara, les girafes masaï se découpent sur un ciel flamboyant et des plaines infinies. Située au sud-ouest du Kenya, à la frontière du parc national du Serengeti en Tanzanie, cette réserve d’environ 1 500 km² est l’un des plus grands sanctuaires animaliers au monde. Ses prairies vallonnées, ses acacias dispersés et la rivière Mara, essentielle à l’écosystème, en font un lieu privilégié pour observer la faune.",
-      "es-ES": "En la Reserva Nacional Masai Mara, en Kenia, las jirafas masái dominan el horizonte cuando el sol se funde con la sabana en tonos ardientes. Este santuario natural, que se extiende por unos 1.500 km² en el suroeste del país, forma parte de uno de los grandes escenarios de vida salvaje del planeta, conectado con el Serengeti. Entre praderas abiertas, acacias dispersas y el río Mara, la naturaleza marca un ritmo que impresiona por su escala y su intensidad.",
-      "ja-JP": "今日の画像は、ケニアのマサイマラ国立保護区で撮影されたマサイキリンです。マサイキリンは、他のキリン同様体に模様があり、ギザギザとした葉のような形をしているのが特徴です。この模様は、人間の指紋のように、個体ごとに異なります。彼らは、一日の大半を食事に充てており、長い舌を器用に使って鋭い棘の間から葉を摘み取って食べています。普段は穏やかで優雅に過ごしていますが、捕食者から逃げる際などは時速約 55km に達する速さで走れます。",
-      "en-IN": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 1,500 square kilometres in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
-      "it-IT": "Nel Masai Mara in Kenya, le giraffe Masai si stagliano al tramonto come silhouette eleganti contro un cielo rosso intenso. Quando la luce si abbassa, la riserva — un’enorme distesa di circa 1.500 km² al confine con il Serengeti — si trasforma in un teatro naturale fatto di praterie ondulate, acacie isolate e il sinuoso fiume Mara. Qui ogni dettaglio racconta la vita allo stato puro.",
-      "pt-BR": "À medida que o sol se aproxima do horizonte, as girafas‑masai vistas na imagem ganham forma em contraste com o céu quente do Quênia. A cena acontece na Reserva Nacional de Masai Mara, um mosaico de campos abertos, acácias espaçadas e o rio Mara, que mantém a vida circulando em um dos maiores palcos naturais do planeta.",
-      "zh-CN": "阴影被拉得修长之处. 马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚. 当夕阳在马赛马拉国家保护区缓缓西沉，马赛长颈鹿的剪影映衬着绚烂如火的天空与辽阔原野，显得格外醒目。这座保护区位于肯尼亚西南部，与坦桑尼亚的塞伦盖蒂国家公园接壤，占地约580平方英里；随着夜幕降临，这里又度过了精彩的一天。这是一片广袤无垠的土地，也是世界上最壮观的野生动物乐园之一。起伏的草原、零星点缀的金合欢树，以及孕育万物的马拉河，共同构成了上演难忘邂逅的绝佳舞台。"
-    },
-    "quickFacts": {
-      "zh-CN": "长颈鹿的心脏重量可超过11千克（25磅），能够将血液克服重力输送至近2米高的头部，是陆地动物中极为强大的循环系统之一。"
-    },
-    "captions": {
-      "en-US": "Giraffes at sunset in the Masai Mara National Reserve, Kenya",
-      "en-CA": "Giraffes at sunset in the Masai Mara National Reserve, Kenya",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260630_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260630_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Reserva+Nacional+Masai+Mara+Quenia&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.MasaiGiraffe_EN-US2240704874",
-      "en-CA": "/th?id=OHR.MasaiGiraffe_EN-CA5473733652",
-      "pt-BR": "/th?id=OHR.MasaiGiraffe_PT-BR8199198867"
-    }
-  },
-  "LemonShark": {
-    "name": "LemonShark",
-    "urlbase": "/th?id=OHR.LemonShark_EN-GB6406610577",
-    "date": "20260713",
-    "dateFormatted": "July 13, 2026",
+  "MarieLake": {
+    "name": "MarieLake",
+    "urlbase": "/th?id=OHR.MarieLake_EN-GB7432567016",
+    "date": "20260714",
+    "dateFormatted": "July 14, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1772,79 +1802,67 @@
       }
     ],
     "titles": {
-      "en-GB": "Fin-tastic truths. Shark Awareness Day",
-      "de-DE": "Könige der Meere. Tag der Haie",
-      "it-IT": "Cerco limoni",
-      "es-ES": "En busca de “Limonada”. Día Mundial de los Tiburones",
-      "ja-JP": "今日はサメ啓発の日",
-      "zh-CN": "奇妙的真相",
-      "en-IN": "Fin-tastic truths. Shark Awareness Day",
-      "en-US": "Fin-tastic truths. Lemon shark pup in mangrove forest, Eleuthera, Bahamas",
-      "en-CA": "Fin-tastic truths. Lemon shark pup in mangrove forest, Eleuthera, Bahamas",
-      "fr-FR": "Des racines et des zestes. Jeune requin-citron dans la mangrove, Eleuthera, Bahamas",
-      "pt-BR": "O mar em modo incubadora. Filhote de tubarão-limão em floresta de mangue, Eleuthera, Bahamas"
+      "en-GB": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States",
+      "de-DE": "Die Belohnung nach der Wanderung. Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA",
+      "it-IT": "La ricompensa dopo la scalata",
+      "es-ES": "La recompensa tras la subida. Marie Lake, Área silvestre John Muir, California, EE. UU.",
+      "ja-JP": "山々に囲まれた湖",
+      "zh-CN": "攀登后的奖励",
+      "en-IN": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States",
+      "en-US": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California",
+      "en-CA": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California, United States"
     },
     "copyrights": {
-      "en-GB": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "de-DE": "Zitronenhai-Jungtier im Mangrovenwald, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "it-IT": "Cucciolo di squalo limone nella foresta di mangrovie, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "es-ES": "Tiburón limón en bosque de manglares, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "ja-JP": "レモンザメの幼魚, バハマ (© Shane Gross/Nature Picture Library)",
-      "zh-CN": "柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)",
-      "en-IN": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "en-US": "© Shane Gross/Nature Picture Library",
-      "en-CA": "© Shane Gross/Nature Picture Library",
-      "fr-FR": "© Shane Gross/Nature Picture Library",
-      "pt-BR": "© Shane Gross/Nature Picture Library"
+      "en-GB": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+      "de-DE": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA (© Steve Dunleavy/Getty Images)",
+      "it-IT": "Marie Lake, Area selvaggia John Muir vicino a Bishop, California, USA (© Steve Dunleavy/Getty Images)",
+      "es-ES": "Marie Lake, Área silvestre John Muir cerca de Bishop, California, EE. UU. (© Steve Dunleavy/Getty Images)",
+      "ja-JP": "マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)",
+      "zh-CN": "玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)",
+      "en-IN": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+      "en-US": "© Steve Dunleavy/Getty Images",
+      "en-CA": "© Steve Dunleavy/Getty Images"
     },
     "descs": {
-      "en-GB": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
-      "de-DE": "Am 14. Juli wird weltweit der Tag der Haie gefeiert. Dieser Tag soll das Bild dieser Tiere verändern und Wissen vermitteln. Haie durchstreifen die Meere seit mehr als 420 Millionen Jahren und gehören zu den ältesten Bewohnern unseres Planeten. Dieser Tag rückt Wissen, Faszination und die Bedeutung dieser Tiere für gesunde Meere in den Mittelpunkt.",
-      "es-ES": "En Eleuthera, en las Bahamas, un pequeño tiburón limón se desliza entre manglares y nos invita a redescubrir el mar con otros ojos en el Día Mundial de los Tiburones, celebrado el catorce de julio. Lejos de la imagen alarmista, estos animales patrullan los océanos desde hace más de 420 millones de años, desempeñando un papel clave en el equilibrio de los ecosistemas marinos.",
-      "ja-JP": "今日 7 月 14 日はサメ啓発の日。サメは 4 億年以上前から存在しているといわれており、頂点捕食者として海洋生態系のバランスを保つ重要な役割を果たしています。そういったサメについての知識を広め、映画などによって植え付けられたイメージを払拭するとともに、保護について考えるための日です。そして、今日の画像は、バハマのエレウテラ島のマングローブ林を泳ぐレモンザメの幼魚。幼いうちは天敵も多いため、マングローブ林にとどまり、大型の捕食者から身を守ります。しかし、繁殖力の低さに加え、乱獲や環境破壊などによって個体数が減少しており、危急種 (VU) に指定されています。",
-      "en-IN": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
-      "en-US": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
-      "en-CA": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
-      "fr-FR": "Dans les eaux peu profondes d’Eleuthera, aux Bahamas, un jeune requin-citron glisse entre les racines entrelacées des mangroves. Ici, la lumière danse à la surface tandis que l’eau tiède filtre doucement entre ces arbres étonnants, dont les racines offrent un refuge à d’innombrables poissons, crustacés et juvéniles marins.",
-      "it-IT": "Il cucciolo di squalo limone che nuota tra le mangrovie di Eleuthera, alle Bahamas, racconta un lato inaspettato dell’oceano: quello della crescita e della fragilità. Lontano dall’immaginario dominante, questi piccoli predatori iniziano la vita in acque basse e tranquille, dove trovano riparo e condizioni ideali per svilupparsi.",
-      "pt-BR": "Na ilha de Eleuthera, nas Bahamas, este pequeno tubarão-limão testa o mundo pela primeira vez, protegido por labirintos de raízes submersas. A espécie ocorre ao longo do Atlântico ocidental, do Caribe à América do Sul, em áreas como recifes de coral, manguezais, baías e desembocaduras de rios. No Brasil, alguns dos principais berçários conhecidos ficam em áreas oceânicas como Fernando de Noronha e o Atol das Rocas, onde filhotes encontram águas rasas que funcionam como refúgios naturais. Ali, ganham tempo para crescer antes de encarar mar aberto.",
-      "zh-CN": "奇妙的真相. 柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马. 7月14日是世界鲨鱼日，它呼吁我们用海洋的真实面貌取代电影中的恐慌。鲨鱼已经在海洋中遨游了超过4.2亿年，作为顶级掠食者，它们有助于维持海洋生态系统的平衡。"
+      "en-GB": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres (263,000 hectares) of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "de-DE": "Die John Muir Wilderness in der Nähe von Bishop in Kalifornien, USA, zählt zu den eindrucksvollsten Hochgebirgslandschaften der Sierra Nevada. Das 1964 eingerichtete Schutzgebiet erstreckt sich über eine weite, nahezu unberührte Region mit Granitformationen, klaren Seen und alpinen Tälern. Berühmte Fernwanderwege führen durch dieses Gebiet und ziehen Naturbegeisterte aus aller Welt an. Inmitten dieser Landschaft liegt der Marie Lake auf etwa 3.215 Metern Höhe, eingebettet zwischen Felsen und lichten Wäldern. Sein klares Wasser spiegelt die umliegenden Berge und macht ihn zu einem eindrucksvollen Ziel nach einem langen Aufstieg.",
+      "es-ES": "En el área silvestre John Muir, cerca de Bishop, en California, Estados Unidos, las montañas cuentan una historia grabada en granito, lagos y valles moldeados durante millones de años. Este espacio protegido, creado en 1964, forma parte de la Sierra Nevada estadounidense y recuerda, por su altitud y paisaje alpino, a grandes macizos de alta montaña en España, como los Pirineos, donde la naturaleza también marca el ritmo.",
+      "ja-JP": "ジョン・ミュア・ウィルダネスは、1964 年に設立された約 2600km² の面積を誇る広大な原生自然の保護区域です。米国カリフォルニア州のシエラネバダ山脈中央部に位置しています。4000m を超える山々が連なる米国最大級の高地原生地域の一つであり、多くのハイカーを惹きつけています。そして、今日の画像は、保護区域内の標高約 3200m に位置するマリー・レイク。静かな高山湖として、バックパッカーに人気の撮影スポットです。",
+      "en-IN": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,600 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "en-US": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes, and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "en-CA": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,630 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "it-IT": "Nell'Area selvaggia John Muir, vicino a Bishop, in California, la montagna racconta milioni di anni di storia attraverso valli, laghi e imponenti formazioni granitiche. Istituita nel 1964, questa vasta zona protetta si estende per oltre 263.000 ettari nella Sierra Nevada. Sentieri iconici come il Pacific Crest Trail attraversano questi paesaggi d'alta quota, offrendo un'esperienza che, per isolamento e natura intatta, può ricordare le aree più remote del Parco Nazionale dello Stelvio.",
+      "zh-CN": "攀登后的奖励. 玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国. 如果山脉能够记录过去，那么位于加利福尼亚州毕晓普附近的约翰·缪尔荒野保护区将拥有丰富的历史资料可供分享。这里的山谷、湖泊和花岗岩地貌诉说着数百万年来的演变历程。这片广袤的保护区成立于1964年，横跨内华达山脉超过65万英亩的土地，并以博物学家约翰·缪尔的名字命名。如今，太平洋山脊步道和约翰·缪尔步道的部分路段穿过这里，吸引着徒步旅行者来到美国本土最大的高海拔荒野地区之一。"
     },
     "quickFacts": {
-      "en-US": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
-      "en-GB": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
-      "en-CA": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
-      "de-DE": "Der Grönlandhai kann bis zu 400 Jahre alt werden und gehört damit zu den langlebigsten Wirbeltieren überhaupt.",
-      "fr-FR": "Le requin-citron naît indépendant, capable de chasser seul dès sa sortie du ventre.",
-      "zh-CN": "格陵兰鲨的寿命可达400年，是脊椎动物中寿命最长的物种之一。",
-      "en-IN": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate."
+      "zh-CN": "约翰·缪尔荒野包含阿拉斯加州以外美国本土的一些最高山峰，其中包括惠特尼峰，它是美国本土最高的山脉，海拔达14,505英尺（约 4,421 米）。"
     },
     "captions": {
-      "en-GB": "Shark Awareness Day",
-      "de-DE": "Tag der Haie",
+      "en-GB": "Marie Lake, John Muir Wilderness, California, United States",
+      "de-DE": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA",
       "it-IT": "",
-      "es-ES": "Día Mundial de los Tiburones",
-      "ja-JP": "今日はサメ啓発の日",
+      "es-ES": "Marie Lake, Área silvestre John Muir, California, EE. UU.",
+      "ja-JP": "山々に囲まれた湖",
       "zh-CN": "",
-      "en-IN": "Shark Awareness Day"
+      "en-IN": "Marie Lake, John Muir Wilderness, California, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260713_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Tag+der+Haie&form=hpcapt&filters=HpDate%3a%2220260713_2200%22",
-      "it-IT": "https://www.bing.com/search?q=squalo+limone&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Tiburones&form=hpcapt&filters=HpDate%3a%2220260713_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%a1%e5%95%93%e7%99%ba%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260713_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%9f%a0%e6%aa%ac%e9%b2%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260713_1830%22"
+      "en-GB": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260714_2300%22",
+      "de-DE": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Area+selvaggia+John+Muir&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=%c3%81rea+silvestre+John+Muir&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%bb%e3%83%9f%e3%83%a5%e3%82%a2%e3%83%bb%e3%82%a6%e3%82%a3%e3%83%ab%e3%83%80%e3%83%8d%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220260714_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%ba%a6%e7%bf%b0%c2%b7%e7%bc%aa%e5%b0%94%e8%8d%92%e9%87%8e&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260714_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.LemonShark_EN-GB6406610577",
-      "de-DE": "/th?id=OHR.LemonShark_DE-DE6087754416",
-      "it-IT": "/th?id=OHR.LemonShark_IT-IT7940960388",
-      "es-ES": "/th?id=OHR.LemonShark_ES-ES9243591847",
-      "ja-JP": "/th?id=OHR.LemonShark_JA-JP9266528977",
-      "zh-CN": "/th?id=OHR.LemonShark_ZH-CN4650331008",
-      "en-IN": "/th?id=OHR.LemonShark_EN-IN7069732478"
+      "en-GB": "/th?id=OHR.MarieLake_EN-GB7432567016",
+      "de-DE": "/th?id=OHR.MarieLake_DE-DE6487639165",
+      "it-IT": "/th?id=OHR.MarieLake_IT-IT8390636002",
+      "es-ES": "/th?id=OHR.MarieLake_ES-ES0302365880",
+      "ja-JP": "/th?id=OHR.MarieLake_JA-JP9898730602",
+      "zh-CN": "/th?id=OHR.MarieLake_ZH-CN4927917413",
+      "en-IN": "/th?id=OHR.MarieLake_EN-IN7488025421"
     }
   },
   "LlanthonyPriory2026": {
@@ -1909,117 +1927,6 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875"
-    }
-  },
-  "KaysersbergVillage": {
-    "name": "KaysersbergVillage",
-    "urlbase": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742",
-    "date": "20260630",
-    "dateFormatted": "June 30, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "This is your detour. Kaysersberg, Alsace, France",
-      "en-CA": "This is your detour. Kaysersberg, Alsace, France",
-      "de-DE": "Im Herzen des Elsass. Kaysersberg, Elsass, Frankreich",
-      "fr-FR": "Faire un Tour au village. Kaysersberg, Alsace",
-      "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
-      "pt-BR": "Do império à enoteca",
-      "zh-CN": "此行，不虚绕道",
-      "en-IN": "This is your detour. Kaysersberg, Alsace, France"
-    },
-    "copyrights": {
-      "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-      "en-CA": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-      "de-DE": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
-      "fr-FR": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
-      "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
-      "pt-BR": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
-      "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
-      "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
-    },
-    "descs": {
-      "en-GB": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
-      "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
-      "de-DE": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
-      "fr-FR": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
-      "es-ES": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
-      "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
-      "pt-BR": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
-      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。"
-    },
-    "quickFacts": {
-      "zh-CN": "白鹳（Ciconia ciconia）的复育生境在凯泽斯堡，阿尔萨斯，法国具有典型的生态指标意义，自1970年代险些灭绝后的保护行动，使这种标志性鸟类重新在村落的烟囱顶端筑巢，成为衡量当地跨区域生态系统健康的重要标志。"
-    },
-    "captions": {
-      "en-GB": "Kaysersberg, Alsace, France",
-      "en-CA": "Kaysersberg, Alsace, France",
-      "de-DE": "Kaysersberg, Elsass, Frankreich",
-      "fr-FR": "Kaysersberg, Alsace",
-      "es-ES": "Kaysersberg, Alsacia, Francia",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Kaysersberg, Alsace, France"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260630_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260704_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Kaysersberg&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Kaysersberg+Francia&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Alsacia+Franca&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%87%af%e6%b3%bd%e6%96%af%e5%a0%a1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742",
-      "en-CA": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
-      "de-DE": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295",
-      "fr-FR": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
-      "es-ES": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084",
-      "pt-BR": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338",
-      "zh-CN": "/th?id=OHR.KaysersbergVillage_ZH-CN0445080679",
-      "en-IN": "/th?id=OHR.KaysersbergVillage_EN-IN4147544931"
     }
   },
   "BoneyardBeach": {
@@ -2123,6 +2030,109 @@
       "en-CA": "/th?id=OHR.SummerBC_EN-CA3026184215"
     }
   },
+  "KaysersbergVillage": {
+    "name": "KaysersbergVillage",
+    "urlbase": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
+    "date": "20260704",
+    "dateFormatted": "July 04, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-CA": "This is your detour. Kaysersberg, Alsace, France",
+      "de-DE": "Im Herzen des Elsass. Kaysersberg, Elsass, Frankreich",
+      "fr-FR": "Faire un Tour au village. Kaysersberg, Alsace",
+      "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
+      "pt-BR": "Do império à enoteca",
+      "zh-CN": "此行，不虚绕道",
+      "en-IN": "This is your detour. Kaysersberg, Alsace, France",
+      "en-GB": "This is your detour. Kaysersberg, Alsace, France"
+    },
+    "copyrights": {
+      "en-CA": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "de-DE": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
+      "fr-FR": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
+      "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
+      "pt-BR": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
+      "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
+      "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
+      "de-DE": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
+      "fr-FR": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
+      "es-ES": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
+      "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
+      "en-GB": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
+      "pt-BR": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
+      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。"
+    },
+    "quickFacts": {
+      "zh-CN": "白鹳（Ciconia ciconia）的复育生境在凯泽斯堡，阿尔萨斯，法国具有典型的生态指标意义，自1970年代险些灭绝后的保护行动，使这种标志性鸟类重新在村落的烟囱顶端筑巢，成为衡量当地跨区域生态系统健康的重要标志。"
+    },
+    "captions": {
+      "en-CA": "Kaysersberg, Alsace, France",
+      "de-DE": "Kaysersberg, Elsass, Frankreich",
+      "fr-FR": "Kaysersberg, Alsace",
+      "es-ES": "Kaysersberg, Alsacia, Francia",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Kaysersberg, Alsace, France"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260704_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Kaysersberg&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Kaysersberg+Francia&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Alsacia+Franca&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e5%87%af%e6%b3%bd%e6%96%af%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_1830%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
+      "de-DE": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295",
+      "fr-FR": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
+      "es-ES": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084",
+      "pt-BR": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338",
+      "zh-CN": "/th?id=OHR.KaysersbergVillage_ZH-CN0445080679",
+      "en-IN": "/th?id=OHR.KaysersbergVillage_EN-IN4147544931"
+    }
+  },
   "MunichTwilight": {
     "name": "MunichTwilight",
     "urlbase": "/th?id=OHR.MunichTwilight_DE-DE5540064188",
@@ -2153,38 +2163,6 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.MunichTwilight_DE-DE5540064188"
-    }
-  },
-  "NeckarVineyards": {
-    "name": "NeckarVineyards",
-    "urlbase": "/th?id=OHR.NeckarVineyards_DE-DE0300601892",
-    "date": "20260630",
-    "dateFormatted": "June 30, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Rebhänge im Abendlicht. Weinberge im Neckartal bei Stuttgart, Baden‑Württemberg"
-    },
-    "copyrights": {
-      "de-DE": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Oberhalb des Neckars bei Stuttgart ziehen sich terrassierte Weinberge die Hänge hinauf und prägen eine der charakteristischsten Kulturlandschaften des Neckartals. Beim Blick über den Fluss zeichnen sich die markanten Linien der Rebreihen und Trockenmauern ab. Sie schmiegen sich harmonisch an die Hänge und werden vielerorts noch in aufwendiger Handarbeit von den sogenannten Wengertern gepflegt. Das milde Klima begünstigt traditionelle Rebsorten wie Trollinger und Riesling, die bis heute eng mit der Weinbaugeschichte Württembergs verbunden sind."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Weinberge im Neckartal bei Stuttgart, Baden‑Württemberg"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Stuttgart+Neckar&form=hpcapt&filters=HpDate%3a%2220260630_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.NeckarVineyards_DE-DE0300601892"
     }
   },
   "BastilleSacreCoeur": {
@@ -2377,6 +2355,118 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.Tanabata2026_JA-JP9678732410"
+    }
+  },
+  "MasaiGiraffe": {
+    "name": "MasaiGiraffe",
+    "urlbase": "/th?id=OHR.MasaiGiraffe_EN-US2240704874",
+    "date": "20260630",
+    "dateFormatted": "June 30, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Where shadows stretch tall. Giraffes at sunset in the Masai Mara National Reserve, Kenya",
+      "en-CA": "Where shadows stretch tall. Giraffes at sunset in the Masai Mara National Reserve, Kenya",
+      "pt-BR": "O entardecer das gigantes",
+      "en-GB": "Where shadows stretch tall. Giraffes in the Masai Mara National Reserve, Kenya",
+      "de-DE": "Wo sich die Schatten in die Länge ziehen. Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia",
+      "fr-FR": "Jouer à l’ombre la plus longue. Réserve nationale du Masai Mara, Kenya",
+      "it-IT": "La vista dalla cima è meravigliosa",
+      "es-ES": "¡Una vista fascinante!. Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia",
+      "ja-JP": "夕焼けに浮かぶキリンの影",
+      "zh-CN": "阴影被拉得修长之处",
+      "en-IN": "Where shadows stretch tall. Giraffes in the Masai Mara National Reserve, Kenya"
+    },
+    "copyrights": {
+      "en-US": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+      "en-CA": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+      "pt-BR": "Girafas ao pôr do sol na Reserva Nacional Masai Mara, Quênia (© danm/Getty Images)",
+      "en-GB": "Giraffes in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+      "de-DE": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia (© danm/Getty Images)",
+      "fr-FR": "Girafes au coucher du soleil, Masai Mara, Kenya (© danm/Getty Images)",
+      "it-IT": "Giraffe al tramonto nella Riserva Nazionale Masai Mara, Kenya (© danm/Getty Images)",
+      "es-ES": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia (© danm/Getty Images)",
+      "ja-JP": "マサイキリン, ケニヤ (© danm/Getty Images)",
+      "zh-CN": "马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)",
+      "en-IN": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)"
+    },
+    "descs": {
+      "en-US": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 580 square miles in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees, and the life-giving Mara River set the stage for unforgettable encounters.",
+      "en-CA": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 1,500 square kilometres in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
+      "en-GB": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 580 square miles in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
+      "de-DE": "Das Masai-Mara-Nationalreservat im Südwesten Kenias umfasst etwa 1500 Quadratkilometer und grenzt direkt an die Serengeti in Tansania. Es zählt zu den bedeutendsten Schutzgebieten für Wildtiere weltweit. Die Landschaft besteht aus offenen Grasflächen, locker verteilten Akazien und dem Mara-Fluss als zentraler Wasserquelle. Diese Bedingungen ermöglichen eine hohe Artenvielfalt und prägen das ökologische Gleichgewicht. In den Abendstunden, wenn die Sonne sinkt, verbessern sich die Sichtverhältnisse und viele Tiere werden in der weiten Savanne deutlich erkennbar.",
+      "fr-FR": "Alors que le soleil décline sur la réserve nationale du Masai Mara, les girafes masaï se découpent sur un ciel flamboyant et des plaines infinies. Située au sud-ouest du Kenya, à la frontière du parc national du Serengeti en Tanzanie, cette réserve d’environ 1 500 km² est l’un des plus grands sanctuaires animaliers au monde. Ses prairies vallonnées, ses acacias dispersés et la rivière Mara, essentielle à l’écosystème, en font un lieu privilégié pour observer la faune.",
+      "es-ES": "En la Reserva Nacional Masai Mara, en Kenia, las jirafas masái dominan el horizonte cuando el sol se funde con la sabana en tonos ardientes. Este santuario natural, que se extiende por unos 1.500 km² en el suroeste del país, forma parte de uno de los grandes escenarios de vida salvaje del planeta, conectado con el Serengeti. Entre praderas abiertas, acacias dispersas y el río Mara, la naturaleza marca un ritmo que impresiona por su escala y su intensidad.",
+      "ja-JP": "今日の画像は、ケニアのマサイマラ国立保護区で撮影されたマサイキリンです。マサイキリンは、他のキリン同様体に模様があり、ギザギザとした葉のような形をしているのが特徴です。この模様は、人間の指紋のように、個体ごとに異なります。彼らは、一日の大半を食事に充てており、長い舌を器用に使って鋭い棘の間から葉を摘み取って食べています。普段は穏やかで優雅に過ごしていますが、捕食者から逃げる際などは時速約 55km に達する速さで走れます。",
+      "en-IN": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 1,500 square kilometres in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
+      "it-IT": "Nel Masai Mara in Kenya, le giraffe Masai si stagliano al tramonto come silhouette eleganti contro un cielo rosso intenso. Quando la luce si abbassa, la riserva — un’enorme distesa di circa 1.500 km² al confine con il Serengeti — si trasforma in un teatro naturale fatto di praterie ondulate, acacie isolate e il sinuoso fiume Mara. Qui ogni dettaglio racconta la vita allo stato puro.",
+      "pt-BR": "À medida que o sol se aproxima do horizonte, as girafas‑masai vistas na imagem ganham forma em contraste com o céu quente do Quênia. A cena acontece na Reserva Nacional de Masai Mara, um mosaico de campos abertos, acácias espaçadas e o rio Mara, que mantém a vida circulando em um dos maiores palcos naturais do planeta.",
+      "zh-CN": "阴影被拉得修长之处. 马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚. 当夕阳在马赛马拉国家保护区缓缓西沉，马赛长颈鹿的剪影映衬着绚烂如火的天空与辽阔原野，显得格外醒目。这座保护区位于肯尼亚西南部，与坦桑尼亚的塞伦盖蒂国家公园接壤，占地约580平方英里；随着夜幕降临，这里又度过了精彩的一天。这是一片广袤无垠的土地，也是世界上最壮观的野生动物乐园之一。起伏的草原、零星点缀的金合欢树，以及孕育万物的马拉河，共同构成了上演难忘邂逅的绝佳舞台。"
+    },
+    "quickFacts": {
+      "zh-CN": "长颈鹿的心脏重量可超过11千克（25磅），能够将血液克服重力输送至近2米高的头部，是陆地动物中极为强大的循环系统之一。"
+    },
+    "captions": {
+      "en-US": "Giraffes at sunset in the Masai Mara National Reserve, Kenya",
+      "en-CA": "Giraffes at sunset in the Masai Mara National Reserve, Kenya",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260630_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260630_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Reserva+Nacional+Masai+Mara+Quenia&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MasaiGiraffe_EN-US2240704874",
+      "en-CA": "/th?id=OHR.MasaiGiraffe_EN-CA5473733652",
+      "pt-BR": "/th?id=OHR.MasaiGiraffe_PT-BR8199198867"
+    }
+  },
+  "NeckarVineyards": {
+    "name": "NeckarVineyards",
+    "urlbase": "/th?id=OHR.NeckarVineyards_DE-DE0300601892",
+    "date": "20260630",
+    "dateFormatted": "June 30, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Rebhänge im Abendlicht. Weinberge im Neckartal bei Stuttgart, Baden‑Württemberg"
+    },
+    "copyrights": {
+      "de-DE": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Oberhalb des Neckars bei Stuttgart ziehen sich terrassierte Weinberge die Hänge hinauf und prägen eine der charakteristischsten Kulturlandschaften des Neckartals. Beim Blick über den Fluss zeichnen sich die markanten Linien der Rebreihen und Trockenmauern ab. Sie schmiegen sich harmonisch an die Hänge und werden vielerorts noch in aufwendiger Handarbeit von den sogenannten Wengertern gepflegt. Das milde Klima begünstigt traditionelle Rebsorten wie Trollinger und Riesling, die bis heute eng mit der Weinbaugeschichte Württembergs verbunden sind."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Weinberge im Neckartal bei Stuttgart, Baden‑Württemberg"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Stuttgart+Neckar&form=hpcapt&filters=HpDate%3a%2220260630_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.NeckarVineyards_DE-DE0300601892"
     }
   },
   "JogFalls2026": {
