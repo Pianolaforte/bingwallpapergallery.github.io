@@ -1,4 +1,115 @@
 {
+  "NavyPier": {
+    "name": "NavyPier",
+    "urlbase": "/th?id=OHR.NavyPier_EN-US1069960047",
+    "date": "20260716",
+    "dateFormatted": "July 16, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "en-US": "A waterfront chameleon. Navy Pier, Chicago, Illinois",
+      "en-CA": "A waterfront chameleon. Navy Pier, Chicago, Illinois, United States",
+      "de-DE": "Ein Wahrzeichen Chicagos. Navy Pier in Chicago, Illinois, USA",
+      "it-IT": "Divertimento sul molo",
+      "es-ES": "Un camaleón en el puerto. Muelle de la Armada, Chicago, Illinois, EE. UU.",
+      "pt-BR": "Um cais camaleônico",
+      "ja-JP": "活気あふれる桟橋の夜景",
+      "zh-CN": "滨水变色龙"
+    },
+    "copyrights": {
+      "en-US": "Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)",
+      "en-CA": "Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)",
+      "de-DE": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
+      "it-IT": "Navy Pier, Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
+      "es-ES": "Muelle de la Armada, Chicago, Illinois, EE. UU. (© Christopher.F Photography/Getty Images)",
+      "pt-BR": "Navy Pier, Chicago, Illinois, Estados Unidos (© Christopher.F Photography/Getty Images)",
+      "ja-JP": "ネイビー・ピア, 米国イリノイ州 (© Christopher.F Photography/Getty Images)",
+      "zh-CN": "海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, falls into the second category. The structure stretches more than 3,000 feet into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation, and passenger travel on Lake Michigan. It was renamed Navy Pier in honor of World War I naval veterans.",
+      "en-CA": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
+      "de-DE": "Der Navy Pier am Ufer des Michigansees in Chicago, USA, gilt als eines der bekanntesten Wahrzeichen der Stadt und steht exemplarisch für ihren Wandel. Seine Planung geht auf das Jahr 1909 zurück, als Daniel Burnham und Edward H. Bennett einen umfassenden Stadtplan entwickelten. Der Pier wurde 1916 eröffnet und diente zunächst als Umschlagplatz für Waren, als Anlegestelle für Passagiere sowie als Erholungsort für die Bevölkerung.",
+      "es-ES": "En el Muelle de la Armada, en Chicago, Estados Unidos, una pasarela histórica se adentra más de 900 m en el lago Míchigan y muestra cómo un espacio puede reinventarse sin dejar atrás su pasado. Diseñado dentro del Plan de Chicago de 1909 y abierto en 1916, nació como punto estratégico para transporte, ocio y comercio, además de rendir homenaje a los veteranos navales de la Primera Guerra Mundial.",
+      "ja-JP": "活気あふれる桟橋の夜景. ネイビー・ピア, 米国イリノイ州. ここは、ネイビー・ピア。米国イリノイ州シカゴの、ミシガン湖岸に延びる全長約 1km の桟橋です。1914 年にシカゴ都市計画の一環として建設が始まり、1916 年に一般公開されました。当初は貨物輸送などを担う公共インフラでしたが、第二次世界大戦中には米国海軍の訓練拠点としても利用されていました。現在は、公園やイベントスペース、レストランなどが並ぶ観光名所となり、日々多くの人々が訪れています。",
+      "it-IT": "Al Navy Pier di Chicago, un molo lungo più di 900 metri dimostra come un luogo possa cambiare anima senza perdere identità. Nato nel 1916 all'interno del piano urbanistico del 1909, fu progettato per il trasporto di merci, viaggiatori e lo svago sul Lago Michigan, poi dedicato ai veterani della Prima guerra mondiale.",
+      "pt-BR": "O Navy Pier, em Chicago, tem um currículo que poucos lugares conseguem igualar. Avançando mais de 1 quilômetro sobre as águas do Lago Michigan, ele foi inaugurado em 1916 como um dos maiores píeres do mundo. Recebia cargas, passageiros e atividades de lazer em uma cidade que crescia diante de um dos Grandes Lagos.",
+      "zh-CN": "滨水变色龙. 海军码头，芝加哥，伊利诺伊州，美国. 有些地方的建造目的单一，而有些地方则不断推陈出新。位于伊利诺伊州芝加哥的海军码头就属于后者。这座码头向湖中延伸超过3000英尺，是爱德华·H·贝内特和丹尼尔·伯纳姆于1909年制定的芝加哥规划的一部分。码头于1916年开放，最初是为了服务于密歇根湖上的航运、休闲娱乐和客运而建。为了纪念第一次世界大战的海军老兵，码头被更名为海军码头。"
+    },
+    "quickFacts": {
+      "zh-CN": "海军码头最初被命名为“市立码头”，但在 1927 年被正式更名为“海军码头”，以纪念在第一次世界大战期间服役的海军官兵。"
+    },
+    "captions": {
+      "en-US": "Navy Pier, Chicago, Illinois",
+      "en-CA": "Navy Pier, Chicago, Illinois, United States",
+      "de-DE": "Navy Pier in Chicago, Illinois, USA",
+      "it-IT": "",
+      "es-ES": "Muelle de la Armada, Chicago, Illinois, EE. UU.",
+      "pt-BR": "",
+      "ja-JP": "活気あふれる桟橋の夜景",
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Navy+Pier+Chicago+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Muelle+de+la+Armada+Chicago&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Navy+Pier+Estados+Unidos&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8d%e3%82%a4%e3%83%93%e3%83%bc%e3%83%bb%e3%83%94%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260715_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%8a%9d%e5%8a%a0%e5%93%a5%e6%b5%b7%e5%86%9b%e7%a0%81%e5%a4%b4&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.NavyPier_EN-US1069960047",
+      "en-CA": "/th?id=OHR.NavyPier_EN-CA7051482723",
+      "de-DE": "/th?id=OHR.NavyPier_DE-DE6672447932",
+      "it-IT": "/th?id=OHR.NavyPier_IT-IT8293754052",
+      "es-ES": "/th?id=OHR.NavyPier_ES-ES1489693745",
+      "pt-BR": "/th?id=OHR.NavyPier_PT-BR4218227814",
+      "ja-JP": "/th?id=OHR.NavyPier_JA-JP0160307645",
+      "zh-CN": "/th?id=OHR.NavyPier_ZH-CN4649271588"
+    }
+  },
   "MarieLake": {
     "name": "MarieLake",
     "urlbase": "/th?id=OHR.MarieLake_EN-US0365186943",
@@ -758,7 +869,7 @@
       "fr-FR": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
       "es-ES": "Victoria, en el sureste de Australia, despliega más de 1.800 kilómetros de costa modelada por el océano Antártico, donde playas de arena clara se funden con aguas turquesas y acantilados escarpados. Desde el aire, el paisaje recuerda por momentos a la Costa Brava en Girona, aunque aquí la escala es más salvaje y abierta.",
       "ja-JP": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
-      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia. Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
+      "en-IN": "Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
       "it-IT": "Victoria, stato nel sud-est dell’Australia, si estende lungo oltre 1.800 km di costa modellata dall’Oceano Meridionale: dall’alto, le sue spiagge appaiono come nastri chiari tra acque turchesi e scogliere scolpite. Questo dialogo continuo tra terra e mare ricorda, per intensità e varietà, alcuni tratti della Sardegna o della Costiera Amalfitana, pur con un carattere più selvaggio e ventoso. La celebre Great Ocean Road percorre circa 240 km di litorale, tra spot di surf, promontori boscosi e piccoli centri affacciati sull’oceano.",
       "pt-BR": "A imagem do dia traz o litoral do estado australiano de Vitória, onde o encontro entre terra e mar está sempre sendo redesenhado. Faixas de areia clara se alternam com água azul intensa e paredões que parecem ter sido recortados com cuidado, em um cenário marcado pela ação contínua do oceano.",
       "zh-CN": "陆地与海洋的鸟瞰图. 陆地与海洋的鸟瞰图，维多利亚州，澳大利亚. 维多利亚州位于澳大利亚东南部，坐拥由南大洋雕琢而成的绵延千余英里的海岸线。从高空俯瞰，这里的海滩宛如一条条宽阔的浅色沙带，边缘环绕着碧绿的海水与崎岖的峭壁。这种海陆交融的独特景致构成了该地区的主要魅力所在。著名的“大洋路”沿这段海岸线蜿蜒延伸约150英里，途经热门冲浪胜地、林木葱郁的海角以及各具特色的海滨小镇。"
@@ -1553,14 +1664,81 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-CA": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "pt-BR": "O código luminoso da natureza",
+      "en-GB": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "de-DE": "Die Poesie des schwindenden Lichts. Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
+      "fr-FR": "La féerie des lucioles. Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
+      "it-IT": "La poesia della luce che svanisce",
+      "es-ES": "La luz de la naturaleza. Luciérnagas, prefectura de Okayama, Japón",
+      "zh-CN": "流光之诗",
+      "en-IN": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan"
+    },
+    "copyrights": {
+      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "pt-BR": "Vaga-lumes sobre um riacho, província de Okayama, Japão (© tdub303/Getty Images)",
+      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
+      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
+      "it-IT": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone (© tdub303/Getty Images)",
+      "es-ES": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
+      "zh-CN": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)",
+      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
+    },
+    "descs": {
+      "en-US": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signaling. On warm, windless evenings, they often start glowing about two hours after sunset under favorable conditions, inviting silence beside water.",
+      "en-CA": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "en-GB": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "de-DE": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
+      "fr-FR": "Dans la préfecture d'Okayama, au Japon, lorsque l'air humide flotte au-dessus des cours d'eau, les hotaru, les lucioles japonaises, se mettent à clignoter. Elles s'illuminent souvent environ deux heures après le coucher du soleil, invitant au silence au bord de l'eau.",
+      "es-ES": "En la prefectura de Okayama, en Japón, las luciérnagas —conocidas como hotaru— transforman las noches de verano en un espectáculo silencioso sobre el agua. Cuando el aire húmedo envuelve arroyos y estanques, comienzan a brillar unas horas después del atardecer, creando una coreografía de luz que invita a la calma.",
+      "en-IN": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "it-IT": "La poesia della luce che svanisce. Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone. Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.",
+      "pt-BR": "Se estiver caminhando por uma noite calma no Japão e o ar se encher de pontos de luz, não são estrelas perdidas: são vaga-lumes. A foto de hoje vem da província de Okayama, onde esses pequenos besouros transformam as margens do riacho numa conversa luminosa. Cada espécie pisca num ritmo próprio, como uma assinatura em neon usada para se reconhecer e encontrar parceiros.",
+      "zh-CN": "流光之诗. 小溪上方的萤火虫，冈山县，日本. 在冈山县（Okayama Prefecture），当湿润的空气笼罩在溪流之上，被称为“hotaru”的日本萤火虫便开始发出信号。在温暖无风的夜晚，如果条件理想，它们通常会在日落约两小时后开始发光，发散出一种水边独有的静谧感。"
+    },
+    "quickFacts": {
+      "zh-CN": "环境健康的生物指标在冈山县，日本表现得尤为典型，特别是源氏萤（Luciola cruciata）对水质极其敏感，它们需要含氧量高且清澈的流动水源以及极低的光污染环境才能完成其复杂的生命周期"
+    },
+    "captions": {
+      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=vaga+lumes&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
+      "en-CA": "/th?id=OHR.FirefliesJapan_EN-CA2012875414",
+      "pt-BR": "/th?id=OHR.FirefliesJapan_PT-BR7106842411"
+    }
+  },
+  "VaiUmbrellas": {
+    "name": "VaiUmbrellas",
+    "urlbase": "/th?id=OHR.VaiUmbrellas_EN-GB3361752741",
+    "date": "20260716",
+    "dateFormatted": "July 16, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1578,16 +1756,6 @@
         "flag": "it"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -1599,167 +1767,58 @@
       }
     ],
     "titles": {
-      "en-US": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "en-GB": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "en-CA": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "de-DE": "Die Poesie des schwindenden Lichts. Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
-      "fr-FR": "La féerie des lucioles. Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
-      "it-IT": "La poesia della luce che svanisce",
-      "es-ES": "La luz de la naturaleza. Luciérnagas, prefectura de Okayama, Japón",
-      "pt-BR": "O código luminoso da natureza",
-      "zh-CN": "流光之诗",
-      "en-IN": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan"
+      "en-GB": "A Greek escape. Vai, Crete, Greece",
+      "de-DE": "Karibik-Flair im Mittelmeer. Vai, Kreta, Griechenland",
+      "fr-FR": "Quand l’évasion rime avec préservation. Plage de Vaï, Crète, Grèce",
+      "it-IT": "Hellas e Geometria",
+      "zh-CN": "希腊式的逃离",
+      "en-IN": "A Greek escape. Vai, Crete, Greece",
+      "en-US": "A Greek escape. Sunbeds on the beach at Vai, Crete, Greece"
     },
     "copyrights": {
-      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
-      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
-      "it-IT": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone (© tdub303/Getty Images)",
-      "es-ES": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
-      "pt-BR": "Vaga-lumes sobre um riacho, província de Okayama, Japão (© tdub303/Getty Images)",
-      "zh-CN": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)",
-      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
+      "en-GB": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
+      "de-DE": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
+      "fr-FR": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
+      "it-IT": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
+      "zh-CN": "瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)",
+      "en-IN": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
+      "en-US": "© borchee/Getty Images"
     },
     "descs": {
-      "en-US": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signaling. On warm, windless evenings, they often start glowing about two hours after sunset under favorable conditions, inviting silence beside water.",
-      "en-GB": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "en-CA": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "de-DE": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
-      "fr-FR": "Dans la préfecture d'Okayama, au Japon, lorsque l'air humide flotte au-dessus des cours d'eau, les hotaru, les lucioles japonaises, se mettent à clignoter. Elles s'illuminent souvent environ deux heures après le coucher du soleil, invitant au silence au bord de l'eau.",
-      "es-ES": "En la prefectura de Okayama, en Japón, las luciérnagas —conocidas como hotaru— transforman las noches de verano en un espectáculo silencioso sobre el agua. Cuando el aire húmedo envuelve arroyos y estanques, comienzan a brillar unas horas después del atardecer, creando una coreografía de luz que invita a la calma.",
-      "en-IN": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "it-IT": "La poesia della luce che svanisce. Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone. Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.",
-      "pt-BR": "Se estiver caminhando por uma noite calma no Japão e o ar se encher de pontos de luz, não são estrelas perdidas: são vaga-lumes. A foto de hoje vem da província de Okayama, onde esses pequenos besouros transformam as margens do riacho numa conversa luminosa. Cada espécie pisca num ritmo próprio, como uma assinatura em neon usada para se reconhecer e encontrar parceiros.",
-      "zh-CN": "流光之诗. 小溪上方的萤火虫，冈山县，日本. 在冈山县（Okayama Prefecture），当湿润的空气笼罩在溪流之上，被称为“hotaru”的日本萤火虫便开始发出信号。在温暖无风的夜晚，如果条件理想，它们通常会在日落约两小时后开始发光，发散出一种水边独有的静谧感。"
+      "en-GB": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas and showers, it's ideal for swimming, relaxing or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
+      "de-DE": "Im Osten der griechischen Insel Kreta liegt ein echtes Naturparadies: Vai. Der idyllische Küstenort, 94 Kilometer östlich von Agios Nikolaos und 24 Kilometer von Sitia entfernt, begeistert mit hellem Sand, türkisfarbenem Wasser und mediterranem Flair. Auf unserem heutigen Bild setzen die in Reihen angeordneten blauen Sonnenschirme farbenfrohe Akzente auf dem goldenen Sand und vermitteln die entspannte Atmosphäre dieses beliebten Strandes. Besonders beeindruckend ist der natürliche Palmenhain mit mehr als 5.000 kretischen Dattelpalmen – der größte seiner Art in Europa. Einer Legende zufolge wuchsen die Palmen aus Dattelkernen, die Piraten hier einst zurückließen.",
+      "fr-FR": "Sur la pointe nord‑est de la Crète, loin de l’agitation touristique, la plage de Vaï déroule son croissant de sable doré, ses eaux turquoise et ses rangées de parasols qui invitent à la détente. Derrière ce décor se cache pourtant un trésor unique en Europe : la plus grande palmeraie de palmiers dattiers du continent, avec plus de 5 000 Phoenix theophrasti, une espèce endémique. Selon la légende, cette oasis serait née des noyaux jetés par des pirates arabes ou des soldats égyptiens.",
+      "en-IN": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas, and showers, it's ideal for swimming, relaxing, or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
+      "en-US": "On the remote northeastern tip of the island of Crete in Greece lies Vai—a quiet corner far from the usual tourist trail. At the heart of this region is its beach, a broad curve of golden sand kissed by the calm, shallow waters of the Aegean. With sunbeds, umbrellas, and showers, it's an ideal spot for swimming, relaxing, or simply soaking in the peaceful atmosphere. But what truly sets Vai apart lies just behind the sand: Europe's largest natural palm grove. It is made up of over 5,000 Cretan date palm trees, a species unique to Crete and parts of Türkiye.",
+      "it-IT": "Nel nord-est di Creta, la spiaggia di Vai si distingue dall'alto per un dettaglio sorprendente: file ordinate di ombrelloni azzurri che punteggiano una mezzaluna di sabbia dorata lambita dalle acque calme dell'Egeo. Appena oltre la riva, si estende la più grande palmaia naturale d'Europa, con oltre cinquemila palme da dattero cretesi, specie endemica dell'isola.",
+      "zh-CN": "希腊式的逃离. 瓦伊海滩上的日光浴躺椅，克里特岛，希腊. 在克里特岛的东北角，坐落着一个远离游客喧嚣的静谧之地瓦伊。这片区域的核心景观是其海滩：金黄色的沙滩沿着平静的爱琴海浅水缓缓展开，设有躺椅、遮阳伞与淋浴设施，为游泳、放松或安静休憩提供理想场所。瓦伊最引人注目的特色在于其沙滩背后有着欧洲最大的天然棕榈林。该棕榈林由5000多棵克里特枣椰树构成，这是一种仅分布于克里特岛及土耳其部分地区的特有树种。"
     },
     "quickFacts": {
-      "zh-CN": "环境健康的生物指标在冈山县，日本表现得尤为典型，特别是源氏萤（Luciola cruciata）对水质极其敏感，它们需要含氧量高且清澈的流动水源以及极低的光污染环境才能完成其复杂的生命周期"
+      "zh-CN": "克里特岛是欧洲最早的高级文明：米诺斯文明的发源地，其兴盛时期约从公元前2700年延续至公元前1420年。"
     },
     "captions": {
-      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
-      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
+      "en-GB": "Vai, Crete, Greece",
+      "de-DE": "Vai, Kreta, Griechenland",
+      "fr-FR": "Plage de Vaï, Crète, Grèce",
       "it-IT": "",
-      "es-ES": "Luciérnagas, prefectura de Okayama, Japón",
-      "pt-BR": "",
       "zh-CN": "",
-      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan"
+      "en-IN": "Vai, Crete, Greece"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Gl%c3%bchw%c3%bcrmchen&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=luciole&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lampyridae&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Luci%c3%a9rnaga+insecto&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=vaga+lumes&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e8%90%a4%e7%81%ab%e8%99%ab&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Kreta+Griechenland&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Cr%c3%a8te&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+      "it-IT": "https://www.bing.com/search?q=L%27isola+Creta+Grecia&form=hpcapt",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e5%85%8b%e9%87%8c%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
-      "en-GB": "/th?id=OHR.FirefliesJapan_EN-GB8401520779",
-      "en-CA": "/th?id=OHR.FirefliesJapan_EN-CA2012875414",
-      "de-DE": "/th?id=OHR.FirefliesJapan_DE-DE4398668270",
-      "fr-FR": "/th?id=OHR.FirefliesJapan_FR-FR8593158782",
-      "it-IT": "/th?id=OHR.FirefliesJapan_IT-IT1298859269",
-      "es-ES": "/th?id=OHR.FirefliesJapan_ES-ES5556389569",
-      "pt-BR": "/th?id=OHR.FirefliesJapan_PT-BR7106842411",
-      "zh-CN": "/th?id=OHR.FirefliesJapan_ZH-CN0071253415",
-      "en-IN": "/th?id=OHR.FirefliesJapan_EN-IN4315418814"
-    }
-  },
-  "TempleEsna": {
-    "name": "TempleEsna",
-    "urlbase": "/th?id=OHR.TempleEsna_EN-US1999215513",
-    "date": "20260702",
-    "dateFormatted": "July 02, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "en-CA": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "it-IT": "All'interno dell'universo sacro di Esna",
-      "pt-BR": "O cosmos segundo Esna",
-      "en-GB": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "de-DE": "Ein Blick in Esnas Universum. Decke des Tempels von Esna, Ägypten",
-      "fr-FR": "Dans l'univers sacré d'Esna. Plafond du temple d'Esna, Égypte",
-      "es-ES": "Dentro del universo sagrado de Esna. Templo de Jnum en Esna, Egipto",
-      "ja-JP": "古代神殿の壮麗な内部空間",
-      "zh-CN": "走进埃斯纳神圣的世界",
-      "en-IN": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt"
-    },
-    "copyrights": {
-      "en-US": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "en-CA": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "it-IT": "Soffitto del Tempio di Khnum ad Esna, Egitto (© Nick Brundle Photography/Getty Images)",
-      "pt-BR": "Teto do Templo de Esna, Egito (© Nick Brundle Photography/Getty Images)",
-      "en-GB": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "de-DE": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
-      "fr-FR": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
-      "es-ES": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
-      "ja-JP": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
-      "zh-CN": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
-      "en-IN": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)"
-    },
-    "descs": {
-      "en-US": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have molded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honoring various deities.",
-      "en-CA": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "en-GB": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "de-DE": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
-      "fr-FR": "Au sud de Louxor, en Égypte, le temple d’Esna plonge les visiteurs dans le culte de Khnoum, dieu à tête de bélier associé à la création de l’Humanité à partir de l’argile du Nil. Principalement construit à l’époque ptolémaïque puis romaine, il possède une salle hypostyle remarquablement conservée, grâce à la poussière qui l’a couvert pendant des siècles.",
-      "es-ES": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
-      "ja-JP": "今日の画像は、古代エジプトにあるエスナ神殿（クヌム神殿）の天井です。エスナ神殿は、エジプト南部のナイル川西岸に位置し、主にプトレマイオス朝からローマ時代にかけて建設されました。現在残っている柱廊ホールは、24本の巨大な柱に支えられ、その柱や壁面には宗教的な文様が刻まれています。また、天井には黄道十二宮（星座）や天体図、神々などの天文学的装飾が描かれています。それらの装飾は儀礼や宇宙の循環などを象徴し、参拝者を神聖な世界へと導く役割を果たしていたと考えられています。",
-      "en-IN": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "it-IT": "Nel Tempio di Khnum ad Esna, in Egitto, si entra in un universo dove arte, mito e cielo si intrecciano in modo sorprendente. Dedicato al dio dalla testa d’ariete che, secondo la tradizione, plasmava l’umanità con l’argilla del Nilo, il santuario custodisce una sala sostenuta da ventiquattro colonne monumentali, ricche di rilievi e iscrizioni sacre.",
-      "pt-BR": "Uma construção pode nascer para durar. O Templo de Esna, no Egito, nasceu para conversar com o cosmos. Dedicado a Khnum, o deus com cabeça de carneiro que moldou a humanidade a partir do barro do Nilo, o templo tomou forma entre cerca de 200 a.C. e 250 d.C., atravessando períodos ptolemaicos e romanos sem perder a ambição.",
-      "zh-CN": "走进埃斯纳神圣的世界. 埃斯纳神庙穹顶天花板, 埃及. 在埃及卢克索以南的埃斯纳神庙（Temple of Esna），游客将步入一个充满生机的世界，这里供奉着公羊头神——赫努姆（Khnum）；传说他曾用尼罗河的黏土塑造了人类。这座神庙主要建于托勒密王朝和罗马统治时期，其现存的大厅由24根高耸的石柱支撑，每根柱子上都雕刻着精美的浮雕与颂扬诸神的仪式铭文。"
-    },
-    "quickFacts": {
-      "zh-CN": "数个世纪以来，埃斯纳神庙的大部分区域曾被淤泥和周边建筑掩埋，这在一定程度上减少了风化作用，使许多雕刻得以较好保存。"
-    },
-    "captions": {
-      "en-US": "Ceiling of the Temple of Esna, Egypt",
-      "en-CA": "Ceiling of the Temple of Esna, Egypt",
-      "it-IT": "",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260702_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260702_0400%22",
-      "it-IT": "https://www.bing.com/search?q=Tempio+di+Khnum+ad+Esna&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=Templo+Esna+Egito&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.TempleEsna_EN-US1999215513",
-      "en-CA": "/th?id=OHR.TempleEsna_EN-CA5880187651",
-      "it-IT": "/th?id=OHR.TempleEsna_IT-IT9484438188",
-      "pt-BR": "/th?id=OHR.TempleEsna_PT-BR4377934596"
+      "en-GB": "/th?id=OHR.VaiUmbrellas_EN-GB3361752741",
+      "de-DE": "/th?id=OHR.VaiUmbrellas_DE-DE2887576952",
+      "fr-FR": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342",
+      "it-IT": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780",
+      "zh-CN": "/th?id=OHR.VaiUmbrellas_ZH-CN1271422272",
+      "en-IN": "/th?id=OHR.VaiUmbrellas_EN-IN8171582034"
     }
   },
   "LlanthonyPriory2026": {
@@ -1836,11 +1895,6 @@
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
       }
     ],
     "titles": {
@@ -1883,16 +1937,13 @@
       "zh-CN": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
     },
     "captions": {
-      "en-CA": "Boneyard Beach, Hunting Island, South Carolina, United States",
-      "ja-JP": "夕焼けに染まる水辺と枯れ木"
+      "en-CA": "Boneyard Beach, Hunting Island, South Carolina, United States"
     },
     "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260711_0400%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e5%b3%b6%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260702_1500%22"
+      "en-CA": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260711_0400%22"
     },
     "urlbases": {
-      "en-CA": "/th?id=OHR.BoneyardBeach_EN-CA4145832513",
-      "ja-JP": "/th?id=OHR.BoneyardBeach_JA-JP3339035555"
+      "en-CA": "/th?id=OHR.BoneyardBeach_EN-CA4145832513"
     }
   },
   "SummerBC": {
@@ -2030,93 +2081,6 @@
       "en-IN": "/th?id=OHR.KaysersbergVillage_EN-IN4147544931"
     }
   },
-  "NavyPier": {
-    "name": "NavyPier",
-    "urlbase": "/th?id=OHR.NavyPier_DE-DE6672447932",
-    "date": "20260715",
-    "dateFormatted": "July 15, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      }
-    ],
-    "titles": {
-      "de-DE": "Ein Wahrzeichen Chicagos. Navy Pier in Chicago, Illinois, USA",
-      "it-IT": "Divertimento sul molo",
-      "es-ES": "Un camaleón en el puerto. Muelle de la Armada, Chicago, Illinois, EE. UU.",
-      "ja-JP": "活気あふれる桟橋の夜景",
-      "zh-CN": "滨水变色龙",
-      "en-US": "A waterfront chameleon. Navy Pier, Chicago, Illinois",
-      "en-CA": "A waterfront chameleon. Navy Pier, Chicago, Illinois, United States",
-      "pt-BR": "Um cais camaleônico. Navy Pier, Chicago, Illinois, Estados Unidos"
-    },
-    "copyrights": {
-      "de-DE": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
-      "it-IT": "Navy Pier, Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
-      "es-ES": "Muelle de la Armada, Chicago, Illinois, EE. UU. (© Christopher.F Photography/Getty Images)",
-      "ja-JP": "ネイビー・ピア, 米国イリノイ州 (© Christopher.F Photography/Getty Images)",
-      "zh-CN": "海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)",
-      "en-US": "© Christopher.F Photography/Getty Images",
-      "en-CA": "© Christopher.F Photography/Getty Images",
-      "pt-BR": "© Christopher.F Photography/Getty Images"
-    },
-    "descs": {
-      "de-DE": "Der Navy Pier am Ufer des Michigansees in Chicago, USA, gilt als eines der bekanntesten Wahrzeichen der Stadt und steht exemplarisch für ihren Wandel. Seine Planung geht auf das Jahr 1909 zurück, als Daniel Burnham und Edward H. Bennett einen umfassenden Stadtplan entwickelten. Der Pier wurde 1916 eröffnet und diente zunächst als Umschlagplatz für Waren, als Anlegestelle für Passagiere sowie als Erholungsort für die Bevölkerung.",
-      "es-ES": "En el Muelle de la Armada, en Chicago, Estados Unidos, una pasarela histórica se adentra más de 900 m en el lago Míchigan y muestra cómo un espacio puede reinventarse sin dejar atrás su pasado. Diseñado dentro del Plan de Chicago de 1909 y abierto en 1916, nació como punto estratégico para transporte, ocio y comercio, además de rendir homenaje a los veteranos navales de la Primera Guerra Mundial.",
-      "ja-JP": "活気あふれる桟橋の夜景. ネイビー・ピア, 米国イリノイ州. ここは、ネイビー・ピア。米国イリノイ州シカゴの、ミシガン湖岸に延びる全長約 1km の桟橋です。1914 年にシカゴ都市計画の一環として建設が始まり、1916 年に一般公開されました。当初は貨物輸送などを担う公共インフラでしたが、第二次世界大戦中には米国海軍の訓練拠点としても利用されていました。現在は、公園やイベントスペース、レストランなどが並ぶ観光名所となり、日々多くの人々が訪れています。",
-      "en-US": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, falls into the second category. The structure stretches more than 3,000 feet into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation, and passenger travel on Lake Michigan. It was renamed Navy Pier in honor of World War I naval veterans.",
-      "en-CA": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
-      "it-IT": "Al Navy Pier di Chicago, un molo lungo più di 900 metri dimostra come un luogo possa cambiare anima senza perdere identità. Nato nel 1916 all'interno del piano urbanistico del 1909, fu progettato per il trasporto di merci, viaggiatori e lo svago sul Lago Michigan, poi dedicato ai veterani della Prima guerra mondiale.",
-      "pt-BR": "O Navy Pier, em Chicago, tem um currículo que poucos lugares conseguem igualar. Avançando mais de 1 quilômetro sobre as águas do Lago Michigan, ele foi inaugurado em 1916 como um dos maiores píeres do mundo. Recebia cargas, passageiros e atividades de lazer em uma cidade que crescia diante de um dos Grandes Lagos.",
-      "zh-CN": "滨水变色龙. 海军码头，芝加哥，伊利诺伊州，美国. 有些地方的建造目的单一，而有些地方则不断推陈出新。位于伊利诺伊州芝加哥的海军码头就属于后者。这座码头向湖中延伸超过3000英尺，是爱德华·H·贝内特和丹尼尔·伯纳姆于1909年制定的芝加哥规划的一部分。码头于1916年开放，最初是为了服务于密歇根湖上的航运、休闲娱乐和客运而建。为了纪念第一次世界大战的海军老兵，码头被更名为海军码头。"
-    },
-    "quickFacts": {
-      "zh-CN": "海军码头最初被命名为“市立码头”，但在 1927 年被正式更名为“海军码头”，以纪念在第一次世界大战期间服役的海军官兵。"
-    },
-    "captions": {
-      "de-DE": "Navy Pier in Chicago, Illinois, USA",
-      "it-IT": "",
-      "es-ES": "Muelle de la Armada, Chicago, Illinois, EE. UU.",
-      "ja-JP": "活気あふれる桟橋の夜景",
-      "zh-CN": ""
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Navy+Pier+Chicago+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Muelle+de+la+Armada+Chicago&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8d%e3%82%a4%e3%83%93%e3%83%bc%e3%83%bb%e3%83%94%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260715_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%8a%9d%e5%8a%a0%e5%93%a5%e6%b5%b7%e5%86%9b%e7%a0%81%e5%a4%b4&form=hpcapt&mkt=zh-cn"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.NavyPier_DE-DE6672447932",
-      "it-IT": "/th?id=OHR.NavyPier_IT-IT8293754052",
-      "es-ES": "/th?id=OHR.NavyPier_ES-ES1489693745",
-      "ja-JP": "/th?id=OHR.NavyPier_JA-JP0160307645",
-      "zh-CN": "/th?id=OHR.NavyPier_ZH-CN4649271588"
-    }
-  },
   "MunichTwilight": {
     "name": "MunichTwilight",
     "urlbase": "/th?id=OHR.MunichTwilight_DE-DE5540064188",
@@ -2245,6 +2209,102 @@
       "it-IT": "/th?id=OHR.IsolaBella_IT-IT9517303219"
     }
   },
+  "TempleEsna": {
+    "name": "TempleEsna",
+    "urlbase": "/th?id=OHR.TempleEsna_IT-IT9484438188",
+    "date": "20260703",
+    "dateFormatted": "July 03, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "All'interno dell'universo sacro di Esna",
+      "en-US": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "en-CA": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "pt-BR": "O cosmos segundo Esna",
+      "en-GB": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "de-DE": "Ein Blick in Esnas Universum. Decke des Tempels von Esna, Ägypten",
+      "fr-FR": "Dans l'univers sacré d'Esna. Plafond du temple d'Esna, Égypte",
+      "es-ES": "Dentro del universo sagrado de Esna. Templo de Jnum en Esna, Egipto",
+      "ja-JP": "古代神殿の壮麗な内部空間",
+      "zh-CN": "走进埃斯纳神圣的世界",
+      "en-IN": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt"
+    },
+    "copyrights": {
+      "it-IT": "Soffitto del Tempio di Khnum ad Esna, Egitto (© Nick Brundle Photography/Getty Images)",
+      "en-US": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "en-CA": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "pt-BR": "Teto do Templo de Esna, Egito (© Nick Brundle Photography/Getty Images)",
+      "en-GB": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "de-DE": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
+      "fr-FR": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
+      "es-ES": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
+      "ja-JP": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
+      "zh-CN": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
+      "en-IN": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)"
+    },
+    "descs": {
+      "en-US": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have molded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honoring various deities.",
+      "en-CA": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "en-GB": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "de-DE": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
+      "fr-FR": "Au sud de Louxor, en Égypte, le temple d’Esna plonge les visiteurs dans le culte de Khnoum, dieu à tête de bélier associé à la création de l’Humanité à partir de l’argile du Nil. Principalement construit à l’époque ptolémaïque puis romaine, il possède une salle hypostyle remarquablement conservée, grâce à la poussière qui l’a couvert pendant des siècles.",
+      "es-ES": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
+      "ja-JP": "今日の画像は、古代エジプトにあるエスナ神殿（クヌム神殿）の天井です。エスナ神殿は、エジプト南部のナイル川西岸に位置し、主にプトレマイオス朝からローマ時代にかけて建設されました。現在残っている柱廊ホールは、24本の巨大な柱に支えられ、その柱や壁面には宗教的な文様が刻まれています。また、天井には黄道十二宮（星座）や天体図、神々などの天文学的装飾が描かれています。それらの装飾は儀礼や宇宙の循環などを象徴し、参拝者を神聖な世界へと導く役割を果たしていたと考えられています。",
+      "en-IN": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "it-IT": "Nel Tempio di Khnum ad Esna, in Egitto, si entra in un universo dove arte, mito e cielo si intrecciano in modo sorprendente. Dedicato al dio dalla testa d’ariete che, secondo la tradizione, plasmava l’umanità con l’argilla del Nilo, il santuario custodisce una sala sostenuta da ventiquattro colonne monumentali, ricche di rilievi e iscrizioni sacre.",
+      "pt-BR": "Uma construção pode nascer para durar. O Templo de Esna, no Egito, nasceu para conversar com o cosmos. Dedicado a Khnum, o deus com cabeça de carneiro que moldou a humanidade a partir do barro do Nilo, o templo tomou forma entre cerca de 200 a.C. e 250 d.C., atravessando períodos ptolemaicos e romanos sem perder a ambição.",
+      "zh-CN": "走进埃斯纳神圣的世界. 埃斯纳神庙穹顶天花板, 埃及. 在埃及卢克索以南的埃斯纳神庙（Temple of Esna），游客将步入一个充满生机的世界，这里供奉着公羊头神——赫努姆（Khnum）；传说他曾用尼罗河的黏土塑造了人类。这座神庙主要建于托勒密王朝和罗马统治时期，其现存的大厅由24根高耸的石柱支撑，每根柱子上都雕刻着精美的浮雕与颂扬诸神的仪式铭文。"
+    },
+    "quickFacts": {
+      "zh-CN": "数个世纪以来，埃斯纳神庙的大部分区域曾被淤泥和周边建筑掩埋，这在一定程度上减少了风化作用，使许多雕刻得以较好保存。"
+    },
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Tempio+di+Khnum+ad+Esna&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.TempleEsna_IT-IT9484438188"
+    }
+  },
+  "PerseidasTenerife": {
+    "name": "PerseidasTenerife",
+    "urlbase": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261",
+    "date": "20260716",
+    "dateFormatted": "July 16, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Un universo por descubrir. Observatorio Astronómico de Izaña, Tenerife, España"
+    },
+    "copyrights": {
+      "es-ES": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Observatorio Astronómico de Izaña, Tenerife, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Observatorio+Astron%c3%b3mico+de+Izana+Tenerife&form=hpcapt&filters=HpDate%3a%2220260716_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261"
+    }
+  },
   "GranCanaria": {
     "name": "GranCanaria",
     "urlbase": "/th?id=OHR.GranCanaria_ES-ES7578658409",
@@ -2339,6 +2399,38 @@
     },
     "urlbases": {
       "pt-BR": "/th?id=OHR.PepJalapao_PT-BR2714528924"
+    }
+  },
+  "GionFestival2026": {
+    "name": "GionFestival2026",
+    "urlbase": "/th?id=OHR.GionFestival2026_JA-JP0488381919",
+    "date": "20260716",
+    "dateFormatted": "July 16, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は祇園祭、前祭の山鉾巡行"
+    },
+    "copyrights": {
+      "ja-JP": "八坂神社の神紋が描かれた提灯, 京都府 京都市 (© Felix Choo/Alamy)"
+    },
+    "descs": {
+      "ja-JP": "7 月 1 日から 31 日まで、一ヶ月に渡る京都の神事・祇園祭。そして、今日 7 月 17 日に行われるのが、前祭の山鉾巡行です。釘を一本も使わず、「縄がらみ」と呼ばれる伝統技法で組み立てられた山鉾が、京都の町を練り歩くというもので、この「京都祇園祭の山鉾行事」はユネスコ無形文化遺産にも登録されています。7 月 24 日の後祭の二度行われる山鉾巡行ですが、前祭の見どころの一つが「生稚児」です。現在、生稚児と呼ばれる実際の子どもが乗るのは、前祭の先頭を進む「長刀鉾」のみで、巡行中に注連縄切りや稚児舞を披露し、祭の始まりと道中の清めを担います。また、山鉾の御神体や、懸装品が飾られた町会所では、子どもたちがわらべ唄を歌いながらお守りを販売する姿も見られます。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は祇園祭、前祭の山鉾巡行"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e7%a5%87%e5%9c%92%e7%a5%ad%e3%80%81%e5%89%8d%e7%a5%ad%e3%81%ae%e5%b1%b1%e9%89%be%e5%b7%a1%e8%a1%8c&form=hpcapt&filters=HpDate%3a%2220260716_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.GionFestival2026_JA-JP0488381919"
     }
   },
   "Tanabata2026": {
