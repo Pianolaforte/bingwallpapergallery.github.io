@@ -1,4 +1,104 @@
 {
+  "VaiUmbrellas": {
+    "name": "VaiUmbrellas",
+    "urlbase": "/th?id=OHR.VaiUmbrellas_EN-US8985051242",
+    "date": "20260717",
+    "dateFormatted": "July 17, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A Greek escape. Vai, Crete, Greece",
+      "en-GB": "A Greek escape. Vai, Crete, Greece",
+      "de-DE": "Karibik-Flair im Mittelmeer. Vai, Kreta, Griechenland",
+      "fr-FR": "Quand l’évasion rime avec préservation. Plage de Vaï, Crète, Grèce",
+      "it-IT": "Hellas e Geometria",
+      "zh-CN": "希腊式的逃离",
+      "en-IN": "A Greek escape. Vai, Crete, Greece"
+    },
+    "copyrights": {
+      "en-US": "Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)",
+      "en-GB": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
+      "de-DE": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
+      "fr-FR": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
+      "it-IT": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
+      "zh-CN": "瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)",
+      "en-IN": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)"
+    },
+    "descs": {
+      "en-US": "On the remote northeastern tip of the island of Crete in Greece lies Vai—a quiet corner far from the usual tourist trail. At the heart of this region is its beach, a broad curve of golden sand kissed by the calm, shallow waters of the Aegean. With sunbeds, umbrellas, and showers, it's an ideal spot for swimming, relaxing, or simply soaking in the peaceful atmosphere. But what truly sets Vai apart lies just behind the sand: Europe's largest natural palm grove. It is made up of over 5,000 Cretan date palm trees, a species unique to Crete and parts of Türkiye.",
+      "en-GB": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas and showers, it's ideal for swimming, relaxing or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
+      "de-DE": "Im Osten der griechischen Insel Kreta liegt ein echtes Naturparadies: Vai. Der idyllische Küstenort, 94 Kilometer östlich von Agios Nikolaos und 24 Kilometer von Sitia entfernt, begeistert mit hellem Sand, türkisfarbenem Wasser und mediterranem Flair. Auf unserem heutigen Bild setzen die in Reihen angeordneten blauen Sonnenschirme farbenfrohe Akzente auf dem goldenen Sand und vermitteln die entspannte Atmosphäre dieses beliebten Strandes. Besonders beeindruckend ist der natürliche Palmenhain mit mehr als 5.000 kretischen Dattelpalmen – der größte seiner Art in Europa. Einer Legende zufolge wuchsen die Palmen aus Dattelkernen, die Piraten hier einst zurückließen.",
+      "fr-FR": "Sur la pointe nord‑est de la Crète, loin de l’agitation touristique, la plage de Vaï déroule son croissant de sable doré, ses eaux turquoise et ses rangées de parasols qui invitent à la détente. Derrière ce décor se cache pourtant un trésor unique en Europe : la plus grande palmeraie de palmiers dattiers du continent, avec plus de 5 000 Phoenix theophrasti, une espèce endémique. Selon la légende, cette oasis serait née des noyaux jetés par des pirates arabes ou des soldats égyptiens.",
+      "en-IN": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas, and showers, it's ideal for swimming, relaxing, or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
+      "it-IT": "Nel nord-est di Creta, la spiaggia di Vai si distingue dall'alto per un dettaglio sorprendente: file ordinate di ombrelloni azzurri che punteggiano una mezzaluna di sabbia dorata lambita dalle acque calme dell'Egeo. Appena oltre la riva, si estende la più grande palmaia naturale d'Europa, con oltre cinquemila palme da dattero cretesi, specie endemica dell'isola.",
+      "zh-CN": "希腊式的逃离. 瓦伊海滩上的日光浴躺椅，克里特岛，希腊. 在克里特岛的东北角，坐落着一个远离游客喧嚣的静谧之地瓦伊。这片区域的核心景观是其海滩：金黄色的沙滩沿着平静的爱琴海浅水缓缓展开，设有躺椅、遮阳伞与淋浴设施，为游泳、放松或安静休憩提供理想场所。瓦伊最引人注目的特色在于其沙滩背后有着欧洲最大的天然棕榈林。该棕榈林由5000多棵克里特枣椰树构成，这是一种仅分布于克里特岛及土耳其部分地区的特有树种。"
+    },
+    "quickFacts": {
+      "zh-CN": "克里特岛是欧洲最早的高级文明：米诺斯文明的发源地，其兴盛时期约从公元前2700年延续至公元前1420年。"
+    },
+    "captions": {
+      "en-US": "Vai, Crete, Greece",
+      "en-GB": "Vai, Crete, Greece",
+      "de-DE": "Vai, Kreta, Griechenland",
+      "fr-FR": "Plage de Vaï, Crète, Grèce",
+      "it-IT": "",
+      "zh-CN": "",
+      "en-IN": "Vai, Crete, Greece"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260717_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Kreta+Griechenland&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Cr%c3%a8te&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+      "it-IT": "https://www.bing.com/search?q=L%27isola+Creta+Grecia&form=hpcapt",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e5%85%8b%e9%87%8c%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.VaiUmbrellas_EN-US8985051242",
+      "en-GB": "/th?id=OHR.VaiUmbrellas_EN-GB3361752741",
+      "de-DE": "/th?id=OHR.VaiUmbrellas_DE-DE2887576952",
+      "fr-FR": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342",
+      "it-IT": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780",
+      "zh-CN": "/th?id=OHR.VaiUmbrellas_ZH-CN1271422272",
+      "en-IN": "/th?id=OHR.VaiUmbrellas_EN-IN8171582034"
+    }
+  },
   "NavyPier": {
     "name": "NavyPier",
     "urlbase": "/th?id=OHR.NavyPier_EN-US1069960047",
@@ -1244,11 +1344,6 @@
         "flag": "br"
       },
       {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -1267,9 +1362,9 @@
       "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat, Équateur",
       "it-IT": "Colori e fauna selvatica",
       "pt-BR": "Voos que espalham futuro",
-      "ja-JP": "枝に止まるユニークなオオハシ",
       "zh-CN": "林冠华彩",
-      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador"
+      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "ja-JP": "枝に止まるユニークなオオハシ"
     },
     "copyrights": {
       "en-US": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
@@ -1279,9 +1374,9 @@
       "fr-FR": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
       "it-IT": "Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)",
       "pt-BR": "Tucano “Andigena laminirostris” com orquídeas, Equador (© Murray Cooper/Minden Pictures)",
-      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)",
       "zh-CN": "板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
-      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)"
+      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)"
     },
     "descs": {
       "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
@@ -1289,8 +1384,8 @@
       "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
       "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
       "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
-      "ja-JP": "イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
       "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "ja-JP": "イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
       "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
       "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
       "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔. 拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。"
@@ -1312,7 +1407,6 @@
       "fr-FR": "Toucan montagnard à bec plat, Équateur",
       "it-IT": "",
       "pt-BR": "",
-      "ja-JP": "枝に止まるユニークなオオハシ",
       "zh-CN": "",
       "en-IN": "Plate-billed mountain toucan with orchids, Ecuador"
     },
@@ -1324,7 +1418,6 @@
       "fr-FR": "https://www.bing.com/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
       "it-IT": "https://www.bing.com/search?q=Tucano+montano+pettogrigio&form=hpcapt",
       "pt-BR": "https://www.bing.com/search?q=o+tucano&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%8f%e3%82%b7%e3%83%a4%e3%83%9e%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%b7&form=hpcapt&filters=HpDate%3a%2220260703_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e6%9d%bf%e5%98%b4%e5%b1%b1%e5%b7%a8%e5%98%b4%e9%b8%9f&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_1830%22"
     },
@@ -1336,7 +1429,6 @@
       "fr-FR": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325",
       "it-IT": "/th?id=OHR.MountainToucanOrchids_IT-IT8965138427",
       "pt-BR": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838",
-      "ja-JP": "/th?id=OHR.MountainToucanOrchids_JA-JP8375436996",
       "zh-CN": "/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431",
       "en-IN": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935"
     }
@@ -1652,88 +1744,11 @@
       "en-US": "/th?id=OHR.LibertyHall_EN-US2562041614"
     }
   },
-  "FirefliesJapan": {
-    "name": "FirefliesJapan",
-    "urlbase": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
-    "date": "20260703",
-    "dateFormatted": "July 03, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "en-CA": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "pt-BR": "O código luminoso da natureza",
-      "en-GB": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "de-DE": "Die Poesie des schwindenden Lichts. Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
-      "fr-FR": "La féerie des lucioles. Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
-      "it-IT": "La poesia della luce che svanisce",
-      "es-ES": "La luz de la naturaleza. Luciérnagas, prefectura de Okayama, Japón",
-      "zh-CN": "流光之诗",
-      "en-IN": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan"
-    },
-    "copyrights": {
-      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-      "pt-BR": "Vaga-lumes sobre um riacho, província de Okayama, Japão (© tdub303/Getty Images)",
-      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
-      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
-      "it-IT": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone (© tdub303/Getty Images)",
-      "es-ES": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
-      "zh-CN": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)",
-      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
-    },
-    "descs": {
-      "en-US": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signaling. On warm, windless evenings, they often start glowing about two hours after sunset under favorable conditions, inviting silence beside water.",
-      "en-CA": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "en-GB": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "de-DE": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
-      "fr-FR": "Dans la préfecture d'Okayama, au Japon, lorsque l'air humide flotte au-dessus des cours d'eau, les hotaru, les lucioles japonaises, se mettent à clignoter. Elles s'illuminent souvent environ deux heures après le coucher du soleil, invitant au silence au bord de l'eau.",
-      "es-ES": "En la prefectura de Okayama, en Japón, las luciérnagas —conocidas como hotaru— transforman las noches de verano en un espectáculo silencioso sobre el agua. Cuando el aire húmedo envuelve arroyos y estanques, comienzan a brillar unas horas después del atardecer, creando una coreografía de luz que invita a la calma.",
-      "en-IN": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-      "it-IT": "La poesia della luce che svanisce. Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone. Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.",
-      "pt-BR": "Se estiver caminhando por uma noite calma no Japão e o ar se encher de pontos de luz, não são estrelas perdidas: são vaga-lumes. A foto de hoje vem da província de Okayama, onde esses pequenos besouros transformam as margens do riacho numa conversa luminosa. Cada espécie pisca num ritmo próprio, como uma assinatura em neon usada para se reconhecer e encontrar parceiros.",
-      "zh-CN": "流光之诗. 小溪上方的萤火虫，冈山县，日本. 在冈山县（Okayama Prefecture），当湿润的空气笼罩在溪流之上，被称为“hotaru”的日本萤火虫便开始发出信号。在温暖无风的夜晚，如果条件理想，它们通常会在日落约两小时后开始发光，发散出一种水边独有的静谧感。"
-    },
-    "quickFacts": {
-      "zh-CN": "环境健康的生物指标在冈山县，日本表现得尤为典型，特别是源氏萤（Luciola cruciata）对水质极其敏感，它们需要含氧量高且清澈的流动水源以及极低的光污染环境才能完成其复杂的生命周期"
-    },
-    "captions": {
-      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=vaga+lumes&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
-      "en-CA": "/th?id=OHR.FirefliesJapan_EN-CA2012875414",
-      "pt-BR": "/th?id=OHR.FirefliesJapan_PT-BR7106842411"
-    }
-  },
-  "VaiUmbrellas": {
-    "name": "VaiUmbrellas",
-    "urlbase": "/th?id=OHR.VaiUmbrellas_EN-GB3361752741",
-    "date": "20260716",
-    "dateFormatted": "July 16, 2026",
+  "DevilsBridge": {
+    "name": "DevilsBridge",
+    "urlbase": "/th?id=OHR.DevilsBridge_EN-GB3657419694",
+    "date": "20260717",
+    "dateFormatted": "July 17, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1751,9 +1766,14 @@
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
       },
       {
         "code": "zh-CN",
@@ -1767,58 +1787,70 @@
       }
     ],
     "titles": {
-      "en-GB": "A Greek escape. Vai, Crete, Greece",
-      "de-DE": "Karibik-Flair im Mittelmeer. Vai, Kreta, Griechenland",
-      "fr-FR": "Quand l’évasion rime avec préservation. Plage de Vaï, Crète, Grèce",
-      "it-IT": "Hellas e Geometria",
-      "zh-CN": "希腊式的逃离",
-      "en-IN": "A Greek escape. Vai, Crete, Greece",
-      "en-US": "A Greek escape. Sunbeds on the beach at Vai, Crete, Greece"
+      "en-GB": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "de-DE": "Die perfekte Illusion. Rakotzbrücke, Kromlau, Sachsen",
+      "fr-FR": "La boucle du temps. Pont du Diable, Kromlau, Saxe, Allemagne",
+      "es-ES": "Entre dos mundos. Rhododendronpark Kromlau, Sajonia, Alemania",
+      "ja-JP": "水面に映る幻想的な石橋",
+      "zh-CN": "环影圆成",
+      "en-IN": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "en-US": "Going full circle. Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany",
+      "en-CA": "Going full circle. Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany",
+      "pt-BR": "A arte de fechar o círculo. Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha"
     },
     "copyrights": {
-      "en-GB": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
-      "de-DE": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
-      "fr-FR": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
-      "it-IT": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
-      "zh-CN": "瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)",
-      "en-IN": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
-      "en-US": "© borchee/Getty Images"
+      "en-GB": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "de-DE": "Rakotzbrücke in Kromlau, Sachsen (© Mike Mareen/Getty Images)",
+      "fr-FR": "Pont du Diable dans le parc aux rhododendrons de Kromlau, en Saxe, Allemagne (© Mike Mareen/Getty Images)",
+      "es-ES": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
+      "ja-JP": "ラコツ橋, ドイツ (© Mike Mareen/Getty Images)",
+      "zh-CN": "恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)",
+      "en-IN": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "en-US": "© Mike Mareen/Getty Images",
+      "en-CA": "© Mike Mareen/Getty Images",
+      "pt-BR": "© Mike Mareen/Getty Images"
     },
     "descs": {
-      "en-GB": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas and showers, it's ideal for swimming, relaxing or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
-      "de-DE": "Im Osten der griechischen Insel Kreta liegt ein echtes Naturparadies: Vai. Der idyllische Küstenort, 94 Kilometer östlich von Agios Nikolaos und 24 Kilometer von Sitia entfernt, begeistert mit hellem Sand, türkisfarbenem Wasser und mediterranem Flair. Auf unserem heutigen Bild setzen die in Reihen angeordneten blauen Sonnenschirme farbenfrohe Akzente auf dem goldenen Sand und vermitteln die entspannte Atmosphäre dieses beliebten Strandes. Besonders beeindruckend ist der natürliche Palmenhain mit mehr als 5.000 kretischen Dattelpalmen – der größte seiner Art in Europa. Einer Legende zufolge wuchsen die Palmen aus Dattelkernen, die Piraten hier einst zurückließen.",
-      "fr-FR": "Sur la pointe nord‑est de la Crète, loin de l’agitation touristique, la plage de Vaï déroule son croissant de sable doré, ses eaux turquoise et ses rangées de parasols qui invitent à la détente. Derrière ce décor se cache pourtant un trésor unique en Europe : la plus grande palmeraie de palmiers dattiers du continent, avec plus de 5 000 Phoenix theophrasti, une espèce endémique. Selon la légende, cette oasis serait née des noyaux jetés par des pirates arabes ou des soldats égyptiens.",
-      "en-IN": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas, and showers, it's ideal for swimming, relaxing, or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
-      "en-US": "On the remote northeastern tip of the island of Crete in Greece lies Vai—a quiet corner far from the usual tourist trail. At the heart of this region is its beach, a broad curve of golden sand kissed by the calm, shallow waters of the Aegean. With sunbeds, umbrellas, and showers, it's an ideal spot for swimming, relaxing, or simply soaking in the peaceful atmosphere. But what truly sets Vai apart lies just behind the sand: Europe's largest natural palm grove. It is made up of over 5,000 Cretan date palm trees, a species unique to Crete and parts of Türkiye.",
-      "it-IT": "Nel nord-est di Creta, la spiaggia di Vai si distingue dall'alto per un dettaglio sorprendente: file ordinate di ombrelloni azzurri che punteggiano una mezzaluna di sabbia dorata lambita dalle acque calme dell'Egeo. Appena oltre la riva, si estende la più grande palmaia naturale d'Europa, con oltre cinquemila palme da dattero cretesi, specie endemica dell'isola.",
-      "zh-CN": "希腊式的逃离. 瓦伊海滩上的日光浴躺椅，克里特岛，希腊. 在克里特岛的东北角，坐落着一个远离游客喧嚣的静谧之地瓦伊。这片区域的核心景观是其海滩：金黄色的沙滩沿着平静的爱琴海浅水缓缓展开，设有躺椅、遮阳伞与淋浴设施，为游泳、放松或安静休憩提供理想场所。瓦伊最引人注目的特色在于其沙滩背后有着欧洲最大的天然棕榈林。该棕榈林由5000多棵克里特枣椰树构成，这是一种仅分布于克里特岛及土耳其部分地区的特有树种。"
+      "en-GB": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "de-DE": "Wenn sich die Rakotzbrücke im sächsischen Kromlau im Rakotzsee spiegelt, entsteht ein unwirklich wirkender, fast perfekter Kreis aus Stein. Die schmale Brücke wurde im 19. Jahrhundert so entworfen, dass ihr Bogen und die Reflexion im ruhigen Wasser exakt ineinandergreifen.",
+      "fr-FR": "Dans le parc aux rhododendrons de Kromlau, en Saxe, tout près de la frontière de l’Allemagne avec la Pologne, le pont du Diable semble surgir d’un conte. Lorsque l’eau du lac s’immobilise, son arche de basalte et son reflet se rejoignent pour former un cercle presque parfait, tel un portail entre le réel et l’imaginaire.",
+      "es-ES": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
+      "ja-JP": "今日の画像は、幻想的で美しい「魔橋」とも呼ばれるラコツ橋。ドイツのクロムラウ・ツツジシャクナゲ公園内にあるこの橋は、玄武岩などを利用して 1860 年代に造られました。水面に映ると円を描くように見える独特の設計が特徴です。その神秘的な姿から人気の写真スポットとなっているほか、人気映画シリーズ「マトリックス」の四作目、「マトリックス レザレクションズ」のロケ地としても使用されました。その緻密な構造を保護するため、現在、橋を渡ることは禁止されています。",
+      "en-IN": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "en-US": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "en-CA": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from basalt, a volcanic rock, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "pt-BR": "A Rakotzbrücke parece ter sido construída por alguém que acordou com uma missão muito específica: transformar um lago em ilusão de ótica. A ponte vista na imagem, erguida com pedras vulcânicas em 1860, não foi feita para encurtar caminhos, mas para produzir uma das ilusões mais famosas da Alemanha.",
+      "zh-CN": "倒映在平静的水面上，拉科茨桥——通称为“恶魔桥”——在德国萨克森州构成了一个近乎完美的石环。这座窄长的玄武岩结构始建于1860年，经过精密的工程设计，使其拱形结构与水面倒影在湖面静止时能精准对齐，形成一个无缝的圆环。该建筑由当地产的火山石建成，与其说它具有实用功能，不如说它体现了精准的几何设计，其惊艳的造型纯粹是为了追求视觉上的美学冲击。作为热门的摄影题材，它还曾出现在包括《黑客帝国：矩阵重启》（2021年）在内的电影中。如今，由于桥体结构脆弱，为了对其进行保护，严禁行人通行，游客仅可从岸边观赏。"
     },
     "quickFacts": {
-      "zh-CN": "克里特岛是欧洲最早的高级文明：米诺斯文明的发源地，其兴盛时期约从公元前2700年延续至公元前1420年。"
+      "zh-CN": "这种“恶魔桥”的称谓源于古老的民间传说，意指只有撒旦才能建造出如此违背重力的拱形结构，在克罗姆劳，萨克森州，德国。"
     },
     "captions": {
-      "en-GB": "Vai, Crete, Greece",
-      "de-DE": "Vai, Kreta, Griechenland",
-      "fr-FR": "Plage de Vaï, Crète, Grèce",
-      "it-IT": "",
+      "en-GB": "Devil's Bridge, Kromlau, Saxony, Germany",
+      "de-DE": "Rakotzbrücke, Kromlau, Sachsen",
+      "fr-FR": "Pont du Diable, Kromlau, Saxe, Allemagne",
+      "es-ES": "Rhododendronpark Kromlau, Sajonia, Alemania",
+      "ja-JP": "水面に映る幻想的な石橋",
       "zh-CN": "",
-      "en-IN": "Vai, Crete, Greece"
+      "en-IN": "Devil's Bridge, Kromlau, Saxony, Germany"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Kreta+Griechenland&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Cr%c3%a8te&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
-      "it-IT": "https://www.bing.com/search?q=L%27isola+Creta+Grecia&form=hpcapt",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e5%85%8b%e9%87%8c%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Rakotzbr%c3%bccke+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Parc+paysager+de+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Puente+del+diablo+Rhododendronpark+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%82%b3%e3%83%84%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260717_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%81%b6%e9%ad%94%e6%a1%a5%e5%9c%a8%e5%85%8b%e7%bd%97%e5%a7%86%e5%8a%b3%e6%9d%9c%e9%b9%83%e8%8a%b1%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.VaiUmbrellas_EN-GB3361752741",
-      "de-DE": "/th?id=OHR.VaiUmbrellas_DE-DE2887576952",
-      "fr-FR": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342",
-      "it-IT": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780",
-      "zh-CN": "/th?id=OHR.VaiUmbrellas_ZH-CN1271422272",
-      "en-IN": "/th?id=OHR.VaiUmbrellas_EN-IN8171582034"
+      "en-GB": "/th?id=OHR.DevilsBridge_EN-GB3657419694",
+      "de-DE": "/th?id=OHR.DevilsBridge_DE-DE6987454445",
+      "fr-FR": "/th?id=OHR.DevilsBridge_FR-FR5259113427",
+      "es-ES": "/th?id=OHR.DevilsBridge_ES-ES8242183956",
+      "ja-JP": "/th?id=OHR.DevilsBridge_JA-JP0713285567",
+      "zh-CN": "/th?id=OHR.DevilsBridge_ZH-CN2164982440",
+      "en-IN": "/th?id=OHR.DevilsBridge_EN-IN8517892146"
     }
   },
   "LlanthonyPriory2026": {
@@ -1853,36 +1885,38 @@
       "en-GB": "/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988"
     }
   },
-  "PrideInLondon2026": {
-    "name": "PrideInLondon2026",
-    "urlbase": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875",
-    "date": "20260703",
-    "dateFormatted": "July 03, 2026",
+  "GrainSilosSK": {
+    "name": "GrainSilosSK",
+    "urlbase": "/th?id=OHR.GrainSilosSK_EN-CA7421778186",
+    "date": "20260717",
+    "dateFormatted": "July 17, 2026",
     "markets": [
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
       }
     ],
     "titles": {
-      "en-GB": "London under a rainbow. Pride in London"
+      "en-CA": "The breadbasket of Canada. Agriculture in Saskatchewan"
     },
     "copyrights": {
-      "en-GB": "London (© TomasSereda/Getty Images)"
+      "en-CA": "A prairie storm gathers over grain silos in Saskatchewan (© mysticenergy/Getty Images)"
     },
     "descs": {
-      "en-GB": "For one day each summer, London becomes a giant rainbow-coloured procession. Streets fill with music, banners, dancing and enough glitter to keep a craft shop in business for months. But Pride in London is more than a party."
+      "en-CA": "Picture a farmer watching dark clouds build over the Saskatchewan plains. The crops have already been harvested, but the weather still matters. Where does the grain go next? Often, into grain elevators and storage bins beside fields and railway lines, where it stays protected from rain, moisture and the powerful prairie storms that can arrive with little warning. These storage structures have supported Saskatchewan agriculture for generations, helping to preserve grain quality until it is ready for transport or sale. This is one reason the province has earned the nickname 'Canada's breadbasket.'"
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "en-CA": "In 2025, Saskatchewan produced 92 per cent of Canada's chickpeas."
+    },
     "captions": {
-      "en-GB": "Pride in London"
+      "en-CA": "Agriculture in Saskatchewan"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Pride+in+London&form=hpcapt&filters=HpDate%3a%2220260703_2300%22"
+      "en-CA": "https://www.bing.com/search?q=Saskatchewan&form=hpcapt&filters=HpDate%3a%2220260717_0400%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875"
+      "en-CA": "/th?id=OHR.GrainSilosSK_EN-CA7421778186"
     }
   },
   "BoneyardBeach": {
@@ -1990,52 +2024,27 @@
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-CA": "This is your detour. Kaysersberg, Alsace, France",
+      "pt-BR": "Do império à enoteca",
       "de-DE": "Im Herzen des Elsass. Kaysersberg, Elsass, Frankreich",
       "fr-FR": "Faire un Tour au village. Kaysersberg, Alsace",
       "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
-      "pt-BR": "Do império à enoteca",
       "zh-CN": "此行，不虚绕道",
       "en-IN": "This is your detour. Kaysersberg, Alsace, France",
       "en-GB": "This is your detour. Kaysersberg, Alsace, France"
     },
     "copyrights": {
       "en-CA": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "pt-BR": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
       "de-DE": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
       "fr-FR": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
       "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
-      "pt-BR": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
       "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
       "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
       "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
@@ -2055,30 +2064,15 @@
     },
     "captions": {
       "en-CA": "Kaysersberg, Alsace, France",
-      "de-DE": "Kaysersberg, Elsass, Frankreich",
-      "fr-FR": "Kaysersberg, Alsace",
-      "es-ES": "Kaysersberg, Alsacia, Francia",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Kaysersberg, Alsace, France"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-CA": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260704_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Kaysersberg&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Kaysersberg+Francia&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Alsacia+Franca&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%87%af%e6%b3%bd%e6%96%af%e5%a0%a1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Alsacia+Franca&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
-      "de-DE": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295",
-      "fr-FR": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
-      "es-ES": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084",
-      "pt-BR": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338",
-      "zh-CN": "/th?id=OHR.KaysersbergVillage_ZH-CN0445080679",
-      "en-IN": "/th?id=OHR.KaysersbergVillage_EN-IN4147544931"
+      "pt-BR": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338"
     }
   },
   "MunichTwilight": {
@@ -2177,6 +2171,38 @@
       "fr-FR": "/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722"
     }
   },
+  "FestaVenezia": {
+    "name": "FestaVenezia",
+    "urlbase": "/th?id=OHR.FestaVenezia_IT-IT8709585056",
+    "date": "20260717",
+    "dateFormatted": "July 17, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "L'isola colorata di Venezia"
+    },
+    "copyrights": {
+      "it-IT": "Le case colorate di Burano, Venezia, Veneto, Italia (© Nick Brundle Photography/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Burano, Italia, incanta con le sue case dai colori vivaci che si riflettono nei canali, un’isola della Laguna di Venezia che sembra uscita da una fiaba. A pochi minuti da Venezia, questo villaggio di pescatori conserva una tradizione secolare di merletti fatti a mano e un ritmo lento, tra botteghe artigiane e piccoli caffè. Chi ama borghi autentici ritrova la stessa atmosfera anche in luoghi italiani come Chioggia, dove il legame con l’acqua scandisce la vita quotidiana."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Burano+Venezia&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.FestaVenezia_IT-IT8709585056"
+    }
+  },
   "IsolaBella": {
     "name": "IsolaBella",
     "urlbase": "/th?id=OHR.IsolaBella_IT-IT9517303219",
@@ -2207,70 +2233,6 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.IsolaBella_IT-IT9517303219"
-    }
-  },
-  "TempleEsna": {
-    "name": "TempleEsna",
-    "urlbase": "/th?id=OHR.TempleEsna_IT-IT9484438188",
-    "date": "20260703",
-    "dateFormatted": "July 03, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "All'interno dell'universo sacro di Esna",
-      "en-US": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "en-CA": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "pt-BR": "O cosmos segundo Esna",
-      "en-GB": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
-      "de-DE": "Ein Blick in Esnas Universum. Decke des Tempels von Esna, Ägypten",
-      "fr-FR": "Dans l'univers sacré d'Esna. Plafond du temple d'Esna, Égypte",
-      "es-ES": "Dentro del universo sagrado de Esna. Templo de Jnum en Esna, Egipto",
-      "ja-JP": "古代神殿の壮麗な内部空間",
-      "zh-CN": "走进埃斯纳神圣的世界",
-      "en-IN": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt"
-    },
-    "copyrights": {
-      "it-IT": "Soffitto del Tempio di Khnum ad Esna, Egitto (© Nick Brundle Photography/Getty Images)",
-      "en-US": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "en-CA": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "pt-BR": "Teto do Templo de Esna, Egito (© Nick Brundle Photography/Getty Images)",
-      "en-GB": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-      "de-DE": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
-      "fr-FR": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
-      "es-ES": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
-      "ja-JP": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
-      "zh-CN": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
-      "en-IN": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)"
-    },
-    "descs": {
-      "en-US": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have molded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honoring various deities.",
-      "en-CA": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "en-GB": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "de-DE": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
-      "fr-FR": "Au sud de Louxor, en Égypte, le temple d’Esna plonge les visiteurs dans le culte de Khnoum, dieu à tête de bélier associé à la création de l’Humanité à partir de l’argile du Nil. Principalement construit à l’époque ptolémaïque puis romaine, il possède une salle hypostyle remarquablement conservée, grâce à la poussière qui l’a couvert pendant des siècles.",
-      "es-ES": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
-      "ja-JP": "今日の画像は、古代エジプトにあるエスナ神殿（クヌム神殿）の天井です。エスナ神殿は、エジプト南部のナイル川西岸に位置し、主にプトレマイオス朝からローマ時代にかけて建設されました。現在残っている柱廊ホールは、24本の巨大な柱に支えられ、その柱や壁面には宗教的な文様が刻まれています。また、天井には黄道十二宮（星座）や天体図、神々などの天文学的装飾が描かれています。それらの装飾は儀礼や宇宙の循環などを象徴し、参拝者を神聖な世界へと導く役割を果たしていたと考えられています。",
-      "en-IN": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
-      "it-IT": "Nel Tempio di Khnum ad Esna, in Egitto, si entra in un universo dove arte, mito e cielo si intrecciano in modo sorprendente. Dedicato al dio dalla testa d’ariete che, secondo la tradizione, plasmava l’umanità con l’argilla del Nilo, il santuario custodisce una sala sostenuta da ventiquattro colonne monumentali, ricche di rilievi e iscrizioni sacre.",
-      "pt-BR": "Uma construção pode nascer para durar. O Templo de Esna, no Egito, nasceu para conversar com o cosmos. Dedicado a Khnum, o deus com cabeça de carneiro que moldou a humanidade a partir do barro do Nilo, o templo tomou forma entre cerca de 200 a.C. e 250 d.C., atravessando períodos ptolemaicos e romanos sem perder a ambição.",
-      "zh-CN": "走进埃斯纳神圣的世界. 埃斯纳神庙穹顶天花板, 埃及. 在埃及卢克索以南的埃斯纳神庙（Temple of Esna），游客将步入一个充满生机的世界，这里供奉着公羊头神——赫努姆（Khnum）；传说他曾用尼罗河的黏土塑造了人类。这座神庙主要建于托勒密王朝和罗马统治时期，其现存的大厅由24根高耸的石柱支撑，每根柱子上都雕刻着精美的浮雕与颂扬诸神的仪式铭文。"
-    },
-    "quickFacts": {
-      "zh-CN": "数个世纪以来，埃斯纳神庙的大部分区域曾被淤泥和周边建筑掩埋，这在一定程度上减少了风化作用，使许多雕刻得以较好保存。"
-    },
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Tempio+di+Khnum+ad+Esna&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.TempleEsna_IT-IT9484438188"
     }
   },
   "PerseidasTenerife": {
@@ -2335,6 +2297,77 @@
     },
     "urlbases": {
       "es-ES": "/th?id=OHR.GranCanaria_ES-ES7578658409"
+    }
+  },
+  "HirundoRustica": {
+    "name": "HirundoRustica",
+    "urlbase": "/th?id=OHR.HirundoRustica_PT-BR5068728715",
+    "date": "20260717",
+    "dateFormatted": "July 17, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Pequenas viajantes, grandes distâncias",
+      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together",
+      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
+      "fr-FR": "Ailes de repos. Hirondelles rustiques de différentes sous-espèces se reposant ensemble",
+      "it-IT": "Ali a riposo. Rondini di diverse sottospecie che riposano insieme",
+      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
+      "ja-JP": "枯れ草にとまる小鳥の群れ. ツバメ",
+      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息",
+      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together"
+    },
+    "copyrights": {
+      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-US": "© Oscar Dominguez/Tandem Stills + Motion",
+      "en-GB": "© Oscar Dominguez/Tandem Stills + Motion",
+      "en-CA": "© Oscar Dominguez/Tandem Stills + Motion",
+      "de-DE": "© Oscar Dominguez/Tandem Stills + Motion",
+      "fr-FR": "© Oscar Dominguez/Tandem Stills + Motion",
+      "it-IT": "© Oscar Dominguez/Tandem Stills + Motion",
+      "es-ES": "© Oscar Dominguez/Tandem Stills + Motion",
+      "ja-JP": "© Oscar Dominguez/Tandem Stills + Motion",
+      "zh-CN": "© Oscar Dominguez/Tandem Stills + Motion",
+      "en-IN": "© Oscar Dominguez/Tandem Stills + Motion"
+    },
+    "descs": {
+      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
+      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
+      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
+      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
+      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
+      "ja-JP": "枯れ草にとまる小鳥の群れ. ツバメ. 一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
+      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。",
+      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range."
+    },
+    "quickFacts": {
+      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
+      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
+      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
+      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
+      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
+      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
+    },
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=andorinha+das+chamines+hirundo+rustica&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.HirundoRustica_PT-BR5068728715"
     }
   },
   "Tanager": {
@@ -2495,6 +2528,179 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.RathYatra2026_EN-IN7824400350"
+    }
+  },
+  "FirefliesJapan": {
+    "name": "FirefliesJapan",
+    "urlbase": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
+    "date": "20260703",
+    "dateFormatted": "July 03, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-CA": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "pt-BR": "O código luminoso da natureza",
+      "en-GB": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "de-DE": "Die Poesie des schwindenden Lichts. Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan",
+      "fr-FR": "La féerie des lucioles. Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
+      "it-IT": "La poesia della luce che svanisce",
+      "es-ES": "La luz de la naturaleza. Luciérnagas, prefectura de Okayama, Japón",
+      "zh-CN": "流光之诗",
+      "en-IN": "The poetry of vanishing light. Fireflies glowing above a stream, Okayama Prefecture, Japan"
+    },
+    "copyrights": {
+      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "pt-BR": "Vaga-lumes sobre um riacho, província de Okayama, Japão (© tdub303/Getty Images)",
+      "en-GB": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+      "de-DE": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
+      "fr-FR": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
+      "it-IT": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone (© tdub303/Getty Images)",
+      "es-ES": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
+      "zh-CN": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)",
+      "en-IN": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
+    },
+    "descs": {
+      "en-US": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signaling. On warm, windless evenings, they often start glowing about two hours after sunset under favorable conditions, inviting silence beside water.",
+      "en-CA": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "en-GB": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "de-DE": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
+      "fr-FR": "Dans la préfecture d'Okayama, au Japon, lorsque l'air humide flotte au-dessus des cours d'eau, les hotaru, les lucioles japonaises, se mettent à clignoter. Elles s'illuminent souvent environ deux heures après le coucher du soleil, invitant au silence au bord de l'eau.",
+      "es-ES": "En la prefectura de Okayama, en Japón, las luciérnagas —conocidas como hotaru— transforman las noches de verano en un espectáculo silencioso sobre el agua. Cuando el aire húmedo envuelve arroyos y estanques, comienzan a brillar unas horas después del atardecer, creando una coreografía de luz que invita a la calma.",
+      "en-IN": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+      "it-IT": "La poesia della luce che svanisce. Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone. Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.",
+      "pt-BR": "Se estiver caminhando por uma noite calma no Japão e o ar se encher de pontos de luz, não são estrelas perdidas: são vaga-lumes. A foto de hoje vem da província de Okayama, onde esses pequenos besouros transformam as margens do riacho numa conversa luminosa. Cada espécie pisca num ritmo próprio, como uma assinatura em neon usada para se reconhecer e encontrar parceiros.",
+      "zh-CN": "流光之诗. 小溪上方的萤火虫，冈山县，日本. 在冈山县（Okayama Prefecture），当湿润的空气笼罩在溪流之上，被称为“hotaru”的日本萤火虫便开始发出信号。在温暖无风的夜晚，如果条件理想，它们通常会在日落约两小时后开始发光，发散出一种水边独有的静谧感。"
+    },
+    "quickFacts": {
+      "zh-CN": "环境健康的生物指标在冈山县，日本表现得尤为典型，特别是源氏萤（Luciola cruciata）对水质极其敏感，它们需要含氧量高且清澈的流动水源以及极低的光污染环境才能完成其复杂的生命周期"
+    },
+    "captions": {
+      "en-US": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "en-CA": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=vaga+lumes&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
+      "en-CA": "/th?id=OHR.FirefliesJapan_EN-CA2012875414",
+      "pt-BR": "/th?id=OHR.FirefliesJapan_PT-BR7106842411"
+    }
+  },
+  "PrideInLondon2026": {
+    "name": "PrideInLondon2026",
+    "urlbase": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875",
+    "date": "20260703",
+    "dateFormatted": "July 03, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "London under a rainbow. Pride in London"
+    },
+    "copyrights": {
+      "en-GB": "London (© TomasSereda/Getty Images)"
+    },
+    "descs": {
+      "en-GB": "For one day each summer, London becomes a giant rainbow-coloured procession. Streets fill with music, banners, dancing and enough glitter to keep a craft shop in business for months. But Pride in London is more than a party."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "Pride in London"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Pride+in+London&form=hpcapt&filters=HpDate%3a%2220260703_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875"
+    }
+  },
+  "TempleEsna": {
+    "name": "TempleEsna",
+    "urlbase": "/th?id=OHR.TempleEsna_IT-IT9484438188",
+    "date": "20260703",
+    "dateFormatted": "July 03, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "All'interno dell'universo sacro di Esna",
+      "en-US": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "en-CA": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "pt-BR": "O cosmos segundo Esna",
+      "en-GB": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt",
+      "de-DE": "Ein Blick in Esnas Universum. Decke des Tempels von Esna, Ägypten",
+      "fr-FR": "Dans l'univers sacré d'Esna. Plafond du temple d'Esna, Égypte",
+      "es-ES": "Dentro del universo sagrado de Esna. Templo de Jnum en Esna, Egipto",
+      "ja-JP": "古代神殿の壮麗な内部空間",
+      "zh-CN": "走进埃斯纳神圣的世界",
+      "en-IN": "Inside Esna's sacred universe. Ceiling of the Temple of Esna, Egypt"
+    },
+    "copyrights": {
+      "it-IT": "Soffitto del Tempio di Khnum ad Esna, Egitto (© Nick Brundle Photography/Getty Images)",
+      "en-US": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "en-CA": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "pt-BR": "Teto do Templo de Esna, Egito (© Nick Brundle Photography/Getty Images)",
+      "en-GB": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+      "de-DE": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
+      "fr-FR": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
+      "es-ES": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
+      "ja-JP": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
+      "zh-CN": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
+      "en-IN": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)"
+    },
+    "descs": {
+      "en-US": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have molded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honoring various deities.",
+      "en-CA": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "en-GB": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "de-DE": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
+      "fr-FR": "Au sud de Louxor, en Égypte, le temple d’Esna plonge les visiteurs dans le culte de Khnoum, dieu à tête de bélier associé à la création de l’Humanité à partir de l’argile du Nil. Principalement construit à l’époque ptolémaïque puis romaine, il possède une salle hypostyle remarquablement conservée, grâce à la poussière qui l’a couvert pendant des siècles.",
+      "es-ES": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
+      "ja-JP": "今日の画像は、古代エジプトにあるエスナ神殿（クヌム神殿）の天井です。エスナ神殿は、エジプト南部のナイル川西岸に位置し、主にプトレマイオス朝からローマ時代にかけて建設されました。現在残っている柱廊ホールは、24本の巨大な柱に支えられ、その柱や壁面には宗教的な文様が刻まれています。また、天井には黄道十二宮（星座）や天体図、神々などの天文学的装飾が描かれています。それらの装飾は儀礼や宇宙の循環などを象徴し、参拝者を神聖な世界へと導く役割を果たしていたと考えられています。",
+      "en-IN": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have moulded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honouring various deities.",
+      "it-IT": "Nel Tempio di Khnum ad Esna, in Egitto, si entra in un universo dove arte, mito e cielo si intrecciano in modo sorprendente. Dedicato al dio dalla testa d’ariete che, secondo la tradizione, plasmava l’umanità con l’argilla del Nilo, il santuario custodisce una sala sostenuta da ventiquattro colonne monumentali, ricche di rilievi e iscrizioni sacre.",
+      "pt-BR": "Uma construção pode nascer para durar. O Templo de Esna, no Egito, nasceu para conversar com o cosmos. Dedicado a Khnum, o deus com cabeça de carneiro que moldou a humanidade a partir do barro do Nilo, o templo tomou forma entre cerca de 200 a.C. e 250 d.C., atravessando períodos ptolemaicos e romanos sem perder a ambição.",
+      "zh-CN": "走进埃斯纳神圣的世界. 埃斯纳神庙穹顶天花板, 埃及. 在埃及卢克索以南的埃斯纳神庙（Temple of Esna），游客将步入一个充满生机的世界，这里供奉着公羊头神——赫努姆（Khnum）；传说他曾用尼罗河的黏土塑造了人类。这座神庙主要建于托勒密王朝和罗马统治时期，其现存的大厅由24根高耸的石柱支撑，每根柱子上都雕刻着精美的浮雕与颂扬诸神的仪式铭文。"
+    },
+    "quickFacts": {
+      "zh-CN": "数个世纪以来，埃斯纳神庙的大部分区域曾被淤泥和周边建筑掩埋，这在一定程度上减少了风化作用，使许多雕刻得以较好保存。"
+    },
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Tempio+di+Khnum+ad+Esna&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.TempleEsna_IT-IT9484438188"
     }
   },
   "DungeonPark": {
