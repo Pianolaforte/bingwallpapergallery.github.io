@@ -1,4 +1,137 @@
 {
+  "DevilsBridge": {
+    "name": "DevilsBridge",
+    "urlbase": "/th?id=OHR.DevilsBridge_EN-US3505962815",
+    "date": "20260718",
+    "dateFormatted": "July 18, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "en-GB": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "en-CA": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "de-DE": "Die perfekte Illusion. Rakotzbrücke, Kromlau, Sachsen",
+      "fr-FR": "La boucle du temps. Pont du Diable, Kromlau, Saxe, Allemagne",
+      "es-ES": "Entre dos mundos. Rhododendronpark Kromlau, Sajonia, Alemania",
+      "pt-BR": "A arte de fechar o círculo",
+      "ja-JP": "水面に映る幻想的な石橋",
+      "zh-CN": "环影圆成",
+      "en-IN": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany"
+    },
+    "copyrights": {
+      "en-US": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "en-GB": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "en-CA": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "de-DE": "Rakotzbrücke in Kromlau, Sachsen (© Mike Mareen/Getty Images)",
+      "fr-FR": "Pont du Diable dans le parc aux rhododendrons de Kromlau, en Saxe, Allemagne (© Mike Mareen/Getty Images)",
+      "es-ES": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
+      "pt-BR": "Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha (© Mike Mareen/Getty Images)",
+      "ja-JP": "ラコツ橋, ドイツ (© Mike Mareen/Getty Images)",
+      "zh-CN": "恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)",
+      "en-IN": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "en-GB": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "en-CA": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from basalt, a volcanic rock, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "de-DE": "Wenn sich die Rakotzbrücke im sächsischen Kromlau im Rakotzsee spiegelt, entsteht ein unwirklich wirkender, fast perfekter Kreis aus Stein. Die schmale Brücke wurde im 19. Jahrhundert so entworfen, dass ihr Bogen und die Reflexion im ruhigen Wasser exakt ineinandergreifen.",
+      "fr-FR": "Dans le parc aux rhododendrons de Kromlau, en Saxe, tout près de la frontière de l’Allemagne avec la Pologne, le pont du Diable semble surgir d’un conte. Lorsque l’eau du lac s’immobilise, son arche de basalte et son reflet se rejoignent pour former un cercle presque parfait, tel un portail entre le réel et l’imaginaire.",
+      "es-ES": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
+      "ja-JP": "今日の画像は、幻想的で美しい「魔橋」とも呼ばれるラコツ橋。ドイツのクロムラウ・ツツジシャクナゲ公園内にあるこの橋は、玄武岩などを利用して 1860 年代に造られました。水面に映ると円を描くように見える独特の設計が特徴です。その神秘的な姿から人気の写真スポットとなっているほか、人気映画シリーズ「マトリックス」の四作目、「マトリックス レザレクションズ」のロケ地としても使用されました。その緻密な構造を保護するため、現在、橋を渡ることは禁止されています。",
+      "en-IN": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "pt-BR": "A Rakotzbrücke parece ter sido construída por alguém que acordou com uma missão muito específica: transformar um lago em ilusão de ótica. A ponte vista na imagem, erguida com pedras vulcânicas em 1860, não foi feita para encurtar caminhos, mas para produzir uma das ilusões mais famosas da Alemanha.",
+      "zh-CN": "倒映在平静的水面上，拉科茨桥——通称为“恶魔桥”——在德国萨克森州构成了一个近乎完美的石环。这座窄长的玄武岩结构始建于1860年，经过精密的工程设计，使其拱形结构与水面倒影在湖面静止时能精准对齐，形成一个无缝的圆环。该建筑由当地产的火山石建成，与其说它具有实用功能，不如说它体现了精准的几何设计，其惊艳的造型纯粹是为了追求视觉上的美学冲击。作为热门的摄影题材，它还曾出现在包括《黑客帝国：矩阵重启》（2021年）在内的电影中。如今，由于桥体结构脆弱，为了对其进行保护，严禁行人通行，游客仅可从岸边观赏。"
+    },
+    "quickFacts": {
+      "zh-CN": "这种“恶魔桥”的称谓源于古老的民间传说，意指只有撒旦才能建造出如此违背重力的拱形结构，在克罗姆劳，萨克森州，德国。"
+    },
+    "captions": {
+      "en-US": "Devil's Bridge, Kromlau, Saxony, Germany",
+      "en-GB": "Devil's Bridge, Kromlau, Saxony, Germany",
+      "en-CA": "Devil's Bridge, Kromlau, Saxony, Germany",
+      "de-DE": "Rakotzbrücke, Kromlau, Sachsen",
+      "fr-FR": "Pont du Diable, Kromlau, Saxe, Allemagne",
+      "es-ES": "Rhododendronpark Kromlau, Sajonia, Alemania",
+      "pt-BR": "",
+      "ja-JP": "水面に映る幻想的な石橋",
+      "zh-CN": "",
+      "en-IN": "Devil's Bridge, Kromlau, Saxony, Germany"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260718_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260718_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Rakotzbr%c3%bccke+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Parc+paysager+de+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Puente+del+diablo+Rhododendronpark+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Ponte+do+Diabo+Rakotzbr%c3%bccke&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%82%b3%e3%83%84%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260717_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%81%b6%e9%ad%94%e6%a1%a5%e5%9c%a8%e5%85%8b%e7%bd%97%e5%a7%86%e5%8a%b3%e6%9d%9c%e9%b9%83%e8%8a%b1%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DevilsBridge_EN-US3505962815",
+      "en-GB": "/th?id=OHR.DevilsBridge_EN-GB3657419694",
+      "en-CA": "/th?id=OHR.DevilsBridge_EN-CA9488720591",
+      "de-DE": "/th?id=OHR.DevilsBridge_DE-DE6987454445",
+      "fr-FR": "/th?id=OHR.DevilsBridge_FR-FR5259113427",
+      "es-ES": "/th?id=OHR.DevilsBridge_ES-ES8242183956",
+      "pt-BR": "/th?id=OHR.DevilsBridge_PT-BR5443302606",
+      "ja-JP": "/th?id=OHR.DevilsBridge_JA-JP0713285567",
+      "zh-CN": "/th?id=OHR.DevilsBridge_ZH-CN2164982440",
+      "en-IN": "/th?id=OHR.DevilsBridge_EN-IN8517892146"
+    }
+  },
   "VaiUmbrellas": {
     "name": "VaiUmbrellas",
     "urlbase": "/th?id=OHR.VaiUmbrellas_EN-US8985051242",
@@ -710,7 +843,7 @@
       "de-DE": "Das Katahdin Woods and Waters National Monument im US-Bundesstaat Maine wurde 2016 ausgewiesen und zählt mit rund 35.000 Hektar zu den jüngeren Schutzgebieten des Landes. Weite Wälder, klare Flüsse und zahlreiche Teiche prägen die Landschaft, während sich im Hintergrund der markante Mount Katahdin westlich angrenzend außerhalb des Gebiets im Baxter State Park erhebt und dem Gebiet eine eindrucksvolle Präsenz verleiht.",
       "fr-FR": "Pour découvrir le Maine (États-Unis) dans ce qu’il a de plus sauvage, il faut venir ici. Le monument national des Bois et des Eaux de Katahdin couvre près de 35 000 hectares de forêts profondes, où étangs silencieux et pistes isolées composent un paysage brut et préservé.",
       "es-ES": "En el Monumento Nacional Katahdin Woods and Waters, en Maine, Estados Unidos, la naturaleza se expresa sin filtros entre bosques espesos y lagos que reflejan el cielo con una calma casi hipnótica. Este espacio remoto, protegido desde 2016, recuerda en cierta forma a parajes remotos de los Pirineos o rincones aislados de la Cordillera Cantábrica, donde el silencio también forma parte del entorno.",
-      "ja-JP": "静かな池に映る鬱蒼とした森. カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州. ここは、カタディン・ウッズ・アンド・ウォーターズ国定記念物。2016 年に設立された保護区で、約 350km² の面積を誇ります。米国メイン州ペノブスコット郡北部の山地と森林地帯に広がっており、ヘラジカやクロクマ、カナダオオヤマネコなどのほか、多様な魚類が生息しています。また、人里から遠く光害が少ないことから、星空観察に適しているとして、国際ダークスカイ・サンクチュアリに指定されています。",
+      "ja-JP": "ここは、カタディン・ウッズ・アンド・ウォーターズ国定記念物。2016 年に設立された保護区で、約 350km² の面積を誇ります。米国メイン州ペノブスコット郡北部の山地と森林地帯に広がっており、ヘラジカやクロクマ、カナダオオヤマネコなどのほか、多様な魚類が生息しています。また、人里から遠く光害が少ないことから、星空観察に適しているとして、国際ダークスカイ・サンクチュアリに指定されています。",
       "en-IN": "If you're looking for Maine in the United States at its most untamed, this is it. Katahdin Woods and Waters National Monument spans more than 350 square kilometres of rugged North Woods wilderness, where still ponds reflect the sky and dense forests seem to absorb every sound.",
       "it-IT": "Nel Maine, Stati Uniti, il Monumento Nazionale Katahdin Woods and Waters mostra la natura nella sua forma più selvaggia: oltre 35.400 ettari di foreste fitte e specchi d’acqua silenziosi dove il paesaggio sembra inghiottire ogni suono.",
       "pt-BR": "O Monumento Nacional Katahdin Woods and Waters, visto na imagem de hoje, mostra um lado dos Estados Unidos que raramente aparece nos cartões-postais. São mais de 35 mil hectares de florestas, lagoas e rios no estado do Maine, no extremo nordeste do país, uma região onde a mata engole estradas, sons e distrações com a mesma facilidade.",
@@ -1578,14 +1711,84 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "en-CA": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "pt-BR": "O perfume da Provença",
+      "en-GB": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "de-DE": "Ein Meer aus Lila. Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
+      "fr-FR": "Les mers pourpres. Plateau de Valensole, Provence",
+      "it-IT": "Mare di viola",
+      "es-ES": "Un mar púrpura. Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
+      "ja-JP": "一面に広がる紫色のラベンダー畑",
+      "zh-CN": "紫色花海",
+      "en-IN": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France"
+    },
+    "copyrights": {
+      "en-US": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "pt-BR": "Campos de lavanda no Plateau de Valensole, Provença, França (© Robert Harding/Shutterstock)",
+      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
+      "fr-FR": "Champs de lavande, Plateau de Valensole, Provence (© Robert Harding/Shutterstock)",
+      "it-IT": "Righe lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+      "ja-JP": "ヴァランソール高原, フランス (© Robert Harding/Shutterstock)",
+      "zh-CN": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
+      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognizable sights. The air carries a sharp, dry, and unmistakably Mediterranean scent.",
+      "en-CA": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "en-GB": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "de-DE": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
+      "fr-FR": "Au cœur de la Provence, sur le plateau de Valensole, l’été s’accorde aux tons violets. Situé dans le Parc naturel régional du Verdon, entre les vallées de la Durance et de l’Asse, ce vaste plateau offre, de mi-juin à début juillet, l’un des paysages les plus emblématiques de Provence. Lorsque la lavande et le lavandin fleurissent, l’air se charge de leurs parfums caractéristiques.",
+      "es-ES": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
+      "ja-JP": "ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
+      "en-IN": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "it-IT": "Sull’altopiano di Valensole, nel sud-est della Francia, l’estate si accende in distese ondulate di viola e blu che sembrano dipinte a mano. Tra metà giugno e inizio luglio, nel cuore del Parco del Verdon, lavanda e lavandin trasformano il paesaggio in un mosaico profumato, attraversato dal ronzio continuo delle api. L’atmosfera, intensa e mediterranea, richiama scenari familiari anche in Italia: basti pensare ai campi di lavanda della Val d’Orcia o alle colline piemontesi, dove la stessa fioritura regala emozioni simili, seppur su scala più raccolta.",
+      "pt-BR": "Entre junho e julho no sul da França, até o vento fica perfumado. No Planalto de Valensole, na região de Provença, fileiras de lavanda e lavandim — um híbrido mais resistente e produtivo — pintam a paisagem de um violeta quase hipnótico. Por trás da estética, há agricultura em plena operação.",
+      "zh-CN": "在法国东南部，瓦朗索勒高原（Valensole Plateau）的夏季伴随着阵阵紫蓝色的波浪而至。瓦朗索勒作为该地区最大的高原之一，坐落在迪朗斯河（Durance）与阿斯河（Asse）流域之间的韦尔东地区自然公园（Verdon Regional Natural Park）内，毗邻韦尔东大峡谷（Gorges du Verdon）及其湖泊。从6月中旬到7月初，受海拔和天气影响，薰衣草与杂交薰衣草（Lavandin）竞相绽放，将大地转化为普罗旺斯最具标志性的景观之一。空气中弥漫着清冽、干爽且极具地中海特色的香气。"
+    },
+    "quickFacts": {
+      "zh-CN": "独特的碱性石质土壤在瓦朗索勒高原，普罗旺斯，法国为植物提供了卓越的排水性能，这种地质特性对于薰衣草在高海拔地中海气候下生存至关重要，能有效防止冬季根部腐烂并提升精油品质。"
+    },
+    "captions": {
+      "en-US": "Lavender rows, Plateau de Valensole, Provence, France",
+      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=lavandas&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LavenderRows_EN-US2831933520",
+      "en-CA": "/th?id=OHR.LavenderRows_EN-CA8245005019",
+      "pt-BR": "/th?id=OHR.LavenderRows_PT-BR5358719596"
+    }
+  },
+  "HirundoRustica": {
+    "name": "HirundoRustica",
+    "urlbase": "/th?id=OHR.HirundoRustica_EN-GB4164429315",
+    "date": "20260718",
+    "dateFormatted": "July 18, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1629,228 +1832,86 @@
       }
     ],
     "titles": {
-      "en-US": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "en-GB": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "en-CA": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "de-DE": "Ein Meer aus Lila. Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
-      "fr-FR": "Les mers pourpres. Plateau de Valensole, Provence",
-      "it-IT": "Mare di viola",
-      "es-ES": "Un mar púrpura. Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
-      "pt-BR": "O perfume da Provença",
-      "ja-JP": "一面に広がる紫色のラベンダー畑",
-      "zh-CN": "紫色花海",
-      "en-IN": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France"
+      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
+      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
+      "fr-FR": "Ailes de repos. Hirondelles rustiques se reposant ensemble",
+      "it-IT": "Ali a riposo",
+      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
+      "pt-BR": "Pequenas viajantes, grandes distâncias",
+      "ja-JP": "枯れ草にとまる小鳥の群れ",
+      "zh-CN": "敛羽栖时",
+      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together"
     },
     "copyrights": {
-      "en-US": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
-      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
-      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
-      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
-      "fr-FR": "Champs de lavande, Plateau de Valensole, Provence (© Robert Harding/Shutterstock)",
-      "it-IT": "Righe lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
-      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
-      "pt-BR": "Campos de lavanda no Plateau de Valensole, Provença, França (© Robert Harding/Shutterstock)",
-      "ja-JP": "ヴァランソール高原, フランス (© Robert Harding/Shutterstock)",
-      "zh-CN": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
-      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)"
+      "en-GB": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast (© Oscar Dominguez/Tandem Stills + Motion)",
+      "fr-FR": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
+      "it-IT": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
+      "es-ES": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+      "ja-JP": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
+      "zh-CN": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-US": "© Oscar Dominguez/Tandem Stills + Motion",
+      "en-CA": "© Oscar Dominguez/Tandem Stills + Motion"
     },
     "descs": {
-      "en-US": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognizable sights. The air carries a sharp, dry, and unmistakably Mediterranean scent.",
-      "en-GB": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "en-CA": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "de-DE": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
-      "fr-FR": "Au cœur de la Provence, sur le plateau de Valensole, l’été s’accorde aux tons violets. Situé dans le Parc naturel régional du Verdon, entre les vallées de la Durance et de l’Asse, ce vaste plateau offre, de mi-juin à début juillet, l’un des paysages les plus emblématiques de Provence. Lorsque la lavande et le lavandin fleurissent, l’air se charge de leurs parfums caractéristiques.",
-      "es-ES": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
-      "ja-JP": "ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
-      "en-IN": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "it-IT": "Sull’altopiano di Valensole, nel sud-est della Francia, l’estate si accende in distese ondulate di viola e blu che sembrano dipinte a mano. Tra metà giugno e inizio luglio, nel cuore del Parco del Verdon, lavanda e lavandin trasformano il paesaggio in un mosaico profumato, attraversato dal ronzio continuo delle api. L’atmosfera, intensa e mediterranea, richiama scenari familiari anche in Italia: basti pensare ai campi di lavanda della Val d’Orcia o alle colline piemontesi, dove la stessa fioritura regala emozioni simili, seppur su scala più raccolta.",
-      "pt-BR": "Entre junho e julho no sul da França, até o vento fica perfumado. No Planalto de Valensole, na região de Provença, fileiras de lavanda e lavandim — um híbrido mais resistente e produtivo — pintam a paisagem de um violeta quase hipnótico. Por trás da estética, há agricultura em plena operação.",
-      "zh-CN": "在法国东南部，瓦朗索勒高原（Valensole Plateau）的夏季伴随着阵阵紫蓝色的波浪而至。瓦朗索勒作为该地区最大的高原之一，坐落在迪朗斯河（Durance）与阿斯河（Asse）流域之间的韦尔东地区自然公园（Verdon Regional Natural Park）内，毗邻韦尔东大峡谷（Gorges du Verdon）及其湖泊。从6月中旬到7月初，受海拔和天气影响，薰衣草与杂交薰衣草（Lavandin）竞相绽放，将大地转化为普罗旺斯最具标志性的景观之一。空气中弥漫着清冽、干爽且极具地中海特色的香气。"
+      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
+      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
+      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
+      "ja-JP": "枯れ草にとまる小鳥の群れ. ツバメ. 一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
+      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
+      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
+      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。"
     },
     "quickFacts": {
-      "zh-CN": "独特的碱性石质土壤在瓦朗索勒高原，普罗旺斯，法国为植物提供了卓越的排水性能，这种地质特性对于薰衣草在高海拔地中海气候下生存至关重要，能有效防止冬季根部腐烂并提升精油品质。"
+      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
+      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
+      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
+      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
+      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
+      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
     },
     "captions": {
-      "en-US": "Lavender rows, Plateau de Valensole, Provence, France",
-      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France",
-      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France",
-      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
-      "fr-FR": "Plateau de Valensole, Provence",
+      "en-GB": "Barn swallows of different subspecies resting together",
+      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
+      "fr-FR": "Hirondelles rustiques se reposant ensemble",
       "it-IT": "",
-      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
+      "es-ES": "Golondrinas descansando juntas",
       "pt-BR": "",
-      "ja-JP": "一面に広がる紫色のラベンダー畑",
+      "ja-JP": "枯れ草にとまる小鳥の群れ",
       "zh-CN": "",
-      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France"
+      "en-IN": "Barn swallows of different subspecies resting together"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260704_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Lavendel&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Lavande&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lavanda+pianta&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lavanda&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=lavandas&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%ab%e9%ab%98%e5%8e%9f&form=hpcapt&filters=HpDate%3a%2220260704_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%96%b0%e8%a1%a3%e8%8d%89%e5%b1%9e&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260704_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Rauchschwalbe&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=hirondelle+rustique&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Le+Rondini&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Golondrinas&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=andorinha+das+chamines+hirundo+rustica&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%84%e3%83%90%e3%83%a1&form=hpcapt&filters=HpDate%3a%2220260718_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%ae%b6%e7%87%95&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.LavenderRows_EN-US2831933520",
-      "en-GB": "/th?id=OHR.LavenderRows_EN-GB8618053489",
-      "en-CA": "/th?id=OHR.LavenderRows_EN-CA8245005019",
-      "de-DE": "/th?id=OHR.LavenderRows_DE-DE5950929230",
-      "fr-FR": "/th?id=OHR.LavenderRows_FR-FR9535531184",
-      "it-IT": "/th?id=OHR.LavenderRows_IT-IT7009632566",
-      "es-ES": "/th?id=OHR.LavenderRows_ES-ES6518419327",
-      "pt-BR": "/th?id=OHR.LavenderRows_PT-BR5358719596",
-      "ja-JP": "/th?id=OHR.LavenderRows_JA-JP9275300496",
-      "zh-CN": "/th?id=OHR.LavenderRows_ZH-CN0676810895",
-      "en-IN": "/th?id=OHR.LavenderRows_EN-IN4483122586"
-    }
-  },
-  "LibertyHall": {
-    "name": "LibertyHall",
-    "urlbase": "/th?id=OHR.LibertyHall_EN-US2562041614",
-    "date": "20260704",
-    "dateFormatted": "July 04, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "The story continues. The United States' 250th anniversary"
-    },
-    "copyrights": {
-      "en-US": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "Today, the United States marks 250 years since the adoption of the Declaration of Independence—a milestone known as the 'semiquincentennial.' This anniversary commemorates 1776, when the Declaration articulated the idea that a nation could be defined by shared principles rather than inherited rule. Two and a half centuries later, this date is marked not only as an anniversary but also as an opportunity to reflect on the nation's long and evolving story."
-    },
-    "quickFacts": {
-      "en-US": "Most of the Declaration's signers did not sign it on July 4, but nearly a month later—primarily on August 2, 1776."
-    },
-    "captions": {
-      "en-US": "The United States' 250th anniversary"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Fourth+of+July&form=hpcapt&filters=HpDate%3a%2220260704_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.LibertyHall_EN-US2562041614"
-    }
-  },
-  "DevilsBridge": {
-    "name": "DevilsBridge",
-    "urlbase": "/th?id=OHR.DevilsBridge_EN-GB3657419694",
-    "date": "20260717",
-    "dateFormatted": "July 17, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
-      "de-DE": "Die perfekte Illusion. Rakotzbrücke, Kromlau, Sachsen",
-      "fr-FR": "La boucle du temps. Pont du Diable, Kromlau, Saxe, Allemagne",
-      "es-ES": "Entre dos mundos. Rhododendronpark Kromlau, Sajonia, Alemania",
-      "ja-JP": "水面に映る幻想的な石橋",
-      "zh-CN": "环影圆成",
-      "en-IN": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
-      "en-US": "Going full circle. Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany",
-      "en-CA": "Going full circle. Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany",
-      "pt-BR": "A arte de fechar o círculo. Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha"
-    },
-    "copyrights": {
-      "en-GB": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
-      "de-DE": "Rakotzbrücke in Kromlau, Sachsen (© Mike Mareen/Getty Images)",
-      "fr-FR": "Pont du Diable dans le parc aux rhododendrons de Kromlau, en Saxe, Allemagne (© Mike Mareen/Getty Images)",
-      "es-ES": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
-      "ja-JP": "ラコツ橋, ドイツ (© Mike Mareen/Getty Images)",
-      "zh-CN": "恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)",
-      "en-IN": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
-      "en-US": "© Mike Mareen/Getty Images",
-      "en-CA": "© Mike Mareen/Getty Images",
-      "pt-BR": "© Mike Mareen/Getty Images"
-    },
-    "descs": {
-      "en-GB": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "de-DE": "Wenn sich die Rakotzbrücke im sächsischen Kromlau im Rakotzsee spiegelt, entsteht ein unwirklich wirkender, fast perfekter Kreis aus Stein. Die schmale Brücke wurde im 19. Jahrhundert so entworfen, dass ihr Bogen und die Reflexion im ruhigen Wasser exakt ineinandergreifen.",
-      "fr-FR": "Dans le parc aux rhododendrons de Kromlau, en Saxe, tout près de la frontière de l’Allemagne avec la Pologne, le pont du Diable semble surgir d’un conte. Lorsque l’eau du lac s’immobilise, son arche de basalte et son reflet se rejoignent pour former un cercle presque parfait, tel un portail entre le réel et l’imaginaire.",
-      "es-ES": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
-      "ja-JP": "今日の画像は、幻想的で美しい「魔橋」とも呼ばれるラコツ橋。ドイツのクロムラウ・ツツジシャクナゲ公園内にあるこの橋は、玄武岩などを利用して 1860 年代に造られました。水面に映ると円を描くように見える独特の設計が特徴です。その神秘的な姿から人気の写真スポットとなっているほか、人気映画シリーズ「マトリックス」の四作目、「マトリックス レザレクションズ」のロケ地としても使用されました。その緻密な構造を保護するため、現在、橋を渡ることは禁止されています。",
-      "en-IN": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "en-US": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "en-CA": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from basalt, a volcanic rock, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "pt-BR": "A Rakotzbrücke parece ter sido construída por alguém que acordou com uma missão muito específica: transformar um lago em ilusão de ótica. A ponte vista na imagem, erguida com pedras vulcânicas em 1860, não foi feita para encurtar caminhos, mas para produzir uma das ilusões mais famosas da Alemanha.",
-      "zh-CN": "倒映在平静的水面上，拉科茨桥——通称为“恶魔桥”——在德国萨克森州构成了一个近乎完美的石环。这座窄长的玄武岩结构始建于1860年，经过精密的工程设计，使其拱形结构与水面倒影在湖面静止时能精准对齐，形成一个无缝的圆环。该建筑由当地产的火山石建成，与其说它具有实用功能，不如说它体现了精准的几何设计，其惊艳的造型纯粹是为了追求视觉上的美学冲击。作为热门的摄影题材，它还曾出现在包括《黑客帝国：矩阵重启》（2021年）在内的电影中。如今，由于桥体结构脆弱，为了对其进行保护，严禁行人通行，游客仅可从岸边观赏。"
-    },
-    "quickFacts": {
-      "zh-CN": "这种“恶魔桥”的称谓源于古老的民间传说，意指只有撒旦才能建造出如此违背重力的拱形结构，在克罗姆劳，萨克森州，德国。"
-    },
-    "captions": {
-      "en-GB": "Devil's Bridge, Kromlau, Saxony, Germany",
-      "de-DE": "Rakotzbrücke, Kromlau, Sachsen",
-      "fr-FR": "Pont du Diable, Kromlau, Saxe, Allemagne",
-      "es-ES": "Rhododendronpark Kromlau, Sajonia, Alemania",
-      "ja-JP": "水面に映る幻想的な石橋",
-      "zh-CN": "",
-      "en-IN": "Devil's Bridge, Kromlau, Saxony, Germany"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Rakotzbr%c3%bccke+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Parc+paysager+de+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Puente+del+diablo+Rhododendronpark+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%82%b3%e3%83%84%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260717_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%81%b6%e9%ad%94%e6%a1%a5%e5%9c%a8%e5%85%8b%e7%bd%97%e5%a7%86%e5%8a%b3%e6%9d%9c%e9%b9%83%e8%8a%b1%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.DevilsBridge_EN-GB3657419694",
-      "de-DE": "/th?id=OHR.DevilsBridge_DE-DE6987454445",
-      "fr-FR": "/th?id=OHR.DevilsBridge_FR-FR5259113427",
-      "es-ES": "/th?id=OHR.DevilsBridge_ES-ES8242183956",
-      "ja-JP": "/th?id=OHR.DevilsBridge_JA-JP0713285567",
-      "zh-CN": "/th?id=OHR.DevilsBridge_ZH-CN2164982440",
-      "en-IN": "/th?id=OHR.DevilsBridge_EN-IN8517892146"
+      "en-GB": "/th?id=OHR.HirundoRustica_EN-GB4164429315",
+      "de-DE": "/th?id=OHR.HirundoRustica_DE-DE7127271974",
+      "fr-FR": "/th?id=OHR.HirundoRustica_FR-FR5403619513",
+      "it-IT": "/th?id=OHR.HirundoRustica_IT-IT8852691530",
+      "es-ES": "/th?id=OHR.HirundoRustica_ES-ES1865458756",
+      "pt-BR": "/th?id=OHR.HirundoRustica_PT-BR5068728715",
+      "ja-JP": "/th?id=OHR.HirundoRustica_JA-JP1327555795",
+      "zh-CN": "/th?id=OHR.HirundoRustica_ZH-CN2798518247",
+      "en-IN": "/th?id=OHR.HirundoRustica_EN-IN8751353148"
     }
   },
   "LlanthonyPriory2026": {
@@ -2010,69 +2071,6 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.SummerBC_EN-CA3026184215"
-    }
-  },
-  "KaysersbergVillage": {
-    "name": "KaysersbergVillage",
-    "urlbase": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
-    "date": "20260704",
-    "dateFormatted": "July 04, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-CA": "This is your detour. Kaysersberg, Alsace, France",
-      "pt-BR": "Do império à enoteca",
-      "de-DE": "Im Herzen des Elsass. Kaysersberg, Elsass, Frankreich",
-      "fr-FR": "Faire un Tour au village. Kaysersberg, Alsace",
-      "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
-      "zh-CN": "此行，不虚绕道",
-      "en-IN": "This is your detour. Kaysersberg, Alsace, France",
-      "en-GB": "This is your detour. Kaysersberg, Alsace, France"
-    },
-    "copyrights": {
-      "en-CA": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-      "pt-BR": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
-      "de-DE": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
-      "fr-FR": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
-      "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
-      "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
-      "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-      "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
-      "de-DE": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
-      "fr-FR": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
-      "es-ES": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
-      "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
-      "en-GB": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
-      "pt-BR": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
-      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。"
-    },
-    "quickFacts": {
-      "zh-CN": "白鹳（Ciconia ciconia）的复育生境在凯泽斯堡，阿尔萨斯，法国具有典型的生态指标意义，自1970年代险些灭绝后的保护行动，使这种标志性鸟类重新在村落的烟囱顶端筑巢，成为衡量当地跨区域生态系统健康的重要标志。"
-    },
-    "captions": {
-      "en-CA": "Kaysersberg, Alsace, France",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260704_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Alsacia+Franca&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
-      "pt-BR": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338"
     }
   },
   "MunichTwilight": {
@@ -2299,77 +2297,6 @@
       "es-ES": "/th?id=OHR.GranCanaria_ES-ES7578658409"
     }
   },
-  "HirundoRustica": {
-    "name": "HirundoRustica",
-    "urlbase": "/th?id=OHR.HirundoRustica_PT-BR5068728715",
-    "date": "20260717",
-    "dateFormatted": "July 17, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Pequenas viajantes, grandes distâncias",
-      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
-      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
-      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together",
-      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
-      "fr-FR": "Ailes de repos. Hirondelles rustiques de différentes sous-espèces se reposant ensemble",
-      "it-IT": "Ali a riposo. Rondini di diverse sottospecie che riposano insieme",
-      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
-      "ja-JP": "枯れ草にとまる小鳥の群れ. ツバメ",
-      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息",
-      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together"
-    },
-    "copyrights": {
-      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-US": "© Oscar Dominguez/Tandem Stills + Motion",
-      "en-GB": "© Oscar Dominguez/Tandem Stills + Motion",
-      "en-CA": "© Oscar Dominguez/Tandem Stills + Motion",
-      "de-DE": "© Oscar Dominguez/Tandem Stills + Motion",
-      "fr-FR": "© Oscar Dominguez/Tandem Stills + Motion",
-      "it-IT": "© Oscar Dominguez/Tandem Stills + Motion",
-      "es-ES": "© Oscar Dominguez/Tandem Stills + Motion",
-      "ja-JP": "© Oscar Dominguez/Tandem Stills + Motion",
-      "zh-CN": "© Oscar Dominguez/Tandem Stills + Motion",
-      "en-IN": "© Oscar Dominguez/Tandem Stills + Motion"
-    },
-    "descs": {
-      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
-      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
-      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
-      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
-      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
-      "ja-JP": "枯れ草にとまる小鳥の群れ. ツバメ. 一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
-      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。",
-      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range."
-    },
-    "quickFacts": {
-      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
-      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
-      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
-      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
-      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
-      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
-      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
-      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
-    },
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=andorinha+das+chamines+hirundo+rustica&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.HirundoRustica_PT-BR5068728715"
-    }
-  },
   "Tanager": {
     "name": "Tanager",
     "urlbase": "/th?id=OHR.Tanager_PT-BR3453059902",
@@ -2528,6 +2455,103 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.RathYatra2026_EN-IN7824400350"
+    }
+  },
+  "LibertyHall": {
+    "name": "LibertyHall",
+    "urlbase": "/th?id=OHR.LibertyHall_EN-US2562041614",
+    "date": "20260704",
+    "dateFormatted": "July 04, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "The story continues. The United States' 250th anniversary"
+    },
+    "copyrights": {
+      "en-US": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Today, the United States marks 250 years since the adoption of the Declaration of Independence—a milestone known as the 'semiquincentennial.' This anniversary commemorates 1776, when the Declaration articulated the idea that a nation could be defined by shared principles rather than inherited rule. Two and a half centuries later, this date is marked not only as an anniversary but also as an opportunity to reflect on the nation's long and evolving story."
+    },
+    "quickFacts": {
+      "en-US": "Most of the Declaration's signers did not sign it on July 4, but nearly a month later—primarily on August 2, 1776."
+    },
+    "captions": {
+      "en-US": "The United States' 250th anniversary"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Fourth+of+July&form=hpcapt&filters=HpDate%3a%2220260704_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LibertyHall_EN-US2562041614"
+    }
+  },
+  "KaysersbergVillage": {
+    "name": "KaysersbergVillage",
+    "urlbase": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
+    "date": "20260704",
+    "dateFormatted": "July 04, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-CA": "This is your detour. Kaysersberg, Alsace, France",
+      "pt-BR": "Do império à enoteca",
+      "de-DE": "Im Herzen des Elsass. Kaysersberg, Elsass, Frankreich",
+      "fr-FR": "Faire un Tour au village. Kaysersberg, Alsace",
+      "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
+      "zh-CN": "此行，不虚绕道",
+      "en-IN": "This is your detour. Kaysersberg, Alsace, France",
+      "en-GB": "This is your detour. Kaysersberg, Alsace, France"
+    },
+    "copyrights": {
+      "en-CA": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "pt-BR": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
+      "de-DE": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
+      "fr-FR": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
+      "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
+      "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
+      "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
+      "de-DE": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
+      "fr-FR": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
+      "es-ES": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
+      "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
+      "en-GB": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
+      "pt-BR": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
+      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。"
+    },
+    "quickFacts": {
+      "zh-CN": "白鹳（Ciconia ciconia）的复育生境在凯泽斯堡，阿尔萨斯，法国具有典型的生态指标意义，自1970年代险些灭绝后的保护行动，使这种标志性鸟类重新在村落的烟囱顶端筑巢，成为衡量当地跨区域生态系统健康的重要标志。"
+    },
+    "captions": {
+      "en-CA": "Kaysersberg, Alsace, France",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260704_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Alsacia+Franca&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
+      "pt-BR": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338"
     }
   },
   "FirefliesJapan": {
