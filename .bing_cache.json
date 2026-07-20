@@ -1,4 +1,155 @@
 {
+  "HirundoRustica": {
+    "name": "HirundoRustica",
+    "urlbase": "/th?id=OHR.HirundoRustica_EN-US3193611104",
+    "date": "20260719",
+    "dateFormatted": "July 19, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together",
+      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
+      "fr-FR": "Ailes de repos. Hirondelles rustiques se reposant ensemble",
+      "it-IT": "Ali a riposo",
+      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
+      "pt-BR": "Pequenas viajantes, grandes distâncias",
+      "ja-JP": "枯れ草にとまる小鳥の群れ",
+      "zh-CN": "敛羽栖时",
+      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together"
+    },
+    "copyrights": {
+      "en-US": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-GB": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-CA": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast (© Oscar Dominguez/Tandem Stills + Motion)",
+      "fr-FR": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
+      "it-IT": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
+      "es-ES": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+      "ja-JP": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
+      "zh-CN": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)"
+    },
+    "descs": {
+      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
+      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
+      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
+      "ja-JP": "枯れ草にとまる小鳥の群れ. ツバメ. 一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
+      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
+      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
+      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。"
+    },
+    "quickFacts": {
+      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
+      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
+      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
+      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
+      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
+      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
+    },
+    "captions": {
+      "en-US": "Barn swallows of different subspecies resting together",
+      "en-GB": "Barn swallows of different subspecies resting together",
+      "en-CA": "Barn swallows of different subspecies resting together",
+      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
+      "fr-FR": "Hirondelles rustiques se reposant ensemble",
+      "it-IT": "",
+      "es-ES": "Golondrinas descansando juntas",
+      "pt-BR": "",
+      "ja-JP": "枯れ草にとまる小鳥の群れ",
+      "zh-CN": "",
+      "en-IN": "Barn swallows of different subspecies resting together"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Rauchschwalbe&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=hirondelle+rustique&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Le+Rondini&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Golondrinas&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=andorinha+das+chamines+hirundo+rustica&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%84%e3%83%90%e3%83%a1&form=hpcapt&filters=HpDate%3a%2220260718_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%ae%b6%e7%87%95&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HirundoRustica_EN-US3193611104",
+      "en-GB": "/th?id=OHR.HirundoRustica_EN-GB4164429315",
+      "en-CA": "/th?id=OHR.HirundoRustica_EN-CA9613012856",
+      "de-DE": "/th?id=OHR.HirundoRustica_DE-DE7127271974",
+      "fr-FR": "/th?id=OHR.HirundoRustica_FR-FR5403619513",
+      "it-IT": "/th?id=OHR.HirundoRustica_IT-IT8852691530",
+      "es-ES": "/th?id=OHR.HirundoRustica_ES-ES1865458756",
+      "pt-BR": "/th?id=OHR.HirundoRustica_PT-BR5068728715",
+      "ja-JP": "/th?id=OHR.HirundoRustica_JA-JP1327555795",
+      "zh-CN": "/th?id=OHR.HirundoRustica_ZH-CN2798518247",
+      "en-IN": "/th?id=OHR.HirundoRustica_EN-IN8751353148"
+    }
+  },
   "DevilsBridge": {
     "name": "DevilsBridge",
     "urlbase": "/th?id=OHR.DevilsBridge_EN-US3505962815",
@@ -1578,55 +1729,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "A city written in centuries. Syracuse, Sicily, Italy",
-      "en-GB": "A city written in centuries. Syracuse, Sicily, Italy",
       "en-CA": "A city written in centuries. Syracuse, Sicily, Italy",
+      "en-GB": "A city written in centuries. Syracuse, Sicily, Italy",
       "de-DE": "Im Licht der Jahrhunderte. Syrakus, Sizilien, Italien",
       "fr-FR": "Des siècles d’Histoire. Syracuse, Sicile, Italie",
       "it-IT": "Passato presente",
@@ -1637,8 +1748,8 @@
     },
     "copyrights": {
       "en-US": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
-      "en-GB": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
       "en-CA": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "en-GB": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
       "de-DE": "Syrakus bei Sonnenuntergang, Sizilien, Italien (© Balate Dorin/Getty Images)",
       "fr-FR": "Syracuse au coucher du soleil, Sicile, Italie (© Balate Dorin/Getty Images)",
       "it-IT": "Tramonto a Siracusa, Sicilia (© Balate Dorin/Getty Images)",
@@ -1649,8 +1760,8 @@
     },
     "descs": {
       "en-US": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "en-GB": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
       "en-CA": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "en-GB": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
       "de-DE": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
       "fr-FR": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
       "es-ES": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
@@ -1664,126 +1775,22 @@
     },
     "captions": {
       "en-US": "Syracuse, Sicily, Italy",
-      "en-GB": "Syracuse, Sicily, Italy",
-      "en-CA": "Syracuse, Sicily, Italy",
-      "de-DE": "Syrakus, Sizilien, Italien",
-      "fr-FR": "Syracuse, Sicile, Italie",
-      "it-IT": "",
-      "es-ES": "Siracusa, Sicilia, Italia",
-      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
-      "zh-CN": "",
-      "en-IN": "Syracuse, Sicily, Italy"
+      "en-CA": "Syracuse, Sicily, Italy"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Syrakus&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Syracuse+Sicile&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Siracusa&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Siracusa&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%83%a9%e3%82%af%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260705_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%94%a1%e6%8b%89%e5%ba%93%e8%90%a8+%e8%a5%bf%e8%a5%bf%e9%87%8c%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.SyracuseItaly_EN-US3071727282",
-      "en-GB": "/th?id=OHR.SyracuseItaly_EN-GB9688094986",
-      "en-CA": "/th?id=OHR.SyracuseItaly_EN-CA4724586582",
-      "de-DE": "/th?id=OHR.SyracuseItaly_DE-DE7459831277",
-      "fr-FR": "/th?id=OHR.SyracuseItaly_FR-FR9604430573",
-      "it-IT": "/th?id=OHR.SyracuseItaly_IT-IT1893295925",
-      "es-ES": "/th?id=OHR.SyracuseItaly_ES-ES6910557655",
-      "ja-JP": "/th?id=OHR.SyracuseItaly_JA-JP9524720514",
-      "zh-CN": "/th?id=OHR.SyracuseItaly_ZH-CN1001695972",
-      "en-IN": "/th?id=OHR.SyracuseItaly_EN-IN1535239880"
+      "en-CA": "/th?id=OHR.SyracuseItaly_EN-CA4724586582"
     }
   },
-  "LavenderRows": {
-    "name": "LavenderRows",
-    "urlbase": "/th?id=OHR.LavenderRows_EN-US2831933520",
-    "date": "20260705",
-    "dateFormatted": "July 05, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "en-CA": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "pt-BR": "O perfume da Provença",
-      "en-GB": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
-      "de-DE": "Ein Meer aus Lila. Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
-      "fr-FR": "Les mers pourpres. Plateau de Valensole, Provence",
-      "it-IT": "Mare di viola",
-      "es-ES": "Un mar púrpura. Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
-      "ja-JP": "一面に広がる紫色のラベンダー畑",
-      "zh-CN": "紫色花海",
-      "en-IN": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France"
-    },
-    "copyrights": {
-      "en-US": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
-      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
-      "pt-BR": "Campos de lavanda no Plateau de Valensole, Provença, França (© Robert Harding/Shutterstock)",
-      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
-      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
-      "fr-FR": "Champs de lavande, Plateau de Valensole, Provence (© Robert Harding/Shutterstock)",
-      "it-IT": "Righe lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
-      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
-      "ja-JP": "ヴァランソール高原, フランス (© Robert Harding/Shutterstock)",
-      "zh-CN": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
-      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognizable sights. The air carries a sharp, dry, and unmistakably Mediterranean scent.",
-      "en-CA": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "en-GB": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "de-DE": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
-      "fr-FR": "Au cœur de la Provence, sur le plateau de Valensole, l’été s’accorde aux tons violets. Situé dans le Parc naturel régional du Verdon, entre les vallées de la Durance et de l’Asse, ce vaste plateau offre, de mi-juin à début juillet, l’un des paysages les plus emblématiques de Provence. Lorsque la lavande et le lavandin fleurissent, l’air se charge de leurs parfums caractéristiques.",
-      "es-ES": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
-      "ja-JP": "ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
-      "en-IN": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-      "it-IT": "Sull’altopiano di Valensole, nel sud-est della Francia, l’estate si accende in distese ondulate di viola e blu che sembrano dipinte a mano. Tra metà giugno e inizio luglio, nel cuore del Parco del Verdon, lavanda e lavandin trasformano il paesaggio in un mosaico profumato, attraversato dal ronzio continuo delle api. L’atmosfera, intensa e mediterranea, richiama scenari familiari anche in Italia: basti pensare ai campi di lavanda della Val d’Orcia o alle colline piemontesi, dove la stessa fioritura regala emozioni simili, seppur su scala più raccolta.",
-      "pt-BR": "Entre junho e julho no sul da França, até o vento fica perfumado. No Planalto de Valensole, na região de Provença, fileiras de lavanda e lavandim — um híbrido mais resistente e produtivo — pintam a paisagem de um violeta quase hipnótico. Por trás da estética, há agricultura em plena operação.",
-      "zh-CN": "在法国东南部，瓦朗索勒高原（Valensole Plateau）的夏季伴随着阵阵紫蓝色的波浪而至。瓦朗索勒作为该地区最大的高原之一，坐落在迪朗斯河（Durance）与阿斯河（Asse）流域之间的韦尔东地区自然公园（Verdon Regional Natural Park）内，毗邻韦尔东大峡谷（Gorges du Verdon）及其湖泊。从6月中旬到7月初，受海拔和天气影响，薰衣草与杂交薰衣草（Lavandin）竞相绽放，将大地转化为普罗旺斯最具标志性的景观之一。空气中弥漫着清冽、干爽且极具地中海特色的香气。"
-    },
-    "quickFacts": {
-      "zh-CN": "独特的碱性石质土壤在瓦朗索勒高原，普罗旺斯，法国为植物提供了卓越的排水性能，这种地质特性对于薰衣草在高海拔地中海气候下生存至关重要，能有效防止冬季根部腐烂并提升精油品质。"
-    },
-    "captions": {
-      "en-US": "Lavender rows, Plateau de Valensole, Provence, France",
-      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=lavandas&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.LavenderRows_EN-US2831933520",
-      "en-CA": "/th?id=OHR.LavenderRows_EN-CA8245005019",
-      "pt-BR": "/th?id=OHR.LavenderRows_PT-BR5358719596"
-    }
-  },
-  "HirundoRustica": {
-    "name": "HirundoRustica",
-    "urlbase": "/th?id=OHR.HirundoRustica_EN-GB4164429315",
-    "date": "20260718",
-    "dateFormatted": "July 18, 2026",
+  "Artemis": {
+    "name": "Artemis",
+    "urlbase": "/th?id=OHR.Artemis_EN-GB4404068677",
+    "date": "20260719",
+    "dateFormatted": "July 19, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1832,86 +1839,86 @@
       }
     ],
     "titles": {
-      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
-      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
-      "fr-FR": "Ailes de repos. Hirondelles rustiques se reposant ensemble",
-      "it-IT": "Ali a riposo",
-      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
-      "pt-BR": "Pequenas viajantes, grandes distâncias",
-      "ja-JP": "枯れ草にとまる小鳥の群れ",
-      "zh-CN": "敛羽栖时",
-      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together",
-      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
-      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together"
+      "en-GB": "The lunar perspective. International Moon Day",
+      "de-DE": "Aus der Perspektive des Mondes. Internationaler Tag des Mondes",
+      "fr-FR": "Une perspective lunaire. Journée internationale de la Lune",
+      "it-IT": "L'altro lato della luna",
+      "es-ES": "La otra cara de la Luna. Día Internacional de la Luna",
+      "pt-BR": "A distância que nos aproxima",
+      "ja-JP": "今日は国際月の日",
+      "zh-CN": "月瞰寰宇",
+      "en-IN": "The lunar perspective. International Moon Day",
+      "en-US": "The lunar perspective. Moon and Earth captured by the Artemis II crew",
+      "en-CA": "The lunar perspective. Moon and Earth captured by the Artemis II crew"
     },
     "copyrights": {
-      "en-GB": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast (© Oscar Dominguez/Tandem Stills + Motion)",
-      "fr-FR": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
-      "it-IT": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
-      "es-ES": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
-      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)",
-      "ja-JP": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
-      "zh-CN": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-US": "© Oscar Dominguez/Tandem Stills + Motion",
-      "en-CA": "© Oscar Dominguez/Tandem Stills + Motion"
+      "en-GB": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "de-DE": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
+      "fr-FR": "La Lune et la Terre capturées par l'équipage d'Artemis II (© NASA)",
+      "it-IT": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
+      "es-ES": "Luna y Tierra capturadas por la tripulación Artemis II (© NASA)",
+      "pt-BR": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
+      "ja-JP": "月から見た地球 (© NASA)",
+      "zh-CN": "月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)",
+      "en-IN": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "en-US": "© NASA",
+      "en-CA": "© NASA"
     },
     "descs": {
-      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
-      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
-      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
-      "ja-JP": "枯れ草にとまる小鳥の群れ. ツバメ. 一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
-      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
-      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
-      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。"
+      "en-GB": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "de-DE": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
+      "fr-FR": "Depuis la surface lunaire criblée de cratères, la Terre apparaît comme un fin croissant lumineux suspendu dans l’obscurité, une vision rare qui renverse notre perspective habituelle. Ce décor austère, sculpté par des milliards d’années d’impacts, conserve la mémoire des origines du système solaire.",
+      "es-ES": "Desde la superficie de la Luna, la Tierra aparece como una fina media luna brillante suspendida en la oscuridad, una imagen que invierte por completo nuestra perspectiva habitual. Este paisaje, marcado por cráteres formados durante miles de millones de años, conserva la memoria del origen del sistema solar. El veinte de julio se celebra el Día Internacional de la Luna, en recuerdo del alunizaje del Apolo 11 en 1969, una fecha clave en la exploración humana.",
+      "ja-JP": "今日、7 月 20 日は「国際月の日」。1969 年にアポロ 11 号の乗組員が、人類初の月面着陸を行った日です。2021 年に国連総会の決議により採択されたもので、月探査のこれまでの成果や、将来の探査・国際協力に向けた取り組みへの理解を深める日です。そして、今日の画像は月から眺めた地球。クレーターに覆われた月から見ることで、逆に地球が「三日月」のように見えています。月のこの荒涼とした風景は、数十億年にわたる隕石の衝突によって形づくられたもので、人類が誕生する以前からの太陽系の歴史を今に伝えています。",
+      "en-IN": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "en-US": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "en-CA": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "it-IT": "Sulla superficie craterizzata della Luna, la Terra appare come una sottile falce luminosa sospesa nel buio: una prospettiva rara catturata dall'equipaggio della missione Artemis II, la prima missione con astronauti a circumnavigare la Luna dopo il programma Apollo",
+      "pt-BR": "Da superfície marcada por crateras da Lua, a Terra é um fino arco luminoso suspenso na escuridão. É uma inversão curiosa: aqui de cima, nosso planeta não é o cenário principal, mas uma presença distante, quase frágil. O relevo lunar, moldado por bilhões de anos de impactos, guarda uma espécie de arquivo geológico do início do Sistema Solar, sem vento para apagar marcas nem água para redesenhar relevos.",
+      "zh-CN": "月瞰寰宇. 月球与地球由阿耳忒弥斯2号机组人员拍摄. 从月球那遍布环形山的表面望去，地球在无垠的黑暗中呈现为一抹微光闪烁的娥眉状——这一罕见的奇观与我们惯常的地面观测视角截然相反。这片由数十亿年撞击作用塑造的荒芜地貌，完整地保存了早期太阳系的演化记录。7月20日是国际月球日，旨在纪念1969年阿波罗11号任务中人类首次踏上月球表面的历史性时刻。该纪念日由联合国于2021年设立，不仅致敬过去的辉煌成就，更聚焦于当下持续不断的月球探测努力。"
     },
     "quickFacts": {
-      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
-      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
-      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
-      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
-      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
-      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
-      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
-      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
+      "en-US": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "en-GB": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "en-CA": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "de-DE": "Der Mond rotiert mit derselben Geschwindigkeit um seine eigene Achse, mit der er die Erde umkreist. Deshalb sehen wir von der Erde aus immer dieselbe Seite des Mondes.",
+      "fr-FR": "La Lune tourne sur elle‑même au même rythme qu’elle orbite autour de la Terre, ce qui fait que nous en voyons toujours la même face.",
+      "ja-JP": "月の引力は遠くにあるにもかかわらず地球の海水を引き寄せ、1日におよそ2回の満潮と干潮を生み出しています。",
+      "zh-CN": "月球的自转速率与其绕地球公转的速率完全同步，由于这种“同步自转”特性，我们在地球上观测时始终只能看到月球的同一面。",
+      "en-IN": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet."
     },
     "captions": {
-      "en-GB": "Barn swallows of different subspecies resting together",
-      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
-      "fr-FR": "Hirondelles rustiques se reposant ensemble",
+      "en-GB": "International Moon Day",
+      "de-DE": "Internationaler Tag des Mondes",
+      "fr-FR": "Journée internationale de la Lune",
       "it-IT": "",
-      "es-ES": "Golondrinas descansando juntas",
+      "es-ES": "Día Internacional de la Luna",
       "pt-BR": "",
-      "ja-JP": "枯れ草にとまる小鳥の群れ",
+      "ja-JP": "今日は国際月の日",
       "zh-CN": "",
-      "en-IN": "Barn swallows of different subspecies resting together"
+      "en-IN": "International Moon Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Rauchschwalbe&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=hirondelle+rustique&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Le+Rondini&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Golondrinas&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=andorinha+das+chamines+hirundo+rustica&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%84%e3%83%90%e3%83%a1&form=hpcapt&filters=HpDate%3a%2220260718_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%ae%b6%e7%87%95&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_1830%22"
+      "en-GB": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Mondes&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+de+la+Lune&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+della+Luna&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+la+Luna&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Lua&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e6%9c%88%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260719_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%9c%88%e7%90%83%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.HirundoRustica_EN-GB4164429315",
-      "de-DE": "/th?id=OHR.HirundoRustica_DE-DE7127271974",
-      "fr-FR": "/th?id=OHR.HirundoRustica_FR-FR5403619513",
-      "it-IT": "/th?id=OHR.HirundoRustica_IT-IT8852691530",
-      "es-ES": "/th?id=OHR.HirundoRustica_ES-ES1865458756",
-      "pt-BR": "/th?id=OHR.HirundoRustica_PT-BR5068728715",
-      "ja-JP": "/th?id=OHR.HirundoRustica_JA-JP1327555795",
-      "zh-CN": "/th?id=OHR.HirundoRustica_ZH-CN2798518247",
-      "en-IN": "/th?id=OHR.HirundoRustica_EN-IN8751353148"
+      "en-GB": "/th?id=OHR.Artemis_EN-GB4404068677",
+      "de-DE": "/th?id=OHR.Artemis_DE-DE7510070152",
+      "fr-FR": "/th?id=OHR.Artemis_FR-FR5561744161",
+      "it-IT": "/th?id=OHR.Artemis_IT-IT9087187961",
+      "es-ES": "/th?id=OHR.Artemis_ES-ES9353344735",
+      "pt-BR": "/th?id=OHR.Artemis_PT-BR6100754238",
+      "ja-JP": "/th?id=OHR.Artemis_JA-JP1736021856",
+      "zh-CN": "/th?id=OHR.Artemis_ZH-CN3540365575",
+      "en-IN": "/th?id=OHR.Artemis_EN-IN9018589977"
     }
   },
   "LlanthonyPriory2026": {
@@ -2297,6 +2304,38 @@
       "es-ES": "/th?id=OHR.GranCanaria_ES-ES7578658409"
     }
   },
+  "SoccerDay": {
+    "name": "SoccerDay",
+    "urlbase": "/th?id=OHR.SoccerDay_PT-BR5859476382",
+    "date": "20260719",
+    "dateFormatted": "July 19, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Em cada canto, um campo"
+    },
+    "copyrights": {
+      "pt-BR": "Vista aérea de jovens jogando futebol em um campo de terra em uma comunidade do Rio de Janeiro, RJ (© Tom Wilde/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Um gramado ajuda, mas o futebol brasileiro nunca esperou condições ideais. O esporte nasceu na Inglaterra do século XIX, mas ganhou outra personalidade quando desembarcou aqui em 1894. Escapou dos clubes elegantes, encontrou terrenos vazios, pátios, praias, várzeas e morros — e nunca mais foi o mesmo. A cena da imagem, num campo de terra no Rio de Janeiro, se repete de Oiapoque ao Chuí. Aqui, os espaços apertados premiaram raciocínio rápido. O chão irregular treinou improviso. A falta de estrutura virou combustível para a criatividade."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=dia+nacional+do+futebol&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.SoccerDay_PT-BR5859476382"
+    }
+  },
   "Tanager": {
     "name": "Tanager",
     "urlbase": "/th?id=OHR.Tanager_PT-BR3453059902",
@@ -2327,38 +2366,6 @@
     },
     "urlbases": {
       "pt-BR": "/th?id=OHR.Tanager_PT-BR3453059902"
-    }
-  },
-  "PepJalapao": {
-    "name": "PepJalapao",
-    "urlbase": "/th?id=OHR.PepJalapao_PT-BR2714528924",
-    "date": "20260706",
-    "dateFormatted": "July 06, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Cerrado, uma fábrica estrelas"
-    },
-    "copyrights": {
-      "pt-BR": "Sempre-viva, ou chuveirinho, no Cerrado, Parque Estadual do Jalapão, Tocantins (© Caio Pederneiras/Getty Images)"
-    },
-    "descs": {
-      "pt-BR": "Na estação seca, o capim perde o verde, a água se esconde e o calor reorganiza o Cerrado em torno da resistência. Mesmo assim, elas aparecem: hastes finas que terminam em esferas com dezenas de flores minúsculas, formando um “chuveirinho” quase geométrico — daí seu nome. Delicadíssimas, mas nada frágeis, chuveirinhos crescem onde muita coisa desistiria, suportando sol intenso, solo pobre, vento seco e queimadas frequentes. Costumam florescer entre o fim das chuvas e o avanço da seca, de março a julho, podendo ultrapassar dois metros e produzir centenas de flores numa única estrutura."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=sempre-viva+chuveirinho+flor&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.PepJalapao_PT-BR2714528924"
     }
   },
   "GionFestival2026": {
@@ -2455,6 +2462,118 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.RathYatra2026_EN-IN7824400350"
+    }
+  },
+  "LavenderRows": {
+    "name": "LavenderRows",
+    "urlbase": "/th?id=OHR.LavenderRows_EN-US2831933520",
+    "date": "20260705",
+    "dateFormatted": "July 05, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "en-CA": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "pt-BR": "O perfume da Provença",
+      "en-GB": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France",
+      "de-DE": "Ein Meer aus Lila. Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
+      "fr-FR": "Les mers pourpres. Plateau de Valensole, Provence",
+      "it-IT": "Mare di viola",
+      "es-ES": "Un mar púrpura. Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
+      "ja-JP": "一面に広がる紫色のラベンダー畑",
+      "zh-CN": "紫色花海",
+      "en-IN": "Sea of purple. Lavender rows, Plateau de Valensole, Provence, France"
+    },
+    "copyrights": {
+      "en-US": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "pt-BR": "Campos de lavanda no Plateau de Valensole, Provença, França (© Robert Harding/Shutterstock)",
+      "en-GB": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+      "de-DE": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
+      "fr-FR": "Champs de lavande, Plateau de Valensole, Provence (© Robert Harding/Shutterstock)",
+      "it-IT": "Righe lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+      "es-ES": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+      "ja-JP": "ヴァランソール高原, フランス (© Robert Harding/Shutterstock)",
+      "zh-CN": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
+      "en-IN": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognizable sights. The air carries a sharp, dry, and unmistakably Mediterranean scent.",
+      "en-CA": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "en-GB": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "de-DE": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
+      "fr-FR": "Au cœur de la Provence, sur le plateau de Valensole, l’été s’accorde aux tons violets. Situé dans le Parc naturel régional du Verdon, entre les vallées de la Durance et de l’Asse, ce vaste plateau offre, de mi-juin à début juillet, l’un des paysages les plus emblématiques de Provence. Lorsque la lavande et le lavandin fleurissent, l’air se charge de leurs parfums caractéristiques.",
+      "es-ES": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
+      "ja-JP": "ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
+      "en-IN": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+      "it-IT": "Sull’altopiano di Valensole, nel sud-est della Francia, l’estate si accende in distese ondulate di viola e blu che sembrano dipinte a mano. Tra metà giugno e inizio luglio, nel cuore del Parco del Verdon, lavanda e lavandin trasformano il paesaggio in un mosaico profumato, attraversato dal ronzio continuo delle api. L’atmosfera, intensa e mediterranea, richiama scenari familiari anche in Italia: basti pensare ai campi di lavanda della Val d’Orcia o alle colline piemontesi, dove la stessa fioritura regala emozioni simili, seppur su scala più raccolta.",
+      "pt-BR": "Entre junho e julho no sul da França, até o vento fica perfumado. No Planalto de Valensole, na região de Provença, fileiras de lavanda e lavandim — um híbrido mais resistente e produtivo — pintam a paisagem de um violeta quase hipnótico. Por trás da estética, há agricultura em plena operação.",
+      "zh-CN": "在法国东南部，瓦朗索勒高原（Valensole Plateau）的夏季伴随着阵阵紫蓝色的波浪而至。瓦朗索勒作为该地区最大的高原之一，坐落在迪朗斯河（Durance）与阿斯河（Asse）流域之间的韦尔东地区自然公园（Verdon Regional Natural Park）内，毗邻韦尔东大峡谷（Gorges du Verdon）及其湖泊。从6月中旬到7月初，受海拔和天气影响，薰衣草与杂交薰衣草（Lavandin）竞相绽放，将大地转化为普罗旺斯最具标志性的景观之一。空气中弥漫着清冽、干爽且极具地中海特色的香气。"
+    },
+    "quickFacts": {
+      "zh-CN": "独特的碱性石质土壤在瓦朗索勒高原，普罗旺斯，法国为植物提供了卓越的排水性能，这种地质特性对于薰衣草在高海拔地中海气候下生存至关重要，能有效防止冬季根部腐烂并提升精油品质。"
+    },
+    "captions": {
+      "en-US": "Lavender rows, Plateau de Valensole, Provence, France",
+      "en-CA": "Lavender rows, Plateau de Valensole, Provence, France",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=lavandas&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LavenderRows_EN-US2831933520",
+      "en-CA": "/th?id=OHR.LavenderRows_EN-CA8245005019",
+      "pt-BR": "/th?id=OHR.LavenderRows_PT-BR5358719596"
+    }
+  },
+  "PepJalapao": {
+    "name": "PepJalapao",
+    "urlbase": "/th?id=OHR.PepJalapao_PT-BR2714528924",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Cerrado, uma fábrica estrelas"
+    },
+    "copyrights": {
+      "pt-BR": "Sempre-viva, ou chuveirinho, no Cerrado, Parque Estadual do Jalapão, Tocantins (© Caio Pederneiras/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Na estação seca, o capim perde o verde, a água se esconde e o calor reorganiza o Cerrado em torno da resistência. Mesmo assim, elas aparecem: hastes finas que terminam em esferas com dezenas de flores minúsculas, formando um “chuveirinho” quase geométrico — daí seu nome. Delicadíssimas, mas nada frágeis, chuveirinhos crescem onde muita coisa desistiria, suportando sol intenso, solo pobre, vento seco e queimadas frequentes. Costumam florescer entre o fim das chuvas e o avanço da seca, de março a julho, podendo ultrapassar dois metros e produzir centenas de flores numa única estrutura."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=sempre-viva+chuveirinho+flor&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.PepJalapao_PT-BR2714528924"
     }
   },
   "LibertyHall": {
