@@ -1,4 +1,155 @@
 {
+  "Artemis": {
+    "name": "Artemis",
+    "urlbase": "/th?id=OHR.Artemis_EN-US0683925849",
+    "date": "20260720",
+    "dateFormatted": "July 20, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The lunar perspective. International Moon Day",
+      "en-GB": "The lunar perspective. International Moon Day",
+      "en-CA": "The lunar perspective. International Moon Day",
+      "de-DE": "Aus der Perspektive des Mondes. Internationaler Tag des Mondes",
+      "fr-FR": "Une perspective lunaire. Journée internationale de la Lune",
+      "it-IT": "L'altro lato della luna",
+      "es-ES": "La otra cara de la Luna. Día Internacional de la Luna",
+      "pt-BR": "A distância que nos aproxima",
+      "ja-JP": "今日は国際月の日",
+      "zh-CN": "月瞰寰宇",
+      "en-IN": "The lunar perspective. International Moon Day"
+    },
+    "copyrights": {
+      "en-US": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "en-GB": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "en-CA": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "de-DE": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
+      "fr-FR": "La Lune et la Terre capturées par l'équipage d'Artemis II (© NASA)",
+      "it-IT": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
+      "es-ES": "Luna y Tierra capturadas por la tripulación Artemis II (© NASA)",
+      "pt-BR": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
+      "ja-JP": "月から見た地球 (© NASA)",
+      "zh-CN": "月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)",
+      "en-IN": "Moon and Earth captured by the Artemis II crew (© NASA)"
+    },
+    "descs": {
+      "en-US": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "en-GB": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "en-CA": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "de-DE": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
+      "fr-FR": "Depuis la surface lunaire criblée de cratères, la Terre apparaît comme un fin croissant lumineux suspendu dans l’obscurité, une vision rare qui renverse notre perspective habituelle. Ce décor austère, sculpté par des milliards d’années d’impacts, conserve la mémoire des origines du système solaire.",
+      "es-ES": "Desde la superficie de la Luna, la Tierra aparece como una fina media luna brillante suspendida en la oscuridad, una imagen que invierte por completo nuestra perspectiva habitual. Este paisaje, marcado por cráteres formados durante miles de millones de años, conserva la memoria del origen del sistema solar. El veinte de julio se celebra el Día Internacional de la Luna, en recuerdo del alunizaje del Apolo 11 en 1969, una fecha clave en la exploración humana.",
+      "ja-JP": "今日、7 月 20 日は「国際月の日」。1969 年にアポロ 11 号の乗組員が、人類初の月面着陸を行った日です。2021 年に国連総会の決議により採択されたもので、月探査のこれまでの成果や、将来の探査・国際協力に向けた取り組みへの理解を深める日です。そして、今日の画像は月から眺めた地球。クレーターに覆われた月から見ることで、逆に地球が「三日月」のように見えています。月のこの荒涼とした風景は、数十億年にわたる隕石の衝突によって形づくられたもので、人類が誕生する以前からの太陽系の歴史を今に伝えています。",
+      "en-IN": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "it-IT": "Sulla superficie craterizzata della Luna, la Terra appare come una sottile falce luminosa sospesa nel buio: una prospettiva rara catturata dall'equipaggio della missione Artemis II, la prima missione con astronauti a circumnavigare la Luna dopo il programma Apollo",
+      "pt-BR": "Da superfície marcada por crateras da Lua, a Terra é um fino arco luminoso suspenso na escuridão. É uma inversão curiosa: aqui de cima, nosso planeta não é o cenário principal, mas uma presença distante, quase frágil. O relevo lunar, moldado por bilhões de anos de impactos, guarda uma espécie de arquivo geológico do início do Sistema Solar, sem vento para apagar marcas nem água para redesenhar relevos.",
+      "zh-CN": "月瞰寰宇. 月球与地球由阿耳忒弥斯2号机组人员拍摄. 从月球那遍布环形山的表面望去，地球在无垠的黑暗中呈现为一抹微光闪烁的娥眉状——这一罕见的奇观与我们惯常的地面观测视角截然相反。这片由数十亿年撞击作用塑造的荒芜地貌，完整地保存了早期太阳系的演化记录。7月20日是国际月球日，旨在纪念1969年阿波罗11号任务中人类首次踏上月球表面的历史性时刻。该纪念日由联合国于2021年设立，不仅致敬过去的辉煌成就，更聚焦于当下持续不断的月球探测努力。"
+    },
+    "quickFacts": {
+      "en-US": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "en-GB": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "en-CA": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "de-DE": "Der Mond rotiert mit derselben Geschwindigkeit um seine eigene Achse, mit der er die Erde umkreist. Deshalb sehen wir von der Erde aus immer dieselbe Seite des Mondes.",
+      "fr-FR": "La Lune tourne sur elle‑même au même rythme qu’elle orbite autour de la Terre, ce qui fait que nous en voyons toujours la même face.",
+      "ja-JP": "月の引力は遠くにあるにもかかわらず地球の海水を引き寄せ、1日におよそ2回の満潮と干潮を生み出しています。",
+      "zh-CN": "月球的自转速率与其绕地球公转的速率完全同步，由于这种“同步自转”特性，我们在地球上观测时始终只能看到月球的同一面。",
+      "en-IN": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet."
+    },
+    "captions": {
+      "en-US": "International Moon Day",
+      "en-GB": "International Moon Day",
+      "en-CA": "International Moon Day",
+      "de-DE": "Internationaler Tag des Mondes",
+      "fr-FR": "Journée internationale de la Lune",
+      "it-IT": "",
+      "es-ES": "Día Internacional de la Luna",
+      "pt-BR": "",
+      "ja-JP": "今日は国際月の日",
+      "zh-CN": "",
+      "en-IN": "International Moon Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260720_0700%22",
+      "en-GB": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_2300%22",
+      "en-CA": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260720_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Mondes&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+de+la+Lune&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+della+Luna&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+la+Luna&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Lua&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e6%9c%88%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260719_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%9c%88%e7%90%83%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Artemis_EN-US0683925849",
+      "en-GB": "/th?id=OHR.Artemis_EN-GB4404068677",
+      "en-CA": "/th?id=OHR.Artemis_EN-CA9898142366",
+      "de-DE": "/th?id=OHR.Artemis_DE-DE7510070152",
+      "fr-FR": "/th?id=OHR.Artemis_FR-FR5561744161",
+      "it-IT": "/th?id=OHR.Artemis_IT-IT9087187961",
+      "es-ES": "/th?id=OHR.Artemis_ES-ES9353344735",
+      "pt-BR": "/th?id=OHR.Artemis_PT-BR6100754238",
+      "ja-JP": "/th?id=OHR.Artemis_JA-JP1736021856",
+      "zh-CN": "/th?id=OHR.Artemis_ZH-CN3540365575",
+      "en-IN": "/th?id=OHR.Artemis_EN-IN9018589977"
+    }
+  },
   "HirundoRustica": {
     "name": "HirundoRustica",
     "urlbase": "/th?id=OHR.HirundoRustica_EN-US3193611104",
@@ -1598,74 +1749,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Color, craft, and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
       "en-CA": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "pt-BR": "Voos que espalham futuro",
+      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
       "de-DE": "Farbenpracht im Blätterdach. Leistenschnabeltukan mit Orchideen, Ecuador",
       "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat, Équateur",
       "it-IT": "Colori e fauna selvatica",
-      "pt-BR": "Voos que espalham futuro",
       "zh-CN": "林冠华彩",
       "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
       "ja-JP": "枝に止まるユニークなオオハシ"
     },
     "copyrights": {
       "en-US": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
-      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
       "en-CA": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "pt-BR": "Tucano “Andigena laminirostris” com orquídeas, Equador (© Murray Cooper/Minden Pictures)",
+      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
       "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)",
       "fr-FR": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
       "it-IT": "Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)",
-      "pt-BR": "Tucano “Andigena laminirostris” com orquídeas, Equador (© Murray Cooper/Minden Pictures)",
       "zh-CN": "板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
       "en-IN": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
       "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)"
     },
     "descs": {
       "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
       "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
       "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
       "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
       "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
@@ -1685,112 +1806,25 @@
     },
     "captions": {
       "en-US": "Plate-billed mountain toucan with orchids, Ecuador",
-      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador",
       "en-CA": "Plate-billed mountain toucan with orchids, Ecuador",
-      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador",
-      "fr-FR": "Toucan montagnard à bec plat, Équateur",
-      "it-IT": "",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_2300%22",
       "en-CA": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Leistenschnabeltukan&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Tucano+montano+pettogrigio&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=o+tucano&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e6%9d%bf%e5%98%b4%e5%b1%b1%e5%b7%a8%e5%98%b4%e9%b8%9f&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=o+tucano&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.MountainToucanOrchids_EN-US3433249651",
-      "en-GB": "/th?id=OHR.MountainToucanOrchids_EN-GB2911291133",
       "en-CA": "/th?id=OHR.MountainToucanOrchids_EN-CA5781848121",
-      "de-DE": "/th?id=OHR.MountainToucanOrchids_DE-DE0710570038",
-      "fr-FR": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325",
-      "it-IT": "/th?id=OHR.MountainToucanOrchids_IT-IT8965138427",
-      "pt-BR": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838",
-      "zh-CN": "/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431",
-      "en-IN": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935"
+      "pt-BR": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838"
     }
   },
-  "SyracuseItaly": {
-    "name": "SyracuseItaly",
-    "urlbase": "/th?id=OHR.SyracuseItaly_EN-US3071727282",
-    "date": "20260706",
-    "dateFormatted": "July 06, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "A city written in centuries. Syracuse, Sicily, Italy",
-      "en-CA": "A city written in centuries. Syracuse, Sicily, Italy",
-      "en-GB": "A city written in centuries. Syracuse, Sicily, Italy",
-      "de-DE": "Im Licht der Jahrhunderte. Syrakus, Sizilien, Italien",
-      "fr-FR": "Des siècles d’Histoire. Syracuse, Sicile, Italie",
-      "it-IT": "Passato presente",
-      "es-ES": "Una ciudad forjada a lo largo de los siglos. Siracusa, Sicilia, Italia",
-      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
-      "zh-CN": "百代镌刻之城",
-      "en-IN": "A city written in centuries. Syracuse, Sicily, Italy"
-    },
-    "copyrights": {
-      "en-US": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
-      "en-CA": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
-      "en-GB": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
-      "de-DE": "Syrakus bei Sonnenuntergang, Sizilien, Italien (© Balate Dorin/Getty Images)",
-      "fr-FR": "Syracuse au coucher du soleil, Sicile, Italie (© Balate Dorin/Getty Images)",
-      "it-IT": "Tramonto a Siracusa, Sicilia (© Balate Dorin/Getty Images)",
-      "es-ES": "Siracusa al atardecer, Sicilia, Italia (© Balate Dorin/Getty Images)",
-      "ja-JP": "シラクサ, イタリア (© Balate Dorin/Getty Images)",
-      "zh-CN": "锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)",
-      "en-IN": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "en-CA": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "en-GB": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "de-DE": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
-      "fr-FR": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
-      "es-ES": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
-      "ja-JP": "ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
-      "en-IN": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
-      "it-IT": "Siracusa, in Italia, vi accoglie con la forza di una storia che affonda le radici nel 734 a.C., quando i coloni greci la trasformarono in una delle capitali del Mediterraneo antico. Passeggiando tra i suoi resti archeologici, oggi patrimonio UNESCO insieme alle Necropoli di Pantalica, si percepisce ancora l’eco di Archimede e il passaggio di Platone, che qui cercò di dare forma concreta alle sue idee politiche.",
-      "zh-CN": "意大利锡拉库萨（Syracuse）位于西西里岛，由来自科林斯的希腊移民于公元前 734 年左右建立。它曾发展成为古地中海最伟大的强权之一，现已被列入联合国教科文组织世界遗产名录——“锡拉库萨和潘塔立克石墓群”。这座城市永远与阿基米德（Archimedes）联系在一起，他的天才至今仍在塑造着城市的身份；同时也与柏拉图（Plato）紧密相连，他曾满怀着哲学可能重塑政治生活的希望来到此处。这种层叠的历史在马尼亚切城堡（Castello Maniace）中依然清晰可感，这座 13 世纪为神圣罗马帝国皇帝腓特烈二世建造的海滨要塞，至今仍令世人赞叹。"
-    },
-    "quickFacts": {
-      "zh-CN": "原生纸莎草的生态孤岛在锡拉库萨，西西里岛，意大利表现出极高的植物学价值，林特奥斯河（Arethusa Spring）不仅是当地重要的淡水水源，更是全欧洲唯一一处野生纸莎草自然生长的原生生境。"
-    },
-    "captions": {
-      "en-US": "Syracuse, Sicily, Italy",
-      "en-CA": "Syracuse, Sicily, Italy"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.SyracuseItaly_EN-US3071727282",
-      "en-CA": "/th?id=OHR.SyracuseItaly_EN-CA4724586582"
-    }
-  },
-  "Artemis": {
-    "name": "Artemis",
-    "urlbase": "/th?id=OHR.Artemis_EN-GB4404068677",
-    "date": "20260719",
-    "dateFormatted": "July 19, 2026",
+  "SantaCatalina": {
+    "name": "SantaCatalina",
+    "urlbase": "/th?id=OHR.SantaCatalina_EN-GB4642325508",
+    "date": "20260720",
+    "dateFormatted": "July 20, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1813,21 +1847,6 @@
         "flag": "it"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -1839,86 +1858,64 @@
       }
     ],
     "titles": {
-      "en-GB": "The lunar perspective. International Moon Day",
-      "de-DE": "Aus der Perspektive des Mondes. Internationaler Tag des Mondes",
-      "fr-FR": "Une perspective lunaire. Journée internationale de la Lune",
-      "it-IT": "L'altro lato della luna",
-      "es-ES": "La otra cara de la Luna. Día Internacional de la Luna",
-      "pt-BR": "A distância que nos aproxima",
-      "ja-JP": "今日は国際月の日",
-      "zh-CN": "月瞰寰宇",
-      "en-IN": "The lunar perspective. International Moon Day",
-      "en-US": "The lunar perspective. Moon and Earth captured by the Artemis II crew",
-      "en-CA": "The lunar perspective. Moon and Earth captured by the Artemis II crew"
+      "en-GB": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "de-DE": "Offenbar gut verborgen. Arco de Santa Catalina in Antigua, Guatemala",
+      "fr-FR": "L’arche qui cache. Santa Catalina Arch, Antigua, Guatemala",
+      "it-IT": "Senza entrare in strada",
+      "zh-CN": "拱影寻踪",
+      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "en-US": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "en-CA": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "pt-BR": "Um portal para outra época. Arco de Santa Catalina, Antígua, Guatemala"
     },
     "copyrights": {
-      "en-GB": "Moon and Earth captured by the Artemis II crew (© NASA)",
-      "de-DE": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
-      "fr-FR": "La Lune et la Terre capturées par l'équipage d'Artemis II (© NASA)",
-      "it-IT": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
-      "es-ES": "Luna y Tierra capturadas por la tripulación Artemis II (© NASA)",
-      "pt-BR": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
-      "ja-JP": "月から見た地球 (© NASA)",
-      "zh-CN": "月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)",
-      "en-IN": "Moon and Earth captured by the Artemis II crew (© NASA)",
-      "en-US": "© NASA",
-      "en-CA": "© NASA"
+      "en-GB": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "fr-FR": "Arche de Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "it-IT": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "zh-CN": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
+      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "en-US": "© Filippo Maria Bianchi/Getty Images",
+      "en-CA": "© Filippo Maria Bianchi/Getty Images",
+      "pt-BR": "© Filippo Maria Bianchi/Getty Images"
     },
     "descs": {
-      "en-GB": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "de-DE": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
-      "fr-FR": "Depuis la surface lunaire criblée de cratères, la Terre apparaît comme un fin croissant lumineux suspendu dans l’obscurité, une vision rare qui renverse notre perspective habituelle. Ce décor austère, sculpté par des milliards d’années d’impacts, conserve la mémoire des origines du système solaire.",
-      "es-ES": "Desde la superficie de la Luna, la Tierra aparece como una fina media luna brillante suspendida en la oscuridad, una imagen que invierte por completo nuestra perspectiva habitual. Este paisaje, marcado por cráteres formados durante miles de millones de años, conserva la memoria del origen del sistema solar. El veinte de julio se celebra el Día Internacional de la Luna, en recuerdo del alunizaje del Apolo 11 en 1969, una fecha clave en la exploración humana.",
-      "ja-JP": "今日、7 月 20 日は「国際月の日」。1969 年にアポロ 11 号の乗組員が、人類初の月面着陸を行った日です。2021 年に国連総会の決議により採択されたもので、月探査のこれまでの成果や、将来の探査・国際協力に向けた取り組みへの理解を深める日です。そして、今日の画像は月から眺めた地球。クレーターに覆われた月から見ることで、逆に地球が「三日月」のように見えています。月のこの荒涼とした風景は、数十億年にわたる隕石の衝突によって形づくられたもので、人類が誕生する以前からの太陽系の歴史を今に伝えています。",
-      "en-IN": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "en-US": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "en-CA": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "it-IT": "Sulla superficie craterizzata della Luna, la Terra appare come una sottile falce luminosa sospesa nel buio: una prospettiva rara catturata dall'equipaggio della missione Artemis II, la prima missione con astronauti a circumnavigare la Luna dopo il programma Apollo",
-      "pt-BR": "Da superfície marcada por crateras da Lua, a Terra é um fino arco luminoso suspenso na escuridão. É uma inversão curiosa: aqui de cima, nosso planeta não é o cenário principal, mas uma presença distante, quase frágil. O relevo lunar, moldado por bilhões de anos de impactos, guarda uma espécie de arquivo geológico do início do Sistema Solar, sem vento para apagar marcas nem água para redesenhar relevos.",
-      "zh-CN": "月瞰寰宇. 月球与地球由阿耳忒弥斯2号机组人员拍摄. 从月球那遍布环形山的表面望去，地球在无垠的黑暗中呈现为一抹微光闪烁的娥眉状——这一罕见的奇观与我们惯常的地面观测视角截然相反。这片由数十亿年撞击作用塑造的荒芜地貌，完整地保存了早期太阳系的演化记录。7月20日是国际月球日，旨在纪念1969年阿波罗11号任务中人类首次踏上月球表面的历史性时刻。该纪念日由联合国于2021年设立，不仅致敬过去的辉煌成就，更聚焦于当下持续不断的月球探测努力。"
+      "en-GB": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "de-DE": "Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.",
+      "fr-FR": "À Antigua, au Guatemala, l’arche de Santa Catalina se dresse au cœur des rues pavées, avec le volcan Agua en arrière‑plan. Au lever du soleil, sa façade jaune capte la lumière et contraste avec les pavés sombres qui s’étirent dans la perspective de la ville.",
+      "en-IN": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "en-US": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "en-CA": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow façade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "it-IT": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
+      "pt-BR": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
+      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。"
     },
     "quickFacts": {
-      "en-US": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
-      "en-GB": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
-      "en-CA": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
-      "de-DE": "Der Mond rotiert mit derselben Geschwindigkeit um seine eigene Achse, mit der er die Erde umkreist. Deshalb sehen wir von der Erde aus immer dieselbe Seite des Mondes.",
-      "fr-FR": "La Lune tourne sur elle‑même au même rythme qu’elle orbite autour de la Terre, ce qui fait que nous en voyons toujours la même face.",
-      "ja-JP": "月の引力は遠くにあるにもかかわらず地球の海水を引き寄せ、1日におよそ2回の満潮と干潮を生み出しています。",
-      "zh-CN": "月球的自转速率与其绕地球公转的速率完全同步，由于这种“同步自转”特性，我们在地球上观测时始终只能看到月球的同一面。",
-      "en-IN": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet."
+      "zh-CN": "这座标志性的法制时钟于19世纪30年代被增设，至今仍需每三天人工手动上弦一次，在圣卡塔琳娜拱门，安提瓜，危地马拉。"
     },
     "captions": {
-      "en-GB": "International Moon Day",
-      "de-DE": "Internationaler Tag des Mondes",
-      "fr-FR": "Journée internationale de la Lune",
+      "en-GB": "Santa Catalina Arch, Antigua, Guatemala",
+      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala",
+      "fr-FR": "Santa Catalina Arch, Antigua, Guatemala",
       "it-IT": "",
-      "es-ES": "Día Internacional de la Luna",
-      "pt-BR": "",
-      "ja-JP": "今日は国際月の日",
       "zh-CN": "",
-      "en-IN": "International Moon Day"
+      "en-IN": "Santa Catalina Arch, Antigua, Guatemala"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Mondes&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+de+la+Lune&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+della+Luna&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+la+Luna&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Lua&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e6%9c%88%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260719_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%9c%88%e7%90%83%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Arche+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
+      "it-IT": "https://www.bing.com/search?q=L%27Arco+di+Santa+Catalina+Guatemala&form=hpcapt",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e6%8b%b1%e9%97%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.Artemis_EN-GB4404068677",
-      "de-DE": "/th?id=OHR.Artemis_DE-DE7510070152",
-      "fr-FR": "/th?id=OHR.Artemis_FR-FR5561744161",
-      "it-IT": "/th?id=OHR.Artemis_IT-IT9087187961",
-      "es-ES": "/th?id=OHR.Artemis_ES-ES9353344735",
-      "pt-BR": "/th?id=OHR.Artemis_PT-BR6100754238",
-      "ja-JP": "/th?id=OHR.Artemis_JA-JP1736021856",
-      "zh-CN": "/th?id=OHR.Artemis_ZH-CN3540365575",
-      "en-IN": "/th?id=OHR.Artemis_EN-IN9018589977"
+      "en-GB": "/th?id=OHR.SantaCatalina_EN-GB4642325508",
+      "de-DE": "/th?id=OHR.SantaCatalina_DE-DE7681660306",
+      "fr-FR": "/th?id=OHR.SantaCatalina_FR-FR5835984495",
+      "it-IT": "/th?id=OHR.SantaCatalina_IT-IT4012109567",
+      "zh-CN": "/th?id=OHR.SantaCatalina_ZH-CN6223370790",
+      "en-IN": "/th?id=OHR.SantaCatalina_EN-IN9392067972"
     }
   },
   "LlanthonyPriory2026": {
@@ -2240,6 +2237,38 @@
       "it-IT": "/th?id=OHR.IsolaBella_IT-IT9517303219"
     }
   },
+  "IslaCristina": {
+    "name": "IslaCristina",
+    "urlbase": "/th?id=OHR.IslaCristina_ES-ES8480409312",
+    "date": "20260720",
+    "dateFormatted": "July 20, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Arena, sol y gambas. Isla Cristina en Huelva, Andalucía, España"
+    },
+    "copyrights": {
+      "es-ES": "Vista aérea de Isla Cristina en Huelva, Andalucía, España (© MEDITERRANEAN/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "En Isla Cristina, en Huelva, España, el Atlántico dibuja una costa luminosa donde marismas, playas y tradición marinera marcan el ritmo de la vida. Desde el aire, sus extensas playas de arena fina y los canales que serpentean entre las salinas recuerdan la estrecha relación entre el paisaje y la pesca, una actividad que define la identidad local."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Isla Cristina en Huelva, Andalucía, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Isla+Cristina+Huelva&form=hpcapt&filters=HpDate%3a%2220260720_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.IslaCristina_ES-ES8480409312"
+    }
+  },
   "PerseidasTenerife": {
     "name": "PerseidasTenerife",
     "urlbase": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261",
@@ -2270,38 +2299,6 @@
     },
     "urlbases": {
       "es-ES": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261"
-    }
-  },
-  "GranCanaria": {
-    "name": "GranCanaria",
-    "urlbase": "/th?id=OHR.GranCanaria_ES-ES7578658409",
-    "date": "20260706",
-    "dateFormatted": "July 06, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "Dos épocas, mismo lugar. Dunas de arena en Maspalomas, Gran Canaria, España"
-    },
-    "copyrights": {
-      "es-ES": "Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)"
-    },
-    "descs": {
-      "es-ES": "Maspalomas, en Gran Canaria, España, sorprende con un paisaje donde la ciudad y el desierto parecen tocarse sin mezclarse. Desde el aire, el trazado ordenado de calles y edificios se detiene de forma abrupta ante un mar de dunas doradas que se extiende junto al Atlántico, creando un contraste único en el archipiélago."
-    },
-    "quickFacts": {},
-    "captions": {
-      "es-ES": "Dunas de arena en Maspalomas, Gran Canaria, España"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Maspalomas&form=hpcapt&filters=HpDate%3a%2220260706_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.GranCanaria_ES-ES7578658409"
     }
   },
   "SoccerDay": {
@@ -2368,6 +2365,38 @@
       "pt-BR": "/th?id=OHR.Tanager_PT-BR3453059902"
     }
   },
+  "Kawagoe2026": {
+    "name": "Kawagoe2026",
+    "urlbase": "/th?id=OHR.Kawagoe2026_JA-JP2060864918",
+    "date": "20260720",
+    "dateFormatted": "July 20, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "「縁結び風鈴」開催中"
+    },
+    "copyrights": {
+      "ja-JP": "川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)"
+    },
+    "descs": {
+      "ja-JP": "「縁結び風鈴」開催中. 川越氷川神社, 埼玉県 川越市. 照りつける夏の日差しの中、埼玉県川越市にある氷川神社では「縁結び風鈴」が開催されています。今年 2026 年は、6 月 26 日から 9 月 6 日までの間、神社の境内には、およそ 2000 個の江戸風鈴が飾られ、涼やかな音色を響かせています。風鈴に願い事を書いた短冊を結びつけることで、縁結びの神様へ風に乗って思いが運ばれていく、とされています。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "「縁結び風鈴」開催中"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e7%b8%81%e7%b5%90%e3%81%b3%e3%81%b5%e9%a2%a8%e9%88%b4&form=hpcapt&filters=HpDate%3a%2220260720_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Kawagoe2026_JA-JP2060864918"
+    }
+  },
   "GionFestival2026": {
     "name": "GionFestival2026",
     "urlbase": "/th?id=OHR.GionFestival2026_JA-JP0488381919",
@@ -2400,38 +2429,6 @@
       "ja-JP": "/th?id=OHR.GionFestival2026_JA-JP0488381919"
     }
   },
-  "Tanabata2026": {
-    "name": "Tanabata2026",
-    "urlbase": "/th?id=OHR.Tanabata2026_JA-JP9678732410",
-    "date": "20260706",
-    "dateFormatted": "July 06, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "七夕の伝統行事"
-    },
-    "copyrights": {
-      "ja-JP": "七夕まつりの吹き流し, 宮城県 仙台市 (© kororokerokero/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "今日 7 月 7 日は七夕。全国各地で七夕飾りの豪華さを競う七夕まつりが行われますが、なかでも有名なのが仙台七夕まつりです。旧暦の七夕行事を受け継いでいるため、現在の暦では毎年8月に開催されています。商店街や街の通りには、色鮮やかな吹き流しや豪華な七夕飾りが並び、夏の風に揺れる幻想的な景色が広がります。願いを書いた短冊や繊細な和紙細工は、日本ならではの伝統文化と職人技が感じられるとして、海外の観光客にも人気です。歴史と美しさに彩られた、仙台の夏を象徴する祭りとして知られています。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "七夕の伝統行事"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e4%bb%99%e5%8f%b0%e3%81%ae%e4%b8%83%e5%a4%95%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220260706_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.Tanabata2026_JA-JP9678732410"
-    }
-  },
   "RathYatra2026": {
     "name": "RathYatra2026",
     "urlbase": "/th?id=OHR.RathYatra2026_EN-IN7824400350",
@@ -2462,6 +2459,139 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.RathYatra2026_EN-IN7824400350"
+    }
+  },
+  "SyracuseItaly": {
+    "name": "SyracuseItaly",
+    "urlbase": "/th?id=OHR.SyracuseItaly_EN-US3071727282",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "A city written in centuries. Syracuse, Sicily, Italy",
+      "en-CA": "A city written in centuries. Syracuse, Sicily, Italy",
+      "en-GB": "A city written in centuries. Syracuse, Sicily, Italy",
+      "de-DE": "Im Licht der Jahrhunderte. Syrakus, Sizilien, Italien",
+      "fr-FR": "Des siècles d’Histoire. Syracuse, Sicile, Italie",
+      "it-IT": "Passato presente",
+      "es-ES": "Una ciudad forjada a lo largo de los siglos. Siracusa, Sicilia, Italia",
+      "ja-JP": "夕焼けに染まる海に突き出た石造要塞",
+      "zh-CN": "百代镌刻之城",
+      "en-IN": "A city written in centuries. Syracuse, Sicily, Italy"
+    },
+    "copyrights": {
+      "en-US": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "en-CA": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "en-GB": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
+      "de-DE": "Syrakus bei Sonnenuntergang, Sizilien, Italien (© Balate Dorin/Getty Images)",
+      "fr-FR": "Syracuse au coucher du soleil, Sicile, Italie (© Balate Dorin/Getty Images)",
+      "it-IT": "Tramonto a Siracusa, Sicilia (© Balate Dorin/Getty Images)",
+      "es-ES": "Siracusa al atardecer, Sicilia, Italia (© Balate Dorin/Getty Images)",
+      "ja-JP": "シラクサ, イタリア (© Balate Dorin/Getty Images)",
+      "zh-CN": "锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)",
+      "en-IN": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "en-CA": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "en-GB": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "de-DE": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
+      "fr-FR": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
+      "es-ES": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
+      "ja-JP": "ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
+      "en-IN": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+      "it-IT": "Siracusa, in Italia, vi accoglie con la forza di una storia che affonda le radici nel 734 a.C., quando i coloni greci la trasformarono in una delle capitali del Mediterraneo antico. Passeggiando tra i suoi resti archeologici, oggi patrimonio UNESCO insieme alle Necropoli di Pantalica, si percepisce ancora l’eco di Archimede e il passaggio di Platone, che qui cercò di dare forma concreta alle sue idee politiche.",
+      "zh-CN": "意大利锡拉库萨（Syracuse）位于西西里岛，由来自科林斯的希腊移民于公元前 734 年左右建立。它曾发展成为古地中海最伟大的强权之一，现已被列入联合国教科文组织世界遗产名录——“锡拉库萨和潘塔立克石墓群”。这座城市永远与阿基米德（Archimedes）联系在一起，他的天才至今仍在塑造着城市的身份；同时也与柏拉图（Plato）紧密相连，他曾满怀着哲学可能重塑政治生活的希望来到此处。这种层叠的历史在马尼亚切城堡（Castello Maniace）中依然清晰可感，这座 13 世纪为神圣罗马帝国皇帝腓特烈二世建造的海滨要塞，至今仍令世人赞叹。"
+    },
+    "quickFacts": {
+      "zh-CN": "原生纸莎草的生态孤岛在锡拉库萨，西西里岛，意大利表现出极高的植物学价值，林特奥斯河（Arethusa Spring）不仅是当地重要的淡水水源，更是全欧洲唯一一处野生纸莎草自然生长的原生生境。"
+    },
+    "captions": {
+      "en-US": "Syracuse, Sicily, Italy",
+      "en-CA": "Syracuse, Sicily, Italy"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SyracuseItaly_EN-US3071727282",
+      "en-CA": "/th?id=OHR.SyracuseItaly_EN-CA4724586582"
+    }
+  },
+  "GranCanaria": {
+    "name": "GranCanaria",
+    "urlbase": "/th?id=OHR.GranCanaria_ES-ES7578658409",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Dos épocas, mismo lugar. Dunas de arena en Maspalomas, Gran Canaria, España"
+    },
+    "copyrights": {
+      "es-ES": "Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Maspalomas, en Gran Canaria, España, sorprende con un paisaje donde la ciudad y el desierto parecen tocarse sin mezclarse. Desde el aire, el trazado ordenado de calles y edificios se detiene de forma abrupta ante un mar de dunas doradas que se extiende junto al Atlántico, creando un contraste único en el archipiélago."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Dunas de arena en Maspalomas, Gran Canaria, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Maspalomas&form=hpcapt&filters=HpDate%3a%2220260706_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.GranCanaria_ES-ES7578658409"
+    }
+  },
+  "Tanabata2026": {
+    "name": "Tanabata2026",
+    "urlbase": "/th?id=OHR.Tanabata2026_JA-JP9678732410",
+    "date": "20260706",
+    "dateFormatted": "July 06, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "七夕の伝統行事"
+    },
+    "copyrights": {
+      "ja-JP": "七夕まつりの吹き流し, 宮城県 仙台市 (© kororokerokero/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日 7 月 7 日は七夕。全国各地で七夕飾りの豪華さを競う七夕まつりが行われますが、なかでも有名なのが仙台七夕まつりです。旧暦の七夕行事を受け継いでいるため、現在の暦では毎年8月に開催されています。商店街や街の通りには、色鮮やかな吹き流しや豪華な七夕飾りが並び、夏の風に揺れる幻想的な景色が広がります。願いを書いた短冊や繊細な和紙細工は、日本ならではの伝統文化と職人技が感じられるとして、海外の観光客にも人気です。歴史と美しさに彩られた、仙台の夏を象徴する祭りとして知られています。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "七夕の伝統行事"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e4%bb%99%e5%8f%b0%e3%81%ae%e4%b8%83%e5%a4%95%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220260706_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Tanabata2026_JA-JP9678732410"
     }
   },
   "LavenderRows": {
@@ -2635,7 +2765,8 @@
       "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
       "zh-CN": "此行，不虚绕道",
       "en-IN": "This is your detour. Kaysersberg, Alsace, France",
-      "en-GB": "This is your detour. Kaysersberg, Alsace, France"
+      "en-GB": "This is your detour. Kaysersberg, Alsace, France",
+      "ja-JP": "渓谷に息づく美しい村. ケゼルスベール, フランス"
     },
     "copyrights": {
       "en-CA": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
@@ -2645,7 +2776,8 @@
       "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
       "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
       "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-      "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
+      "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "ja-JP": "© Federica Gentile/Getty Images"
     },
     "descs": {
       "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
@@ -2655,7 +2787,8 @@
       "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
       "en-GB": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
       "pt-BR": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
-      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。"
+      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。",
+      "ja-JP": "ここはフランス・アルザス地方に位置するケゼルスベール（カイゼルスベルグ）。ワイス川沿い、ヴォージュ山脈東斜面に広がる歴史ある町です。町の名前は「皇帝の山」を意味し、1227 年、神聖ローマ皇帝フリードリヒ 2 世が谷を見張るため城を築いたことに由来します。町のあらゆる所に歴史の面影があり、石畳の通りや木組みの家並み、石造の橋、サンクロワ教会のステンドグラスなど、時代を感じる景色を楽しむことができます。"
     },
     "quickFacts": {
       "zh-CN": "白鹳（Ciconia ciconia）的复育生境在凯泽斯堡，阿尔萨斯，法国具有典型的生态指标意义，自1970年代险些灭绝后的保护行动，使这种标志性鸟类重新在村落的烟囱顶端筑巢，成为衡量当地跨区域生态系统健康的重要标志。"
