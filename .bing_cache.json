@@ -1,4 +1,126 @@
 {
+  "SantaCatalina": {
+    "name": "SantaCatalina",
+    "urlbase": "/th?id=OHR.SantaCatalina_EN-US1116829215",
+    "date": "20260721",
+    "dateFormatted": "July 21, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "en-GB": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "en-CA": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "de-DE": "Offenbar gut verborgen. Arco de Santa Catalina in Antigua, Guatemala",
+      "fr-FR": "L’arche qui cache. Santa Catalina Arch, Antigua, Guatemala",
+      "it-IT": "Senza entrare in strada",
+      "pt-BR": "Um portal para outra época",
+      "zh-CN": "拱影寻踪",
+      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala"
+    },
+    "copyrights": {
+      "en-US": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "en-GB": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "en-CA": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "fr-FR": "Arche de Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "it-IT": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "pt-BR": "Arco de Santa Catalina, Antígua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "zh-CN": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
+      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "en-GB": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "en-CA": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow façade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "de-DE": "Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.",
+      "fr-FR": "À Antigua, au Guatemala, l’arche de Santa Catalina se dresse au cœur des rues pavées, avec le volcan Agua en arrière‑plan. Au lever du soleil, sa façade jaune capte la lumière et contraste avec les pavés sombres qui s’étirent dans la perspective de la ville.",
+      "en-IN": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "it-IT": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
+      "pt-BR": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
+      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。"
+    },
+    "quickFacts": {
+      "zh-CN": "这座标志性的法制时钟于19世纪30年代被增设，至今仍需每三天人工手动上弦一次，在圣卡塔琳娜拱门，安提瓜，危地马拉。"
+    },
+    "captions": {
+      "en-US": "Santa Catalina Arch, Antigua, Guatemala",
+      "en-GB": "Santa Catalina Arch, Antigua, Guatemala",
+      "en-CA": "Santa Catalina Arch, Antigua, Guatemala",
+      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala",
+      "fr-FR": "Santa Catalina Arch, Antigua, Guatemala",
+      "it-IT": "",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Santa Catalina Arch, Antigua, Guatemala"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260721_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260721_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Arche+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
+      "it-IT": "https://www.bing.com/search?q=L%27Arco+di+Santa+Catalina+Guatemala&form=hpcapt",
+      "pt-BR": "https://www.bing.com/search?q=Arco+de+Santa+Catalina&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e6%8b%b1%e9%97%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SantaCatalina_EN-US1116829215",
+      "en-GB": "/th?id=OHR.SantaCatalina_EN-GB4642325508",
+      "en-CA": "/th?id=OHR.SantaCatalina_EN-CA0068780262",
+      "de-DE": "/th?id=OHR.SantaCatalina_DE-DE7681660306",
+      "fr-FR": "/th?id=OHR.SantaCatalina_FR-FR5835984495",
+      "it-IT": "/th?id=OHR.SantaCatalina_IT-IT4012109567",
+      "pt-BR": "/th?id=OHR.SantaCatalina_PT-BR6725083050",
+      "zh-CN": "/th?id=OHR.SantaCatalina_ZH-CN6223370790",
+      "en-IN": "/th?id=OHR.SantaCatalina_EN-IN9392067972"
+    }
+  },
   "Artemis": {
     "name": "Artemis",
     "urlbase": "/th?id=OHR.Artemis_EN-US0683925849",
@@ -1605,19 +1727,84 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
+      "en-CA": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
+      "pt-BR": "Um vulcão transformado em horizonte",
+      "en-GB": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
+      "de-DE": "Echos einer vulkanischen Vergangenheit. Sonnenaufgang am Atitlán-See, Guatemala",
+      "fr-FR": "Échos d'un passé volcanique. Lever du soleil sur le lac Atitlán, Guatemala",
+      "it-IT": "Echi vulcanici",
+      "es-ES": "Ecos de un pasado volcánico. Amanecer en el Lago de Atitlán, Guatemala",
+      "ja-JP": "静けさにしずむ湖",
+      "zh-CN": "远古火山的回响",
+      "en-IN": "Echoes of a volcanic past. Lake Atitlán, Guatemala"
+    },
+    "copyrights": {
+      "en-US": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "en-CA": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "pt-BR": "Nascer do sol no Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
+      "en-GB": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
+      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
+      "it-IT": "Lago Atitlán, Guatemala (© shayes17/Getty Images)",
+      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
+      "ja-JP": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
+      "zh-CN": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
+      "en-IN": "Lake Atitlán, Guatemala (© shayes17/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán, and San Pedro. Wooden piers stretch into the still lake, emphasizing the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "en-CA": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "en-GB": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "de-DE": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
+      "fr-FR": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
+      "es-ES": "El Lago de Atitlán, en las tierras altas de Guatemala, cautiva con un paisaje de aguas profundas rodeadas por antiguos volcanes que dibujan un horizonte imponente. Encajado en una caldera formada tras una gran erupción, este lago combina calma y fuerza geológica en una escena que parece suspendida en el tiempo.",
+      "ja-JP": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
+      "en-IN": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "it-IT": "Il lago di Atitlán riempie una spettacolare caldera vulcanica negli altopiani occidentali del Guatemala. Le sue acque blu intenso sono circondate da ripide pareti crateriche e dai vulcani Atitlán, Tolimán e San Pedro, in un paesaggio che alterna quiete assoluta e origine esplosiva. Formatosi circa 84.000 anni fa dopo una violenta eruzione, è considerato il lago più profondo dell’America Centrale, con profondità che raggiungono circa 335 metri. Le pareti della caldera lo racchiudono come un anfiteatro naturale scolpito dal fuoco.",
+      "pt-BR": "Na imagem, o Lago de Atitlán, na Guatemala, é um daqueles lugares que parecem tranquilos demais para a história intensa que carregam. A superfície azul parece imóvel, mas o relevo ao redor — crateras, encostas íngremes e os vulcões Atitlán, Tolimán e San Pedro — entrega que essa beleza nasceu do caos geológico.",
+      "zh-CN": "远古火山的回响. 阿蒂特兰湖的日出，危地马拉. 阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。"
+    },
+    "quickFacts": {
+      "zh-CN": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。"
+    },
+    "captions": {
+      "en-US": "Sunrise at Lake Atitlán, Guatemala",
+      "en-CA": "Sunrise at Lake Atitlán, Guatemala",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Lago+de+Atitlan&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
+      "en-CA": "/th?id=OHR.LakeAtitlan_EN-CA2759659537",
+      "pt-BR": "/th?id=OHR.LakeAtitlan_PT-BR6236816511"
+    }
+  },
+  "CoralAwareness": {
+    "name": "CoralAwareness",
+    "urlbase": "/th?id=OHR.CoralAwareness_EN-GB4982611770",
+    "date": "20260721",
+    "dateFormatted": "July 21, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "fr-FR",
@@ -1633,11 +1820,6 @@
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
       },
       {
         "code": "ja-JP",
@@ -1656,266 +1838,70 @@
       }
     ],
     "titles": {
-      "en-US": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
-      "en-GB": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
-      "en-CA": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
-      "de-DE": "Echos einer vulkanischen Vergangenheit. Sonnenaufgang am Atitlán-See, Guatemala",
-      "fr-FR": "Échos d'un passé volcanique. Lever du soleil sur le lac Atitlán, Guatemala",
-      "it-IT": "Echi vulcanici",
-      "es-ES": "Ecos de un pasado volcánico. Amanecer en el Lago de Atitlán, Guatemala",
-      "pt-BR": "Um vulcão transformado em horizonte",
-      "ja-JP": "静けさにしずむ湖",
-      "zh-CN": "远古火山的回响",
-      "en-IN": "Echoes of a volcanic past. Lake Atitlán, Guatemala"
+      "en-GB": "Small footprint, big impact. Coral Reef Awareness Week",
+      "fr-FR": "Petite empreinte, récif vivant. Importance des récifs coralliens",
+      "it-IT": "Piccola impronta, grande impatto",
+      "es-ES": "Pequeña huella, gran impacto. Arrecife de coral y playa en Raja Ampat, Indonesia",
+      "ja-JP": "今週は米国のサンゴ礁啓発週間",
+      "zh-CN": "细微之举，影响深远",
+      "en-IN": "Small footprint, big impact. Coral Reef Awareness Week",
+      "en-US": "Small footprint, big impact. Coral reef and beach in Raja Ampat, Indonesia",
+      "en-CA": "Small footprint, big impact. Coral reef and beach in Raja Ampat, Indonesia",
+      "pt-BR": "Cidades que respiram sob as ondas. Recife de coral e praia em Raja Ampat, Indonésia"
     },
     "copyrights": {
-      "en-US": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-      "en-GB": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-      "en-CA": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
-      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
-      "it-IT": "Lago Atitlán, Guatemala (© shayes17/Getty Images)",
-      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
-      "pt-BR": "Nascer do sol no Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
-      "ja-JP": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
-      "zh-CN": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
-      "en-IN": "Lake Atitlán, Guatemala (© shayes17/Getty Images)"
+      "en-GB": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "fr-FR": "Récif corallien et plage de Raja Ampat, Indonésie (© SergeUWPhoto/Shutterstock)",
+      "it-IT": "Barriera corallina e spiaggia a Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "es-ES": "Arrecife de coral y playa en Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "ja-JP": "サンゴ礁, インドネシア (© SergeUWPhoto/Shutterstock)",
+      "zh-CN": "珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)",
+      "en-IN": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "en-US": "© SergeUWPhoto/Shutterstock",
+      "en-CA": "© SergeUWPhoto/Shutterstock",
+      "pt-BR": "© SergeUWPhoto/Shutterstock"
     },
     "descs": {
-      "en-US": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán, and San Pedro. Wooden piers stretch into the still lake, emphasizing the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "en-GB": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "en-CA": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "de-DE": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
-      "fr-FR": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
-      "es-ES": "El Lago de Atitlán, en las tierras altas de Guatemala, cautiva con un paisaje de aguas profundas rodeadas por antiguos volcanes que dibujan un horizonte imponente. Encajado en una caldera formada tras una gran erupción, este lago combina calma y fuerza geológica en una escena que parece suspendida en el tiempo.",
-      "ja-JP": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
-      "en-IN": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "it-IT": "Il lago di Atitlán riempie una spettacolare caldera vulcanica negli altopiani occidentali del Guatemala. Le sue acque blu intenso sono circondate da ripide pareti crateriche e dai vulcani Atitlán, Tolimán e San Pedro, in un paesaggio che alterna quiete assoluta e origine esplosiva. Formatosi circa 84.000 anni fa dopo una violenta eruzione, è considerato il lago più profondo dell’America Centrale, con profondità che raggiungono circa 335 metri. Le pareti della caldera lo racchiudono come un anfiteatro naturale scolpito dal fuoco.",
-      "pt-BR": "Na imagem, o Lago de Atitlán, na Guatemala, é um daqueles lugares que parecem tranquilos demais para a história intensa que carregam. A superfície azul parece imóvel, mas o relevo ao redor — crateras, encostas íngremes e os vulcões Atitlán, Tolimán e San Pedro — entrega que essa beleza nasceu do caos geológico.",
-      "zh-CN": "远古火山的回响. 阿蒂特兰湖的日出，危地马拉. 阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。"
+      "en-GB": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+      "fr-FR": "Imaginez une ville construite par des animaux, brillante sous le soleil et grouillante de vie sous les vagues. C’est un récif corallien. Pendant la Semaine de sensibilisation aux récifs coralliens, nous célébrons ces écosystèmes extraordinaires et les innombrables espèces qui en dépendent.",
+      "es-ES": "En los arrecifes de Raja Ampat, en Indonesia, el océano se transforma en una vibrante ciudad submarina donde miles de especies conviven en equilibrio. Estos ecosistemas, que cubren menos del uno por ciento del fondo marino, albergan aproximadamente el veinticinco por ciento de la vida oceánica, convirtiéndose en uno de los entornos más diversos del planeta.",
+      "ja-JP": "今週は米国のサンゴ礁啓発週間。サンゴ礁は、太陽の光に輝き、多くの生き物でにぎわう海の中の街のような存在です。地球の海洋面積に対してサンゴ礁が占めている割合は約 1% 未満ですが、海洋生物全体の約 25% を支えています。一見すると岩のようですが、実はサンゴポリプと呼ばれる小さな動物が集まって形作られています。そして、今日の画像は、インドネシアのラジャ・アンパット諸島で撮影されたサンゴ礁。この地域には既知のサンゴ種の 75％ 以上が生息し、多種多様な海洋生物が暮らす豊かな生態系が広がっています。",
+      "en-IN": "Imagine a city built by animals, glowing in the sunlight, and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+      "en-US": "Imagine a city built by animals, glowing in the sunlight, and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+      "en-CA": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+      "it-IT": "A Raja Ampat, in Indonesia, la barriera corallina si presenta come una città sommersa, vibrante di colori e forme, dove ogni spazio è occupato da forme di vita in movimento. Quello che sembra roccia è in realtà una colonia di minuscoli animali, i polipi, capaci di costruire nel tempo strutture complesse che ospitano una straordinaria biodiversità: qui vive oltre il 75% delle specie di coralli conosciute.",
+      "pt-BR": "Imagine uma metrópole erguida por milhões de animais do tamanho de uma borracha de lápis, trabalhando sem descanso no coração do oceano. Bem-vindo ao recife: não rocha, mas arquitetura viva. Cada estrutura nasce de colônias de corais que secretam carbonato de cálcio e, camada sobre camada, constroem cidades submersas capazes de atravessar milênios.",
+      "zh-CN": "细微之举，影响深远. 珊瑚礁与海滩在拉贾安帕特，印度尼西亚. 想象一座由动物建造的城市，在阳光下熠熠生辉，并在海浪之下涌动着生命。这就是珊瑚礁。在珊瑚礁意识周（Coral Reef Awareness Week）期间，我们赞美这些非凡的生态系统，以及依赖其生存的无数物种"
     },
     "quickFacts": {
-      "zh-CN": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。"
+      "zh-CN": "珊瑚礁作为“21世纪的药库”在拉贾安帕特，印度尼西亚及全球海洋中展现出巨大的生物医学价值，其产生的独特化合物正被用于开发治疗癌症及心脏病的新型药物。"
     },
     "captions": {
-      "en-US": "Sunrise at Lake Atitlán, Guatemala",
-      "en-GB": "Lake Atitlán, Guatemala",
-      "en-CA": "Sunrise at Lake Atitlán, Guatemala",
-      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala",
-      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala",
+      "en-GB": "Coral Reef Awareness Week",
+      "fr-FR": "Importance des récifs coralliens",
       "it-IT": "",
-      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala",
-      "pt-BR": "",
-      "ja-JP": "静けさにしずむ湖",
+      "es-ES": "Arrecife de coral y playa en Raja Ampat, Indonesia",
+      "ja-JP": "今週は米国のサンゴ礁啓発週間",
       "zh-CN": "",
-      "en-IN": "Lake Atitlán, Guatemala"
+      "en-IN": "Coral Reef Awareness Week"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=lac+atitlan+guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lago+Atitl%c3%a1n&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Lago+de+Atitlan&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%86%e3%82%a3%e3%83%88%e3%83%a9%e3%83%b3%e6%b9%96&form=hpcapt&filters=HpDate%3a%2220260707_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89+%e9%98%bf%e8%92%82%e7%89%b9%e5%85%b0%e6%b9%96&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260721_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=sensibilisation+r%c3%a9cifs+coralliens&form=hpcapt&filters=HpDate%3a%2220260721_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Raja+Ampat+Indonesia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Raja+Ampat+Archipi%c3%a9lago+de+Indonesia&form=hpcapt&filters=HpDate%3a%2220260721_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%82%b5%e3%83%b3%e3%82%b4%e7%a4%81%e5%95%93%e7%99%ba%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220260721_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%8f%8a%e7%91%9a%e7%a4%81%e6%84%8f%e8%af%86%e5%91%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260721_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
-      "en-GB": "/th?id=OHR.LakeAtitlan_EN-GB6255247922",
-      "en-CA": "/th?id=OHR.LakeAtitlan_EN-CA2759659537",
-      "de-DE": "/th?id=OHR.LakeAtitlan_DE-DE9365650175",
-      "fr-FR": "/th?id=OHR.LakeAtitlan_FR-FR9789294273",
-      "it-IT": "/th?id=OHR.LakeAtitlan_IT-IT2695003451",
-      "es-ES": "/th?id=OHR.LakeAtitlan_ES-ES9285347150",
-      "pt-BR": "/th?id=OHR.LakeAtitlan_PT-BR6236816511",
-      "ja-JP": "/th?id=OHR.LakeAtitlan_JA-JP9857275970",
-      "zh-CN": "/th?id=OHR.LakeAtitlan_ZH-CN1920221893",
-      "en-IN": "/th?id=OHR.LakeAtitlan_EN-IN1783282765"
-    }
-  },
-  "MountainToucanOrchids": {
-    "name": "MountainToucanOrchids",
-    "urlbase": "/th?id=OHR.MountainToucanOrchids_EN-US3433249651",
-    "date": "20260707",
-    "dateFormatted": "July 07, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Color, craft, and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "en-CA": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "pt-BR": "Voos que espalham futuro",
-      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "de-DE": "Farbenpracht im Blätterdach. Leistenschnabeltukan mit Orchideen, Ecuador",
-      "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat, Équateur",
-      "it-IT": "Colori e fauna selvatica",
-      "zh-CN": "林冠华彩",
-      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
-      "ja-JP": "枝に止まるユニークなオオハシ"
-    },
-    "copyrights": {
-      "en-US": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
-      "en-CA": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
-      "pt-BR": "Tucano “Andigena laminirostris” com orquídeas, Equador (© Murray Cooper/Minden Pictures)",
-      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
-      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)",
-      "fr-FR": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
-      "it-IT": "Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)",
-      "zh-CN": "板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
-      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
-      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)"
-    },
-    "descs": {
-      "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
-      "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
-      "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
-      "ja-JP": "イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
-      "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
-      "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
-      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔. 拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。"
-    },
-    "quickFacts": {
-      "en-US": "The plate-billed mountain toucan's colorful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "en-GB": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "en-CA": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
-      "de-DE": "Leistenschnabeltukane gehören zur Gattung der Bergtukane, die vor allem in den Anden leben.",
-      "fr-FR": "Le toucan montagnard à bec plat possède un bec coloré orné d'une « plaque » jaune pâle, une caractéristique rare qui donne son nom à cette espèce.",
-      "zh-CN": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。",
-      "en-IN": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name."
-    },
-    "captions": {
-      "en-US": "Plate-billed mountain toucan with orchids, Ecuador",
-      "en-CA": "Plate-billed mountain toucan with orchids, Ecuador",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=o+tucano&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.MountainToucanOrchids_EN-US3433249651",
-      "en-CA": "/th?id=OHR.MountainToucanOrchids_EN-CA5781848121",
-      "pt-BR": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838"
-    }
-  },
-  "SantaCatalina": {
-    "name": "SantaCatalina",
-    "urlbase": "/th?id=OHR.SantaCatalina_EN-GB4642325508",
-    "date": "20260720",
-    "dateFormatted": "July 20, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "de-DE": "Offenbar gut verborgen. Arco de Santa Catalina in Antigua, Guatemala",
-      "fr-FR": "L’arche qui cache. Santa Catalina Arch, Antigua, Guatemala",
-      "it-IT": "Senza entrare in strada",
-      "zh-CN": "拱影寻踪",
-      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "en-US": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "en-CA": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "pt-BR": "Um portal para outra época. Arco de Santa Catalina, Antígua, Guatemala"
-    },
-    "copyrights": {
-      "en-GB": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "fr-FR": "Arche de Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "it-IT": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "zh-CN": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
-      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "en-US": "© Filippo Maria Bianchi/Getty Images",
-      "en-CA": "© Filippo Maria Bianchi/Getty Images",
-      "pt-BR": "© Filippo Maria Bianchi/Getty Images"
-    },
-    "descs": {
-      "en-GB": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "de-DE": "Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.",
-      "fr-FR": "À Antigua, au Guatemala, l’arche de Santa Catalina se dresse au cœur des rues pavées, avec le volcan Agua en arrière‑plan. Au lever du soleil, sa façade jaune capte la lumière et contraste avec les pavés sombres qui s’étirent dans la perspective de la ville.",
-      "en-IN": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "en-US": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "en-CA": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow façade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "it-IT": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
-      "pt-BR": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
-      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。"
-    },
-    "quickFacts": {
-      "zh-CN": "这座标志性的法制时钟于19世纪30年代被增设，至今仍需每三天人工手动上弦一次，在圣卡塔琳娜拱门，安提瓜，危地马拉。"
-    },
-    "captions": {
-      "en-GB": "Santa Catalina Arch, Antigua, Guatemala",
-      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala",
-      "fr-FR": "Santa Catalina Arch, Antigua, Guatemala",
-      "it-IT": "",
-      "zh-CN": "",
-      "en-IN": "Santa Catalina Arch, Antigua, Guatemala"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Arche+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
-      "it-IT": "https://www.bing.com/search?q=L%27Arco+di+Santa+Catalina+Guatemala&form=hpcapt",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e6%8b%b1%e9%97%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.SantaCatalina_EN-GB4642325508",
-      "de-DE": "/th?id=OHR.SantaCatalina_DE-DE7681660306",
-      "fr-FR": "/th?id=OHR.SantaCatalina_FR-FR5835984495",
-      "it-IT": "/th?id=OHR.SantaCatalina_IT-IT4012109567",
-      "zh-CN": "/th?id=OHR.SantaCatalina_ZH-CN6223370790",
-      "en-IN": "/th?id=OHR.SantaCatalina_EN-IN9392067972"
+      "en-GB": "/th?id=OHR.CoralAwareness_EN-GB4982611770",
+      "fr-FR": "/th?id=OHR.CoralAwareness_FR-FR4288203085",
+      "it-IT": "/th?id=OHR.CoralAwareness_IT-IT9276048724",
+      "es-ES": "/th?id=OHR.CoralAwareness_ES-ES8867891901",
+      "ja-JP": "/th?id=OHR.CoralAwareness_JA-JP2408708579",
+      "zh-CN": "/th?id=OHR.CoralAwareness_ZH-CN1621627126",
+      "en-IN": "/th?id=OHR.CoralAwareness_EN-IN9714852805"
     }
   },
   "LlanthonyPriory2026": {
@@ -2075,6 +2061,38 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.SummerBC_EN-CA3026184215"
+    }
+  },
+  "EibseeSummer": {
+    "name": "EibseeSummer",
+    "urlbase": "/th?id=OHR.EibseeSummer_DE-DE7644945564",
+    "date": "20260721",
+    "dateFormatted": "July 21, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Wo Berg und See verschmelzen. Eibsee und Zugspitze bei Garmisch-Partenkirchen, Bayern"
+    },
+    "copyrights": {
+      "de-DE": "Sommer am Eibsee bei Garmisch-Partenkirchen mit Blick auf die Zugspitze, Bayern (© DieterMeyrl/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Kristallklares Wasser, bewaldete Ufer und das beeindruckende Panorama der Zugspitze verleihen dem Eibsee eine beinahe märchenhafte Atmosphäre. Der See liegt südwestlich von Garmisch-Partenkirchen am Fuß von Deutschlands höchstem Berg und zählt zu den beliebtesten Naturzielen Bayerns. Seine intensive türkisgrüne Farbe verdankt er feinen Mineralien im Wasser, die besonders an ruhigen Tagen für eindrucksvolle Spiegelungen sorgen. Von den Uferwegen aus eröffnen sich immer wieder neue Ausblicke auf die umliegenden Gipfel, Inseln und Wälder."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Eibsee und Zugspitze bei Garmisch-Partenkirchen, Bayern"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Eibsee&form=hpcapt&filters=HpDate%3a%2220260721_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.EibseeSummer_DE-DE7644945564"
     }
   },
   "MunichTwilight": {
@@ -2459,6 +2477,89 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.RathYatra2026_EN-IN7824400350"
+    }
+  },
+  "MountainToucanOrchids": {
+    "name": "MountainToucanOrchids",
+    "urlbase": "/th?id=OHR.MountainToucanOrchids_EN-US3433249651",
+    "date": "20260707",
+    "dateFormatted": "July 07, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Color, craft, and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "en-CA": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "pt-BR": "Voos que espalham futuro",
+      "en-GB": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "de-DE": "Farbenpracht im Blätterdach. Leistenschnabeltukan mit Orchideen, Ecuador",
+      "fr-FR": "Un bec pas si plat. Toucan montagnard à bec plat, Équateur",
+      "it-IT": "Colori e fauna selvatica",
+      "zh-CN": "林冠华彩",
+      "en-IN": "Colour, craft and canopy life. Plate-billed mountain toucan with orchids, Ecuador",
+      "ja-JP": "枝に止まるユニークなオオハシ"
+    },
+    "copyrights": {
+      "en-US": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "en-CA": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "pt-BR": "Tucano “Andigena laminirostris” com orquídeas, Equador (© Murray Cooper/Minden Pictures)",
+      "en-GB": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "de-DE": "Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)",
+      "fr-FR": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
+      "it-IT": "Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)",
+      "zh-CN": "板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
+      "en-IN": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+      "ja-JP": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "A bill like a multitool and plumage full of color—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-CA": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "en-GB": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "de-DE": "Ein farbenprächtiger Leistenschnabeltukan ruht zwischen zarten Orchideenblüten im feuchten Bergwald Ecuadors. Sein großer Schnabel zeigt leuchtende Töne, die im sanften Licht des Blätterdachs schimmern. Um ihn herum entfalten die Orchideen ihre filigranen Formen und intensiven Farben, die mit dem Gefieder des Vogels harmonieren. Die Szene wirkt still und gleichzeitig lebendig, als ob jeder Farbton Teil eines fein abgestimmten Gleichgewichts wäre.",
+      "fr-FR": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
+      "en-IN": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+      "ja-JP": "イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
+      "it-IT": "Il tucano montano pettogrigio, tra le foreste nebulose dell’Ecuador e del sud-ovest della Colombia, sorprende con un profilo che sembra progettato per mille usi. Il suo grande becco, robusto e preciso, gli permette di afferrare frutti, bacche e fichi tra i rami più alti, mentre si muove con calma tra il fogliame fitto, spesso in coppia o in piccoli gruppi. Tra orchidee e umidità costante, il suo volo breve e il suo passo misurato raccontano un equilibrio raffinato con l’ambiente.",
+      "pt-BR": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
+      "zh-CN": "林冠华彩. 板嘴山巨嘴鸟与兰花，厄瓜多尔. 拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。"
+    },
+    "quickFacts": {
+      "en-US": "The plate-billed mountain toucan's colorful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "en-GB": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "en-CA": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+      "de-DE": "Leistenschnabeltukane gehören zur Gattung der Bergtukane, die vor allem in den Anden leben.",
+      "fr-FR": "Le toucan montagnard à bec plat possède un bec coloré orné d'une « plaque » jaune pâle, une caractéristique rare qui donne son nom à cette espèce.",
+      "zh-CN": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。",
+      "en-IN": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name."
+    },
+    "captions": {
+      "en-US": "Plate-billed mountain toucan with orchids, Ecuador",
+      "en-CA": "Plate-billed mountain toucan with orchids, Ecuador",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=o+tucano&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MountainToucanOrchids_EN-US3433249651",
+      "en-CA": "/th?id=OHR.MountainToucanOrchids_EN-CA5781848121",
+      "pt-BR": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838"
     }
   },
   "SyracuseItaly": {
