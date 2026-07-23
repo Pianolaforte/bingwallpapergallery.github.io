@@ -1,4 +1,137 @@
 {
+  "CoralAwareness": {
+    "name": "CoralAwareness",
+    "urlbase": "/th?id=OHR.CoralAwareness_EN-US1824657819",
+    "date": "20260722",
+    "dateFormatted": "July 22, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Small footprint, big impact. Coral Reef Awareness Week",
+      "en-GB": "Small footprint, big impact. Coral Reef Awareness Week",
+      "en-CA": "Small footprint, big impact. Coral Reef Awareness Week",
+      "fr-FR": "Petite empreinte, récif vivant. Importance des récifs coralliens",
+      "it-IT": "Piccola impronta, grande impatto",
+      "es-ES": "Pequeña huella, gran impacto. Arrecife de coral y playa en Raja Ampat, Indonesia",
+      "pt-BR": "Cidades que respiram sob as ondas",
+      "ja-JP": "今週は米国のサンゴ礁啓発週間",
+      "zh-CN": "细微之举，影响深远",
+      "en-IN": "Small footprint, big impact. Coral Reef Awareness Week"
+    },
+    "copyrights": {
+      "en-US": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "en-GB": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "en-CA": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "fr-FR": "Récif corallien et plage de Raja Ampat, Indonésie (© SergeUWPhoto/Shutterstock)",
+      "it-IT": "Barriera corallina e spiaggia a Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "es-ES": "Arrecife de coral y playa en Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+      "pt-BR": "Recife de coral e praia em Raja Ampat, Indonésia (© SergeUWPhoto/Shutterstock)",
+      "ja-JP": "サンゴ礁, インドネシア (© SergeUWPhoto/Shutterstock)",
+      "zh-CN": "珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)",
+      "en-IN": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Imagine a city built by animals, glowing in the sunlight, and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+      "en-GB": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+      "en-CA": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+      "fr-FR": "Imaginez une ville construite par des animaux, brillante sous le soleil et grouillante de vie sous les vagues. C’est un récif corallien. Pendant la Semaine de sensibilisation aux récifs coralliens, nous célébrons ces écosystèmes extraordinaires et les innombrables espèces qui en dépendent.",
+      "es-ES": "En los arrecifes de Raja Ampat, en Indonesia, el océano se transforma en una vibrante ciudad submarina donde miles de especies conviven en equilibrio. Estos ecosistemas, que cubren menos del uno por ciento del fondo marino, albergan aproximadamente el veinticinco por ciento de la vida oceánica, convirtiéndose en uno de los entornos más diversos del planeta.",
+      "ja-JP": "今週は米国のサンゴ礁啓発週間。サンゴ礁は、太陽の光に輝き、多くの生き物でにぎわう海の中の街のような存在です。地球の海洋面積に対してサンゴ礁が占めている割合は約 1% 未満ですが、海洋生物全体の約 25% を支えています。一見すると岩のようですが、実はサンゴポリプと呼ばれる小さな動物が集まって形作られています。そして、今日の画像は、インドネシアのラジャ・アンパット諸島で撮影されたサンゴ礁。この地域には既知のサンゴ種の 75％ 以上が生息し、多種多様な海洋生物が暮らす豊かな生態系が広がっています。",
+      "en-IN": "Imagine a city built by animals, glowing in the sunlight, and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+      "it-IT": "A Raja Ampat, in Indonesia, la barriera corallina si presenta come una città sommersa, vibrante di colori e forme, dove ogni spazio è occupato da forme di vita in movimento. Quello che sembra roccia è in realtà una colonia di minuscoli animali, i polipi, capaci di costruire nel tempo strutture complesse che ospitano una straordinaria biodiversità: qui vive oltre il 75% delle specie di coralli conosciute.",
+      "pt-BR": "Imagine uma metrópole erguida por milhões de animais do tamanho de uma borracha de lápis, trabalhando sem descanso no coração do oceano. Bem-vindo ao recife: não rocha, mas arquitetura viva. Cada estrutura nasce de colônias de corais que secretam carbonato de cálcio e, camada sobre camada, constroem cidades submersas capazes de atravessar milênios.",
+      "zh-CN": "细微之举，影响深远. 珊瑚礁与海滩在拉贾安帕特，印度尼西亚. 想象一座由动物建造的城市，在阳光下熠熠生辉，并在海浪之下涌动着生命。这就是珊瑚礁。在珊瑚礁意识周（Coral Reef Awareness Week）期间，我们赞美这些非凡的生态系统，以及依赖其生存的无数物种"
+    },
+    "quickFacts": {
+      "zh-CN": "珊瑚礁作为“21世纪的药库”在拉贾安帕特，印度尼西亚及全球海洋中展现出巨大的生物医学价值，其产生的独特化合物正被用于开发治疗癌症及心脏病的新型药物。"
+    },
+    "captions": {
+      "en-US": "Coral Reef Awareness Week",
+      "en-GB": "Coral Reef Awareness Week",
+      "en-CA": "Coral Reef Awareness Week",
+      "fr-FR": "Importance des récifs coralliens",
+      "it-IT": "",
+      "es-ES": "Arrecife de coral y playa en Raja Ampat, Indonesia",
+      "pt-BR": "",
+      "ja-JP": "今週は米国のサンゴ礁啓発週間",
+      "zh-CN": "",
+      "en-IN": "Coral Reef Awareness Week"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260722_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260721_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260722_0400%22",
+      "fr-FR": "https://www.bing.com/search?q=sensibilisation+r%c3%a9cifs+coralliens&form=hpcapt&filters=HpDate%3a%2220260721_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Raja+Ampat+Indonesia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Raja+Ampat+Archipi%c3%a9lago+de+Indonesia&form=hpcapt&filters=HpDate%3a%2220260721_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=recife+de+coral&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%82%b5%e3%83%b3%e3%82%b4%e7%a4%81%e5%95%93%e7%99%ba%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220260721_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%8f%8a%e7%91%9a%e7%a4%81%e6%84%8f%e8%af%86%e5%91%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260721_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.CoralAwareness_EN-US1824657819",
+      "en-GB": "/th?id=OHR.CoralAwareness_EN-GB4982611770",
+      "en-CA": "/th?id=OHR.CoralAwareness_EN-CA0311926536",
+      "fr-FR": "/th?id=OHR.CoralAwareness_FR-FR4288203085",
+      "it-IT": "/th?id=OHR.CoralAwareness_IT-IT9276048724",
+      "es-ES": "/th?id=OHR.CoralAwareness_ES-ES8867891901",
+      "pt-BR": "/th?id=OHR.CoralAwareness_PT-BR7463277144",
+      "ja-JP": "/th?id=OHR.CoralAwareness_JA-JP2408708579",
+      "zh-CN": "/th?id=OHR.CoralAwareness_ZH-CN1621627126",
+      "en-IN": "/th?id=OHR.CoralAwareness_EN-IN9714852805"
+    }
+  },
   "SantaCatalina": {
     "name": "SantaCatalina",
     "urlbase": "/th?id=OHR.SantaCatalina_EN-US1116829215",
@@ -728,7 +861,7 @@
       "en-CA": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
       "de-DE": "Der Navy Pier am Ufer des Michigansees in Chicago, USA, gilt als eines der bekanntesten Wahrzeichen der Stadt und steht exemplarisch für ihren Wandel. Seine Planung geht auf das Jahr 1909 zurück, als Daniel Burnham und Edward H. Bennett einen umfassenden Stadtplan entwickelten. Der Pier wurde 1916 eröffnet und diente zunächst als Umschlagplatz für Waren, als Anlegestelle für Passagiere sowie als Erholungsort für die Bevölkerung.",
       "es-ES": "En el Muelle de la Armada, en Chicago, Estados Unidos, una pasarela histórica se adentra más de 900 m en el lago Míchigan y muestra cómo un espacio puede reinventarse sin dejar atrás su pasado. Diseñado dentro del Plan de Chicago de 1909 y abierto en 1916, nació como punto estratégico para transporte, ocio y comercio, además de rendir homenaje a los veteranos navales de la Primera Guerra Mundial.",
-      "ja-JP": "活気あふれる桟橋の夜景. ネイビー・ピア, 米国イリノイ州. ここは、ネイビー・ピア。米国イリノイ州シカゴの、ミシガン湖岸に延びる全長約 1km の桟橋です。1914 年にシカゴ都市計画の一環として建設が始まり、1916 年に一般公開されました。当初は貨物輸送などを担う公共インフラでしたが、第二次世界大戦中には米国海軍の訓練拠点としても利用されていました。現在は、公園やイベントスペース、レストランなどが並ぶ観光名所となり、日々多くの人々が訪れています。",
+      "ja-JP": "ここは、ネイビー・ピア。米国イリノイ州シカゴの、ミシガン湖岸に延びる全長約 1km の桟橋です。1914 年にシカゴ都市計画の一環として建設が始まり、1916 年に一般公開されました。当初は貨物輸送などを担う公共インフラでしたが、第二次世界大戦中には米国海軍の訓練拠点としても利用されていました。現在は、公園やイベントスペース、レストランなどが並ぶ観光名所となり、日々多くの人々が訪れています。",
       "it-IT": "Al Navy Pier di Chicago, un molo lungo più di 900 metri dimostra come un luogo possa cambiare anima senza perdere identità. Nato nel 1916 all'interno del piano urbanistico del 1909, fu progettato per il trasporto di merci, viaggiatori e lo svago sul Lago Michigan, poi dedicato ai veterani della Prima guerra mondiale.",
       "pt-BR": "O Navy Pier, em Chicago, tem um currículo que poucos lugares conseguem igualar. Avançando mais de 1 quilômetro sobre as águas do Lago Michigan, ele foi inaugurado em 1916 como um dos maiores píeres do mundo. Recebia cargas, passageiros e atividades de lazer em uma cidade que crescia diante de um dos Grandes Lagos.",
       "zh-CN": "滨水变色龙. 海军码头，芝加哥，伊利诺伊州，美国. 有些地方的建造目的单一，而有些地方则不断推陈出新。位于伊利诺伊州芝加哥的海军码头就属于后者。这座码头向湖中延伸超过3000英尺，是爱德华·H·贝内特和丹尼尔·伯纳姆于1909年制定的芝加哥规划的一部分。码头于1916年开放，最初是为了服务于密歇根湖上的航运、休闲娱乐和客运而建。为了纪念第一次世界大战的海军老兵，码头被更名为海军码头。"
@@ -1583,14 +1716,84 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
+      "en-CA": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
+      "pt-BR": "Plantando entre nuvens",
+      "en-GB": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
+      "de-DE": "Tradition auf Schritt und Tritt. Reisfelder in Sapa, Lào Cai, Vietnam",
+      "fr-FR": "Une autre montée des marches. Champs de riz à Sapa, Lào Cai, Vietnam",
+      "it-IT": "La tradizione in ogni passo",
+      "es-ES": "La tradición en cada paso. Arrozales en Sapa, Lào Cai, Vietnam",
+      "ja-JP": "光差す山岳地帯の棚田",
+      "zh-CN": "步步传承",
+      "en-IN": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam"
+    },
+    "copyrights": {
+      "en-US": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "en-CA": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "pt-BR": "Campos de arroz em Sapa, província de Lào Cai, Vietnã (© Anujak Jaimook/Getty Images)",
+      "en-GB": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "de-DE": "Reisfelder in Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "fr-FR": "Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "it-IT": "Risaie a Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "es-ES": "Arrozales en Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+      "ja-JP": "サパの棚田, ベトナム (© Anujak Jaimook/Getty Images)",
+      "zh-CN": "在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)",
+      "en-IN": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+      "en-CA": "The morning mist begins to lift as sunlight cuts through, revealing rows of green terraces climbing the mountainsides. Soon, the sound of running water and farm work replaces the silence. This is a familiar scene in Sapa, northern Vietnam, where generations of ethnic communities have shaped steep hills into rice fields that continue to support local families today. Using knowledge refined over centuries, farmers in Lào Cai province built terraces that slow water flowing downhill, helping to protect the soil while creating space to grow rice in challenging terrain.",
+      "en-GB": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+      "de-DE": "Sanftes Licht dringt durch vorbeiziehende Wolken und legt sich über die gestuften Hänge von Sapa in der Provinz Lào Cai in Vietnam. Die Reisfelder ziehen sich wie eine endlose Abfolge von Terrassen die Berghänge hinab und wirken wie ein Geflecht aus Linien. Seit Generationen gestalten hier indigene Gemeinschaften wie die Hmong diese Landschaft, indem sie den steilen Boden formen und das Wasser gezielt über die Felder leiten. So entsteht ein fein abgestimmtes Zusammenspiel zwischen Natur und menschlicher Arbeit.",
+      "fr-FR": "La lumière du soleil perce les nuages et éclaire les rizières en terrasses de Sapa, qui dévalent les montagnes comme un immense escalier vivant. Située dans la province de Lào Cai, au Vietnam, cette région spectaculaire a été façonnée au fil des siècles par les communautés ethniques locales, notamment les Hmong. Génération après génération, elles ont aménagé ces terrasses et mis au point un ingénieux réseau d'irrigation permettant de cultiver le riz sur des pentes escarpées.",
+      "es-ES": "Sapa, en Vietnam, deslumbra con sus arrozales en bancales que descienden por las laderas como una escalera viva bañada por la luz. En esta región montañosa de la provincia de Lào Cai, el paisaje es fruto de siglos de ingenio humano, donde comunidades como los hmong han moldeado la tierra para acompañar el ritmo del agua y del cultivo.",
+      "ja-JP": "今日の画像は、ベトナム北部ラオカイ省に位置する「サパ」です。モン族などの少数民族の人々が何世代にもわたって急な斜面を切り開き、水を巧みに引きながら棚田を築いてきました。標高は 1600m で、夏は雨が多いものの、冬は冷たい霧に包まれ、幻想的な風景が広がります。近年は観光地としても注目され、訪れる人々はその美しさと、今も息づく伝統を実感することができます。",
+      "en-IN": "Sunlight breaks through drifting clouds and settles on the terraced slopes of Sapa, where rice fields spill down the mountainsides in sweeping layers like a living staircase. Nestled in Vietnam's Lào Cai Province, this highland region is shaped as much by human endeavour as by nature. For centuries, farmers from ethnic communities such as the Hmong have carved and maintained these terraces, channelling water across steep hillsides to nourish each growing season.",
+      "it-IT": "A Sapa, nel nord del Vietnam, le risaie terrazzate scendono lungo le montagne come una scalinata vivente, illuminate da una luce che filtra tra le nuvole. Nella provincia di Lào Cai, ogni gradone è il frutto di secoli di lavoro delle comunità locali, come gli Hmong, che hanno modellato i pendii per guidare l’acqua e coltivare il riso, alimento centrale nella vita quotidiana e nella cultura di tutta l’Asia.",
+      "pt-BR": "Sapa, no norte do Vietnã, parece suspensa entre montanha e céu. Na imagem, seus arrozais descem pelas encostas como uma escadaria líquida, cada terraço segurando uma fina lâmina de água que reflete o céu enquanto alimenta as mudas de arroz.",
+      "zh-CN": "步步传承. 在沙巴的水稻田，老街，越南. 阳光穿透流云，洒在沙巴（Sapa）的层层坡地之上，那里的水稻田宛如“活的阶梯”，顺着山脊倾泻而下。这一高地地区位于越南老街省（Lào Cai），其地貌既受大自然的造化，也离不开人类双手的雕琢。数个世纪以来，包括赫蒙族（Hmong）在内的当地少数民族世代在此开垦并维护着这些梯田，他们引导水源流过陡峭的山坡，以维持每个生长季节的灌溉需求。"
+    },
+    "quickFacts": {
+      "zh-CN": "“稻-鱼-鸭”共生系统在沙巴，老街，越南被广泛应用，通过在该生态位引入鱼类与鸭子实现自然肥田并控制病虫害，显著提升了高地农业的可持续性。"
+    },
+    "captions": {
+      "en-US": "Rice fields at Sapa, Lào Cai, Vietnam",
+      "en-CA": "Rice fields at Sapa, Lào Cai, Vietnam",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260709_0700%22",
+      "en-CA": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260709_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=prov%c3%adncia+L%c3%a0o+Cai+Vietn%c3%a3&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SapaVietnam_EN-US4008171614",
+      "en-CA": "/th?id=OHR.SapaVietnam_EN-CA8786405123",
+      "pt-BR": "/th?id=OHR.SapaVietnam_PT-BR6337399774"
+    }
+  },
+  "PinkDahlia": {
+    "name": "PinkDahlia",
+    "urlbase": "/th?id=OHR.PinkDahlia_EN-GB5279918343",
+    "date": "20260722",
+    "dateFormatted": "July 22, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1613,11 +1816,6 @@
         "flag": "es"
       },
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1634,274 +1832,83 @@
       }
     ],
     "titles": {
-      "en-US": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
-      "en-GB": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
-      "en-CA": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam",
-      "de-DE": "Tradition auf Schritt und Tritt. Reisfelder in Sapa, Lào Cai, Vietnam",
-      "fr-FR": "Une autre montée des marches. Champs de riz à Sapa, Lào Cai, Vietnam",
-      "it-IT": "La tradizione in ogni passo",
-      "es-ES": "La tradición en cada paso. Arrozales en Sapa, Lào Cai, Vietnam",
-      "pt-BR": "Plantando entre nuvens",
-      "ja-JP": "光差す山岳地帯の棚田",
-      "zh-CN": "步步传承",
-      "en-IN": "Tradition in every step. Rice fields at Sapa, Lào Cai, Vietnam"
+      "en-GB": "A symphony of petals. Pink dahlia flower",
+      "de-DE": "Was ist eine Wasserpfeifenblume?. Rosafarbene Dahlie",
+      "fr-FR": "La symphonie des pétales. Dahlia rose",
+      "it-IT": "Una sinfonia di petali",
+      "es-ES": "Una sinfonía de pétalos. Flor de dalia rosa",
+      "ja-JP": "華やかに開くダリアの花びら",
+      "zh-CN": "瓣叠交响",
+      "en-IN": "A symphony of petals. Pink dahlia flower",
+      "en-US": "A symphony of petals. Pink dahlia flower",
+      "en-CA": "A symphony of petals. Pink dahlia flower",
+      "pt-BR": "Um universo em flor. Dália rosa"
     },
     "copyrights": {
-      "en-US": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-      "en-GB": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-      "en-CA": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-      "de-DE": "Reisfelder in Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-      "fr-FR": "Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-      "it-IT": "Risaie a Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-      "es-ES": "Arrozales en Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-      "pt-BR": "Campos de arroz em Sapa, província de Lào Cai, Vietnã (© Anujak Jaimook/Getty Images)",
-      "ja-JP": "サパの棚田, ベトナム (© Anujak Jaimook/Getty Images)",
-      "zh-CN": "在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)",
-      "en-IN": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)"
+      "en-GB": "Pink dahlia flower (© Harald Biebel/Getty Images)",
+      "de-DE": "Rosafarbene Dahlie (© Harald Biebel/Getty Images)",
+      "fr-FR": "Dahlia rose (© Harald Biebel/Getty Images)",
+      "it-IT": "Fiore di Dalia rosa (© Harald Biebel/Getty Images)",
+      "es-ES": "Flor de dalia rosa (© Harald Biebel/Getty Images)",
+      "ja-JP": "ピンクのダリア (© Harald Biebel/Getty Images)",
+      "zh-CN": "粉红色大丽花 (© Harald Biebel/Getty Images)",
+      "en-IN": "Pink dahlia flower (© Harald Biebel/Getty Images)",
+      "en-US": "© Harald Biebel/Getty Images",
+      "en-CA": "© Harald Biebel/Getty Images",
+      "pt-BR": "© Harald Biebel/Getty Images"
     },
     "descs": {
-      "en-US": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
-      "en-GB": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
-      "en-CA": "The morning mist begins to lift as sunlight cuts through, revealing rows of green terraces climbing the mountainsides. Soon, the sound of running water and farm work replaces the silence. This is a familiar scene in Sapa, northern Vietnam, where generations of ethnic communities have shaped steep hills into rice fields that continue to support local families today. Using knowledge refined over centuries, farmers in Lào Cai province built terraces that slow water flowing downhill, helping to protect the soil while creating space to grow rice in challenging terrain.",
-      "de-DE": "Sanftes Licht dringt durch vorbeiziehende Wolken und legt sich über die gestuften Hänge von Sapa in der Provinz Lào Cai in Vietnam. Die Reisfelder ziehen sich wie eine endlose Abfolge von Terrassen die Berghänge hinab und wirken wie ein Geflecht aus Linien. Seit Generationen gestalten hier indigene Gemeinschaften wie die Hmong diese Landschaft, indem sie den steilen Boden formen und das Wasser gezielt über die Felder leiten. So entsteht ein fein abgestimmtes Zusammenspiel zwischen Natur und menschlicher Arbeit.",
-      "fr-FR": "La lumière du soleil perce les nuages et éclaire les rizières en terrasses de Sapa, qui dévalent les montagnes comme un immense escalier vivant. Située dans la province de Lào Cai, au Vietnam, cette région spectaculaire a été façonnée au fil des siècles par les communautés ethniques locales, notamment les Hmong. Génération après génération, elles ont aménagé ces terrasses et mis au point un ingénieux réseau d'irrigation permettant de cultiver le riz sur des pentes escarpées.",
-      "es-ES": "Sapa, en Vietnam, deslumbra con sus arrozales en bancales que descienden por las laderas como una escalera viva bañada por la luz. En esta región montañosa de la provincia de Lào Cai, el paisaje es fruto de siglos de ingenio humano, donde comunidades como los hmong han moldeado la tierra para acompañar el ritmo del agua y del cultivo.",
-      "ja-JP": "今日の画像は、ベトナム北部ラオカイ省に位置する「サパ」です。モン族などの少数民族の人々が何世代にもわたって急な斜面を切り開き、水を巧みに引きながら棚田を築いてきました。標高は 1600m で、夏は雨が多いものの、冬は冷たい霧に包まれ、幻想的な風景が広がります。近年は観光地としても注目され、訪れる人々はその美しさと、今も息づく伝統を実感することができます。",
-      "en-IN": "Sunlight breaks through drifting clouds and settles on the terraced slopes of Sapa, where rice fields spill down the mountainsides in sweeping layers like a living staircase. Nestled in Vietnam's Lào Cai Province, this highland region is shaped as much by human endeavour as by nature. For centuries, farmers from ethnic communities such as the Hmong have carved and maintained these terraces, channelling water across steep hillsides to nourish each growing season.",
-      "it-IT": "A Sapa, nel nord del Vietnam, le risaie terrazzate scendono lungo le montagne come una scalinata vivente, illuminate da una luce che filtra tra le nuvole. Nella provincia di Lào Cai, ogni gradone è il frutto di secoli di lavoro delle comunità locali, come gli Hmong, che hanno modellato i pendii per guidare l’acqua e coltivare il riso, alimento centrale nella vita quotidiana e nella cultura di tutta l’Asia.",
-      "pt-BR": "Sapa, no norte do Vietnã, parece suspensa entre montanha e céu. Na imagem, seus arrozais descem pelas encostas como uma escadaria líquida, cada terraço segurando uma fina lâmina de água que reflete o céu enquanto alimenta as mudas de arroz.",
-      "zh-CN": "步步传承. 在沙巴的水稻田，老街，越南. 阳光穿透流云，洒在沙巴（Sapa）的层层坡地之上，那里的水稻田宛如“活的阶梯”，顺着山脊倾泻而下。这一高地地区位于越南老街省（Lào Cai），其地貌既受大自然的造化，也离不开人类双手的雕琢。数个世纪以来，包括赫蒙族（Hmong）在内的当地少数民族世代在此开垦并维护着这些梯田，他们引导水源流过陡峭的山坡，以维持每个生长季节的灌溉需求。"
+      "en-GB": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
+      "de-DE": "Die Dahlie zählt zu den eindrucksvollsten Zierpflanzen. Sie stammt ursprünglich aus Mexiko und gehört zur Familie der Korbblütler. Bemerkenswert ist ihre enorme Vielfalt: Es existieren Zehntausende Zuchtformen mit ganz unterschiedlichen Blütenformen und -größen. Die Pflanze besitzt eine besondere genetische Struktur, die diese Formenvielfalt begünstigt. Von kleinen, kugelförmigen Blüten bis zu großen, tellerartigen Exemplaren bietet sie ein beeindruckendes Spektrum.",
+      "fr-FR": "Dans un jardin d’été, le dahlia rose capte aussitôt le regard. Originaire du Mexique, cette fleur de la famille des astéracées impose sa présence avec ses pétales ordonnés et ses formes presque infinies. Des variétés miniatures aux fleurs dépassant parfois trente centimètres, le dahlia doit cette diversité à une particularité génétique rare : il possède huit jeux de chromosomes, d’où la richesse de ses couleurs et de ses silhouettes.",
+      "es-ES": "En las dalias, originarias de México, cada flor parece ocupar el centro del escenario con una presencia inconfundible. Con más de 57.000 variedades cultivadas, estas plantas destacan por su asombrosa diversidad de formas y tamaños, con flores que pueden alcanzar unos 35 centímetros de diámetro y una paleta de colores intensa y vibrante.",
+      "ja-JP": "庭を静かに彩る花もあれば、ダリアのように、まるで主役のように目を引く花もあります。ダリアは、メキシコ原産のキク科の植物で、「 8 倍体」と呼ばれる染色体が特徴です。これによって多様な品種が作りやすく、数万にも及ぶ品種が生まれており、様々な色や大きさで花を咲かせます。かつてアステカでは食用や薬として利用され、茎は水を通す道具としても使われていました。1963 年にはメキシコの国花に指定されています。",
+      "en-IN": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
+      "en-US": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 14 inches across.",
+      "en-CA": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
+      "it-IT": "Originarie del Messico, le dalie sembrano nate per essere protagoniste. Esistono oltre 57.000 varietà coltivate, rese possibili dalla loro genetica unica: sono piante ottaploidi, con otto serie di cromosomi, da cui nascono fioriture da piccoli bottoni fino a corolle di 36 cm.",
+      "pt-BR": "A dália parece ter recebido uma instrução simples da natureza: chamar atenção. E levou isso a sério. Vista na imagem, ela exibe camadas de pétalas organizadas com tanta precisão que lembra um origami complexo. Nativa do México, a planta acumula mais de 57 mil variedades cultivadas e oito conjuntos de cromossomos, uma combinação rara que abriu caminho para uma diversidade extraordinária de formas, tamanhos e cores.",
+      "zh-CN": "瓣叠交响. 粉红色大丽花. 有些花卉静谧地装点着花园，而大丽花（Dahlias）的登场则宛如领衔主演。这些原产于墨西哥的菊科（Asteraceae）成员拥有超过5.7万个培育品种，这在很大程度上归功于其独特的遗传特征。大丽花是典型的八倍体（Octoploids），意味着它们拥有八组染色体，这种多倍体特征使其花朵形态极具多样性，既有如纽扣般娇小的品种，也有直径达14英寸的巨型花冠。"
     },
     "quickFacts": {
-      "zh-CN": "“稻-鱼-鸭”共生系统在沙巴，老街，越南被广泛应用，通过在该生态位引入鱼类与鸭子实现自然肥田并控制病虫害，显著提升了高地农业的可持续性。"
+      "en-US": "One Aztec name for the dahlia, often translated as 'water pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
+      "en-GB": "One Aztec name for the dahlia, often translated as 'water‑pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
+      "en-CA": "One Aztec name for the dahlia, often translated as 'water pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
+      "de-DE": "Einer der aztekischen Namen für die Dahlie, der oft mit „Wasserpfeifenblume“ übersetzt wird, bezieht sich auf die langen, hohlen Stängel der Pflanze, die zum Transport von Wasser verwendet wurden.",
+      "fr-FR": "Un nom aztèque du dahlia, souvent traduit par « fleur tuyau d’eau », fait référence aux longues tiges creuses de la plante, qui étaient utilisées pour transporter l’eau.",
+      "ja-JP": "ダリアの花は、一枚の花びらでできているように見えますが、実は多くの小さな花が集まってできています。",
+      "zh-CN": "大丽花的一个阿兹特克语名称常被译为“水管花”，这源于该植物细长且中空的茎部特征，这种中空茎在古代曾被用作输送水分的管道。",
+      "en-IN": "One Aztec name for the dahlia, often translated as 'water‑pipe flower,' refers to the plant's long, hollow stems, which were used to transport water."
     },
     "captions": {
-      "en-US": "Rice fields at Sapa, Lào Cai, Vietnam",
-      "en-GB": "Rice fields at Sapa, Lào Cai, Vietnam",
-      "en-CA": "Rice fields at Sapa, Lào Cai, Vietnam",
-      "de-DE": "Reisfelder in Sapa, Lào Cai, Vietnam",
-      "fr-FR": "Champs de riz à Sapa, Lào Cai, Vietnam",
+      "en-GB": "Pink dahlia flower",
+      "de-DE": "Rosafarbene Dahlie",
+      "fr-FR": "Dahlia rose",
       "it-IT": "",
-      "es-ES": "Arrozales en Sapa, Lào Cai, Vietnam",
-      "pt-BR": "",
-      "ja-JP": "光差す山岳地帯の棚田",
+      "es-ES": "Flor de dalia rosa",
+      "ja-JP": "華やかに開くダリアの花びら",
       "zh-CN": "",
-      "en-IN": "Rice fields at Sapa, Lào Cai, Vietnam"
+      "en-IN": "Pink dahlia flower"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260709_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Lao+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2300%22",
-      "en-CA": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260709_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Sapa+Reisfelder+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2200%22",
-      "it-IT": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=prov%c3%adncia+L%c3%a0o+Cai+Vietn%c3%a3&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%91%e3%81%ae%e6%a3%9a%e7%94%b0&form=hpcapt&filters=HpDate%3a%2220260708_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%b6%8a%e5%8d%97%e8%80%81%e8%a1%97&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lao+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260722_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Dahlien+Blume&form=hpcapt&filters=HpDate%3a%2220260722_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Dahlia+plante&form=hpcapt&filters=HpDate%3a%2220260722_2200%22",
+      "it-IT": "https://www.bing.com/search?q=dalia+fiore&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Flor+de+dalia+rosa&form=hpcapt&filters=HpDate%3a%2220260722_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%81%ae%e3%83%80%e3%83%aa%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260722_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a4%a7%e4%b8%bd%e8%8a%b1%e5%b1%9e%e6%a4%8d%e7%89%a9&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260722_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.SapaVietnam_EN-US4008171614",
-      "en-GB": "/th?id=OHR.SapaVietnam_EN-GB1434771886",
-      "en-CA": "/th?id=OHR.SapaVietnam_EN-CA8786405123",
-      "de-DE": "/th?id=OHR.SapaVietnam_DE-DE8741456092",
-      "fr-FR": "/th?id=OHR.SapaVietnam_FR-FR9797558235",
-      "it-IT": "/th?id=OHR.SapaVietnam_IT-IT8377161369",
-      "es-ES": "/th?id=OHR.SapaVietnam_ES-ES9535992527",
-      "pt-BR": "/th?id=OHR.SapaVietnam_PT-BR6337399774",
-      "ja-JP": "/th?id=OHR.SapaVietnam_JA-JP3354489397",
-      "zh-CN": "/th?id=OHR.SapaVietnam_ZH-CN2178893672",
-      "en-IN": "/th?id=OHR.SapaVietnam_EN-IN2086925801"
-    }
-  },
-  "LakeAtitlan": {
-    "name": "LakeAtitlan",
-    "urlbase": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
-    "date": "20260708",
-    "dateFormatted": "July 08, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
-      "en-CA": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
-      "pt-BR": "Um vulcão transformado em horizonte",
-      "en-GB": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
-      "de-DE": "Echos einer vulkanischen Vergangenheit. Sonnenaufgang am Atitlán-See, Guatemala",
-      "fr-FR": "Échos d'un passé volcanique. Lever du soleil sur le lac Atitlán, Guatemala",
-      "it-IT": "Echi vulcanici",
-      "es-ES": "Ecos de un pasado volcánico. Amanecer en el Lago de Atitlán, Guatemala",
-      "ja-JP": "静けさにしずむ湖",
-      "zh-CN": "远古火山的回响",
-      "en-IN": "Echoes of a volcanic past. Lake Atitlán, Guatemala"
-    },
-    "copyrights": {
-      "en-US": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-      "en-CA": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-      "pt-BR": "Nascer do sol no Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
-      "en-GB": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
-      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
-      "it-IT": "Lago Atitlán, Guatemala (© shayes17/Getty Images)",
-      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
-      "ja-JP": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
-      "zh-CN": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
-      "en-IN": "Lake Atitlán, Guatemala (© shayes17/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán, and San Pedro. Wooden piers stretch into the still lake, emphasizing the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "en-CA": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "en-GB": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "de-DE": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
-      "fr-FR": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
-      "es-ES": "El Lago de Atitlán, en las tierras altas de Guatemala, cautiva con un paisaje de aguas profundas rodeadas por antiguos volcanes que dibujan un horizonte imponente. Encajado en una caldera formada tras una gran erupción, este lago combina calma y fuerza geológica en una escena que parece suspendida en el tiempo.",
-      "ja-JP": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
-      "en-IN": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
-      "it-IT": "Il lago di Atitlán riempie una spettacolare caldera vulcanica negli altopiani occidentali del Guatemala. Le sue acque blu intenso sono circondate da ripide pareti crateriche e dai vulcani Atitlán, Tolimán e San Pedro, in un paesaggio che alterna quiete assoluta e origine esplosiva. Formatosi circa 84.000 anni fa dopo una violenta eruzione, è considerato il lago più profondo dell’America Centrale, con profondità che raggiungono circa 335 metri. Le pareti della caldera lo racchiudono come un anfiteatro naturale scolpito dal fuoco.",
-      "pt-BR": "Na imagem, o Lago de Atitlán, na Guatemala, é um daqueles lugares que parecem tranquilos demais para a história intensa que carregam. A superfície azul parece imóvel, mas o relevo ao redor — crateras, encostas íngremes e os vulcões Atitlán, Tolimán e San Pedro — entrega que essa beleza nasceu do caos geológico.",
-      "zh-CN": "远古火山的回响. 阿蒂特兰湖的日出，危地马拉. 阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。"
-    },
-    "quickFacts": {
-      "zh-CN": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。"
-    },
-    "captions": {
-      "en-US": "Sunrise at Lake Atitlán, Guatemala",
-      "en-CA": "Sunrise at Lake Atitlán, Guatemala",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Lago+de+Atitlan&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
-      "en-CA": "/th?id=OHR.LakeAtitlan_EN-CA2759659537",
-      "pt-BR": "/th?id=OHR.LakeAtitlan_PT-BR6236816511"
-    }
-  },
-  "CoralAwareness": {
-    "name": "CoralAwareness",
-    "urlbase": "/th?id=OHR.CoralAwareness_EN-GB4982611770",
-    "date": "20260721",
-    "dateFormatted": "July 21, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Small footprint, big impact. Coral Reef Awareness Week",
-      "fr-FR": "Petite empreinte, récif vivant. Importance des récifs coralliens",
-      "it-IT": "Piccola impronta, grande impatto",
-      "es-ES": "Pequeña huella, gran impacto. Arrecife de coral y playa en Raja Ampat, Indonesia",
-      "ja-JP": "今週は米国のサンゴ礁啓発週間",
-      "zh-CN": "细微之举，影响深远",
-      "en-IN": "Small footprint, big impact. Coral Reef Awareness Week",
-      "en-US": "Small footprint, big impact. Coral reef and beach in Raja Ampat, Indonesia",
-      "en-CA": "Small footprint, big impact. Coral reef and beach in Raja Ampat, Indonesia",
-      "pt-BR": "Cidades que respiram sob as ondas. Recife de coral e praia em Raja Ampat, Indonésia"
-    },
-    "copyrights": {
-      "en-GB": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
-      "fr-FR": "Récif corallien et plage de Raja Ampat, Indonésie (© SergeUWPhoto/Shutterstock)",
-      "it-IT": "Barriera corallina e spiaggia a Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
-      "es-ES": "Arrecife de coral y playa en Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
-      "ja-JP": "サンゴ礁, インドネシア (© SergeUWPhoto/Shutterstock)",
-      "zh-CN": "珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)",
-      "en-IN": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
-      "en-US": "© SergeUWPhoto/Shutterstock",
-      "en-CA": "© SergeUWPhoto/Shutterstock",
-      "pt-BR": "© SergeUWPhoto/Shutterstock"
-    },
-    "descs": {
-      "en-GB": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
-      "fr-FR": "Imaginez une ville construite par des animaux, brillante sous le soleil et grouillante de vie sous les vagues. C’est un récif corallien. Pendant la Semaine de sensibilisation aux récifs coralliens, nous célébrons ces écosystèmes extraordinaires et les innombrables espèces qui en dépendent.",
-      "es-ES": "En los arrecifes de Raja Ampat, en Indonesia, el océano se transforma en una vibrante ciudad submarina donde miles de especies conviven en equilibrio. Estos ecosistemas, que cubren menos del uno por ciento del fondo marino, albergan aproximadamente el veinticinco por ciento de la vida oceánica, convirtiéndose en uno de los entornos más diversos del planeta.",
-      "ja-JP": "今週は米国のサンゴ礁啓発週間。サンゴ礁は、太陽の光に輝き、多くの生き物でにぎわう海の中の街のような存在です。地球の海洋面積に対してサンゴ礁が占めている割合は約 1% 未満ですが、海洋生物全体の約 25% を支えています。一見すると岩のようですが、実はサンゴポリプと呼ばれる小さな動物が集まって形作られています。そして、今日の画像は、インドネシアのラジャ・アンパット諸島で撮影されたサンゴ礁。この地域には既知のサンゴ種の 75％ 以上が生息し、多種多様な海洋生物が暮らす豊かな生態系が広がっています。",
-      "en-IN": "Imagine a city built by animals, glowing in the sunlight, and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
-      "en-US": "Imagine a city built by animals, glowing in the sunlight, and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
-      "en-CA": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
-      "it-IT": "A Raja Ampat, in Indonesia, la barriera corallina si presenta come una città sommersa, vibrante di colori e forme, dove ogni spazio è occupato da forme di vita in movimento. Quello che sembra roccia è in realtà una colonia di minuscoli animali, i polipi, capaci di costruire nel tempo strutture complesse che ospitano una straordinaria biodiversità: qui vive oltre il 75% delle specie di coralli conosciute.",
-      "pt-BR": "Imagine uma metrópole erguida por milhões de animais do tamanho de uma borracha de lápis, trabalhando sem descanso no coração do oceano. Bem-vindo ao recife: não rocha, mas arquitetura viva. Cada estrutura nasce de colônias de corais que secretam carbonato de cálcio e, camada sobre camada, constroem cidades submersas capazes de atravessar milênios.",
-      "zh-CN": "细微之举，影响深远. 珊瑚礁与海滩在拉贾安帕特，印度尼西亚. 想象一座由动物建造的城市，在阳光下熠熠生辉，并在海浪之下涌动着生命。这就是珊瑚礁。在珊瑚礁意识周（Coral Reef Awareness Week）期间，我们赞美这些非凡的生态系统，以及依赖其生存的无数物种"
-    },
-    "quickFacts": {
-      "zh-CN": "珊瑚礁作为“21世纪的药库”在拉贾安帕特，印度尼西亚及全球海洋中展现出巨大的生物医学价值，其产生的独特化合物正被用于开发治疗癌症及心脏病的新型药物。"
-    },
-    "captions": {
-      "en-GB": "Coral Reef Awareness Week",
-      "fr-FR": "Importance des récifs coralliens",
-      "it-IT": "",
-      "es-ES": "Arrecife de coral y playa en Raja Ampat, Indonesia",
-      "ja-JP": "今週は米国のサンゴ礁啓発週間",
-      "zh-CN": "",
-      "en-IN": "Coral Reef Awareness Week"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260721_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=sensibilisation+r%c3%a9cifs+coralliens&form=hpcapt&filters=HpDate%3a%2220260721_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Raja+Ampat+Indonesia&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Raja+Ampat+Archipi%c3%a9lago+de+Indonesia&form=hpcapt&filters=HpDate%3a%2220260721_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%82%b5%e3%83%b3%e3%82%b4%e7%a4%81%e5%95%93%e7%99%ba%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220260721_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%8f%8a%e7%91%9a%e7%a4%81%e6%84%8f%e8%af%86%e5%91%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260721_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.CoralAwareness_EN-GB4982611770",
-      "fr-FR": "/th?id=OHR.CoralAwareness_FR-FR4288203085",
-      "it-IT": "/th?id=OHR.CoralAwareness_IT-IT9276048724",
-      "es-ES": "/th?id=OHR.CoralAwareness_ES-ES8867891901",
-      "ja-JP": "/th?id=OHR.CoralAwareness_JA-JP2408708579",
-      "zh-CN": "/th?id=OHR.CoralAwareness_ZH-CN1621627126",
-      "en-IN": "/th?id=OHR.CoralAwareness_EN-IN9714852805"
+      "en-GB": "/th?id=OHR.PinkDahlia_EN-GB5279918343",
+      "de-DE": "/th?id=OHR.PinkDahlia_DE-DE7886541218",
+      "fr-FR": "/th?id=OHR.PinkDahlia_FR-FR6134462708",
+      "it-IT": "/th?id=OHR.PinkDahlia_IT-IT4710141441",
+      "es-ES": "/th?id=OHR.PinkDahlia_ES-ES2391047367",
+      "ja-JP": "/th?id=OHR.PinkDahlia_JA-JP3415436544",
+      "zh-CN": "/th?id=OHR.PinkDahlia_ZH-CN2259107800",
+      "en-IN": "/th?id=OHR.PinkDahlia_EN-IN0092108824"
     }
   },
   "LlanthonyPriory2026": {
@@ -2477,6 +2484,86 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.RathYatra2026_EN-IN7824400350"
+    }
+  },
+  "LakeAtitlan": {
+    "name": "LakeAtitlan",
+    "urlbase": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
+    "date": "20260708",
+    "dateFormatted": "July 08, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
+      "en-CA": "Echoes of a volcanic past. Sunrise at Lake Atitlán, Guatemala",
+      "pt-BR": "Um vulcão transformado em horizonte",
+      "en-GB": "Echoes of a volcanic past. Lake Atitlán, Guatemala",
+      "de-DE": "Echos einer vulkanischen Vergangenheit. Sonnenaufgang am Atitlán-See, Guatemala",
+      "fr-FR": "Échos d'un passé volcanique. Lever du soleil sur le lac Atitlán, Guatemala",
+      "it-IT": "Echi vulcanici",
+      "es-ES": "Ecos de un pasado volcánico. Amanecer en el Lago de Atitlán, Guatemala",
+      "ja-JP": "静けさにしずむ湖",
+      "zh-CN": "远古火山的回响",
+      "en-IN": "Echoes of a volcanic past. Lake Atitlán, Guatemala"
+    },
+    "copyrights": {
+      "en-US": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "en-CA": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "pt-BR": "Nascer do sol no Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
+      "en-GB": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+      "de-DE": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
+      "fr-FR": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
+      "it-IT": "Lago Atitlán, Guatemala (© shayes17/Getty Images)",
+      "es-ES": "Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
+      "ja-JP": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
+      "zh-CN": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
+      "en-IN": "Lake Atitlán, Guatemala (© shayes17/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán, and San Pedro. Wooden piers stretch into the still lake, emphasizing the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "en-CA": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "en-GB": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "de-DE": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
+      "fr-FR": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
+      "es-ES": "El Lago de Atitlán, en las tierras altas de Guatemala, cautiva con un paisaje de aguas profundas rodeadas por antiguos volcanes que dibujan un horizonte imponente. Encajado en una caldera formada tras una gran erupción, este lago combina calma y fuerza geológica en una escena que parece suspendida en el tiempo.",
+      "ja-JP": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
+      "en-IN": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+      "it-IT": "Il lago di Atitlán riempie una spettacolare caldera vulcanica negli altopiani occidentali del Guatemala. Le sue acque blu intenso sono circondate da ripide pareti crateriche e dai vulcani Atitlán, Tolimán e San Pedro, in un paesaggio che alterna quiete assoluta e origine esplosiva. Formatosi circa 84.000 anni fa dopo una violenta eruzione, è considerato il lago più profondo dell’America Centrale, con profondità che raggiungono circa 335 metri. Le pareti della caldera lo racchiudono come un anfiteatro naturale scolpito dal fuoco.",
+      "pt-BR": "Na imagem, o Lago de Atitlán, na Guatemala, é um daqueles lugares que parecem tranquilos demais para a história intensa que carregam. A superfície azul parece imóvel, mas o relevo ao redor — crateras, encostas íngremes e os vulcões Atitlán, Tolimán e San Pedro — entrega que essa beleza nasceu do caos geológico.",
+      "zh-CN": "远古火山的回响. 阿蒂特兰湖的日出，危地马拉. 阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。"
+    },
+    "quickFacts": {
+      "zh-CN": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。"
+    },
+    "captions": {
+      "en-US": "Sunrise at Lake Atitlán, Guatemala",
+      "en-CA": "Sunrise at Lake Atitlán, Guatemala",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Lago+de+Atitlan&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
+      "en-CA": "/th?id=OHR.LakeAtitlan_EN-CA2759659537",
+      "pt-BR": "/th?id=OHR.LakeAtitlan_PT-BR6236816511"
     }
   },
   "MountainToucanOrchids": {
