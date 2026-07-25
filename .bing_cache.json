@@ -1,4 +1,143 @@
 {
+  "GalapagosFlamingos": {
+    "name": "GalapagosFlamingos",
+    "urlbase": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116",
+    "date": "20260724",
+    "dateFormatted": "July 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Family, in full color. National Cousins Day",
+      "en-GB": "Family, in full colour. National Cousins Day",
+      "en-CA": "Family, in full colour. National Cousins Day",
+      "de-DE": "In voller Farbe. Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
+      "fr-FR": "Ça flame rose. Flamboyance de flamants roses",
+      "it-IT": "Famiglia, a colori",
+      "pt-BR": "Em boa companhia",
+      "ja-JP": "今日は米国いとこの日",
+      "zh-CN": "缤纷多彩的一家人",
+      "en-IN": "Family, in full colour. National Cousins Day"
+    },
+    "copyrights": {
+      "en-US": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "en-GB": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "en-CA": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "de-DE": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "fr-FR": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)",
+      "it-IT": "Stormo di fenicotteri americani, Isola Isabela, Isole Galápagos, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "pt-BR": "Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador (© Tui De Roy/Nature Picture Library)",
+      "ja-JP": "ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)",
+      "zh-CN": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)",
+      "en-IN": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure.",
+      "en-GB": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. While it originated in the United States, the day has gained traction in the United Kingdom through social media and family-focused events.",
+      "en-CA": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Fittingly, Canadians mark the day alongside their neighbour and, you could say, cousin to the south: the United States. Whether you grew up at the cottage, camping, skating or gathering for a long weekend barbecue, cousins often share some of life's best memories.",
+      "de-DE": "Auf der Insel Isabela lebt ein Schwarm Kubaflamingos in den flachen Lagunen der Galápagos-Inseln, die zu Ecuador gehören. Die eleganten Vögel bewegen sich oft gemeinsam durch das seichte Wasser und suchen dort nach kleinen Krebstieren, Insekten und anderen Nahrungsquellen. Mit ihren langen Beinen und geschwungenen Hälsen prägen sie das Bild vieler Feuchtgebiete der Insel. Vor der Kulisse dunkler Lavafelder und vulkanischer Landschaften bieten sie einen besonders eindrucksvollen Anblick und zählen zu den bekanntesten Vogelarten des Archipels.",
+      "fr-FR": "La langue française réserve parfois ses plus belles trouvailles aux assemblées d’animaux. Sur l’île Isabela, dans l’archipel des Galápagos, en Équateur, les lagunes saumâtres accueillent ainsi une « flamboyance » de flamants roses des Caraïbes — terme aussi vif que leur plumage, teinté de corail par les crevettes et algues qu’ils filtrent dans la boue tiède.",
+      "ja-JP": "今日は米国いとこの日. ベニイロフラミンゴ, エクアドル. 今日 7 月 24 日は米国いとこの日。兄弟姉妹のようでありながら、友人のような存在でもある「いとこ」という繋がりを祝う日です。そして画像は、エクアドルのガラパゴス諸島に生息するフラミンゴの群れ。彼らは、単独で行動するのではなく、群れをなして集まり、一緒に餌を食べ、仲間と動きを揃えて移動します。直接的な血の繋がりがなくとも「家族」のように繋がっているという、いとこという関係性を思わせる光景です。",
+      "en-IN": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. The celebration originated in the United States, but some countries have adopted it as a fun way to honour family bonds.",
+      "it-IT": "Alle Isole Galápagos, in Ecuador, i fenicotteri americani non si muovono mai da soli: vivono in stormi rumorosi, si nutrono insieme e camminano sincronizzati lungo le rive saline. Il loro inconfondibile rosa acceso non è innato, ma conquistato: nasce da una dieta ricca di alghe e piccoli crostacei, a riprova che l'identità si costruisce giorno per giorno.",
+      "pt-BR": "Antes de existir rede social, os flamingos já dominavam a arte de andar em grupo. Na imagem, estes exemplares das Ilhas Galápagos transformam uma área alagada numa convenção colorida. Raramente estão sozinhos: comem, voam e até descansam juntos, formando grandes concentrações que podem ser vistas a quilômetros de distância.",
+      "zh-CN": "缤纷多彩的一家人. 美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔. 除了引人注目的体色，栖息在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔的美洲红鹳还以其高度同步的求偶仪式而闻名。数百只红鹳会参与一场极具仪式感的“集体舞”，它们整齐划一地行进，并有节奏地左右摆动头部以吸引配偶。这种集体行为确保了整个集群能在同一时间进行繁殖，从而在群岛严酷的火山地貌中最大限度地提高雏鸟的存活率。"
+    },
+    "quickFacts": {
+      "en-US": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
+      "en-GB": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
+      "en-CA": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
+      "de-DE": "Kubaflamingos verdanken ihre rosa Färbung den Carotinoiden in ihrer Nahrung. Jungtiere kommen grau zur Welt und entwickeln ihre typische Farbe erst nach und nach.",
+      "fr-FR": "Un groupe de loutres se rassemble en \"romance\", l'un des noms collectifs les plus poétiques du règne animal.",
+      "zh-CN": "红鹳双亲均能分泌“嗉囊乳”来哺育雏鸟，这种营养丰富的物质类似于哺乳动物的乳汁，在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔。",
+      "en-IN": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009."
+    },
+    "captions": {
+      "en-US": "National Cousins Day",
+      "en-GB": "National Cousins Day",
+      "en-CA": "National Cousins Day",
+      "de-DE": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
+      "fr-FR": "Flamboyance de flamants roses",
+      "it-IT": "",
+      "pt-BR": "",
+      "ja-JP": "今日は米国いとこの日",
+      "zh-CN": "",
+      "en-IN": "National Cousins Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0700%22",
+      "en-GB": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260723_2300%22",
+      "en-CA": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Kubaflamingo&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Flamant+des+Cara%c3%afbes&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
+      "it-IT": "https://www.bing.com/search?q=fenicotteri+americani&form=hpcapt",
+      "pt-BR": "https://www.bing.com/search?q=flamingos+americanos&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%81%84%e3%81%a8%e3%81%93%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260723_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e6%b4%b2%e7%ba%a2%e9%b9%b3&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260723_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116",
+      "en-GB": "/th?id=OHR.GalapagosFlamingos_EN-GB4530568313",
+      "en-CA": "/th?id=OHR.GalapagosFlamingos_EN-CA4325829188",
+      "de-DE": "/th?id=OHR.GalapagosFlamingos_DE-DE1918476943",
+      "fr-FR": "/th?id=OHR.GalapagosFlamingos_FR-FR0682662624",
+      "it-IT": "/th?id=OHR.GalapagosFlamingos_IT-IT7890055647",
+      "pt-BR": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535",
+      "ja-JP": "/th?id=OHR.GalapagosFlamingos_JA-JP2749729014",
+      "zh-CN": "/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387",
+      "en-IN": "/th?id=OHR.GalapagosFlamingos_EN-IN8421031392"
+    }
+  },
   "PinkDahlia": {
     "name": "PinkDahlia",
     "urlbase": "/th?id=OHR.PinkDahlia_EN-US1957205704",
@@ -1612,64 +1751,29 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Where Brittany meets the tide. Port de Saint-Goustan, Auray, Brittany, France",
+      "pt-BR": "A cidade que ancorou no tempo",
       "en-GB": "Just across the channel: Port de Saint-Goustan. Port de Saint-Goustan, Auray, Brittany, France",
       "de-DE": "Wo die Bretagne auf die Gezeiten trifft. Hafen von Saint-Goustan, Auray, Bretagne, Frankreich",
       "fr-FR": "Niché au creux du Loc’h. Port de Saint-Goustan, Auray, Bretagne",
       "es-ES": "Donde Bretaña se encuentra con la marea. Puerto de Saint-Goustan, Auray, Bretaña, Francia",
-      "pt-BR": "A cidade que ancorou no tempo",
       "ja-JP": "港に停泊する観光船",
       "zh-CN": "布列塔尼的潮汐之约",
       "en-IN": "Where Brittany meets the tide. Port de Saint-Goustan, Auray, Brittany, France"
     },
     "copyrights": {
       "en-US": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+      "pt-BR": "Porto de Saint-Goustan, Auray, Bretanha, França (© Rolf E. Staerk/Shutterstock)",
       "en-GB": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
       "de-DE": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich (© Rolf E. Staerk/Shutterstock)",
       "fr-FR": "Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock)",
       "es-ES": "Puerto de Saint-Goustan, Auray, Bretaña, Francia (© Rolf E. Staerk/Shutterstock)",
-      "pt-BR": "Porto de Saint-Goustan, Auray, Bretanha, França (© Rolf E. Staerk/Shutterstock)",
       "ja-JP": "サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)",
       "zh-CN": "圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)",
       "en-IN": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)"
@@ -1690,130 +1794,27 @@
     },
     "captions": {
       "en-US": "Port de Saint-Goustan, Auray, Brittany, France",
-      "en-GB": "Port de Saint-Goustan, Auray, Brittany, France",
-      "de-DE": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich",
-      "fr-FR": "Port de Saint-Goustan, Auray, Bretagne",
-      "es-ES": "Puerto de Saint-Goustan, Auray, Bretaña, Francia",
-      "pt-BR": "",
-      "ja-JP": "港に停泊する観光船",
-      "zh-CN": "",
-      "en-IN": "Port de Saint-Goustan, Auray, Brittany, France"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260711_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Hafen+von+Saint-Goustan&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Auray+Saint-Goustan+Francia&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Auray+Bretanha+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%ef%bc%9d%e3%82%b0%e3%82%b9%e3%82%bf%e3%83%b3%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220260710_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e6%ac%a7%e8%b5%96%e5%9c%a3%e5%8f%a4%e6%96%af%e5%bd%93%e6%b8%af&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.AurayBrittany_EN-US7890619884",
-      "en-GB": "/th?id=OHR.AurayBrittany_EN-GB4284557242",
-      "de-DE": "/th?id=OHR.AurayBrittany_DE-DE3196003934",
-      "fr-FR": "/th?id=OHR.AurayBrittany_FR-FR2151221761",
-      "es-ES": "/th?id=OHR.AurayBrittany_ES-ES0686964132",
-      "pt-BR": "/th?id=OHR.AurayBrittany_PT-BR2396626414",
-      "ja-JP": "/th?id=OHR.AurayBrittany_JA-JP5965695214",
-      "zh-CN": "/th?id=OHR.AurayBrittany_ZH-CN5549157888",
-      "en-IN": "/th?id=OHR.AurayBrittany_EN-IN7972438884"
-    }
-  },
-  "VictoriaBeach": {
-    "name": "VictoriaBeach",
-    "urlbase": "/th?id=OHR.VictoriaBeach_EN-US7607379912",
-    "date": "20260710",
-    "dateFormatted": "July 10, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
-      "en-GB": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
-      "pt-BR": "A arte lenta das marés",
-      "de-DE": "Zwischen zwei Welten. Luftaufnahme von Land und Meer, Victoria, Australien",
-      "fr-FR": "Le pays des rivages mouvants. Vue aérienne des terres et de l'océan, Victoria, Australie",
-      "it-IT": "La terra delle coste in movimento",
-      "es-ES": "La tierra de las orillas móviles. Vista aérea de tierra y océano, Victoria, Australia",
-      "ja-JP": "浜辺に打ち寄せる波",
-      "zh-CN": "陆地与海洋的鸟瞰图",
-      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia"
-    },
-    "copyrights": {
-      "en-US": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
-      "en-GB": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
-      "pt-BR": "Vista aérea da costa de Vitória, Austrália (© Nearmap/Getty Images)",
-      "de-DE": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
-      "fr-FR": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
-      "it-IT": "Veduta aerea di terra e oceano, Victoria, Australia (© Nearmap/Getty Images)",
-      "es-ES": "Vista aérea de tierra y océano, Victoria, Australia (© Nearmap/Getty Images)",
-      "ja-JP": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
-      "zh-CN": "陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)",
-      "en-IN": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Victoria, a southeastern state of Australia, extends along more than 1,000 miles of coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands, and seaside towns.",
-      "en-GB": "Victoria, a southeastern state of Australia, extends along more than 1,100 miles of mainland coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands and seaside towns.",
-      "de-DE": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
-      "fr-FR": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
-      "es-ES": "Victoria, en el sureste de Australia, despliega más de 1.800 kilómetros de costa modelada por el océano Antártico, donde playas de arena clara se funden con aguas turquesas y acantilados escarpados. Desde el aire, el paisaje recuerda por momentos a la Costa Brava en Girona, aunque aquí la escala es más salvaje y abierta.",
-      "ja-JP": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
-      "en-IN": "Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
-      "it-IT": "Victoria, stato nel sud-est dell’Australia, si estende lungo oltre 1.800 km di costa modellata dall’Oceano Meridionale: dall’alto, le sue spiagge appaiono come nastri chiari tra acque turchesi e scogliere scolpite. Questo dialogo continuo tra terra e mare ricorda, per intensità e varietà, alcuni tratti della Sardegna o della Costiera Amalfitana, pur con un carattere più selvaggio e ventoso. La celebre Great Ocean Road percorre circa 240 km di litorale, tra spot di surf, promontori boscosi e piccoli centri affacciati sull’oceano.",
-      "pt-BR": "A imagem do dia traz o litoral do estado australiano de Vitória, onde o encontro entre terra e mar está sempre sendo redesenhado. Faixas de areia clara se alternam com água azul intensa e paredões que parecem ter sido recortados com cuidado, em um cenário marcado pela ação contínua do oceano.",
-      "zh-CN": "陆地与海洋的鸟瞰图. 陆地与海洋的鸟瞰图，维多利亚州，澳大利亚. 维多利亚州位于澳大利亚东南部，坐拥由南大洋雕琢而成的绵延千余英里的海岸线。从高空俯瞰，这里的海滩宛如一条条宽阔的浅色沙带，边缘环绕着碧绿的海水与崎岖的峭壁。这种海陆交融的独特景致构成了该地区的主要魅力所在。著名的“大洋路”沿这段海岸线蜿蜒延伸约150英里，途经热门冲浪胜地、林木葱郁的海角以及各具特色的海滨小镇。"
-    },
-    "quickFacts": {
-      "zh-CN": "十二使徒岩一直在发生变化；在2005年发生一次重大坍塌后，最初的石灰岩柱目前仅存八座。"
-    },
-    "captions": {
-      "en-US": "Aerial view of land and ocean, Victoria, Australia",
-      "en-GB": "Aerial view of land and ocean, Victoria, Australia",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260710_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260715_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Vitoria+Australia&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260711_0700%22",
+      "pt-BR": "https://www.bing.com/search?q=Auray+Bretanha+Fran%c3%a7a&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.VictoriaBeach_EN-US7607379912",
-      "en-GB": "/th?id=OHR.VictoriaBeach_EN-GB5330505184",
-      "pt-BR": "/th?id=OHR.VictoriaBeach_PT-BR0308396736"
+      "en-US": "/th?id=OHR.AurayBrittany_EN-US7890619884",
+      "pt-BR": "/th?id=OHR.AurayBrittany_PT-BR2396626414"
     }
   },
-  "GalapagosFlamingos": {
-    "name": "GalapagosFlamingos",
-    "urlbase": "/th?id=OHR.GalapagosFlamingos_EN-GB4530568313",
-    "date": "20260723",
-    "dateFormatted": "July 23, 2026",
+  "GaliciaBeach": {
+    "name": "GaliciaBeach",
+    "urlbase": "/th?id=OHR.GaliciaBeach_EN-GB4804626985",
+    "date": "20260724",
+    "dateFormatted": "July 24, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
       },
       {
         "code": "fr-FR",
@@ -1821,9 +1822,9 @@
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
       },
       {
         "code": "ja-JP",
@@ -1842,76 +1843,128 @@
       }
     ],
     "titles": {
-      "en-GB": "Family, in full colour. National Cousins Day",
-      "de-DE": "In voller Farbe. Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
-      "fr-FR": "Ça flame rose. Flamboyance de flamants roses",
-      "it-IT": "Famiglia, a colori",
-      "ja-JP": "今日は米国いとこの日",
-      "zh-CN": "缤纷多彩的一家人",
-      "en-IN": "Family, in full colour. National Cousins Day",
-      "en-US": "Family, in full color. Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador",
-      "en-CA": "Family, in full colour. Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador",
-      "pt-BR": "Em boa companhia. Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador"
+      "en-GB": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
+      "fr-FR": "Les arches cachées de la Galice. Plage des Cathédrales, Galice, Espagne",
+      "es-ES": "La sinfonía de las olas. Día de Galicia",
+      "ja-JP": "干潮に現れる奇岩海岸",
+      "zh-CN": "加境幽廊",
+      "en-IN": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
+      "en-US": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
+      "en-CA": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
+      "it-IT": "Gli archi nascosti della Galizia. Spiaggia delle Cattedrali, Galizia, Spagna",
+      "pt-BR": "O templo construído pelo mar. Praia das Catedrais, Galícia, Espanha"
     },
     "copyrights": {
-      "en-GB": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "de-DE": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "fr-FR": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)",
-      "it-IT": "Stormo di fenicotteri americani, Isola Isabela, Isole Galápagos, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "ja-JP": "ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)",
-      "zh-CN": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)",
-      "en-IN": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "en-US": "© Tui De Roy/Nature Picture Library",
-      "en-CA": "© Tui De Roy/Nature Picture Library",
-      "pt-BR": "© Tui De Roy/Nature Picture Library"
+      "en-GB": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "fr-FR": "Plage des Cathédrales, Galice, Espagne (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "es-ES": "Playa de las Catedrales, Galicia, España (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "ja-JP": "カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "zh-CN": "大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "en-IN": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "en-US": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+      "en-CA": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+      "it-IT": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+      "pt-BR": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock"
     },
     "descs": {
-      "en-GB": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. While it originated in the United States, the day has gained traction in the United Kingdom through social media and family-focused events.",
-      "de-DE": "Auf der Insel Isabela lebt ein Schwarm Kubaflamingos in den flachen Lagunen der Galápagos-Inseln, die zu Ecuador gehören. Die eleganten Vögel bewegen sich oft gemeinsam durch das seichte Wasser und suchen dort nach kleinen Krebstieren, Insekten und anderen Nahrungsquellen. Mit ihren langen Beinen und geschwungenen Hälsen prägen sie das Bild vieler Feuchtgebiete der Insel. Vor der Kulisse dunkler Lavafelder und vulkanischer Landschaften bieten sie einen besonders eindrucksvollen Anblick und zählen zu den bekanntesten Vogelarten des Archipels.",
-      "fr-FR": "La langue française réserve parfois ses plus belles trouvailles aux assemblées d’animaux. Sur l’île Isabela, dans l’archipel des Galápagos, en Équateur, les lagunes saumâtres accueillent ainsi une « flamboyance » de flamants roses des Caraïbes — terme aussi vif que leur plumage, teinté de corail par les crevettes et algues qu’ils filtrent dans la boue tiède.",
-      "ja-JP": "今日は米国いとこの日. ベニイロフラミンゴ, エクアドル. 今日 7 月 24 日は米国いとこの日。兄弟姉妹のようでありながら、友人のような存在でもある「いとこ」という繋がりを祝う日です。そして画像は、エクアドルのガラパゴス諸島に生息するフラミンゴの群れ。彼らは、単独で行動するのではなく、群れをなして集まり、一緒に餌を食べ、仲間と動きを揃えて移動します。直接的な血の繋がりがなくとも「家族」のように繋がっているという、いとこという関係性を思わせる光景です。",
-      "en-IN": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. The celebration originated in the United States, but some countries have adopted it as a fun way to honour family bonds.",
-      "en-US": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure.",
-      "en-CA": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Fittingly, Canadians mark the day alongside their neighbour and, you could say, cousin to the south: the United States. Whether you grew up at the cottage, camping, skating or gathering for a long weekend barbecue, cousins often share some of life's best memories.",
-      "it-IT": "Alle Isole Galápagos, in Ecuador, i fenicotteri americani non si muovono mai da soli: vivono in stormi rumorosi, si nutrono insieme e camminano sincronizzati lungo le rive saline. Il loro inconfondibile rosa acceso non è innato, ma conquistato: nasce da una dieta ricca di alghe e piccoli crostacei, a riprova che l'identità si costruisce giorno per giorno.",
-      "pt-BR": "Antes de existir rede social, os flamingos já dominavam a arte de andar em grupo. Na imagem, estes exemplares das Ilhas Galápagos transformam uma área alagada numa convenção colorida. Raramente estão sozinhos: comem, voam e até descansam juntos, formando grandes concentrações que podem ser vistas a quilômetros de distância.",
-      "zh-CN": "缤纷多彩的一家人. 美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔. 除了引人注目的体色，栖息在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔的美洲红鹳还以其高度同步的求偶仪式而闻名。数百只红鹳会参与一场极具仪式感的“集体舞”，它们整齐划一地行进，并有节奏地左右摆动头部以吸引配偶。这种集体行为确保了整个集群能在同一时间进行繁殖，从而在群岛严酷的火山地貌中最大限度地提高雏鸟的存活率。"
+      "en-GB": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill towards the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+      "fr-FR": "À l’extrême nord‑ouest de l’Espagne, la Galice déploie ses falaises sombres face au golfe de Gascogne. Là, près de Ribadeo, l’océan a sculpté dans la roche ce que l’architecture gothique n’a fait qu’évoquer : des arches immenses, des voûtes ouvertes au ciel, des nefs de pierre traversées par la lumière atlantique. La plage des Cathédrales porte son nom avec une gravité méritée.",
+      "es-ES": "El norte de Galicia guarda uno de los rincones más impresionantes del litoral español: la Playa de las Catedrales, en Ribadeo, donde el Atlántico ha esculpido durante milenios una arquitectura de piedra que rivaliza con cualquier catedral gótica. Con arcos naturales que alcanzan los treinta metros de altura, esta franja de costa transforma el concepto mismo de playa en algo cercano a lo sublime. Solo con la marea baja el mar se retira lo suficiente para revelar este laberinto de bóvedas, columnas y covachas talladas por las olas.",
+      "ja-JP": "スペインのガリシア州は大西洋に面しており、その海岸線には、長い年月をかけて形成された断崖や入り江、波の浸食作用によって削り取られた波食台地が連なっています。そして、今日の画像は、ガリシア州北部に位置するカテドラル・ビーチ（プライア・ダス・カテドライス）の干潮時の姿。高さ 30m を誇る粘板岩と珪岩のアーチが大聖堂（カテドラル）を思わせることが名前の由来です。干潮時という限られた時間帯にのみ、海食によって形成された岩のアーチの間を歩くことができます。",
+      "en-IN": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill towards the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+      "en-US": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets, and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+      "en-CA": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+      "it-IT": "Nel remoto angolo nord-occidentale della Spagna, la Galizia incontra l'Atlantico con forza: scogliere scolpite dal mare, insenature nascoste e formazioni rocciose che emergono solo quando la marea si ritira. La Spiaggia delle Cattedrali, vicino a Ribadeo, deve il suo nome agli archi monumentali modellati dall'oceano nel corso dei millenni — architetture naturali che ricordano le navate di una cattedrale gotica.",
+      "pt-BR": "Na Espanha, existe uma praia em que o principal ponto turístico passa parte do dia submerso. Nossa imagem de hoje mostra um cenário que só existe quando a maré baixa: arcos monumentais, corredores de pedra e grutas moldados pelo Atlântico por incontáveis ciclos de ondas, vento e sal.",
+      "zh-CN": "加境幽廊. 大教堂海滩，加利西亚，西班牙. 在西班牙遥远的西北部，加利西亚与大西洋交汇。漫长的海岸线在海浪的强力冲刷下，形成了由悬崖、内湾和海蚀平台交织而成的地貌。雨水充沛的山丘与密林向海绵延，这种景观带有鲜明的大西洋气候基调，使其在感官上更接近于爱尔兰，而非人们惯常印象中的西班牙南部。"
     },
     "quickFacts": {
-      "en-US": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
-      "en-GB": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
-      "en-CA": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
-      "de-DE": "Kubaflamingos verdanken ihre rosa Färbung den Carotinoiden in ihrer Nahrung. Jungtiere kommen grau zur Welt und entwickeln ihre typische Farbe erst nach und nach.",
-      "fr-FR": "Un groupe de loutres se rassemble en \"romance\", l'un des noms collectifs les plus poétiques du règne animal.",
-      "zh-CN": "红鹳双亲均能分泌“嗉囊乳”来哺育雏鸟，这种营养丰富的物质类似于哺乳动物的乳汁，在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔。",
-      "en-IN": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009."
+      "zh-CN": "除了因酷似教堂的拱门而闻名外，该地标的官方定名为“圣水海滩”，在大教堂海滩，加利西亚，西班牙。"
     },
     "captions": {
-      "en-GB": "National Cousins Day",
-      "de-DE": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
-      "fr-FR": "Flamboyance de flamants roses",
-      "it-IT": "",
-      "ja-JP": "今日は米国いとこの日",
+      "en-GB": "Praia das Catedrais, Galicia, Spain",
+      "fr-FR": "Plage des Cathédrales, Galice, Espagne",
+      "es-ES": "Día de Galicia",
+      "ja-JP": "干潮に現れる奇岩海岸",
       "zh-CN": "",
-      "en-IN": "National Cousins Day"
+      "en-IN": "Praia das Catedrais, Galicia, Spain"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260723_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Kubaflamingo&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Flamant+des+Cara%c3%afbes&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
-      "it-IT": "https://www.bing.com/search?q=fenicotteri+americani&form=hpcapt",
-      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%81%84%e3%81%a8%e3%81%93%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260723_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e6%b4%b2%e7%ba%a2%e9%b9%b3&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260723_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260724_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Galice+Espagne&form=hpcapt&filters=HpDate%3a%2220260724_2200%22",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+de+Galicia&form=hpcapt&filters=HpDate%3a%2220260724_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%86%e3%83%89%e3%83%a9%e3%83%ab%e3%83%bb%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260724_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%8a%a0%e5%88%a9%e8%a5%bf%e4%ba%9a&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260724_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.GalapagosFlamingos_EN-GB4530568313",
-      "de-DE": "/th?id=OHR.GalapagosFlamingos_DE-DE1918476943",
-      "fr-FR": "/th?id=OHR.GalapagosFlamingos_FR-FR0682662624",
-      "it-IT": "/th?id=OHR.GalapagosFlamingos_IT-IT7890055647",
-      "ja-JP": "/th?id=OHR.GalapagosFlamingos_JA-JP2749729014",
-      "zh-CN": "/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387",
-      "en-IN": "/th?id=OHR.GalapagosFlamingos_EN-IN8421031392"
+      "en-GB": "/th?id=OHR.GaliciaBeach_EN-GB4804626985",
+      "fr-FR": "/th?id=OHR.GaliciaBeach_FR-FR6503602591",
+      "es-ES": "/th?id=OHR.GaliciaBeach_ES-ES2298992138",
+      "ja-JP": "/th?id=OHR.GaliciaBeach_JA-JP2958100609",
+      "zh-CN": "/th?id=OHR.GaliciaBeach_ZH-CN1246611659",
+      "en-IN": "/th?id=OHR.GaliciaBeach_EN-IN8935924229"
+    }
+  },
+  "VictoriaBeach": {
+    "name": "VictoriaBeach",
+    "urlbase": "/th?id=OHR.VictoriaBeach_EN-GB5330505184",
+    "date": "20260715",
+    "dateFormatted": "July 15, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
+      "en-US": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
+      "pt-BR": "A arte lenta das marés",
+      "de-DE": "Zwischen zwei Welten. Luftaufnahme von Land und Meer, Victoria, Australien",
+      "fr-FR": "Le pays des rivages mouvants. Vue aérienne des terres et de l'océan, Victoria, Australie",
+      "it-IT": "La terra delle coste in movimento",
+      "es-ES": "La tierra de las orillas móviles. Vista aérea de tierra y océano, Victoria, Australia",
+      "ja-JP": "浜辺に打ち寄せる波",
+      "zh-CN": "陆地与海洋的鸟瞰图",
+      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia"
+    },
+    "copyrights": {
+      "en-GB": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
+      "en-US": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
+      "pt-BR": "Vista aérea da costa de Vitória, Austrália (© Nearmap/Getty Images)",
+      "de-DE": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
+      "fr-FR": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
+      "it-IT": "Veduta aerea di terra e oceano, Victoria, Australia (© Nearmap/Getty Images)",
+      "es-ES": "Vista aérea de tierra y océano, Victoria, Australia (© Nearmap/Getty Images)",
+      "ja-JP": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
+      "zh-CN": "陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)",
+      "en-IN": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)"
+    },
+    "descs": {
+      "en-GB": "Victoria, a southeastern state of Australia, extends along more than 1,100 miles of mainland coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands and seaside towns.",
+      "en-US": "Victoria, a southeastern state of Australia, extends along more than 1,000 miles of coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands, and seaside towns.",
+      "de-DE": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
+      "fr-FR": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
+      "es-ES": "Victoria, en el sureste de Australia, despliega más de 1.800 kilómetros de costa modelada por el océano Antártico, donde playas de arena clara se funden con aguas turquesas y acantilados escarpados. Desde el aire, el paisaje recuerda por momentos a la Costa Brava en Girona, aunque aquí la escala es más salvaje y abierta.",
+      "ja-JP": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
+      "en-IN": "Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
+      "it-IT": "Victoria, stato nel sud-est dell’Australia, si estende lungo oltre 1.800 km di costa modellata dall’Oceano Meridionale: dall’alto, le sue spiagge appaiono come nastri chiari tra acque turchesi e scogliere scolpite. Questo dialogo continuo tra terra e mare ricorda, per intensità e varietà, alcuni tratti della Sardegna o della Costiera Amalfitana, pur con un carattere più selvaggio e ventoso. La celebre Great Ocean Road percorre circa 240 km di litorale, tra spot di surf, promontori boscosi e piccoli centri affacciati sull’oceano.",
+      "pt-BR": "A imagem do dia traz o litoral do estado australiano de Vitória, onde o encontro entre terra e mar está sempre sendo redesenhado. Faixas de areia clara se alternam com água azul intensa e paredões que parecem ter sido recortados com cuidado, em um cenário marcado pela ação contínua do oceano.",
+      "zh-CN": "陆地与海洋的鸟瞰图. 陆地与海洋的鸟瞰图，维多利亚州，澳大利亚. 维多利亚州位于澳大利亚东南部，坐拥由南大洋雕琢而成的绵延千余英里的海岸线。从高空俯瞰，这里的海滩宛如一条条宽阔的浅色沙带，边缘环绕着碧绿的海水与崎岖的峭壁。这种海陆交融的独特景致构成了该地区的主要魅力所在。著名的“大洋路”沿这段海岸线蜿蜒延伸约150英里，途经热门冲浪胜地、林木葱郁的海角以及各具特色的海滨小镇。"
+    },
+    "quickFacts": {
+      "zh-CN": "十二使徒岩一直在发生变化；在2005年发生一次重大坍塌后，最初的石灰岩柱目前仅存八座。"
+    },
+    "captions": {
+      "en-GB": "Aerial view of land and ocean, Victoria, Australia"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260715_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.VictoriaBeach_EN-GB5330505184"
     }
   },
   "GrainSilosSK": {
@@ -2009,36 +2062,36 @@
       "en-CA": "/th?id=OHR.BoneyardBeach_EN-CA4145832513"
     }
   },
-  "SummerBC": {
-    "name": "SummerBC",
-    "urlbase": "/th?id=OHR.SummerBC_EN-CA3026184215",
-    "date": "20260710",
-    "dateFormatted": "July 10, 2026",
+  "PrideBerlin": {
+    "name": "PrideBerlin",
+    "urlbase": "/th?id=OHR.PrideBerlin_DE-DE3369611592",
+    "date": "20260724",
+    "dateFormatted": "July 24, 2026",
     "markets": [
       {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       }
     ],
     "titles": {
-      "en-CA": "Nature's summer showcase. Emerald Lake in Yoho National Park, British Columbia"
+      "de-DE": "Im Zeichen des Regenbogens. CSD Berlin"
     },
     "copyrights": {
-      "en-CA": "Pink wildflowers by Emerald Lake in summer, Yoho National Park, British Columbia (© Olga Matveeva/Getty Images)"
+      "de-DE": "Fernsehturm am Alexanderplatz mit Regenbogen, Berlin (© fhm/Getty Images)"
     },
     "descs": {
-      "en-CA": "Some places are best introduced with one word: Yoho. It is a Cree expression of wonder, which is exactly the reaction most people have. Established in 1886, Yoho National Park protects part of the Canadian Rockies in British Columbia. Visitors can stop at Takakkaw Falls, where water plunges more than 370 metres, or explore the world-famous Burgess Shale fossil sites. These rocks preserve the remains of marine animals that lived more than 500 million years ago."
+      "de-DE": "Ein Regenbogen spannt sich neben dem Berliner Fernsehturm über dem Alexanderplatz und setzt einen farbenfrohen Akzent am Himmel über der deutschen Hauptstadt. Das Motiv passt gut zum Christopher Street Day Berlin, dessen Hauptparade heute durch die Stadt zieht. Der CSD erinnert an die Stonewall-Aufstände von 1969 in New York. Nach einer Polizeirazzia im Stonewall Inn kam es zu mehreren Tagen des Protests, die zu einem Symbol der modernen LSBTIQ*-Bewegung wurden. Aus diesen Ereignissen entwickelte sich eine weltweite Tradition von Pride-Veranstaltungen."
     },
     "quickFacts": {},
     "captions": {
-      "en-CA": "Emerald Lake in Yoho National Park, British Columbia"
+      "de-DE": "CSD Berlin"
     },
     "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Yoho+National+Park&form=hpcapt&filters=HpDate%3a%2220260710_0400%22"
+      "de-DE": "https://www.bing.com/search?q=Berliner+Christopher+Street+Day&form=hpcapt&filters=HpDate%3a%2220260724_2200%22"
     },
     "urlbases": {
-      "en-CA": "/th?id=OHR.SummerBC_EN-CA3026184215"
+      "de-DE": "/th?id=OHR.PrideBerlin_DE-DE3369611592"
     }
   },
   "EibseeSummer": {
@@ -2169,6 +2222,38 @@
       "fr-FR": "/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722"
     }
   },
+  "SardegnaFaro": {
+    "name": "SardegnaFaro",
+    "urlbase": "/th?id=OHR.SardegnaFaro_IT-IT8009785446",
+    "date": "20260724",
+    "dateFormatted": "July 24, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Un unico luogo, un unico scopo"
+    },
+    "copyrights": {
+      "it-IT": "Il Faro Mangiabarche, Sant'Antioco, Sulcis, Sardegna (© Francesco Riccardo Iacomino/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Il Faro Mangiabarche si erge su uno scoglio solitario davanti a Sant'Antioco, nel Sulcis, in Sardegna — un presidio di luce in mezzo al Mediterraneo che per secoli ha guidato i marinai lontano dalle insidie degli scogli. Il nome, evocativo e inquietante, racconta da solo la storia di queste acque: \"mangia barche\", perché qui il mare non perdona."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Il+Faro+Mangiabarche%2c+Sant%27Antioco%2c+Sulcis%2c+Sardegna&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.SardegnaFaro_IT-IT8009785446"
+    }
+  },
   "FestaVenezia": {
     "name": "FestaVenezia",
     "urlbase": "/th?id=OHR.FestaVenezia_IT-IT8709585056",
@@ -2199,38 +2284,6 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.FestaVenezia_IT-IT8709585056"
-    }
-  },
-  "IsolaBella": {
-    "name": "IsolaBella",
-    "urlbase": "/th?id=OHR.IsolaBella_IT-IT9517303219",
-    "date": "20260710",
-    "dateFormatted": "July 10, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "Il luogo perfetto per riposarsi"
-    },
-    "copyrights": {
-      "it-IT": "Veduta aerea di Isola Bella a Taormina, Sicilia, Italia (© DaLiu/iStock/Getty Images)"
-    },
-    "descs": {
-      "it-IT": "Isola Bella a Taormina, Sicilia, sorprende al primo sguardo: un minuscolo gioiello immerso nel blu del Mar Ionio, collegato alla costa da una sottile lingua di sabbia che appare e scompare con le maree."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Taormina+Sicilia&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.IsolaBella_IT-IT9517303219"
     }
   },
   "ChicagoTiffany": {
@@ -2513,6 +2566,70 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.RathYatra2026_EN-IN7824400350"
+    }
+  },
+  "SummerBC": {
+    "name": "SummerBC",
+    "urlbase": "/th?id=OHR.SummerBC_EN-CA3026184215",
+    "date": "20260710",
+    "dateFormatted": "July 10, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Nature's summer showcase. Emerald Lake in Yoho National Park, British Columbia"
+    },
+    "copyrights": {
+      "en-CA": "Pink wildflowers by Emerald Lake in summer, Yoho National Park, British Columbia (© Olga Matveeva/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Some places are best introduced with one word: Yoho. It is a Cree expression of wonder, which is exactly the reaction most people have. Established in 1886, Yoho National Park protects part of the Canadian Rockies in British Columbia. Visitors can stop at Takakkaw Falls, where water plunges more than 370 metres, or explore the world-famous Burgess Shale fossil sites. These rocks preserve the remains of marine animals that lived more than 500 million years ago."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "Emerald Lake in Yoho National Park, British Columbia"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Yoho+National+Park&form=hpcapt&filters=HpDate%3a%2220260710_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.SummerBC_EN-CA3026184215"
+    }
+  },
+  "IsolaBella": {
+    "name": "IsolaBella",
+    "urlbase": "/th?id=OHR.IsolaBella_IT-IT9517303219",
+    "date": "20260710",
+    "dateFormatted": "July 10, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Il luogo perfetto per riposarsi"
+    },
+    "copyrights": {
+      "it-IT": "Veduta aerea di Isola Bella a Taormina, Sicilia, Italia (© DaLiu/iStock/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Isola Bella a Taormina, Sicilia, sorprende al primo sguardo: un minuscolo gioiello immerso nel blu del Mar Ionio, collegato alla costa da una sottile lingua di sabbia che appare e scompare con le maree."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Taormina+Sicilia&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.IsolaBella_IT-IT9517303219"
     }
   },
   "SapaVietnam": {
