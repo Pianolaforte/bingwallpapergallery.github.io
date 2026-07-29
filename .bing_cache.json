@@ -1,4 +1,137 @@
 {
+  "ChannelKelp": {
+    "name": "ChannelKelp",
+    "urlbase": "/th?id=OHR.ChannelKelp_EN-US3809417919",
+    "date": "20260728",
+    "dateFormatted": "July 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A balance in motion. World Nature Conservation Day",
+      "en-GB": "A balance in motion. World Nature Conservation Day",
+      "en-CA": "A balance in motion. World Nature Conservation Day",
+      "de-DE": "Ein Gleichgewicht in Bewegung. Welttag des Naturschutzes",
+      "fr-FR": "Équilibre en mouvement. Journée mondiale de la conservation de la nature",
+      "it-IT": "Un equilibrio in movimento",
+      "es-ES": "Un equilibrio en movimiento. Día Mundial de la Conservación de la Naturaleza",
+      "pt-BR": "A floresta que dança sob as ondas",
+      "zh-CN": "生机律动，恒久之衡",
+      "en-IN": "A balance in motion. World Nature Conservation Day"
+    },
+    "copyrights": {
+      "en-US": "A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)",
+      "en-GB": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
+      "en-CA": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
+      "de-DE": "Ein Seetangwald vor Anacapa Island, Channel Islands National Park, Kalifornien, USA (© Ian Shive/Tandem Stills + Motion)",
+      "fr-FR": "Une forêt de varech au large d'Anacapa Island, Parc national des Channel Islands, Californie, États-Unis (© Ian Shive/Tandem Stills + Motion)",
+      "it-IT": "Una foresta di alghe al largo dell'isola di Anacapa, Parco Nazionale delle Isole del Canale, California, USA (© Ian Shive/Tandem Stills + Motion)",
+      "es-ES": "Un bosque de algas cerca de la isla Anacapa, Parque Nacional de las Islas del Canal, California, EE. UU.  (© Ian Shive/Tandem Stills + Motion)",
+      "pt-BR": "Floresta de kelp perto da Ilha Anacapa, Parque Nacional das Ilhas do Canal, Califórnia, Estados Unidos (© Ian Shive/Tandem Stills + Motion)",
+      "zh-CN": "一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)",
+      "en-IN": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)"
+    },
+    "descs": {
+      "en-US": "Off Anacapa Island, California, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 100 feet in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
+      "en-GB": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
+      "en-CA": "Off Anacapa Island, California in the United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by root-like holdfasts.",
+      "de-DE": "Am 28. Juli lenkt der Welttag des Naturschutzes die Aufmerksamkeit auf Lebensräume, die oft verborgen bleiben. Dazu gehören die Seetangwälder vor Anacapa Island im Channel Islands National Park in Kalifornien. Die Region wird wegen ihrer außergewöhnlichen Artenvielfalt häufig als „Galápagos Nordamerikas“ bezeichnet. Riesentang kann hier über 30 Meter lang werden und unter günstigen Bedingungen täglich bis zu 60 Zentimeter wachsen. Seine dichten Bestände reichen von der Wasseroberfläche bis zum Meeresboden und schaffen einen Lebensraum für zahlreiche Tiere und Pflanzen.",
+      "fr-FR": "Au large d'Anacapa Island, dans le parc national des Channel Islands, aux États-Unis, la lumière californienne se fragmente sous la surface en milliers d'éclats verts et dorés. La mer a sculpté ses propres cathédrales : des forêts de varech géant s'élevant à plus de trente mètres du fond, leurs frondes ondulant comme des rubans de soie, maintenues en surface par de petits flotteurs remplis d'air.",
+      "es-ES": "Frente a la isla Anacapa, en el Parque Nacional Islas del Canal de California, el océano alberga uno de los ecosistemas más espectaculares del planeta: los bosques de algas gigantes. El kelp puede superar los 30 metros de altura, formando imponentes columnas que la luz solar atraviesa como si fueran vidrieras naturales.",
+      "en-IN": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
+      "it-IT": "Al largo dell'isola di Anacapa, in California, l'oceano ha costruito le proprie foreste. Nelle acque del Parco Nazionale delle Isole del Canale — soprannominato le \"Galápagos del Nord America\" — le alghe giganti si estendono per oltre trenta metri in lunghezza, formando nastri ondeggianti sostenuti da vesciche d'aria e ancorati al fondale da strutture simili a radici.",
+      "pt-BR": "Quem imagina uma floresta costuma pensar em troncos, folhas e canto de pássaros. Mas perto da Ilha Anacapa, na Califórnia, a imagem revela uma versão completamente diferente. Sob a superfície, algas-gigantes conhecidas como kelps formam uma floresta vertical capaz de crescer mais de 60 centímetros por dia e passar dos 30 metros de altura. Cheias de pequenas bolsas de ar, elas sobem em direção à luz enquanto permanecem ancoradas ao fundo do mar.",
+      "zh-CN": "生机律动，恒久之衡. 一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国. 在美国加利福尼亚州，海峡群岛国家公园，安纳卡帕岛附近，海洋孕育着属于自己的森林。在被称为“北美洲加拉帕戈斯”的海峡群岛国家公园内，巨藻的长度可超过 100 英尺，它们通过充满空气的气囊在水中形成具有浮力的丝带，并由底部的根状固着器锚定在海床之上。"
+    },
+    "quickFacts": {
+      "zh-CN": "海獭是此处的关键种；通过捕食海胆，它们能防止海藻林被过度啃食，在安纳卡帕岛附近，海峡群岛国家公园，美国。"
+    },
+    "captions": {
+      "en-US": "World Nature Conservation Day",
+      "en-GB": "World Nature Conservation Day",
+      "en-CA": "World Nature Conservation Day",
+      "de-DE": "Welttag des Naturschutzes",
+      "fr-FR": "Journée mondiale de la conservation de la nature",
+      "it-IT": "",
+      "es-ES": "Día Mundial de la Conservación de la Naturaleza",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "World Nature Conservation Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260728_0700%22",
+      "en-GB": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260727_2300%22",
+      "en-CA": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260728_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Welttag+des+Naturschutzes&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Conservation+de+la+nature&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Mondiale+per+la+Conservazione+della+Natura&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+la+Conservaci%c3%b3n+de+la+Naturaleza&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+da+Conserva%c3%a7%c3%a3o+da+Natureza&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e8%87%aa%e7%84%b6%e4%bf%9d%e6%8a%a4%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260727_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ChannelKelp_EN-US3809417919",
+      "en-GB": "/th?id=OHR.ChannelKelp_EN-GB5530574227",
+      "en-CA": "/th?id=OHR.ChannelKelp_EN-CA9531487501",
+      "de-DE": "/th?id=OHR.ChannelKelp_DE-DE2528098746",
+      "fr-FR": "/th?id=OHR.ChannelKelp_FR-FR7114923921",
+      "it-IT": "/th?id=OHR.ChannelKelp_IT-IT8356704681",
+      "es-ES": "/th?id=OHR.ChannelKelp_ES-ES2666922160",
+      "pt-BR": "/th?id=OHR.ChannelKelp_PT-BR8544444735",
+      "zh-CN": "/th?id=OHR.ChannelKelp_ZH-CN8732903732",
+      "en-IN": "/th?id=OHR.ChannelKelp_EN-IN9944710575"
+    }
+  },
   "ChicagoTiffany": {
     "name": "ChicagoTiffany",
     "urlbase": "/th?id=OHR.ChicagoTiffany_EN-US3297949501",
@@ -882,7 +1015,8 @@
       "it-IT": "Senza entrare in strada",
       "pt-BR": "Um portal para outra época",
       "zh-CN": "拱影寻踪",
-      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala"
+      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "es-ES": "Pasadizo a plena luz. Arco de Santa Catalina, Antigua Guatemala, Guatemala"
     },
     "copyrights": {
       "en-US": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
@@ -893,7 +1027,8 @@
       "it-IT": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "pt-BR": "Arco de Santa Catalina, Antígua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "zh-CN": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
-      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
+      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "es-ES": "© Filippo Maria Bianchi/Getty Images"
     },
     "descs": {
       "en-US": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
@@ -904,7 +1039,8 @@
       "en-IN": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
       "it-IT": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
       "pt-BR": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
-      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。"
+      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。",
+      "es-ES": "El Arco de Santa Catalina, en Antigua Guatemala, no fue concebido para deslumbrar a nadie: nació en 1693 como solución discreta a un dilema conventual. Las monjas de clausura necesitaban cruzar la calle para pasar de un edificio a otro sin ser vistas desde el exterior, y este puente cubierto fue la respuesta. La privacidad, no el espectáculo, creó uno de los monumentos coloniales más fotografiados de Centroamérica. La ironía tiene buena memoria."
     },
     "quickFacts": {
       "zh-CN": "这座标志性的法制时钟于19世纪30年代被增设，至今仍需每三天人工手动上弦一次，在圣卡塔琳娜拱门，安提瓜，危地马拉。"
@@ -1601,19 +1737,80 @@
         "flag": "us"
       },
       {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California",
+      "en-CA": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California, USA",
+      "en-GB": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States",
+      "de-DE": "Die Belohnung nach der Wanderung. Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA",
+      "it-IT": "La ricompensa dopo la scalata",
+      "es-ES": "La recompensa tras la subida. Marie Lake, Área silvestre John Muir, California, EE. UU.",
+      "ja-JP": "山々に囲まれた湖",
+      "zh-CN": "攀登后的奖励",
+      "en-IN": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States"
+    },
+    "copyrights": {
+      "en-US": "Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)",
+      "en-CA": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+      "en-GB": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+      "de-DE": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA (© Steve Dunleavy/Getty Images)",
+      "it-IT": "Marie Lake, Area selvaggia John Muir vicino a Bishop, California, USA (© Steve Dunleavy/Getty Images)",
+      "es-ES": "Marie Lake, Área silvestre John Muir cerca de Bishop, California, EE. UU. (© Steve Dunleavy/Getty Images)",
+      "ja-JP": "マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)",
+      "zh-CN": "玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)",
+      "en-IN": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)"
+    },
+    "descs": {
+      "en-US": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes, and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "en-CA": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,630 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "en-GB": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres (263,000 hectares) of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "de-DE": "Die John Muir Wilderness in der Nähe von Bishop in Kalifornien, USA, zählt zu den eindrucksvollsten Hochgebirgslandschaften der Sierra Nevada. Das 1964 eingerichtete Schutzgebiet erstreckt sich über eine weite, nahezu unberührte Region mit Granitformationen, klaren Seen und alpinen Tälern. Berühmte Fernwanderwege führen durch dieses Gebiet und ziehen Naturbegeisterte aus aller Welt an. Inmitten dieser Landschaft liegt der Marie Lake auf etwa 3.215 Metern Höhe, eingebettet zwischen Felsen und lichten Wäldern. Sein klares Wasser spiegelt die umliegenden Berge und macht ihn zu einem eindrucksvollen Ziel nach einem langen Aufstieg.",
+      "es-ES": "En el área silvestre John Muir, cerca de Bishop, en California, Estados Unidos, las montañas cuentan una historia grabada en granito, lagos y valles moldeados durante millones de años. Este espacio protegido, creado en 1964, forma parte de la Sierra Nevada estadounidense y recuerda, por su altitud y paisaje alpino, a grandes macizos de alta montaña en España, como los Pirineos, donde la naturaleza también marca el ritmo.",
+      "ja-JP": "ジョン・ミュア・ウィルダネスは、1964 年に設立された約 2600km² の面積を誇る広大な原生自然の保護区域です。米国カリフォルニア州のシエラネバダ山脈中央部に位置しています。4000m を超える山々が連なる米国最大級の高地原生地域の一つであり、多くのハイカーを惹きつけています。そして、今日の画像は、保護区域内の標高約 3200m に位置するマリー・レイク。静かな高山湖として、バックパッカーに人気の撮影スポットです。",
+      "en-IN": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,600 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "it-IT": "Nell'Area selvaggia John Muir, vicino a Bishop, in California, la montagna racconta milioni di anni di storia attraverso valli, laghi e imponenti formazioni granitiche. Istituita nel 1964, questa vasta zona protetta si estende per oltre 263.000 ettari nella Sierra Nevada. Sentieri iconici come il Pacific Crest Trail attraversano questi paesaggi d'alta quota, offrendo un'esperienza che, per isolamento e natura intatta, può ricordare le aree più remote del Parco Nazionale dello Stelvio.",
+      "zh-CN": "攀登后的奖励. 玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国. 如果山脉能够记录过去，那么位于加利福尼亚州毕晓普附近的约翰·缪尔荒野保护区将拥有丰富的历史资料可供分享。这里的山谷、湖泊和花岗岩地貌诉说着数百万年来的演变历程。这片广袤的保护区成立于1964年，横跨内华达山脉超过65万英亩的土地，并以博物学家约翰·缪尔的名字命名。如今，太平洋山脊步道和约翰·缪尔步道的部分路段穿过这里，吸引着徒步旅行者来到美国本土最大的高海拔荒野地区之一。"
+    },
+    "quickFacts": {
+      "zh-CN": "约翰·缪尔荒野包含阿拉斯加州以外美国本土的一些最高山峰，其中包括惠特尼峰，它是美国本土最高的山脉，海拔达14,505英尺（约 4,421 米）。"
+    },
+    "captions": {
+      "en-US": "Marie Lake, John Muir Wilderness near Bishop, California",
+      "en-CA": "Marie Lake, John Muir Wilderness near Bishop, California, USA"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0700%22",
+      "en-CA": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MarieLake_EN-US0365186943",
+      "en-CA": "/th?id=OHR.MarieLake_EN-CA6168691994"
+    }
+  },
+  "TigerFamily": {
+    "name": "TigerFamily",
+    "urlbase": "/th?id=OHR.TigerFamily_EN-GB5813190934",
+    "date": "20260728",
+    "dateFormatted": "July 28, 2026",
+    "markets": [
+      {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
       },
       {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
       },
       {
         "code": "it-IT",
@@ -1634,284 +1831,73 @@
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
-      "en-US": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California",
-      "en-GB": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States",
-      "en-CA": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California, USA",
-      "de-DE": "Die Belohnung nach der Wanderung. Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA",
-      "it-IT": "La ricompensa dopo la scalata",
-      "es-ES": "La recompensa tras la subida. Marie Lake, Área silvestre John Muir, California, EE. UU.",
-      "ja-JP": "山々に囲まれた湖",
-      "zh-CN": "攀登后的奖励",
-      "en-IN": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States"
+      "en-GB": "A comeback with claws. International Tiger Day",
+      "de-DE": "Ein Comeback mit Krallen. Internationaler Tag des Tigers",
+      "fr-FR": "Un retour en force. Journée mondiale du tigre",
+      "it-IT": "Sulle tracce della tigre",
+      "es-ES": "Unos felinos más grandes. Día Internacional del Tigre",
+      "ja-JP": "今日は世界トラの日",
+      "zh-CN": "虎啸归来，锐爪重临",
+      "en-US": "A comeback with claws. A family of Bengal tigers at Ranthambore National Park, Rajasthan, India",
+      "en-CA": "A comeback with claws. A family of Bengal tigers at Ranthambore National Park, Rajasthan, India",
+      "pt-BR": "Uma floresta que voltou a rugir. Família de tigres-de-bengala no Parque Nacional de Ranthambore, Rajastão, Índia"
     },
     "copyrights": {
-      "en-US": "Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)",
-      "en-GB": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
-      "en-CA": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
-      "de-DE": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA (© Steve Dunleavy/Getty Images)",
-      "it-IT": "Marie Lake, Area selvaggia John Muir vicino a Bishop, California, USA (© Steve Dunleavy/Getty Images)",
-      "es-ES": "Marie Lake, Área silvestre John Muir cerca de Bishop, California, EE. UU. (© Steve Dunleavy/Getty Images)",
-      "ja-JP": "マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)",
-      "zh-CN": "玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)",
-      "en-IN": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)"
+      "en-GB": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "de-DE": "Eine Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan, Indien (© Archna Singh/Shutterstock)",
+      "fr-FR": "Une famille de tigres du Bengale au parc national de Ranthambore, Rajasthan, Inde (© Archna Singh/Shutterstock)",
+      "it-IT": "Una famiglia di tigri del Bengala al Parco Nazionale di Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "es-ES": "Una familia de tigres de Bengala en el Parque Nacional de Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "ja-JP": "ベンガルトラの家族, インド (© Archna Singh/Shutterstock)",
+      "zh-CN": "孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)",
+      "en-US": "© Archna Singh/Shutterstock",
+      "en-CA": "© Archna Singh/Shutterstock",
+      "pt-BR": "© Archna Singh/Shutterstock"
     },
     "descs": {
-      "en-US": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes, and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-      "en-GB": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres (263,000 hectares) of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-      "en-CA": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,630 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-      "de-DE": "Die John Muir Wilderness in der Nähe von Bishop in Kalifornien, USA, zählt zu den eindrucksvollsten Hochgebirgslandschaften der Sierra Nevada. Das 1964 eingerichtete Schutzgebiet erstreckt sich über eine weite, nahezu unberührte Region mit Granitformationen, klaren Seen und alpinen Tälern. Berühmte Fernwanderwege führen durch dieses Gebiet und ziehen Naturbegeisterte aus aller Welt an. Inmitten dieser Landschaft liegt der Marie Lake auf etwa 3.215 Metern Höhe, eingebettet zwischen Felsen und lichten Wäldern. Sein klares Wasser spiegelt die umliegenden Berge und macht ihn zu einem eindrucksvollen Ziel nach einem langen Aufstieg.",
-      "es-ES": "En el área silvestre John Muir, cerca de Bishop, en California, Estados Unidos, las montañas cuentan una historia grabada en granito, lagos y valles moldeados durante millones de años. Este espacio protegido, creado en 1964, forma parte de la Sierra Nevada estadounidense y recuerda, por su altitud y paisaje alpino, a grandes macizos de alta montaña en España, como los Pirineos, donde la naturaleza también marca el ritmo.",
-      "ja-JP": "ジョン・ミュア・ウィルダネスは、1964 年に設立された約 2600km² の面積を誇る広大な原生自然の保護区域です。米国カリフォルニア州のシエラネバダ山脈中央部に位置しています。4000m を超える山々が連なる米国最大級の高地原生地域の一つであり、多くのハイカーを惹きつけています。そして、今日の画像は、保護区域内の標高約 3200m に位置するマリー・レイク。静かな高山湖として、バックパッカーに人気の撮影スポットです。",
-      "en-IN": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,600 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-      "it-IT": "Nell'Area selvaggia John Muir, vicino a Bishop, in California, la montagna racconta milioni di anni di storia attraverso valli, laghi e imponenti formazioni granitiche. Istituita nel 1964, questa vasta zona protetta si estende per oltre 263.000 ettari nella Sierra Nevada. Sentieri iconici come il Pacific Crest Trail attraversano questi paesaggi d'alta quota, offrendo un'esperienza che, per isolamento e natura intatta, può ricordare le aree più remote del Parco Nazionale dello Stelvio.",
-      "zh-CN": "攀登后的奖励. 玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国. 如果山脉能够记录过去，那么位于加利福尼亚州毕晓普附近的约翰·缪尔荒野保护区将拥有丰富的历史资料可供分享。这里的山谷、湖泊和花岗岩地貌诉说着数百万年来的演变历程。这片广袤的保护区成立于1964年，横跨内华达山脉超过65万英亩的土地，并以博物学家约翰·缪尔的名字命名。如今，太平洋山脊步道和约翰·缪尔步道的部分路段穿过这里，吸引着徒步旅行者来到美国本土最大的高海拔荒野地区之一。"
+      "en-GB": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 230 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "de-DE": "Am Internationalen Tag des Tigers steht diese Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan im Mittelpunkt. Die mächtigen Raubkatzen gehören zu den bekanntesten Bewohnern Indiens und faszinieren durch ihre Kombination aus Kraft und Eleganz. Ein ausgewachsener Tiger kann von der Nase bis zur Schwanzspitze mehr als drei Meter lang werden und rund 230 Kilogramm wiegen. Trotz ihrer Größe bewegen sich die Tiere erstaunlich lautlos durch Wälder und Graslandschaften. Ihr charakteristisches Streifenmuster dient nicht nur der Wiedererkennung, sondern auch der Tarnung, da es die Körperkonturen im wechselnden Licht der Vegetation auflöst.",
+      "fr-FR": "Dans la lumière dorée du matin, une famille de tigres du Bengale traverse la forêt sèche du parc national de Ranthambore, en Inde, avec une assurance tranquille. L'adulte — long de plus de trois mètres et fort de 250 kilos de puissance silencieuse — pose chaque patte sans un bruit. Ses rayures, uniques comme des empreintes digitales, se fondent dans les ombres mouvantes des acacias et des dhok, arbres emblématiques du Rajasthan.",
+      "es-ES": "En el Día Internacional del Tigre, una familia de tigres de Bengala recorre el Parque Nacional de Ranthambore, en Rajastán, India, con la calma soberana de quien sabe que no tiene rival. Son animales diseñados para la perfección: un adulto puede superar los tres metros de longitud y pesar más de 225 kilogramos, pero se mueve entre la vegetación sin emitir el menor sonido. Sus rayas no son solo un rasgo estético; son una herramienta de supervivencia que desorienta a las presas en un entorno donde ver y no ser visto lo es todo.",
+      "ja-JP": "今日 7 月 29 日は世界トラの日。トラの保全を呼びかける国際記念日です。20 世紀初めには、野生のトラは約 10 万頭いると推定されていましたが、環境破壊や密猟などにより、2010 年時点では約 3,000 頭にまで激減しました。その後、各国でのさまざまな保全活動により一部個体数は回復したものの、世界全体での生息数は未だ 6,000 頭程度と推定されています。画像は、インドのランタンボール国立公園に姿を現したベンガルトラの家族。 かつて王族の狩猟地であったこの公園は、1974 年にトラの保護区へと変わりました。",
+      "en-US": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 10 feet from nose to tail and weigh around 500 pounds, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "en-CA": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 227 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "it-IT": "Nella Giornata Internazionale della Tigre, questa famiglia si muove con sicurezza nel Parco Nazionale di Ranthambore, in Rajasthan, India. Sono tigri del Bengala: un esemplare adulto può superare i tre metri di lunghezza dalla testa alla coda e pesare oltre 200 kg, eppure cammina nel silenzio più assoluto. Le strisce non sono solo decorative — confondono la preda in un paesaggio dove la visibilità è un'arma a doppio taglio.",
+      "pt-BR": "A natureza adora um bom paradoxo: o maior felino da Índia veste listras marcantes justamente para passar despercebido. Na imagem, uma família de tigres-de-bengala percorre o Parque Nacional de Ranthambore com a tranquilidade de quem não precisa provar nada. O padrão da pelagem embaralha a silhueta entre a vegetação, transformando um animal que pode passar de 280 quilos num fantasma surpreendentemente eficiente.",
+      "zh-CN": "虎啸归来，锐爪重临. 孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度. 在全球老虎日这一天，这群孟加拉虎迈着自信的步伐走过印度，拉贾斯坦邦，兰坦博尔国家公园，展现出顶级掠食者对自身在食物链中地位的精准认知。孟加拉虎兼具隐蔽性与力量：成年个体的体长从鼻尖到尾端可超过10英尺，体重约500磅，行走时却能悄无声息。在视觉可见度是一把“双刃剑”的自然生境中，它们的斑纹发挥了关键作用，通过复杂的图案模式在环境中进行伪装，使猎物难以辨识其身形。"
     },
     "quickFacts": {
-      "zh-CN": "约翰·缪尔荒野包含阿拉斯加州以外美国本土的一些最高山峰，其中包括惠特尼峰，它是美国本土最高的山脉，海拔达14,505英尺（约 4,421 米）。"
+      "zh-CN": "老虎是卓越的游泳者，经常通过泡水来降温，这在大多数猫科动物中极为罕见，在兰坦博尔国家公园，拉贾斯坦邦，印度。"
     },
     "captions": {
-      "en-US": "Marie Lake, John Muir Wilderness near Bishop, California",
-      "en-GB": "Marie Lake, John Muir Wilderness, California, United States",
-      "en-CA": "Marie Lake, John Muir Wilderness near Bishop, California, USA",
-      "de-DE": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA",
+      "en-GB": "International Tiger Day",
+      "de-DE": "Internationaler Tag des Tigers",
+      "fr-FR": "Journée mondiale du tigre",
       "it-IT": "",
-      "es-ES": "Marie Lake, Área silvestre John Muir, California, EE. UU.",
-      "ja-JP": "山々に囲まれた湖",
-      "zh-CN": "",
-      "en-IN": "Marie Lake, John Muir Wilderness, California, United States"
+      "es-ES": "Día Internacional del Tigre",
+      "ja-JP": "今日は世界トラの日",
+      "zh-CN": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0700%22",
-      "en-GB": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260714_2300%22",
-      "en-CA": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0400%22",
-      "de-DE": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Area+selvaggia+John+Muir&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=%c3%81rea+silvestre+John+Muir&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%bb%e3%83%9f%e3%83%a5%e3%82%a2%e3%83%bb%e3%82%a6%e3%82%a3%e3%83%ab%e3%83%80%e3%83%8d%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220260714_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%ba%a6%e7%bf%b0%c2%b7%e7%bc%aa%e5%b0%94%e8%8d%92%e9%87%8e&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260714_1830%22"
+      "en-GB": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260728_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Tigers&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+della+Tigre&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e3%83%88%e3%83%a9%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260728_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%85%a8%e7%90%83%e8%80%81%e8%99%8e%e6%97%a5&form=hpcapt&mkt=zh-cn"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.MarieLake_EN-US0365186943",
-      "en-GB": "/th?id=OHR.MarieLake_EN-GB7432567016",
-      "en-CA": "/th?id=OHR.MarieLake_EN-CA6168691994",
-      "de-DE": "/th?id=OHR.MarieLake_DE-DE6487639165",
-      "it-IT": "/th?id=OHR.MarieLake_IT-IT8390636002",
-      "es-ES": "/th?id=OHR.MarieLake_ES-ES0302365880",
-      "ja-JP": "/th?id=OHR.MarieLake_JA-JP9898730602",
-      "zh-CN": "/th?id=OHR.MarieLake_ZH-CN4927917413",
-      "en-IN": "/th?id=OHR.MarieLake_EN-IN7488025421"
-    }
-  },
-  "LemonShark": {
-    "name": "LemonShark",
-    "urlbase": "/th?id=OHR.LemonShark_EN-US9828936448",
-    "date": "20260714",
-    "dateFormatted": "July 14, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Fin-tastic truths. Shark Awareness Day",
-      "en-CA": "Fin-tastic truths. Shark Awareness Day",
-      "fr-FR": "Des racines et des zestes. Requin-citron dans la mangrove",
-      "pt-BR": "O mar em modo incubadora",
-      "en-GB": "Fin-tastic truths. Shark Awareness Day",
-      "de-DE": "Könige der Meere. Tag der Haie",
-      "it-IT": "Cerco limoni",
-      "es-ES": "En busca de “Limonada”. Día Mundial de los Tiburones",
-      "ja-JP": "今日はサメ啓発の日",
-      "zh-CN": "奇妙的真相",
-      "en-IN": "Fin-tastic truths. Shark Awareness Day"
-    },
-    "copyrights": {
-      "en-US": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "en-CA": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "fr-FR": "Jeune requin-citron dans la mangrove, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "pt-BR": "Filhote de tubarão-limão em floresta de mangue, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "en-GB": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "de-DE": "Zitronenhai-Jungtier im Mangrovenwald, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "it-IT": "Cucciolo di squalo limone nella foresta di mangrovie, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "es-ES": "Tiburón limón en bosque de manglares, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-      "ja-JP": "レモンザメの幼魚, バハマ (© Shane Gross/Nature Picture Library)",
-      "zh-CN": "柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)",
-      "en-IN": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)"
-    },
-    "descs": {
-      "en-US": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
-      "en-CA": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
-      "fr-FR": "Dans les eaux peu profondes d’Eleuthera, aux Bahamas, un jeune requin-citron glisse entre les racines entrelacées des mangroves. Ici, la lumière danse à la surface tandis que l’eau tiède filtre doucement entre ces arbres étonnants, dont les racines offrent un refuge à d’innombrables poissons, crustacés et juvéniles marins.",
-      "en-GB": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
-      "de-DE": "Am 14. Juli wird weltweit der Tag der Haie gefeiert. Dieser Tag soll das Bild dieser Tiere verändern und Wissen vermitteln. Haie durchstreifen die Meere seit mehr als 420 Millionen Jahren und gehören zu den ältesten Bewohnern unseres Planeten. Dieser Tag rückt Wissen, Faszination und die Bedeutung dieser Tiere für gesunde Meere in den Mittelpunkt.",
-      "es-ES": "En Eleuthera, en las Bahamas, un pequeño tiburón limón se desliza entre manglares y nos invita a redescubrir el mar con otros ojos en el Día Mundial de los Tiburones, celebrado el catorce de julio. Lejos de la imagen alarmista, estos animales patrullan los océanos desde hace más de 420 millones de años, desempeñando un papel clave en el equilibrio de los ecosistemas marinos.",
-      "ja-JP": "今日 7 月 14 日はサメ啓発の日。サメは 4 億年以上前から存在しているといわれており、頂点捕食者として海洋生態系のバランスを保つ重要な役割を果たしています。そういったサメについての知識を広め、映画などによって植え付けられたイメージを払拭するとともに、保護について考えるための日です。そして、今日の画像は、バハマのエレウテラ島のマングローブ林を泳ぐレモンザメの幼魚。幼いうちは天敵も多いため、マングローブ林にとどまり、大型の捕食者から身を守ります。しかし、繁殖力の低さに加え、乱獲や環境破壊などによって個体数が減少しており、危急種 (VU) に指定されています。",
-      "en-IN": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
-      "it-IT": "Il cucciolo di squalo limone che nuota tra le mangrovie di Eleuthera, alle Bahamas, racconta un lato inaspettato dell’oceano: quello della crescita e della fragilità. Lontano dall’immaginario dominante, questi piccoli predatori iniziano la vita in acque basse e tranquille, dove trovano riparo e condizioni ideali per svilupparsi.",
-      "pt-BR": "Na ilha de Eleuthera, nas Bahamas, este pequeno tubarão-limão testa o mundo pela primeira vez, protegido por labirintos de raízes submersas. A espécie ocorre ao longo do Atlântico ocidental, do Caribe à América do Sul, em áreas como recifes de coral, manguezais, baías e desembocaduras de rios. No Brasil, alguns dos principais berçários conhecidos ficam em áreas oceânicas como Fernando de Noronha e o Atol das Rocas, onde filhotes encontram águas rasas que funcionam como refúgios naturais. Ali, ganham tempo para crescer antes de encarar mar aberto.",
-      "zh-CN": "奇妙的真相. 柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马. 7月14日是世界鲨鱼日，它呼吁我们用海洋的真实面貌取代电影中的恐慌。鲨鱼已经在海洋中遨游了超过4.2亿年，作为顶级掠食者，它们有助于维持海洋生态系统的平衡。"
-    },
-    "quickFacts": {
-      "en-US": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
-      "en-GB": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
-      "en-CA": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
-      "de-DE": "Der Grönlandhai kann bis zu 400 Jahre alt werden und gehört damit zu den langlebigsten Wirbeltieren überhaupt.",
-      "fr-FR": "Le requin-citron naît indépendant, capable de chasser seul dès sa sortie du ventre.",
-      "zh-CN": "格陵兰鲨的寿命可达400年，是脊椎动物中寿命最长的物种之一。",
-      "en-IN": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate."
-    },
-    "captions": {
-      "en-US": "Shark Awareness Day",
-      "en-CA": "Shark Awareness Day",
-      "fr-FR": "Requin-citron dans la mangrove",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260714_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260714_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=Requin+citron&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+da+Conscientizacao+sobre+Tubaroes&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.LemonShark_EN-US9828936448",
-      "en-CA": "/th?id=OHR.LemonShark_EN-CA1838897902",
-      "fr-FR": "/th?id=OHR.LemonShark_FR-FR4291742004",
-      "pt-BR": "/th?id=OHR.LemonShark_PT-BR3191818241"
-    }
-  },
-  "ChannelKelp": {
-    "name": "ChannelKelp",
-    "urlbase": "/th?id=OHR.ChannelKelp_EN-GB5530574227",
-    "date": "20260727",
-    "dateFormatted": "July 27, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "A balance in motion. World Nature Conservation Day",
-      "de-DE": "Ein Gleichgewicht in Bewegung. Welttag des Naturschutzes",
-      "fr-FR": "Équilibre en mouvement. Journée mondiale de la conservation de la nature",
-      "it-IT": "Un equilibrio in movimento",
-      "es-ES": "Un equilibrio en movimiento. Día Mundial de la Conservación de la Naturaleza",
-      "zh-CN": "生机律动，恒久之衡",
-      "en-IN": "A balance in motion. World Nature Conservation Day",
-      "en-US": "A balance in motion. A kelp forest off Anacapa Island, Channel Islands National Park, California",
-      "en-CA": "A balance in motion. A kelp forest off Anacapa Island, Channel Islands National Park, California, United States",
-      "pt-BR": "A floresta que dança sob as ondas. Floresta de kelp perto da Ilha Anacapa, Parque Nacional das Ilhas do Canal, Califórnia, Estados Unidos"
-    },
-    "copyrights": {
-      "en-GB": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
-      "de-DE": "Ein Seetangwald vor Anacapa Island, Channel Islands National Park, Kalifornien, USA (© Ian Shive/Tandem Stills + Motion)",
-      "fr-FR": "Une forêt de varech au large d'Anacapa Island, Parc national des Channel Islands, Californie, États-Unis (© Ian Shive/Tandem Stills + Motion)",
-      "it-IT": "Una foresta di alghe al largo dell'isola di Anacapa, Parco Nazionale delle Isole del Canale, California, USA (© Ian Shive/Tandem Stills + Motion)",
-      "es-ES": "Un bosque de algas cerca de la isla Anacapa, Parque Nacional de las Islas del Canal, California, EE. UU.  (© Ian Shive/Tandem Stills + Motion)",
-      "zh-CN": "一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)",
-      "en-IN": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
-      "en-US": "© Ian Shive/Tandem Stills + Motion",
-      "en-CA": "© Ian Shive/Tandem Stills + Motion",
-      "pt-BR": "© Ian Shive/Tandem Stills + Motion"
-    },
-    "descs": {
-      "en-GB": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
-      "de-DE": "Am 28. Juli lenkt der Welttag des Naturschutzes die Aufmerksamkeit auf Lebensräume, die oft verborgen bleiben. Dazu gehören die Seetangwälder vor Anacapa Island im Channel Islands National Park in Kalifornien. Die Region wird wegen ihrer außergewöhnlichen Artenvielfalt häufig als „Galápagos Nordamerikas“ bezeichnet. Riesentang kann hier über 30 Meter lang werden und unter günstigen Bedingungen täglich bis zu 60 Zentimeter wachsen. Seine dichten Bestände reichen von der Wasseroberfläche bis zum Meeresboden und schaffen einen Lebensraum für zahlreiche Tiere und Pflanzen.",
-      "fr-FR": "Au large d'Anacapa Island, dans le parc national des Channel Islands, aux États-Unis, la lumière californienne se fragmente sous la surface en milliers d'éclats verts et dorés. La mer a sculpté ses propres cathédrales : des forêts de varech géant s'élevant à plus de trente mètres du fond, leurs frondes ondulant comme des rubans de soie, maintenues en surface par de petits flotteurs remplis d'air.",
-      "es-ES": "Frente a la isla Anacapa, en el Parque Nacional Islas del Canal de California, el océano alberga uno de los ecosistemas más espectaculares del planeta: los bosques de algas gigantes. El kelp puede superar los 30 metros de altura, formando imponentes columnas que la luz solar atraviesa como si fueran vidrieras naturales.",
-      "en-IN": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
-      "en-US": "Off Anacapa Island, California, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 100 feet in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
-      "en-CA": "Off Anacapa Island, California in the United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by root-like holdfasts.",
-      "it-IT": "Al largo dell'isola di Anacapa, in California, l'oceano ha costruito le proprie foreste. Nelle acque del Parco Nazionale delle Isole del Canale — soprannominato le \"Galápagos del Nord America\" — le alghe giganti si estendono per oltre trenta metri in lunghezza, formando nastri ondeggianti sostenuti da vesciche d'aria e ancorati al fondale da strutture simili a radici.",
-      "pt-BR": "Quem imagina uma floresta costuma pensar em troncos, folhas e canto de pássaros. Mas perto da Ilha Anacapa, na Califórnia, a imagem revela uma versão completamente diferente. Sob a superfície, algas-gigantes conhecidas como kelps formam uma floresta vertical capaz de crescer mais de 60 centímetros por dia e passar dos 30 metros de altura. Cheias de pequenas bolsas de ar, elas sobem em direção à luz enquanto permanecem ancoradas ao fundo do mar.",
-      "zh-CN": "生机律动，恒久之衡. 一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国. 在美国加利福尼亚州，海峡群岛国家公园，安纳卡帕岛附近，海洋孕育着属于自己的森林。在被称为“北美洲加拉帕戈斯”的海峡群岛国家公园内，巨藻的长度可超过 100 英尺，它们通过充满空气的气囊在水中形成具有浮力的丝带，并由底部的根状固着器锚定在海床之上。"
-    },
-    "quickFacts": {
-      "zh-CN": "海獭是此处的关键种；通过捕食海胆，它们能防止海藻林被过度啃食，在安纳卡帕岛附近，海峡群岛国家公园，美国。"
-    },
-    "captions": {
-      "en-GB": "World Nature Conservation Day",
-      "de-DE": "Welttag des Naturschutzes",
-      "fr-FR": "Journée mondiale de la conservation de la nature",
-      "it-IT": "",
-      "es-ES": "Día Mundial de la Conservación de la Naturaleza",
-      "zh-CN": "",
-      "en-IN": "World Nature Conservation Day"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260727_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Welttag+des+Naturschutzes&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Conservation+de+la+nature&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+Mondiale+per+la+Conservazione+della+Natura&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+la+Conservaci%c3%b3n+de+la+Naturaleza&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e8%87%aa%e7%84%b6%e4%bf%9d%e6%8a%a4%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260727_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.ChannelKelp_EN-GB5530574227",
-      "de-DE": "/th?id=OHR.ChannelKelp_DE-DE2528098746",
-      "fr-FR": "/th?id=OHR.ChannelKelp_FR-FR7114923921",
-      "it-IT": "/th?id=OHR.ChannelKelp_IT-IT8356704681",
-      "es-ES": "/th?id=OHR.ChannelKelp_ES-ES2666922160",
-      "zh-CN": "/th?id=OHR.ChannelKelp_ZH-CN8732903732",
-      "en-IN": "/th?id=OHR.ChannelKelp_EN-IN9944710575"
+      "en-GB": "/th?id=OHR.TigerFamily_EN-GB5813190934",
+      "de-DE": "/th?id=OHR.TigerFamily_DE-DE3531108966",
+      "fr-FR": "/th?id=OHR.TigerFamily_FR-FR7284476347",
+      "it-IT": "/th?id=OHR.TigerFamily_IT-IT8529991341",
+      "es-ES": "/th?id=OHR.TigerFamily_ES-ES8935295288",
+      "ja-JP": "/th?id=OHR.TigerFamily_JA-JP4965219864",
+      "zh-CN": "/th?id=OHR.TigerFamily_ZH-CN9064744163"
     }
   },
   "VictoriaBeach": {
@@ -2483,6 +2469,38 @@
       "ja-JP": "/th?id=OHR.GionFestival2026_JA-JP0488381919"
     }
   },
+  "GuruPurnima2026": {
+    "name": "GuruPurnima2026",
+    "urlbase": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905",
+    "date": "20260728",
+    "dateFormatted": "July 28, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "Where a lesson changed the world. Guru Purnima"
+    },
+    "copyrights": {
+      "en-IN": "Dhamek Stupa, Sarnath, Varanasi, Uttar Pradesh (© franck metois/Moment/Getty Images)"
+    },
+    "descs": {
+      "en-IN": "One of the world's most influential teachings was delivered in the open nearly 2,500 years ago, and its legacy still stands in stone. Guru Purnima celebrates spiritual and academic teachers who shape our lives, and few places capture that spirit better than Dhamek Stupa in Sarnath, Uttar Pradesh."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-IN": "Guru Purnima"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Guru+Purnima&form=hpcapt&filters=HpDate%3a%2220260728_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
   "RathYatra2026": {
     "name": "RathYatra2026",
     "urlbase": "/th?id=OHR.RathYatra2026_EN-IN7824400350",
@@ -2513,6 +2531,100 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.RathYatra2026_EN-IN7824400350"
+    }
+  },
+  "LemonShark": {
+    "name": "LemonShark",
+    "urlbase": "/th?id=OHR.LemonShark_EN-US9828936448",
+    "date": "20260714",
+    "dateFormatted": "July 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Fin-tastic truths. Shark Awareness Day",
+      "en-CA": "Fin-tastic truths. Shark Awareness Day",
+      "fr-FR": "Des racines et des zestes. Requin-citron dans la mangrove",
+      "pt-BR": "O mar em modo incubadora",
+      "en-GB": "Fin-tastic truths. Shark Awareness Day",
+      "de-DE": "Könige der Meere. Tag der Haie",
+      "it-IT": "Cerco limoni",
+      "es-ES": "En busca de “Limonada”. Día Mundial de los Tiburones",
+      "ja-JP": "今日はサメ啓発の日",
+      "zh-CN": "奇妙的真相",
+      "en-IN": "Fin-tastic truths. Shark Awareness Day"
+    },
+    "copyrights": {
+      "en-US": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "en-CA": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "fr-FR": "Jeune requin-citron dans la mangrove, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "pt-BR": "Filhote de tubarão-limão em floresta de mangue, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "en-GB": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "de-DE": "Zitronenhai-Jungtier im Mangrovenwald, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "it-IT": "Cucciolo di squalo limone nella foresta di mangrovie, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "es-ES": "Tiburón limón en bosque de manglares, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+      "ja-JP": "レモンザメの幼魚, バハマ (© Shane Gross/Nature Picture Library)",
+      "zh-CN": "柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)",
+      "en-IN": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+      "en-CA": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+      "fr-FR": "Dans les eaux peu profondes d’Eleuthera, aux Bahamas, un jeune requin-citron glisse entre les racines entrelacées des mangroves. Ici, la lumière danse à la surface tandis que l’eau tiède filtre doucement entre ces arbres étonnants, dont les racines offrent un refuge à d’innombrables poissons, crustacés et juvéniles marins.",
+      "en-GB": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+      "de-DE": "Am 14. Juli wird weltweit der Tag der Haie gefeiert. Dieser Tag soll das Bild dieser Tiere verändern und Wissen vermitteln. Haie durchstreifen die Meere seit mehr als 420 Millionen Jahren und gehören zu den ältesten Bewohnern unseres Planeten. Dieser Tag rückt Wissen, Faszination und die Bedeutung dieser Tiere für gesunde Meere in den Mittelpunkt.",
+      "es-ES": "En Eleuthera, en las Bahamas, un pequeño tiburón limón se desliza entre manglares y nos invita a redescubrir el mar con otros ojos en el Día Mundial de los Tiburones, celebrado el catorce de julio. Lejos de la imagen alarmista, estos animales patrullan los océanos desde hace más de 420 millones de años, desempeñando un papel clave en el equilibrio de los ecosistemas marinos.",
+      "ja-JP": "今日 7 月 14 日はサメ啓発の日。サメは 4 億年以上前から存在しているといわれており、頂点捕食者として海洋生態系のバランスを保つ重要な役割を果たしています。そういったサメについての知識を広め、映画などによって植え付けられたイメージを払拭するとともに、保護について考えるための日です。そして、今日の画像は、バハマのエレウテラ島のマングローブ林を泳ぐレモンザメの幼魚。幼いうちは天敵も多いため、マングローブ林にとどまり、大型の捕食者から身を守ります。しかし、繁殖力の低さに加え、乱獲や環境破壊などによって個体数が減少しており、危急種 (VU) に指定されています。",
+      "en-IN": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+      "it-IT": "Il cucciolo di squalo limone che nuota tra le mangrovie di Eleuthera, alle Bahamas, racconta un lato inaspettato dell’oceano: quello della crescita e della fragilità. Lontano dall’immaginario dominante, questi piccoli predatori iniziano la vita in acque basse e tranquille, dove trovano riparo e condizioni ideali per svilupparsi.",
+      "pt-BR": "Na ilha de Eleuthera, nas Bahamas, este pequeno tubarão-limão testa o mundo pela primeira vez, protegido por labirintos de raízes submersas. A espécie ocorre ao longo do Atlântico ocidental, do Caribe à América do Sul, em áreas como recifes de coral, manguezais, baías e desembocaduras de rios. No Brasil, alguns dos principais berçários conhecidos ficam em áreas oceânicas como Fernando de Noronha e o Atol das Rocas, onde filhotes encontram águas rasas que funcionam como refúgios naturais. Ali, ganham tempo para crescer antes de encarar mar aberto.",
+      "zh-CN": "奇妙的真相. 柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马. 7月14日是世界鲨鱼日，它呼吁我们用海洋的真实面貌取代电影中的恐慌。鲨鱼已经在海洋中遨游了超过4.2亿年，作为顶级掠食者，它们有助于维持海洋生态系统的平衡。"
+    },
+    "quickFacts": {
+      "en-US": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
+      "en-GB": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
+      "en-CA": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
+      "de-DE": "Der Grönlandhai kann bis zu 400 Jahre alt werden und gehört damit zu den langlebigsten Wirbeltieren überhaupt.",
+      "fr-FR": "Le requin-citron naît indépendant, capable de chasser seul dès sa sortie du ventre.",
+      "zh-CN": "格陵兰鲨的寿命可达400年，是脊椎动物中寿命最长的物种之一。",
+      "en-IN": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate."
+    },
+    "captions": {
+      "en-US": "Shark Awareness Day",
+      "en-CA": "Shark Awareness Day",
+      "fr-FR": "Requin-citron dans la mangrove",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260714_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260714_0400%22",
+      "fr-FR": "https://www.bing.com/search?q=Requin+citron&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+da+Conscientizacao+sobre+Tubaroes&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LemonShark_EN-US9828936448",
+      "en-CA": "/th?id=OHR.LemonShark_EN-CA1838897902",
+      "fr-FR": "/th?id=OHR.LemonShark_FR-FR4291742004",
+      "pt-BR": "/th?id=OHR.LemonShark_PT-BR3191818241"
     }
   },
   "NavajoSandstone": {
