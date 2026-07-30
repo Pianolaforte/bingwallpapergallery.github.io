@@ -1,4 +1,137 @@
 {
+  "TigerFamily": {
+    "name": "TigerFamily",
+    "urlbase": "/th?id=OHR.TigerFamily_EN-US4918106900",
+    "date": "20260729",
+    "dateFormatted": "July 29, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "en-US": "A comeback with claws. International Tiger Day",
+      "en-GB": "A comeback with claws. International Tiger Day",
+      "en-CA": "A comeback with claws. International Tiger Day",
+      "de-DE": "Ein Comeback mit Krallen. Internationaler Tag des Tigers",
+      "fr-FR": "Un retour en force. Journée mondiale du tigre",
+      "it-IT": "Sulle tracce della tigre",
+      "es-ES": "Unos felinos más grandes. Día Internacional del Tigre",
+      "pt-BR": "Uma floresta que voltou a rugir",
+      "ja-JP": "今日は世界トラの日",
+      "zh-CN": "虎啸归来，锐爪重临"
+    },
+    "copyrights": {
+      "en-US": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "en-GB": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "en-CA": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "de-DE": "Eine Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan, Indien (© Archna Singh/Shutterstock)",
+      "fr-FR": "Une famille de tigres du Bengale au parc national de Ranthambore, Rajasthan, Inde (© Archna Singh/Shutterstock)",
+      "it-IT": "Una famiglia di tigri del Bengala al Parco Nazionale di Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "es-ES": "Una familia de tigres de Bengala en el Parque Nacional de Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "pt-BR": "Família de tigres-de-bengala no Parque Nacional de Ranthambore, Rajastão, Índia (© Archna Singh/Shutterstock)",
+      "ja-JP": "ベンガルトラの家族, インド (© Archna Singh/Shutterstock)",
+      "zh-CN": "孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 10 feet from nose to tail and weigh around 500 pounds, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "en-GB": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 230 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "en-CA": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 227 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "de-DE": "Am Internationalen Tag des Tigers steht diese Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan im Mittelpunkt. Die mächtigen Raubkatzen gehören zu den bekanntesten Bewohnern Indiens und faszinieren durch ihre Kombination aus Kraft und Eleganz. Ein ausgewachsener Tiger kann von der Nase bis zur Schwanzspitze mehr als drei Meter lang werden und rund 230 Kilogramm wiegen. Trotz ihrer Größe bewegen sich die Tiere erstaunlich lautlos durch Wälder und Graslandschaften. Ihr charakteristisches Streifenmuster dient nicht nur der Wiedererkennung, sondern auch der Tarnung, da es die Körperkonturen im wechselnden Licht der Vegetation auflöst.",
+      "fr-FR": "Dans la lumière dorée du matin, une famille de tigres du Bengale traverse la forêt sèche du parc national de Ranthambore, en Inde, avec une assurance tranquille. L'adulte — long de plus de trois mètres et fort de 250 kilos de puissance silencieuse — pose chaque patte sans un bruit. Ses rayures, uniques comme des empreintes digitales, se fondent dans les ombres mouvantes des acacias et des dhok, arbres emblématiques du Rajasthan.",
+      "es-ES": "En el Día Internacional del Tigre, una familia de tigres de Bengala recorre el Parque Nacional de Ranthambore, en Rajastán, India, con la calma soberana de quien sabe que no tiene rival. Son animales diseñados para la perfección: un adulto puede superar los tres metros de longitud y pesar más de 225 kilogramos, pero se mueve entre la vegetación sin emitir el menor sonido. Sus rayas no son solo un rasgo estético; son una herramienta de supervivencia que desorienta a las presas en un entorno donde ver y no ser visto lo es todo.",
+      "ja-JP": "今日 7 月 29 日は世界トラの日。トラの保全を呼びかける国際記念日です。20 世紀初めには、野生のトラは約 10 万頭いると推定されていましたが、環境破壊や密猟などにより、2010 年時点では約 3,000 頭にまで激減しました。その後、各国でのさまざまな保全活動により一部個体数は回復したものの、世界全体での生息数は未だ 6,000 頭程度と推定されています。画像は、インドのランタンボール国立公園に姿を現したベンガルトラの家族。 かつて王族の狩猟地であったこの公園は、1974 年にトラの保護区へと変わりました。",
+      "it-IT": "Nella Giornata Internazionale della Tigre, questa famiglia si muove con sicurezza nel Parco Nazionale di Ranthambore, in Rajasthan, India. Sono tigri del Bengala: un esemplare adulto può superare i tre metri di lunghezza dalla testa alla coda e pesare oltre 200 kg, eppure cammina nel silenzio più assoluto. Le strisce non sono solo decorative — confondono la preda in un paesaggio dove la visibilità è un'arma a doppio taglio.",
+      "pt-BR": "A natureza adora um bom paradoxo: o maior felino da Índia veste listras marcantes justamente para passar despercebido. Na imagem, uma família de tigres-de-bengala percorre o Parque Nacional de Ranthambore com a tranquilidade de quem não precisa provar nada. O padrão da pelagem embaralha a silhueta entre a vegetação, transformando um animal que pode passar de 280 quilos num fantasma surpreendentemente eficiente.",
+      "zh-CN": "虎啸归来，锐爪重临. 孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度. 在全球老虎日这一天，这群孟加拉虎迈着自信的步伐走过印度，拉贾斯坦邦，兰坦博尔国家公园，展现出顶级掠食者对自身在食物链中地位的精准认知。孟加拉虎兼具隐蔽性与力量：成年个体的体长从鼻尖到尾端可超过10英尺，体重约500磅，行走时却能悄无声息。在视觉可见度是一把“双刃剑”的自然生境中，它们的斑纹发挥了关键作用，通过复杂的图案模式在环境中进行伪装，使猎物难以辨识其身形。"
+    },
+    "quickFacts": {
+      "zh-CN": "老虎是卓越的游泳者，经常通过泡水来降温，这在大多数猫科动物中极为罕见，在兰坦博尔国家公园，拉贾斯坦邦，印度。"
+    },
+    "captions": {
+      "en-US": "International Tiger Day",
+      "en-GB": "International Tiger Day",
+      "en-CA": "International Tiger Day",
+      "de-DE": "Internationaler Tag des Tigers",
+      "fr-FR": "Journée mondiale du tigre",
+      "it-IT": "",
+      "es-ES": "Día Internacional del Tigre",
+      "pt-BR": "",
+      "ja-JP": "今日は世界トラの日",
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260729_0700%22",
+      "en-GB": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260728_2300%22",
+      "en-CA": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260729_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Tigers&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+della+Tigre&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+do+Tigre&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e3%83%88%e3%83%a9%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260728_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%85%a8%e7%90%83%e8%80%81%e8%99%8e%e6%97%a5&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.TigerFamily_EN-US4918106900",
+      "en-GB": "/th?id=OHR.TigerFamily_EN-GB5813190934",
+      "en-CA": "/th?id=OHR.TigerFamily_EN-CA0136574316",
+      "de-DE": "/th?id=OHR.TigerFamily_DE-DE3531108966",
+      "fr-FR": "/th?id=OHR.TigerFamily_FR-FR7284476347",
+      "it-IT": "/th?id=OHR.TigerFamily_IT-IT8529991341",
+      "es-ES": "/th?id=OHR.TigerFamily_ES-ES8935295288",
+      "pt-BR": "/th?id=OHR.TigerFamily_PT-BR8805441851",
+      "ja-JP": "/th?id=OHR.TigerFamily_JA-JP4965219864",
+      "zh-CN": "/th?id=OHR.TigerFamily_ZH-CN9064744163"
+    }
+  },
   "ChannelKelp": {
     "name": "ChannelKelp",
     "urlbase": "/th?id=OHR.ChannelKelp_EN-US3809417919",
@@ -1631,53 +1764,28 @@
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
       }
     ],
     "titles": {
       "en-US": "A waterfront chameleon. Navy Pier, Chicago, Illinois",
       "en-CA": "A waterfront chameleon. Navy Pier, Chicago, Illinois, United States",
+      "pt-BR": "Um cais camaleônico",
       "de-DE": "Ein Wahrzeichen Chicagos. Navy Pier in Chicago, Illinois, USA",
       "it-IT": "Divertimento sul molo",
       "es-ES": "Un camaleón en el puerto. Muelle de la Armada, Chicago, Illinois, EE. UU.",
-      "pt-BR": "Um cais camaleônico",
       "ja-JP": "活気あふれる桟橋の夜景",
       "zh-CN": "滨水变色龙"
     },
     "copyrights": {
       "en-US": "Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)",
       "en-CA": "Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)",
+      "pt-BR": "Navy Pier, Chicago, Illinois, Estados Unidos (© Christopher.F Photography/Getty Images)",
       "de-DE": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
       "it-IT": "Navy Pier, Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
       "es-ES": "Muelle de la Armada, Chicago, Illinois, EE. UU. (© Christopher.F Photography/Getty Images)",
-      "pt-BR": "Navy Pier, Chicago, Illinois, Estados Unidos (© Christopher.F Photography/Getty Images)",
       "ja-JP": "ネイビー・ピア, 米国イリノイ州 (© Christopher.F Photography/Getty Images)",
       "zh-CN": "海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)"
     },
@@ -1697,120 +1805,29 @@
     "captions": {
       "en-US": "Navy Pier, Chicago, Illinois",
       "en-CA": "Navy Pier, Chicago, Illinois, United States",
-      "de-DE": "Navy Pier in Chicago, Illinois, USA",
-      "it-IT": "",
-      "es-ES": "Muelle de la Armada, Chicago, Illinois, EE. UU.",
-      "pt-BR": "",
-      "ja-JP": "活気あふれる桟橋の夜景",
-      "zh-CN": ""
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0700%22",
       "en-CA": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Navy+Pier+Chicago+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Muelle+de+la+Armada+Chicago&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Navy+Pier+Estados+Unidos&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8d%e3%82%a4%e3%83%93%e3%83%bc%e3%83%bb%e3%83%94%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260715_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%8a%9d%e5%8a%a0%e5%93%a5%e6%b5%b7%e5%86%9b%e7%a0%81%e5%a4%b4&form=hpcapt&mkt=zh-cn"
+      "pt-BR": "https://www.bing.com/search?q=Navy+Pier+Estados+Unidos&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.NavyPier_EN-US1069960047",
       "en-CA": "/th?id=OHR.NavyPier_EN-CA7051482723",
-      "de-DE": "/th?id=OHR.NavyPier_DE-DE6672447932",
-      "it-IT": "/th?id=OHR.NavyPier_IT-IT8293754052",
-      "es-ES": "/th?id=OHR.NavyPier_ES-ES1489693745",
-      "pt-BR": "/th?id=OHR.NavyPier_PT-BR4218227814",
-      "ja-JP": "/th?id=OHR.NavyPier_JA-JP0160307645",
-      "zh-CN": "/th?id=OHR.NavyPier_ZH-CN4649271588"
+      "pt-BR": "/th?id=OHR.NavyPier_PT-BR4218227814"
     }
   },
-  "MarieLake": {
-    "name": "MarieLake",
-    "urlbase": "/th?id=OHR.MarieLake_EN-US0365186943",
-    "date": "20260715",
-    "dateFormatted": "July 15, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California",
-      "en-CA": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California, USA",
-      "en-GB": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States",
-      "de-DE": "Die Belohnung nach der Wanderung. Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA",
-      "it-IT": "La ricompensa dopo la scalata",
-      "es-ES": "La recompensa tras la subida. Marie Lake, Área silvestre John Muir, California, EE. UU.",
-      "ja-JP": "山々に囲まれた湖",
-      "zh-CN": "攀登后的奖励",
-      "en-IN": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States"
-    },
-    "copyrights": {
-      "en-US": "Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)",
-      "en-CA": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
-      "en-GB": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
-      "de-DE": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA (© Steve Dunleavy/Getty Images)",
-      "it-IT": "Marie Lake, Area selvaggia John Muir vicino a Bishop, California, USA (© Steve Dunleavy/Getty Images)",
-      "es-ES": "Marie Lake, Área silvestre John Muir cerca de Bishop, California, EE. UU. (© Steve Dunleavy/Getty Images)",
-      "ja-JP": "マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)",
-      "zh-CN": "玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)",
-      "en-IN": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)"
-    },
-    "descs": {
-      "en-US": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes, and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-      "en-CA": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,630 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-      "en-GB": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres (263,000 hectares) of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-      "de-DE": "Die John Muir Wilderness in der Nähe von Bishop in Kalifornien, USA, zählt zu den eindrucksvollsten Hochgebirgslandschaften der Sierra Nevada. Das 1964 eingerichtete Schutzgebiet erstreckt sich über eine weite, nahezu unberührte Region mit Granitformationen, klaren Seen und alpinen Tälern. Berühmte Fernwanderwege führen durch dieses Gebiet und ziehen Naturbegeisterte aus aller Welt an. Inmitten dieser Landschaft liegt der Marie Lake auf etwa 3.215 Metern Höhe, eingebettet zwischen Felsen und lichten Wäldern. Sein klares Wasser spiegelt die umliegenden Berge und macht ihn zu einem eindrucksvollen Ziel nach einem langen Aufstieg.",
-      "es-ES": "En el área silvestre John Muir, cerca de Bishop, en California, Estados Unidos, las montañas cuentan una historia grabada en granito, lagos y valles moldeados durante millones de años. Este espacio protegido, creado en 1964, forma parte de la Sierra Nevada estadounidense y recuerda, por su altitud y paisaje alpino, a grandes macizos de alta montaña en España, como los Pirineos, donde la naturaleza también marca el ritmo.",
-      "ja-JP": "ジョン・ミュア・ウィルダネスは、1964 年に設立された約 2600km² の面積を誇る広大な原生自然の保護区域です。米国カリフォルニア州のシエラネバダ山脈中央部に位置しています。4000m を超える山々が連なる米国最大級の高地原生地域の一つであり、多くのハイカーを惹きつけています。そして、今日の画像は、保護区域内の標高約 3200m に位置するマリー・レイク。静かな高山湖として、バックパッカーに人気の撮影スポットです。",
-      "en-IN": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,600 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-      "it-IT": "Nell'Area selvaggia John Muir, vicino a Bishop, in California, la montagna racconta milioni di anni di storia attraverso valli, laghi e imponenti formazioni granitiche. Istituita nel 1964, questa vasta zona protetta si estende per oltre 263.000 ettari nella Sierra Nevada. Sentieri iconici come il Pacific Crest Trail attraversano questi paesaggi d'alta quota, offrendo un'esperienza che, per isolamento e natura intatta, può ricordare le aree più remote del Parco Nazionale dello Stelvio.",
-      "zh-CN": "攀登后的奖励. 玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国. 如果山脉能够记录过去，那么位于加利福尼亚州毕晓普附近的约翰·缪尔荒野保护区将拥有丰富的历史资料可供分享。这里的山谷、湖泊和花岗岩地貌诉说着数百万年来的演变历程。这片广袤的保护区成立于1964年，横跨内华达山脉超过65万英亩的土地，并以博物学家约翰·缪尔的名字命名。如今，太平洋山脊步道和约翰·缪尔步道的部分路段穿过这里，吸引着徒步旅行者来到美国本土最大的高海拔荒野地区之一。"
-    },
-    "quickFacts": {
-      "zh-CN": "约翰·缪尔荒野包含阿拉斯加州以外美国本土的一些最高山峰，其中包括惠特尼峰，它是美国本土最高的山脉，海拔达14,505英尺（约 4,421 米）。"
-    },
-    "captions": {
-      "en-US": "Marie Lake, John Muir Wilderness near Bishop, California",
-      "en-CA": "Marie Lake, John Muir Wilderness near Bishop, California, USA"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0700%22",
-      "en-CA": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.MarieLake_EN-US0365186943",
-      "en-CA": "/th?id=OHR.MarieLake_EN-CA6168691994"
-    }
-  },
-  "TigerFamily": {
-    "name": "TigerFamily",
-    "urlbase": "/th?id=OHR.TigerFamily_EN-GB5813190934",
-    "date": "20260728",
-    "dateFormatted": "July 28, 2026",
+  "NavajoNation": {
+    "name": "NavajoNation",
+    "urlbase": "/th?id=OHR.NavajoNation_EN-GB6080318819",
+    "date": "20260729",
+    "dateFormatted": "July 29, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
       },
       {
         "code": "it-IT",
@@ -1831,134 +1848,69 @@
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
-      }
-    ],
-    "titles": {
-      "en-GB": "A comeback with claws. International Tiger Day",
-      "de-DE": "Ein Comeback mit Krallen. Internationaler Tag des Tigers",
-      "fr-FR": "Un retour en force. Journée mondiale du tigre",
-      "it-IT": "Sulle tracce della tigre",
-      "es-ES": "Unos felinos más grandes. Día Internacional del Tigre",
-      "ja-JP": "今日は世界トラの日",
-      "zh-CN": "虎啸归来，锐爪重临",
-      "en-US": "A comeback with claws. A family of Bengal tigers at Ranthambore National Park, Rajasthan, India",
-      "en-CA": "A comeback with claws. A family of Bengal tigers at Ranthambore National Park, Rajasthan, India",
-      "pt-BR": "Uma floresta que voltou a rugir. Família de tigres-de-bengala no Parque Nacional de Ranthambore, Rajastão, Índia"
-    },
-    "copyrights": {
-      "en-GB": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
-      "de-DE": "Eine Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan, Indien (© Archna Singh/Shutterstock)",
-      "fr-FR": "Une famille de tigres du Bengale au parc national de Ranthambore, Rajasthan, Inde (© Archna Singh/Shutterstock)",
-      "it-IT": "Una famiglia di tigri del Bengala al Parco Nazionale di Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
-      "es-ES": "Una familia de tigres de Bengala en el Parque Nacional de Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
-      "ja-JP": "ベンガルトラの家族, インド (© Archna Singh/Shutterstock)",
-      "zh-CN": "孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)",
-      "en-US": "© Archna Singh/Shutterstock",
-      "en-CA": "© Archna Singh/Shutterstock",
-      "pt-BR": "© Archna Singh/Shutterstock"
-    },
-    "descs": {
-      "en-GB": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 230 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
-      "de-DE": "Am Internationalen Tag des Tigers steht diese Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan im Mittelpunkt. Die mächtigen Raubkatzen gehören zu den bekanntesten Bewohnern Indiens und faszinieren durch ihre Kombination aus Kraft und Eleganz. Ein ausgewachsener Tiger kann von der Nase bis zur Schwanzspitze mehr als drei Meter lang werden und rund 230 Kilogramm wiegen. Trotz ihrer Größe bewegen sich die Tiere erstaunlich lautlos durch Wälder und Graslandschaften. Ihr charakteristisches Streifenmuster dient nicht nur der Wiedererkennung, sondern auch der Tarnung, da es die Körperkonturen im wechselnden Licht der Vegetation auflöst.",
-      "fr-FR": "Dans la lumière dorée du matin, une famille de tigres du Bengale traverse la forêt sèche du parc national de Ranthambore, en Inde, avec une assurance tranquille. L'adulte — long de plus de trois mètres et fort de 250 kilos de puissance silencieuse — pose chaque patte sans un bruit. Ses rayures, uniques comme des empreintes digitales, se fondent dans les ombres mouvantes des acacias et des dhok, arbres emblématiques du Rajasthan.",
-      "es-ES": "En el Día Internacional del Tigre, una familia de tigres de Bengala recorre el Parque Nacional de Ranthambore, en Rajastán, India, con la calma soberana de quien sabe que no tiene rival. Son animales diseñados para la perfección: un adulto puede superar los tres metros de longitud y pesar más de 225 kilogramos, pero se mueve entre la vegetación sin emitir el menor sonido. Sus rayas no son solo un rasgo estético; son una herramienta de supervivencia que desorienta a las presas en un entorno donde ver y no ser visto lo es todo.",
-      "ja-JP": "今日 7 月 29 日は世界トラの日。トラの保全を呼びかける国際記念日です。20 世紀初めには、野生のトラは約 10 万頭いると推定されていましたが、環境破壊や密猟などにより、2010 年時点では約 3,000 頭にまで激減しました。その後、各国でのさまざまな保全活動により一部個体数は回復したものの、世界全体での生息数は未だ 6,000 頭程度と推定されています。画像は、インドのランタンボール国立公園に姿を現したベンガルトラの家族。 かつて王族の狩猟地であったこの公園は、1974 年にトラの保護区へと変わりました。",
-      "en-US": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 10 feet from nose to tail and weigh around 500 pounds, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
-      "en-CA": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 227 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
-      "it-IT": "Nella Giornata Internazionale della Tigre, questa famiglia si muove con sicurezza nel Parco Nazionale di Ranthambore, in Rajasthan, India. Sono tigri del Bengala: un esemplare adulto può superare i tre metri di lunghezza dalla testa alla coda e pesare oltre 200 kg, eppure cammina nel silenzio più assoluto. Le strisce non sono solo decorative — confondono la preda in un paesaggio dove la visibilità è un'arma a doppio taglio.",
-      "pt-BR": "A natureza adora um bom paradoxo: o maior felino da Índia veste listras marcantes justamente para passar despercebido. Na imagem, uma família de tigres-de-bengala percorre o Parque Nacional de Ranthambore com a tranquilidade de quem não precisa provar nada. O padrão da pelagem embaralha a silhueta entre a vegetação, transformando um animal que pode passar de 280 quilos num fantasma surpreendentemente eficiente.",
-      "zh-CN": "虎啸归来，锐爪重临. 孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度. 在全球老虎日这一天，这群孟加拉虎迈着自信的步伐走过印度，拉贾斯坦邦，兰坦博尔国家公园，展现出顶级掠食者对自身在食物链中地位的精准认知。孟加拉虎兼具隐蔽性与力量：成年个体的体长从鼻尖到尾端可超过10英尺，体重约500磅，行走时却能悄无声息。在视觉可见度是一把“双刃剑”的自然生境中，它们的斑纹发挥了关键作用，通过复杂的图案模式在环境中进行伪装，使猎物难以辨识其身形。"
-    },
-    "quickFacts": {
-      "zh-CN": "老虎是卓越的游泳者，经常通过泡水来降温，这在大多数猫科动物中极为罕见，在兰坦博尔国家公园，拉贾斯坦邦，印度。"
-    },
-    "captions": {
-      "en-GB": "International Tiger Day",
-      "de-DE": "Internationaler Tag des Tigers",
-      "fr-FR": "Journée mondiale du tigre",
-      "it-IT": "",
-      "es-ES": "Día Internacional del Tigre",
-      "ja-JP": "今日は世界トラの日",
-      "zh-CN": ""
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260728_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Tigers&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+della+Tigre&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e3%83%88%e3%83%a9%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260728_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%85%a8%e7%90%83%e8%80%81%e8%99%8e%e6%97%a5&form=hpcapt&mkt=zh-cn"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.TigerFamily_EN-GB5813190934",
-      "de-DE": "/th?id=OHR.TigerFamily_DE-DE3531108966",
-      "fr-FR": "/th?id=OHR.TigerFamily_FR-FR7284476347",
-      "it-IT": "/th?id=OHR.TigerFamily_IT-IT8529991341",
-      "es-ES": "/th?id=OHR.TigerFamily_ES-ES8935295288",
-      "ja-JP": "/th?id=OHR.TigerFamily_JA-JP4965219864",
-      "zh-CN": "/th?id=OHR.TigerFamily_ZH-CN9064744163"
-    }
-  },
-  "VictoriaBeach": {
-    "name": "VictoriaBeach",
-    "urlbase": "/th?id=OHR.VictoriaBeach_EN-GB5330505184",
-    "date": "20260715",
-    "dateFormatted": "July 15, 2026",
-    "markets": [
+      },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
       }
     ],
     "titles": {
-      "en-GB": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
-      "en-US": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
-      "pt-BR": "A arte lenta das marés",
-      "de-DE": "Zwischen zwei Welten. Luftaufnahme von Land und Meer, Victoria, Australien",
-      "fr-FR": "Le pays des rivages mouvants. Vue aérienne des terres et de l'océan, Victoria, Australie",
-      "it-IT": "La terra delle coste in movimento",
-      "es-ES": "La tierra de las orillas móviles. Vista aérea de tierra y océano, Victoria, Australia",
-      "ja-JP": "浜辺に打ち寄せる波",
-      "zh-CN": "陆地与海洋的鸟瞰图",
-      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia"
+      "en-GB": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
+      "it-IT": "Un paesaggio di storia vivente",
+      "es-ES": "Un paisaje de patrimonio vivo. Valle de los Monumentos, Nación Navajo, Arizona, EE. UU.",
+      "ja-JP": "夕暮れの砂漠を貫く道",
+      "zh-CN": "旷野无声，活态传承之境",
+      "en-IN": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
+      "en-US": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona",
+      "en-CA": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States"
     },
     "copyrights": {
-      "en-GB": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
-      "en-US": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
-      "pt-BR": "Vista aérea da costa de Vitória, Austrália (© Nearmap/Getty Images)",
-      "de-DE": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
-      "fr-FR": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
-      "it-IT": "Veduta aerea di terra e oceano, Victoria, Australia (© Nearmap/Getty Images)",
-      "es-ES": "Vista aérea de tierra y océano, Victoria, Australia (© Nearmap/Getty Images)",
-      "ja-JP": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
-      "zh-CN": "陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)",
-      "en-IN": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)"
+      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+      "it-IT": "Monument Valley, Nazione Navajo, Arizona, USA (© Westend61/Adobe Stock)",
+      "es-ES": "El Valle de los Monumentos, Nación Navajo, Arizona, EE. UU. (© Westend61/Adobe Stock)",
+      "ja-JP": "モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock)",
+      "zh-CN": "在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)",
+      "en-IN": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+      "en-US": "© Westend61/Adobe Stock",
+      "en-CA": "© Westend61/Adobe Stock"
     },
     "descs": {
-      "en-GB": "Victoria, a southeastern state of Australia, extends along more than 1,100 miles of mainland coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands and seaside towns.",
-      "en-US": "Victoria, a southeastern state of Australia, extends along more than 1,000 miles of coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands, and seaside towns.",
-      "de-DE": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
-      "fr-FR": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
-      "es-ES": "Victoria, en el sureste de Australia, despliega más de 1.800 kilómetros de costa modelada por el océano Antártico, donde playas de arena clara se funden con aguas turquesas y acantilados escarpados. Desde el aire, el paisaje recuerda por momentos a la Costa Brava en Girona, aunque aquí la escala es más salvaje y abierta.",
-      "ja-JP": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
-      "en-IN": "Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
-      "it-IT": "Victoria, stato nel sud-est dell’Australia, si estende lungo oltre 1.800 km di costa modellata dall’Oceano Meridionale: dall’alto, le sue spiagge appaiono come nastri chiari tra acque turchesi e scogliere scolpite. Questo dialogo continuo tra terra e mare ricorda, per intensità e varietà, alcuni tratti della Sardegna o della Costiera Amalfitana, pur con un carattere più selvaggio e ventoso. La celebre Great Ocean Road percorre circa 240 km di litorale, tra spot di surf, promontori boscosi e piccoli centri affacciati sull’oceano.",
-      "pt-BR": "A imagem do dia traz o litoral do estado australiano de Vitória, onde o encontro entre terra e mar está sempre sendo redesenhado. Faixas de areia clara se alternam com água azul intensa e paredões que parecem ter sido recortados com cuidado, em um cenário marcado pela ação contínua do oceano.",
-      "zh-CN": "陆地与海洋的鸟瞰图. 陆地与海洋的鸟瞰图，维多利亚州，澳大利亚. 维多利亚州位于澳大利亚东南部，坐拥由南大洋雕琢而成的绵延千余英里的海岸线。从高空俯瞰，这里的海滩宛如一条条宽阔的浅色沙带，边缘环绕着碧绿的海水与崎岖的峭壁。这种海陆交融的独特景致构成了该地区的主要魅力所在。著名的“大洋路”沿这段海岸线蜿蜒延伸约150英里，途经热门冲浪胜地、林木葱郁的海角以及各具特色的海滨小镇。"
+      "en-GB": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "es-ES": "Hay paisajes famosos y hay paisajes que se convierten en leyenda. Monument Valley, en la frontera entre Arizona y Utah, dentro de la Nación Navajo, en Estados Unidos, pertenece a esa segunda categoría. Sus gigantescas torres de arenisca roja —algunas superan los 300 metros de altura sobre el valle— no son simples formaciones geológicas: para el pueblo navajo, las icónicas Mitten Buttes son las manos de un gigante dispersadas por la tierra tras una gran batalla.",
+      "ja-JP": "ここはモニュメント・バレー。米国のアリゾナ州とユタ州にまたがるナバホ族の準自治領「ナバホ・ネイション」内に広がる地域です。テーブル状の台地「メサ」や、侵食によって形成された「ビュート」という孤立丘が点在しているのが特徴です。これらが独特の景観を生み出し、世界中から観光客が訪れる景勝地となっています。また、西部劇映画の定番のロケ地として知られており、映画監督ジョン・フォードが撮影を行った場所は「ジョン・フォード・ポイント」と呼ばれる人気の写真撮影スポットとなっています。",
+      "en-IN": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "en-US": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 1,000 feet above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "en-CA": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 305 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "it-IT": "Ci sono paesaggi famosi e poi c'è Monument Valley, che appartiene a una categoria a sé. Al confine tra Arizona e Utah, Stati Uniti, nel cuore della Nazione Navajo, le \"mesas\" e i monoliti di arenaria rossa si innalzano fino a 300 metri dal suolo del deserto. In lingua Navajo si chiama Tsé Bii' Ndzisgaii — \"la valle delle rocce\" — e il suo colore intenso deriva dall'ossido di ferro e dal manganese presenti nella pietra.",
+      "zh-CN": "旷野无声，活态传承之境. 在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国. 在纳瓦霍族保留地，亚利桑那州与犹他州交界处，美国，有些景观举世闻名，而纪念碑谷则堪称传奇。这一沙漠奇观横跨州界，其地貌由高耸的砂岩孤峰塑造而成，这些孤峰从谷底拔地而起，高度可达1000英尺。在纳瓦霍语中，该地区被称为 Tsé Bii' Ndzisgaii（意为“岩石之谷”），它将壮丽的地质构造与鲜活的民族文化完美融合。"
     },
     "quickFacts": {
-      "zh-CN": "十二使徒岩一直在发生变化；在2005年发生一次重大坍塌后，最初的石灰岩柱目前仅存八座。"
+      "zh-CN": "阿甘结束其跨国长跑的著名地点位于163号美国国道，这里拥有俯瞰山谷的最具标志性视野，在纪念碑谷，纳瓦霍族保留地，美国。"
     },
     "captions": {
-      "en-GB": "Aerial view of land and ocean, Victoria, Australia"
+      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States",
+      "it-IT": "",
+      "es-ES": "Valle de los Monumentos, Nación Navajo, Arizona, EE. UU.",
+      "ja-JP": "夕暮れの砂漠を貫く道",
+      "zh-CN": "",
+      "en-IN": "Monument Valley, Navajo Nation, Arizona, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260715_2300%22"
+      "en-GB": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=El+Valle+de+los+Monumentos&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a2%e3%83%8b%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88%e3%83%bb%e3%83%90%e3%83%ac%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260729_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%ba%aa%e5%bf%b5%e7%a2%91%e8%b0%b7&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.VictoriaBeach_EN-GB5330505184"
+      "en-GB": "/th?id=OHR.NavajoNation_EN-GB6080318819",
+      "it-IT": "/th?id=OHR.NavajoNation_IT-IT8632328338",
+      "es-ES": "/th?id=OHR.NavajoNation_ES-ES2923536313",
+      "ja-JP": "/th?id=OHR.NavajoNation_JA-JP5174852282",
+      "zh-CN": "/th?id=OHR.NavajoNation_ZH-CN9274387505",
+      "en-IN": "/th?id=OHR.NavajoNation_EN-IN0765516783"
     }
   },
   "GrainSilosSK": {
@@ -1993,6 +1945,40 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.GrainSilosSK_EN-CA7421778186"
+    }
+  },
+  "BearBavaria": {
+    "name": "BearBavaria",
+    "urlbase": "/th?id=OHR.BearBavaria_DE-DE3681217161",
+    "date": "20260729",
+    "dateFormatted": "July 29, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Wild und wachsam. Braunbärenjunges auf einem Felsen, Bayern"
+    },
+    "copyrights": {
+      "de-DE": "Braunbärenjunges auf einem Felsen, Bayern (© Raimund Linke/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Der Braunbär ist eines der größten an Land lebenden Raubtiere Europas und ein Symbol für wilde, unberührte Landschaften. Als anpassungsfähiger Allesfresser ernährt er sich von Beeren, Kräutern, Insekten, Aas und gelegentlich größeren Beutetieren. Trotz seiner beeindruckenden Größe meidet er Menschen meist und streift auf der Suche nach Nahrung oft weite Strecken durch Wälder und Gebirge."
+    },
+    "quickFacts": {
+      "de-DE": "Trotz ihrer Größe können Braunbären Geschwindigkeiten von bis zu 50 km/h erreichen."
+    },
+    "captions": {
+      "de-DE": "Braunbärenjunges auf einem Felsen, Bayern"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Braunb%c3%a4r+Tier&form=hpcapt&filters=HpDate%3a%2220260729_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.BearBavaria_DE-DE3681217161"
     }
   },
   "PrideBerlin": {
@@ -2059,6 +2045,40 @@
       "de-DE": "/th?id=OHR.EibseeSummer_DE-DE7644945564"
     }
   },
+  "WildJackalFriends": {
+    "name": "WildJackalFriends",
+    "urlbase": "/th?id=OHR.WildJackalFriends_FR-FR7398331328",
+    "date": "20260729",
+    "dateFormatted": "July 29, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "L’amitié, ça s’apprend. Journée internationale de l’amitié"
+    },
+    "copyrights": {
+      "fr-FR": "Jeunes chacals sauvages dans le Bushveld, Afrique du Sud (© Jeff R Clow/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Dans les herbes hautes du bushveld, deux chiots chacals se chamaillent — puis se rapprochent, museau contre oreille, comme pour se confier un secret. Le chacal à chabraque, reconnaissable à son manteau brun-roux et à sa selle sombre sur le dos, est l'un des canidés les plus sociaux de la savane africaine. Ces jeux d'apparence anodine sont en réalité une école : endurance, communication, confiance mutuelle."
+    },
+    "quickFacts": {
+      "fr-FR": "Les dauphins se donnent des \"noms\" sous forme de sifflements uniques et utilisent ceux de leurs amis pour les appeler spécifiquement, même à distance."
+    },
+    "captions": {
+      "fr-FR": "Journée internationale de l’amitié"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+de+l%e2%80%99amiti%c3%a9&form=hpcapt&filters=HpDate%3a%2220260729_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.WildJackalFriends_FR-FR7398331328"
+    }
+  },
   "VerdonKayaks": {
     "name": "VerdonKayaks",
     "urlbase": "/th?id=OHR.VerdonKayaks_FR-FR6935931270",
@@ -2089,38 +2109,6 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.VerdonKayaks_FR-FR6935931270"
-    }
-  },
-  "DeerGrass": {
-    "name": "DeerGrass",
-    "urlbase": "/th?id=OHR.DeerGrass_FR-FR3634474861",
-    "date": "20260715",
-    "dateFormatted": "July 15, 2026",
-    "markets": [
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "fr-FR": "Sieste estivale. Cerf dans l’herbe, parc de Merlet, Haute-Savoie"
-    },
-    "copyrights": {
-      "fr-FR": "Cerf sika dans l’herbe, parc de Merlet, Haute-Savoie (© porojnicu/Getty Images)"
-    },
-    "descs": {
-      "fr-FR": "Perché à 1 563 mètres d'altitude au-dessus de Chamonix, le parc Merlet abrite une espèce venue d'Asie de l'Est : le cerf sika (Cervus nippon), introduit en Europe à la fin du XIXᵉ siècle à des fins d'élevage et d'agrément."
-    },
-    "quickFacts": {},
-    "captions": {
-      "fr-FR": "Cerf dans l’herbe, parc de Merlet, Haute-Savoie"
-    },
-    "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=cerf+sika&form=hpcapt&filters=HpDate%3a%2220260715_2200%22"
-    },
-    "urlbases": {
-      "fr-FR": "/th?id=OHR.DeerGrass_FR-FR3634474861"
     }
   },
   "SardegnaFaro": {
@@ -2315,38 +2303,6 @@
       "pt-BR": "/th?id=OHR.SoccerDay_PT-BR5859476382"
     }
   },
-  "Tanager": {
-    "name": "Tanager",
-    "urlbase": "/th?id=OHR.Tanager_PT-BR3453059902",
-    "date": "20260715",
-    "dateFormatted": "July 15, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Sete cores, zero discrição"
-    },
-    "copyrights": {
-      "pt-BR": "Saíra-sete-cores pousada em um galho em São Paulo (© Juan Carlos Vindas/Getty Images)"
-    },
-    "descs": {
-      "pt-BR": "Em boa parte do Brasil, julho é sinônimo de frio, neblina e tons discretos. A saíra-sete-cores vai na direção contrária. Verde, azul, turquesa, amarelo e toques de violeta se combinam em um corpo de pouco mais de 13 centímetros, que surge entre os galhos como um argumento vivo a favor da extravagância. Não à toa, ela é figura frequente em listas das aves mais bonitas do mundo."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=saira+sete+cores&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.Tanager_PT-BR3453059902"
-    }
-  },
   "KaysersbergVillage": {
     "name": "KaysersbergVillage",
     "urlbase": "/th?id=OHR.KaysersbergVillage_JA-JP4774929635",
@@ -2499,6 +2455,197 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "MarieLake": {
+    "name": "MarieLake",
+    "urlbase": "/th?id=OHR.MarieLake_EN-US0365186943",
+    "date": "20260715",
+    "dateFormatted": "July 15, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California",
+      "en-CA": "The reward after the climb. Marie Lake, John Muir Wilderness near Bishop, California, USA",
+      "en-GB": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States",
+      "de-DE": "Die Belohnung nach der Wanderung. Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA",
+      "it-IT": "La ricompensa dopo la scalata",
+      "es-ES": "La recompensa tras la subida. Marie Lake, Área silvestre John Muir, California, EE. UU.",
+      "ja-JP": "山々に囲まれた湖",
+      "zh-CN": "攀登后的奖励",
+      "en-IN": "The reward after the climb. Marie Lake, John Muir Wilderness, California, United States"
+    },
+    "copyrights": {
+      "en-US": "Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)",
+      "en-CA": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+      "en-GB": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+      "de-DE": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA (© Steve Dunleavy/Getty Images)",
+      "it-IT": "Marie Lake, Area selvaggia John Muir vicino a Bishop, California, USA (© Steve Dunleavy/Getty Images)",
+      "es-ES": "Marie Lake, Área silvestre John Muir cerca de Bishop, California, EE. UU. (© Steve Dunleavy/Getty Images)",
+      "ja-JP": "マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)",
+      "zh-CN": "玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)",
+      "en-IN": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)"
+    },
+    "descs": {
+      "en-US": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes, and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "en-CA": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,630 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "en-GB": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres (263,000 hectares) of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "de-DE": "Die John Muir Wilderness in der Nähe von Bishop in Kalifornien, USA, zählt zu den eindrucksvollsten Hochgebirgslandschaften der Sierra Nevada. Das 1964 eingerichtete Schutzgebiet erstreckt sich über eine weite, nahezu unberührte Region mit Granitformationen, klaren Seen und alpinen Tälern. Berühmte Fernwanderwege führen durch dieses Gebiet und ziehen Naturbegeisterte aus aller Welt an. Inmitten dieser Landschaft liegt der Marie Lake auf etwa 3.215 Metern Höhe, eingebettet zwischen Felsen und lichten Wäldern. Sein klares Wasser spiegelt die umliegenden Berge und macht ihn zu einem eindrucksvollen Ziel nach einem langen Aufstieg.",
+      "es-ES": "En el área silvestre John Muir, cerca de Bishop, en California, Estados Unidos, las montañas cuentan una historia grabada en granito, lagos y valles moldeados durante millones de años. Este espacio protegido, creado en 1964, forma parte de la Sierra Nevada estadounidense y recuerda, por su altitud y paisaje alpino, a grandes macizos de alta montaña en España, como los Pirineos, donde la naturaleza también marca el ritmo.",
+      "ja-JP": "ジョン・ミュア・ウィルダネスは、1964 年に設立された約 2600km² の面積を誇る広大な原生自然の保護区域です。米国カリフォルニア州のシエラネバダ山脈中央部に位置しています。4000m を超える山々が連なる米国最大級の高地原生地域の一つであり、多くのハイカーを惹きつけています。そして、今日の画像は、保護区域内の標高約 3200m に位置するマリー・レイク。静かな高山湖として、バックパッカーに人気の撮影スポットです。",
+      "en-IN": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,600 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+      "it-IT": "Nell'Area selvaggia John Muir, vicino a Bishop, in California, la montagna racconta milioni di anni di storia attraverso valli, laghi e imponenti formazioni granitiche. Istituita nel 1964, questa vasta zona protetta si estende per oltre 263.000 ettari nella Sierra Nevada. Sentieri iconici come il Pacific Crest Trail attraversano questi paesaggi d'alta quota, offrendo un'esperienza che, per isolamento e natura intatta, può ricordare le aree più remote del Parco Nazionale dello Stelvio.",
+      "zh-CN": "攀登后的奖励. 玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国. 如果山脉能够记录过去，那么位于加利福尼亚州毕晓普附近的约翰·缪尔荒野保护区将拥有丰富的历史资料可供分享。这里的山谷、湖泊和花岗岩地貌诉说着数百万年来的演变历程。这片广袤的保护区成立于1964年，横跨内华达山脉超过65万英亩的土地，并以博物学家约翰·缪尔的名字命名。如今，太平洋山脊步道和约翰·缪尔步道的部分路段穿过这里，吸引着徒步旅行者来到美国本土最大的高海拔荒野地区之一。"
+    },
+    "quickFacts": {
+      "zh-CN": "约翰·缪尔荒野包含阿拉斯加州以外美国本土的一些最高山峰，其中包括惠特尼峰，它是美国本土最高的山脉，海拔达14,505英尺（约 4,421 米）。"
+    },
+    "captions": {
+      "en-US": "Marie Lake, John Muir Wilderness near Bishop, California",
+      "en-CA": "Marie Lake, John Muir Wilderness near Bishop, California, USA"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0700%22",
+      "en-CA": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MarieLake_EN-US0365186943",
+      "en-CA": "/th?id=OHR.MarieLake_EN-CA6168691994"
+    }
+  },
+  "VictoriaBeach": {
+    "name": "VictoriaBeach",
+    "urlbase": "/th?id=OHR.VictoriaBeach_EN-GB5330505184",
+    "date": "20260715",
+    "dateFormatted": "July 15, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
+      "en-US": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia",
+      "pt-BR": "A arte lenta das marés",
+      "de-DE": "Zwischen zwei Welten. Luftaufnahme von Land und Meer, Victoria, Australien",
+      "fr-FR": "Le pays des rivages mouvants. Vue aérienne des terres et de l'océan, Victoria, Australie",
+      "it-IT": "La terra delle coste in movimento",
+      "es-ES": "La tierra de las orillas móviles. Vista aérea de tierra y océano, Victoria, Australia",
+      "ja-JP": "浜辺に打ち寄せる波",
+      "zh-CN": "陆地与海洋的鸟瞰图",
+      "en-IN": "The land of moving shorelines. Aerial view of land and ocean, Victoria, Australia"
+    },
+    "copyrights": {
+      "en-GB": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
+      "en-US": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
+      "pt-BR": "Vista aérea da costa de Vitória, Austrália (© Nearmap/Getty Images)",
+      "de-DE": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
+      "fr-FR": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
+      "it-IT": "Veduta aerea di terra e oceano, Victoria, Australia (© Nearmap/Getty Images)",
+      "es-ES": "Vista aérea de tierra y océano, Victoria, Australia (© Nearmap/Getty Images)",
+      "ja-JP": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
+      "zh-CN": "陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)",
+      "en-IN": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)"
+    },
+    "descs": {
+      "en-GB": "Victoria, a southeastern state of Australia, extends along more than 1,100 miles of mainland coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands and seaside towns.",
+      "en-US": "Victoria, a southeastern state of Australia, extends along more than 1,000 miles of coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands, and seaside towns.",
+      "de-DE": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
+      "fr-FR": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
+      "es-ES": "Victoria, en el sureste de Australia, despliega más de 1.800 kilómetros de costa modelada por el océano Antártico, donde playas de arena clara se funden con aguas turquesas y acantilados escarpados. Desde el aire, el paisaje recuerda por momentos a la Costa Brava en Girona, aunque aquí la escala es más salvaje y abierta.",
+      "ja-JP": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
+      "en-IN": "Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
+      "it-IT": "Victoria, stato nel sud-est dell’Australia, si estende lungo oltre 1.800 km di costa modellata dall’Oceano Meridionale: dall’alto, le sue spiagge appaiono come nastri chiari tra acque turchesi e scogliere scolpite. Questo dialogo continuo tra terra e mare ricorda, per intensità e varietà, alcuni tratti della Sardegna o della Costiera Amalfitana, pur con un carattere più selvaggio e ventoso. La celebre Great Ocean Road percorre circa 240 km di litorale, tra spot di surf, promontori boscosi e piccoli centri affacciati sull’oceano.",
+      "pt-BR": "A imagem do dia traz o litoral do estado australiano de Vitória, onde o encontro entre terra e mar está sempre sendo redesenhado. Faixas de areia clara se alternam com água azul intensa e paredões que parecem ter sido recortados com cuidado, em um cenário marcado pela ação contínua do oceano.",
+      "zh-CN": "陆地与海洋的鸟瞰图. 陆地与海洋的鸟瞰图，维多利亚州，澳大利亚. 维多利亚州位于澳大利亚东南部，坐拥由南大洋雕琢而成的绵延千余英里的海岸线。从高空俯瞰，这里的海滩宛如一条条宽阔的浅色沙带，边缘环绕着碧绿的海水与崎岖的峭壁。这种海陆交融的独特景致构成了该地区的主要魅力所在。著名的“大洋路”沿这段海岸线蜿蜒延伸约150英里，途经热门冲浪胜地、林木葱郁的海角以及各具特色的海滨小镇。"
+    },
+    "quickFacts": {
+      "zh-CN": "十二使徒岩一直在发生变化；在2005年发生一次重大坍塌后，最初的石灰岩柱目前仅存八座。"
+    },
+    "captions": {
+      "en-GB": "Aerial view of land and ocean, Victoria, Australia"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260715_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.VictoriaBeach_EN-GB5330505184"
+    }
+  },
+  "DeerGrass": {
+    "name": "DeerGrass",
+    "urlbase": "/th?id=OHR.DeerGrass_FR-FR3634474861",
+    "date": "20260715",
+    "dateFormatted": "July 15, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Sieste estivale. Cerf dans l’herbe, parc de Merlet, Haute-Savoie"
+    },
+    "copyrights": {
+      "fr-FR": "Cerf sika dans l’herbe, parc de Merlet, Haute-Savoie (© porojnicu/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Perché à 1 563 mètres d'altitude au-dessus de Chamonix, le parc Merlet abrite une espèce venue d'Asie de l'Est : le cerf sika (Cervus nippon), introduit en Europe à la fin du XIXᵉ siècle à des fins d'élevage et d'agrément."
+    },
+    "quickFacts": {},
+    "captions": {
+      "fr-FR": "Cerf dans l’herbe, parc de Merlet, Haute-Savoie"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=cerf+sika&form=hpcapt&filters=HpDate%3a%2220260715_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.DeerGrass_FR-FR3634474861"
+    }
+  },
+  "Tanager": {
+    "name": "Tanager",
+    "urlbase": "/th?id=OHR.Tanager_PT-BR3453059902",
+    "date": "20260715",
+    "dateFormatted": "July 15, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Sete cores, zero discrição"
+    },
+    "copyrights": {
+      "pt-BR": "Saíra-sete-cores pousada em um galho em São Paulo (© Juan Carlos Vindas/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Em boa parte do Brasil, julho é sinônimo de frio, neblina e tons discretos. A saíra-sete-cores vai na direção contrária. Verde, azul, turquesa, amarelo e toques de violeta se combinam em um corpo de pouco mais de 13 centímetros, que surge entre os galhos como um argumento vivo a favor da extravagância. Não à toa, ela é figura frequente em listas das aves mais bonitas do mundo."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=saira+sete+cores&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Tanager_PT-BR3453059902"
     }
   },
   "RathYatra2026": {
