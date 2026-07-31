@@ -1,4 +1,115 @@
 {
+  "NavajoNation": {
+    "name": "NavajoNation",
+    "urlbase": "/th?id=OHR.NavajoNation_EN-US6947714656",
+    "date": "20260730",
+    "dateFormatted": "July 30, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona",
+      "en-GB": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
+      "en-CA": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
+      "it-IT": "Un paesaggio di storia vivente",
+      "es-ES": "Un paisaje de patrimonio vivo. Valle de los Monumentos, Nación Navajo, Arizona, EE. UU.",
+      "ja-JP": "夕暮れの砂漠を貫く道",
+      "zh-CN": "旷野无声，活态传承之境",
+      "en-IN": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States"
+    },
+    "copyrights": {
+      "en-US": "Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)",
+      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+      "en-CA": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+      "it-IT": "Monument Valley, Nazione Navajo, Arizona, USA (© Westend61/Adobe Stock)",
+      "es-ES": "El Valle de los Monumentos, Nación Navajo, Arizona, EE. UU. (© Westend61/Adobe Stock)",
+      "ja-JP": "モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock)",
+      "zh-CN": "在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)",
+      "en-IN": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)"
+    },
+    "descs": {
+      "en-US": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 1,000 feet above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "en-GB": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "en-CA": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 305 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "es-ES": "Hay paisajes famosos y hay paisajes que se convierten en leyenda. Monument Valley, en la frontera entre Arizona y Utah, dentro de la Nación Navajo, en Estados Unidos, pertenece a esa segunda categoría. Sus gigantescas torres de arenisca roja —algunas superan los 300 metros de altura sobre el valle— no son simples formaciones geológicas: para el pueblo navajo, las icónicas Mitten Buttes son las manos de un gigante dispersadas por la tierra tras una gran batalla.",
+      "ja-JP": "ここはモニュメント・バレー。米国のアリゾナ州とユタ州にまたがるナバホ族の準自治領「ナバホ・ネイション」内に広がる地域です。テーブル状の台地「メサ」や、侵食によって形成された「ビュート」という孤立丘が点在しているのが特徴です。これらが独特の景観を生み出し、世界中から観光客が訪れる景勝地となっています。また、西部劇映画の定番のロケ地として知られており、映画監督ジョン・フォードが撮影を行った場所は「ジョン・フォード・ポイント」と呼ばれる人気の写真撮影スポットとなっています。",
+      "en-IN": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "it-IT": "Ci sono paesaggi famosi e poi c'è Monument Valley, che appartiene a una categoria a sé. Al confine tra Arizona e Utah, Stati Uniti, nel cuore della Nazione Navajo, le \"mesas\" e i monoliti di arenaria rossa si innalzano fino a 300 metri dal suolo del deserto. In lingua Navajo si chiama Tsé Bii' Ndzisgaii — \"la valle delle rocce\" — e il suo colore intenso deriva dall'ossido di ferro e dal manganese presenti nella pietra.",
+      "zh-CN": "旷野无声，活态传承之境. 在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国. 在纳瓦霍族保留地，亚利桑那州与犹他州交界处，美国，有些景观举世闻名，而纪念碑谷则堪称传奇。这一沙漠奇观横跨州界，其地貌由高耸的砂岩孤峰塑造而成，这些孤峰从谷底拔地而起，高度可达1000英尺。在纳瓦霍语中，该地区被称为 Tsé Bii' Ndzisgaii（意为“岩石之谷”），它将壮丽的地质构造与鲜活的民族文化完美融合。"
+    },
+    "quickFacts": {
+      "zh-CN": "阿甘结束其跨国长跑的著名地点位于163号美国国道，这里拥有俯瞰山谷的最具标志性视野，在纪念碑谷，纳瓦霍族保留地，美国。"
+    },
+    "captions": {
+      "en-US": "Monument Valley, Navajo Nation, Arizona",
+      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States",
+      "en-CA": "Monument Valley, Navajo Nation, Arizona, United States",
+      "it-IT": "",
+      "es-ES": "Valle de los Monumentos, Nación Navajo, Arizona, EE. UU.",
+      "ja-JP": "夕暮れの砂漠を貫く道",
+      "zh-CN": "",
+      "en-IN": "Monument Valley, Navajo Nation, Arizona, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260730_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260730_0400%22",
+      "it-IT": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=El+Valle+de+los+Monumentos&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a2%e3%83%8b%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88%e3%83%bb%e3%83%90%e3%83%ac%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260729_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%ba%aa%e5%bf%b5%e7%a2%91%e8%b0%b7&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.NavajoNation_EN-US6947714656",
+      "en-GB": "/th?id=OHR.NavajoNation_EN-GB6080318819",
+      "en-CA": "/th?id=OHR.NavajoNation_EN-CA0609244482",
+      "it-IT": "/th?id=OHR.NavajoNation_IT-IT8632328338",
+      "es-ES": "/th?id=OHR.NavajoNation_ES-ES2923536313",
+      "ja-JP": "/th?id=OHR.NavajoNation_JA-JP5174852282",
+      "zh-CN": "/th?id=OHR.NavajoNation_ZH-CN9274387505",
+      "en-IN": "/th?id=OHR.NavajoNation_EN-IN0765516783"
+    }
+  },
   "TigerFamily": {
     "name": "TigerFamily",
     "urlbase": "/th?id=OHR.TigerFamily_EN-US4918106900",
@@ -751,7 +862,7 @@
       "en-CA": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Fittingly, Canadians mark the day alongside their neighbour and, you could say, cousin to the south: the United States. Whether you grew up at the cottage, camping, skating or gathering for a long weekend barbecue, cousins often share some of life's best memories.",
       "de-DE": "Auf der Insel Isabela lebt ein Schwarm Kubaflamingos in den flachen Lagunen der Galápagos-Inseln, die zu Ecuador gehören. Die eleganten Vögel bewegen sich oft gemeinsam durch das seichte Wasser und suchen dort nach kleinen Krebstieren, Insekten und anderen Nahrungsquellen. Mit ihren langen Beinen und geschwungenen Hälsen prägen sie das Bild vieler Feuchtgebiete der Insel. Vor der Kulisse dunkler Lavafelder und vulkanischer Landschaften bieten sie einen besonders eindrucksvollen Anblick und zählen zu den bekanntesten Vogelarten des Archipels.",
       "fr-FR": "La langue française réserve parfois ses plus belles trouvailles aux assemblées d’animaux. Sur l’île Isabela, dans l’archipel des Galápagos, en Équateur, les lagunes saumâtres accueillent ainsi une « flamboyance » de flamants roses des Caraïbes — terme aussi vif que leur plumage, teinté de corail par les crevettes et algues qu’ils filtrent dans la boue tiède.",
-      "ja-JP": "今日は米国いとこの日. ベニイロフラミンゴ, エクアドル. 今日 7 月 24 日は米国いとこの日。兄弟姉妹のようでありながら、友人のような存在でもある「いとこ」という繋がりを祝う日です。そして画像は、エクアドルのガラパゴス諸島に生息するフラミンゴの群れ。彼らは、単独で行動するのではなく、群れをなして集まり、一緒に餌を食べ、仲間と動きを揃えて移動します。直接的な血の繋がりがなくとも「家族」のように繋がっているという、いとこという関係性を思わせる光景です。",
+      "ja-JP": "今日 7 月 24 日は米国いとこの日。兄弟姉妹のようでありながら、友人のような存在でもある「いとこ」という繋がりを祝う日です。そして画像は、エクアドルのガラパゴス諸島に生息するフラミンゴの群れ。彼らは、単独で行動するのではなく、群れをなして集まり、一緒に餌を食べ、仲間と動きを揃えて移動します。直接的な血の繋がりがなくとも「家族」のように繋がっているという、いとこという関係性を思わせる光景です。",
       "en-IN": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. The celebration originated in the United States, but some countries have adopted it as a fun way to honour family bonds.",
       "it-IT": "Alle Isole Galápagos, in Ecuador, i fenicotteri americani non si muovono mai da soli: vivono in stormi rumorosi, si nutrono insieme e camminano sincronizzati lungo le rive saline. Il loro inconfondibile rosa acceso non è innato, ma conquistato: nasce da una dieta ricca di alghe e piccoli crostacei, a riprova che l'identità si costruisce giorno per giorno.",
       "pt-BR": "Antes de existir rede social, os flamingos já dominavam a arte de andar em grupo. Na imagem, estes exemplares das Ilhas Galápagos transformam uma área alagada numa convenção colorida. Raramente estão sozinhos: comem, voam e até descansam juntos, formando grandes concentrações que podem ser vistas a quilômetros de distância.",
@@ -1657,36 +1768,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1720,109 +1801,20 @@
       "zh-CN": "克里特岛是欧洲最早的高级文明：米诺斯文明的发源地，其兴盛时期约从公元前2700年延续至公元前1420年。"
     },
     "captions": {
-      "en-US": "Vai, Crete, Greece",
-      "en-GB": "Vai, Crete, Greece",
-      "de-DE": "Vai, Kreta, Griechenland",
-      "fr-FR": "Plage de Vaï, Crète, Grèce",
-      "it-IT": "",
-      "zh-CN": "",
-      "en-IN": "Vai, Crete, Greece"
+      "en-US": "Vai, Crete, Greece"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260717_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Kreta+Griechenland&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Cr%c3%a8te&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
-      "it-IT": "https://www.bing.com/search?q=L%27isola+Creta+Grecia&form=hpcapt",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e5%85%8b%e9%87%8c%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_1830%22"
+      "en-US": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260717_0700%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.VaiUmbrellas_EN-US8985051242",
-      "en-GB": "/th?id=OHR.VaiUmbrellas_EN-GB3361752741",
-      "de-DE": "/th?id=OHR.VaiUmbrellas_DE-DE2887576952",
-      "fr-FR": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342",
-      "it-IT": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780",
-      "zh-CN": "/th?id=OHR.VaiUmbrellas_ZH-CN1271422272",
-      "en-IN": "/th?id=OHR.VaiUmbrellas_EN-IN8171582034"
+      "en-US": "/th?id=OHR.VaiUmbrellas_EN-US8985051242"
     }
   },
-  "NavyPier": {
-    "name": "NavyPier",
-    "urlbase": "/th?id=OHR.NavyPier_EN-US1069960047",
-    "date": "20260716",
-    "dateFormatted": "July 16, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "A waterfront chameleon. Navy Pier, Chicago, Illinois",
-      "en-CA": "A waterfront chameleon. Navy Pier, Chicago, Illinois, United States",
-      "pt-BR": "Um cais camaleônico",
-      "de-DE": "Ein Wahrzeichen Chicagos. Navy Pier in Chicago, Illinois, USA",
-      "it-IT": "Divertimento sul molo",
-      "es-ES": "Un camaleón en el puerto. Muelle de la Armada, Chicago, Illinois, EE. UU.",
-      "ja-JP": "活気あふれる桟橋の夜景",
-      "zh-CN": "滨水变色龙"
-    },
-    "copyrights": {
-      "en-US": "Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)",
-      "en-CA": "Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)",
-      "pt-BR": "Navy Pier, Chicago, Illinois, Estados Unidos (© Christopher.F Photography/Getty Images)",
-      "de-DE": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
-      "it-IT": "Navy Pier, Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
-      "es-ES": "Muelle de la Armada, Chicago, Illinois, EE. UU. (© Christopher.F Photography/Getty Images)",
-      "ja-JP": "ネイビー・ピア, 米国イリノイ州 (© Christopher.F Photography/Getty Images)",
-      "zh-CN": "海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, falls into the second category. The structure stretches more than 3,000 feet into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation, and passenger travel on Lake Michigan. It was renamed Navy Pier in honor of World War I naval veterans.",
-      "en-CA": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
-      "de-DE": "Der Navy Pier am Ufer des Michigansees in Chicago, USA, gilt als eines der bekanntesten Wahrzeichen der Stadt und steht exemplarisch für ihren Wandel. Seine Planung geht auf das Jahr 1909 zurück, als Daniel Burnham und Edward H. Bennett einen umfassenden Stadtplan entwickelten. Der Pier wurde 1916 eröffnet und diente zunächst als Umschlagplatz für Waren, als Anlegestelle für Passagiere sowie als Erholungsort für die Bevölkerung.",
-      "es-ES": "En el Muelle de la Armada, en Chicago, Estados Unidos, una pasarela histórica se adentra más de 900 m en el lago Míchigan y muestra cómo un espacio puede reinventarse sin dejar atrás su pasado. Diseñado dentro del Plan de Chicago de 1909 y abierto en 1916, nació como punto estratégico para transporte, ocio y comercio, además de rendir homenaje a los veteranos navales de la Primera Guerra Mundial.",
-      "ja-JP": "ここは、ネイビー・ピア。米国イリノイ州シカゴの、ミシガン湖岸に延びる全長約 1km の桟橋です。1914 年にシカゴ都市計画の一環として建設が始まり、1916 年に一般公開されました。当初は貨物輸送などを担う公共インフラでしたが、第二次世界大戦中には米国海軍の訓練拠点としても利用されていました。現在は、公園やイベントスペース、レストランなどが並ぶ観光名所となり、日々多くの人々が訪れています。",
-      "it-IT": "Al Navy Pier di Chicago, un molo lungo più di 900 metri dimostra come un luogo possa cambiare anima senza perdere identità. Nato nel 1916 all'interno del piano urbanistico del 1909, fu progettato per il trasporto di merci, viaggiatori e lo svago sul Lago Michigan, poi dedicato ai veterani della Prima guerra mondiale.",
-      "pt-BR": "O Navy Pier, em Chicago, tem um currículo que poucos lugares conseguem igualar. Avançando mais de 1 quilômetro sobre as águas do Lago Michigan, ele foi inaugurado em 1916 como um dos maiores píeres do mundo. Recebia cargas, passageiros e atividades de lazer em uma cidade que crescia diante de um dos Grandes Lagos.",
-      "zh-CN": "滨水变色龙. 海军码头，芝加哥，伊利诺伊州，美国. 有些地方的建造目的单一，而有些地方则不断推陈出新。位于伊利诺伊州芝加哥的海军码头就属于后者。这座码头向湖中延伸超过3000英尺，是爱德华·H·贝内特和丹尼尔·伯纳姆于1909年制定的芝加哥规划的一部分。码头于1916年开放，最初是为了服务于密歇根湖上的航运、休闲娱乐和客运而建。为了纪念第一次世界大战的海军老兵，码头被更名为海军码头。"
-    },
-    "quickFacts": {
-      "zh-CN": "海军码头最初被命名为“市立码头”，但在 1927 年被正式更名为“海军码头”，以纪念在第一次世界大战期间服役的海军官兵。"
-    },
-    "captions": {
-      "en-US": "Navy Pier, Chicago, Illinois",
-      "en-CA": "Navy Pier, Chicago, Illinois, United States",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Navy+Pier+Estados+Unidos&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.NavyPier_EN-US1069960047",
-      "en-CA": "/th?id=OHR.NavyPier_EN-CA7051482723",
-      "pt-BR": "/th?id=OHR.NavyPier_PT-BR4218227814"
-    }
-  },
-  "NavajoNation": {
-    "name": "NavajoNation",
-    "urlbase": "/th?id=OHR.NavajoNation_EN-GB6080318819",
-    "date": "20260729",
-    "dateFormatted": "July 29, 2026",
+  "VirginiaTrail": {
+    "name": "VirginiaTrail",
+    "urlbase": "/th?id=OHR.VirginiaTrail_EN-GB6394833598",
+    "date": "20260730",
+    "dateFormatted": "July 30, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1830,14 +1822,14 @@
         "flag": "gb"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
       },
       {
         "code": "ja-JP",
@@ -1856,61 +1848,64 @@
       }
     ],
     "titles": {
-      "en-GB": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
-      "it-IT": "Un paesaggio di storia vivente",
-      "es-ES": "Un paisaje de patrimonio vivo. Valle de los Monumentos, Nación Navajo, Arizona, EE. UU.",
-      "ja-JP": "夕暮れの砂漠を貫く道",
-      "zh-CN": "旷野无声，活态传承之境",
-      "en-IN": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
-      "en-US": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona",
-      "en-CA": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States"
+      "en-GB": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
+      "de-DE": "Eine Reise durch die Zeit. Virginia Creeper Trail, Damascus, Virginia, USA",
+      "fr-FR": "Traverser le temps. Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
+      "ja-JP": "深緑の森を貫く木道",
+      "zh-CN": "穿越时光的足迹",
+      "en-IN": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
+      "en-US": "Trailing through time. Aerial view of the Virginia Creeper Trail, Damascus, Virginia",
+      "en-CA": "Trailing through time. Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States",
+      "pt-BR": "Dos trilhos às trilhas. Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos"
     },
     "copyrights": {
-      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
-      "it-IT": "Monument Valley, Nazione Navajo, Arizona, USA (© Westend61/Adobe Stock)",
-      "es-ES": "El Valle de los Monumentos, Nación Navajo, Arizona, EE. UU. (© Westend61/Adobe Stock)",
-      "ja-JP": "モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock)",
-      "zh-CN": "在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)",
-      "en-IN": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
-      "en-US": "© Westend61/Adobe Stock",
-      "en-CA": "© Westend61/Adobe Stock"
+      "en-GB": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
+      "de-DE": "Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA (© Eifel Kreutz/Getty Images)",
+      "fr-FR": "Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)",
+      "ja-JP": "バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)",
+      "zh-CN": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)",
+      "en-IN": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
+      "en-US": "© Eifel Kreutz/Getty Images",
+      "en-CA": "© Eifel Kreutz/Getty Images",
+      "pt-BR": "© Eifel Kreutz/Getty Images"
     },
     "descs": {
-      "en-GB": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
-      "es-ES": "Hay paisajes famosos y hay paisajes que se convierten en leyenda. Monument Valley, en la frontera entre Arizona y Utah, dentro de la Nación Navajo, en Estados Unidos, pertenece a esa segunda categoría. Sus gigantescas torres de arenisca roja —algunas superan los 300 metros de altura sobre el valle— no son simples formaciones geológicas: para el pueblo navajo, las icónicas Mitten Buttes son las manos de un gigante dispersadas por la tierra tras una gran batalla.",
-      "ja-JP": "ここはモニュメント・バレー。米国のアリゾナ州とユタ州にまたがるナバホ族の準自治領「ナバホ・ネイション」内に広がる地域です。テーブル状の台地「メサ」や、侵食によって形成された「ビュート」という孤立丘が点在しているのが特徴です。これらが独特の景観を生み出し、世界中から観光客が訪れる景勝地となっています。また、西部劇映画の定番のロケ地として知られており、映画監督ジョン・フォードが撮影を行った場所は「ジョン・フォード・ポイント」と呼ばれる人気の写真撮影スポットとなっています。",
-      "en-IN": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
-      "en-US": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 1,000 feet above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
-      "en-CA": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 305 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
-      "it-IT": "Ci sono paesaggi famosi e poi c'è Monument Valley, che appartiene a una categoria a sé. Al confine tra Arizona e Utah, Stati Uniti, nel cuore della Nazione Navajo, le \"mesas\" e i monoliti di arenaria rossa si innalzano fino a 300 metri dal suolo del deserto. In lingua Navajo si chiama Tsé Bii' Ndzisgaii — \"la valle delle rocce\" — e il suo colore intenso deriva dall'ossido di ferro e dal manganese presenti nella pietra.",
-      "zh-CN": "旷野无声，活态传承之境. 在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国. 在纳瓦霍族保留地，亚利桑那州与犹他州交界处，美国，有些景观举世闻名，而纪念碑谷则堪称传奇。这一沙漠奇观横跨州界，其地貌由高耸的砂岩孤峰塑造而成，这些孤峰从谷底拔地而起，高度可达1000英尺。在纳瓦霍语中，该地区被称为 Tsé Bii' Ndzisgaii（意为“岩石之谷”），它将壮丽的地质构造与鲜活的民族文化完美融合。"
+      "en-GB": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "de-DE": "Aus der Luft zeigt sich der Virginia Creeper Trail als grünes Band, das sich durch die bewaldeten Landschaften im Südwesten des US-Bundesstaates Virginia schlängelt. Die heute beliebte Freizeitroute verläuft auf einer ehemaligen Eisenbahnstrecke, die einst für den Transport von Holz und Eisenerz durch die Appalachen genutzt wurde. Ihren ungewöhnlichen Namen verdankt die Strecke den Dampflokomotiven, die zu Beginn des 20. Jahrhunderts die steilen Anstiege nur langsam bewältigen konnten. Auf einer Länge von rund 55 Kilometern verbindet der Weg reizvolle Natur mit einem Stück regionaler Geschichte und bietet immer wieder weite Ausblicke auf Berge, Täler und Flüsse in den Vereinigten Staaten.",
+      "fr-FR": "À Damascus, en Virginie, États-Unis, l’ancienne voie ferrée s’est tue, mais son parcours respire encore. Sur 55 km à travers les Appalaches, le Virginia Creeper Trail suit l’ancienne ligne qui transportait jadis bois et minerai de fer, gravissant des pentes si raides qu’on disait des locomotives qu’elles « grimpaient comme une vigne vierge » — d’où son nom.",
+      "ja-JP": "深緑の森を貫く木道. バージニア・クリーパー・トレイル, 米国 バージニア州. 今日の画像は、米国バージニア州ダマスカス周辺を走るバージニア・クリーパー・トレイル。かつてアパラチア山脈を越えて木材や鉄鉱石を運んでいた鉄道の旧線路です。1957 年に蒸気機関車が引退した後、米国森林局によってレクリエーション・トレイルとして整備されました。全長 56km のトレイルは国有林を通り、美しい山々の風景の中、約 50 基の木製桁橋を渡ることができます。",
+      "en-IN": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 55.2 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "en-US": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that labored up steep grades in the early 1900s.",
+      "en-CA": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 55 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "pt-BR": "Algumas ferrovias encerram as atividades. A Virginia Creeper Trail reinventou a viagem. A imagem mostra parte dessa antiga linha férrea de 55 quilômetros, que por décadas levou madeira, minério e passageiros pelos Montes Apalaches. Hoje, quem passa por suas 47 pontes de madeira, rios e vales são ciclistas e caminhantes.",
+      "zh-CN": "穿越时光的足迹. 鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国. 有些铁路会退出历史舞台，而“弗吉尼亚爬山虎步道”则实现了华丽转身。这条步道全长34.3英里，横贯弗吉尼亚州西南部，沿用了一条昔日的铁路线——该线路曾用于在阿巴拉契亚山脉间运输木材和铁矿石。步道那独特的名字，源自20世纪初那些在陡峭坡道上艰难爬行的蒸汽机车。"
     },
     "quickFacts": {
-      "zh-CN": "阿甘结束其跨国长跑的著名地点位于163号美国国道，这里拥有俯瞰山谷的最具标志性视野，在纪念碑谷，纳瓦霍族保留地，美国。"
+      "zh-CN": "这条步道的英文名字“Virginia creeper”（弗吉尼亚爬山虎）具有双重寓意：一是指沿铁轨茂盛生长的当地原生五叶爬山虎植物，二是指20世纪初蒸汽机车在攀爬陡峭山坡时如蜗牛爬行般缓慢的行驶速度。"
     },
     "captions": {
-      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States",
-      "it-IT": "",
-      "es-ES": "Valle de los Monumentos, Nación Navajo, Arizona, EE. UU.",
-      "ja-JP": "夕暮れの砂漠を貫く道",
+      "en-GB": "Virginia Creeper Trail, Damascus, Virginia, United States",
+      "de-DE": "Virginia Creeper Trail, Damascus, Virginia, USA",
+      "fr-FR": "Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
+      "ja-JP": "深緑の森を貫く木道",
       "zh-CN": "",
-      "en-IN": "Monument Valley, Navajo Nation, Arizona, United States"
+      "en-IN": "Virginia Creeper Trail, Damascus, Virginia, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=El+Valle+de+los+Monumentos&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a2%e3%83%8b%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88%e3%83%bb%e3%83%90%e3%83%ac%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260729_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%ba%aa%e5%bf%b5%e7%a2%91%e8%b0%b7&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Virginia+Creeper+Trail+Wanderung+Informationen&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%bc%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%bb%e3%82%af%e3%83%aa%e3%83%bc%e3%83%91%e3%83%bc%e3%83%bb%e3%83%88%e3%83%ac%e3%82%a4%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220260730_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%bc%97%e5%90%89%e5%b0%bc%e4%ba%9a%e7%88%ac%e5%b1%b1%e8%99%8e%e6%ad%a5%e9%81%93&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.NavajoNation_EN-GB6080318819",
-      "it-IT": "/th?id=OHR.NavajoNation_IT-IT8632328338",
-      "es-ES": "/th?id=OHR.NavajoNation_ES-ES2923536313",
-      "ja-JP": "/th?id=OHR.NavajoNation_JA-JP5174852282",
-      "zh-CN": "/th?id=OHR.NavajoNation_ZH-CN9274387505",
-      "en-IN": "/th?id=OHR.NavajoNation_EN-IN0765516783"
+      "en-GB": "/th?id=OHR.VirginiaTrail_EN-GB6394833598",
+      "de-DE": "/th?id=OHR.VirginiaTrail_DE-DE3922991438",
+      "fr-FR": "/th?id=OHR.VirginiaTrail_FR-FR7594645617",
+      "ja-JP": "/th?id=OHR.VirginiaTrail_JA-JP5506669178",
+      "zh-CN": "/th?id=OHR.VirginiaTrail_ZH-CN2299501599",
+      "en-IN": "/th?id=OHR.VirginiaTrail_EN-IN1200650554"
     }
   },
   "GrainSilosSK": {
@@ -2111,6 +2106,38 @@
       "fr-FR": "/th?id=OHR.VerdonKayaks_FR-FR6935931270"
     }
   },
+  "IsoleEolie": {
+    "name": "IsoleEolie",
+    "urlbase": "/th?id=OHR.IsoleEolie_IT-IT8736401041",
+    "date": "20260730",
+    "dateFormatted": "July 30, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Le isole segrete della Sicilia"
+    },
+    "copyrights": {
+      "it-IT": "Cielo colorato al tramonto sopra barche a vela ormeggiate, Isole Eolie, Messina, Sicilia, Italia (© Paolo Graziosi/E+/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Quando il tramonto accende il cielo sopra le Isole Eolie, in provincia di Messina, Sicilia, le barche a vela ormeggiate si trasformano in sagome dorate su uno specchio di fuoco. Patrimonio UNESCO dal 2000, l'arcipelago è composto da sette isole vulcaniche — Lipari, Vulcano, Stromboli, Salina, Filicudi, Alicudi e Panarea — ognuna con un carattere distinto."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Isole+Eolie&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.IsoleEolie_IT-IT8736401041"
+    }
+  },
   "SardegnaFaro": {
     "name": "SardegnaFaro",
     "urlbase": "/th?id=OHR.SardegnaFaro_IT-IT8009785446",
@@ -2173,6 +2200,38 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.FestaVenezia_IT-IT8709585056"
+    }
+  },
+  "DeltaEbro": {
+    "name": "DeltaEbro",
+    "urlbase": "/th?id=OHR.DeltaEbro_ES-ES3023885514",
+    "date": "20260730",
+    "dateFormatted": "July 30, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Un grupo muy flamenco. Flamencos en el Delta del Ebro, Tarragona, España"
+    },
+    "copyrights": {
+      "es-ES": "Flamencos en el Delta del Ebro, Tarragona, España (© mafrmcfa/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "El Delta del Ebro, en Tarragona, esconde uno de los espectáculos naturales más impresionantes de la península: miles de flamencos rosados que tiñen de color las lagunas costeras cada verano. Este humedal, declarado Reserva de la Biosfera por la UNESCO, es uno de los refugios más importantes de Europa para esta especie."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Flamencos en el Delta del Ebro, Tarragona, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Parque+natural+del+Delta+del+Ebro&form=hpcapt&filters=HpDate%3a%2220260730_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.DeltaEbro_ES-ES3023885514"
     }
   },
   "GaliciaSpain": {
@@ -2239,36 +2298,36 @@
       "es-ES": "/th?id=OHR.IslaCristina_ES-ES8480409312"
     }
   },
-  "PerseidasTenerife": {
-    "name": "PerseidasTenerife",
-    "urlbase": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261",
-    "date": "20260716",
-    "dateFormatted": "July 16, 2026",
+  "Furada": {
+    "name": "Furada",
+    "urlbase": "/th?id=OHR.Furada_PT-BR7092103592",
+    "date": "20260730",
+    "dateFormatted": "July 30, 2026",
     "markets": [
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
       }
     ],
     "titles": {
-      "es-ES": "Un universo por descubrir. Observatorio Astronómico de Izaña, Tenerife, España"
+      "pt-BR": "Vento com licença poética"
     },
     "copyrights": {
-      "es-ES": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)"
+      "pt-BR": "Pedra Furada em Jericoacoara, Ceará (© Brendan van Son/Shutterstock)"
     },
     "descs": {
-      "es-ES": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo."
+      "pt-BR": "Jericoacoara, no Ceará, é o tipo de lugar onde o vento parece ter recebido liberdade criativa. Move dunas, remodela caminhos e, há milhares de anos, trabalha em parceria com o mar para esculpir uma de suas obras mais conhecidas: a Pedra Furada. Hoje símbolo de Jeri, este arco de arenito foi moldado lentamente até virar uma moldura natural para o Atlântico. Entre julho e agosto, ele faz seu truque mais famoso: o Sol se alinha perfeitamente ao vão da rocha ao se pôr, atravessando a abertura por poucos minutos antes de desaparecer atrás do mar."
     },
     "quickFacts": {},
     "captions": {
-      "es-ES": "Observatorio Astronómico de Izaña, Tenerife, España"
+      "pt-BR": ""
     },
     "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Observatorio+Astron%c3%b3mico+de+Izana+Tenerife&form=hpcapt&filters=HpDate%3a%2220260716_2200%22"
+      "pt-BR": "https://www.bing.com/search?q=Jericoacoara&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "es-ES": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261"
+      "pt-BR": "/th?id=OHR.Furada_PT-BR7092103592"
     }
   },
   "SoccerDay": {
@@ -2393,38 +2452,6 @@
       "ja-JP": "/th?id=OHR.Kawagoe2026_JA-JP2060864918"
     }
   },
-  "GionFestival2026": {
-    "name": "GionFestival2026",
-    "urlbase": "/th?id=OHR.GionFestival2026_JA-JP0488381919",
-    "date": "20260716",
-    "dateFormatted": "July 16, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日は祇園祭、前祭の山鉾巡行"
-    },
-    "copyrights": {
-      "ja-JP": "八坂神社の神紋が描かれた提灯, 京都府 京都市 (© Felix Choo/Alamy)"
-    },
-    "descs": {
-      "ja-JP": "7 月 1 日から 31 日まで、一ヶ月に渡る京都の神事・祇園祭。そして、今日 7 月 17 日に行われるのが、前祭の山鉾巡行です。釘を一本も使わず、「縄がらみ」と呼ばれる伝統技法で組み立てられた山鉾が、京都の町を練り歩くというもので、この「京都祇園祭の山鉾行事」はユネスコ無形文化遺産にも登録されています。7 月 24 日の後祭の二度行われる山鉾巡行ですが、前祭の見どころの一つが「生稚児」です。現在、生稚児と呼ばれる実際の子どもが乗るのは、前祭の先頭を進む「長刀鉾」のみで、巡行中に注連縄切りや稚児舞を披露し、祭の始まりと道中の清めを担います。また、山鉾の御神体や、懸装品が飾られた町会所では、子どもたちがわらべ唄を歌いながらお守りを販売する姿も見られます。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "今日は祇園祭、前祭の山鉾巡行"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e7%a5%87%e5%9c%92%e7%a5%ad%e3%80%81%e5%89%8d%e7%a5%ad%e3%81%ae%e5%b1%b1%e9%89%be%e5%b7%a1%e8%a1%8c&form=hpcapt&filters=HpDate%3a%2220260716_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.GionFestival2026_JA-JP0488381919"
-    }
-  },
   "GuruPurnima2026": {
     "name": "GuruPurnima2026",
     "urlbase": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905",
@@ -2455,6 +2482,141 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "NavyPier": {
+    "name": "NavyPier",
+    "urlbase": "/th?id=OHR.NavyPier_EN-US1069960047",
+    "date": "20260716",
+    "dateFormatted": "July 16, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "A waterfront chameleon. Navy Pier, Chicago, Illinois",
+      "en-CA": "A waterfront chameleon. Navy Pier, Chicago, Illinois, United States",
+      "pt-BR": "Um cais camaleônico",
+      "de-DE": "Ein Wahrzeichen Chicagos. Navy Pier in Chicago, Illinois, USA",
+      "it-IT": "Divertimento sul molo",
+      "es-ES": "Un camaleón en el puerto. Muelle de la Armada, Chicago, Illinois, EE. UU.",
+      "ja-JP": "活気あふれる桟橋の夜景",
+      "zh-CN": "滨水变色龙"
+    },
+    "copyrights": {
+      "en-US": "Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)",
+      "en-CA": "Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)",
+      "pt-BR": "Navy Pier, Chicago, Illinois, Estados Unidos (© Christopher.F Photography/Getty Images)",
+      "de-DE": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
+      "it-IT": "Navy Pier, Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
+      "es-ES": "Muelle de la Armada, Chicago, Illinois, EE. UU. (© Christopher.F Photography/Getty Images)",
+      "ja-JP": "ネイビー・ピア, 米国イリノイ州 (© Christopher.F Photography/Getty Images)",
+      "zh-CN": "海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, falls into the second category. The structure stretches more than 3,000 feet into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation, and passenger travel on Lake Michigan. It was renamed Navy Pier in honor of World War I naval veterans.",
+      "en-CA": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
+      "de-DE": "Der Navy Pier am Ufer des Michigansees in Chicago, USA, gilt als eines der bekanntesten Wahrzeichen der Stadt und steht exemplarisch für ihren Wandel. Seine Planung geht auf das Jahr 1909 zurück, als Daniel Burnham und Edward H. Bennett einen umfassenden Stadtplan entwickelten. Der Pier wurde 1916 eröffnet und diente zunächst als Umschlagplatz für Waren, als Anlegestelle für Passagiere sowie als Erholungsort für die Bevölkerung.",
+      "es-ES": "En el Muelle de la Armada, en Chicago, Estados Unidos, una pasarela histórica se adentra más de 900 m en el lago Míchigan y muestra cómo un espacio puede reinventarse sin dejar atrás su pasado. Diseñado dentro del Plan de Chicago de 1909 y abierto en 1916, nació como punto estratégico para transporte, ocio y comercio, además de rendir homenaje a los veteranos navales de la Primera Guerra Mundial.",
+      "ja-JP": "ここは、ネイビー・ピア。米国イリノイ州シカゴの、ミシガン湖岸に延びる全長約 1km の桟橋です。1914 年にシカゴ都市計画の一環として建設が始まり、1916 年に一般公開されました。当初は貨物輸送などを担う公共インフラでしたが、第二次世界大戦中には米国海軍の訓練拠点としても利用されていました。現在は、公園やイベントスペース、レストランなどが並ぶ観光名所となり、日々多くの人々が訪れています。",
+      "it-IT": "Al Navy Pier di Chicago, un molo lungo più di 900 metri dimostra come un luogo possa cambiare anima senza perdere identità. Nato nel 1916 all'interno del piano urbanistico del 1909, fu progettato per il trasporto di merci, viaggiatori e lo svago sul Lago Michigan, poi dedicato ai veterani della Prima guerra mondiale.",
+      "pt-BR": "O Navy Pier, em Chicago, tem um currículo que poucos lugares conseguem igualar. Avançando mais de 1 quilômetro sobre as águas do Lago Michigan, ele foi inaugurado em 1916 como um dos maiores píeres do mundo. Recebia cargas, passageiros e atividades de lazer em uma cidade que crescia diante de um dos Grandes Lagos.",
+      "zh-CN": "滨水变色龙. 海军码头，芝加哥，伊利诺伊州，美国. 有些地方的建造目的单一，而有些地方则不断推陈出新。位于伊利诺伊州芝加哥的海军码头就属于后者。这座码头向湖中延伸超过3000英尺，是爱德华·H·贝内特和丹尼尔·伯纳姆于1909年制定的芝加哥规划的一部分。码头于1916年开放，最初是为了服务于密歇根湖上的航运、休闲娱乐和客运而建。为了纪念第一次世界大战的海军老兵，码头被更名为海军码头。"
+    },
+    "quickFacts": {
+      "zh-CN": "海军码头最初被命名为“市立码头”，但在 1927 年被正式更名为“海军码头”，以纪念在第一次世界大战期间服役的海军官兵。"
+    },
+    "captions": {
+      "en-US": "Navy Pier, Chicago, Illinois",
+      "en-CA": "Navy Pier, Chicago, Illinois, United States",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Navy+Pier+Estados+Unidos&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.NavyPier_EN-US1069960047",
+      "en-CA": "/th?id=OHR.NavyPier_EN-CA7051482723",
+      "pt-BR": "/th?id=OHR.NavyPier_PT-BR4218227814"
+    }
+  },
+  "PerseidasTenerife": {
+    "name": "PerseidasTenerife",
+    "urlbase": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261",
+    "date": "20260716",
+    "dateFormatted": "July 16, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Un universo por descubrir. Observatorio Astronómico de Izaña, Tenerife, España"
+    },
+    "copyrights": {
+      "es-ES": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Observatorio Astronómico de Izaña, Tenerife, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Observatorio+Astron%c3%b3mico+de+Izana+Tenerife&form=hpcapt&filters=HpDate%3a%2220260716_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261"
+    }
+  },
+  "GionFestival2026": {
+    "name": "GionFestival2026",
+    "urlbase": "/th?id=OHR.GionFestival2026_JA-JP0488381919",
+    "date": "20260716",
+    "dateFormatted": "July 16, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は祇園祭、前祭の山鉾巡行"
+    },
+    "copyrights": {
+      "ja-JP": "八坂神社の神紋が描かれた提灯, 京都府 京都市 (© Felix Choo/Alamy)"
+    },
+    "descs": {
+      "ja-JP": "7 月 1 日から 31 日まで、一ヶ月に渡る京都の神事・祇園祭。そして、今日 7 月 17 日に行われるのが、前祭の山鉾巡行です。釘を一本も使わず、「縄がらみ」と呼ばれる伝統技法で組み立てられた山鉾が、京都の町を練り歩くというもので、この「京都祇園祭の山鉾行事」はユネスコ無形文化遺産にも登録されています。7 月 24 日の後祭の二度行われる山鉾巡行ですが、前祭の見どころの一つが「生稚児」です。現在、生稚児と呼ばれる実際の子どもが乗るのは、前祭の先頭を進む「長刀鉾」のみで、巡行中に注連縄切りや稚児舞を披露し、祭の始まりと道中の清めを担います。また、山鉾の御神体や、懸装品が飾られた町会所では、子どもたちがわらべ唄を歌いながらお守りを販売する姿も見られます。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は祇園祭、前祭の山鉾巡行"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e7%a5%87%e5%9c%92%e7%a5%ad%e3%80%81%e5%89%8d%e7%a5%ad%e3%81%ae%e5%b1%b1%e9%89%be%e5%b7%a1%e8%a1%8c&form=hpcapt&filters=HpDate%3a%2220260716_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.GionFestival2026_JA-JP0488381919"
     }
   },
   "MarieLake": {
