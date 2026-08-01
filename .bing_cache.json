@@ -1,4 +1,126 @@
 {
+  "VirginiaTrail": {
+    "name": "VirginiaTrail",
+    "urlbase": "/th?id=OHR.VirginiaTrail_EN-US9403114082",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia",
+      "en-GB": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
+      "en-CA": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
+      "de-DE": "Eine Reise durch die Zeit. Virginia Creeper Trail, Damascus, Virginia, USA",
+      "fr-FR": "Traverser le temps. Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
+      "pt-BR": "Dos trilhos às trilhas",
+      "ja-JP": "深緑の森を貫く木道",
+      "zh-CN": "穿越时光的足迹",
+      "en-IN": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)",
+      "en-GB": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
+      "en-CA": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
+      "de-DE": "Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA (© Eifel Kreutz/Getty Images)",
+      "fr-FR": "Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)",
+      "pt-BR": "Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos (© Eifel Kreutz/Getty Images)",
+      "ja-JP": "バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)",
+      "zh-CN": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)",
+      "en-IN": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that labored up steep grades in the early 1900s.",
+      "en-GB": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "en-CA": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 55 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "de-DE": "Aus der Luft zeigt sich der Virginia Creeper Trail als grünes Band, das sich durch die bewaldeten Landschaften im Südwesten des US-Bundesstaates Virginia schlängelt. Die heute beliebte Freizeitroute verläuft auf einer ehemaligen Eisenbahnstrecke, die einst für den Transport von Holz und Eisenerz durch die Appalachen genutzt wurde. Ihren ungewöhnlichen Namen verdankt die Strecke den Dampflokomotiven, die zu Beginn des 20. Jahrhunderts die steilen Anstiege nur langsam bewältigen konnten. Auf einer Länge von rund 55 Kilometern verbindet der Weg reizvolle Natur mit einem Stück regionaler Geschichte und bietet immer wieder weite Ausblicke auf Berge, Täler und Flüsse in den Vereinigten Staaten.",
+      "fr-FR": "À Damascus, en Virginie, États-Unis, l’ancienne voie ferrée s’est tue, mais son parcours respire encore. Sur 55 km à travers les Appalaches, le Virginia Creeper Trail suit l’ancienne ligne qui transportait jadis bois et minerai de fer, gravissant des pentes si raides qu’on disait des locomotives qu’elles « grimpaient comme une vigne vierge » — d’où son nom.",
+      "ja-JP": "深緑の森を貫く木道. バージニア・クリーパー・トレイル, 米国 バージニア州. 今日の画像は、米国バージニア州ダマスカス周辺を走るバージニア・クリーパー・トレイル。かつてアパラチア山脈を越えて木材や鉄鉱石を運んでいた鉄道の旧線路です。1957 年に蒸気機関車が引退した後、米国森林局によってレクリエーション・トレイルとして整備されました。全長 56km のトレイルは国有林を通り、美しい山々の風景の中、約 50 基の木製桁橋を渡ることができます。",
+      "en-IN": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 55.2 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "pt-BR": "Algumas ferrovias encerram as atividades. A Virginia Creeper Trail reinventou a viagem. A imagem mostra parte dessa antiga linha férrea de 55 quilômetros, que por décadas levou madeira, minério e passageiros pelos Montes Apalaches. Hoje, quem passa por suas 47 pontes de madeira, rios e vales são ciclistas e caminhantes.",
+      "zh-CN": "穿越时光的足迹. 鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国. 有些铁路会退出历史舞台，而“弗吉尼亚爬山虎步道”则实现了华丽转身。这条步道全长34.3英里，横贯弗吉尼亚州西南部，沿用了一条昔日的铁路线——该线路曾用于在阿巴拉契亚山脉间运输木材和铁矿石。步道那独特的名字，源自20世纪初那些在陡峭坡道上艰难爬行的蒸汽机车。"
+    },
+    "quickFacts": {
+      "zh-CN": "这条步道的英文名字“Virginia creeper”（弗吉尼亚爬山虎）具有双重寓意：一是指沿铁轨茂盛生长的当地原生五叶爬山虎植物，二是指20世纪初蒸汽机车在攀爬陡峭山坡时如蜗牛爬行般缓慢的行驶速度。"
+    },
+    "captions": {
+      "en-US": "Virginia Creeper Trail, Damascus, Virginia",
+      "en-GB": "Virginia Creeper Trail, Damascus, Virginia, United States",
+      "en-CA": "Virginia Creeper Trail, Damascus, Virginia, United States",
+      "de-DE": "Virginia Creeper Trail, Damascus, Virginia, USA",
+      "fr-FR": "Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
+      "pt-BR": "",
+      "ja-JP": "深緑の森を貫く木道",
+      "zh-CN": "",
+      "en-IN": "Virginia Creeper Trail, Damascus, Virginia, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260731_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260731_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Virginia+Creeper+Trail+Wanderung+Informationen&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Damascus+na+Virginia&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%bc%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%bb%e3%82%af%e3%83%aa%e3%83%bc%e3%83%91%e3%83%bc%e3%83%bb%e3%83%88%e3%83%ac%e3%82%a4%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220260730_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%bc%97%e5%90%89%e5%b0%bc%e4%ba%9a%e7%88%ac%e5%b1%b1%e8%99%8e%e6%ad%a5%e9%81%93&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.VirginiaTrail_EN-US9403114082",
+      "en-GB": "/th?id=OHR.VirginiaTrail_EN-GB6394833598",
+      "en-CA": "/th?id=OHR.VirginiaTrail_EN-CA9063701239",
+      "de-DE": "/th?id=OHR.VirginiaTrail_DE-DE3922991438",
+      "fr-FR": "/th?id=OHR.VirginiaTrail_FR-FR7594645617",
+      "pt-BR": "/th?id=OHR.VirginiaTrail_PT-BR9310516852",
+      "ja-JP": "/th?id=OHR.VirginiaTrail_JA-JP5506669178",
+      "zh-CN": "/th?id=OHR.VirginiaTrail_ZH-CN2299501599",
+      "en-IN": "/th?id=OHR.VirginiaTrail_EN-IN1200650554"
+    }
+  },
   "NavajoNation": {
     "name": "NavajoNation",
     "urlbase": "/th?id=OHR.NavajoNation_EN-US6947714656",
@@ -1235,6 +1357,11 @@
         "flag": "it"
       },
       {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
@@ -1257,10 +1384,10 @@
       "de-DE": "Offenbar gut verborgen. Arco de Santa Catalina in Antigua, Guatemala",
       "fr-FR": "L’arche qui cache. Santa Catalina Arch, Antigua, Guatemala",
       "it-IT": "Senza entrare in strada",
+      "es-ES": "Pasadizo a plena luz. Arco de Santa Catalina, Antigua Guatemala, Guatemala",
       "pt-BR": "Um portal para outra época",
       "zh-CN": "拱影寻踪",
-      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "es-ES": "Pasadizo a plena luz. Arco de Santa Catalina, Antigua Guatemala, Guatemala"
+      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala"
     },
     "copyrights": {
       "en-US": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
@@ -1269,10 +1396,10 @@
       "de-DE": "Arco de Santa Catalina in Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "fr-FR": "Arche de Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "it-IT": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "pt-BR": "Arco de Santa Catalina, Antígua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "zh-CN": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
-      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "es-ES": "© Filippo Maria Bianchi/Getty Images"
+      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
     },
     "descs": {
       "en-US": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
@@ -1280,11 +1407,11 @@
       "en-CA": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow façade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
       "de-DE": "Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.",
       "fr-FR": "À Antigua, au Guatemala, l’arche de Santa Catalina se dresse au cœur des rues pavées, avec le volcan Agua en arrière‑plan. Au lever du soleil, sa façade jaune capte la lumière et contraste avec les pavés sombres qui s’étirent dans la perspective de la ville.",
+      "es-ES": "El Arco de Santa Catalina, en Antigua Guatemala, no fue concebido para deslumbrar a nadie: nació en 1693 como solución discreta a un dilema conventual. Las monjas de clausura necesitaban cruzar la calle para pasar de un edificio a otro sin ser vistas desde el exterior, y este puente cubierto fue la respuesta. La privacidad, no el espectáculo, creó uno de los monumentos coloniales más fotografiados de Centroamérica. La ironía tiene buena memoria.",
       "en-IN": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
       "it-IT": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
       "pt-BR": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
-      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。",
-      "es-ES": "El Arco de Santa Catalina, en Antigua Guatemala, no fue concebido para deslumbrar a nadie: nació en 1693 como solución discreta a un dilema conventual. Las monjas de clausura necesitaban cruzar la calle para pasar de un edificio a otro sin ser vistas desde el exterior, y este puente cubierto fue la respuesta. La privacidad, no el espectáculo, creó uno de los monumentos coloniales más fotografiados de Centroamérica. La ironía tiene buena memoria."
+      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。"
     },
     "quickFacts": {
       "zh-CN": "这座标志性的法制时钟于19世纪30年代被增设，至今仍需每三天人工手动上弦一次，在圣卡塔琳娜拱门，安提瓜，危地马拉。"
@@ -1296,6 +1423,7 @@
       "de-DE": "Arco de Santa Catalina in Antigua, Guatemala",
       "fr-FR": "Santa Catalina Arch, Antigua, Guatemala",
       "it-IT": "",
+      "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala",
       "pt-BR": "",
       "zh-CN": "",
       "en-IN": "Santa Catalina Arch, Antigua, Guatemala"
@@ -1307,6 +1435,7 @@
       "de-DE": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Arche+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
       "it-IT": "https://www.bing.com/search?q=L%27Arco+di+Santa+Catalina+Guatemala&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Monumento+de+Antigua+Guatemala&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Arco+de+Santa+Catalina&form=hpcapt&mkt=pt-br",
       "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e6%8b%b1%e9%97%a8&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_1830%22"
@@ -1318,6 +1447,7 @@
       "de-DE": "/th?id=OHR.SantaCatalina_DE-DE7681660306",
       "fr-FR": "/th?id=OHR.SantaCatalina_FR-FR5835984495",
       "it-IT": "/th?id=OHR.SantaCatalina_IT-IT4012109567",
+      "es-ES": "/th?id=OHR.SantaCatalina_ES-ES2186596110",
       "pt-BR": "/th?id=OHR.SantaCatalina_PT-BR6725083050",
       "zh-CN": "/th?id=OHR.SantaCatalina_ZH-CN6223370790",
       "en-IN": "/th?id=OHR.SantaCatalina_EN-IN9392067972"
@@ -1516,11 +1646,6 @@
         "flag": "es"
       },
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1544,10 +1669,10 @@
       "fr-FR": "Ailes de repos. Hirondelles rustiques se reposant ensemble",
       "it-IT": "Ali a riposo",
       "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
-      "pt-BR": "Pequenas viajantes, grandes distâncias",
       "ja-JP": "枯れ草にとまる小鳥の群れ",
       "zh-CN": "敛羽栖时",
-      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together"
+      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together",
+      "pt-BR": "Pequenas viajantes, grandes distâncias"
     },
     "copyrights": {
       "en-US": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
@@ -1557,10 +1682,10 @@
       "fr-FR": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
       "it-IT": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
       "es-ES": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
-      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)",
       "ja-JP": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
       "zh-CN": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)"
+      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)"
     },
     "descs": {
       "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
@@ -1593,7 +1718,6 @@
       "fr-FR": "Hirondelles rustiques se reposant ensemble",
       "it-IT": "",
       "es-ES": "Golondrinas descansando juntas",
-      "pt-BR": "",
       "ja-JP": "枯れ草にとまる小鳥の群れ",
       "zh-CN": "",
       "en-IN": "Barn swallows of different subspecies resting together"
@@ -1606,7 +1730,6 @@
       "fr-FR": "https://www.bing.com/search?q=hirondelle+rustique&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
       "it-IT": "https://www.bing.com/search?q=Le+Rondini&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Golondrinas&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=andorinha+das+chamines+hirundo+rustica&form=hpcapt&mkt=pt-br",
       "ja-JP": "https://www.bing.com/search?q=%e3%83%84%e3%83%90%e3%83%a1&form=hpcapt&filters=HpDate%3a%2220260718_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e5%ae%b6%e7%87%95&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_1830%22"
@@ -1619,7 +1742,6 @@
       "fr-FR": "/th?id=OHR.HirundoRustica_FR-FR5403619513",
       "it-IT": "/th?id=OHR.HirundoRustica_IT-IT8852691530",
       "es-ES": "/th?id=OHR.HirundoRustica_ES-ES1865458756",
-      "pt-BR": "/th?id=OHR.HirundoRustica_PT-BR5068728715",
       "ja-JP": "/th?id=OHR.HirundoRustica_JA-JP1327555795",
       "zh-CN": "/th?id=OHR.HirundoRustica_ZH-CN2798518247",
       "en-IN": "/th?id=OHR.HirundoRustica_EN-IN8751353148"
@@ -1637,79 +1759,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
-      "en-GB": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
       "en-CA": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "pt-BR": "A arte de fechar o círculo",
+      "en-GB": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
       "de-DE": "Die perfekte Illusion. Rakotzbrücke, Kromlau, Sachsen",
       "fr-FR": "La boucle du temps. Pont du Diable, Kromlau, Saxe, Allemagne",
       "es-ES": "Entre dos mundos. Rhododendronpark Kromlau, Sajonia, Alemania",
-      "pt-BR": "A arte de fechar o círculo",
       "ja-JP": "水面に映る幻想的な石橋",
       "zh-CN": "环影圆成",
       "en-IN": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany"
     },
     "copyrights": {
       "en-US": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
-      "en-GB": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
       "en-CA": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "pt-BR": "Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha (© Mike Mareen/Getty Images)",
+      "en-GB": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
       "de-DE": "Rakotzbrücke in Kromlau, Sachsen (© Mike Mareen/Getty Images)",
       "fr-FR": "Pont du Diable dans le parc aux rhododendrons de Kromlau, en Saxe, Allemagne (© Mike Mareen/Getty Images)",
       "es-ES": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
-      "pt-BR": "Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha (© Mike Mareen/Getty Images)",
       "ja-JP": "ラコツ橋, ドイツ (© Mike Mareen/Getty Images)",
       "zh-CN": "恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)",
       "en-IN": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)"
     },
     "descs": {
       "en-US": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "en-GB": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
       "en-CA": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from basalt, a volcanic rock, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "en-GB": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
       "de-DE": "Wenn sich die Rakotzbrücke im sächsischen Kromlau im Rakotzsee spiegelt, entsteht ein unwirklich wirkender, fast perfekter Kreis aus Stein. Die schmale Brücke wurde im 19. Jahrhundert so entworfen, dass ihr Bogen und die Reflexion im ruhigen Wasser exakt ineinandergreifen.",
       "fr-FR": "Dans le parc aux rhododendrons de Kromlau, en Saxe, tout près de la frontière de l’Allemagne avec la Pologne, le pont du Diable semble surgir d’un conte. Lorsque l’eau du lac s’immobilise, son arche de basalte et son reflet se rejoignent pour former un cercle presque parfait, tel un portail entre le réel et l’imaginaire.",
       "es-ES": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
@@ -1723,118 +1810,67 @@
     },
     "captions": {
       "en-US": "Devil's Bridge, Kromlau, Saxony, Germany",
-      "en-GB": "Devil's Bridge, Kromlau, Saxony, Germany",
       "en-CA": "Devil's Bridge, Kromlau, Saxony, Germany",
-      "de-DE": "Rakotzbrücke, Kromlau, Sachsen",
-      "fr-FR": "Pont du Diable, Kromlau, Saxe, Allemagne",
-      "es-ES": "Rhododendronpark Kromlau, Sajonia, Alemania",
-      "pt-BR": "",
-      "ja-JP": "水面に映る幻想的な石橋",
-      "zh-CN": "",
-      "en-IN": "Devil's Bridge, Kromlau, Saxony, Germany"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260718_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2300%22",
       "en-CA": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260718_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Rakotzbr%c3%bccke+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Parc+paysager+de+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Puente+del+diablo+Rhododendronpark+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Ponte+do+Diabo+Rakotzbr%c3%bccke&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%82%b3%e3%83%84%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260717_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%81%b6%e9%ad%94%e6%a1%a5%e5%9c%a8%e5%85%8b%e7%bd%97%e5%a7%86%e5%8a%b3%e6%9d%9c%e9%b9%83%e8%8a%b1%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Ponte+do+Diabo+Rakotzbr%c3%bccke&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.DevilsBridge_EN-US3505962815",
-      "en-GB": "/th?id=OHR.DevilsBridge_EN-GB3657419694",
       "en-CA": "/th?id=OHR.DevilsBridge_EN-CA9488720591",
-      "de-DE": "/th?id=OHR.DevilsBridge_DE-DE6987454445",
-      "fr-FR": "/th?id=OHR.DevilsBridge_FR-FR5259113427",
-      "es-ES": "/th?id=OHR.DevilsBridge_ES-ES8242183956",
-      "pt-BR": "/th?id=OHR.DevilsBridge_PT-BR5443302606",
-      "ja-JP": "/th?id=OHR.DevilsBridge_JA-JP0713285567",
-      "zh-CN": "/th?id=OHR.DevilsBridge_ZH-CN2164982440",
-      "en-IN": "/th?id=OHR.DevilsBridge_EN-IN8517892146"
+      "pt-BR": "/th?id=OHR.DevilsBridge_PT-BR5443302606"
     }
   },
-  "VaiUmbrellas": {
-    "name": "VaiUmbrellas",
-    "urlbase": "/th?id=OHR.VaiUmbrellas_EN-US8985051242",
-    "date": "20260717",
-    "dateFormatted": "July 17, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "A Greek escape. Vai, Crete, Greece",
-      "en-GB": "A Greek escape. Vai, Crete, Greece",
-      "de-DE": "Karibik-Flair im Mittelmeer. Vai, Kreta, Griechenland",
-      "fr-FR": "Quand l’évasion rime avec préservation. Plage de Vaï, Crète, Grèce",
-      "it-IT": "Hellas e Geometria",
-      "zh-CN": "希腊式的逃离",
-      "en-IN": "A Greek escape. Vai, Crete, Greece"
-    },
-    "copyrights": {
-      "en-US": "Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)",
-      "en-GB": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
-      "de-DE": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
-      "fr-FR": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
-      "it-IT": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
-      "zh-CN": "瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)",
-      "en-IN": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)"
-    },
-    "descs": {
-      "en-US": "On the remote northeastern tip of the island of Crete in Greece lies Vai—a quiet corner far from the usual tourist trail. At the heart of this region is its beach, a broad curve of golden sand kissed by the calm, shallow waters of the Aegean. With sunbeds, umbrellas, and showers, it's an ideal spot for swimming, relaxing, or simply soaking in the peaceful atmosphere. But what truly sets Vai apart lies just behind the sand: Europe's largest natural palm grove. It is made up of over 5,000 Cretan date palm trees, a species unique to Crete and parts of Türkiye.",
-      "en-GB": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas and showers, it's ideal for swimming, relaxing or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
-      "de-DE": "Im Osten der griechischen Insel Kreta liegt ein echtes Naturparadies: Vai. Der idyllische Küstenort, 94 Kilometer östlich von Agios Nikolaos und 24 Kilometer von Sitia entfernt, begeistert mit hellem Sand, türkisfarbenem Wasser und mediterranem Flair. Auf unserem heutigen Bild setzen die in Reihen angeordneten blauen Sonnenschirme farbenfrohe Akzente auf dem goldenen Sand und vermitteln die entspannte Atmosphäre dieses beliebten Strandes. Besonders beeindruckend ist der natürliche Palmenhain mit mehr als 5.000 kretischen Dattelpalmen – der größte seiner Art in Europa. Einer Legende zufolge wuchsen die Palmen aus Dattelkernen, die Piraten hier einst zurückließen.",
-      "fr-FR": "Sur la pointe nord‑est de la Crète, loin de l’agitation touristique, la plage de Vaï déroule son croissant de sable doré, ses eaux turquoise et ses rangées de parasols qui invitent à la détente. Derrière ce décor se cache pourtant un trésor unique en Europe : la plus grande palmeraie de palmiers dattiers du continent, avec plus de 5 000 Phoenix theophrasti, une espèce endémique. Selon la légende, cette oasis serait née des noyaux jetés par des pirates arabes ou des soldats égyptiens.",
-      "en-IN": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas, and showers, it's ideal for swimming, relaxing, or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
-      "it-IT": "Nel nord-est di Creta, la spiaggia di Vai si distingue dall'alto per un dettaglio sorprendente: file ordinate di ombrelloni azzurri che punteggiano una mezzaluna di sabbia dorata lambita dalle acque calme dell'Egeo. Appena oltre la riva, si estende la più grande palmaia naturale d'Europa, con oltre cinquemila palme da dattero cretesi, specie endemica dell'isola.",
-      "zh-CN": "希腊式的逃离. 瓦伊海滩上的日光浴躺椅，克里特岛，希腊. 在克里特岛的东北角，坐落着一个远离游客喧嚣的静谧之地瓦伊。这片区域的核心景观是其海滩：金黄色的沙滩沿着平静的爱琴海浅水缓缓展开，设有躺椅、遮阳伞与淋浴设施，为游泳、放松或安静休憩提供理想场所。瓦伊最引人注目的特色在于其沙滩背后有着欧洲最大的天然棕榈林。该棕榈林由5000多棵克里特枣椰树构成，这是一种仅分布于克里特岛及土耳其部分地区的特有树种。"
-    },
-    "quickFacts": {
-      "zh-CN": "克里特岛是欧洲最早的高级文明：米诺斯文明的发源地，其兴盛时期约从公元前2700年延续至公元前1420年。"
-    },
-    "captions": {
-      "en-US": "Vai, Crete, Greece"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260717_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.VaiUmbrellas_EN-US8985051242"
-    }
-  },
-  "VirginiaTrail": {
-    "name": "VirginiaTrail",
-    "urlbase": "/th?id=OHR.VirginiaTrail_EN-GB6394833598",
-    "date": "20260730",
-    "dateFormatted": "July 30, 2026",
+  "BrightonPride2026": {
+    "name": "BrightonPride2026",
+    "urlbase": "/th?id=OHR.BrightonPride2026_EN-GB6665333938",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
+      }
+    ],
+    "titles": {
+      "en-GB": "Bright-on with pride. Brighton Pride"
+    },
+    "copyrights": {
+      "en-GB": "Rainbow balloons at the pride parade in Brighton, East Sussex, England (© Joel Sharpe/Getty Images)"
+    },
+    "descs": {
+      "en-GB": "One weekend. Hundreds of thousands of people. One shared message: everyone deserves to be seen, heard and celebrated. That's the spirit of Brighton Pride, where celebration and activism go hand in hand."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "Brighton Pride"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Brighton+Pride&form=hpcapt&filters=HpDate%3a%2220260731_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.BrightonPride2026_EN-GB6665333938"
+    }
+  },
+  "HawaiiLava": {
+    "name": "HawaiiLava",
+    "urlbase": "/th?id=OHR.HawaiiLava_DE-DE4111997666",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
+    "markets": [
       {
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
       },
       {
         "code": "zh-CN",
@@ -1848,98 +1884,49 @@
       }
     ],
     "titles": {
-      "en-GB": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
-      "de-DE": "Eine Reise durch die Zeit. Virginia Creeper Trail, Damascus, Virginia, USA",
-      "fr-FR": "Traverser le temps. Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
-      "ja-JP": "深緑の森を貫く木道",
-      "zh-CN": "穿越时光的足迹",
-      "en-IN": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
-      "en-US": "Trailing through time. Aerial view of the Virginia Creeper Trail, Damascus, Virginia",
-      "en-CA": "Trailing through time. Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States",
-      "pt-BR": "Dos trilhos às trilhas. Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos"
+      "de-DE": "Die Kraft des Kīlauea. Lavaströme münden ins Meer, Big Island, Hawaii, USA",
+      "it-IT": "Il potere di Kīlauea",
+      "zh-CN": "基拉韦厄火山的威力",
+      "en-IN": "The power of Kīlauea. Big Island, Hawaii, United States",
+      "en-US": "The power of Kīlauea. A series of lava flows spill into the ocean, Big Island, Hawaii",
+      "en-CA": "The power of Kīlauea. A series of lava flows spill into the ocean, Big Island, Hawaii, United States"
     },
     "copyrights": {
-      "en-GB": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
-      "de-DE": "Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA (© Eifel Kreutz/Getty Images)",
-      "fr-FR": "Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)",
-      "ja-JP": "バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)",
-      "zh-CN": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)",
-      "en-IN": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
-      "en-US": "© Eifel Kreutz/Getty Images",
-      "en-CA": "© Eifel Kreutz/Getty Images",
-      "pt-BR": "© Eifel Kreutz/Getty Images"
+      "de-DE": "Eine Reihe von Lavaströmen mündet ins Meer, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+      "it-IT": "Una serie di colate laviche si riversa nell'oceano, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+      "zh-CN": "大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)",
+      "en-IN": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)",
+      "en-US": "© Ken McCurdy/Getty Images",
+      "en-CA": "© Ken McCurdy/Getty Images"
     },
     "descs": {
-      "en-GB": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
-      "de-DE": "Aus der Luft zeigt sich der Virginia Creeper Trail als grünes Band, das sich durch die bewaldeten Landschaften im Südwesten des US-Bundesstaates Virginia schlängelt. Die heute beliebte Freizeitroute verläuft auf einer ehemaligen Eisenbahnstrecke, die einst für den Transport von Holz und Eisenerz durch die Appalachen genutzt wurde. Ihren ungewöhnlichen Namen verdankt die Strecke den Dampflokomotiven, die zu Beginn des 20. Jahrhunderts die steilen Anstiege nur langsam bewältigen konnten. Auf einer Länge von rund 55 Kilometern verbindet der Weg reizvolle Natur mit einem Stück regionaler Geschichte und bietet immer wieder weite Ausblicke auf Berge, Täler und Flüsse in den Vereinigten Staaten.",
-      "fr-FR": "À Damascus, en Virginie, États-Unis, l’ancienne voie ferrée s’est tue, mais son parcours respire encore. Sur 55 km à travers les Appalaches, le Virginia Creeper Trail suit l’ancienne ligne qui transportait jadis bois et minerai de fer, gravissant des pentes si raides qu’on disait des locomotives qu’elles « grimpaient comme une vigne vierge » — d’où son nom.",
-      "ja-JP": "深緑の森を貫く木道. バージニア・クリーパー・トレイル, 米国 バージニア州. 今日の画像は、米国バージニア州ダマスカス周辺を走るバージニア・クリーパー・トレイル。かつてアパラチア山脈を越えて木材や鉄鉱石を運んでいた鉄道の旧線路です。1957 年に蒸気機関車が引退した後、米国森林局によってレクリエーション・トレイルとして整備されました。全長 56km のトレイルは国有林を通り、美しい山々の風景の中、約 50 基の木製桁橋を渡ることができます。",
-      "en-IN": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 55.2 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
-      "en-US": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that labored up steep grades in the early 1900s.",
-      "en-CA": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 55 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
-      "pt-BR": "Algumas ferrovias encerram as atividades. A Virginia Creeper Trail reinventou a viagem. A imagem mostra parte dessa antiga linha férrea de 55 quilômetros, que por décadas levou madeira, minério e passageiros pelos Montes Apalaches. Hoje, quem passa por suas 47 pontes de madeira, rios e vales são ciclistas e caminhantes.",
-      "zh-CN": "穿越时光的足迹. 鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国. 有些铁路会退出历史舞台，而“弗吉尼亚爬山虎步道”则实现了华丽转身。这条步道全长34.3英里，横贯弗吉尼亚州西南部，沿用了一条昔日的铁路线——该线路曾用于在阿巴拉契亚山脉间运输木材和铁矿石。步道那独特的名字，源自20世纪初那些在陡峭坡道上艰难爬行的蒸汽机车。"
+      "de-DE": "Im Hawaiʻi-Volcanoes-Nationalpark auf der Big Island im US-Bundesstaat Hawaii verändern vulkanische Kräfte die Landschaft bis heute. Während viele Regionen der Erde ihr Erscheinungsbild erst über Jahrtausende hinweg wandeln, können Ausbrüche hier innerhalb kurzer Zeit neue Formen schaffen. Der Nationalpark in den Vereinigten Staaten wurde am 1. August 1916 gegründet, um dieses außergewöhnliche Naturgebiet zu schützen. Auf einer Fläche von mehr als 350.000 Acres umfasst er Lavafelder, einheimische Wälder und Lebensräume seltener Tierarten, die sich an die besonderen Bedingungen der Insel angepasst haben.",
+      "en-IN": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established on 1 August, 1916. For more than a century, it has protected over 142,000 hectares of volcanic terrain, native forests and rare wildlife.",
+      "en-US": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognizing the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established on August 1, 1916. For more than a century, it has protected over 350,000 acres of volcanic terrain, native forests, and rare wildlife.",
+      "en-CA": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established in 1916. For more than a century, it has protected more than 1,416 square kilometres of volcanic terrain, native forests and rare wildlife.",
+      "it-IT": "La maggior parte dei paesaggi cambia nel corso di millenni. I vulcani li ridisegnano in poche ore — e sull'isola di Hawaii, la Big Island, lo fanno ancora oggi. Il Parco Nazionale dei Vulcani delle Hawaii è stato istituito il 1° agosto 1916, proteggendo oltre 140.000 ettari di territorio vulcanico, foreste native e fauna rarissima come il nēnē, l'oca selvatica simbolo delle isole.",
+      "zh-CN": "基拉韦厄火山的威力. 大批熔岩流涌入大洋，大岛，夏威夷州，美国. 大多数地貌的演变历时数千年，而火山却能在短短数小时内重塑地貌——在夏威夷大岛，这一过程至今仍在持续。为了保护这一不断变化的环境及其所蕴含的科学与自然价值，夏威夷火山国家公园于1916年8月1日正式成立。一个多世纪以来，该公园一直致力于保护这片占地超过35万英亩的区域，其中包括火山地貌、原生森林以及各类珍稀野生动植物。"
     },
     "quickFacts": {
-      "zh-CN": "这条步道的英文名字“Virginia creeper”（弗吉尼亚爬山虎）具有双重寓意：一是指沿铁轨茂盛生长的当地原生五叶爬山虎植物，二是指20世纪初蒸汽机车在攀爬陡峭山坡时如蜗牛爬行般缓慢的行驶速度。"
+      "zh-CN": "当温度高达约1093摄氏度的熔岩与冰冷的太平洋海水相遇时，会产生被称为“熔岩雾霭”的剧烈化学反应，形成包含盐酸烟雾和微小火山玻璃颗粒的有害气云。"
     },
     "captions": {
-      "en-GB": "Virginia Creeper Trail, Damascus, Virginia, United States",
-      "de-DE": "Virginia Creeper Trail, Damascus, Virginia, USA",
-      "fr-FR": "Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
-      "ja-JP": "深緑の森を貫く木道",
+      "de-DE": "Lavaströme münden ins Meer, Big Island, Hawaii, USA",
+      "it-IT": "",
       "zh-CN": "",
-      "en-IN": "Virginia Creeper Trail, Damascus, Virginia, United States"
+      "en-IN": "Big Island, Hawaii, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Virginia+Creeper+Trail+Wanderung+Informationen&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%bc%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%bb%e3%82%af%e3%83%aa%e3%83%bc%e3%83%91%e3%83%bc%e3%83%bb%e3%83%88%e3%83%ac%e3%82%a4%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220260730_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%bc%97%e5%90%89%e5%b0%bc%e4%ba%9a%e7%88%ac%e5%b1%b1%e8%99%8e%e6%ad%a5%e9%81%93&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_1830%22"
+      "de-DE": "https://www.bing.com/search?q=Hawai%27i-Volcanoes-Nationalpark+%c3%9cbersicht&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+Vulcani+delle+Hawaii&form=hpcapt",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a4%8f%e5%a8%81%e5%a4%b7%e7%81%ab%e5%b1%b1%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260731_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.VirginiaTrail_EN-GB6394833598",
-      "de-DE": "/th?id=OHR.VirginiaTrail_DE-DE3922991438",
-      "fr-FR": "/th?id=OHR.VirginiaTrail_FR-FR7594645617",
-      "ja-JP": "/th?id=OHR.VirginiaTrail_JA-JP5506669178",
-      "zh-CN": "/th?id=OHR.VirginiaTrail_ZH-CN2299501599",
-      "en-IN": "/th?id=OHR.VirginiaTrail_EN-IN1200650554"
-    }
-  },
-  "GrainSilosSK": {
-    "name": "GrainSilosSK",
-    "urlbase": "/th?id=OHR.GrainSilosSK_EN-CA7421778186",
-    "date": "20260717",
-    "dateFormatted": "July 17, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "The breadbasket of Canada. Agriculture in Saskatchewan"
-    },
-    "copyrights": {
-      "en-CA": "A prairie storm gathers over grain silos in Saskatchewan (© mysticenergy/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "Picture a farmer watching dark clouds build over the Saskatchewan plains. The crops have already been harvested, but the weather still matters. Where does the grain go next? Often, into grain elevators and storage bins beside fields and railway lines, where it stays protected from rain, moisture and the powerful prairie storms that can arrive with little warning. These storage structures have supported Saskatchewan agriculture for generations, helping to preserve grain quality until it is ready for transport or sale. This is one reason the province has earned the nickname 'Canada's breadbasket.'"
-    },
-    "quickFacts": {
-      "en-CA": "In 2025, Saskatchewan produced 92 per cent of Canada's chickpeas."
-    },
-    "captions": {
-      "en-CA": "Agriculture in Saskatchewan"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Saskatchewan&form=hpcapt&filters=HpDate%3a%2220260717_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.GrainSilosSK_EN-CA7421778186"
+      "de-DE": "/th?id=OHR.HawaiiLava_DE-DE4111997666",
+      "it-IT": "/th?id=OHR.HawaiiLava_IT-IT9255141439",
+      "zh-CN": "/th?id=OHR.HawaiiLava_ZH-CN3257621771",
+      "en-IN": "/th?id=OHR.HawaiiLava_EN-IN1784864041"
     }
   },
   "BearBavaria": {
@@ -2038,6 +2025,38 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.EibseeSummer_DE-DE7644945564"
+    }
+  },
+  "SeaStacks": {
+    "name": "SeaStacks",
+    "urlbase": "/th?id=OHR.SeaStacks_FR-FR4057620009",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Debout face aux vagues. Stacks près de Wilson Creek Beach, Californie, États-Unis"
+    },
+    "copyrights": {
+      "fr-FR": "Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Au large de la côte nord de la Californie, aux États-Unis, les vagues glissent en silence autour de hautes tours de roche sombre dressées face au large. Séparés du continent, ces empilements rocheux se parent d’une lumière changeante, tour à tour adoucie par le brouillard ou renforcée par l’éclat de l’écume. Depuis la grève, ils semblent à la fois immuables et fragiles, sculptés par des forces toujours à l’œuvre."
+    },
+    "quickFacts": {},
+    "captions": {
+      "fr-FR": "Stacks près de Wilson Creek Beach, Californie, États-Unis"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=False+Klamath+Cove&form=hpcapt&filters=HpDate%3a%2220260731_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.SeaStacks_FR-FR4057620009"
     }
   },
   "WildJackalFriends": {
@@ -2168,38 +2187,6 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.SardegnaFaro_IT-IT8009785446"
-    }
-  },
-  "FestaVenezia": {
-    "name": "FestaVenezia",
-    "urlbase": "/th?id=OHR.FestaVenezia_IT-IT8709585056",
-    "date": "20260717",
-    "dateFormatted": "July 17, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "L'isola colorata di Venezia"
-    },
-    "copyrights": {
-      "it-IT": "Le case colorate di Burano, Venezia, Veneto, Italia (© Nick Brundle Photography/Getty Images)"
-    },
-    "descs": {
-      "it-IT": "Burano, Italia, incanta con le sue case dai colori vivaci che si riflettono nei canali, un’isola della Laguna di Venezia che sembra uscita da una fiaba. A pochi minuti da Venezia, questo villaggio di pescatori conserva una tradizione secolare di merletti fatti a mano e un ritmo lento, tra botteghe artigiane e piccoli caffè. Chi ama borghi autentici ritrova la stessa atmosfera anche in luoghi italiani come Chioggia, dove il legame con l’acqua scandisce la vita quotidiana."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Burano+Venezia&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.FestaVenezia_IT-IT8709585056"
     }
   },
   "DeltaEbro": {
@@ -2362,6 +2349,38 @@
       "pt-BR": "/th?id=OHR.SoccerDay_PT-BR5859476382"
     }
   },
+  "HirosakiNeputa2026": {
+    "name": "HirosakiNeputa2026",
+    "urlbase": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日から弘前ねぷたまつり"
+    },
+    "copyrights": {
+      "ja-JP": "変わり種の金魚ねぷた, 青森県 弘前市 (© David Parker/Alamy)"
+    },
+    "descs": {
+      "ja-JP": "今日 8 月 1 日から 7 日まで、青森県弘前市では「弘前ねぷたまつり」が開催されます。「ヤーヤドー」の掛け声とともに、大小約 80 台の山車が市内を練り歩くというもので、「弘前四大まつり」の一つにも数えられています。「ねぷた」という言葉の由来は諸説ありますが、かつて農民たちが夏に行っていた「眠り流し」という行事から生まれたといわれています。そして、様々なねぷたのなかでも、欠かすことのできないものの一つが金魚ねぷた。江戸時代、金魚は高級魚であり、庶民にとっては憧れの存在であったため、それをねぷたにしてお祭りで子どもたちに持たせたとされています。近年は、祭りのみならずお土産としても人気となっています。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日から弘前ねぷたまつり"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e5%bc%98%e5%89%8d%e3%81%ad%e3%81%b7%e3%81%9f%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220260731_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053"
+    }
+  },
   "KaysersbergVillage": {
     "name": "KaysersbergVillage",
     "urlbase": "/th?id=OHR.KaysersbergVillage_JA-JP4774929635",
@@ -2482,6 +2501,124 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "VaiUmbrellas": {
+    "name": "VaiUmbrellas",
+    "urlbase": "/th?id=OHR.VaiUmbrellas_EN-US8985051242",
+    "date": "20260717",
+    "dateFormatted": "July 17, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "A Greek escape. Vai, Crete, Greece",
+      "en-GB": "A Greek escape. Vai, Crete, Greece",
+      "de-DE": "Karibik-Flair im Mittelmeer. Vai, Kreta, Griechenland",
+      "fr-FR": "Quand l’évasion rime avec préservation. Plage de Vaï, Crète, Grèce",
+      "it-IT": "Hellas e Geometria",
+      "zh-CN": "希腊式的逃离",
+      "en-IN": "A Greek escape. Vai, Crete, Greece"
+    },
+    "copyrights": {
+      "en-US": "Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)",
+      "en-GB": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
+      "de-DE": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
+      "fr-FR": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
+      "it-IT": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
+      "zh-CN": "瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)",
+      "en-IN": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)"
+    },
+    "descs": {
+      "en-US": "On the remote northeastern tip of the island of Crete in Greece lies Vai—a quiet corner far from the usual tourist trail. At the heart of this region is its beach, a broad curve of golden sand kissed by the calm, shallow waters of the Aegean. With sunbeds, umbrellas, and showers, it's an ideal spot for swimming, relaxing, or simply soaking in the peaceful atmosphere. But what truly sets Vai apart lies just behind the sand: Europe's largest natural palm grove. It is made up of over 5,000 Cretan date palm trees, a species unique to Crete and parts of Türkiye.",
+      "en-GB": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas and showers, it's ideal for swimming, relaxing or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
+      "de-DE": "Im Osten der griechischen Insel Kreta liegt ein echtes Naturparadies: Vai. Der idyllische Küstenort, 94 Kilometer östlich von Agios Nikolaos und 24 Kilometer von Sitia entfernt, begeistert mit hellem Sand, türkisfarbenem Wasser und mediterranem Flair. Auf unserem heutigen Bild setzen die in Reihen angeordneten blauen Sonnenschirme farbenfrohe Akzente auf dem goldenen Sand und vermitteln die entspannte Atmosphäre dieses beliebten Strandes. Besonders beeindruckend ist der natürliche Palmenhain mit mehr als 5.000 kretischen Dattelpalmen – der größte seiner Art in Europa. Einer Legende zufolge wuchsen die Palmen aus Dattelkernen, die Piraten hier einst zurückließen.",
+      "fr-FR": "Sur la pointe nord‑est de la Crète, loin de l’agitation touristique, la plage de Vaï déroule son croissant de sable doré, ses eaux turquoise et ses rangées de parasols qui invitent à la détente. Derrière ce décor se cache pourtant un trésor unique en Europe : la plus grande palmeraie de palmiers dattiers du continent, avec plus de 5 000 Phoenix theophrasti, une espèce endémique. Selon la légende, cette oasis serait née des noyaux jetés par des pirates arabes ou des soldats égyptiens.",
+      "en-IN": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas, and showers, it's ideal for swimming, relaxing, or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
+      "it-IT": "Nel nord-est di Creta, la spiaggia di Vai si distingue dall'alto per un dettaglio sorprendente: file ordinate di ombrelloni azzurri che punteggiano una mezzaluna di sabbia dorata lambita dalle acque calme dell'Egeo. Appena oltre la riva, si estende la più grande palmaia naturale d'Europa, con oltre cinquemila palme da dattero cretesi, specie endemica dell'isola.",
+      "zh-CN": "希腊式的逃离. 瓦伊海滩上的日光浴躺椅，克里特岛，希腊. 在克里特岛的东北角，坐落着一个远离游客喧嚣的静谧之地瓦伊。这片区域的核心景观是其海滩：金黄色的沙滩沿着平静的爱琴海浅水缓缓展开，设有躺椅、遮阳伞与淋浴设施，为游泳、放松或安静休憩提供理想场所。瓦伊最引人注目的特色在于其沙滩背后有着欧洲最大的天然棕榈林。该棕榈林由5000多棵克里特枣椰树构成，这是一种仅分布于克里特岛及土耳其部分地区的特有树种。"
+    },
+    "quickFacts": {
+      "zh-CN": "克里特岛是欧洲最早的高级文明：米诺斯文明的发源地，其兴盛时期约从公元前2700年延续至公元前1420年。"
+    },
+    "captions": {
+      "en-US": "Vai, Crete, Greece"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260717_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.VaiUmbrellas_EN-US8985051242"
+    }
+  },
+  "GrainSilosSK": {
+    "name": "GrainSilosSK",
+    "urlbase": "/th?id=OHR.GrainSilosSK_EN-CA7421778186",
+    "date": "20260717",
+    "dateFormatted": "July 17, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "The breadbasket of Canada. Agriculture in Saskatchewan"
+    },
+    "copyrights": {
+      "en-CA": "A prairie storm gathers over grain silos in Saskatchewan (© mysticenergy/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Picture a farmer watching dark clouds build over the Saskatchewan plains. The crops have already been harvested, but the weather still matters. Where does the grain go next? Often, into grain elevators and storage bins beside fields and railway lines, where it stays protected from rain, moisture and the powerful prairie storms that can arrive with little warning. These storage structures have supported Saskatchewan agriculture for generations, helping to preserve grain quality until it is ready for transport or sale. This is one reason the province has earned the nickname 'Canada's breadbasket.'"
+    },
+    "quickFacts": {
+      "en-CA": "In 2025, Saskatchewan produced 92 per cent of Canada's chickpeas."
+    },
+    "captions": {
+      "en-CA": "Agriculture in Saskatchewan"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Saskatchewan&form=hpcapt&filters=HpDate%3a%2220260717_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.GrainSilosSK_EN-CA7421778186"
+    }
+  },
+  "FestaVenezia": {
+    "name": "FestaVenezia",
+    "urlbase": "/th?id=OHR.FestaVenezia_IT-IT8709585056",
+    "date": "20260717",
+    "dateFormatted": "July 17, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "L'isola colorata di Venezia"
+    },
+    "copyrights": {
+      "it-IT": "Le case colorate di Burano, Venezia, Veneto, Italia (© Nick Brundle Photography/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Burano, Italia, incanta con le sue case dai colori vivaci che si riflettono nei canali, un’isola della Laguna di Venezia che sembra uscita da una fiaba. A pochi minuti da Venezia, questo villaggio di pescatori conserva una tradizione secolare di merletti fatti a mano e un ritmo lento, tra botteghe artigiane e piccoli caffè. Chi ama borghi autentici ritrova la stessa atmosfera anche in luoghi italiani come Chioggia, dove il legame con l’acqua scandisce la vita quotidiana."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Burano+Venezia&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.FestaVenezia_IT-IT8709585056"
     }
   },
   "NavyPier": {
