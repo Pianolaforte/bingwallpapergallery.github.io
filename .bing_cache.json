@@ -1,4 +1,93 @@
 {
+  "HawaiiLava": {
+    "name": "HawaiiLava",
+    "urlbase": "/th?id=OHR.HawaiiLava_EN-US4126737972",
+    "date": "20260801",
+    "dateFormatted": "August 01, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The power of Kīlauea. Lava flows spill into the ocean on Big Island, Hawaii",
+      "en-CA": "The power of Kīlauea. Lava flows spill into the ocean on Big Island, Hawaii, USA",
+      "de-DE": "Die Kraft des Kīlauea. Lavaströme münden ins Meer, Big Island, Hawaii, USA",
+      "it-IT": "Il potere di Kīlauea",
+      "zh-CN": "基拉韦厄火山的威力",
+      "en-IN": "The power of Kīlauea. Big Island, Hawaii, United States"
+    },
+    "copyrights": {
+      "en-US": "A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)",
+      "en-CA": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)",
+      "de-DE": "Eine Reihe von Lavaströmen mündet ins Meer, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+      "it-IT": "Una serie di colate laviche si riversa nell'oceano, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+      "zh-CN": "大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)",
+      "en-IN": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognizing the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established on August 1, 1916. For more than a century, it has protected over 350,000 acres of volcanic terrain, native forests, and rare wildlife.",
+      "en-CA": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established in 1916. For more than a century, it has protected more than 1,416 square kilometres of volcanic terrain, native forests and rare wildlife.",
+      "de-DE": "Im Hawaiʻi-Volcanoes-Nationalpark auf der Big Island im US-Bundesstaat Hawaii verändern vulkanische Kräfte die Landschaft bis heute. Während viele Regionen der Erde ihr Erscheinungsbild erst über Jahrtausende hinweg wandeln, können Ausbrüche hier innerhalb kurzer Zeit neue Formen schaffen. Der Nationalpark in den Vereinigten Staaten wurde am 1. August 1916 gegründet, um dieses außergewöhnliche Naturgebiet zu schützen. Auf einer Fläche von mehr als 350.000 Acres umfasst er Lavafelder, einheimische Wälder und Lebensräume seltener Tierarten, die sich an die besonderen Bedingungen der Insel angepasst haben.",
+      "en-IN": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established on 1 August, 1916. For more than a century, it has protected over 142,000 hectares of volcanic terrain, native forests and rare wildlife.",
+      "it-IT": "La maggior parte dei paesaggi cambia nel corso di millenni. I vulcani li ridisegnano in poche ore — e sull'isola di Hawaii, la Big Island, lo fanno ancora oggi. Il Parco Nazionale dei Vulcani delle Hawaii è stato istituito il 1° agosto 1916, proteggendo oltre 140.000 ettari di territorio vulcanico, foreste native e fauna rarissima come il nēnē, l'oca selvatica simbolo delle isole.",
+      "zh-CN": "基拉韦厄火山的威力. 大批熔岩流涌入大洋，大岛，夏威夷州，美国. 大多数地貌的演变历时数千年，而火山却能在短短数小时内重塑地貌——在夏威夷大岛，这一过程至今仍在持续。为了保护这一不断变化的环境及其所蕴含的科学与自然价值，夏威夷火山国家公园于1916年8月1日正式成立。一个多世纪以来，该公园一直致力于保护这片占地超过35万英亩的区域，其中包括火山地貌、原生森林以及各类珍稀野生动植物。"
+    },
+    "quickFacts": {
+      "zh-CN": "当温度高达约1093摄氏度的熔岩与冰冷的太平洋海水相遇时，会产生被称为“熔岩雾霭”的剧烈化学反应，形成包含盐酸烟雾和微小火山玻璃颗粒的有害气云。"
+    },
+    "captions": {
+      "en-US": "Lava flows spill into the ocean on Big Island, Hawaii",
+      "en-CA": "Lava flows spill into the ocean on Big Island, Hawaii, USA",
+      "de-DE": "Lavaströme münden ins Meer, Big Island, Hawaii, USA",
+      "it-IT": "",
+      "zh-CN": "",
+      "en-IN": "Big Island, Hawaii, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260801_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260801_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Hawai%27i-Volcanoes-Nationalpark+%c3%9cbersicht&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+Vulcani+delle+Hawaii&form=hpcapt",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a4%8f%e5%a8%81%e5%a4%b7%e7%81%ab%e5%b1%b1%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260731_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HawaiiLava_EN-US4126737972",
+      "en-CA": "/th?id=OHR.HawaiiLava_EN-CA2181536757",
+      "de-DE": "/th?id=OHR.HawaiiLava_DE-DE4111997666",
+      "it-IT": "/th?id=OHR.HawaiiLava_IT-IT9255141439",
+      "zh-CN": "/th?id=OHR.HawaiiLava_ZH-CN3257621771",
+      "en-IN": "/th?id=OHR.HawaiiLava_EN-IN1784864041"
+    }
+  },
   "VirginiaTrail": {
     "name": "VirginiaTrail",
     "urlbase": "/th?id=OHR.VirginiaTrail_EN-US9403114082",
@@ -1616,14 +1705,83 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
+      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
+      "fr-FR": "Ailes de repos. Hirondelles rustiques se reposant ensemble",
+      "it-IT": "Ali a riposo",
+      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
+      "ja-JP": "枯れ草にとまる小鳥の群れ",
+      "zh-CN": "敛羽栖时",
+      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together",
+      "pt-BR": "Pequenas viajantes, grandes distâncias"
+    },
+    "copyrights": {
+      "en-US": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-CA": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-GB": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast (© Oscar Dominguez/Tandem Stills + Motion)",
+      "fr-FR": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
+      "it-IT": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
+      "es-ES": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+      "ja-JP": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
+      "zh-CN": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)"
+    },
+    "descs": {
+      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
+      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
+      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
+      "ja-JP": "一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
+      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
+      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
+      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。"
+    },
+    "quickFacts": {
+      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
+      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
+      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
+      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
+      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
+      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
+    },
+    "captions": {
+      "en-US": "Barn swallows of different subspecies resting together",
+      "en-CA": "Barn swallows of different subspecies resting together"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HirundoRustica_EN-US3193611104",
+      "en-CA": "/th?id=OHR.HirundoRustica_EN-CA9613012856"
+    }
+  },
+  "HelsinkiBlue": {
+    "name": "HelsinkiBlue",
+    "urlbase": "/th?id=OHR.HelsinkiBlue_EN-GB6980168660",
+    "date": "20260801",
+    "dateFormatted": "August 01, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1662,166 +1820,76 @@
       }
     ],
     "titles": {
-      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
-      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
-      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together",
-      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
-      "fr-FR": "Ailes de repos. Hirondelles rustiques se reposant ensemble",
-      "it-IT": "Ali a riposo",
-      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
-      "ja-JP": "枯れ草にとまる小鳥の群れ",
-      "zh-CN": "敛羽栖时",
-      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together",
-      "pt-BR": "Pequenas viajantes, grandes distâncias"
+      "en-GB": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
+      "de-DE": "Tochter der Ostsee. Helsinki, Uusimaa, Finnland",
+      "fr-FR": "Fille de la Baltique. Helsinki, Uusimaa, Finlande",
+      "it-IT": "Figlia del Baltico",
+      "es-ES": "Hija del Báltico. Helsinki, Uusimaa, Finlandia",
+      "ja-JP": "ブルーアワーに輝く湾岸の街",
+      "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
+      "en-IN": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
+      "en-US": "Daughter of the Baltic. Helsinki's shoreline during blue hour, Uusimaa, Finland",
+      "en-CA": "Daughter of the Baltic. Helsinki's shoreline during blue hour, Uusimaa, Finland",
+      "pt-BR": "A cidade que abraça o mar. Orla de Helsinque na hora azul, Uusimaa, Finlândia"
     },
     "copyrights": {
-      "en-US": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-GB": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-CA": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast (© Oscar Dominguez/Tandem Stills + Motion)",
-      "fr-FR": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
-      "it-IT": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
-      "es-ES": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
-      "ja-JP": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
-      "zh-CN": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)"
+      "en-GB": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+      "de-DE": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland (© Miemo Penttinen/Getty Images)",
+      "fr-FR": "Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande (© Miemo Penttinen/Getty Images)",
+      "it-IT": "La costa di Helsinki durante l'ora blu, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+      "es-ES": "La costa de Helsinki durante la hora azul, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+      "ja-JP": "ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)",
+      "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
+      "en-IN": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+      "en-US": "© Miemo Penttinen/Getty Images",
+      "en-CA": "© Miemo Penttinen/Getty Images",
+      "pt-BR": "© Miemo Penttinen/Getty Images"
     },
     "descs": {
-      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
-      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
-      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
-      "ja-JP": "一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
-      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
-      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
-      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。"
+      "en-GB": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "de-DE": "Helsinki, die Hauptstadt Finnlands, verbindet Geschichte, Design und die Nähe zur Ostsee auf einzigartige Weise. Die Stadt wurde 1550 von Gustav I. von Schweden gegründet und ist seit 1812 die Hauptstadt des Landes. Entlang der Küste prägen elegante Gebäude, lebendige Hafenviertel und die ruhige Weite des Meeres das Stadtbild. Zur blauen Stunde spiegeln sich die letzten Farben des Tages im Wasser, während die Lichter der Stadt allmählich aufleuchten und eine besondere Atmosphäre schaffen.",
+      "fr-FR": "Il est un moment, entre chien et loup, où Helsinki retient son souffle. Le ciel vire à l’indigo, les eaux de la Baltique s’apaisent, et la ville se reflète dans un calme presque irréel. C’est l’heure bleue — fugace, envoûtante.",
+      "es-ES": "Helsinki, la vibrante capital de Finlandia, es una ciudad donde el mar, la historia y el diseño conviven en perfecta armonía. Fundada en 1550 por el rey Gustavo I de Suecia, no alcanzó su papel de capital hasta 1812, aunque el tiempo no ha hecho más que pulir su carácter.",
+      "ja-JP": "ここはフィンランドの首都ヘルシンキ。1550 年、当時のスウェーデン国王グスタフ 1 世によって交易の街として整備され、1812 年に首都となりました。フィンランド湾沿岸に位置し、300 以上の島々を有しているため、街の総面積の約 7 割が海域となっていますが、同時に緑豊かな森にも恵まれています。フィンランドには「自然享受権」という権利があるため、誰でも気軽に森を散策することが可能であり、ベリーやキノコなどを自由に採集することができます。",
+      "en-IN": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "en-US": "Finland is famous for the northern lights, its high happiness rankings, saunas, and thousands of lakes. Helsinki adds history, design, and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "en-CA": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "it-IT": "Durante l'ora blu, quella finestra di luce sospesa tra il tramonto e la notte, Helsinki si riflette nel Baltico con una nitidezza che sembra quasi irreale. Fondata nel 1550 dal re svedese Gustavo I e diventata capitale della Finlandia nel 1812, la città ha costruito la propria identità sull'acqua: oltre il settanta per cento dei suoi 686 km² è mare, e il tessuto urbano si estende su più di 300 isole.",
+      "pt-BR": "Vista na imagem, Helsinque parece uma cidade que nunca conseguiu decidir se prefere terra ou mar. O resultado? Mais de 300 ilhas, quilômetros de litoral e uma capital onde o azul aparece em praticamente qualquer direção. Fundada em 1550 como um centro comercial do reino da Suécia, ela virou capital finlandesa em 1812 e, desde então, coleciona um talento raro: combinar prédios elegantes, natureza e uma vida urbana que anda sem pressa.",
+      "zh-CN": "色彩鲜艳的船只，历久弥新的传统. 马尔萨什洛克港口五彩斑斓的渔船，马耳他. 色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
     },
     "quickFacts": {
-      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
-      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
-      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
-      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
-      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
-      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
-      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
-      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
+      "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
     },
     "captions": {
-      "en-US": "Barn swallows of different subspecies resting together",
-      "en-GB": "Barn swallows of different subspecies resting together",
-      "en-CA": "Barn swallows of different subspecies resting together",
-      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
-      "fr-FR": "Hirondelles rustiques se reposant ensemble",
+      "en-GB": "Helsinki, Uusimaa, Finland",
+      "de-DE": "Helsinki, Uusimaa, Finnland",
+      "fr-FR": "Helsinki, Uusimaa, Finlande",
       "it-IT": "",
-      "es-ES": "Golondrinas descansando juntas",
-      "ja-JP": "枯れ草にとまる小鳥の群れ",
+      "es-ES": "Helsinki, Uusimaa, Finlandia",
+      "ja-JP": "ブルーアワーに輝く湾岸の街",
       "zh-CN": "",
-      "en-IN": "Barn swallows of different subspecies resting together"
+      "en-IN": "Helsinki, Uusimaa, Finland"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Rauchschwalbe&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=hirondelle+rustique&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Le+Rondini&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Golondrinas&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%84%e3%83%90%e3%83%a1&form=hpcapt&filters=HpDate%3a%2220260718_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%ae%b6%e7%87%95&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Helsinki&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%83%b3%e3%82%ad&form=hpcapt&filters=HpDate%3a%2220260801_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%a9%ac%e8%80%b3%e4%bb%96%e9%a9%ac%e5%b0%94%e8%90%a8%e4%bb%80%e6%b4%9b%e5%85%8b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.HirundoRustica_EN-US3193611104",
-      "en-GB": "/th?id=OHR.HirundoRustica_EN-GB4164429315",
-      "en-CA": "/th?id=OHR.HirundoRustica_EN-CA9613012856",
-      "de-DE": "/th?id=OHR.HirundoRustica_DE-DE7127271974",
-      "fr-FR": "/th?id=OHR.HirundoRustica_FR-FR5403619513",
-      "it-IT": "/th?id=OHR.HirundoRustica_IT-IT8852691530",
-      "es-ES": "/th?id=OHR.HirundoRustica_ES-ES1865458756",
-      "ja-JP": "/th?id=OHR.HirundoRustica_JA-JP1327555795",
-      "zh-CN": "/th?id=OHR.HirundoRustica_ZH-CN2798518247",
-      "en-IN": "/th?id=OHR.HirundoRustica_EN-IN8751353148"
-    }
-  },
-  "DevilsBridge": {
-    "name": "DevilsBridge",
-    "urlbase": "/th?id=OHR.DevilsBridge_EN-US3505962815",
-    "date": "20260718",
-    "dateFormatted": "July 18, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
-      "en-CA": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
-      "pt-BR": "A arte de fechar o círculo",
-      "en-GB": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
-      "de-DE": "Die perfekte Illusion. Rakotzbrücke, Kromlau, Sachsen",
-      "fr-FR": "La boucle du temps. Pont du Diable, Kromlau, Saxe, Allemagne",
-      "es-ES": "Entre dos mundos. Rhododendronpark Kromlau, Sajonia, Alemania",
-      "ja-JP": "水面に映る幻想的な石橋",
-      "zh-CN": "环影圆成",
-      "en-IN": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany"
-    },
-    "copyrights": {
-      "en-US": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
-      "en-CA": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
-      "pt-BR": "Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha (© Mike Mareen/Getty Images)",
-      "en-GB": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
-      "de-DE": "Rakotzbrücke in Kromlau, Sachsen (© Mike Mareen/Getty Images)",
-      "fr-FR": "Pont du Diable dans le parc aux rhododendrons de Kromlau, en Saxe, Allemagne (© Mike Mareen/Getty Images)",
-      "es-ES": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
-      "ja-JP": "ラコツ橋, ドイツ (© Mike Mareen/Getty Images)",
-      "zh-CN": "恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)",
-      "en-IN": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "en-CA": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from basalt, a volcanic rock, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "en-GB": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "de-DE": "Wenn sich die Rakotzbrücke im sächsischen Kromlau im Rakotzsee spiegelt, entsteht ein unwirklich wirkender, fast perfekter Kreis aus Stein. Die schmale Brücke wurde im 19. Jahrhundert so entworfen, dass ihr Bogen und die Reflexion im ruhigen Wasser exakt ineinandergreifen.",
-      "fr-FR": "Dans le parc aux rhododendrons de Kromlau, en Saxe, tout près de la frontière de l’Allemagne avec la Pologne, le pont du Diable semble surgir d’un conte. Lorsque l’eau du lac s’immobilise, son arche de basalte et son reflet se rejoignent pour former un cercle presque parfait, tel un portail entre le réel et l’imaginaire.",
-      "es-ES": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
-      "ja-JP": "今日の画像は、幻想的で美しい「魔橋」とも呼ばれるラコツ橋。ドイツのクロムラウ・ツツジシャクナゲ公園内にあるこの橋は、玄武岩などを利用して 1860 年代に造られました。水面に映ると円を描くように見える独特の設計が特徴です。その神秘的な姿から人気の写真スポットとなっているほか、人気映画シリーズ「マトリックス」の四作目、「マトリックス レザレクションズ」のロケ地としても使用されました。その緻密な構造を保護するため、現在、橋を渡ることは禁止されています。",
-      "en-IN": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-      "pt-BR": "A Rakotzbrücke parece ter sido construída por alguém que acordou com uma missão muito específica: transformar um lago em ilusão de ótica. A ponte vista na imagem, erguida com pedras vulcânicas em 1860, não foi feita para encurtar caminhos, mas para produzir uma das ilusões mais famosas da Alemanha.",
-      "zh-CN": "倒映在平静的水面上，拉科茨桥——通称为“恶魔桥”——在德国萨克森州构成了一个近乎完美的石环。这座窄长的玄武岩结构始建于1860年，经过精密的工程设计，使其拱形结构与水面倒影在湖面静止时能精准对齐，形成一个无缝的圆环。该建筑由当地产的火山石建成，与其说它具有实用功能，不如说它体现了精准的几何设计，其惊艳的造型纯粹是为了追求视觉上的美学冲击。作为热门的摄影题材，它还曾出现在包括《黑客帝国：矩阵重启》（2021年）在内的电影中。如今，由于桥体结构脆弱，为了对其进行保护，严禁行人通行，游客仅可从岸边观赏。"
-    },
-    "quickFacts": {
-      "zh-CN": "这种“恶魔桥”的称谓源于古老的民间传说，意指只有撒旦才能建造出如此违背重力的拱形结构，在克罗姆劳，萨克森州，德国。"
-    },
-    "captions": {
-      "en-US": "Devil's Bridge, Kromlau, Saxony, Germany",
-      "en-CA": "Devil's Bridge, Kromlau, Saxony, Germany",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260718_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260718_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Ponte+do+Diabo+Rakotzbr%c3%bccke&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.DevilsBridge_EN-US3505962815",
-      "en-CA": "/th?id=OHR.DevilsBridge_EN-CA9488720591",
-      "pt-BR": "/th?id=OHR.DevilsBridge_PT-BR5443302606"
+      "en-GB": "/th?id=OHR.HelsinkiBlue_EN-GB6980168660",
+      "de-DE": "/th?id=OHR.HelsinkiBlue_DE-DE4461850043",
+      "fr-FR": "/th?id=OHR.HelsinkiBlue_FR-FR8717266334",
+      "it-IT": "/th?id=OHR.HelsinkiBlue_IT-IT9429337121",
+      "es-ES": "/th?id=OHR.HelsinkiBlue_ES-ES3341783633",
+      "ja-JP": "/th?id=OHR.HelsinkiBlue_JA-JP6468131752",
+      "zh-CN": "/th?id=OHR.HelsinkiBlue_ZH-CN3961551568",
+      "en-IN": "/th?id=OHR.HelsinkiBlue_EN-IN2064439087"
     }
   },
   "BrightonPride2026": {
@@ -1854,79 +1922,6 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.BrightonPride2026_EN-GB6665333938"
-    }
-  },
-  "HawaiiLava": {
-    "name": "HawaiiLava",
-    "urlbase": "/th?id=OHR.HawaiiLava_DE-DE4111997666",
-    "date": "20260731",
-    "dateFormatted": "July 31, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "de-DE": "Die Kraft des Kīlauea. Lavaströme münden ins Meer, Big Island, Hawaii, USA",
-      "it-IT": "Il potere di Kīlauea",
-      "zh-CN": "基拉韦厄火山的威力",
-      "en-IN": "The power of Kīlauea. Big Island, Hawaii, United States",
-      "en-US": "The power of Kīlauea. A series of lava flows spill into the ocean, Big Island, Hawaii",
-      "en-CA": "The power of Kīlauea. A series of lava flows spill into the ocean, Big Island, Hawaii, United States"
-    },
-    "copyrights": {
-      "de-DE": "Eine Reihe von Lavaströmen mündet ins Meer, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
-      "it-IT": "Una serie di colate laviche si riversa nell'oceano, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
-      "zh-CN": "大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)",
-      "en-IN": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)",
-      "en-US": "© Ken McCurdy/Getty Images",
-      "en-CA": "© Ken McCurdy/Getty Images"
-    },
-    "descs": {
-      "de-DE": "Im Hawaiʻi-Volcanoes-Nationalpark auf der Big Island im US-Bundesstaat Hawaii verändern vulkanische Kräfte die Landschaft bis heute. Während viele Regionen der Erde ihr Erscheinungsbild erst über Jahrtausende hinweg wandeln, können Ausbrüche hier innerhalb kurzer Zeit neue Formen schaffen. Der Nationalpark in den Vereinigten Staaten wurde am 1. August 1916 gegründet, um dieses außergewöhnliche Naturgebiet zu schützen. Auf einer Fläche von mehr als 350.000 Acres umfasst er Lavafelder, einheimische Wälder und Lebensräume seltener Tierarten, die sich an die besonderen Bedingungen der Insel angepasst haben.",
-      "en-IN": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established on 1 August, 1916. For more than a century, it has protected over 142,000 hectares of volcanic terrain, native forests and rare wildlife.",
-      "en-US": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognizing the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established on August 1, 1916. For more than a century, it has protected over 350,000 acres of volcanic terrain, native forests, and rare wildlife.",
-      "en-CA": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established in 1916. For more than a century, it has protected more than 1,416 square kilometres of volcanic terrain, native forests and rare wildlife.",
-      "it-IT": "La maggior parte dei paesaggi cambia nel corso di millenni. I vulcani li ridisegnano in poche ore — e sull'isola di Hawaii, la Big Island, lo fanno ancora oggi. Il Parco Nazionale dei Vulcani delle Hawaii è stato istituito il 1° agosto 1916, proteggendo oltre 140.000 ettari di territorio vulcanico, foreste native e fauna rarissima come il nēnē, l'oca selvatica simbolo delle isole.",
-      "zh-CN": "基拉韦厄火山的威力. 大批熔岩流涌入大洋，大岛，夏威夷州，美国. 大多数地貌的演变历时数千年，而火山却能在短短数小时内重塑地貌——在夏威夷大岛，这一过程至今仍在持续。为了保护这一不断变化的环境及其所蕴含的科学与自然价值，夏威夷火山国家公园于1916年8月1日正式成立。一个多世纪以来，该公园一直致力于保护这片占地超过35万英亩的区域，其中包括火山地貌、原生森林以及各类珍稀野生动植物。"
-    },
-    "quickFacts": {
-      "zh-CN": "当温度高达约1093摄氏度的熔岩与冰冷的太平洋海水相遇时，会产生被称为“熔岩雾霭”的剧烈化学反应，形成包含盐酸烟雾和微小火山玻璃颗粒的有害气云。"
-    },
-    "captions": {
-      "de-DE": "Lavaströme münden ins Meer, Big Island, Hawaii, USA",
-      "it-IT": "",
-      "zh-CN": "",
-      "en-IN": "Big Island, Hawaii, United States"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Hawai%27i-Volcanoes-Nationalpark+%c3%9cbersicht&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+Vulcani+delle+Hawaii&form=hpcapt",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a4%8f%e5%a8%81%e5%a4%b7%e7%81%ab%e5%b1%b1%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260731_1830%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.HawaiiLava_DE-DE4111997666",
-      "it-IT": "/th?id=OHR.HawaiiLava_IT-IT9255141439",
-      "zh-CN": "/th?id=OHR.HawaiiLava_ZH-CN3257621771",
-      "en-IN": "/th?id=OHR.HawaiiLava_EN-IN1784864041"
     }
   },
   "BearBavaria": {
@@ -2285,6 +2280,38 @@
       "es-ES": "/th?id=OHR.IslaCristina_ES-ES8480409312"
     }
   },
+  "Maracatu": {
+    "name": "Maracatu",
+    "urlbase": "/th?id=OHR.Maracatu_PT-BR9312687500",
+    "date": "20260801",
+    "dateFormatted": "August 01, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "A arte de desfilar histórias"
+    },
+    "copyrights": {
+      "pt-BR": "Ornamentos, cores e detalhes do Maracatu Rural, Pernambuco (© FerreiraSilva/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Quando o Maracatu entra em cena, boa parte do espetáculo já aconteceu. Meses antes do primeiro desfile, mãos já bordam golas, prendem lantejoulas, lustram espelhos e ornamentam lanças com milhares de peças brilhantes."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=o+maracatu&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Maracatu_PT-BR9312687500"
+    }
+  },
   "Furada": {
     "name": "Furada",
     "urlbase": "/th?id=OHR.Furada_PT-BR7092103592",
@@ -2501,6 +2528,83 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "DevilsBridge": {
+    "name": "DevilsBridge",
+    "urlbase": "/th?id=OHR.DevilsBridge_EN-US3505962815",
+    "date": "20260718",
+    "dateFormatted": "July 18, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "en-CA": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "pt-BR": "A arte de fechar o círculo",
+      "en-GB": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany",
+      "de-DE": "Die perfekte Illusion. Rakotzbrücke, Kromlau, Sachsen",
+      "fr-FR": "La boucle du temps. Pont du Diable, Kromlau, Saxe, Allemagne",
+      "es-ES": "Entre dos mundos. Rhododendronpark Kromlau, Sajonia, Alemania",
+      "ja-JP": "水面に映る幻想的な石橋",
+      "zh-CN": "环影圆成",
+      "en-IN": "Going full circle. Devil's Bridge, Kromlau, Saxony, Germany"
+    },
+    "copyrights": {
+      "en-US": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "en-CA": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "pt-BR": "Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha (© Mike Mareen/Getty Images)",
+      "en-GB": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+      "de-DE": "Rakotzbrücke in Kromlau, Sachsen (© Mike Mareen/Getty Images)",
+      "fr-FR": "Pont du Diable dans le parc aux rhododendrons de Kromlau, en Saxe, Allemagne (© Mike Mareen/Getty Images)",
+      "es-ES": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
+      "ja-JP": "ラコツ橋, ドイツ (© Mike Mareen/Getty Images)",
+      "zh-CN": "恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)",
+      "en-IN": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "en-CA": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from basalt, a volcanic rock, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "en-GB": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "de-DE": "Wenn sich die Rakotzbrücke im sächsischen Kromlau im Rakotzsee spiegelt, entsteht ein unwirklich wirkender, fast perfekter Kreis aus Stein. Die schmale Brücke wurde im 19. Jahrhundert so entworfen, dass ihr Bogen und die Reflexion im ruhigen Wasser exakt ineinandergreifen.",
+      "fr-FR": "Dans le parc aux rhododendrons de Kromlau, en Saxe, tout près de la frontière de l’Allemagne avec la Pologne, le pont du Diable semble surgir d’un conte. Lorsque l’eau du lac s’immobilise, son arche de basalte et son reflet se rejoignent pour former un cercle presque parfait, tel un portail entre le réel et l’imaginaire.",
+      "es-ES": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
+      "ja-JP": "今日の画像は、幻想的で美しい「魔橋」とも呼ばれるラコツ橋。ドイツのクロムラウ・ツツジシャクナゲ公園内にあるこの橋は、玄武岩などを利用して 1860 年代に造られました。水面に映ると円を描くように見える独特の設計が特徴です。その神秘的な姿から人気の写真スポットとなっているほか、人気映画シリーズ「マトリックス」の四作目、「マトリックス レザレクションズ」のロケ地としても使用されました。その緻密な構造を保護するため、現在、橋を渡ることは禁止されています。",
+      "en-IN": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+      "pt-BR": "A Rakotzbrücke parece ter sido construída por alguém que acordou com uma missão muito específica: transformar um lago em ilusão de ótica. A ponte vista na imagem, erguida com pedras vulcânicas em 1860, não foi feita para encurtar caminhos, mas para produzir uma das ilusões mais famosas da Alemanha.",
+      "zh-CN": "倒映在平静的水面上，拉科茨桥——通称为“恶魔桥”——在德国萨克森州构成了一个近乎完美的石环。这座窄长的玄武岩结构始建于1860年，经过精密的工程设计，使其拱形结构与水面倒影在湖面静止时能精准对齐，形成一个无缝的圆环。该建筑由当地产的火山石建成，与其说它具有实用功能，不如说它体现了精准的几何设计，其惊艳的造型纯粹是为了追求视觉上的美学冲击。作为热门的摄影题材，它还曾出现在包括《黑客帝国：矩阵重启》（2021年）在内的电影中。如今，由于桥体结构脆弱，为了对其进行保护，严禁行人通行，游客仅可从岸边观赏。"
+    },
+    "quickFacts": {
+      "zh-CN": "这种“恶魔桥”的称谓源于古老的民间传说，意指只有撒旦才能建造出如此违背重力的拱形结构，在克罗姆劳，萨克森州，德国。"
+    },
+    "captions": {
+      "en-US": "Devil's Bridge, Kromlau, Saxony, Germany",
+      "en-CA": "Devil's Bridge, Kromlau, Saxony, Germany",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260718_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260718_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Ponte+do+Diabo+Rakotzbr%c3%bccke&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DevilsBridge_EN-US3505962815",
+      "en-CA": "/th?id=OHR.DevilsBridge_EN-CA9488720591",
+      "pt-BR": "/th?id=OHR.DevilsBridge_PT-BR5443302606"
     }
   },
   "VaiUmbrellas": {
