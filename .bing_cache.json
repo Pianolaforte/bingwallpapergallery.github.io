@@ -1,4 +1,148 @@
 {
+  "HelsinkiBlue": {
+    "name": "HelsinkiBlue",
+    "urlbase": "/th?id=OHR.HelsinkiBlue_EN-US4898215906",
+    "date": "20260802",
+    "dateFormatted": "August 02, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
+      "en-GB": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
+      "en-CA": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
+      "de-DE": "Tochter der Ostsee. Helsinki, Uusimaa, Finnland",
+      "fr-FR": "Fille de la Baltique. Helsinki, Uusimaa, Finlande",
+      "it-IT": "Figlia del Baltico",
+      "es-ES": "Hija del Báltico. Helsinki, Uusimaa, Finlandia",
+      "pt-BR": "A cidade que abraça o mar",
+      "ja-JP": "ブルーアワーに輝く湾岸の街",
+      "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
+      "en-IN": "Daughter of the Baltic. Helsinki, Uusimaa, Finland"
+    },
+    "copyrights": {
+      "en-US": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+      "en-GB": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+      "en-CA": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+      "de-DE": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland (© Miemo Penttinen/Getty Images)",
+      "fr-FR": "Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande (© Miemo Penttinen/Getty Images)",
+      "it-IT": "La costa di Helsinki durante l'ora blu, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+      "es-ES": "La costa de Helsinki durante la hora azul, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+      "pt-BR": "Orla de Helsinque na hora azul, Uusimaa, Finlândia (© Miemo Penttinen/Getty Images)",
+      "ja-JP": "ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)",
+      "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
+      "en-IN": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Finland is famous for the northern lights, its high happiness rankings, saunas, and thousands of lakes. Helsinki adds history, design, and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "en-GB": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "en-CA": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "de-DE": "Helsinki, die Hauptstadt Finnlands, verbindet Geschichte, Design und die Nähe zur Ostsee auf einzigartige Weise. Die Stadt wurde 1550 von Gustav I. von Schweden gegründet und ist seit 1812 die Hauptstadt des Landes. Entlang der Küste prägen elegante Gebäude, lebendige Hafenviertel und die ruhige Weite des Meeres das Stadtbild. Zur blauen Stunde spiegeln sich die letzten Farben des Tages im Wasser, während die Lichter der Stadt allmählich aufleuchten und eine besondere Atmosphäre schaffen.",
+      "fr-FR": "Il est un moment, entre chien et loup, où Helsinki retient son souffle. Le ciel vire à l’indigo, les eaux de la Baltique s’apaisent, et la ville se reflète dans un calme presque irréel. C’est l’heure bleue — fugace, envoûtante.",
+      "es-ES": "Helsinki, la vibrante capital de Finlandia, es una ciudad donde el mar, la historia y el diseño conviven en perfecta armonía. Fundada en 1550 por el rey Gustavo I de Suecia, no alcanzó su papel de capital hasta 1812, aunque el tiempo no ha hecho más que pulir su carácter.",
+      "ja-JP": "ここはフィンランドの首都ヘルシンキ。1550 年、当時のスウェーデン国王グスタフ 1 世によって交易の街として整備され、1812 年に首都となりました。フィンランド湾沿岸に位置し、300 以上の島々を有しているため、街の総面積の約 7 割が海域となっていますが、同時に緑豊かな森にも恵まれています。フィンランドには「自然享受権」という権利があるため、誰でも気軽に森を散策することが可能であり、ベリーやキノコなどを自由に採集することができます。",
+      "en-IN": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "it-IT": "Durante l'ora blu, quella finestra di luce sospesa tra il tramonto e la notte, Helsinki si riflette nel Baltico con una nitidezza che sembra quasi irreale. Fondata nel 1550 dal re svedese Gustavo I e diventata capitale della Finlandia nel 1812, la città ha costruito la propria identità sull'acqua: oltre il settanta per cento dei suoi 686 km² è mare, e il tessuto urbano si estende su più di 300 isole.",
+      "pt-BR": "Vista na imagem, Helsinque parece uma cidade que nunca conseguiu decidir se prefere terra ou mar. O resultado? Mais de 300 ilhas, quilômetros de litoral e uma capital onde o azul aparece em praticamente qualquer direção. Fundada em 1550 como um centro comercial do reino da Suécia, ela virou capital finlandesa em 1812 e, desde então, coleciona um talento raro: combinar prédios elegantes, natureza e uma vida urbana que anda sem pressa.",
+      "zh-CN": "色彩鲜艳的船只，历久弥新的传统. 马尔萨什洛克港口五彩斑斓的渔船，马耳他. 色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
+    },
+    "quickFacts": {
+      "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
+    },
+    "captions": {
+      "en-US": "Helsinki, Uusimaa, Finland",
+      "en-GB": "Helsinki, Uusimaa, Finland",
+      "en-CA": "Helsinki, Uusimaa, Finland",
+      "de-DE": "Helsinki, Uusimaa, Finnland",
+      "fr-FR": "Helsinki, Uusimaa, Finlande",
+      "it-IT": "",
+      "es-ES": "Helsinki, Uusimaa, Finlandia",
+      "pt-BR": "",
+      "ja-JP": "ブルーアワーに輝く湾岸の街",
+      "zh-CN": "",
+      "en-IN": "Helsinki, Uusimaa, Finland"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260802_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260802_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Helsinki&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Helsinque+Finl%c3%a2ndia&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%83%b3%e3%82%ad&form=hpcapt&filters=HpDate%3a%2220260801_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%a9%ac%e8%80%b3%e4%bb%96%e9%a9%ac%e5%b0%94%e8%90%a8%e4%bb%80%e6%b4%9b%e5%85%8b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HelsinkiBlue_EN-US4898215906",
+      "en-GB": "/th?id=OHR.HelsinkiBlue_EN-GB6980168660",
+      "en-CA": "/th?id=OHR.HelsinkiBlue_EN-CA2592660505",
+      "de-DE": "/th?id=OHR.HelsinkiBlue_DE-DE4461850043",
+      "fr-FR": "/th?id=OHR.HelsinkiBlue_FR-FR8717266334",
+      "it-IT": "/th?id=OHR.HelsinkiBlue_IT-IT9429337121",
+      "es-ES": "/th?id=OHR.HelsinkiBlue_ES-ES3341783633",
+      "pt-BR": "/th?id=OHR.HelsinkiBlue_PT-BR0340824647",
+      "ja-JP": "/th?id=OHR.HelsinkiBlue_JA-JP6468131752",
+      "zh-CN": "/th?id=OHR.HelsinkiBlue_ZH-CN3961551568",
+      "en-IN": "/th?id=OHR.HelsinkiBlue_EN-IN2064439087"
+    }
+  },
   "HawaiiLava": {
     "name": "HawaiiLava",
     "urlbase": "/th?id=OHR.HawaiiLava_EN-US4126737972",
@@ -1554,86 +1698,46 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "The lunar perspective. International Moon Day",
-      "en-GB": "The lunar perspective. International Moon Day",
       "en-CA": "The lunar perspective. International Moon Day",
+      "pt-BR": "A distância que nos aproxima",
+      "en-GB": "The lunar perspective. International Moon Day",
       "de-DE": "Aus der Perspektive des Mondes. Internationaler Tag des Mondes",
       "fr-FR": "Une perspective lunaire. Journée internationale de la Lune",
       "it-IT": "L'altro lato della luna",
       "es-ES": "La otra cara de la Luna. Día Internacional de la Luna",
-      "pt-BR": "A distância que nos aproxima",
       "ja-JP": "今日は国際月の日",
       "zh-CN": "月瞰寰宇",
       "en-IN": "The lunar perspective. International Moon Day"
     },
     "copyrights": {
       "en-US": "Moon and Earth captured by the Artemis II crew (© NASA)",
-      "en-GB": "Moon and Earth captured by the Artemis II crew (© NASA)",
       "en-CA": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "pt-BR": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
+      "en-GB": "Moon and Earth captured by the Artemis II crew (© NASA)",
       "de-DE": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
       "fr-FR": "La Lune et la Terre capturées par l'équipage d'Artemis II (© NASA)",
       "it-IT": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
       "es-ES": "Luna y Tierra capturadas por la tripulación Artemis II (© NASA)",
-      "pt-BR": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
       "ja-JP": "月から見た地球 (© NASA)",
       "zh-CN": "月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)",
       "en-IN": "Moon and Earth captured by the Artemis II crew (© NASA)"
     },
     "descs": {
       "en-US": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "en-GB": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
       "en-CA": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "en-GB": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
       "de-DE": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
       "fr-FR": "Depuis la surface lunaire criblée de cratères, la Terre apparaît comme un fin croissant lumineux suspendu dans l’obscurité, une vision rare qui renverse notre perspective habituelle. Ce décor austère, sculpté par des milliards d’années d’impacts, conserve la mémoire des origines du système solaire.",
       "es-ES": "Desde la superficie de la Luna, la Tierra aparece como una fina media luna brillante suspendida en la oscuridad, una imagen que invierte por completo nuestra perspectiva habitual. Este paisaje, marcado por cráteres formados durante miles de millones de años, conserva la memoria del origen del sistema solar. El veinte de julio se celebra el Día Internacional de la Luna, en recuerdo del alunizaje del Apolo 11 en 1969, una fecha clave en la exploración humana.",
@@ -1655,128 +1759,25 @@
     },
     "captions": {
       "en-US": "International Moon Day",
-      "en-GB": "International Moon Day",
       "en-CA": "International Moon Day",
-      "de-DE": "Internationaler Tag des Mondes",
-      "fr-FR": "Journée internationale de la Lune",
-      "it-IT": "",
-      "es-ES": "Día Internacional de la Luna",
-      "pt-BR": "",
-      "ja-JP": "今日は国際月の日",
-      "zh-CN": "",
-      "en-IN": "International Moon Day"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260720_0700%22",
-      "en-GB": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_2300%22",
       "en-CA": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260720_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Mondes&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+de+la+Lune&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+della+Luna&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+la+Luna&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Lua&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e6%9c%88%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260719_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%9c%88%e7%90%83%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Lua&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.Artemis_EN-US0683925849",
-      "en-GB": "/th?id=OHR.Artemis_EN-GB4404068677",
       "en-CA": "/th?id=OHR.Artemis_EN-CA9898142366",
-      "de-DE": "/th?id=OHR.Artemis_DE-DE7510070152",
-      "fr-FR": "/th?id=OHR.Artemis_FR-FR5561744161",
-      "it-IT": "/th?id=OHR.Artemis_IT-IT9087187961",
-      "es-ES": "/th?id=OHR.Artemis_ES-ES9353344735",
-      "pt-BR": "/th?id=OHR.Artemis_PT-BR6100754238",
-      "ja-JP": "/th?id=OHR.Artemis_JA-JP1736021856",
-      "zh-CN": "/th?id=OHR.Artemis_ZH-CN3540365575",
-      "en-IN": "/th?id=OHR.Artemis_EN-IN9018589977"
+      "pt-BR": "/th?id=OHR.Artemis_PT-BR6100754238"
     }
   },
-  "HirundoRustica": {
-    "name": "HirundoRustica",
-    "urlbase": "/th?id=OHR.HirundoRustica_EN-US3193611104",
-    "date": "20260719",
-    "dateFormatted": "July 19, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
-      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together",
-      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
-      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
-      "fr-FR": "Ailes de repos. Hirondelles rustiques se reposant ensemble",
-      "it-IT": "Ali a riposo",
-      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
-      "ja-JP": "枯れ草にとまる小鳥の群れ",
-      "zh-CN": "敛羽栖时",
-      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together",
-      "pt-BR": "Pequenas viajantes, grandes distâncias"
-    },
-    "copyrights": {
-      "en-US": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-CA": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-GB": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast (© Oscar Dominguez/Tandem Stills + Motion)",
-      "fr-FR": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
-      "it-IT": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
-      "es-ES": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
-      "ja-JP": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
-      "zh-CN": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
-      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
-      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)"
-    },
-    "descs": {
-      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
-      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
-      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
-      "ja-JP": "一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
-      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
-      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
-      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
-      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。"
-    },
-    "quickFacts": {
-      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
-      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
-      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
-      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
-      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
-      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
-      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
-      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
-    },
-    "captions": {
-      "en-US": "Barn swallows of different subspecies resting together",
-      "en-CA": "Barn swallows of different subspecies resting together"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.HirundoRustica_EN-US3193611104",
-      "en-CA": "/th?id=OHR.HirundoRustica_EN-CA9613012856"
-    }
-  },
-  "HelsinkiBlue": {
-    "name": "HelsinkiBlue",
-    "urlbase": "/th?id=OHR.HelsinkiBlue_EN-GB6980168660",
-    "date": "20260801",
-    "dateFormatted": "August 01, 2026",
+  "BoatsMalta": {
+    "name": "BoatsMalta",
+    "urlbase": "/th?id=OHR.BoatsMalta_EN-GB7267750671",
+    "date": "20260802",
+    "dateFormatted": "August 02, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1820,76 +1821,76 @@
       }
     ],
     "titles": {
-      "en-GB": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
-      "de-DE": "Tochter der Ostsee. Helsinki, Uusimaa, Finnland",
-      "fr-FR": "Fille de la Baltique. Helsinki, Uusimaa, Finlande",
-      "it-IT": "Figlia del Baltico",
-      "es-ES": "Hija del Báltico. Helsinki, Uusimaa, Finlandia",
-      "ja-JP": "ブルーアワーに輝く湾岸の街",
+      "en-GB": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
+      "de-DE": "Zeitlose Traditionen. Bunte Boote im Hafen von Marsaxlokk, Malta",
+      "fr-FR": "Les couleurs de la tradition. Bateaux colorés dans le port de Marsaxlokk, Malte",
+      "it-IT": "Un porto di colori",
+      "es-ES": "Navegando entre colores. Barcos coloridos en el puerto de Marsaxlokk, Malta",
+      "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
       "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
-      "en-IN": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
-      "en-US": "Daughter of the Baltic. Helsinki's shoreline during blue hour, Uusimaa, Finland",
-      "en-CA": "Daughter of the Baltic. Helsinki's shoreline during blue hour, Uusimaa, Finland",
-      "pt-BR": "A cidade que abraça o mar. Orla de Helsinque na hora azul, Uusimaa, Finlândia"
+      "en-IN": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
+      "en-US": "Bright boats, timeless traditions. Colorful boats in Marsaxlokk Harbor, Malta",
+      "en-CA": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
+      "pt-BR": "Ancorado em tradição. Barcos coloridos no porto de Marsaxlokk, Malta"
     },
     "copyrights": {
-      "en-GB": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
-      "de-DE": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland (© Miemo Penttinen/Getty Images)",
-      "fr-FR": "Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande (© Miemo Penttinen/Getty Images)",
-      "it-IT": "La costa di Helsinki durante l'ora blu, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
-      "es-ES": "La costa de Helsinki durante la hora azul, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
-      "ja-JP": "ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)",
+      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
+      "de-DE": "Bunte Boote im Hafen von Marsaxlokk, Malta (© Klubovy/Getty Images)",
+      "fr-FR": "Bateaux colorés dans le port de Marsaxlokk, Malte (© Klubovy/Getty Images)",
+      "it-IT": "Barche colorate nel porto di Marsaxlokk, Malta (© Klubovy/Getty Images)",
+      "es-ES": "Barcos coloridos en el puerto de Marsaxlokk, Malta (© Klubovy/Getty Images)",
+      "ja-JP": "マルサシュロック, マルタ (© Klubovy/Getty Images)",
       "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
-      "en-IN": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
-      "en-US": "© Miemo Penttinen/Getty Images",
-      "en-CA": "© Miemo Penttinen/Getty Images",
-      "pt-BR": "© Miemo Penttinen/Getty Images"
+      "en-IN": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
+      "en-US": "© Klubovy/Getty Images",
+      "en-CA": "© Klubovy/Getty Images",
+      "pt-BR": "© Klubovy/Getty Images"
     },
     "descs": {
-      "en-GB": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
-      "de-DE": "Helsinki, die Hauptstadt Finnlands, verbindet Geschichte, Design und die Nähe zur Ostsee auf einzigartige Weise. Die Stadt wurde 1550 von Gustav I. von Schweden gegründet und ist seit 1812 die Hauptstadt des Landes. Entlang der Küste prägen elegante Gebäude, lebendige Hafenviertel und die ruhige Weite des Meeres das Stadtbild. Zur blauen Stunde spiegeln sich die letzten Farben des Tages im Wasser, während die Lichter der Stadt allmählich aufleuchten und eine besondere Atmosphäre schaffen.",
-      "fr-FR": "Il est un moment, entre chien et loup, où Helsinki retient son souffle. Le ciel vire à l’indigo, les eaux de la Baltique s’apaisent, et la ville se reflète dans un calme presque irréel. C’est l’heure bleue — fugace, envoûtante.",
-      "es-ES": "Helsinki, la vibrante capital de Finlandia, es una ciudad donde el mar, la historia y el diseño conviven en perfecta armonía. Fundada en 1550 por el rey Gustavo I de Suecia, no alcanzó su papel de capital hasta 1812, aunque el tiempo no ha hecho más que pulir su carácter.",
-      "ja-JP": "ここはフィンランドの首都ヘルシンキ。1550 年、当時のスウェーデン国王グスタフ 1 世によって交易の街として整備され、1812 年に首都となりました。フィンランド湾沿岸に位置し、300 以上の島々を有しているため、街の総面積の約 7 割が海域となっていますが、同時に緑豊かな森にも恵まれています。フィンランドには「自然享受権」という権利があるため、誰でも気軽に森を散策することが可能であり、ベリーやキノコなどを自由に採集することができます。",
-      "en-IN": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
-      "en-US": "Finland is famous for the northern lights, its high happiness rankings, saunas, and thousands of lakes. Helsinki adds history, design, and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
-      "en-CA": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
-      "it-IT": "Durante l'ora blu, quella finestra di luce sospesa tra il tramonto e la notte, Helsinki si riflette nel Baltico con una nitidezza che sembra quasi irreale. Fondata nel 1550 dal re svedese Gustavo I e diventata capitale della Finlandia nel 1812, la città ha costruito la propria identità sull'acqua: oltre il settanta per cento dei suoi 686 km² è mare, e il tessuto urbano si estende su più di 300 isole.",
-      "pt-BR": "Vista na imagem, Helsinque parece uma cidade que nunca conseguiu decidir se prefere terra ou mar. O resultado? Mais de 300 ilhas, quilômetros de litoral e uma capital onde o azul aparece em praticamente qualquer direção. Fundada em 1550 como um centro comercial do reino da Suécia, ela virou capital finlandesa em 1812 e, desde então, coleciona um talento raro: combinar prédios elegantes, natureza e uma vida urbana que anda sem pressa.",
+      "en-GB": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
+      "de-DE": "Im geschützten Hafen von Marsaxlokk an der Südostküste Maltas gehören farbenfrohe Fischerboote zum gewohnten Bild. Das malerische Fischerdorf liegt nur wenige Kilometer von Valletta entfernt und zählt zu den bekanntesten Küstenorten der Insel. Noch heute spielt die Fischerei eine wichtige Rolle im Alltag der Einwohner. Besonders lebendig wird die Uferpromenade in den frühen Morgenstunden, wenn die Boote mit ihrem frischen Fang zurückkehren und das Hafenbecken mit Bewegung und Farbe füllen.",
+      "fr-FR": "Les luzzus apportent leurs couleurs au paysage. Ces barques de pêche traditionnelles maltaises animent le port abrité de Marsaxlokk, village côtier du sud‑est de Malte, leurs coques peintes en bleu cobalt, jaune vif, rouge et vert composant une palette que la Méditerranée semble avoir créée elle‑même.",
+      "es-ES": "En el puerto de Marsaxlokk, al sureste de Malta, los luzzus —embarcaciones de pesca tradicionales— tiñen el agua con sus llamativos rojos, amarillos, verdes y azules. A pocos minutos de Valletta, la capital, esta aldea de unos 4.000 habitantes sigue viviendo al ritmo del mar: cada mañana regresan los barcos cargados de pesca fresca, y los domingos el paseo marítimo se anima con un mercado que atrae a lugareños y visitantes por igual.",
+      "ja-JP": "マルタ本島最大の漁師町、マルサシュロック。マルタ島の南東部に位置し、日曜日に開催されるフィッシュマーケットで知られています。そして画像は、町の港に並ぶ伝統的な漁船「ルッツ」です。青や黄、赤などの鮮やかな色で彩られた木製の船で、船首には「オシリスの目」と呼ばれる装飾が施されています。これは、航海の安全を見守るお守りとされ、2000 年以上前から受け継がれています。地中海の青い海と長い歴史が息づく町並みが調和する風景は、訪れる人々を魅了します。",
+      "en-IN": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
+      "en-US": "Colorful luzzus—traditional Maltese fishing boats—fill the sheltered harbor of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
+      "en-CA": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
+      "it-IT": "Nel porto di Marsaxlokk, sul litorale sud-orientale di Malta, i luzzus — le tradizionali barche da pesca maltesi — si accalcano in formazioni ordinate di blu, giallo, rosso e verde. Su ogni prua, un paio di occhi dipinti osserva il mare: un simbolo antico, radicato nelle tradizioni marinare del Mediterraneo, che la leggenda vuole capace di proteggere i pescatori dai pericoli del largo.",
+      "pt-BR": "A foto de hoje mostra o porto de Marsaxlokk, em Malta, onde quem dá bom dia primeiro são as cores. Centenas de luzzus, barcos tradicionais da pesca maltesa, balançam lado a lado em tons de azul, amarelo, vermelho e verde, transformando as águas em uma paleta viva. A vila segue como um dos principais centros pesqueiros do país, onde cerca de 4 mil moradores ainda acompanham o ritmo das marés.",
       "zh-CN": "色彩鲜艳的船只，历久弥新的传统. 马尔萨什洛克港口五彩斑斓的渔船，马耳他. 色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
     },
     "quickFacts": {
       "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
     },
     "captions": {
-      "en-GB": "Helsinki, Uusimaa, Finland",
-      "de-DE": "Helsinki, Uusimaa, Finnland",
-      "fr-FR": "Helsinki, Uusimaa, Finlande",
+      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta",
+      "de-DE": "Bunte Boote im Hafen von Marsaxlokk, Malta",
+      "fr-FR": "Bateaux colorés dans le port de Marsaxlokk, Malte",
       "it-IT": "",
-      "es-ES": "Helsinki, Uusimaa, Finlandia",
-      "ja-JP": "ブルーアワーに輝く湾岸の街",
+      "es-ES": "Barcos coloridos en el puerto de Marsaxlokk, Malta",
+      "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
       "zh-CN": "",
-      "en-IN": "Helsinki, Uusimaa, Finland"
+      "en-IN": "Colourful boats in Marsaxlokk Harbour, Malta"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Helsinki&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%83%b3%e3%82%ad&form=hpcapt&filters=HpDate%3a%2220260801_1500%22",
+      "en-GB": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Marsaxlokk+Malte&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b5%e3%82%b7%e3%83%a5%e3%83%ad%e3%83%83%e3%82%af&form=hpcapt&filters=HpDate%3a%2220260802_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e9%a9%ac%e8%80%b3%e4%bb%96%e9%a9%ac%e5%b0%94%e8%90%a8%e4%bb%80%e6%b4%9b%e5%85%8b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_1830%22"
+      "en-IN": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.HelsinkiBlue_EN-GB6980168660",
-      "de-DE": "/th?id=OHR.HelsinkiBlue_DE-DE4461850043",
-      "fr-FR": "/th?id=OHR.HelsinkiBlue_FR-FR8717266334",
-      "it-IT": "/th?id=OHR.HelsinkiBlue_IT-IT9429337121",
-      "es-ES": "/th?id=OHR.HelsinkiBlue_ES-ES3341783633",
-      "ja-JP": "/th?id=OHR.HelsinkiBlue_JA-JP6468131752",
-      "zh-CN": "/th?id=OHR.HelsinkiBlue_ZH-CN3961551568",
-      "en-IN": "/th?id=OHR.HelsinkiBlue_EN-IN2064439087"
+      "en-GB": "/th?id=OHR.BoatsMalta_EN-GB7267750671",
+      "de-DE": "/th?id=OHR.BoatsMalta_DE-DE5376700732",
+      "fr-FR": "/th?id=OHR.BoatsMalta_FR-FR8096449869",
+      "it-IT": "/th?id=OHR.BoatsMalta_IT-IT9782215973",
+      "es-ES": "/th?id=OHR.BoatsMalta_ES-ES3454206365",
+      "ja-JP": "/th?id=OHR.BoatsMalta_JA-JP6685221242",
+      "zh-CN": "/th?id=OHR.BoatsMalta_ZH-CN4708255775",
+      "en-IN": "/th?id=OHR.BoatsMalta_EN-IN2698932333"
     }
   },
   "BrightonPride2026": {
@@ -2344,38 +2345,6 @@
       "pt-BR": "/th?id=OHR.Furada_PT-BR7092103592"
     }
   },
-  "SoccerDay": {
-    "name": "SoccerDay",
-    "urlbase": "/th?id=OHR.SoccerDay_PT-BR5859476382",
-    "date": "20260719",
-    "dateFormatted": "July 19, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Em cada canto, um campo"
-    },
-    "copyrights": {
-      "pt-BR": "Vista aérea de jovens jogando futebol em um campo de terra em uma comunidade do Rio de Janeiro, RJ (© Tom Wilde/Getty Images)"
-    },
-    "descs": {
-      "pt-BR": "Um gramado ajuda, mas o futebol brasileiro nunca esperou condições ideais. O esporte nasceu na Inglaterra do século XIX, mas ganhou outra personalidade quando desembarcou aqui em 1894. Escapou dos clubes elegantes, encontrou terrenos vazios, pátios, praias, várzeas e morros — e nunca mais foi o mesmo. A cena da imagem, num campo de terra no Rio de Janeiro, se repete de Oiapoque ao Chuí. Aqui, os espaços apertados premiaram raciocínio rápido. O chão irregular treinou improviso. A falta de estrutura virou combustível para a criatividade."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=dia+nacional+do+futebol&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.SoccerDay_PT-BR5859476382"
-    }
-  },
   "HirosakiNeputa2026": {
     "name": "HirosakiNeputa2026",
     "urlbase": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053",
@@ -2528,6 +2497,117 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "HirundoRustica": {
+    "name": "HirundoRustica",
+    "urlbase": "/th?id=OHR.HirundoRustica_EN-US3193611104",
+    "date": "20260719",
+    "dateFormatted": "July 19, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-CA": "Wings at rest. Barn swallows of different subspecies resting together",
+      "en-GB": "Wings at rest. Barn swallows of different subspecies resting together",
+      "de-DE": "Moment der Ruhe. Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast",
+      "fr-FR": "Ailes de repos. Hirondelles rustiques se reposant ensemble",
+      "it-IT": "Ali a riposo",
+      "es-ES": "Reposando el aleteo. Golondrinas descansando juntas",
+      "ja-JP": "枯れ草にとまる小鳥の群れ",
+      "zh-CN": "敛羽栖时",
+      "en-IN": "Wings at rest. Barn swallows of different subspecies resting together",
+      "pt-BR": "Pequenas viajantes, grandes distâncias"
+    },
+    "copyrights": {
+      "en-US": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-CA": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-GB": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "de-DE": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast (© Oscar Dominguez/Tandem Stills + Motion)",
+      "fr-FR": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
+      "it-IT": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
+      "es-ES": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+      "ja-JP": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
+      "zh-CN": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
+      "en-IN": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+      "pt-BR": "Andorinhas-das-chaminés de diferentes subespécies pousadas juntas (© Oscar Dominguez/Tandem Stills + Motion)"
+    },
+    "descs": {
+      "en-US": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-CA": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "en-GB": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "de-DE": "Die Rauchschwalben auf unserem heutigen Bild genießen einen seltenen Moment der Ruhe. Mit ihren tief gegabelten Schwänzen und ihrem wendigen Flug verbringen diese eleganten Zugvögel einen Großteil ihres Lebens in der Luft, wo sie Insekten jagen und sogar trinken können. Vor allem während des Zuges rasten Rauchschwalben häufig in größeren Gruppen auf Schilfhalmen, Leitungen oder Ästen, bevor sie ihren Weg fortsetzen. Als weit verbreitete Zugvögel verbinden sie mit ihren jährlichen Wanderungen Lebensräume in Europa, Asien, Afrika und Amerika.",
+      "fr-FR": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
+      "es-ES": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
+      "ja-JP": "一般的によく知られるツバメは、黒い背中と白い腹、二又に分かれた長い尾が目立つ小鳥で、アクロバティックかつ素早い飛行で知られ、飛行中の昆虫を空中で巧みに捕らえます。その多くは、ヨーロッパやアジア、北米などの広い地域で繁殖し、冬になると南方の温暖な地域で過ごしますが、地域によっては渡りを行わない種類もあり、羽色にも違いが見られます。今日の画像では、腹部がやや橙赤色の個体が写っています。",
+      "en-IN": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects mid-air and travel vast distances between continents. Subtle variations in colour and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+      "it-IT": "In Italia, le rondini comuni (Hirundo rustica) sono un simbolo della bella stagione, e questa scena — un gruppo posato su sottili canne — rivela un lato insolitamente quieto di uccelli noti per il loro volo rapido e acrobatico. Con le loro code profondamente forcute e il loro movimento instancabile, sono perfettamente adattate alla vita in aria, dove catturano insetti con precisione sorprendente.",
+      "pt-BR": "Se existisse um programa de milhagem para aves, a andorinha-das-chaminés seria cliente VIP. Os passarinhos da imagem parecem calmos como viajantes aguardando uma conexão, mas são capazes de cruzar mares e continentes em jornadas de milhares de quilômetros. Eles caçam insetos no ar, desviam de obstáculos em alta velocidade e, quando precisam beber, nem sempre pousam: passam raspando sobre a água e seguem adiante. Não por acaso, seus corpos são praticamente máquinas de voo revestidas de penas.",
+      "zh-CN": "敛羽栖时. 不同亚种的家燕聚在一起休息. 一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。"
+    },
+    "quickFacts": {
+      "en-US": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-GB": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year.",
+      "en-CA": "Barn swallows can travel thousands of kilometres between their breeding and wintering grounds each year.",
+      "de-DE": "Zwischen Brutzeit und Winter reisen Rauchschwalben jedes Jahr über Tausende Kilometer hinweg.",
+      "fr-FR": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
+      "ja-JP": "ツバメは、人の暮らしにとても近い場所で見られる鳥です。山奥の静かな森よりも、住宅地や農村、駅や商店街、学校、工場、農地、河川敷など、人の生活圏に近い環境をよく利用します。",
+      "zh-CN": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
+      "en-IN": "Barn swallows can travel thousands of miles between their breeding and wintering grounds each year."
+    },
+    "captions": {
+      "en-US": "Barn swallows of different subspecies resting together",
+      "en-CA": "Barn swallows of different subspecies resting together"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HirundoRustica_EN-US3193611104",
+      "en-CA": "/th?id=OHR.HirundoRustica_EN-CA9613012856"
+    }
+  },
+  "SoccerDay": {
+    "name": "SoccerDay",
+    "urlbase": "/th?id=OHR.SoccerDay_PT-BR5859476382",
+    "date": "20260719",
+    "dateFormatted": "July 19, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Em cada canto, um campo"
+    },
+    "copyrights": {
+      "pt-BR": "Vista aérea de jovens jogando futebol em um campo de terra em uma comunidade do Rio de Janeiro, RJ (© Tom Wilde/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Um gramado ajuda, mas o futebol brasileiro nunca esperou condições ideais. O esporte nasceu na Inglaterra do século XIX, mas ganhou outra personalidade quando desembarcou aqui em 1894. Escapou dos clubes elegantes, encontrou terrenos vazios, pátios, praias, várzeas e morros — e nunca mais foi o mesmo. A cena da imagem, num campo de terra no Rio de Janeiro, se repete de Oiapoque ao Chuí. Aqui, os espaços apertados premiaram raciocínio rápido. O chão irregular treinou improviso. A falta de estrutura virou combustível para a criatividade."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=dia+nacional+do+futebol&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.SoccerDay_PT-BR5859476382"
     }
   },
   "DevilsBridge": {
