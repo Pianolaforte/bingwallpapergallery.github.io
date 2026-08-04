@@ -1,4 +1,148 @@
 {
+  "BoatsMalta": {
+    "name": "BoatsMalta",
+    "urlbase": "/th?id=OHR.BoatsMalta_EN-US5373607495",
+    "date": "20260803",
+    "dateFormatted": "August 03, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Bright boats, timeless traditions. Colorful boats in Marsaxlokk Harbor, Malta",
+      "en-GB": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
+      "en-CA": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
+      "de-DE": "Zeitlose Traditionen. Bunte Boote im Hafen von Marsaxlokk, Malta",
+      "fr-FR": "Les couleurs de la tradition. Bateaux colorés dans le port de Marsaxlokk, Malte",
+      "it-IT": "Un porto di colori",
+      "es-ES": "Navegando entre colores. Barcos coloridos en el puerto de Marsaxlokk, Malta",
+      "pt-BR": "Ancorado em tradição",
+      "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
+      "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
+      "en-IN": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta"
+    },
+    "copyrights": {
+      "en-US": "Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)",
+      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
+      "en-CA": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
+      "de-DE": "Bunte Boote im Hafen von Marsaxlokk, Malta (© Klubovy/Getty Images)",
+      "fr-FR": "Bateaux colorés dans le port de Marsaxlokk, Malte (© Klubovy/Getty Images)",
+      "it-IT": "Barche colorate nel porto di Marsaxlokk, Malta (© Klubovy/Getty Images)",
+      "es-ES": "Barcos coloridos en el puerto de Marsaxlokk, Malta (© Klubovy/Getty Images)",
+      "pt-BR": "Barcos coloridos no porto de Marsaxlokk, Malta (© Klubovy/Getty Images)",
+      "ja-JP": "マルサシュロック, マルタ (© Klubovy/Getty Images)",
+      "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
+      "en-IN": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Colorful luzzus—traditional Maltese fishing boats—fill the sheltered harbor of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
+      "en-GB": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
+      "en-CA": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
+      "de-DE": "Im geschützten Hafen von Marsaxlokk an der Südostküste Maltas gehören farbenfrohe Fischerboote zum gewohnten Bild. Das malerische Fischerdorf liegt nur wenige Kilometer von Valletta entfernt und zählt zu den bekanntesten Küstenorten der Insel. Noch heute spielt die Fischerei eine wichtige Rolle im Alltag der Einwohner. Besonders lebendig wird die Uferpromenade in den frühen Morgenstunden, wenn die Boote mit ihrem frischen Fang zurückkehren und das Hafenbecken mit Bewegung und Farbe füllen.",
+      "fr-FR": "Les luzzus apportent leurs couleurs au paysage. Ces barques de pêche traditionnelles maltaises animent le port abrité de Marsaxlokk, village côtier du sud‑est de Malte, leurs coques peintes en bleu cobalt, jaune vif, rouge et vert composant une palette que la Méditerranée semble avoir créée elle‑même.",
+      "es-ES": "En el puerto de Marsaxlokk, al sureste de Malta, los luzzus —embarcaciones de pesca tradicionales— tiñen el agua con sus llamativos rojos, amarillos, verdes y azules. A pocos minutos de Valletta, la capital, esta aldea de unos 4.000 habitantes sigue viviendo al ritmo del mar: cada mañana regresan los barcos cargados de pesca fresca, y los domingos el paseo marítimo se anima con un mercado que atrae a lugareños y visitantes por igual.",
+      "ja-JP": "マルタ本島最大の漁師町、マルサシュロック。マルタ島の南東部に位置し、日曜日に開催されるフィッシュマーケットで知られています。そして画像は、町の港に並ぶ伝統的な漁船「ルッツ」です。青や黄、赤などの鮮やかな色で彩られた木製の船で、船首には「オシリスの目」と呼ばれる装飾が施されています。これは、航海の安全を見守るお守りとされ、2000 年以上前から受け継がれています。地中海の青い海と長い歴史が息づく町並みが調和する風景は、訪れる人々を魅了します。",
+      "en-IN": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
+      "it-IT": "Nel porto di Marsaxlokk, sul litorale sud-orientale di Malta, i luzzus — le tradizionali barche da pesca maltesi — si accalcano in formazioni ordinate di blu, giallo, rosso e verde. Su ogni prua, un paio di occhi dipinti osserva il mare: un simbolo antico, radicato nelle tradizioni marinare del Mediterraneo, che la leggenda vuole capace di proteggere i pescatori dai pericoli del largo.",
+      "pt-BR": "A foto de hoje mostra o porto de Marsaxlokk, em Malta, onde quem dá bom dia primeiro são as cores. Centenas de luzzus, barcos tradicionais da pesca maltesa, balançam lado a lado em tons de azul, amarelo, vermelho e verde, transformando as águas em uma paleta viva. A vila segue como um dos principais centros pesqueiros do país, onde cerca de 4 mil moradores ainda acompanham o ritmo das marés.",
+      "zh-CN": "色彩鲜艳的船只，历久弥新的传统. 马尔萨什洛克港口五彩斑斓的渔船，马耳他. 色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
+    },
+    "quickFacts": {
+      "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
+    },
+    "captions": {
+      "en-US": "Colorful boats in Marsaxlokk Harbor, Malta",
+      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta",
+      "en-CA": "Colourful boats in Marsaxlokk Harbour, Malta",
+      "de-DE": "Bunte Boote im Hafen von Marsaxlokk, Malta",
+      "fr-FR": "Bateaux colorés dans le port de Marsaxlokk, Malte",
+      "it-IT": "",
+      "es-ES": "Barcos coloridos en el puerto de Marsaxlokk, Malta",
+      "pt-BR": "",
+      "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
+      "zh-CN": "",
+      "en-IN": "Colourful boats in Marsaxlokk Harbour, Malta"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260803_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260803_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Marsaxlokk+Malte&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=vila+de+Marsaxlokk&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b5%e3%82%b7%e3%83%a5%e3%83%ad%e3%83%83%e3%82%af&form=hpcapt&filters=HpDate%3a%2220260802_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%a9%ac%e8%80%b3%e4%bb%96%e9%a9%ac%e5%b0%94%e8%90%a8%e4%bb%80%e6%b4%9b%e5%85%8b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BoatsMalta_EN-US5373607495",
+      "en-GB": "/th?id=OHR.BoatsMalta_EN-GB7267750671",
+      "en-CA": "/th?id=OHR.BoatsMalta_EN-CA2874745568",
+      "de-DE": "/th?id=OHR.BoatsMalta_DE-DE5376700732",
+      "fr-FR": "/th?id=OHR.BoatsMalta_FR-FR8096449869",
+      "it-IT": "/th?id=OHR.BoatsMalta_IT-IT9782215973",
+      "es-ES": "/th?id=OHR.BoatsMalta_ES-ES3454206365",
+      "pt-BR": "/th?id=OHR.BoatsMalta_PT-BR0574655720",
+      "ja-JP": "/th?id=OHR.BoatsMalta_JA-JP6685221242",
+      "zh-CN": "/th?id=OHR.BoatsMalta_ZH-CN4708255775",
+      "en-IN": "/th?id=OHR.BoatsMalta_EN-IN2698932333"
+    }
+  },
   "HelsinkiBlue": {
     "name": "HelsinkiBlue",
     "urlbase": "/th?id=OHR.HelsinkiBlue_EN-US4898215906",
@@ -1565,29 +1709,9 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
       },
       {
         "code": "es-ES",
@@ -1598,49 +1722,39 @@
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "en-GB": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
       "en-CA": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "es-ES": "Pasadizo a plena luz. Arco de Santa Catalina, Antigua Guatemala, Guatemala",
+      "pt-BR": "Um portal para outra época",
+      "en-GB": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
       "de-DE": "Offenbar gut verborgen. Arco de Santa Catalina in Antigua, Guatemala",
       "fr-FR": "L’arche qui cache. Santa Catalina Arch, Antigua, Guatemala",
       "it-IT": "Senza entrare in strada",
-      "es-ES": "Pasadizo a plena luz. Arco de Santa Catalina, Antigua Guatemala, Guatemala",
-      "pt-BR": "Um portal para outra época",
       "zh-CN": "拱影寻踪",
       "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala"
     },
     "copyrights": {
       "en-US": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "en-GB": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "en-CA": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "pt-BR": "Arco de Santa Catalina, Antígua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "en-GB": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "de-DE": "Arco de Santa Catalina in Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "fr-FR": "Arche de Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "it-IT": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "pt-BR": "Arco de Santa Catalina, Antígua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
       "zh-CN": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
       "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
     },
     "descs": {
       "en-US": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "en-GB": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
       "en-CA": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow façade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "es-ES": "El Arco de Santa Catalina, en Antigua Guatemala, no fue concebido para deslumbrar a nadie: nació en 1693 como solución discreta a un dilema conventual. Las monjas de clausura necesitaban cruzar la calle para pasar de un edificio a otro sin ser vistas desde el exterior, y este puente cubierto fue la respuesta. La privacidad, no el espectáculo, creó uno de los monumentos coloniales más fotografiados de Centroamérica. La ironía tiene buena memoria.",
+      "en-GB": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
       "de-DE": "Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.",
       "fr-FR": "À Antigua, au Guatemala, l’arche de Santa Catalina se dresse au cœur des rues pavées, avec le volcan Agua en arrière‑plan. Au lever du soleil, sa façade jaune capte la lumière et contraste avec les pavés sombres qui s’étirent dans la perspective de la ville.",
-      "es-ES": "El Arco de Santa Catalina, en Antigua Guatemala, no fue concebido para deslumbrar a nadie: nació en 1693 como solución discreta a un dilema conventual. Las monjas de clausura necesitaban cruzar la calle para pasar de un edificio a otro sin ser vistas desde el exterior, y este puente cubierto fue la respuesta. La privacidad, no el espectáculo, creó uno de los monumentos coloniales más fotografiados de Centroamérica. La ironía tiene buena memoria.",
       "en-IN": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
       "it-IT": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
       "pt-BR": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
@@ -1651,133 +1765,28 @@
     },
     "captions": {
       "en-US": "Santa Catalina Arch, Antigua, Guatemala",
-      "en-GB": "Santa Catalina Arch, Antigua, Guatemala",
       "en-CA": "Santa Catalina Arch, Antigua, Guatemala",
-      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala",
-      "fr-FR": "Santa Catalina Arch, Antigua, Guatemala",
-      "it-IT": "",
       "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Santa Catalina Arch, Antigua, Guatemala"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260721_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260721_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Arche+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
-      "it-IT": "https://www.bing.com/search?q=L%27Arco+di+Santa+Catalina+Guatemala&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Monumento+de+Antigua+Guatemala&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Arco+de+Santa+Catalina&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e6%8b%b1%e9%97%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.SantaCatalina_EN-US1116829215",
-      "en-GB": "/th?id=OHR.SantaCatalina_EN-GB4642325508",
-      "en-CA": "/th?id=OHR.SantaCatalina_EN-CA0068780262",
-      "de-DE": "/th?id=OHR.SantaCatalina_DE-DE7681660306",
-      "fr-FR": "/th?id=OHR.SantaCatalina_FR-FR5835984495",
-      "it-IT": "/th?id=OHR.SantaCatalina_IT-IT4012109567",
-      "es-ES": "/th?id=OHR.SantaCatalina_ES-ES2186596110",
-      "pt-BR": "/th?id=OHR.SantaCatalina_PT-BR6725083050",
-      "zh-CN": "/th?id=OHR.SantaCatalina_ZH-CN6223370790",
-      "en-IN": "/th?id=OHR.SantaCatalina_EN-IN9392067972"
-    }
-  },
-  "Artemis": {
-    "name": "Artemis",
-    "urlbase": "/th?id=OHR.Artemis_EN-US0683925849",
-    "date": "20260720",
-    "dateFormatted": "July 20, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "The lunar perspective. International Moon Day",
-      "en-CA": "The lunar perspective. International Moon Day",
-      "pt-BR": "A distância que nos aproxima",
-      "en-GB": "The lunar perspective. International Moon Day",
-      "de-DE": "Aus der Perspektive des Mondes. Internationaler Tag des Mondes",
-      "fr-FR": "Une perspective lunaire. Journée internationale de la Lune",
-      "it-IT": "L'altro lato della luna",
-      "es-ES": "La otra cara de la Luna. Día Internacional de la Luna",
-      "ja-JP": "今日は国際月の日",
-      "zh-CN": "月瞰寰宇",
-      "en-IN": "The lunar perspective. International Moon Day"
-    },
-    "copyrights": {
-      "en-US": "Moon and Earth captured by the Artemis II crew (© NASA)",
-      "en-CA": "Moon and Earth captured by the Artemis II crew (© NASA)",
-      "pt-BR": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
-      "en-GB": "Moon and Earth captured by the Artemis II crew (© NASA)",
-      "de-DE": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
-      "fr-FR": "La Lune et la Terre capturées par l'équipage d'Artemis II (© NASA)",
-      "it-IT": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
-      "es-ES": "Luna y Tierra capturadas por la tripulación Artemis II (© NASA)",
-      "ja-JP": "月から見た地球 (© NASA)",
-      "zh-CN": "月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)",
-      "en-IN": "Moon and Earth captured by the Artemis II crew (© NASA)"
-    },
-    "descs": {
-      "en-US": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "en-CA": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "en-GB": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "de-DE": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
-      "fr-FR": "Depuis la surface lunaire criblée de cratères, la Terre apparaît comme un fin croissant lumineux suspendu dans l’obscurité, une vision rare qui renverse notre perspective habituelle. Ce décor austère, sculpté par des milliards d’années d’impacts, conserve la mémoire des origines du système solaire.",
-      "es-ES": "Desde la superficie de la Luna, la Tierra aparece como una fina media luna brillante suspendida en la oscuridad, una imagen que invierte por completo nuestra perspectiva habitual. Este paisaje, marcado por cráteres formados durante miles de millones de años, conserva la memoria del origen del sistema solar. El veinte de julio se celebra el Día Internacional de la Luna, en recuerdo del alunizaje del Apolo 11 en 1969, una fecha clave en la exploración humana.",
-      "ja-JP": "今日、7 月 20 日は「国際月の日」。1969 年にアポロ 11 号の乗組員が、人類初の月面着陸を行った日です。2021 年に国連総会の決議により採択されたもので、月探査のこれまでの成果や、将来の探査・国際協力に向けた取り組みへの理解を深める日です。そして、今日の画像は月から眺めた地球。クレーターに覆われた月から見ることで、逆に地球が「三日月」のように見えています。月のこの荒涼とした風景は、数十億年にわたる隕石の衝突によって形づくられたもので、人類が誕生する以前からの太陽系の歴史を今に伝えています。",
-      "en-IN": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
-      "it-IT": "Sulla superficie craterizzata della Luna, la Terra appare come una sottile falce luminosa sospesa nel buio: una prospettiva rara catturata dall'equipaggio della missione Artemis II, la prima missione con astronauti a circumnavigare la Luna dopo il programma Apollo",
-      "pt-BR": "Da superfície marcada por crateras da Lua, a Terra é um fino arco luminoso suspenso na escuridão. É uma inversão curiosa: aqui de cima, nosso planeta não é o cenário principal, mas uma presença distante, quase frágil. O relevo lunar, moldado por bilhões de anos de impactos, guarda uma espécie de arquivo geológico do início do Sistema Solar, sem vento para apagar marcas nem água para redesenhar relevos.",
-      "zh-CN": "月瞰寰宇. 月球与地球由阿耳忒弥斯2号机组人员拍摄. 从月球那遍布环形山的表面望去，地球在无垠的黑暗中呈现为一抹微光闪烁的娥眉状——这一罕见的奇观与我们惯常的地面观测视角截然相反。这片由数十亿年撞击作用塑造的荒芜地貌，完整地保存了早期太阳系的演化记录。7月20日是国际月球日，旨在纪念1969年阿波罗11号任务中人类首次踏上月球表面的历史性时刻。该纪念日由联合国于2021年设立，不仅致敬过去的辉煌成就，更聚焦于当下持续不断的月球探测努力。"
-    },
-    "quickFacts": {
-      "en-US": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
-      "en-GB": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
-      "en-CA": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
-      "de-DE": "Der Mond rotiert mit derselben Geschwindigkeit um seine eigene Achse, mit der er die Erde umkreist. Deshalb sehen wir von der Erde aus immer dieselbe Seite des Mondes.",
-      "fr-FR": "La Lune tourne sur elle‑même au même rythme qu’elle orbite autour de la Terre, ce qui fait que nous en voyons toujours la même face.",
-      "ja-JP": "月の引力は遠くにあるにもかかわらず地球の海水を引き寄せ、1日におよそ2回の満潮と干潮を生み出しています。",
-      "zh-CN": "月球的自转速率与其绕地球公转的速率完全同步，由于这种“同步自转”特性，我们在地球上观测时始终只能看到月球的同一面。",
-      "en-IN": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet."
-    },
-    "captions": {
-      "en-US": "International Moon Day",
-      "en-CA": "International Moon Day",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260720_0700%22",
-      "en-CA": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260720_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Lua&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260721_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260721_0400%22",
+      "es-ES": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Monumento+de+Antigua+Guatemala&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Arco+de+Santa+Catalina&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.Artemis_EN-US0683925849",
-      "en-CA": "/th?id=OHR.Artemis_EN-CA9898142366",
-      "pt-BR": "/th?id=OHR.Artemis_PT-BR6100754238"
+      "en-US": "/th?id=OHR.SantaCatalina_EN-US1116829215",
+      "en-CA": "/th?id=OHR.SantaCatalina_EN-CA0068780262",
+      "es-ES": "/th?id=OHR.SantaCatalina_ES-ES2186596110",
+      "pt-BR": "/th?id=OHR.SantaCatalina_PT-BR6725083050"
     }
   },
-  "BoatsMalta": {
-    "name": "BoatsMalta",
-    "urlbase": "/th?id=OHR.BoatsMalta_EN-GB7267750671",
-    "date": "20260802",
-    "dateFormatted": "August 02, 2026",
+  "AdorableOwlet": {
+    "name": "AdorableOwlet",
+    "urlbase": "/th?id=OHR.AdorableOwlet_EN-GB7610468145",
+    "date": "20260803",
+    "dateFormatted": "August 03, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1821,76 +1830,82 @@
       }
     ],
     "titles": {
-      "en-GB": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
-      "de-DE": "Zeitlose Traditionen. Bunte Boote im Hafen von Marsaxlokk, Malta",
-      "fr-FR": "Les couleurs de la tradition. Bateaux colorés dans le port de Marsaxlokk, Malte",
-      "it-IT": "Un porto di colori",
-      "es-ES": "Navegando entre colores. Barcos coloridos en el puerto de Marsaxlokk, Malta",
-      "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
-      "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
-      "en-IN": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
-      "en-US": "Bright boats, timeless traditions. Colorful boats in Marsaxlokk Harbor, Malta",
-      "en-CA": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
-      "pt-BR": "Ancorado em tradição. Barcos coloridos no porto de Marsaxlokk, Malta"
+      "en-GB": "Hoot hoot hooray!. International Owl Awareness Day",
+      "de-DE": "Neugierig und aufmerksam. Internationaler Tag der Eule",
+      "fr-FR": "Quelle chouette journée. Journée internationale de sensibilisation aux hiboux",
+      "it-IT": "Una rotazione di 270°",
+      "es-ES": "¡Buu-Hoo!. Día Internacional del Búho",
+      "ja-JP": "今日は国際フクロウの日",
+      "zh-CN": "呼呼，太棒了！",
+      "en-IN": "Hoot hoot hooray!. International Owl Awareness Day",
+      "en-US": "Hoot hoot hooray!. Florida burrowing owlet, Cape Coral, Florida, USA",
+      "en-CA": "Hoot hoot hooray!. Florida burrowing owlet, Cape Coral, Florida, United States",
+      "pt-BR": "A sentinela das pradarias. Coruja-buraqueira-da-flórida em Cape Coral, Flórida, Estados Unidos"
     },
     "copyrights": {
-      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
-      "de-DE": "Bunte Boote im Hafen von Marsaxlokk, Malta (© Klubovy/Getty Images)",
-      "fr-FR": "Bateaux colorés dans le port de Marsaxlokk, Malte (© Klubovy/Getty Images)",
-      "it-IT": "Barche colorate nel porto di Marsaxlokk, Malta (© Klubovy/Getty Images)",
-      "es-ES": "Barcos coloridos en el puerto de Marsaxlokk, Malta (© Klubovy/Getty Images)",
-      "ja-JP": "マルサシュロック, マルタ (© Klubovy/Getty Images)",
-      "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
-      "en-IN": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
-      "en-US": "© Klubovy/Getty Images",
-      "en-CA": "© Klubovy/Getty Images",
-      "pt-BR": "© Klubovy/Getty Images"
+      "en-GB": "Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images)",
+      "de-DE": "Florida-Kanincheneule, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)",
+      "fr-FR": "Jeune chouette des terriers de Floride, Cape Coral, Floride, États-Unis (© mlorenzphotography/Getty Images)",
+      "it-IT": "La civetta delle tane, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)",
+      "es-ES": "Lechucita de las vizcacheras, Cape Coral, Florida, EE. UU. (© mlorenzphotography/Getty Images)",
+      "ja-JP": "アナホリフクロウのひな, 米国 フロリダ州 (© mlorenzphotography/Getty Images)",
+      "zh-CN": "佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)",
+      "en-IN": "Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images)",
+      "en-US": "© mlorenzphotography/Getty Images",
+      "en-CA": "© mlorenzphotography/Getty Images",
+      "pt-BR": "© mlorenzphotography/Getty Images"
     },
     "descs": {
-      "en-GB": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
-      "de-DE": "Im geschützten Hafen von Marsaxlokk an der Südostküste Maltas gehören farbenfrohe Fischerboote zum gewohnten Bild. Das malerische Fischerdorf liegt nur wenige Kilometer von Valletta entfernt und zählt zu den bekanntesten Küstenorten der Insel. Noch heute spielt die Fischerei eine wichtige Rolle im Alltag der Einwohner. Besonders lebendig wird die Uferpromenade in den frühen Morgenstunden, wenn die Boote mit ihrem frischen Fang zurückkehren und das Hafenbecken mit Bewegung und Farbe füllen.",
-      "fr-FR": "Les luzzus apportent leurs couleurs au paysage. Ces barques de pêche traditionnelles maltaises animent le port abrité de Marsaxlokk, village côtier du sud‑est de Malte, leurs coques peintes en bleu cobalt, jaune vif, rouge et vert composant une palette que la Méditerranée semble avoir créée elle‑même.",
-      "es-ES": "En el puerto de Marsaxlokk, al sureste de Malta, los luzzus —embarcaciones de pesca tradicionales— tiñen el agua con sus llamativos rojos, amarillos, verdes y azules. A pocos minutos de Valletta, la capital, esta aldea de unos 4.000 habitantes sigue viviendo al ritmo del mar: cada mañana regresan los barcos cargados de pesca fresca, y los domingos el paseo marítimo se anima con un mercado que atrae a lugareños y visitantes por igual.",
-      "ja-JP": "マルタ本島最大の漁師町、マルサシュロック。マルタ島の南東部に位置し、日曜日に開催されるフィッシュマーケットで知られています。そして画像は、町の港に並ぶ伝統的な漁船「ルッツ」です。青や黄、赤などの鮮やかな色で彩られた木製の船で、船首には「オシリスの目」と呼ばれる装飾が施されています。これは、航海の安全を見守るお守りとされ、2000 年以上前から受け継がれています。地中海の青い海と長い歴史が息づく町並みが調和する風景は、訪れる人々を魅了します。",
-      "en-IN": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
-      "en-US": "Colorful luzzus—traditional Maltese fishing boats—fill the sheltered harbor of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
-      "en-CA": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
-      "it-IT": "Nel porto di Marsaxlokk, sul litorale sud-orientale di Malta, i luzzus — le tradizionali barche da pesca maltesi — si accalcano in formazioni ordinate di blu, giallo, rosso e verde. Su ogni prua, un paio di occhi dipinti osserva il mare: un simbolo antico, radicato nelle tradizioni marinare del Mediterraneo, che la leggenda vuole capace di proteggere i pescatori dai pericoli del largo.",
-      "pt-BR": "A foto de hoje mostra o porto de Marsaxlokk, em Malta, onde quem dá bom dia primeiro são as cores. Centenas de luzzus, barcos tradicionais da pesca maltesa, balançam lado a lado em tons de azul, amarelo, vermelho e verde, transformando as águas em uma paleta viva. A vila segue como um dos principais centros pesqueiros do país, onde cerca de 4 mil moradores ainda acompanham o ritmo das marés.",
-      "zh-CN": "色彩鲜艳的船只，历久弥新的传统. 马尔萨什洛克港口五彩斑斓的渔船，马耳他. 色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
+      "en-GB": "Owls take centre stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound and specialised hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance.",
+      "de-DE": "Der Internationale Tag der Eule am 4. August lenkt die Aufmerksamkeit auf eine Vogelgruppe, die seit Jahrhunderten Menschen fasziniert. Eulen kommen in vielen Regionen der Welt vor und haben erstaunliche Anpassungen entwickelt. Ihr besonders empfindliches Gehör hilft ihnen, selbst leise Geräusche wahrzunehmen, während ihr weicher Federaufbau einen nahezu lautlosen Flug ermöglicht. Da ihre Augen fest in den Augenhöhlen sitzen, gleichen sie dies mit einer außergewöhnlichen Beweglichkeit des Halses aus. So können sie ihre Umgebung aufmerksam beobachten und auch bei schlechten Lichtverhältnissen erfolgreich jagen.",
+      "fr-FR": "Chaque année, la Journée internationale de sensibilisation aux hiboux rappelle ce que ces oiseaux sont extraordinaires : présents sur tous les continents sauf l’Antarctique, ils chassent en silence grâce à des plumes aux bords frangés et peuvent pivoter la tête jusqu’à 270° — pour compenser leurs yeux, qui sont fixes dans leurs orbites.",
+      "es-ES": "Este martes, 4 de agosto, el Día Internacional de la Concienciación sobre los Búhos pone el foco en unas aves que llevan milenios fascinando a la humanidad. Presentes en todos los continentes salvo la Antártida, los búhos han desarrollado adaptaciones sorprendentes: ojos frontales fijos en sus cuencas, discos faciales que funcionan como antenas parabólicas y plumas de bordes suaves que les permiten volar en silencio absoluto.",
+      "ja-JP": "今日 8 月 4 日は国際フクロウの日。フクロウは平たいお面のような顔と、首を約 270 度回せる点が特徴です。そして画像は、米国フロリダ州に生息するアナホリフクロウのひな。アナホリフクロウは広大な草原や牧草地などの開けた環境を好み、樹上ではなく地上に巣穴を作って暮らします。多くのフクロウとは異なり昼行性で、獲物を見つけると走って追いかけることもあります。そのため、ほかのフクロウに比べて足が長いのが特徴です。",
+      "en-IN": "Owls take centre stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound and specialised hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance.",
+      "en-US": "Owls take center stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound, and specialized hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance.",
+      "en-CA": "Owls take centre stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound and specialised hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance.",
+      "it-IT": "Nella Giornata Internazionale della Consapevolezza sui Gufi, una giovane civetta delle tane emerge tra i fiori selvatici di Cape Coral, in Florida, con lo sguardo puntato dritto verso di noi. I gufi sono presenti su tutti i continenti tranne l'Antartide, e le loro adattazioni li rendono tra i predatori notturni più sofisticati della natura: occhi fissi nelle orbite, disco facciale che amplifica i suoni e collo capace di ruotare fino a 270°, per compensare l'impossibilità di muovere lo sguardo.",
+      "pt-BR": "No Dia Internacional da Conscientização sobre as Corujas, a estrela da imagem, registrada nos Estados Unidos, quebra expectativas. Diferente da maioria, a coruja-buraqueira-da-flórida não liga para árvores. Vive em buracos no solo, caça durante o dia e observa o mundo a partir de pequenos montes de terra.",
+      "zh-CN": "呼呼，太棒了！. 佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国. 除了南极洲，猫头鹰的足迹遍及各大洲；它们以朝向正前方的双眼、能汇聚声波的扁平脸盘以及敏锐独特的听觉而著称。许多猫头鹰拥有边缘柔软的羽毛，这使它们能够近乎无声地进行捕猎。由于眼球在眼窝内无法转动，它们依靠灵活的颈部来观察周围环境。从森林到沙漠，猫头鹰栖息于多种多样的环境中，在维持生态系统平衡方面发挥着重要作用。"
     },
     "quickFacts": {
-      "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
+      "en-US": "Owls can rotate their heads up to 270° to compensate for eyes that are fixed in their sockets.",
+      "en-GB": "Owls can rotate their heads up to 270° to compensate for eyes that are fixed in their sockets.",
+      "en-CA": "Owls can rotate their heads up to 270° to compensate for eyes that are fixed in their sockets.",
+      "de-DE": "Eulen können ihren Kopf um bis zu 270° drehen, um auszugleichen, dass ihre Augen fest in den Augenhöhlen sitzen.",
+      "fr-FR": "Les chouettes ont les oreilles asymétriques pour calculer la position exacte d'une proie en 3D grâce au minuscule décalage temporel entre le son reçu à gauche et à droite.",
+      "zh-CN": "猫头鹰能将头部旋转多达270度，以弥补其眼睛在眼窝中无法转动的缺陷。",
+      "en-IN": "Owls can rotate their heads up to 270° to compensate for eyes that are fixed in their sockets."
     },
     "captions": {
-      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta",
-      "de-DE": "Bunte Boote im Hafen von Marsaxlokk, Malta",
-      "fr-FR": "Bateaux colorés dans le port de Marsaxlokk, Malte",
+      "en-GB": "International Owl Awareness Day",
+      "de-DE": "Internationaler Tag der Eule",
+      "fr-FR": "Journée internationale de sensibilisation aux hiboux",
       "it-IT": "",
-      "es-ES": "Barcos coloridos en el puerto de Marsaxlokk, Malta",
-      "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
+      "es-ES": "Día Internacional del Búho",
+      "ja-JP": "今日は国際フクロウの日",
       "zh-CN": "",
-      "en-IN": "Colourful boats in Marsaxlokk Harbour, Malta"
+      "en-IN": "International Owl Awareness Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Marsaxlokk+Malte&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b5%e3%82%b7%e3%83%a5%e3%83%ad%e3%83%83%e3%82%af&form=hpcapt&filters=HpDate%3a%2220260802_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%a9%ac%e8%80%b3%e4%bb%96%e9%a9%ac%e5%b0%94%e8%90%a8%e4%bb%80%e6%b4%9b%e5%85%8b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Owl+bird&form=hpcapt&filters=HpDate%3a%2220260803_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Eulen+Vogel&form=hpcapt&filters=HpDate%3a%2220260803_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+de+sensibilisation+aux+hiboux&form=hpcapt&filters=HpDate%3a%2220260803_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+della+Consapevolezza+sui+Gufi&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+B%c3%baho&form=hpcapt&filters=HpDate%3a%2220260803_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%83%95%e3%82%af%e3%83%ad%e3%82%a6%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260803_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%8c%ab%e5%a4%b4%e9%b9%b0&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Owl+bird&form=hpcapt&filters=HpDate%3a%2220260803_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.BoatsMalta_EN-GB7267750671",
-      "de-DE": "/th?id=OHR.BoatsMalta_DE-DE5376700732",
-      "fr-FR": "/th?id=OHR.BoatsMalta_FR-FR8096449869",
-      "it-IT": "/th?id=OHR.BoatsMalta_IT-IT9782215973",
-      "es-ES": "/th?id=OHR.BoatsMalta_ES-ES3454206365",
-      "ja-JP": "/th?id=OHR.BoatsMalta_JA-JP6685221242",
-      "zh-CN": "/th?id=OHR.BoatsMalta_ZH-CN4708255775",
-      "en-IN": "/th?id=OHR.BoatsMalta_EN-IN2698932333"
+      "en-GB": "/th?id=OHR.AdorableOwlet_EN-GB7610468145",
+      "de-DE": "/th?id=OHR.AdorableOwlet_DE-DE5484057022",
+      "fr-FR": "/th?id=OHR.AdorableOwlet_FR-FR9479841561",
+      "it-IT": "/th?id=OHR.AdorableOwlet_IT-IT9869422851",
+      "es-ES": "/th?id=OHR.AdorableOwlet_ES-ES3577552692",
+      "ja-JP": "/th?id=OHR.AdorableOwlet_JA-JP7246946497",
+      "zh-CN": "/th?id=OHR.AdorableOwlet_ZH-CN6929234033",
+      "en-IN": "/th?id=OHR.AdorableOwlet_EN-IN2984405416"
     }
   },
   "BrightonPride2026": {
@@ -2249,38 +2264,6 @@
       "es-ES": "/th?id=OHR.GaliciaSpain_ES-ES2553115650"
     }
   },
-  "IslaCristina": {
-    "name": "IslaCristina",
-    "urlbase": "/th?id=OHR.IslaCristina_ES-ES8480409312",
-    "date": "20260720",
-    "dateFormatted": "July 20, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "Arena, sol y gambas. Isla Cristina en Huelva, Andalucía, España"
-    },
-    "copyrights": {
-      "es-ES": "Vista aérea de Isla Cristina en Huelva, Andalucía, España (© MEDITERRANEAN/Getty Images)"
-    },
-    "descs": {
-      "es-ES": "En Isla Cristina, en Huelva, España, el Atlántico dibuja una costa luminosa donde marismas, playas y tradición marinera marcan el ritmo de la vida. Desde el aire, sus extensas playas de arena fina y los canales que serpentean entre las salinas recuerdan la estrecha relación entre el paisaje y la pesca, una actividad que define la identidad local."
-    },
-    "quickFacts": {},
-    "captions": {
-      "es-ES": "Isla Cristina en Huelva, Andalucía, España"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Isla+Cristina+Huelva&form=hpcapt&filters=HpDate%3a%2220260720_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.IslaCristina_ES-ES8480409312"
-    }
-  },
   "Maracatu": {
     "name": "Maracatu",
     "urlbase": "/th?id=OHR.Maracatu_PT-BR9312687500",
@@ -2435,38 +2418,6 @@
       "ja-JP": "/th?id=OHR.KaysersbergVillage_JA-JP4774929635"
     }
   },
-  "Kawagoe2026": {
-    "name": "Kawagoe2026",
-    "urlbase": "/th?id=OHR.Kawagoe2026_JA-JP2060864918",
-    "date": "20260720",
-    "dateFormatted": "July 20, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "「縁結び風鈴」開催中"
-    },
-    "copyrights": {
-      "ja-JP": "川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)"
-    },
-    "descs": {
-      "ja-JP": "照りつける夏の日差しの中、埼玉県川越市にある氷川神社では「縁結び風鈴」が開催されています。今年 2026 年は、6 月 26 日から 9 月 6 日までの間、神社の境内には、およそ 2000 個の江戸風鈴が飾られ、涼やかな音色を響かせています。風鈴に願い事を書いた短冊を結びつけることで、縁結びの神様へ風に乗って思いが運ばれていく、とされています。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "「縁結び風鈴」開催中"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e7%b8%81%e7%b5%90%e3%81%b3%e3%81%b5%e9%a2%a8%e9%88%b4&form=hpcapt&filters=HpDate%3a%2220260720_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.Kawagoe2026_JA-JP2060864918"
-    }
-  },
   "GuruPurnima2026": {
     "name": "GuruPurnima2026",
     "urlbase": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905",
@@ -2497,6 +2448,157 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "Artemis": {
+    "name": "Artemis",
+    "urlbase": "/th?id=OHR.Artemis_EN-US0683925849",
+    "date": "20260720",
+    "dateFormatted": "July 20, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "The lunar perspective. International Moon Day",
+      "en-CA": "The lunar perspective. International Moon Day",
+      "pt-BR": "A distância que nos aproxima",
+      "en-GB": "The lunar perspective. International Moon Day",
+      "de-DE": "Aus der Perspektive des Mondes. Internationaler Tag des Mondes",
+      "fr-FR": "Une perspective lunaire. Journée internationale de la Lune",
+      "it-IT": "L'altro lato della luna",
+      "es-ES": "La otra cara de la Luna. Día Internacional de la Luna",
+      "ja-JP": "今日は国際月の日",
+      "zh-CN": "月瞰寰宇",
+      "en-IN": "The lunar perspective. International Moon Day"
+    },
+    "copyrights": {
+      "en-US": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "en-CA": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "pt-BR": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
+      "en-GB": "Moon and Earth captured by the Artemis II crew (© NASA)",
+      "de-DE": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
+      "fr-FR": "La Lune et la Terre capturées par l'équipage d'Artemis II (© NASA)",
+      "it-IT": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
+      "es-ES": "Luna y Tierra capturadas por la tripulación Artemis II (© NASA)",
+      "ja-JP": "月から見た地球 (© NASA)",
+      "zh-CN": "月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)",
+      "en-IN": "Moon and Earth captured by the Artemis II crew (© NASA)"
+    },
+    "descs": {
+      "en-US": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "en-CA": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "en-GB": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "de-DE": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
+      "fr-FR": "Depuis la surface lunaire criblée de cratères, la Terre apparaît comme un fin croissant lumineux suspendu dans l’obscurité, une vision rare qui renverse notre perspective habituelle. Ce décor austère, sculpté par des milliards d’années d’impacts, conserve la mémoire des origines du système solaire.",
+      "es-ES": "Desde la superficie de la Luna, la Tierra aparece como una fina media luna brillante suspendida en la oscuridad, una imagen que invierte por completo nuestra perspectiva habitual. Este paisaje, marcado por cráteres formados durante miles de millones de años, conserva la memoria del origen del sistema solar. El veinte de julio se celebra el Día Internacional de la Luna, en recuerdo del alunizaje del Apolo 11 en 1969, una fecha clave en la exploración humana.",
+      "ja-JP": "今日、7 月 20 日は「国際月の日」。1969 年にアポロ 11 号の乗組員が、人類初の月面着陸を行った日です。2021 年に国連総会の決議により採択されたもので、月探査のこれまでの成果や、将来の探査・国際協力に向けた取り組みへの理解を深める日です。そして、今日の画像は月から眺めた地球。クレーターに覆われた月から見ることで、逆に地球が「三日月」のように見えています。月のこの荒涼とした風景は、数十億年にわたる隕石の衝突によって形づくられたもので、人類が誕生する以前からの太陽系の歴史を今に伝えています。",
+      "en-IN": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+      "it-IT": "Sulla superficie craterizzata della Luna, la Terra appare come una sottile falce luminosa sospesa nel buio: una prospettiva rara catturata dall'equipaggio della missione Artemis II, la prima missione con astronauti a circumnavigare la Luna dopo il programma Apollo",
+      "pt-BR": "Da superfície marcada por crateras da Lua, a Terra é um fino arco luminoso suspenso na escuridão. É uma inversão curiosa: aqui de cima, nosso planeta não é o cenário principal, mas uma presença distante, quase frágil. O relevo lunar, moldado por bilhões de anos de impactos, guarda uma espécie de arquivo geológico do início do Sistema Solar, sem vento para apagar marcas nem água para redesenhar relevos.",
+      "zh-CN": "月瞰寰宇. 月球与地球由阿耳忒弥斯2号机组人员拍摄. 从月球那遍布环形山的表面望去，地球在无垠的黑暗中呈现为一抹微光闪烁的娥眉状——这一罕见的奇观与我们惯常的地面观测视角截然相反。这片由数十亿年撞击作用塑造的荒芜地貌，完整地保存了早期太阳系的演化记录。7月20日是国际月球日，旨在纪念1969年阿波罗11号任务中人类首次踏上月球表面的历史性时刻。该纪念日由联合国于2021年设立，不仅致敬过去的辉煌成就，更聚焦于当下持续不断的月球探测努力。"
+    },
+    "quickFacts": {
+      "en-US": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "en-GB": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "en-CA": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet.",
+      "de-DE": "Der Mond rotiert mit derselben Geschwindigkeit um seine eigene Achse, mit der er die Erde umkreist. Deshalb sehen wir von der Erde aus immer dieselbe Seite des Mondes.",
+      "fr-FR": "La Lune tourne sur elle‑même au même rythme qu’elle orbite autour de la Terre, ce qui fait que nous en voyons toujours la même face.",
+      "ja-JP": "月の引力は遠くにあるにもかかわらず地球の海水を引き寄せ、1日におよそ2回の満潮と干潮を生み出しています。",
+      "zh-CN": "月球的自转速率与其绕地球公转的速率完全同步，由于这种“同步自转”特性，我们在地球上观测时始终只能看到月球的同一面。",
+      "en-IN": "The moon rotates at the same rate it orbits Earth, so we always see the same side from our planet."
+    },
+    "captions": {
+      "en-US": "International Moon Day",
+      "en-CA": "International Moon Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260720_0700%22",
+      "en-CA": "https://www.bing.com/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260720_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Lua&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Artemis_EN-US0683925849",
+      "en-CA": "/th?id=OHR.Artemis_EN-CA9898142366",
+      "pt-BR": "/th?id=OHR.Artemis_PT-BR6100754238"
+    }
+  },
+  "IslaCristina": {
+    "name": "IslaCristina",
+    "urlbase": "/th?id=OHR.IslaCristina_ES-ES8480409312",
+    "date": "20260720",
+    "dateFormatted": "July 20, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Arena, sol y gambas. Isla Cristina en Huelva, Andalucía, España"
+    },
+    "copyrights": {
+      "es-ES": "Vista aérea de Isla Cristina en Huelva, Andalucía, España (© MEDITERRANEAN/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "En Isla Cristina, en Huelva, España, el Atlántico dibuja una costa luminosa donde marismas, playas y tradición marinera marcan el ritmo de la vida. Desde el aire, sus extensas playas de arena fina y los canales que serpentean entre las salinas recuerdan la estrecha relación entre el paisaje y la pesca, una actividad que define la identidad local."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Isla Cristina en Huelva, Andalucía, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Isla+Cristina+Huelva&form=hpcapt&filters=HpDate%3a%2220260720_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.IslaCristina_ES-ES8480409312"
+    }
+  },
+  "Kawagoe2026": {
+    "name": "Kawagoe2026",
+    "urlbase": "/th?id=OHR.Kawagoe2026_JA-JP2060864918",
+    "date": "20260720",
+    "dateFormatted": "July 20, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "「縁結び風鈴」開催中"
+    },
+    "copyrights": {
+      "ja-JP": "川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)"
+    },
+    "descs": {
+      "ja-JP": "照りつける夏の日差しの中、埼玉県川越市にある氷川神社では「縁結び風鈴」が開催されています。今年 2026 年は、6 月 26 日から 9 月 6 日までの間、神社の境内には、およそ 2000 個の江戸風鈴が飾られ、涼やかな音色を響かせています。風鈴に願い事を書いた短冊を結びつけることで、縁結びの神様へ風に乗って思いが運ばれていく、とされています。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "「縁結び風鈴」開催中"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e7%b8%81%e7%b5%90%e3%81%b3%e3%81%b5%e9%a2%a8%e9%88%b4&form=hpcapt&filters=HpDate%3a%2220260720_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Kawagoe2026_JA-JP2060864918"
     }
   },
   "HirundoRustica": {
