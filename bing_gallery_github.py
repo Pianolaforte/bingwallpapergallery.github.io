@@ -737,8 +737,10 @@ def get_minimal_html_template():
     """Generate a minimal, self-contained HTML template inline.
 
     Mirrors the CSS/JS structure of bing_gallery_v5.3_backup.html:
-    header, gallery grid (card view), stream view, detail view, market
-    filter tabs, language labels, dark mode toggle and search box.
+    header (with Bing logo), gallery grid (card view), stream view, detail
+    view, market filter tabs, language labels, Chinese title extraction,
+    scroll position memory, pagination (30 items/page), dark mode toggle
+    and search box.
     """
     return r'''<!DOCTYPE html>
 <html lang="en">
@@ -751,7 +753,8 @@ def get_minimal_html_template():
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #333; }
 .header { background: #1a2744; color: white; padding: 0 24px; height: 56px; display: flex; align-items: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
-.logo { font-size: 20px; font-weight: 700; color: white; cursor: pointer; flex-shrink: 0; text-decoration: none; }
+.logo { font-size: 20px; font-weight: 700; color: white; cursor: pointer; flex-shrink: 0; text-decoration: none; display: flex; align-items: center; gap: 8px; }
+.logo-img { height: 22px; vertical-align: middle; border-radius: 4px; }
 .logo-text { font-size: 20px; font-weight: 700; color: white; letter-spacing: 0.5px; }
 .logo:hover .logo-text { color: #4caf50; }
 .header-right { margin-left: auto; display: flex; align-items: center; gap: 10px; }
@@ -818,6 +821,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .lang-local { color: #2e7d32; background: #e8f5e9; border: 1px solid #c8e6c9; }
 .desc-text { font-size: 15px; color: #444; line-height: 1.8; }
 .desc-text-zh { font-size: 15px; color: #444; line-height: 1.8; }
+.zh-title { font-size: 18px; font-weight: 700; color: #1a2744; margin-bottom: 12px; line-height: 1.5; }
 .quick-fact-box { margin-top: 12px; padding: 12px; background: #fffde7; border-radius: 6px; border-left: 3px solid #ffc107; }
 .quick-fact-label { font-size: 12px; font-weight: 600; color: #f57f17; }
 .quick-fact-text { font-size: 14px; color: #555; line-height: 1.6; margin-top: 6px; }
@@ -829,6 +833,12 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .detail-markets-list { display: flex; gap: 8px; flex-wrap: wrap; }
 .detail-market-tag { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; padding: 4px 10px; background: #f0f0f0; border-radius: 12px; }
 .local-desc-box { padding: 16px; background: #f1f8e9; border-radius: 8px; margin-bottom: 12px; }
+.pagination { display: flex; justify-content: center; align-items: center; gap: 6px; margin: 20px 0; flex-wrap: wrap; }
+.page-btn { min-width: 36px; height: 36px; border: 1px solid #e0e0e0; background: white; border-radius: 6px; cursor: pointer; font-size: 14px; color: #333; transition: all 0.2s; }
+.page-btn:hover:not(:disabled) { border-color: #4caf50; color: #4caf50; }
+.page-btn.active { background: #4caf50; color: white; border-color: #4caf50; }
+.page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.page-info { font-size: 13px; color: #999; margin-left: 8px; }
 /* Dark mode */
 body.dark-mode { background: #1a1a2e; color: #e0e0e0; }
 body.dark-mode .tabs-container { background: #16213e; border-bottom-color: #333; }
@@ -843,18 +853,25 @@ body.dark-mode .card-title { color: #e0e0e0; }
 body.dark-mode .detail-info { background: #16213e; }
 body.dark-mode .detail-title { color: #e0e0e0; }
 body.dark-mode .desc-text, body.dark-mode .desc-text-zh { color: #ccc; }
+body.dark-mode .zh-title { color: #e0e0e0; }
 body.dark-mode .desc-section { border-bottom-color: #333; }
 body.dark-mode .detail-market-tag { background: #0f3460; }
 body.dark-mode .search-box { background: rgba(255,255,255,0.15); color: #fff; }
 body.dark-mode .search-box::placeholder { color: #888; }
 body.dark-mode .local-desc-box { background: #1b3a1b; }
-@media (max-width: 768px) { .stream-thumb { width: 140px; height: 78px; } .search-box { width: 140px; } }
+body.dark-mode .page-btn { background: #16213e; border-color: #333; color: #aaa; }
+body.dark-mode .page-btn:hover:not(:disabled) { border-color: #4caf50; color: #4caf50; }
+body.dark-mode .page-btn.active { background: #4caf50; color: white; border-color: #4caf50; }
+@media (max-width: 768px) { .stream-thumb { width: 140px; height: 78px; } .search-box { width: 140px; } .logo-img { height: 18px; } }
 @media (max-width: 480px) { .stream-item { flex-direction: column; } .stream-thumb { width: 100%; height: 180px; } .search-box { width: 120px; } .view-btn { width: 30px; height: 30px; font-size: 14px; } }
 </style>
 </head>
 <body>
 <div class="header">
-    <a class="logo" onclick="app.navigate('#/')"><span class="logo-text">Bing Gallery</span></a>
+    <a class="logo" onclick="app.navigate('#/')">
+        <img class="logo-img" src="https://ts2.tc.mm.bing.net/th/id/ODF.b9P_hc_jQCTQuDYbh2ynGw?w=32&h=32&qlt=80&o=6&pid=1.2" alt="Bing">
+        <span class="logo-text">Bing Gallery</span>
+    </a>
     <div class="header-right">
         <div class="view-toggle" id="viewToggle">
             <button class="view-btn active" id="streamBtn" title="Stream view">&#9776;</button>
@@ -866,13 +883,13 @@ body.dark-mode .local-desc-box { background: #1b3a1b; }
 </div>
 <div class="tabs-container" id="tabsContainer"><div class="tabs" id="tabsBar"></div></div>
 <div class="update-time">Last updated: 2026-01-01 00:00:00 UTC | v5.8.6</div>
-<div class="main view-container" id="streamView"><div id="streamList"></div></div>
-<div class="main view-container view-hidden" id="cardView"><div class="card-grid" id="cardGrid"></div></div>
+<div class="main view-container" id="streamView"><div id="streamList"></div><div id="streamPagination"></div></div>
+<div class="main view-container view-hidden" id="cardView"><div class="card-grid" id="cardGrid"></div><div id="cardPagination"></div></div>
 <div class="view-container view-hidden" id="detailView"><div class="detail-container" id="detailContent"></div></div>
 <script>
 var ALL_IMAGES = [];
 var ALL_MARKETS = [];
-var app = { currentView: 'stream', currentMarket: 'all', searchQuery: '', currentImageName: null };
+var app = { currentView: 'stream', currentMarket: 'all', searchQuery: '', currentImageName: null, savedScrollPos: 0, currentPage: 1, itemsPerPage: 30 };
 function escapeHtml(s) { if (!s) return ''; return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 function getFilteredImages() {
     var q = app.searchQuery.toLowerCase();
@@ -895,27 +912,66 @@ function renderTabs() {
     var h = '<button class="tab-btn' + (app.currentMarket === 'all' ? ' active' : '') + '" data-market="all">All</button>';
     ALL_MARKETS.forEach(function(m) { h += '<button class="tab-btn' + (app.currentMarket === m.code ? ' active' : '') + '" data-market="' + m.code + '"><span class="fi fi-' + m.flag + '"></span> ' + m.name + '</button>'; });
     document.getElementById('tabsBar').innerHTML = h;
-    document.querySelectorAll('.tab-btn').forEach(function(t) { t.addEventListener('click', function() { app.currentMarket = this.getAttribute('data-market'); renderTabs(); renderCurrentView(); }); });
+    document.querySelectorAll('.tab-btn').forEach(function(t) { t.addEventListener('click', function() { app.currentMarket = this.getAttribute('data-market'); app.currentPage = 1; renderTabs(); renderCurrentView(); }); });
+}
+function renderPagination(totalPages, containerId) {
+    var c = document.getElementById(containerId);
+    if (!c) return;
+    if (totalPages <= 1) { c.innerHTML = ''; return; }
+    var h = '<div class="pagination">';
+    h += '<button class="page-btn" data-page="' + (app.currentPage - 1) + '"' + (app.currentPage === 1 ? ' disabled' : '') + '>&#8249;</button>';
+    for (var i = 1; i <= totalPages; i++) {
+        if (i === 1 || i === totalPages || Math.abs(i - app.currentPage) <= 2) {
+            h += '<button class="page-btn' + (i === app.currentPage ? ' active' : '') + '" data-page="' + i + '">' + i + '</button>';
+        } else if (Math.abs(i - app.currentPage) === 3) {
+            h += '<span class="page-info">...</span>';
+        }
+    }
+    h += '<button class="page-btn" data-page="' + (app.currentPage + 1) + '"' + (app.currentPage === totalPages ? ' disabled' : '') + '>&#8250;</button>';
+    h += '<span class="page-info">' + app.currentPage + ' / ' + totalPages + '</span>';
+    h += '</div>';
+    c.innerHTML = h;
+    c.querySelectorAll('.page-btn[data-page]').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            if (this.disabled) return;
+            var page = parseInt(this.getAttribute('data-page'));
+            if (page >= 1 && page <= totalPages) {
+                app.currentPage = page;
+                renderCurrentView();
+                window.scrollTo(0, 0);
+            }
+        });
+    });
 }
 function renderStreamView() {
     var imgs = getFilteredImages(), c = document.getElementById('streamList');
-    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; return; }
+    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; document.getElementById('streamPagination').innerHTML = ''; return; }
+    var totalPages = Math.ceil(imgs.length / app.itemsPerPage);
+    if (app.currentPage > totalPages) app.currentPage = 1;
+    var start = (app.currentPage - 1) * app.itemsPerPage;
+    var pageItems = imgs.slice(start, start + app.itemsPerPage);
     var h = '';
-    imgs.forEach(function(img) {
+    pageItems.forEach(function(img) {
         var dp = img.desc ? '<div class="stream-desc">' + escapeHtml(img.desc.substring(0, 150)) + '</div>' : '';
         h += '<div class="stream-item" data-name="' + img.name + '"><div class="stream-thumb" onclick="app.navigate(`#/image/' + img.name + '`)"><img src="' + img.thumb + '" alt="' + escapeHtml(img.title) + '" loading="lazy" /></div><div class="stream-info"><div class="stream-date">' + img.dateFormatted + '</div><div class="stream-title" onclick="app.navigate(`#/image/' + img.name + '`)">' + escapeHtml(img.title) + '</div>' + dp + '<div class="stream-copyright">' + escapeHtml(img.copyright) + '</div><div class="stream-downloads"><a href="' + img.uhd + '" class="dl-btn uhd-btn" target="_blank" onclick="event.stopPropagation()">UHD</a><a href="' + img.h1200 + '" class="dl-btn h1200-btn" target="_blank" onclick="event.stopPropagation()">1920x1200</a></div><div class="stream-markets">' + buildMarketFlags(img.markets) + '</div></div></div>';
     });
     c.innerHTML = h;
+    renderPagination(totalPages, 'streamPagination');
 }
 function renderCardView() {
     var imgs = getFilteredImages(), c = document.getElementById('cardGrid');
-    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; return; }
+    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; document.getElementById('cardPagination').innerHTML = ''; return; }
+    var totalPages = Math.ceil(imgs.length / app.itemsPerPage);
+    if (app.currentPage > totalPages) app.currentPage = 1;
+    var start = (app.currentPage - 1) * app.itemsPerPage;
+    var pageItems = imgs.slice(start, start + app.itemsPerPage);
     var h = '';
-    imgs.forEach(function(img) {
+    pageItems.forEach(function(img) {
         var dp = img.desc ? '<div class="card-desc">' + escapeHtml(img.desc.substring(0, 120)) + '</div>' : '';
         h += '<div class="card" data-name="' + img.name + '"><div class="card-image" onclick="app.navigate(`#/image/' + img.name + '`)"><img src="' + img.thumb + '" alt="' + escapeHtml(img.title) + '" loading="lazy" /></div><div class="card-body"><div class="card-title" onclick="app.navigate(`#/image/' + img.name + '`)">' + escapeHtml(img.title) + '</div>' + dp + '<div class="card-date">' + img.dateFormatted + '</div><div class="card-copyright">' + escapeHtml(img.copyright) + '</div><div class="card-downloads"><a href="' + img.uhd + '" class="dl-btn uhd-btn" target="_blank" onclick="event.stopPropagation()">UHD</a><a href="' + img.h1200 + '" class="dl-btn h1200-btn" target="_blank" onclick="event.stopPropagation()">1920x1200</a></div><div class="card-markets">' + buildMarketFlags(img.markets) + '</div></div></div>';
     });
     c.innerHTML = h;
+    renderPagination(totalPages, 'cardPagination');
 }
 function renderDetailView(imageName) {
     var img = null;
@@ -924,8 +980,36 @@ function renderDetailView(imageName) {
     var bingBtn = img.copyrightlink ? '<a href="' + escapeHtml(img.copyrightlink) + '" class="detail-dl-btn search-btn" target="_blank">&#128269; Search on Bing</a>' : '';
     var contentHtml = '';
     if (img.localDesc && img.localLangName) { contentHtml += '<div class="local-desc-box"><div class="lang-label lang-local">' + img.localLangName + '</div><br><div class="desc-text">' + escapeHtml(img.localDesc) + '</div></div>'; }
-    if (img.desc) { contentHtml += '<div class="desc-section"><div class="lang-label lang-en">English</div><br><div class="desc-text">' + escapeHtml(img.desc) + '</div>'; if (img.quickFact) { contentHtml += '<div class="quick-fact-box"><div class="quick-fact-label">&#128161; Did You Know</div><br><div class="quick-fact-text">' + escapeHtml(img.quickFact) + '</div></div>'; } contentHtml += '</div>'; }
-    if (img.descZh) { contentHtml += '<div class="desc-section"><div class="lang-label lang-zh">&#20013;&#25991;</div><br><div class="desc-text-zh">' + escapeHtml(img.descZh) + '</div>'; if (img.quickFactZh) { contentHtml += '<div class="quick-fact-box"><div class="quick-fact-label">&#128161; &#20320;&#30693;&#36947;&#21527;&#65311;</div><br><div class="quick-fact-text">' + escapeHtml(img.quickFactZh) + '</div></div>'; } contentHtml += '</div>'; }
+    if (img.desc) {
+        contentHtml += '<div class="desc-section">';
+        if (img.hasEnglish) {
+            contentHtml += '<div class="lang-label lang-en">English</div><br>';
+        } else {
+            var langMap = {"de":"Deutsch","fr":"Francais","it":"Italiano","es":"Espanol","pt":"Portugues","ja":"\u65e5\u672c\u8a9e","zh":"\u4e2d\u6587","en":"English"};
+            var langName = langMap[img.descLang] || img.descLang || "English";
+            contentHtml += '<div class="lang-label lang-local">' + langName + '</div><br>';
+        }
+        contentHtml += '<div class="desc-text">' + escapeHtml(img.desc) + '</div>';
+        if (img.quickFact) { contentHtml += '<div class="quick-fact-box"><div class="quick-fact-label">&#128161; Did You Know</div><br><div class="quick-fact-text">' + escapeHtml(img.quickFact) + '</div></div>'; }
+        contentHtml += '</div>';
+    }
+    if (img.descZh) {
+        contentHtml += '<div class="desc-section">';
+        var zhParts = img.descZh.split('. ');
+        var zhTitle = '';
+        var zhBody = img.descZh;
+        if (zhParts.length >= 3) {
+            zhTitle = zhParts[0] + '\u3002' + zhParts[1] + '\u3002';
+            zhBody = zhParts.slice(2).join('. ');
+        }
+        if (zhTitle) {
+            contentHtml += '<div class="zh-title">' + escapeHtml(zhTitle) + '</div>';
+        }
+        contentHtml += '<div class="lang-label lang-zh">&#20013;&#25991;</div><br>';
+        contentHtml += '<div class="desc-text-zh">' + escapeHtml(zhBody) + '</div>';
+        if (img.quickFactZh) { contentHtml += '<div class="quick-fact-box"><div class="quick-fact-label">&#128161; &#20320;&#30693;&#36947;&#21527;&#65311;</div><br><div class="quick-fact-text">' + escapeHtml(img.quickFactZh) + '</div></div>'; }
+        contentHtml += '</div>';
+    }
     var html = '<a class="detail-back" onclick="app.navigate(`#/`)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:6px;flex-shrink:0"><path d="M15 18l-6-6 6-6"/></svg>Return to Gallery</a><div class="detail-image-wrap"><img src="' + img.h1080 + '" alt="' + escapeHtml(img.title) + '" /></div><div class="detail-info"><div class="detail-title">' + escapeHtml(img.title) + '</div><div class="detail-date">' + img.dateFormatted + '</div><div class="detail-copyright">' + escapeHtml(img.copyright) + '</div>' + contentHtml + '<div class="detail-downloads"><a href="' + img.uhd + '" class="detail-dl-btn uhd-btn" target="_blank">UHD</a><a href="' + img.h1200 + '" class="detail-dl-btn h1200-btn" target="_blank">1920x1200</a><a href="' + img.h1080 + '" class="detail-dl-btn h1080-btn" target="_blank">1920x1080</a>' + bingBtn + '</div><div class="detail-markets-section"><div class="detail-markets-label">Appears in:</div><div class="detail-markets-list">' + buildMarketTagsHtml(img.markets) + '</div></div></div>';
     document.getElementById('detailContent').innerHTML = html;
 }
@@ -946,14 +1030,30 @@ function renderCurrentView() {
 app.navigate = function(p) { window.location.hash = p; };
 function handleRoute() {
     var h = window.location.hash || '#/';
-    if (h.indexOf('#/image/') === 0) { app.currentImageName = h.replace('#/image/', ''); showView('detail'); renderDetailView(app.currentImageName); window.scrollTo(0, 0); }
-    else { app.currentImageName = null; showView(app.currentView === 'detail' ? 'stream' : app.currentView); renderCurrentView(); }
+    if (h.indexOf('#/image/') === 0) {
+        app.savedScrollPos = window.scrollY;
+        app.currentImageName = h.replace('#/image/', '');
+        showView('detail'); renderDetailView(app.currentImageName); window.scrollTo(0, 0);
+    } else {
+        var wasDetail = app.currentView === 'detail';
+        app.currentImageName = null;
+        showView(wasDetail ? 'stream' : app.currentView);
+        renderCurrentView();
+        if (wasDetail && app.savedScrollPos) {
+            requestAnimationFrame(function() {
+                window.scrollTo(0, app.savedScrollPos);
+                app.savedScrollPos = 0;
+            });
+        } else {
+            window.scrollTo(0, 0);
+        }
+    }
 }
 (function init() {
     renderTabs();
-    document.getElementById('streamBtn').addEventListener('click', function() { app.currentView = 'stream'; this.classList.add('active'); document.getElementById('cardBtn').classList.remove('active'); showView('stream'); renderStreamView(); });
-    document.getElementById('cardBtn').addEventListener('click', function() { app.currentView = 'card'; this.classList.add('active'); document.getElementById('streamBtn').classList.remove('active'); showView('card'); renderCardView(); });
-    document.getElementById('searchBox').addEventListener('input', function() { app.searchQuery = this.value; if (app.searchQuery) { app.currentMarket = 'all'; renderTabs(); } renderCurrentView(); });
+    document.getElementById('streamBtn').addEventListener('click', function() { app.currentView = 'stream'; app.currentPage = 1; this.classList.add('active'); document.getElementById('cardBtn').classList.remove('active'); showView('stream'); renderStreamView(); });
+    document.getElementById('cardBtn').addEventListener('click', function() { app.currentView = 'card'; app.currentPage = 1; this.classList.add('active'); document.getElementById('streamBtn').classList.remove('active'); showView('card'); renderCardView(); });
+    document.getElementById('searchBox').addEventListener('input', function() { app.searchQuery = this.value; app.currentPage = 1; if (app.searchQuery) { app.currentMarket = 'all'; renderTabs(); } renderCurrentView(); });
     document.getElementById('darkBtn').addEventListener('click', function() { document.body.classList.toggle('dark-mode'); try { localStorage.setItem('bing-dark', document.body.classList.contains('dark-mode') ? '1' : '0'); } catch(e) {} });
     try { if (localStorage.getItem('bing-dark') === '1') document.body.classList.add('dark-mode'); } catch(e) {}
     window.addEventListener('hashchange', handleRoute);
