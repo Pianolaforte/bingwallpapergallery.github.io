@@ -103,6 +103,125 @@ def fetch_json(url, retries=3, delay=2):
                 return None
 
 
+# ---------------------------------------------------------------------------
+# Text utilities: smart_join and normalize_cn_punctuation
+# ---------------------------------------------------------------------------
+
+_TRAILING_PUNCT = set('.!?。！？；;')
+_CN_PUNCT_MAP = {
+    '.': '。', '!': '！', '?': '？', ',': '，', ';': '；', ':': '：',
+}
+
+
+def smart_join(prefix, suffix, sep=". "):
+    """Join two text fragments with a separator, avoiding double punctuation.
+
+    If *prefix* already ends with a punctuation mark, the separator is
+    replaced by a single space (or omitted entirely when both fragments
+    are CJK).  This prevents artifacts such as ``!.`` or ``。。``.
+    """
+    if not prefix or not suffix:
+        return (prefix or "") + (suffix or "")
+    if prefix[-1] in _TRAILING_PUNCT:
+        return prefix + " " + suffix
+    return prefix + sep + suffix
+
+
+def normalize_cn_punctuation(text):
+    """Convert English punctuation to Chinese punctuation in Chinese text.
+
+    Rules:
+      1. Only applies when the text contains CJK characters.
+      2. English period ``.`` → Chinese ``。`` (skip decimals, URLs, filenames).
+      3. English comma ``,`` → Chinese ``,`` (skip thousands separators).
+      4. Other: ``!`` → ``！``, ``?`` → ``？``, ``:`` → ``：``, ``;`` → ``；``.
+      5. Remove space after Chinese punctuation (``。 `` → ``。``).
+      6. Collapse double punctuation (``！。`` → ``！``, ``。。`` → ``。``).
+    """
+    if not text:
+        return text
+    # Only normalize if text contains CJK characters
+    if not re.search(r'[\u4E00-\u9FFF]', text):
+        return text
+
+    # Step 1: Protect URLs (http://, https://, ftp://, www.xxx) from conversion
+    url_placeholders = {}
+    url_pattern = re.compile(r'(https?://[^\s\u4e00-\u9fff。，！？；：]+|www\.[^\s\u4e00-\u9fff。，！？；：]+)')
+
+    def _save_url(m):
+        url = m.group(0)
+        # Strip trailing period(s) that are likely sentence punctuation, not part of URL
+        # but put them back in the text so they get converted normally
+        trailing = ''
+        while url.endswith('.') and len(url) > 10:
+            url = url[:-1]
+            trailing += '.'
+        key = f'\x00URL{len(url_placeholders)}\x00'
+        url_placeholders[key] = url
+        return key + trailing
+
+    text = url_pattern.sub(_save_url, text)
+
+    # Step 2: Convert punctuation character by character
+    result = []
+    i = 0
+    while i < len(text):
+        ch = text[i]
+        if ch == '.':
+            # Skip if between digits (decimal like 3.14, date 2026.08)
+            if i > 0 and i < len(text) - 1 and text[i-1].isdigit() and text[i+1].isdigit():
+                result.append(ch)
+            # Skip if part of a filename/extension (e.g., .jpg, .html)
+            elif i > 0 and i < len(text) - 1 and text[i-1].isalpha() and text[i+1].isalpha():
+                result.append(ch)
+            # Skip English abbreviations (e.g., "Aug." "Mr." "Dr." before space+alphanumeric)
+            elif (i > 0 and i < len(text) - 2 and text[i-1].islower()
+                  and text[i+1] == ' ' and (text[i+2].isalpha() or text[i+2].isdigit())):
+                # Verify it's a short abbreviation (1-4 lowercase letters before period)
+                j = i - 1
+                while j > 0 and text[j-1].islower():
+                    j -= 1
+                word_before = text[j:i]
+                if len(word_before) <= 4:
+                    result.append(ch)
+                else:
+                    result.append('。')
+            else:
+                result.append('。')
+        elif ch == ',':
+            # Skip if between digits (thousands separator 1,000)
+            if i > 0 and i < len(text) - 1 and text[i-1].isdigit() and text[i+1].isdigit():
+                result.append(ch)
+            else:
+                result.append('，')
+        elif ch == '!':
+            result.append('！')
+        elif ch == '?':
+            result.append('？')
+        elif ch == ':':
+            result.append('：')
+        elif ch == ';':
+            result.append('；')
+        else:
+            result.append(ch)
+        i += 1
+
+    text = ''.join(result)
+
+    # Step 3: Remove space after Chinese punctuation
+    text = re.sub(r'([。！？，：；])\s+', r'\1', text)
+
+    # Step 4: Collapse double punctuation
+    text = re.sub(r'([。！？，：；])([。])', r'\1', text)
+    text = re.sub(r'([。])\1+', '。', text)
+
+    # Step 5: Restore URLs
+    for key, url in url_placeholders.items():
+        text = text.replace(key, url)
+
+    return text
+
+
 def fetch_market_images(market_code, n=7, idx=0):
     params = {
         "format": "js", "n": n, "idx": idx, "mkt": market_code,
@@ -130,9 +249,9 @@ def fetch_model_desc(market_code, base_url=None, prepend_title=True):
         title = ic.get("Title", "").strip()
         headline = ic.get("Headline", "").strip()
         if prepend_title and desc and len(desc) < 200 and title:
-            supplement = headline + ". " + title if headline and headline != title else title
+            supplement = smart_join(headline, title) if headline and headline != title else title
             if supplement not in desc:
-                desc = supplement + ". " + desc
+                desc = smart_join(supplement, desc)
         result[name] = {
             "desc": desc, "title": title, "headline": headline,
             "quickFact": ic.get("QuickFact", {}).get("MainText", "").strip(),
@@ -489,7 +608,7 @@ def build_image_data(all_data, all_descs, cache=None):
             if raw_title and raw_title.lower() not in ("info", ""):
                 full_title = raw_title
                 if raw_caption and raw_caption != raw_title:
-                    full_title = raw_title + ". " + raw_caption
+                    full_title = smart_join(raw_title, raw_caption)
                 entry["titles"][market_code] = full_title
                 entry["captions"][market_code] = raw_caption
 
@@ -532,11 +651,7 @@ def build_image_data(all_data, all_descs, cache=None):
                 nt = desc_data.get("title", "").strip()
                 nh = desc_data.get("headline", "").strip()
                 if nt and nh and nt != nh:
-                    # Avoid double punctuation (e.g. "!." or "。。")
-                    if nh[-1] in '.!?。！？':
-                        entry["titles"][market_code] = nh + " " + nt
-                    else:
-                        entry["titles"][market_code] = nh + ". " + nt
+                    entry["titles"][market_code] = smart_join(nh, nt)
                 elif nh:
                     entry["titles"][market_code] = nh
                 elif nt:
@@ -555,14 +670,14 @@ def build_image_data(all_data, all_descs, cache=None):
         # 中文正文：直接使用API的Description字段，不含标题
         desc = desc_data.get("desc", "").strip()
         if desc:
-            entry["descs"]["zh-CN"] = desc
+            entry["descs"]["zh-CN"] = normalize_cn_punctuation(desc)
         qf = desc_data.get("quickFact", "").strip()
         if qf:
-            entry["quickFacts"]["zh-CN"] = qf
+            entry["quickFacts"]["zh-CN"] = normalize_cn_punctuation(qf)
         # 中文标题：直接使用API的Title字段，与英文标题一一对应
         cn_title = desc_data.get("title", "").strip()
         if cn_title:
-            entry["titles"]["zh-CN"] = cn_title
+            entry["titles"]["zh-CN"] = normalize_cn_punctuation(cn_title)
 
     # Phase 4: 构建最终图片列表
     unique_images = []
@@ -614,10 +729,11 @@ def build_image_data(all_data, all_descs, cache=None):
                 break
 
         # 获取中文描述和Did You Know - 只从cn.bing.com获取
-        zh_desc = entry["descs"].get("zh-CN", "")
-        zh_qf = entry["quickFacts"].get("zh-CN", "")
+        # 对所有中文字段应用标点规范化（英文句号→中文句号等）
+        zh_desc = normalize_cn_punctuation(entry["descs"].get("zh-CN", ""))
+        zh_qf = normalize_cn_punctuation(entry["quickFacts"].get("zh-CN", ""))
         # 获取中文标题 - 从cn.bing.com API的Title字段直接获取
-        zh_title = entry["titles"].get("zh-CN", "")
+        zh_title = normalize_cn_punctuation(entry["titles"].get("zh-CN", ""))
 
         # 本地语言内容（非英语独占）
         desc_lang = ""
