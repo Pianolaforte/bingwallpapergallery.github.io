@@ -8,7 +8,7 @@ Bing Gallery HTML Template - Embedded Version
   1. Bing logo 图标
   2. 返回首页滚动位置记忆
   3. 分页功能 (30 items/page)
-  4. 中文标题单独展示在中文标签上方
+  4. 中文标题使用API的titleZh字段直接展示（不再从正文拆分）
   5. 中文标题和中文标签之间无分割线
 """
 
@@ -450,7 +450,7 @@ function getFilteredImages() {
             if (!f) return false;
         }
         if (q) {
-            var t = (img.title + ' ' + img.copyright + ' ' + img.desc + ' ' + img.descZh + ' ' + img.dateFormatted).toLowerCase();
+            var t = (img.title + ' ' + img.titleZh + ' ' + img.copyright + ' ' + img.desc + ' ' + img.descZh + ' ' + img.dateFormatted).toLowerCase();
             if (t.indexOf(q) === -1) return false;
         }
         return true;
@@ -590,14 +590,9 @@ function renderDetailView(imageName) {
     // Chinese section - title displayed above the label, no divider line between them
     if (img.descZh) {
         contentHtml += '<div class="desc-section">';
-        // Extract Chinese title from descZh (first 2 sentences)
-        var zhParts = img.descZh.split(/[。．.]\s*/);
-        var zhTitle = '';
-        var zhBody = img.descZh;
-        if (zhParts.length >= 3) {
-            zhTitle = zhParts[0] + '\u3002' + zhParts[1] + '\u3002';
-            zhBody = zhParts.slice(2).join('. ');
-        }
+        // Use titleZh from API directly (cn.bing.com Title field)
+        var zhTitle = img.titleZh || '';
+        var zhBody = img.descZh || '';
         // Chinese title displayed above the label (no divider line between title and label)
         if (zhTitle) {
             contentHtml += '<div class="zh-title">' + escapeHtml(zhTitle) + '</div>';

@@ -113,7 +113,7 @@ def fetch_market_images(market_code, n=7, idx=0):
     return data.get("images", []) if data else []
 
 
-def fetch_model_desc(market_code, base_url=None):
+def fetch_model_desc(market_code, base_url=None, prepend_title=True):
     base = base_url or BING_MODEL_API
     url = f"{base}?mkt={market_code}"
     data = fetch_json(url)
@@ -129,7 +129,7 @@ def fetch_model_desc(market_code, base_url=None):
         desc = ic.get("Description", "").strip()
         title = ic.get("Title", "").strip()
         headline = ic.get("Headline", "").strip()
-        if desc and len(desc) < 200 and title:
+        if prepend_title and desc and len(desc) < 200 and title:
             supplement = headline + ". " + title if headline and headline != title else title
             if supplement not in desc:
                 desc = supplement + ". " + desc
@@ -230,13 +230,15 @@ def fetch_all_descriptions(include_cn=False):
     for market in MARKETS:
         code = market["code"]
         print(f"  {code}...", end=" ")
-        descs = fetch_model_desc(code)
+        # zh-CN: don't prepend title to desc — title is stored separately
+        prepend = False if code == "zh-CN" else True
+        descs = fetch_model_desc(code, prepend_title=prepend)
         all_descs[code] = descs
         print(f"{len(descs)} descs")
         time.sleep(0.5)
     if include_cn:
         print("  zh-CN (cn.bing.com)...", end=" ")
-        cn_descs = fetch_model_desc("zh-CN", base_url=BING_CN_MODEL_API)
+        cn_descs = fetch_model_desc("zh-CN", base_url=BING_CN_MODEL_API, prepend_title=False)
         all_descs["zh-CN-cn"] = cn_descs
         print(f"{len(cn_descs)} descs")
     else:
@@ -530,7 +532,11 @@ def build_image_data(all_data, all_descs, cache=None):
                 nt = desc_data.get("title", "").strip()
                 nh = desc_data.get("headline", "").strip()
                 if nt and nh and nt != nh:
-                    entry["titles"][market_code] = nh + ". " + nt
+                    # Avoid double punctuation (e.g. "!." or "。。")
+                    if nh[-1] in '.!?。！？':
+                        entry["titles"][market_code] = nh + " " + nt
+                    else:
+                        entry["titles"][market_code] = nh + ". " + nt
                 elif nh:
                     entry["titles"][market_code] = nh
                 elif nt:
@@ -540,17 +546,23 @@ def build_image_data(all_data, all_descs, cache=None):
                 entry["copyrights"][market_code] = nc
 
     # Phase 3: 从cn.bing.com获取中文内容 (supplement mode)
+    # cn.bing.com 是中文内容的权威来源，标题和正文分别独立提取
     cn_descs = all_descs.get("zh-CN-cn", {})
     for img_name, desc_data in cn_descs.items():
         if img_name not in image_entries:
             continue
         entry = image_entries[img_name]
+        # 中文正文：直接使用API的Description字段，不含标题
         desc = desc_data.get("desc", "").strip()
         if desc:
             entry["descs"]["zh-CN"] = desc
         qf = desc_data.get("quickFact", "").strip()
         if qf:
             entry["quickFacts"]["zh-CN"] = qf
+        # 中文标题：直接使用API的Title字段，与英文标题一一对应
+        cn_title = desc_data.get("title", "").strip()
+        if cn_title:
+            entry["titles"]["zh-CN"] = cn_title
 
     # Phase 4: 构建最终图片列表
     unique_images = []
@@ -604,6 +616,8 @@ def build_image_data(all_data, all_descs, cache=None):
         # 获取中文描述和Did You Know - 只从cn.bing.com获取
         zh_desc = entry["descs"].get("zh-CN", "")
         zh_qf = entry["quickFacts"].get("zh-CN", "")
+        # 获取中文标题 - 从cn.bing.com API的Title字段直接获取
+        zh_title = entry["titles"].get("zh-CN", "")
 
         # 本地语言内容（非英语独占）
         desc_lang = ""
@@ -665,6 +679,7 @@ def build_image_data(all_data, all_descs, cache=None):
             "title": title, "copyright": copyright_text,
             "copyrightlink": copyrightlink, "sourceMarket": source_market,
             "desc": en_desc,
+            "titleZh": zh_title,
             "descZh": zh_desc,
             "localDesc": local_desc if not has_english and local_desc != en_desc else "",
             "localLangName": local_lang_name,
@@ -681,6 +696,7 @@ def build_image_data(all_data, all_descs, cache=None):
 
     with_desc = sum(1 for img in unique_images if img["desc"])
     with_zh = sum(1 for img in unique_images if img["descZh"])
+    with_zh_title = sum(1 for img in unique_images if img.get("titleZh", ""))
     with_qf = sum(1 for img in unique_images if img["quickFact"])
     with_zh_qf = sum(1 for img in unique_images if img["quickFactZh"])
 
@@ -688,6 +704,7 @@ def build_image_data(all_data, all_descs, cache=None):
     print(f"    Total: {len(unique_images)} images")
     print(f"    EN desc: {with_desc}")
     print(f"    ZH desc: {with_zh}")
+    print(f"    ZH title: {with_zh_title}")
     print(f"    EN QuickFact: {with_qf}")
     print(f"    ZH QuickFact: {with_zh_qf}")
 
@@ -723,7 +740,8 @@ def build_image_json(images):
             "markets": clean_img["markets"], "hasEnglish": clean_img["has_english"],
             "title": clean_img["title"], "copyright": clean_img["copyright"],
             "copyrightlink": clean_img["copyrightlink"], "sourceMarket": clean_img["sourceMarket"],
-            "desc": clean_img["desc"], "descZh": clean_img["descZh"],
+            "desc": clean_img["desc"], "titleZh": clean_img.get("titleZh", ""),
+            "descZh": clean_img["descZh"],
             "localDesc": clean_img["localDesc"], "localLangName": clean_img.get("localLangName", ""),
             "descLang": clean_img.get("desc_lang", ""),
             "quickFact": clean_img["quickFact"], "quickFactZh": clean_img["quickFactZh"],
@@ -900,7 +918,7 @@ function getFilteredImages() {
             if (!f) return false;
         }
         if (q) {
-            var t = (img.title + ' ' + img.copyright + ' ' + img.desc + ' ' + img.descZh + ' ' + img.dateFormatted).toLowerCase();
+            var t = (img.title + ' ' + img.titleZh + ' ' + img.copyright + ' ' + img.desc + ' ' + img.descZh + ' ' + img.dateFormatted).toLowerCase();
             if (t.indexOf(q) === -1) return false;
         }
         return true;
@@ -995,13 +1013,8 @@ function renderDetailView(imageName) {
     }
     if (img.descZh) {
         contentHtml += '<div class="desc-section">';
-        var zhParts = img.descZh.split('. ');
-        var zhTitle = '';
-        var zhBody = img.descZh;
-        if (zhParts.length >= 3) {
-            zhTitle = zhParts[0] + '\u3002' + zhParts[1] + '\u3002';
-            zhBody = zhParts.slice(2).join('. ');
-        }
+        var zhTitle = img.titleZh || '';
+        var zhBody = img.descZh || '';
         if (zhTitle) {
             contentHtml += '<div class="zh-title">' + escapeHtml(zhTitle) + '</div>';
         }
@@ -1254,6 +1267,7 @@ def main():
     print(f"Total images: {len(unique_images)}")
     print(f"With EN desc: {sum(1 for img in unique_images if img['desc'])}")
     print(f"With ZH desc: {sum(1 for img in unique_images if img['descZh'])}")
+    print(f"With ZH title: {sum(1 for img in unique_images if img.get('titleZh', ''))}")
     print(f"With local desc: {sum(1 for img in unique_images if img.get('localDesc', ''))}")
     print(f"With EN QuickFact: {sum(1 for img in unique_images if img['quickFact'])}")
     print(f"With ZH QuickFact: {sum(1 for img in unique_images if img['quickFactZh'])}")
