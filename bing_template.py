@@ -3,6 +3,13 @@
 Bing Gallery HTML Template - Embedded Version
 将完整的 HTML 模板内嵌为 Python 字符串常量
 确保在任何环境中（包括 GitHub Actions）都能使用正确的样式
+
+更新内容：
+  1. Bing logo 图标
+  2. 返回首页滚动位置记忆
+  3. 分页功能 (30 items/page)
+  4. 中文标题单独展示在中文标签上方
+  5. 中文标题和中文标签之间无分割线
 """
 
 # 模板分为三部分：
@@ -32,9 +39,12 @@ body {
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 .logo {
-    display: flex; align-items: center; gap: 0;
+    display: flex; align-items: center; gap: 8px;
     font-size: 20px; font-weight: 700; text-decoration: none;
     color: white; cursor: pointer; flex-shrink: 0;
+}
+.logo-img {
+    height: 22px; vertical-align: middle; border-radius: 4px;
 }
 .logo-text {
     font-size: 20px; font-weight: 700; color: white;
@@ -205,6 +215,12 @@ body {
     border-bottom: none;
 }
 
+/* Chinese title (displayed above the Chinese label, no divider line between them) */
+.zh-title {
+    font-size: 18px; font-weight: 700; color: #1a2744;
+    margin-bottom: 12px; line-height: 1.5;
+}
+
 /* Language label */
 .lang-label {
     display: inline-block; font-size: 11px; padding: 4px 12px;
@@ -286,6 +302,21 @@ body {
 .view-hidden { display: none !important; }
 .no-results { text-align: center; padding: 60px 20px; color: #999; font-size: 16px; }
 
+/* Pagination */
+.pagination {
+    display: flex; justify-content: center; align-items: center;
+    gap: 6px; margin: 20px 0; flex-wrap: wrap;
+}
+.page-btn {
+    min-width: 36px; height: 36px; border: 1px solid #e0e0e0;
+    background: white; border-radius: 6px; cursor: pointer;
+    font-size: 14px; color: #333; transition: all 0.2s;
+}
+.page-btn:hover:not(:disabled) { border-color: #4caf50; color: #4caf50; }
+.page-btn.active { background: #4caf50; color: white; border-color: #4caf50; }
+.page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.page-info { font-size: 13px; color: #999; margin-left: 8px; }
+
 /* Dark mode */
 body.dark-mode { background: #1a1a2e; color: #e0e0e0; }
 body.dark-mode .tabs-container { background: #16213e; border-bottom-color: #333; }
@@ -312,6 +343,7 @@ body.dark-mode .detail-title { color: #e0e0e0; }
 body.dark-mode .detail-date { color: #888; }
 body.dark-mode .detail-copyright { color: #999; }
 body.dark-mode .desc-text, body.dark-mode .desc-text-zh { color: #ccc; }
+body.dark-mode .zh-title { color: #e0e0e0; }
 body.dark-mode .desc-section { border-bottom-color: #333; }
 body.dark-mode .detail-market-tag { background: #0f3460; color: #aaa; }
 body.dark-mode .detail-markets-section { border-top-color: #333; }
@@ -328,6 +360,9 @@ body.dark-mode .lang-en { background: #0d2137; border-color: #1565c0; color: #64
 body.dark-mode .lang-zh { background: #2a1010; border-color: #c62828; color: #ef9a9a; }
 body.dark-mode .lang-local { background: #102010; border-color: #2e7d32; color: #81c784; }
 body.dark-mode .no-results { color: #666; }
+body.dark-mode .page-btn { background: #16213e; border-color: #333; color: #aaa; }
+body.dark-mode .page-btn:hover:not(:disabled) { border-color: #4caf50; color: #4caf50; }
+body.dark-mode .page-btn.active { background: #4caf50; color: white; border-color: #4caf50; }
 
 .fi { display: inline-block; width: 1.2em; height: 1.2em; border-radius: 2px; vertical-align: middle; margin-right: 2px; }
 .stream-markets .fi, .card-markets .fi { width: 1.4em; height: 1em; margin: 1px 2px; }
@@ -354,7 +389,7 @@ body.dark-mode .no-results { color: #666; }
     .search-box { width: 100px; }
     .view-btn { width: 30px; height: 30px; font-size: 14px; }
     .logo { font-size: 16px; gap: 6px; }
-    .logo-img { height: 22px; }
+    .logo-img { height: 18px; }
 }
 </style>
 </head>
@@ -362,6 +397,7 @@ body.dark-mode .no-results { color: #666; }
 
 <div class="header">
     <a class="logo" onclick="app.navigate('#/')">
+        <img class="logo-img" src="https://ts2.tc.mm.bing.net/th/id/ODF.b9P_hc_jQCTQuDYbh2ynGw?w=32&h=32&qlt=80&o=6&pid=1.2" alt="Bing">
         <span class="logo-text">Bing Gallery</span>
     </a>
     <div class="header-right">
@@ -382,10 +418,12 @@ body.dark-mode .no-results { color: #666; }
 
 <div class="main view-container" id="streamView">
     <div id="streamList"></div>
+    <div id="streamPagination"></div>
 </div>
 
 <div class="main view-container view-hidden" id="cardView">
     <div class="card-grid" id="cardGrid"></div>
+    <div id="cardPagination"></div>
 </div>
 
 <div class="view-container view-hidden" id="detailView">
@@ -399,7 +437,7 @@ var ALL_MARKETS = __ALL_MARKETS__;
 '''
 
 TEMPLATE_TAIL = r'''
-var app = { currentView: 'stream', currentMarket: 'all', searchQuery: '', currentImageName: null };
+var app = { currentView: 'stream', currentMarket: 'all', searchQuery: '', currentImageName: null, savedScrollPos: 0, currentPage: 1, itemsPerPage: 30 };
 
 function escapeHtml(s) { if (!s) return ''; return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
@@ -435,15 +473,49 @@ function renderTabs() {
     });
     document.getElementById('tabsBar').innerHTML = h;
     document.querySelectorAll('.tab-btn').forEach(function(t) {
-        t.addEventListener('click', function() { app.currentMarket = this.getAttribute('data-market'); renderTabs(); renderCurrentView(); });
+        t.addEventListener('click', function() { app.currentMarket = this.getAttribute('data-market'); app.currentPage = 1; renderTabs(); renderCurrentView(); });
+    });
+}
+
+function renderPagination(totalPages, containerId) {
+    var c = document.getElementById(containerId);
+    if (!c) return;
+    if (totalPages <= 1) { c.innerHTML = ''; return; }
+    var h = '<div class="pagination">';
+    h += '<button class="page-btn" data-page="' + (app.currentPage - 1) + '"' + (app.currentPage === 1 ? ' disabled' : '') + '>&#8249;</button>';
+    for (var i = 1; i <= totalPages; i++) {
+        if (i === 1 || i === totalPages || Math.abs(i - app.currentPage) <= 2) {
+            h += '<button class="page-btn' + (i === app.currentPage ? ' active' : '') + '" data-page="' + i + '">' + i + '</button>';
+        } else if (Math.abs(i - app.currentPage) === 3) {
+            h += '<span class="page-info">...</span>';
+        }
+    }
+    h += '<button class="page-btn" data-page="' + (app.currentPage + 1) + '"' + (app.currentPage === totalPages ? ' disabled' : '') + '>&#8250;</button>';
+    h += '<span class="page-info">' + app.currentPage + ' / ' + totalPages + '</span>';
+    h += '</div>';
+    c.innerHTML = h;
+    c.querySelectorAll('.page-btn[data-page]').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            if (this.disabled) return;
+            var page = parseInt(this.getAttribute('data-page'));
+            if (page >= 1 && page <= totalPages) {
+                app.currentPage = page;
+                renderCurrentView();
+                window.scrollTo(0, 0);
+            }
+        });
     });
 }
 
 function renderStreamView() {
     var imgs = getFilteredImages(), c = document.getElementById('streamList');
-    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; return; }
+    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; document.getElementById('streamPagination').innerHTML = ''; return; }
+    var totalPages = Math.ceil(imgs.length / app.itemsPerPage);
+    if (app.currentPage > totalPages) app.currentPage = 1;
+    var start = (app.currentPage - 1) * app.itemsPerPage;
+    var pageItems = imgs.slice(start, start + app.itemsPerPage);
     var h = '';
-    imgs.forEach(function(img) {
+    pageItems.forEach(function(img) {
         var dp = img.desc ? '<div class="stream-desc">' + escapeHtml(img.desc.substring(0, 150)) + '</div>' : '';
         h += '<div class="stream-item" data-name="' + img.name + '">' +
             '<div class="stream-thumb" onclick="app.navigate(`#/image/' + img.name + '`)"><img src="' + img.thumb + '" alt="' + escapeHtml(img.title) + '" loading="lazy" /></div>' +
@@ -454,13 +526,18 @@ function renderStreamView() {
             '<div class="stream-markets">' + buildMarketFlags(img.markets) + '</div></div></div>';
     });
     c.innerHTML = h;
+    renderPagination(totalPages, 'streamPagination');
 }
 
 function renderCardView() {
     var imgs = getFilteredImages(), c = document.getElementById('cardGrid');
-    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; return; }
+    if (!imgs.length) { c.innerHTML = '<div class="no-results">No wallpapers found.</div>'; document.getElementById('cardPagination').innerHTML = ''; return; }
+    var totalPages = Math.ceil(imgs.length / app.itemsPerPage);
+    if (app.currentPage > totalPages) app.currentPage = 1;
+    var start = (app.currentPage - 1) * app.itemsPerPage;
+    var pageItems = imgs.slice(start, start + app.itemsPerPage);
     var h = '';
-    imgs.forEach(function(img) {
+    pageItems.forEach(function(img) {
         var dp = img.desc ? '<div class="card-desc">' + escapeHtml(img.desc.substring(0, 120)) + '</div>' : '';
         h += '<div class="card" data-name="' + img.name + '">' +
             '<div class="card-image" onclick="app.navigate(`#/image/' + img.name + '`)"><img src="' + img.thumb + '" alt="' + escapeHtml(img.title) + '" loading="lazy" /></div>' +
@@ -470,6 +547,7 @@ function renderCardView() {
             '<div class="card-markets">' + buildMarketFlags(img.markets) + '</div></div></div>';
     });
     c.innerHTML = h;
+    renderPagination(totalPages, 'cardPagination');
 }
 
 function renderDetailView(imageName) {
@@ -495,7 +573,7 @@ function renderDetailView(imageName) {
         if (img.hasEnglish) {
             contentHtml += '<div class="lang-label lang-en">English</div><br>';
         } else {
-            var langMap = {"de":"Deutsch","fr":"Francais","it":"Italiano","es":"Espanol","pt":"Portugues","ja":"日本語","zh":"中文","en":"English"};
+            var langMap = {"de":"Deutsch","fr":"Francais","it":"Italiano","es":"Espanol","pt":"Portugues","ja":"\u65e5\u672c\u8a9e","zh":"\u4e2d\u6587","en":"English"};
             var langName = langMap[img.descLang] || img.descLang || "English";
             contentHtml += '<div class="lang-label lang-local">' + langName + '</div><br>';
         }
@@ -509,11 +587,23 @@ function renderDetailView(imageName) {
         contentHtml += '</div>';
     }
 
-    // Chinese section
+    // Chinese section - title displayed above the label, no divider line between them
     if (img.descZh) {
         contentHtml += '<div class="desc-section">';
+        // Extract Chinese title from descZh (first 2 sentences)
+        var zhParts = img.descZh.split(/[。．.]\s*/);
+        var zhTitle = '';
+        var zhBody = img.descZh;
+        if (zhParts.length >= 3) {
+            zhTitle = zhParts[0] + '\u3002' + zhParts[1] + '\u3002';
+            zhBody = zhParts.slice(2).join('. ');
+        }
+        // Chinese title displayed above the label (no divider line between title and label)
+        if (zhTitle) {
+            contentHtml += '<div class="zh-title">' + escapeHtml(zhTitle) + '</div>';
+        }
         contentHtml += '<div class="lang-label lang-zh">&#20013;&#25991;</div><br>';
-        contentHtml += '<div class="desc-text-zh">' + escapeHtml(img.descZh) + '</div>';
+        contentHtml += '<div class="desc-text-zh">' + escapeHtml(zhBody) + '</div>';
         if (img.quickFactZh) {
             contentHtml += '<div class="quick-fact-box-zh">';
             contentHtml += '<div class="quick-fact-label-zh">&#128161; &#20320;&#30693;&#36947;&#21527;&#65311;</div><br>';
@@ -561,24 +651,36 @@ app.navigate = function(p) { window.location.hash = p; };
 function handleRoute() {
     var h = window.location.hash || '#/';
     if (h.indexOf('#/image/') === 0) {
+        // Save scroll position before navigating to detail view
+        app.savedScrollPos = window.scrollY;
         app.currentImageName = h.replace('#/image/', '');
         showView('detail'); renderDetailView(app.currentImageName); window.scrollTo(0, 0);
     } else {
+        var wasDetail = app.currentView === 'detail';
         app.currentImageName = null;
-        showView(app.currentView === 'detail' ? 'stream' : app.currentView);
+        showView(wasDetail ? 'stream' : app.currentView);
         renderCurrentView();
+        // Restore scroll position when returning from detail view
+        if (wasDetail && app.savedScrollPos) {
+            requestAnimationFrame(function() {
+                window.scrollTo(0, app.savedScrollPos);
+                app.savedScrollPos = 0;
+            });
+        } else {
+            window.scrollTo(0, 0);
+        }
     }
 }
 
 (function init() {
     renderTabs();
     document.getElementById('streamBtn').addEventListener('click', function() {
-        app.currentView = 'stream'; this.classList.add('active');
+        app.currentView = 'stream'; app.currentPage = 1; this.classList.add('active');
         document.getElementById('cardBtn').classList.remove('active');
         showView('stream'); renderStreamView();
     });
     document.getElementById('cardBtn').addEventListener('click', function() {
-        app.currentView = 'card'; this.classList.add('active');
+        app.currentView = 'card'; app.currentPage = 1; this.classList.add('active');
         document.getElementById('streamBtn').classList.remove('active');
         showView('card'); renderCardView();
     });
@@ -589,6 +691,7 @@ function handleRoute() {
     try { if (localStorage.getItem('bing-dark') === '1') document.body.classList.add('dark-mode'); } catch(e) {}
     document.getElementById('searchBox').addEventListener('input', function() {
         app.searchQuery = this.value;
+        app.currentPage = 1;
         if (app.searchQuery) { app.currentMarket = 'all'; renderTabs(); }
         renderCurrentView();
     });
