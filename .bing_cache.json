@@ -1,4 +1,131 @@
 {
+  "MaraCrossing": {
+    "name": "MaraCrossing",
+    "urlbase": "/th?id=OHR.MaraCrossing_EN-US8682968377",
+    "date": "20260806",
+    "dateFormatted": "August 06, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
+      "en-GB": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
+      "de-DE": "Mutprobe am Fluss. Gnus überqueren den Mara-Fluss in der Masai Mara, Kenia",
+      "fr-FR": "La traversée du courage. Gnous migrateurs traversant la rivière Mara, Kenya",
+      "it-IT": "La prova dei coraggiosi",
+      "es-ES": "Un río de valientes. Ñus migratorios cruzando el río Mara en Masai Mara, Kenia",
+      "pt-BR": "O efeito manada da coragem",
+      "zh-CN": "马赛马拉迁徙的角马群横渡马拉河，肯尼亚",
+      "en-IN": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya"
+    },
+    "copyrights": {
+      "en-US": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+      "en-GB": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+      "de-DE": "Gnuherden überqueren den Mara-Fluss in der Masai Mara, Kenia (© Manoj Shah/Getty Images)",
+      "fr-FR": "Gnous migrateurs traversant la rivière Mara dans la réserve de Masai Mara, au Kenya (© Manoj Shah/Getty Images)",
+      "it-IT": "Gnu migratori che attraversano il fiume Mara a Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+      "es-ES": "Ñus migratorios cruzando el río Mara en Masai Mara, Kenia (© Manoj Shah/Getty Images)",
+      "pt-BR": "Migração de gnus cruzando o Rio Mara na Reserva Nacional Masai Mara, Quênia (© Manoj Shah/Getty Images)",
+      "zh-CN": "马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)",
+      "en-IN": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)"
+    },
+    "descs": {
+      "en-US": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
+      "en-GB": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel s in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
+      "de-DE": "Im Masai-Mara-Nationalreservat in Kenia zeigt sich jedes Jahr eines der faszinierendsten Naturschauspiele Afrikas. Mehr als eine Million Gnus folgen dem Rhythmus der Regenzeiten, um nährstoffreiches Gras und Wasser zu finden. Die ausdauernden Pflanzenfresser legen dabei weite Strecken durch die Savanne zurück und bilden Herden, die sich oft bis zum Horizont erstrecken. Ein zentrales Ereignis dieser Reise ist die Flussüberquerung. Am Mara-Fluss sammeln sich die Tiere oft lange, prüfen die Situation – und wagen erst im richtigen Moment den Sprung. Wird dieser ausgelöst, setzt eine Kettenreaktion ein: Tausende Gnus drängen gleichzeitig vorwärts und durchqueren das Wasser in wenigen Minuten.",
+      "fr-FR": "Le sol tremble avant même qu’on les voie. Dans le Masai Mara, au Kenya, plus d’un million de gnous convergent vers la rivière Mara, guidés par un instinct ancien, inscrit dans l’espèce. Sur la berge, le troupeau s’accumule, hésite, puis bascule. En quelques secondes, des milliers de corps plongent dans les eaux brunes et rapides dans un fracas de cornes, de sabots et d’éclaboussures.",
+      "es-ES": "En la Reserva Masái Mara, en Kenia, la tierra parece cobrar vida propia. Cada año, más de 1,5 millones de ñus emprenden una de las travesías más espectaculares del planeta: la Gran Migración, un ciclo imparable impulsado por la búsqueda de hierba fresca y agua renovada por las lluvias estacionales. Junto a ellos viajan cebras y gacelas, formando una marea de vida que transforma el paisaje africano.",
+      "en-IN": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
+      "it-IT": "A Masai Mara, in Kenya, il suolo sembra prendere vita. Un'onda di gnu — erbivori resistenti costruiti per la distanza — avanza in branchi compatti verso le rive del fiume Mara, richiamati dall'erba fresca nata con le piogge stagionali. Poi, all'improvviso, il salto: corni in avanti, corpi che si scontrano, spruzzi che esplodono mentre il branco si lancia attraverso le correnti vorticose.",
+      "pt-BR": "Quase dá pra sentir a terra tremer. Na cena de hoje, milhares de gnus hesitam às margens do Rio Mara, no Quênia. Mas a pausa dura pouco. Um salto, depois outro, e logo a margem desaba em uma corrente viva de cascos, poeira e respingos. Este é um dos momentos mais eletrizantes da maior migração terrestre do planeta. Todo ano, mais de 1 milhão de gnus, zebras e gazelas cruzam centenas de quilômetros entre o Serengeti, na Tanzânia, e o Masai Mara, no Quênia, atrás de pastagens mais verdes.",
+      "zh-CN": "在肯尼亚的马赛马拉，大地仿佛在移动。成群结队的角马——这种拥有极强耐力的蹄类食草动物——在季节性降雨滋润出的鲜嫩青草与水源的吸引下，浩浩荡荡地迁徙着。"
+    },
+    "quickFacts": {
+      "en-US": "Weighing as much as 600 pounds, adult wildebeests rank among the larger herbivorous antelope species.",
+      "en-GB": "Weighing as much as 275 kilograms, adult wildebeests rank among the larger herbivorous antelope species.",
+      "de-DE": "Mit einem Gewicht von bis zu 270 Kilo zählen erwachsene Gnus zu den größeren pflanzenfressenden Antilopenarten.",
+      "fr-FR": "Pesant jusqu'à 270 kg, les gnous adultes comptent parmi les plus grandes espèces d'antilopes herbivores.",
+      "zh-CN": "成年角马体重可达600磅，属于体型较大的食草性羚羊。",
+      "en-IN": "Weighing as much as 275 kilograms, adult wildebeests rank among the larger herbivorous antelope species."
+    },
+    "captions": {
+      "en-US": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
+      "en-GB": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
+      "de-DE": "Gnus überqueren den Mara-Fluss in der Masai Mara, Kenia",
+      "fr-FR": "Gnous migrateurs traversant la rivière Mara, Kenya",
+      "it-IT": "",
+      "es-ES": "Ñus migratorios cruzando el río Mara en Masai Mara, Kenia",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=wildebeest&form=hpcapt&filters=HpDate%3a%2220260806_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Wildebeest&form=hpcapt&filters=HpDate%3a%2220260805_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Gnus&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=gnou&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lo+Gnu&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=%c3%91u+animal&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=gnus&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e8%a7%92%e9%a9%ac&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Wildebeest&form=hpcapt&filters=HpDate%3a%2220260805_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MaraCrossing_EN-US8682968377",
+      "en-GB": "/th?id=OHR.MaraCrossing_EN-GB8480696688",
+      "de-DE": "/th?id=OHR.MaraCrossing_DE-DE5747320047",
+      "fr-FR": "/th?id=OHR.MaraCrossing_FR-FR8762325537",
+      "it-IT": "/th?id=OHR.MaraCrossing_IT-IT0069962871",
+      "es-ES": "/th?id=OHR.MaraCrossing_ES-ES3801561108",
+      "pt-BR": "/th?id=OHR.MaraCrossing_PT-BR3865870931",
+      "zh-CN": "/th?id=OHR.MaraCrossing_ZH-CN8816902094",
+      "en-IN": "/th?id=OHR.MaraCrossing_EN-IN3635876531"
+    }
+  },
   "FezMorocco": {
     "name": "FezMorocco",
     "urlbase": "/th?id=OHR.FezMorocco_EN-US8380353742",
@@ -71,7 +198,7 @@
       "es-ES": "Puertas de un reino oculto. Puerta decorada del Palacio Real de Fez, Marruecos",
       "pt-BR": "Um mistério guardado a sete chaves",
       "ja-JP": "宮殿の門",
-      "zh-CN": "秘境之门，匠心传世",
+      "zh-CN": "非斯皇宫装饰华丽的大门，摩洛哥",
       "en-IN": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco"
     },
     "copyrights": {
@@ -98,7 +225,7 @@
       "en-IN": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
       "it-IT": "A Fès, in Marocco, le sette porte in ottone del Dar al-Makhzen si aprono su Place des Alaouites con una presenza che non lascia indifferenti. Il Palazzo Reale esiste in questa forma dal XIII secolo, quando i sovrani del Marocco costruirono attorno a esso una vera e propria città fortezza. Dietro le mura alte si celano giardini, cortili, moschee e residenze reali ancora oggi in uso dal re — un complesso vivo, non un museo.",
       "pt-BR": "Nossa imagem de hoje desperta a pergunta: o que existe atrás desta porta? Os sete portões do Palácio Real de Fez, conhecido como Dar al-Makhzen, guardam muito mais do que uma construção. Atrás dos altos muros funciona uma verdadeira cidade, com jardins, mesquitas, pátios e residências que continuam servindo à família real do Marrocos quase oito séculos depois de sua fundação.",
-      "zh-CN": "秘境之门，匠心传世. 非斯皇宫装饰华丽的大门，摩洛哥. 在摩洛哥的非斯，被称为“达尔·马赫赞”的王宫自13世纪以来一直是权力的中心；当时，摩洛哥的统治者围绕它建立了一座设防的皇城。其高墙之内，花园、庭院、清真寺和皇家住所错落分布于广阔的建筑群中，且至今仍供国王使用，使其既是历史古迹，又是仍在运作的活跃宫廷。"
+      "zh-CN": "在摩洛哥的非斯，被称为“达尔·马赫赞”的王宫自13世纪以来一直是权力的中心；当时，摩洛哥的统治者围绕它建立了一座设防的皇城。其高墙之内，花园、庭院、清真寺和皇家住所错落分布于广阔的建筑群中，且至今仍供国王使用，使其既是历史古迹，又是仍在运作的活跃宫廷。"
     },
     "quickFacts": {
       "zh-CN": "非斯皇宫那七扇标志性的青铜大门，至今仍由工匠使用柠檬汁和传统技艺进行精细的手工抛光，以保持其灿烂如金的光泽。"
@@ -206,17 +333,17 @@
       }
     ],
     "titles": {
-      "en-US": "Hoot hoot hooray!. International Owl Awareness Day",
-      "en-GB": "Hoot hoot hooray!. International Owl Awareness Day",
-      "en-CA": "Hoot hoot hooray!. International Owl Awareness Day",
+      "en-US": "Hoot hoot hooray! International Owl Awareness Day",
+      "en-GB": "Hoot hoot hooray! International Owl Awareness Day",
+      "en-CA": "Hoot hoot hooray! International Owl Awareness Day",
       "de-DE": "Neugierig und aufmerksam. Internationaler Tag der Eule",
       "fr-FR": "Quelle chouette journée. Journée internationale de sensibilisation aux hiboux",
       "it-IT": "Una rotazione di 270°",
-      "es-ES": "¡Buu-Hoo!. Día Internacional del Búho",
+      "es-ES": "¡Buu-Hoo! Día Internacional del Búho",
       "pt-BR": "A sentinela das pradarias",
       "ja-JP": "今日は国際フクロウの日",
-      "zh-CN": "呼呼，太棒了！",
-      "en-IN": "Hoot hoot hooray!. International Owl Awareness Day"
+      "zh-CN": "佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国",
+      "en-IN": "Hoot hoot hooray! International Owl Awareness Day"
     },
     "copyrights": {
       "en-US": "Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)",
@@ -242,7 +369,7 @@
       "en-IN": "Owls take centre stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound and specialised hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance.",
       "it-IT": "Nella Giornata Internazionale della Consapevolezza sui Gufi, una giovane civetta delle tane emerge tra i fiori selvatici di Cape Coral, in Florida, con lo sguardo puntato dritto verso di noi. I gufi sono presenti su tutti i continenti tranne l'Antartide, e le loro adattazioni li rendono tra i predatori notturni più sofisticati della natura: occhi fissi nelle orbite, disco facciale che amplifica i suoni e collo capace di ruotare fino a 270°, per compensare l'impossibilità di muovere lo sguardo.",
       "pt-BR": "No Dia Internacional da Conscientização sobre as Corujas, a estrela da imagem, registrada nos Estados Unidos, quebra expectativas. Diferente da maioria, a coruja-buraqueira-da-flórida não liga para árvores. Vive em buracos no solo, caça durante o dia e observa o mundo a partir de pequenos montes de terra.",
-      "zh-CN": "呼呼，太棒了！. 佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国. 除了南极洲，猫头鹰的足迹遍及各大洲；它们以朝向正前方的双眼、能汇聚声波的扁平脸盘以及敏锐独特的听觉而著称。许多猫头鹰拥有边缘柔软的羽毛，这使它们能够近乎无声地进行捕猎。由于眼球在眼窝内无法转动，它们依靠灵活的颈部来观察周围环境。从森林到沙漠，猫头鹰栖息于多种多样的环境中，在维持生态系统平衡方面发挥着重要作用。"
+      "zh-CN": "除了南极洲，猫头鹰的足迹遍及各大洲；它们以朝向正前方的双眼、能汇聚声波的扁平脸盘以及敏锐独特的听觉而著称。许多猫头鹰拥有边缘柔软的羽毛，这使它们能够近乎无声地进行捕猎。由于眼球在眼窝内无法转动，它们依靠灵活的颈部来观察周围环境。从森林到沙漠，猫头鹰栖息于多种多样的环境中，在维持生态系统平衡方面发挥着重要作用。"
     },
     "quickFacts": {
       "en-US": "Owls can rotate their heads up to 270° to compensate for eyes that are fixed in their sockets.",
@@ -365,7 +492,7 @@
       "es-ES": "Navegando entre colores. Barcos coloridos en el puerto de Marsaxlokk, Malta",
       "pt-BR": "Ancorado em tradição",
       "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
-      "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
+      "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他",
       "en-IN": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta"
     },
     "copyrights": {
@@ -392,7 +519,7 @@
       "en-IN": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
       "it-IT": "Nel porto di Marsaxlokk, sul litorale sud-orientale di Malta, i luzzus — le tradizionali barche da pesca maltesi — si accalcano in formazioni ordinate di blu, giallo, rosso e verde. Su ogni prua, un paio di occhi dipinti osserva il mare: un simbolo antico, radicato nelle tradizioni marinare del Mediterraneo, che la leggenda vuole capace di proteggere i pescatori dai pericoli del largo.",
       "pt-BR": "A foto de hoje mostra o porto de Marsaxlokk, em Malta, onde quem dá bom dia primeiro são as cores. Centenas de luzzus, barcos tradicionais da pesca maltesa, balançam lado a lado em tons de azul, amarelo, vermelho e verde, transformando as águas em uma paleta viva. A vila segue como um dos principais centros pesqueiros do país, onde cerca de 4 mil moradores ainda acompanham o ritmo das marés.",
-      "zh-CN": "色彩鲜艳的船只，历久弥新的传统. 马尔萨什洛克港口五彩斑斓的渔船，马耳他. 色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
+      "zh-CN": "色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
     },
     "quickFacts": {
       "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
@@ -509,7 +636,7 @@
       "es-ES": "Hija del Báltico. Helsinki, Uusimaa, Finlandia",
       "pt-BR": "A cidade que abraça o mar",
       "ja-JP": "ブルーアワーに輝く湾岸の街",
-      "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
+      "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他",
       "en-IN": "Daughter of the Baltic. Helsinki, Uusimaa, Finland"
     },
     "copyrights": {
@@ -536,7 +663,7 @@
       "en-IN": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
       "it-IT": "Durante l'ora blu, quella finestra di luce sospesa tra il tramonto e la notte, Helsinki si riflette nel Baltico con una nitidezza che sembra quasi irreale. Fondata nel 1550 dal re svedese Gustavo I e diventata capitale della Finlandia nel 1812, la città ha costruito la propria identità sull'acqua: oltre il settanta per cento dei suoi 686 km² è mare, e il tessuto urbano si estende su più di 300 isole.",
       "pt-BR": "Vista na imagem, Helsinque parece uma cidade que nunca conseguiu decidir se prefere terra ou mar. O resultado? Mais de 300 ilhas, quilômetros de litoral e uma capital onde o azul aparece em praticamente qualquer direção. Fundada em 1550 como um centro comercial do reino da Suécia, ela virou capital finlandesa em 1812 e, desde então, coleciona um talento raro: combinar prédios elegantes, natureza e uma vida urbana que anda sem pressa.",
-      "zh-CN": "色彩鲜艳的船只，历久弥新的传统. 马尔萨什洛克港口五彩斑斓的渔船，马耳他. 色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
+      "zh-CN": "色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
     },
     "quickFacts": {
       "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
@@ -623,7 +750,7 @@
       "en-CA": "The power of Kīlauea. Lava flows spill into the ocean on Big Island, Hawaii, USA",
       "de-DE": "Die Kraft des Kīlauea. Lavaströme münden ins Meer, Big Island, Hawaii, USA",
       "it-IT": "Il potere di Kīlauea",
-      "zh-CN": "基拉韦厄火山的威力",
+      "zh-CN": "大批熔岩流涌入大洋，大岛，夏威夷州，美国",
       "en-IN": "The power of Kīlauea. Big Island, Hawaii, United States"
     },
     "copyrights": {
@@ -640,7 +767,7 @@
       "de-DE": "Im Hawaiʻi-Volcanoes-Nationalpark auf der Big Island im US-Bundesstaat Hawaii verändern vulkanische Kräfte die Landschaft bis heute. Während viele Regionen der Erde ihr Erscheinungsbild erst über Jahrtausende hinweg wandeln, können Ausbrüche hier innerhalb kurzer Zeit neue Formen schaffen. Der Nationalpark in den Vereinigten Staaten wurde am 1. August 1916 gegründet, um dieses außergewöhnliche Naturgebiet zu schützen. Auf einer Fläche von mehr als 350.000 Acres umfasst er Lavafelder, einheimische Wälder und Lebensräume seltener Tierarten, die sich an die besonderen Bedingungen der Insel angepasst haben.",
       "en-IN": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established on 1 August, 1916. For more than a century, it has protected over 142,000 hectares of volcanic terrain, native forests and rare wildlife.",
       "it-IT": "La maggior parte dei paesaggi cambia nel corso di millenni. I vulcani li ridisegnano in poche ore — e sull'isola di Hawaii, la Big Island, lo fanno ancora oggi. Il Parco Nazionale dei Vulcani delle Hawaii è stato istituito il 1° agosto 1916, proteggendo oltre 140.000 ettari di territorio vulcanico, foreste native e fauna rarissima come il nēnē, l'oca selvatica simbolo delle isole.",
-      "zh-CN": "基拉韦厄火山的威力. 大批熔岩流涌入大洋，大岛，夏威夷州，美国. 大多数地貌的演变历时数千年，而火山却能在短短数小时内重塑地貌——在夏威夷大岛，这一过程至今仍在持续。为了保护这一不断变化的环境及其所蕴含的科学与自然价值，夏威夷火山国家公园于1916年8月1日正式成立。一个多世纪以来，该公园一直致力于保护这片占地超过35万英亩的区域，其中包括火山地貌、原生森林以及各类珍稀野生动植物。"
+      "zh-CN": "大多数地貌的演变历时数千年，而火山却能在短短数小时内重塑地貌——在夏威夷大岛，这一过程至今仍在持续。为了保护这一不断变化的环境及其所蕴含的科学与自然价值，夏威夷火山国家公园于1916年8月1日正式成立。一个多世纪以来，该公园一直致力于保护这片占地超过35万英亩的区域，其中包括火山地貌、原生森林以及各类珍稀野生动植物。"
     },
     "quickFacts": {
       "zh-CN": "当温度高达约1093摄氏度的熔岩与冰冷的太平洋海水相遇时，会产生被称为“熔岩雾霭”的剧烈化学反应，形成包含盐酸烟雾和微小火山玻璃颗粒的有害气云。"
@@ -750,7 +877,7 @@
       "en-CA": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 55 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
       "de-DE": "Aus der Luft zeigt sich der Virginia Creeper Trail als grünes Band, das sich durch die bewaldeten Landschaften im Südwesten des US-Bundesstaates Virginia schlängelt. Die heute beliebte Freizeitroute verläuft auf einer ehemaligen Eisenbahnstrecke, die einst für den Transport von Holz und Eisenerz durch die Appalachen genutzt wurde. Ihren ungewöhnlichen Namen verdankt die Strecke den Dampflokomotiven, die zu Beginn des 20. Jahrhunderts die steilen Anstiege nur langsam bewältigen konnten. Auf einer Länge von rund 55 Kilometern verbindet der Weg reizvolle Natur mit einem Stück regionaler Geschichte und bietet immer wieder weite Ausblicke auf Berge, Täler und Flüsse in den Vereinigten Staaten.",
       "fr-FR": "À Damascus, en Virginie, États-Unis, l’ancienne voie ferrée s’est tue, mais son parcours respire encore. Sur 55 km à travers les Appalaches, le Virginia Creeper Trail suit l’ancienne ligne qui transportait jadis bois et minerai de fer, gravissant des pentes si raides qu’on disait des locomotives qu’elles « grimpaient comme une vigne vierge » — d’où son nom.",
-      "ja-JP": "深緑の森を貫く木道. バージニア・クリーパー・トレイル, 米国 バージニア州. 今日の画像は、米国バージニア州ダマスカス周辺を走るバージニア・クリーパー・トレイル。かつてアパラチア山脈を越えて木材や鉄鉱石を運んでいた鉄道の旧線路です。1957 年に蒸気機関車が引退した後、米国森林局によってレクリエーション・トレイルとして整備されました。全長 56km のトレイルは国有林を通り、美しい山々の風景の中、約 50 基の木製桁橋を渡ることができます。",
+      "ja-JP": "今日の画像は、米国バージニア州ダマスカス周辺を走るバージニア・クリーパー・トレイル。かつてアパラチア山脈を越えて木材や鉄鉱石を運んでいた鉄道の旧線路です。1957 年に蒸気機関車が引退した後、米国森林局によってレクリエーション・トレイルとして整備されました。全長 56km のトレイルは国有林を通り、美しい山々の風景の中、約 50 基の木製桁橋を渡ることができます。",
       "en-IN": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 55.2 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
       "pt-BR": "Algumas ferrovias encerram as atividades. A Virginia Creeper Trail reinventou a viagem. A imagem mostra parte dessa antiga linha férrea de 55 quilômetros, que por décadas levou madeira, minério e passageiros pelos Montes Apalaches. Hoje, quem passa por suas 47 pontes de madeira, rios e vales são ciclistas e caminhantes.",
       "zh-CN": "穿越时光的足迹. 鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国. 有些铁路会退出历史舞台，而“弗吉尼亚爬山虎步道”则实现了华丽转身。这条步道全长34.3英里，横贯弗吉尼亚州西南部，沿用了一条昔日的铁路线——该线路曾用于在阿巴拉契亚山脉间运输木材和铁矿石。步道那独特的名字，源自20世纪初那些在陡峭坡道上艰难爬行的蒸汽机车。"
@@ -1196,11 +1323,6 @@
         "flag": "de"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
@@ -1222,35 +1344,35 @@
       }
     ],
     "titles": {
-      "en-US": "Chicago, look up!. Tiffany Dome, Chicago Cultural Center, Illinois",
-      "en-GB": "Chicago, look up!. Tiffany Dome, Chicago Cultural Center, Illinois, United States",
-      "en-CA": "Chicago, look up!. Tiffany Dome, Chicago Cultural Centre, Illinois, United States",
+      "en-US": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois",
+      "en-GB": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois, United States",
+      "en-CA": "Chicago, look up! Tiffany Dome, Chicago Cultural Centre, Illinois, United States",
       "de-DE": "Wo Architektur strahlt. Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA",
-      "es-ES": "¡Chicago, mira hacia arriba!. Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.",
       "pt-BR": "O céu de vidro de Chicago",
       "ja-JP": "灯りゆれる大空間",
       "zh-CN": "仰望芝城，流光溢彩",
-      "en-IN": "Chicago, look up!. Tiffany Dome, Chicago Cultural Center, Illinois, United States"
+      "en-IN": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois, United States",
+      "es-ES": "¡Chicago, mira hacia arriba!. Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU."
     },
     "copyrights": {
       "en-US": "Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)",
       "en-GB": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)",
       "en-CA": "Tiffany Dome, Chicago Cultural Centre, Illinois, United States (© Felix Lipov/Shutterstock)",
       "de-DE": "Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA (© Felix Lipov/Shutterstock)",
-      "es-ES": "Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.  (© Felix Lipov/Shutterstock)",
       "pt-BR": "Cúpula Tiffany, Centro Cultural de Chicago, Illinois, Estados Unidos (© Felix Lipov/Shutterstock)",
       "ja-JP": "シカゴ文化センター, 米国 イリノイ州 (© Felix Lipov/Shutterstock)",
       "zh-CN": "蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)",
-      "en-IN": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)"
+      "en-IN": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)",
+      "es-ES": "Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.  (© Felix Lipov/Shutterstock)"
     },
     "descs": {
       "en-US": "Step inside the Chicago Cultural Center, and your eyes are instantly drawn upward to a glowing canopy of color—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans approximately 38 feet in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
       "en-GB": "Step inside the Chicago Cultural Center in Illinois, United States, and your eyes are instantly drawn upwards to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans over 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
       "en-CA": "Step inside the Chicago Cultural Centre, and your eyes are instantly drawn upward to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans approximately 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
       "de-DE": "Im Herzen des Chicago Cultural Center im US-Bundesstaat Illinois zieht die Tiffany-Kuppel mit ihrem farbenreichen Glasdesign die Aufmerksamkeit auf sich. Das Kunstwerk überspannt die Preston Bradley Hall und erreicht einen Durchmesser von rund 11,6 Metern. Etwa 30.000 Stücke aus Favrile-Glas formen die beeindruckende Konstruktion, deren Oberfläche an schimmernde Fischschuppen erinnert. Je nach Tageszeit verändert das einfallende Licht ihre Wirkung und lässt immer neue Farbnuancen im Raum entstehen.",
-      "es-ES": "En el corazón de Chicago, Estados Unidos, una cúpula de vidrio parece transformar la luz en arte. Suspendida sobre el Preston Bradley Hall del Chicago Cultural Center, la famosa Tiffany Dome deslumbra con sus tonos azules y dorados, creados por unas 30.000 piezas de vidrio Favrile dispuestas como escamas. A medida que la luz natural atraviesa la estructura, los colores cambian y llenan el espacio de reflejos que convierten cada visita en una experiencia diferente.",
       "ja-JP": "ここは米国のシカゴ文化センターにあるプレストン・ブラッドリー・ホール。一歩足を踏み入れれば、視線はたちまちティファニー・ドームの輝く天蓋へと引き寄せられます。ドームの直径はおよそ 11m で、魚の鱗のような形をしたティファニー製ガラス片を約 3 万個組み合わせて作られています。シカゴ文化センターは、1897 年にシカゴ初の公共図書館として開館しました。1978 年に芸術文化センターとなり、以降現在まで何度か改修されながら、地域の文化拠点として親しまれています。",
       "en-IN": "Step inside the Chicago Cultural Center in Illinois, United States, and your eyes are instantly drawn upwards to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans over 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
+      "es-ES": "En el corazón de Chicago, Estados Unidos, una cúpula de vidrio parece transformar la luz en arte. Suspendida sobre el Preston Bradley Hall del Chicago Cultural Center, la famosa Tiffany Dome deslumbra con sus tonos azules y dorados, creados por unas 30.000 piezas de vidrio Favrile dispuestas como escamas. A medida que la luz natural atraviesa la estructura, los colores cambian y llenan el espacio de reflejos que convierten cada visita en una experiencia diferente.",
       "pt-BR": "Se algum dia você visitar o Centro Cultural de Chicago, em Illinois, Estados Unidos, olhe para cima. A imagem mostra a impressionante Cúpula Tiffany, um círculo de quase 12 metros formado por cerca de 30 mil peças de vidro encaixadas como escamas. Quando o sol atravessa esse quebra-cabeça colorido, o ambiente inteiro muda de humor.",
       "zh-CN": "仰望芝城，流光溢彩. 蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国. 步入位于美国，伊利诺伊州，芝加哥文化中心的建筑内部，目光瞬间会被上方绚丽夺目的彩色顶棚——蒂芙尼穹顶所吸引。这座艺术杰作悬挂在普雷斯顿·布拉德利大厅上方，直径约38英尺，由约30,000片法夫里尔玻璃组成，每片玻璃都呈鱼鳞状。阳光透过其半透明的表面，在错综复杂的图案中映射出变幻莫测的蓝色与金色。"
     },
@@ -1262,7 +1384,6 @@
       "en-GB": "Tiffany Dome, Chicago Cultural Center, Illinois, United States",
       "en-CA": "Tiffany Dome, Chicago Cultural Centre, Illinois, United States",
       "de-DE": "Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA",
-      "es-ES": "Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.",
       "pt-BR": "",
       "ja-JP": "灯りゆれる大空間",
       "zh-CN": "",
@@ -1273,7 +1394,6 @@
       "en-GB": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260726_2300%22",
       "en-CA": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260727_0400%22",
       "de-DE": "https://www.bing.com/search?q=Tiffany-Kuppel+Chicago+Cultural+Center+Informationen&form=hpcapt&filters=HpDate%3a%2220260726_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
       "pt-BR": "https://www.bing.com/search?q=C%c3%bapula+Tiffany+Centro+Cultural+de+Chicago&form=hpcapt&mkt=pt-br",
       "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%82%ab%e3%82%b4%e6%96%87%e5%8c%96%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260726_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e8%8a%9d%e5%8a%a0%e5%93%a5%e6%96%87%e5%8c%96%e4%b8%ad%e5%bf%83%e8%92%82%e8%8a%99%e5%b0%bc%e7%a9%b9%e9%a1%b6&form=hpcapt&mkt=zh-cn",
@@ -1284,7 +1404,6 @@
       "en-GB": "/th?id=OHR.ChicagoTiffany_EN-GB5292533317",
       "en-CA": "/th?id=OHR.ChicagoTiffany_EN-CA9232454244",
       "de-DE": "/th?id=OHR.ChicagoTiffany_DE-DE2141043635",
-      "es-ES": "/th?id=OHR.ChicagoTiffany_ES-ES2128020420",
       "pt-BR": "/th?id=OHR.ChicagoTiffany_PT-BR8094909459",
       "ja-JP": "/th?id=OHR.ChicagoTiffany_JA-JP4240566318",
       "zh-CN": "/th?id=OHR.ChicagoTiffany_ZH-CN9860688834",
@@ -1580,79 +1699,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Family, in full color. National Cousins Day",
-      "en-GB": "Family, in full colour. National Cousins Day",
       "en-CA": "Family, in full colour. National Cousins Day",
+      "pt-BR": "Em boa companhia",
+      "en-GB": "Family, in full colour. National Cousins Day",
       "de-DE": "In voller Farbe. Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
       "fr-FR": "Ça flame rose. Flamboyance de flamants roses",
       "it-IT": "Famiglia, a colori",
-      "pt-BR": "Em boa companhia",
       "ja-JP": "今日は米国いとこの日",
       "zh-CN": "缤纷多彩的一家人",
       "en-IN": "Family, in full colour. National Cousins Day"
     },
     "copyrights": {
       "en-US": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "en-GB": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
       "en-CA": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "pt-BR": "Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador (© Tui De Roy/Nature Picture Library)",
+      "en-GB": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
       "de-DE": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)",
       "fr-FR": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)",
       "it-IT": "Stormo di fenicotteri americani, Isola Isabela, Isole Galápagos, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "pt-BR": "Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador (© Tui De Roy/Nature Picture Library)",
       "ja-JP": "ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)",
       "zh-CN": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)",
       "en-IN": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)"
     },
     "descs": {
       "en-US": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure.",
-      "en-GB": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. While it originated in the United States, the day has gained traction in the United Kingdom through social media and family-focused events.",
       "en-CA": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Fittingly, Canadians mark the day alongside their neighbour and, you could say, cousin to the south: the United States. Whether you grew up at the cottage, camping, skating or gathering for a long weekend barbecue, cousins often share some of life's best memories.",
+      "en-GB": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. While it originated in the United States, the day has gained traction in the United Kingdom through social media and family-focused events.",
       "de-DE": "Auf der Insel Isabela lebt ein Schwarm Kubaflamingos in den flachen Lagunen der Galápagos-Inseln, die zu Ecuador gehören. Die eleganten Vögel bewegen sich oft gemeinsam durch das seichte Wasser und suchen dort nach kleinen Krebstieren, Insekten und anderen Nahrungsquellen. Mit ihren langen Beinen und geschwungenen Hälsen prägen sie das Bild vieler Feuchtgebiete der Insel. Vor der Kulisse dunkler Lavafelder und vulkanischer Landschaften bieten sie einen besonders eindrucksvollen Anblick und zählen zu den bekanntesten Vogelarten des Archipels.",
       "fr-FR": "La langue française réserve parfois ses plus belles trouvailles aux assemblées d’animaux. Sur l’île Isabela, dans l’archipel des Galápagos, en Équateur, les lagunes saumâtres accueillent ainsi une « flamboyance » de flamants roses des Caraïbes — terme aussi vif que leur plumage, teinté de corail par les crevettes et algues qu’ils filtrent dans la boue tiède.",
       "ja-JP": "今日 7 月 24 日は米国いとこの日。兄弟姉妹のようでありながら、友人のような存在でもある「いとこ」という繋がりを祝う日です。そして画像は、エクアドルのガラパゴス諸島に生息するフラミンゴの群れ。彼らは、単独で行動するのではなく、群れをなして集まり、一緒に餌を食べ、仲間と動きを揃えて移動します。直接的な血の繋がりがなくとも「家族」のように繋がっているという、いとこという関係性を思わせる光景です。",
@@ -1672,237 +1756,50 @@
     },
     "captions": {
       "en-US": "National Cousins Day",
-      "en-GB": "National Cousins Day",
       "en-CA": "National Cousins Day",
-      "de-DE": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
-      "fr-FR": "Flamboyance de flamants roses",
-      "it-IT": "",
-      "pt-BR": "",
-      "ja-JP": "今日は米国いとこの日",
-      "zh-CN": "",
-      "en-IN": "National Cousins Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0700%22",
-      "en-GB": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260723_2300%22",
-      "en-CA": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Kubaflamingo&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Flamant+des+Cara%c3%afbes&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
-      "it-IT": "https://www.bing.com/search?q=fenicotteri+americani&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=flamingos+americanos&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%81%84%e3%81%a8%e3%81%93%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260723_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e6%b4%b2%e7%ba%a2%e9%b9%b3&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260723_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116",
-      "en-GB": "/th?id=OHR.GalapagosFlamingos_EN-GB4530568313",
-      "en-CA": "/th?id=OHR.GalapagosFlamingos_EN-CA4325829188",
-      "de-DE": "/th?id=OHR.GalapagosFlamingos_DE-DE1918476943",
-      "fr-FR": "/th?id=OHR.GalapagosFlamingos_FR-FR0682662624",
-      "it-IT": "/th?id=OHR.GalapagosFlamingos_IT-IT7890055647",
-      "pt-BR": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535",
-      "ja-JP": "/th?id=OHR.GalapagosFlamingos_JA-JP2749729014",
-      "zh-CN": "/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387",
-      "en-IN": "/th?id=OHR.GalapagosFlamingos_EN-IN8421031392"
-    }
-  },
-  "PinkDahlia": {
-    "name": "PinkDahlia",
-    "urlbase": "/th?id=OHR.PinkDahlia_EN-US1957205704",
-    "date": "20260723",
-    "dateFormatted": "July 23, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "A symphony of petals. Pink dahlia flower",
-      "en-CA": "A symphony of petals. Pink dahlia flower",
-      "pt-BR": "Um universo em flor",
-      "en-GB": "A symphony of petals. Pink dahlia flower",
-      "de-DE": "Was ist eine Wasserpfeifenblume?. Rosafarbene Dahlie",
-      "fr-FR": "La symphonie des pétales. Dahlia rose",
-      "it-IT": "Una sinfonia di petali",
-      "es-ES": "Una sinfonía de pétalos. Flor de dalia rosa",
-      "ja-JP": "華やかに開くダリアの花びら",
-      "zh-CN": "瓣叠交响",
-      "en-IN": "A symphony of petals. Pink dahlia flower"
-    },
-    "copyrights": {
-      "en-US": "Pink dahlia flower (© Harald Biebel/Getty Images)",
-      "en-CA": "Pink dahlia flower (© Harald Biebel/Getty Images)",
-      "pt-BR": "Dália rosa (© Harald Biebel/Getty Images)",
-      "en-GB": "Pink dahlia flower (© Harald Biebel/Getty Images)",
-      "de-DE": "Rosafarbene Dahlie (© Harald Biebel/Getty Images)",
-      "fr-FR": "Dahlia rose (© Harald Biebel/Getty Images)",
-      "it-IT": "Fiore di Dalia rosa (© Harald Biebel/Getty Images)",
-      "es-ES": "Flor de dalia rosa (© Harald Biebel/Getty Images)",
-      "ja-JP": "ピンクのダリア (© Harald Biebel/Getty Images)",
-      "zh-CN": "粉红色大丽花 (© Harald Biebel/Getty Images)",
-      "en-IN": "Pink dahlia flower (© Harald Biebel/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 14 inches across.",
-      "en-CA": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
-      "en-GB": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
-      "de-DE": "Die Dahlie zählt zu den eindrucksvollsten Zierpflanzen. Sie stammt ursprünglich aus Mexiko und gehört zur Familie der Korbblütler. Bemerkenswert ist ihre enorme Vielfalt: Es existieren Zehntausende Zuchtformen mit ganz unterschiedlichen Blütenformen und -größen. Die Pflanze besitzt eine besondere genetische Struktur, die diese Formenvielfalt begünstigt. Von kleinen, kugelförmigen Blüten bis zu großen, tellerartigen Exemplaren bietet sie ein beeindruckendes Spektrum.",
-      "fr-FR": "Dans un jardin d’été, le dahlia rose capte aussitôt le regard. Originaire du Mexique, cette fleur de la famille des astéracées impose sa présence avec ses pétales ordonnés et ses formes presque infinies. Des variétés miniatures aux fleurs dépassant parfois trente centimètres, le dahlia doit cette diversité à une particularité génétique rare : il possède huit jeux de chromosomes, d’où la richesse de ses couleurs et de ses silhouettes.",
-      "es-ES": "En las dalias, originarias de México, cada flor parece ocupar el centro del escenario con una presencia inconfundible. Con más de 57.000 variedades cultivadas, estas plantas destacan por su asombrosa diversidad de formas y tamaños, con flores que pueden alcanzar unos 35 centímetros de diámetro y una paleta de colores intensa y vibrante.",
-      "ja-JP": "庭を静かに彩る花もあれば、ダリアのように、まるで主役のように目を引く花もあります。ダリアは、メキシコ原産のキク科の植物で、「 8 倍体」と呼ばれる染色体が特徴です。これによって多様な品種が作りやすく、数万にも及ぶ品種が生まれており、様々な色や大きさで花を咲かせます。かつてアステカでは食用や薬として利用され、茎は水を通す道具としても使われていました。1963 年にはメキシコの国花に指定されています。",
-      "en-IN": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
-      "it-IT": "Originarie del Messico, le dalie sembrano nate per essere protagoniste. Esistono oltre 57.000 varietà coltivate, rese possibili dalla loro genetica unica: sono piante ottaploidi, con otto serie di cromosomi, da cui nascono fioriture da piccoli bottoni fino a corolle di 36 cm.",
-      "pt-BR": "A dália parece ter recebido uma instrução simples da natureza: chamar atenção. E levou isso a sério. Vista na imagem, ela exibe camadas de pétalas organizadas com tanta precisão que lembra um origami complexo. Nativa do México, a planta acumula mais de 57 mil variedades cultivadas e oito conjuntos de cromossomos, uma combinação rara que abriu caminho para uma diversidade extraordinária de formas, tamanhos e cores.",
-      "zh-CN": "瓣叠交响. 粉红色大丽花. 有些花卉静谧地装点着花园，而大丽花（Dahlias）的登场则宛如领衔主演。这些原产于墨西哥的菊科（Asteraceae）成员拥有超过5.7万个培育品种，这在很大程度上归功于其独特的遗传特征。大丽花是典型的八倍体（Octoploids），意味着它们拥有八组染色体，这种多倍体特征使其花朵形态极具多样性，既有如纽扣般娇小的品种，也有直径达14英寸的巨型花冠。"
-    },
-    "quickFacts": {
-      "en-US": "One Aztec name for the dahlia, often translated as 'water pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
-      "en-GB": "One Aztec name for the dahlia, often translated as 'water‑pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
-      "en-CA": "One Aztec name for the dahlia, often translated as 'water pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
-      "de-DE": "Einer der aztekischen Namen für die Dahlie, der oft mit „Wasserpfeifenblume“ übersetzt wird, bezieht sich auf die langen, hohlen Stängel der Pflanze, die zum Transport von Wasser verwendet wurden.",
-      "fr-FR": "Un nom aztèque du dahlia, souvent traduit par « fleur tuyau d’eau », fait référence aux longues tiges creuses de la plante, qui étaient utilisées pour transporter l’eau.",
-      "ja-JP": "ダリアの花は、一枚の花びらでできているように見えますが、実は多くの小さな花が集まってできています。",
-      "zh-CN": "大丽花的一个阿兹特克语名称常被译为“水管花”，这源于该植物细长且中空的茎部特征，这种中空茎在古代曾被用作输送水分的管道。",
-      "en-IN": "One Aztec name for the dahlia, often translated as 'water‑pipe flower,' refers to the plant's long, hollow stems, which were used to transport water."
-    },
-    "captions": {
-      "en-US": "Pink dahlia flower",
-      "en-CA": "Pink dahlia flower",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260723_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260723_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=d%c3%a1lia&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0700%22",
+      "en-CA": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=flamingos+americanos&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.PinkDahlia_EN-US1957205704",
-      "en-CA": "/th?id=OHR.PinkDahlia_EN-CA0488598633",
-      "pt-BR": "/th?id=OHR.PinkDahlia_PT-BR7612133818"
+      "en-US": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116",
+      "en-CA": "/th?id=OHR.GalapagosFlamingos_EN-CA4325829188",
+      "pt-BR": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535"
     }
   },
-  "MaraCrossing": {
-    "name": "MaraCrossing",
-    "urlbase": "/th?id=OHR.MaraCrossing_EN-GB8480696688",
-    "date": "20260805",
-    "dateFormatted": "August 05, 2026",
+  "BristolBalloonFiesta2026": {
+    "name": "BristolBalloonFiesta2026",
+    "urlbase": "/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643",
+    "date": "20260806",
+    "dateFormatted": "August 06, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
-      "en-GB": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
-      "de-DE": "Mutprobe am Fluss. Gnus überqueren den Mara-Fluss in der Masai Mara, Kenia",
-      "fr-FR": "La traversée du courage. Gnous migrateurs traversant la rivière Mara, Kenya",
-      "it-IT": "La prova dei coraggiosi",
-      "es-ES": "Un río de valientes. Ñus migratorios cruzando el río Mara en Masai Mara, Kenia",
-      "zh-CN": "生死渡口，勇者的史诗",
-      "en-IN": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
-      "en-US": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
-      "pt-BR": "O efeito manada da coragem. Migração de gnus cruzando o Rio Mara na Reserva Nacional Masai Mara, Quênia"
+      "en-GB": "Up, up and hooray! Bristol International Balloon Fiesta"
     },
     "copyrights": {
-      "en-GB": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
-      "de-DE": "Gnuherden überqueren den Mara-Fluss in der Masai Mara, Kenia (© Manoj Shah/Getty Images)",
-      "fr-FR": "Gnous migrateurs traversant la rivière Mara dans la réserve de Masai Mara, au Kenya (© Manoj Shah/Getty Images)",
-      "it-IT": "Gnu migratori che attraversano il fiume Mara a Masai Mara, Kenya (© Manoj Shah/Getty Images)",
-      "es-ES": "Ñus migratorios cruzando el río Mara en Masai Mara, Kenia (© Manoj Shah/Getty Images)",
-      "zh-CN": "马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)",
-      "en-IN": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
-      "en-US": "© Manoj Shah/Getty Images",
-      "pt-BR": "© Manoj Shah/Getty Images"
+      "en-GB": "Hot air balloons above Bristol city centre, England (© Rich Jones Photography/Moment/Getty Images)"
     },
     "descs": {
-      "en-GB": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel s in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
-      "de-DE": "Im Masai-Mara-Nationalreservat in Kenia zeigt sich jedes Jahr eines der faszinierendsten Naturschauspiele Afrikas. Mehr als eine Million Gnus folgen dem Rhythmus der Regenzeiten, um nährstoffreiches Gras und Wasser zu finden. Die ausdauernden Pflanzenfresser legen dabei weite Strecken durch die Savanne zurück und bilden Herden, die sich oft bis zum Horizont erstrecken. Ein zentrales Ereignis dieser Reise ist die Flussüberquerung. Am Mara-Fluss sammeln sich die Tiere oft lange, prüfen die Situation – und wagen erst im richtigen Moment den Sprung. Wird dieser ausgelöst, setzt eine Kettenreaktion ein: Tausende Gnus drängen gleichzeitig vorwärts und durchqueren das Wasser in wenigen Minuten.",
-      "fr-FR": "Le sol tremble avant même qu’on les voie. Dans le Masai Mara, au Kenya, plus d’un million de gnous convergent vers la rivière Mara, guidés par un instinct ancien, inscrit dans l’espèce. Sur la berge, le troupeau s’accumule, hésite, puis bascule. En quelques secondes, des milliers de corps plongent dans les eaux brunes et rapides dans un fracas de cornes, de sabots et d’éclaboussures.",
-      "es-ES": "En la Reserva Masái Mara, en Kenia, la tierra parece cobrar vida propia. Cada año, más de 1,5 millones de ñus emprenden una de las travesías más espectaculares del planeta: la Gran Migración, un ciclo imparable impulsado por la búsqueda de hierba fresca y agua renovada por las lluvias estacionales. Junto a ellos viajan cebras y gacelas, formando una marea de vida que transforma el paisaje africano.",
-      "en-IN": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
-      "en-US": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
-      "it-IT": "A Masai Mara, in Kenya, il suolo sembra prendere vita. Un'onda di gnu — erbivori resistenti costruiti per la distanza — avanza in branchi compatti verso le rive del fiume Mara, richiamati dall'erba fresca nata con le piogge stagionali. Poi, all'improvviso, il salto: corni in avanti, corpi che si scontrano, spruzzi che esplodono mentre il branco si lancia attraverso le correnti vorticose.",
-      "pt-BR": "Quase dá pra sentir a terra tremer. Na cena de hoje, milhares de gnus hesitam às margens do Rio Mara, no Quênia. Mas a pausa dura pouco. Um salto, depois outro, e logo a margem desaba em uma corrente viva de cascos, poeira e respingos. Este é um dos momentos mais eletrizantes da maior migração terrestre do planeta. Todo ano, mais de 1 milhão de gnus, zebras e gazelas cruzam centenas de quilômetros entre o Serengeti, na Tanzânia, e o Masai Mara, no Quênia, atrás de pastagens mais verdes.",
-      "zh-CN": "生死渡口，勇者的史诗. 马赛马拉迁徙的角马群横渡马拉河, 肯尼亚. 在肯尼亚的马赛马拉，大地仿佛在移动。成群结队的角马——这种拥有极强耐力的蹄类食草动物——在季节性降雨滋润出的鲜嫩青草与水源的吸引下，浩浩荡荡地迁徙着。"
+      "en-GB": "It all started with an idea shared over a pint. Today, that conversation has grown into Europe's largest annual hot air balloon festival. Every summer, the Bristol International Balloon Fiesta fills the skies above Ashton Court Estate with more than 100 colourful balloons, attracting over half a million visitors."
     },
-    "quickFacts": {
-      "en-US": "Weighing as much as 600 pounds, adult wildebeests rank among the larger herbivorous antelope species.",
-      "en-GB": "Weighing as much as 275 kilograms, adult wildebeests rank among the larger herbivorous antelope species.",
-      "de-DE": "Mit einem Gewicht von bis zu 270 Kilo zählen erwachsene Gnus zu den größeren pflanzenfressenden Antilopenarten.",
-      "fr-FR": "Pesant jusqu'à 270 kg, les gnous adultes comptent parmi les plus grandes espèces d'antilopes herbivores.",
-      "zh-CN": "成年角马体重可达600磅，属于体型较大的食草性羚羊。",
-      "en-IN": "Weighing as much as 275 kilograms, adult wildebeests rank among the larger herbivorous antelope species."
-    },
+    "quickFacts": {},
     "captions": {
-      "en-GB": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
-      "de-DE": "Gnus überqueren den Mara-Fluss in der Masai Mara, Kenia",
-      "fr-FR": "Gnous migrateurs traversant la rivière Mara, Kenya",
-      "it-IT": "",
-      "es-ES": "Ñus migratorios cruzando el río Mara en Masai Mara, Kenia",
-      "zh-CN": "",
-      "en-IN": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya"
+      "en-GB": "Bristol International Balloon Fiesta"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Wildebeest&form=hpcapt&filters=HpDate%3a%2220260805_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Gnus&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=gnou&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lo+Gnu&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=%c3%91u+animal&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a7%92%e9%a9%ac&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Wildebeest&form=hpcapt&filters=HpDate%3a%2220260805_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Bristol+International+Balloon+Fiesta&form=hpcapt&filters=HpDate%3a%2220260806_2300%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.MaraCrossing_EN-GB8480696688",
-      "de-DE": "/th?id=OHR.MaraCrossing_DE-DE5747320047",
-      "fr-FR": "/th?id=OHR.MaraCrossing_FR-FR8762325537",
-      "it-IT": "/th?id=OHR.MaraCrossing_IT-IT0069962871",
-      "es-ES": "/th?id=OHR.MaraCrossing_ES-ES3801561108",
-      "zh-CN": "/th?id=OHR.MaraCrossing_ZH-CN8816902094",
-      "en-IN": "/th?id=OHR.MaraCrossing_EN-IN3635876531"
+      "en-GB": "/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643"
     }
   },
   "BrightonPride2026": {
@@ -1935,6 +1832,114 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.BrightonPride2026_EN-GB6665333938"
+    }
+  },
+  "EDMFolkFest": {
+    "name": "EDMFolkFest",
+    "urlbase": "/th?id=OHR.EDMFolkFest_EN-CA4302918547",
+    "date": "20260806",
+    "dateFormatted": "August 06, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Meet me on the hill. Edmonton Folk Festival"
+    },
+    "copyrights": {
+      "en-CA": "Edmonton at night, Alberta (© Tetyana Babiy/iStock/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "The best seats don't have seat numbers. They start with a blanket spread out on the hill and someone nearby trying to guess the first song of the evening while sharing snacks. Sound familiar? It must be Folk Fest. From today until 9 August, Gallagher Park once again becomes a gathering place for Edmonton music lovers. What keeps people coming back year after year? It's rarely just one artist. Across the festival's stages, musicians perform solo sets, then join others for workshop sessions that create one-off collaborations."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "Edmonton Folk Festival"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Edmonton+Folk+Festival&form=hpcapt&filters=HpDate%3a%2220260806_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.EDMFolkFest_EN-CA4302918547"
+    }
+  },
+  "LimeKiln": {
+    "name": "LimeKiln",
+    "urlbase": "/th?id=OHR.LimeKiln_DE-DE5407156308",
+    "date": "20260806",
+    "dateFormatted": "August 06, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "de-DE": "Schiffe durch die Geschichte führen. Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
+      "es-ES": "Guiando a lo largo de la historia. Día Mundial de los Faros",
+      "ja-JP": "今日は米国灯台の日",
+      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国",
+      "en-US": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington State",
+      "en-CA": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington state, United States",
+      "pt-BR": "Uma luz no fim do oceano. Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos"
+    },
+    "copyrights": {
+      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+      "es-ES": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
+      "ja-JP": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
+      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)",
+      "en-US": "© Edmund Lowe Photography/Shutterstock",
+      "en-CA": "© Edmund Lowe Photography/Shutterstock",
+      "pt-BR": "© Edmund Lowe Photography/Shutterstock"
+    },
+    "descs": {
+      "de-DE": "Der Lime Kiln Lighthouse steht an der Westküste von San Juan Island im US-Bundesstaat Washington. Er gehört zu den bekanntesten Leuchttürmen der Region und blickt auf die stark befahrene Haro Strait. Seit seiner Inbetriebnahme unterstützt er die sichere Navigation von Schiffen, die zwischen den Vereinigten Staaten und Kanada verkehren. Das weiße Gebäude mit seinem markanten Turm fügt sich harmonisch in die felsige Küstenlandschaft ein und ist ein beliebtes Fotomotiv.",
+      "es-ES": "El Faro Lime Kiln, encendido por primera vez el 30 de junio de 1919 sobre la roca viva de la isla San Juan, en Washington, EE. UU., sigue lanzando su destello blanco sobre el estrecho de Haro con la misma fiabilidad que el primer día. Cada 7 de agosto, el Día Mundial de los Faros conmemora la Ley de Faros de 1789, firmada por George Washington.",
+      "ja-JP": "今日 8 月 7 日は米国灯台の日。ジョージ・ワシントン大統領の署名によって 1789 年に成立した「灯台法」を記念して制定された日であり、灯台の歴史と役割をたたえる日です。そして画像は、米国ワシントン州のサンファン島にあるライム・キルン灯台。1919 年に建設され、現在も船舶を導き続けています。航行技術の発展とともに進化を続けてきた灯台は、歴史的建造物や絶景スポットとしても親しまれながら、今もなお、安全と不屈の精神、そして大海原への冒険を象徴する存在であり続けています。",
+      "en-US": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
+      "en-CA": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
+      "pt-BR": "Quando o céu escurece e o mar perde as referências, uma luz piscando vale mais do que qualquer mapa. Na imagem, o Farol de Lime Kiln, na Ilha San Juan, Estados Unidos, guia, desde 1919, cargueiros, balsas e barcos por uma das rotas marítimas mais movimentadas do noroeste do Pacífico.",
+      "zh-CN": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。"
+    },
+    "quickFacts": {
+      "zh-CN": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
+    },
+    "captions": {
+      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
+      "es-ES": "Día Mundial de los Faros",
+      "ja-JP": "今日は米国灯台の日",
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Leuchtturm+Lime+Kiln+Wanderungen&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Faros&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e7%81%af%e5%8f%b0%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260806_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%9f%b3%e7%81%b0%e7%aa%91%e7%81%af%e5%a1%94&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.LimeKiln_DE-DE5407156308",
+      "es-ES": "/th?id=OHR.LimeKiln_ES-ES1360502485",
+      "ja-JP": "/th?id=OHR.LimeKiln_JA-JP2506397292",
+      "zh-CN": "/th?id=OHR.LimeKiln_ZH-CN5664152522"
     }
   },
   "BearBavaria": {
@@ -2001,6 +2006,62 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.PrideBerlin_DE-DE3369611592"
+    }
+  },
+  "WildlifeCrossingPoland": {
+    "name": "WildlifeCrossingPoland",
+    "urlbase": "/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013",
+    "date": "20260806",
+    "dateFormatted": "August 06, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Tracé pour la nature. Un écopont près de Zakrzów, Pologne",
+      "en-GB": "Built for paws, not people. Aerial view of a wildlife crossing near Zakrzów, Poland",
+      "de-DE": "Für Pfoten gebaut. Luftaufnahme einer Grünbrücke bei Zakrzów, Polen",
+      "it-IT": "Progettato per gli animali. Veduta aerea di un passaggio faunistico vicino a Zakrzów, Polonia",
+      "es-ES": "Hecho para patas, no para personas. Vista aérea de un ecoducto cerca de Zakrzów, Polonia",
+      "zh-CN": "扎克舒夫附近的野生动物通道，波兰",
+      "en-IN": "Built for paws, not people. Aerial view of a wildlife crossing near Zakrzów, Poland"
+    },
+    "copyrights": {
+      "fr-FR": "Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images)",
+      "en-GB": "© bbsferrari/Getty Images",
+      "de-DE": "© bbsferrari/Getty Images",
+      "it-IT": "© bbsferrari/Getty Images",
+      "es-ES": "© bbsferrari/Getty Images",
+      "zh-CN": "© bbsferrari/Getty Images",
+      "en-IN": "© bbsferrari/Getty Images"
+    },
+    "descs": {
+      "fr-FR": "Les routes ont transformé notre rapport aux distances, rapprochant les villes et accélérant notre rythme de vie. Mais sous ce progrès, une fragmentation s’est installée dans les paysages. Les forêts, prairies et montagnes, autrefois continues, se sont retrouvées morcelées, les sentiers rompus. Cerfs, renards et ours ont continué d’emprunter ces routes invisibles, croisant désormais l’asphalte et le danger. Collisions, isolement génétique, disparition silencieuse : les conséquences se sont accumulées au fil des décennies.",
+      "en-GB": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
+      "de-DE": "Die Luftaufnahme zeigt eine Grünbrücke bei Zakrzów in Polen, die eine stark befahrene Verkehrsachse überspannt. Solche Bauwerke verbinden Lebensräume, die durch Straßen und Autobahnen voneinander getrennt wurden. Für viele Tierarten schaffen sie sichere Wege zwischen Futtergebieten, Rückzugsorten und Wanderkorridoren. Dadurch sinkt nicht nur das Risiko von Wildunfällen, sondern auch die Gefahr, dass Populationen durch die Zerschneidung ihrer Lebensräume isoliert werden. Grünbrücken gelten heute als wichtiger Bestandteil moderner Naturschutzmaßnahmen.",
+      "it-IT": "Le strade hanno risolto un problema creandone silenziosamente un altro: mentre le persone viaggiavano più veloce che mai, la fauna selvatica si trovava di fronte ad autostrade che tagliavano in due i territori percorsi per generazioni. La risposta è arrivata sotto forma di ecodotto — ponti o tunnel progettati per permettere agli animali di attraversare le vie di traffico in sicurezza — e i primi esempi moderni comparvero in Francia negli anni Cinquanta, diffondendosi poi in tutta Europa.",
+      "es-ES": "Las carreteras resolvieron un problema y crearon otro sin querer: mientras las personas viajaban más rápido que nunca, la fauna silvestre veía cómo las autopistas partían en dos los territorios que había recorrido durante generaciones. La respuesta llegó en forma de ecoducto —puentes o túneles diseñados para que los animales crucen las vías de tráfico con seguridad— y los primeros ejemplos modernos surgieron precisamente en Francia durante los años cincuenta, extendiéndose después por toda Europa.",
+      "zh-CN": "道路解决了一个问题，却悄然制造了另一个问题。人类出行速度前所未有地提高，野生动物世代沿用的迁徙路线却被公路切断，导致碰撞事故增加、栖息地破碎化，野生动物种群彼此隔绝。为应对这一挑战，人们建造了称为生态桥的野生动物通道：这些桥梁或隧道旨在重新连接栖息地，让动物安全穿越繁忙道路。最早的一些现代案例于20世纪50年代出现在法国，这一理念很快传遍欧洲。荷兰等国通过建造覆盖土壤及草本、灌木和乔木等本土植被的宽阔绿色桥梁，推动了生态桥设计的完善。",
+      "en-IN": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape."
+    },
+    "quickFacts": {
+      "en-GB": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "de-DE": "In Frankreich entstanden die ersten Grünbrücken in den 1950er Jahren. Sie ermöglichten Tieren die Durchquerung von Landschaften, die durch neue Straßen zerschnitten worden waren.",
+      "fr-FR": "Les écoducs permettent aux animaux de traverser les routes sans danger, mais aussi de rompre l’isolement et d’échanger leurs gènes, préservant ainsi la biodiversité.",
+      "zh-CN": "20世纪50年代，法国首次出现了野生动物通道，为动物们在被公路分割的新景观中开辟了一条生路。",
+      "en-IN": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads."
+    },
+    "captions": {
+      "fr-FR": "Un écopont près de Zakrzów, Pologne"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=%c3%a9copont+faune&form=hpcapt&filters=HpDate%3a%2220260806_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013"
     }
   },
   "SeaStacks": {
@@ -2099,6 +2160,38 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.VerdonKayaks_FR-FR6935931270"
+    }
+  },
+  "CabilaoClowns": {
+    "name": "CabilaoClowns",
+    "urlbase": "/th?id=OHR.CabilaoClowns_IT-IT2689259702",
+    "date": "20260806",
+    "dateFormatted": "August 06, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Pronti per i festeggiamenti"
+    },
+    "copyrights": {
+      "it-IT": "Pesci pagliaccio in un anemone di mare, isola di Cabilao, Bohol, Filippine (© Franco Banfi/Nature Picture Library)"
+    },
+    "descs": {
+      "it-IT": "Nelle acque della barriera corallina dell'isola di Cabilao, a Bohol, nelle Filippine, i pesci pagliaccio hanno trovato la casa definitiva: un anemone di mare armato di migliaia di cellule urticanti microscopiche, in grado di tenere lontano qualsiasi intruso. Per la maggior parte dei pesci, avvicinarsi a un anemone equivale a entrare in un campo minato; per questi piccoli abitanti dai colori vivaci, è semplicemente il loro indirizzo di casa."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Pesci+pagliaccio&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.CabilaoClowns_IT-IT2689259702"
     }
   },
   "IsoleEolie": {
@@ -2476,6 +2569,38 @@
       "ja-JP": "/th?id=OHR.KaysersbergVillage_JA-JP4774929635"
     }
   },
+  "ValleyDreams": {
+    "name": "ValleyDreams",
+    "urlbase": "/th?id=OHR.ValleyDreams_EN-IN0485781632",
+    "date": "20260806",
+    "dateFormatted": "August 06, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
+    },
+    "copyrights": {
+      "en-IN": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)"
+    },
+    "descs": {
+      "en-IN": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-IN": "Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260806_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.ValleyDreams_EN-IN0485781632"
+    }
+  },
   "GuruPurnima2026": {
     "name": "GuruPurnima2026",
     "urlbase": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905",
@@ -2506,6 +2631,93 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "PinkDahlia": {
+    "name": "PinkDahlia",
+    "urlbase": "/th?id=OHR.PinkDahlia_EN-US1957205704",
+    "date": "20260723",
+    "dateFormatted": "July 23, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "A symphony of petals. Pink dahlia flower",
+      "en-CA": "A symphony of petals. Pink dahlia flower",
+      "pt-BR": "Um universo em flor",
+      "en-GB": "A symphony of petals. Pink dahlia flower",
+      "de-DE": "Was ist eine Wasserpfeifenblume?. Rosafarbene Dahlie",
+      "fr-FR": "La symphonie des pétales. Dahlia rose",
+      "it-IT": "Una sinfonia di petali",
+      "es-ES": "Una sinfonía de pétalos. Flor de dalia rosa",
+      "ja-JP": "華やかに開くダリアの花びら",
+      "zh-CN": "瓣叠交响",
+      "en-IN": "A symphony of petals. Pink dahlia flower"
+    },
+    "copyrights": {
+      "en-US": "Pink dahlia flower (© Harald Biebel/Getty Images)",
+      "en-CA": "Pink dahlia flower (© Harald Biebel/Getty Images)",
+      "pt-BR": "Dália rosa (© Harald Biebel/Getty Images)",
+      "en-GB": "Pink dahlia flower (© Harald Biebel/Getty Images)",
+      "de-DE": "Rosafarbene Dahlie (© Harald Biebel/Getty Images)",
+      "fr-FR": "Dahlia rose (© Harald Biebel/Getty Images)",
+      "it-IT": "Fiore di Dalia rosa (© Harald Biebel/Getty Images)",
+      "es-ES": "Flor de dalia rosa (© Harald Biebel/Getty Images)",
+      "ja-JP": "ピンクのダリア (© Harald Biebel/Getty Images)",
+      "zh-CN": "粉红色大丽花 (© Harald Biebel/Getty Images)",
+      "en-IN": "Pink dahlia flower (© Harald Biebel/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 14 inches across.",
+      "en-CA": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
+      "en-GB": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
+      "de-DE": "Die Dahlie zählt zu den eindrucksvollsten Zierpflanzen. Sie stammt ursprünglich aus Mexiko und gehört zur Familie der Korbblütler. Bemerkenswert ist ihre enorme Vielfalt: Es existieren Zehntausende Zuchtformen mit ganz unterschiedlichen Blütenformen und -größen. Die Pflanze besitzt eine besondere genetische Struktur, die diese Formenvielfalt begünstigt. Von kleinen, kugelförmigen Blüten bis zu großen, tellerartigen Exemplaren bietet sie ein beeindruckendes Spektrum.",
+      "fr-FR": "Dans un jardin d’été, le dahlia rose capte aussitôt le regard. Originaire du Mexique, cette fleur de la famille des astéracées impose sa présence avec ses pétales ordonnés et ses formes presque infinies. Des variétés miniatures aux fleurs dépassant parfois trente centimètres, le dahlia doit cette diversité à une particularité génétique rare : il possède huit jeux de chromosomes, d’où la richesse de ses couleurs et de ses silhouettes.",
+      "es-ES": "En las dalias, originarias de México, cada flor parece ocupar el centro del escenario con una presencia inconfundible. Con más de 57.000 variedades cultivadas, estas plantas destacan por su asombrosa diversidad de formas y tamaños, con flores que pueden alcanzar unos 35 centímetros de diámetro y una paleta de colores intensa y vibrante.",
+      "ja-JP": "庭を静かに彩る花もあれば、ダリアのように、まるで主役のように目を引く花もあります。ダリアは、メキシコ原産のキク科の植物で、「 8 倍体」と呼ばれる染色体が特徴です。これによって多様な品種が作りやすく、数万にも及ぶ品種が生まれており、様々な色や大きさで花を咲かせます。かつてアステカでは食用や薬として利用され、茎は水を通す道具としても使われていました。1963 年にはメキシコの国花に指定されています。",
+      "en-IN": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
+      "it-IT": "Originarie del Messico, le dalie sembrano nate per essere protagoniste. Esistono oltre 57.000 varietà coltivate, rese possibili dalla loro genetica unica: sono piante ottaploidi, con otto serie di cromosomi, da cui nascono fioriture da piccoli bottoni fino a corolle di 36 cm.",
+      "pt-BR": "A dália parece ter recebido uma instrução simples da natureza: chamar atenção. E levou isso a sério. Vista na imagem, ela exibe camadas de pétalas organizadas com tanta precisão que lembra um origami complexo. Nativa do México, a planta acumula mais de 57 mil variedades cultivadas e oito conjuntos de cromossomos, uma combinação rara que abriu caminho para uma diversidade extraordinária de formas, tamanhos e cores.",
+      "zh-CN": "瓣叠交响. 粉红色大丽花. 有些花卉静谧地装点着花园，而大丽花（Dahlias）的登场则宛如领衔主演。这些原产于墨西哥的菊科（Asteraceae）成员拥有超过5.7万个培育品种，这在很大程度上归功于其独特的遗传特征。大丽花是典型的八倍体（Octoploids），意味着它们拥有八组染色体，这种多倍体特征使其花朵形态极具多样性，既有如纽扣般娇小的品种，也有直径达14英寸的巨型花冠。"
+    },
+    "quickFacts": {
+      "en-US": "One Aztec name for the dahlia, often translated as 'water pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
+      "en-GB": "One Aztec name for the dahlia, often translated as 'water‑pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
+      "en-CA": "One Aztec name for the dahlia, often translated as 'water pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
+      "de-DE": "Einer der aztekischen Namen für die Dahlie, der oft mit „Wasserpfeifenblume“ übersetzt wird, bezieht sich auf die langen, hohlen Stängel der Pflanze, die zum Transport von Wasser verwendet wurden.",
+      "fr-FR": "Un nom aztèque du dahlia, souvent traduit par « fleur tuyau d’eau », fait référence aux longues tiges creuses de la plante, qui étaient utilisées pour transporter l’eau.",
+      "ja-JP": "ダリアの花は、一枚の花びらでできているように見えますが、実は多くの小さな花が集まってできています。",
+      "zh-CN": "大丽花的一个阿兹特克语名称常被译为“水管花”，这源于该植物细长且中空的茎部特征，这种中空茎在古代曾被用作输送水分的管道。",
+      "en-IN": "One Aztec name for the dahlia, often translated as 'water‑pipe flower,' refers to the plant's long, hollow stems, which were used to transport water."
+    },
+    "captions": {
+      "en-US": "Pink dahlia flower",
+      "en-CA": "Pink dahlia flower",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260723_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260723_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=d%c3%a1lia&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PinkDahlia_EN-US1957205704",
+      "en-CA": "/th?id=OHR.PinkDahlia_EN-CA0488598633",
+      "pt-BR": "/th?id=OHR.PinkDahlia_PT-BR7612133818"
     }
   },
   "CoralAwareness": {
@@ -3164,8 +3376,11 @@
       "fr-FR": "Faites un vœu !. Perséides au-dessus de l’observatoire du Teide, Tenerife, Espagne",
       "it-IT": "Esprimere un desiderio!. Meteore delle Perseidi sopra l'Osservatorio del Teide, Tenerife, Spagna",
       "ja-JP": "ペルセウス座流星群が輝く夜空. テイデ天文台, スペイン",
-      "zh-CN": "许个愿吧. 泰德天文台上空的英仙座流星，加那利群岛，西班牙",
-      "en-IN": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain"
+      "zh-CN": "泰德天文台上空的英仙座流星，加那利群岛，西班牙",
+      "en-IN": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
+      "en-US": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
+      "en-CA": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
+      "pt-BR": "Desejos à velocidade da luz. Meteoros Perseidas sobre o Observatório do Teide, Tenerife, Espanha"
     },
     "copyrights": {
       "es-ES": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)",
@@ -3175,7 +3390,10 @@
       "it-IT": "© Westend61/Getty Images",
       "ja-JP": "© Westend61/Getty Images",
       "zh-CN": "© Westend61/Getty Images",
-      "en-IN": "© Westend61/Getty Images"
+      "en-IN": "© Westend61/Getty Images",
+      "en-US": "© Westend61/Getty Images",
+      "en-CA": "© Westend61/Getty Images",
+      "pt-BR": "© Westend61/Getty Images"
     },
     "descs": {
       "es-ES": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo.",
@@ -3184,8 +3402,11 @@
       "fr-FR": "Chaque été, un spectacle fascinant se déroule au-dessus de nos têtes. De la mi-juillet à la fin août, les Perséides fendent le ciel nocturne, atteignant leur apogée autour du 12 et 13 août. Sous un ciel dégagé et préservé des lumières artificielles, des dizaines d’étoiles filantes peuvent être observées en une seule heure. Chacune d’elles est en réalité une minuscule particule laissée par la comète Swift-Tuttle sur son orbite, que la Terre croise chaque année. Les météores semblent surgir de la constellation de Persée, qui a donné son nom à cette pluie d’étoiles filantes.",
       "it-IT": "Non tutte le tradizioni estive si vivono sulla spiaggia. Alcune si svolgono a centinaia di chilometri sopra le nostre teste, una meteora alla volta: le Perseidi tornano ogni anno tra metà luglio e fine agosto, raggiungendo il picco attorno al 12-13 agosto. L'immagine è scattata sopra l'Osservatorio del Teide a Tenerife, in Spagna, situato a 2.390 metri di altitudine — abbastanza in alto da lasciarsi il mare di nuvole sotto i piedi.",
       "ja-JP": "三大流星群の一つであるペルセウス座流星群が見頃を迎えています。多くの流星が流れると予想されるのは 8 月 12 日の夜から 13 日の未明と、13 日夜から 14 日の未明です。特に、本日 13 日は新月で月明かりの影響がないため、星空観察には好条件の日となっています。そして画像は、スペインのテイデ国立公園にあるテイデ天文台で以前撮影されたペルセウス座流星群。テイデ国立公園は、標高約 2400m の高地にあり、澄んだ空気と光害の少ない環境から、世界有数の天体観測地として知られています。",
-      "zh-CN": "许个愿吧. 泰德天文台上空的英仙座流星，加那利群岛，西班牙. 并非所有夏日传统都发生在地面。有些在数百英里高空上演，每次划过一颗流星。英仙座流星雨每年从7月中旬持续至8月下旬，并在8月12日至13日前后达到峰值。世界大部分地区都能看到它；在黑暗天空下，每小时往往会出现数十颗流星。想象自己抬头仰望，一道接一道亮光划过。数到多少颗时，你会忘记数目？每道亮光都来自斯威夫特-塔特尔彗星散落的碎屑，地球穿过其尘埃带时便形成流星。它们看起来像是从英仙座辐射而出。",
-      "en-IN": "Not every summer tradition happens on the ground. Some unfold hundreds of miles overhead, one meteor at a time. The Perseids return each year from mid-July through late August, peaking around 12-13 August, when as many as 100 meteors an hour can streak across dark skies. Each meteor is a tiny fragment left behind by Comet Swift–Tuttle as Earth passes through its dust trail, appearing to radiate from the constellation Perseus. In Spain, the display is affectionately known as Lágrimas de San Lorenzo ('Tears of Saint Lawrence')."
+      "zh-CN": "并非所有夏日传统都发生在地面。有些在数百英里高空上演，每次划过一颗流星。英仙座流星雨每年从7月中旬持续至8月下旬，并在8月12日至13日前后达到峰值。世界大部分地区都能看到它；在黑暗天空下，每小时往往会出现数十颗流星。想象自己抬头仰望，一道接一道亮光划过。数到多少颗时，你会忘记数目？每道亮光都来自斯威夫特-塔特尔彗星散落的碎屑，地球穿过其尘埃带时便形成流星。它们看起来像是从英仙座辐射而出。",
+      "en-IN": "Not every summer tradition happens on the ground. Some unfold hundreds of miles overhead, one meteor at a time. The Perseids return each year from mid-July through late August, peaking around 12-13 August, when as many as 100 meteors an hour can streak across dark skies. Each meteor is a tiny fragment left behind by Comet Swift–Tuttle as Earth passes through its dust trail, appearing to radiate from the constellation Perseus. In Spain, the display is affectionately known as Lágrimas de San Lorenzo ('Tears of Saint Lawrence').",
+      "en-US": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around August 12-13. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
+      "en-CA": "Not every summer tradition happens on the ground. Some take place hundreds of kilometres overhead, one meteor at a time. The Perseids return every year from mid-July through late August, usually peaking around August 12–13. Visible across much of the world, they can produce dozens of meteors per hour under dark, clear skies. Each streak is a tiny fragment of debris left behind by Comet Swift–Tuttle as Earth moves through its dust trail, appearing to radiate from the constellation Perseus. In Canada, dark-sky destinations such as Jasper National Park in Alberta and Torrance Barrens Dark-Sky Preserve in Ontario are among the best places to enjoy the annual display.",
+      "pt-BR": "Tem noites em que o céu parece gastar todo o seu estoque de efeitos especiais. Entre julho e agosto, a Terra atravessa a trilha de detritos deixada pelo cometa Swift-Tuttle, dando origem à chuva de meteoros Perseidas, que atinge o auge por volta de 12 e 13 de agosto. E sabia que não são estrelas cadentes? Cada risco luminoso é um pequeno fragmento de rocha e poeira que incandesce ao atravessar a atmosfera a dezenas de quilômetros por segundo."
     },
     "quickFacts": {
       "zh-CN": "作为英仙座流星雨母体的斯威夫特-塔特尔彗星，绕太阳运行一周约需133年。"
