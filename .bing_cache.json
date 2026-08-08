@@ -1,4 +1,104 @@
 {
+  "LimeKiln": {
+    "name": "LimeKiln",
+    "urlbase": "/th?id=OHR.LimeKiln_EN-US2748515593",
+    "date": "20260807",
+    "dateFormatted": "August 07, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "en-US": "Guiding ships through history. National Lighthouse Day",
+      "en-CA": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington state",
+      "de-DE": "Schiffe durch die Geschichte führen. Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
+      "es-ES": "Guiando a lo largo de la historia. Día Mundial de los Faros",
+      "pt-BR": "Uma luz no fim do oceano",
+      "ja-JP": "今日は米国灯台の日",
+      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国"
+    },
+    "copyrights": {
+      "en-US": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
+      "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
+      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+      "es-ES": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
+      "pt-BR": "Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos (© Edmund Lowe Photography/Shutterstock)",
+      "ja-JP": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
+      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
+      "en-CA": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
+      "de-DE": "Der Lime Kiln Lighthouse steht an der Westküste von San Juan Island im US-Bundesstaat Washington. Er gehört zu den bekanntesten Leuchttürmen der Region und blickt auf die stark befahrene Haro Strait. Seit seiner Inbetriebnahme unterstützt er die sichere Navigation von Schiffen, die zwischen den Vereinigten Staaten und Kanada verkehren. Das weiße Gebäude mit seinem markanten Turm fügt sich harmonisch in die felsige Küstenlandschaft ein und ist ein beliebtes Fotomotiv.",
+      "es-ES": "El Faro Lime Kiln, encendido por primera vez el 30 de junio de 1919 sobre la roca viva de la isla San Juan, en Washington, EE. UU., sigue lanzando su destello blanco sobre el estrecho de Haro con la misma fiabilidad que el primer día. Cada 7 de agosto, el Día Mundial de los Faros conmemora la Ley de Faros de 1789, firmada por George Washington.",
+      "ja-JP": "今日 8 月 7 日は米国灯台の日。ジョージ・ワシントン大統領の署名によって 1789 年に成立した「灯台法」を記念して制定された日であり、灯台の歴史と役割をたたえる日です。そして画像は、米国ワシントン州のサンファン島にあるライム・キルン灯台。1919 年に建設され、現在も船舶を導き続けています。航行技術の発展とともに進化を続けてきた灯台は、歴史的建造物や絶景スポットとしても親しまれながら、今もなお、安全と不屈の精神、そして大海原への冒険を象徴する存在であり続けています。",
+      "pt-BR": "Quando o céu escurece e o mar perde as referências, uma luz piscando vale mais do que qualquer mapa. Na imagem, o Farol de Lime Kiln, na Ilha San Juan, Estados Unidos, guia, desde 1919, cargueiros, balsas e barcos por uma das rotas marítimas mais movimentadas do noroeste do Pacífico.",
+      "zh-CN": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。"
+    },
+    "quickFacts": {
+      "zh-CN": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
+    },
+    "captions": {
+      "en-US": "National Lighthouse Day",
+      "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state",
+      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
+      "es-ES": "Día Mundial de los Faros",
+      "pt-BR": "",
+      "ja-JP": "今日は米国灯台の日",
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Lighthouse+Day&form=hpcapt&filters=HpDate%3a%2220260807_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Lime+Kiln+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260807_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Leuchtturm+Lime+Kiln+Wanderungen&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Faros&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Farol+de+Lime+Kiln+nos+EUA&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e7%81%af%e5%8f%b0%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260806_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%9f%b3%e7%81%b0%e7%aa%91%e7%81%af%e5%a1%94&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LimeKiln_EN-US2748515593",
+      "en-CA": "/th?id=OHR.LimeKiln_EN-CA4364402853",
+      "de-DE": "/th?id=OHR.LimeKiln_DE-DE5407156308",
+      "es-ES": "/th?id=OHR.LimeKiln_ES-ES1360502485",
+      "pt-BR": "/th?id=OHR.LimeKiln_PT-BR0696520524",
+      "ja-JP": "/th?id=OHR.LimeKiln_JA-JP2506397292",
+      "zh-CN": "/th?id=OHR.LimeKiln_ZH-CN5664152522"
+    }
+  },
   "MaraCrossing": {
     "name": "MaraCrossing",
     "urlbase": "/th?id=OHR.MaraCrossing_EN-US8682968377",
@@ -750,7 +850,7 @@
       "en-CA": "The power of Kīlauea. Lava flows spill into the ocean on Big Island, Hawaii, USA",
       "de-DE": "Die Kraft des Kīlauea. Lavaströme münden ins Meer, Big Island, Hawaii, USA",
       "it-IT": "Il potere di Kīlauea",
-      "zh-CN": "大批熔岩流涌入大洋，大岛，夏威夷州，美国",
+      "zh-CN": "基拉韦厄火山的威力",
       "en-IN": "The power of Kīlauea. Big Island, Hawaii, United States"
     },
     "copyrights": {
@@ -1566,19 +1666,89 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
+      "en-CA": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
+      "it-IT": "Gli archi nascosti della Galizia",
+      "pt-BR": "O templo construído pelo mar",
+      "en-GB": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
+      "fr-FR": "Les arches cachées de la Galice. Plage des Cathédrales, Galice, Espagne",
+      "es-ES": "La sinfonía de las olas. Día de Galicia",
+      "ja-JP": "干潮に現れる奇岩海岸",
+      "zh-CN": "加境幽廊",
+      "en-IN": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain"
+    },
+    "copyrights": {
+      "en-US": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "en-CA": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "it-IT": "Spiaggia delle Cattedrali, Galizia, Spagna (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "pt-BR": "Praia das Catedrais, Galícia, Espanha (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "en-GB": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "fr-FR": "Plage des Cathédrales, Galice, Espagne (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "es-ES": "Playa de las Catedrales, Galicia, España (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "ja-JP": "カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "zh-CN": "大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+      "en-IN": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)"
+    },
+    "descs": {
+      "en-US": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets, and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+      "en-CA": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+      "en-GB": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill towards the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+      "fr-FR": "À l’extrême nord‑ouest de l’Espagne, la Galice déploie ses falaises sombres face au golfe de Gascogne. Là, près de Ribadeo, l’océan a sculpté dans la roche ce que l’architecture gothique n’a fait qu’évoquer : des arches immenses, des voûtes ouvertes au ciel, des nefs de pierre traversées par la lumière atlantique. La plage des Cathédrales porte son nom avec une gravité méritée.",
+      "es-ES": "El norte de Galicia guarda uno de los rincones más impresionantes del litoral español: la Playa de las Catedrales, en Ribadeo, donde el Atlántico ha esculpido durante milenios una arquitectura de piedra que rivaliza con cualquier catedral gótica. Con arcos naturales que alcanzan los treinta metros de altura, esta franja de costa transforma el concepto mismo de playa en algo cercano a lo sublime. Solo con la marea baja el mar se retira lo suficiente para revelar este laberinto de bóvedas, columnas y covachas talladas por las olas.",
+      "ja-JP": "スペインのガリシア州は大西洋に面しており、その海岸線には、長い年月をかけて形成された断崖や入り江、波の浸食作用によって削り取られた波食台地が連なっています。そして、今日の画像は、ガリシア州北部に位置するカテドラル・ビーチ（プライア・ダス・カテドライス）の干潮時の姿。高さ 30m を誇る粘板岩と珪岩のアーチが大聖堂（カテドラル）を思わせることが名前の由来です。干潮時という限られた時間帯にのみ、海食によって形成された岩のアーチの間を歩くことができます。",
+      "en-IN": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill towards the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+      "it-IT": "Nel remoto angolo nord-occidentale della Spagna, la Galizia incontra l'Atlantico con forza: scogliere scolpite dal mare, insenature nascoste e formazioni rocciose che emergono solo quando la marea si ritira. La Spiaggia delle Cattedrali, vicino a Ribadeo, deve il suo nome agli archi monumentali modellati dall'oceano nel corso dei millenni — architetture naturali che ricordano le navate di una cattedrale gotica.",
+      "pt-BR": "Na Espanha, existe uma praia em que o principal ponto turístico passa parte do dia submerso. Nossa imagem de hoje mostra um cenário que só existe quando a maré baixa: arcos monumentais, corredores de pedra e grutas moldados pelo Atlântico por incontáveis ciclos de ondas, vento e sal.",
+      "zh-CN": "加境幽廊. 大教堂海滩，加利西亚，西班牙. 在西班牙遥远的西北部，加利西亚与大西洋交汇。漫长的海岸线在海浪的强力冲刷下，形成了由悬崖、内湾和海蚀平台交织而成的地貌。雨水充沛的山丘与密林向海绵延，这种景观带有鲜明的大西洋气候基调，使其在感官上更接近于爱尔兰，而非人们惯常印象中的西班牙南部。"
+    },
+    "quickFacts": {
+      "zh-CN": "除了因酷似教堂的拱门而闻名外，该地标的官方定名为“圣水海滩”，在大教堂海滩，加利西亚，西班牙。"
+    },
+    "captions": {
+      "en-US": "Praia das Catedrais, Galicia, Spain",
+      "en-CA": "Praia das Catedrais, Galicia, Spain",
+      "it-IT": "",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260725_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260725_0400%22",
+      "it-IT": "https://www.bing.com/search?q=Galizia+Spagna&form=hpcapt",
+      "pt-BR": "https://www.bing.com/search?q=Gal%c3%adcia+na+Espanha&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.GaliciaBeach_EN-US1635715019",
+      "en-CA": "/th?id=OHR.GaliciaBeach_EN-CA4896799144",
+      "it-IT": "/th?id=OHR.GaliciaBeach_IT-IT8238080614",
+      "pt-BR": "/th?id=OHR.GaliciaBeach_PT-BR6668206229"
+    }
+  },
+  "StocktonInfinity": {
+    "name": "StocktonInfinity",
+    "urlbase": "/th?id=OHR.StocktonInfinity_EN-GB3847788744",
+    "date": "20260807",
+    "dateFormatted": "August 07, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "it-IT",
@@ -1589,11 +1759,6 @@
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
       },
       {
         "code": "ja-JP",
@@ -1612,162 +1777,64 @@
       }
     ],
     "titles": {
-      "en-US": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
-      "en-GB": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
-      "en-CA": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain",
-      "fr-FR": "Les arches cachées de la Galice. Plage des Cathédrales, Galice, Espagne",
-      "it-IT": "Gli archi nascosti della Galizia",
-      "es-ES": "La sinfonía de las olas. Día de Galicia",
-      "pt-BR": "O templo construído pelo mar",
-      "ja-JP": "干潮に現れる奇岩海岸",
-      "zh-CN": "加境幽廊",
-      "en-IN": "Into Galicia's hidden arches. Praia das Catedrais, Galicia, Spain"
+      "en-GB": "Crossing into infinity. International Infinity Day",
+      "it-IT": "Attraversare l'infinito",
+      "es-ES": "¡Hacia el Infinito y mucho más! Día Internacional del Infinito",
+      "ja-JP": "今日は無限大の日",
+      "zh-CN": "蒂斯河畔斯托克顿无限桥，英格兰",
+      "en-IN": "Crossing into infinity. International Infinity Day",
+      "en-US": "Crossing into infinity. Infinity Bridge in Stockton-on-Tees, England",
+      "en-CA": "Crossing into infinity. Infinity Bridge in Stockton-on-Tees, England",
+      "pt-BR": "Uma obra sem começo nem fim. Infinity Bridge, Stockton-on-Tees, Inglaterra"
     },
     "copyrights": {
-      "en-US": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "en-GB": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "en-CA": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "fr-FR": "Plage des Cathédrales, Galice, Espagne (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "it-IT": "Spiaggia delle Cattedrali, Galizia, Spagna (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "es-ES": "Playa de las Catedrales, Galicia, España (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "pt-BR": "Praia das Catedrais, Galícia, Espanha (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "ja-JP": "カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "zh-CN": "大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-      "en-IN": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)"
+      "en-GB": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
+      "it-IT": "Ponte dell'Infinito a Stockton-on-Tees, Inghilterra (© Bahadir Yeniceri/Shutterstock)",
+      "es-ES": "Puente del Infinito en Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
+      "ja-JP": "インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock)",
+      "zh-CN": "蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)",
+      "en-IN": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
+      "en-US": "© Bahadir Yeniceri/Shutterstock",
+      "en-CA": "© Bahadir Yeniceri/Shutterstock",
+      "pt-BR": "© Bahadir Yeniceri/Shutterstock"
     },
     "descs": {
-      "en-US": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets, and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
-      "en-GB": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill towards the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
-      "en-CA": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
-      "fr-FR": "À l’extrême nord‑ouest de l’Espagne, la Galice déploie ses falaises sombres face au golfe de Gascogne. Là, près de Ribadeo, l’océan a sculpté dans la roche ce que l’architecture gothique n’a fait qu’évoquer : des arches immenses, des voûtes ouvertes au ciel, des nefs de pierre traversées par la lumière atlantique. La plage des Cathédrales porte son nom avec une gravité méritée.",
-      "es-ES": "El norte de Galicia guarda uno de los rincones más impresionantes del litoral español: la Playa de las Catedrales, en Ribadeo, donde el Atlántico ha esculpido durante milenios una arquitectura de piedra que rivaliza con cualquier catedral gótica. Con arcos naturales que alcanzan los treinta metros de altura, esta franja de costa transforma el concepto mismo de playa en algo cercano a lo sublime. Solo con la marea baja el mar se retira lo suficiente para revelar este laberinto de bóvedas, columnas y covachas talladas por las olas.",
-      "ja-JP": "スペインのガリシア州は大西洋に面しており、その海岸線には、長い年月をかけて形成された断崖や入り江、波の浸食作用によって削り取られた波食台地が連なっています。そして、今日の画像は、ガリシア州北部に位置するカテドラル・ビーチ（プライア・ダス・カテドライス）の干潮時の姿。高さ 30m を誇る粘板岩と珪岩のアーチが大聖堂（カテドラル）を思わせることが名前の由来です。干潮時という限られた時間帯にのみ、海食によって形成された岩のアーチの間を歩くことができます。",
-      "en-IN": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill towards the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
-      "it-IT": "Nel remoto angolo nord-occidentale della Spagna, la Galizia incontra l'Atlantico con forza: scogliere scolpite dal mare, insenature nascoste e formazioni rocciose che emergono solo quando la marea si ritira. La Spiaggia delle Cattedrali, vicino a Ribadeo, deve il suo nome agli archi monumentali modellati dall'oceano nel corso dei millenni — architetture naturali che ricordano le navate di una cattedrale gotica.",
-      "pt-BR": "Na Espanha, existe uma praia em que o principal ponto turístico passa parte do dia submerso. Nossa imagem de hoje mostra um cenário que só existe quando a maré baixa: arcos monumentais, corredores de pedra e grutas moldados pelo Atlântico por incontáveis ciclos de ondas, vento e sal.",
-      "zh-CN": "加境幽廊. 大教堂海滩，加利西亚，西班牙. 在西班牙遥远的西北部，加利西亚与大西洋交汇。漫长的海岸线在海浪的强力冲刷下，形成了由悬崖、内湾和海蚀平台交织而成的地貌。雨水充沛的山丘与密林向海绵延，这种景观带有鲜明的大西洋气候基调，使其在感官上更接近于爱尔兰，而非人们惯常印象中的西班牙南部。"
+      "en-GB": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
+      "es-ES": "El Puente del Infinito de Stockton-on-Tees, en Inglaterra, inaugurado en 2009, no es solo una pasarela peatonal sobre el río Tees: es una lección de geometría convertida en experiencia. Sus dos arcos de acero asimétricos —uno el doble de alto y largo que el otro— se reflejan en el agua formando el símbolo del infinito, y de noche las luces LED de la pasarela cambian del azul al blanco al ritmo de los pasos de quienes la cruzan.",
+      "ja-JP": "今日 8 月 8 日は国際無限大の日 (International Infinity Day) 。ニューヨークの哲学者ジャン＝ピエール・アディ・フェニョによって創設されたもので、哲学や科学、芸術を通じて無限の可能性を探求する日です。そして画像は、イングランドの都市、ストックトン＝オン＝ティーズに架かるインフィニティ・ブリッジ。この独特な形状が特徴的な歩道橋は、橋本体と水面に反射した橋が一体となることで、無限大記号「∞」の形を描き出します。また、夜はライトアップされ、人が渡るたびに色が変化し、ダイナミックかつ近未来的な雰囲気を醸し出します。",
+      "en-IN": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
+      "en-US": "On August 8, curiosity takes center stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the day invites everyone to explore big ideas through science, art, and imagination. It's not just about math—it's also about possibilities, from the vastness of space to the limits of human creativity.",
+      "en-CA": "At first glance, it's just a bridge. Then the reflection changes everything. Infinity Bridge spans the River Tees in Stockton-on-Tees, England, where its two striking steel arches and their reflections create the shape of an infinity symbol, inspiring its name. Opened in 2009, the pedestrian and cycle bridge was designed by Expedition Engineering with architect Spence Associates as part of the regeneration of the town's riverside. Stretching about 240 metres, its tied-arch structure combines engineering efficiency with a distinctive appearance.",
+      "it-IT": "A Stockton-on-Tees, in Inghilterra, c'è un ponte che non si limita ad attraversare un fiume: racconta una storia. Il Ponte dell'Infinito, inaugurato nel 2009, è una passerella pedonale sul Tees costruita con due archi d'acciaio asimmetrici — uno il doppio dell'altro — che si riflettono nell'acqua formando il simbolo matematico dell'infinito. Di notte, le luci LED cambiano dal blu al bianco al ritmo dei passi di chi lo percorre, trasformando ogni attraversamento in qualcosa di inaspettatamente coinvolgente.",
+      "pt-BR": "Existe uma data em que até o calendário faz uma piada matemática: 8 de agosto, ou 8/8. Virado de lado, o algarismo 8 se transforma no símbolo do infinito, usado para representar algo sem limite. Essa é a inspiração do Dia Internacional do Infinito, criado em 1987 pelo filósofo Jean-Pierre Ady Fenyo para despertar curiosidade sobre conceitos que atravessam números, descobertas e imaginação.",
+      "zh-CN": "8月8日，国际无限日让好奇心成为主角。这项庆祝活动的灵感来自横置的数字8——象征永无止境的无限符号。纽约哲学家让-皮埃尔·阿迪·费尼奥于1987年创立这一节日，邀请每个人通过科学、艺术和想象力探索宏大理念。它不只关乎数学，也关乎从浩瀚宇宙到人类创造力边界的种种可能。"
     },
     "quickFacts": {
-      "zh-CN": "除了因酷似教堂的拱门而闻名外，该地标的官方定名为“圣水海滩”，在大教堂海滩，加利西亚，西班牙。"
+      "zh-CN": "由于无法设置中央桥墩，无限桥采用不等高系杆拱和倒置鞍形结构，为180米长的桥身增强刚度。"
     },
     "captions": {
-      "en-US": "Praia das Catedrais, Galicia, Spain",
-      "en-GB": "Praia das Catedrais, Galicia, Spain",
-      "en-CA": "Praia das Catedrais, Galicia, Spain",
-      "fr-FR": "Plage des Cathédrales, Galice, Espagne",
+      "en-GB": "International Infinity Day",
       "it-IT": "",
-      "es-ES": "Día de Galicia",
-      "pt-BR": "",
-      "ja-JP": "干潮に現れる奇岩海岸",
+      "es-ES": "Día Internacional del Infinito",
+      "ja-JP": "今日は無限大の日",
       "zh-CN": "",
-      "en-IN": "Praia das Catedrais, Galicia, Spain"
+      "en-IN": "International Infinity Day"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260725_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260724_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260725_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=Galice+Espagne&form=hpcapt&filters=HpDate%3a%2220260724_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Galizia+Spagna&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+de+Galicia&form=hpcapt&filters=HpDate%3a%2220260724_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Gal%c3%adcia+na+Espanha&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%86%e3%83%89%e3%83%a9%e3%83%ab%e3%83%bb%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260724_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%8a%a0%e5%88%a9%e8%a5%bf%e4%ba%9a&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260724_1830%22"
+      "en-GB": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260807_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Stockton-on-Tees&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Infinito&form=hpcapt&filters=HpDate%3a%2220260807_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260807_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%97%a0%e9%99%90%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260807_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.GaliciaBeach_EN-US1635715019",
-      "en-GB": "/th?id=OHR.GaliciaBeach_EN-GB4804626985",
-      "en-CA": "/th?id=OHR.GaliciaBeach_EN-CA4896799144",
-      "fr-FR": "/th?id=OHR.GaliciaBeach_FR-FR6503602591",
-      "it-IT": "/th?id=OHR.GaliciaBeach_IT-IT8238080614",
-      "es-ES": "/th?id=OHR.GaliciaBeach_ES-ES2298992138",
-      "pt-BR": "/th?id=OHR.GaliciaBeach_PT-BR6668206229",
-      "ja-JP": "/th?id=OHR.GaliciaBeach_JA-JP2958100609",
-      "zh-CN": "/th?id=OHR.GaliciaBeach_ZH-CN1246611659",
-      "en-IN": "/th?id=OHR.GaliciaBeach_EN-IN8935924229"
-    }
-  },
-  "GalapagosFlamingos": {
-    "name": "GalapagosFlamingos",
-    "urlbase": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116",
-    "date": "20260724",
-    "dateFormatted": "July 24, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Family, in full color. National Cousins Day",
-      "en-CA": "Family, in full colour. National Cousins Day",
-      "pt-BR": "Em boa companhia",
-      "en-GB": "Family, in full colour. National Cousins Day",
-      "de-DE": "In voller Farbe. Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
-      "fr-FR": "Ça flame rose. Flamboyance de flamants roses",
-      "it-IT": "Famiglia, a colori",
-      "ja-JP": "今日は米国いとこの日",
-      "zh-CN": "缤纷多彩的一家人",
-      "en-IN": "Family, in full colour. National Cousins Day"
-    },
-    "copyrights": {
-      "en-US": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "en-CA": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "pt-BR": "Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador (© Tui De Roy/Nature Picture Library)",
-      "en-GB": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "de-DE": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "fr-FR": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)",
-      "it-IT": "Stormo di fenicotteri americani, Isola Isabela, Isole Galápagos, Ecuador (© Tui De Roy/Nature Picture Library)",
-      "ja-JP": "ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)",
-      "zh-CN": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)",
-      "en-IN": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)"
-    },
-    "descs": {
-      "en-US": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure.",
-      "en-CA": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Fittingly, Canadians mark the day alongside their neighbour and, you could say, cousin to the south: the United States. Whether you grew up at the cottage, camping, skating or gathering for a long weekend barbecue, cousins often share some of life's best memories.",
-      "en-GB": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. While it originated in the United States, the day has gained traction in the United Kingdom through social media and family-focused events.",
-      "de-DE": "Auf der Insel Isabela lebt ein Schwarm Kubaflamingos in den flachen Lagunen der Galápagos-Inseln, die zu Ecuador gehören. Die eleganten Vögel bewegen sich oft gemeinsam durch das seichte Wasser und suchen dort nach kleinen Krebstieren, Insekten und anderen Nahrungsquellen. Mit ihren langen Beinen und geschwungenen Hälsen prägen sie das Bild vieler Feuchtgebiete der Insel. Vor der Kulisse dunkler Lavafelder und vulkanischer Landschaften bieten sie einen besonders eindrucksvollen Anblick und zählen zu den bekanntesten Vogelarten des Archipels.",
-      "fr-FR": "La langue française réserve parfois ses plus belles trouvailles aux assemblées d’animaux. Sur l’île Isabela, dans l’archipel des Galápagos, en Équateur, les lagunes saumâtres accueillent ainsi une « flamboyance » de flamants roses des Caraïbes — terme aussi vif que leur plumage, teinté de corail par les crevettes et algues qu’ils filtrent dans la boue tiède.",
-      "ja-JP": "今日 7 月 24 日は米国いとこの日。兄弟姉妹のようでありながら、友人のような存在でもある「いとこ」という繋がりを祝う日です。そして画像は、エクアドルのガラパゴス諸島に生息するフラミンゴの群れ。彼らは、単独で行動するのではなく、群れをなして集まり、一緒に餌を食べ、仲間と動きを揃えて移動します。直接的な血の繋がりがなくとも「家族」のように繋がっているという、いとこという関係性を思わせる光景です。",
-      "en-IN": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. The celebration originated in the United States, but some countries have adopted it as a fun way to honour family bonds.",
-      "it-IT": "Alle Isole Galápagos, in Ecuador, i fenicotteri americani non si muovono mai da soli: vivono in stormi rumorosi, si nutrono insieme e camminano sincronizzati lungo le rive saline. Il loro inconfondibile rosa acceso non è innato, ma conquistato: nasce da una dieta ricca di alghe e piccoli crostacei, a riprova che l'identità si costruisce giorno per giorno.",
-      "pt-BR": "Antes de existir rede social, os flamingos já dominavam a arte de andar em grupo. Na imagem, estes exemplares das Ilhas Galápagos transformam uma área alagada numa convenção colorida. Raramente estão sozinhos: comem, voam e até descansam juntos, formando grandes concentrações que podem ser vistas a quilômetros de distância.",
-      "zh-CN": "缤纷多彩的一家人. 美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔. 除了引人注目的体色，栖息在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔的美洲红鹳还以其高度同步的求偶仪式而闻名。数百只红鹳会参与一场极具仪式感的“集体舞”，它们整齐划一地行进，并有节奏地左右摆动头部以吸引配偶。这种集体行为确保了整个集群能在同一时间进行繁殖，从而在群岛严酷的火山地貌中最大限度地提高雏鸟的存活率。"
-    },
-    "quickFacts": {
-      "en-US": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
-      "en-GB": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
-      "en-CA": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
-      "de-DE": "Kubaflamingos verdanken ihre rosa Färbung den Carotinoiden in ihrer Nahrung. Jungtiere kommen grau zur Welt und entwickeln ihre typische Farbe erst nach und nach.",
-      "fr-FR": "Un groupe de loutres se rassemble en \"romance\", l'un des noms collectifs les plus poétiques du règne animal.",
-      "zh-CN": "红鹳双亲均能分泌“嗉囊乳”来哺育雏鸟，这种营养丰富的物质类似于哺乳动物的乳汁，在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔。",
-      "en-IN": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009."
-    },
-    "captions": {
-      "en-US": "National Cousins Day",
-      "en-CA": "National Cousins Day",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0700%22",
-      "en-CA": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=flamingos+americanos&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116",
-      "en-CA": "/th?id=OHR.GalapagosFlamingos_EN-CA4325829188",
-      "pt-BR": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535"
+      "en-GB": "/th?id=OHR.StocktonInfinity_EN-GB3847788744",
+      "it-IT": "/th?id=OHR.StocktonInfinity_IT-IT2789649837",
+      "es-ES": "/th?id=OHR.StocktonInfinity_ES-ES5321261606",
+      "ja-JP": "/th?id=OHR.StocktonInfinity_JA-JP6357248728",
+      "zh-CN": "/th?id=OHR.StocktonInfinity_ZH-CN5941379745",
+      "en-IN": "/th?id=OHR.StocktonInfinity_EN-IN0551257871"
     }
   },
   "BristolBalloonFiesta2026": {
@@ -1866,80 +1933,36 @@
       "en-CA": "/th?id=OHR.EDMFolkFest_EN-CA4302918547"
     }
   },
-  "LimeKiln": {
-    "name": "LimeKiln",
-    "urlbase": "/th?id=OHR.LimeKiln_DE-DE5407156308",
-    "date": "20260806",
-    "dateFormatted": "August 06, 2026",
+  "RhineFlames": {
+    "name": "RhineFlames",
+    "urlbase": "/th?id=OHR.RhineFlames_DE-DE7527393403",
+    "date": "20260807",
+    "dateFormatted": "August 07, 2026",
     "markets": [
       {
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
       }
     ],
     "titles": {
-      "de-DE": "Schiffe durch die Geschichte führen. Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
-      "es-ES": "Guiando a lo largo de la historia. Día Mundial de los Faros",
-      "ja-JP": "今日は米国灯台の日",
-      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国",
-      "en-US": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington State",
-      "en-CA": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington state, United States",
-      "pt-BR": "Uma luz no fim do oceano. Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos"
+      "de-DE": "Feuerzauber über dem Rhein. Rhein in Flammen"
     },
     "copyrights": {
-      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
-      "es-ES": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
-      "ja-JP": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
-      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)",
-      "en-US": "© Edmund Lowe Photography/Shutterstock",
-      "en-CA": "© Edmund Lowe Photography/Shutterstock",
-      "pt-BR": "© Edmund Lowe Photography/Shutterstock"
+      "de-DE": "Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock)"
     },
     "descs": {
-      "de-DE": "Der Lime Kiln Lighthouse steht an der Westküste von San Juan Island im US-Bundesstaat Washington. Er gehört zu den bekanntesten Leuchttürmen der Region und blickt auf die stark befahrene Haro Strait. Seit seiner Inbetriebnahme unterstützt er die sichere Navigation von Schiffen, die zwischen den Vereinigten Staaten und Kanada verkehren. Das weiße Gebäude mit seinem markanten Turm fügt sich harmonisch in die felsige Küstenlandschaft ein und ist ein beliebtes Fotomotiv.",
-      "es-ES": "El Faro Lime Kiln, encendido por primera vez el 30 de junio de 1919 sobre la roca viva de la isla San Juan, en Washington, EE. UU., sigue lanzando su destello blanco sobre el estrecho de Haro con la misma fiabilidad que el primer día. Cada 7 de agosto, el Día Mundial de los Faros conmemora la Ley de Faros de 1789, firmada por George Washington.",
-      "ja-JP": "今日 8 月 7 日は米国灯台の日。ジョージ・ワシントン大統領の署名によって 1789 年に成立した「灯台法」を記念して制定された日であり、灯台の歴史と役割をたたえる日です。そして画像は、米国ワシントン州のサンファン島にあるライム・キルン灯台。1919 年に建設され、現在も船舶を導き続けています。航行技術の発展とともに進化を続けてきた灯台は、歴史的建造物や絶景スポットとしても親しまれながら、今もなお、安全と不屈の精神、そして大海原への冒険を象徴する存在であり続けています。",
-      "en-US": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
-      "en-CA": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
-      "pt-BR": "Quando o céu escurece e o mar perde as referências, uma luz piscando vale mais do que qualquer mapa. Na imagem, o Farol de Lime Kiln, na Ilha San Juan, Estados Unidos, guia, desde 1919, cargueiros, balsas e barcos por uma das rotas marítimas mais movimentadas do noroeste do Pacífico.",
-      "zh-CN": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。"
+      "de-DE": "Wenn über dem Rhein die ersten Feuerwerksfarben aufleuchten, beginnt eines der bekanntesten Sommerereignisse Deutschlands. Bei „Rhein in Flammen“ verwandeln sich Burgen, Weinorte und Uferlandschaften entlang des Mittelrheins in eine Kulisse aus Licht und Farbe. Heute richtet sich der Blick auf die Region rund um Koblenz. Hier zieht ein festlich beleuchteter Schiffskonvoi den Fluss entlang, begleitet von mehreren Feuerwerken, deren Farben sich im Wasser spiegeln. Zwischen Spay, Braubach, Rhens und Koblenz werden Burgen und Rheinufer illuminiert, bevor das große Abschlussfeuerwerk den Höhepunkt des Abends bildet."
     },
-    "quickFacts": {
-      "zh-CN": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
-    },
+    "quickFacts": {},
     "captions": {
-      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
-      "es-ES": "Día Mundial de los Faros",
-      "ja-JP": "今日は米国灯台の日",
-      "zh-CN": ""
+      "de-DE": "Rhein in Flammen"
     },
     "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Leuchtturm+Lime+Kiln+Wanderungen&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Faros&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e7%81%af%e5%8f%b0%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260806_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%9f%b3%e7%81%b0%e7%aa%91%e7%81%af%e5%a1%94&form=hpcapt&mkt=zh-cn"
+      "de-DE": "https://www.bing.com/search?q=Rhein+in+Flammen&form=hpcapt&filters=HpDate%3a%2220260807_2200%22"
     },
     "urlbases": {
-      "de-DE": "/th?id=OHR.LimeKiln_DE-DE5407156308",
-      "es-ES": "/th?id=OHR.LimeKiln_ES-ES1360502485",
-      "ja-JP": "/th?id=OHR.LimeKiln_JA-JP2506397292",
-      "zh-CN": "/th?id=OHR.LimeKiln_ZH-CN5664152522"
+      "de-DE": "/th?id=OHR.RhineFlames_DE-DE7527393403"
     }
   },
   "BearBavaria": {
@@ -1976,36 +1999,38 @@
       "de-DE": "/th?id=OHR.BearBavaria_DE-DE3681217161"
     }
   },
-  "PrideBerlin": {
-    "name": "PrideBerlin",
-    "urlbase": "/th?id=OHR.PrideBerlin_DE-DE3369611592",
-    "date": "20260724",
-    "dateFormatted": "July 24, 2026",
+  "ClothesBarjols": {
+    "name": "ClothesBarjols",
+    "urlbase": "/th?id=OHR.ClothesBarjols_FR-FR4425384248",
+    "date": "20260807",
+    "dateFormatted": "August 07, 2026",
     "markets": [
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
       }
     ],
     "titles": {
-      "de-DE": "Im Zeichen des Regenbogens. CSD Berlin"
+      "fr-FR": "L’art de prendre le temps. Linge aux fenêtres d’une maison, Provence-Alpes-Côtes d'Azur"
     },
     "copyrights": {
-      "de-DE": "Fernsehturm am Alexanderplatz mit Regenbogen, Berlin (© fhm/Getty Images)"
+      "fr-FR": "Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur (© mammuth/Getty Images)"
     },
     "descs": {
-      "de-DE": "Ein Regenbogen spannt sich neben dem Berliner Fernsehturm über dem Alexanderplatz und setzt einen farbenfrohen Akzent am Himmel über der deutschen Hauptstadt. Das Motiv passt gut zum Christopher Street Day Berlin, dessen Hauptparade heute durch die Stadt zieht. Der CSD erinnert an die Stonewall-Aufstände von 1969 in New York. Nach einer Polizeirazzia im Stonewall Inn kam es zu mehreren Tagen des Protests, die zu einem Symbol der modernen LSBTIQ*-Bewegung wurden. Aus diesen Ereignissen entwickelte sich eine weltweite Tradition von Pride-Veranstaltungen."
+      "fr-FR": "Sous le soleil doré du Midi, le temps semble s’étirer doucement, comme lors d’une sieste à l’ombre des platanes. Dans les ruelles étroites de Provence ou le long des façades pastel d’un village catalan, le linge ondule entre deux fenêtres, porté par une brise tiède venue de la mer. Les cigales, fidèles gardiennes de l’été, rythment ces heures suspendues où l’on pratique l’art du « dolce far niente », hérité des cultures méditerranéennes."
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "fr-FR": "Le « dolce far niente » est un art de vivre italien qui célèbre les plaisirs du repos. Prendre le temps de ne rien faire peut aussi réduire le stress et stimuler la créativité."
+    },
     "captions": {
-      "de-DE": "CSD Berlin"
+      "fr-FR": "Linge aux fenêtres d’une maison, Provence-Alpes-Côtes d'Azur"
     },
     "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Berliner+Christopher+Street+Day&form=hpcapt&filters=HpDate%3a%2220260724_2200%22"
+      "fr-FR": "https://www.bing.com/search?q=Provence-Alpes-C%c3%b4tes+d%e2%80%99Azur&form=hpcapt&filters=HpDate%3a%2220260807_2200%22"
     },
     "urlbases": {
-      "de-DE": "/th?id=OHR.PrideBerlin_DE-DE3369611592"
+      "fr-FR": "/th?id=OHR.ClothesBarjols_FR-FR4425384248"
     }
   },
   "WildlifeCrossingPoland": {
@@ -2027,7 +2052,10 @@
       "it-IT": "Progettato per gli animali. Veduta aerea di un passaggio faunistico vicino a Zakrzów, Polonia",
       "es-ES": "Hecho para patas, no para personas. Vista aérea de un ecoducto cerca de Zakrzów, Polonia",
       "zh-CN": "扎克舒夫附近的野生动物通道，波兰",
-      "en-IN": "Built for paws, not people. Aerial view of a wildlife crossing near Zakrzów, Poland"
+      "en-IN": "Built for paws, not people. Aerial view of a wildlife crossing near Zakrzów, Poland",
+      "en-US": "Built for paws, not people. Aerial view of a wildlife crossing near Zakrzów, Poland",
+      "en-CA": "Built for paws, not people. Aerial view of a wildlife crossing near Zakrzów, Poland",
+      "pt-BR": "Um elo entre dois mundos. Vista aérea de um ecoduto perto de Zakrzów, Polônia"
     },
     "copyrights": {
       "fr-FR": "Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images)",
@@ -2036,7 +2064,10 @@
       "it-IT": "© bbsferrari/Getty Images",
       "es-ES": "© bbsferrari/Getty Images",
       "zh-CN": "© bbsferrari/Getty Images",
-      "en-IN": "© bbsferrari/Getty Images"
+      "en-IN": "© bbsferrari/Getty Images",
+      "en-US": "© bbsferrari/Getty Images",
+      "en-CA": "© bbsferrari/Getty Images",
+      "pt-BR": "© bbsferrari/Getty Images"
     },
     "descs": {
       "fr-FR": "Les routes ont transformé notre rapport aux distances, rapprochant les villes et accélérant notre rythme de vie. Mais sous ce progrès, une fragmentation s’est installée dans les paysages. Les forêts, prairies et montagnes, autrefois continues, se sont retrouvées morcelées, les sentiers rompus. Cerfs, renards et ours ont continué d’emprunter ces routes invisibles, croisant désormais l’asphalte et le danger. Collisions, isolement génétique, disparition silencieuse : les conséquences se sont accumulées au fil des décennies.",
@@ -2045,14 +2076,19 @@
       "it-IT": "Le strade hanno risolto un problema creandone silenziosamente un altro: mentre le persone viaggiavano più veloce che mai, la fauna selvatica si trovava di fronte ad autostrade che tagliavano in due i territori percorsi per generazioni. La risposta è arrivata sotto forma di ecodotto — ponti o tunnel progettati per permettere agli animali di attraversare le vie di traffico in sicurezza — e i primi esempi moderni comparvero in Francia negli anni Cinquanta, diffondendosi poi in tutta Europa.",
       "es-ES": "Las carreteras resolvieron un problema y crearon otro sin querer: mientras las personas viajaban más rápido que nunca, la fauna silvestre veía cómo las autopistas partían en dos los territorios que había recorrido durante generaciones. La respuesta llegó en forma de ecoducto —puentes o túneles diseñados para que los animales crucen las vías de tráfico con seguridad— y los primeros ejemplos modernos surgieron precisamente en Francia durante los años cincuenta, extendiéndose después por toda Europa.",
       "zh-CN": "道路解决了一个问题，却悄然制造了另一个问题。人类出行速度前所未有地提高，野生动物世代沿用的迁徙路线却被公路切断，导致碰撞事故增加、栖息地破碎化，野生动物种群彼此隔绝。为应对这一挑战，人们建造了称为生态桥的野生动物通道：这些桥梁或隧道旨在重新连接栖息地，让动物安全穿越繁忙道路。最早的一些现代案例于20世纪50年代出现在法国，这一理念很快传遍欧洲。荷兰等国通过建造覆盖土壤及草本、灌木和乔木等本土植被的宽阔绿色桥梁，推动了生态桥设计的完善。",
-      "en-IN": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape."
+      "en-IN": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
+      "en-US": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats, and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, and the idea soon spread across Europe. Countries such as the Netherlands helped refine ecoduct design by building wide green bridges covered in soil and native vegetation, from grasses and shrubs to trees.",
+      "en-CA": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later refined the concept with broad, green bridges covered in soil and native vegetation.",
+      "pt-BR": "Estradas aproximaram cidades e encurtaram distâncias, mas criaram uma barreira inesperada: para muitos animais, atravessar uma rodovia virou uma missão perigosa. Rotas antigas de migração foram cortadas pelo asfalto, habitats ficaram separados e atropelamentos se tornaram mais frequentes. A solução veio de uma ideia curiosa: construir caminhos que não fossem para pessoas, mas para patas, asas e cascos."
     },
     "quickFacts": {
       "en-GB": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
       "de-DE": "In Frankreich entstanden die ersten Grünbrücken in den 1950er Jahren. Sie ermöglichten Tieren die Durchquerung von Landschaften, die durch neue Straßen zerschnitten worden waren.",
       "fr-FR": "Les écoducs permettent aux animaux de traverser les routes sans danger, mais aussi de rompre l’isolement et d’échanger leurs gènes, préservant ainsi la biodiversité.",
       "zh-CN": "20世纪50年代，法国首次出现了野生动物通道，为动物们在被公路分割的新景观中开辟了一条生路。",
-      "en-IN": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads."
+      "en-IN": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "en-US": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "en-CA": "Highway fencing in Banff National Park has cut wildlife-vehicle collisions by over 80%, including more than 96% for elk and deer."
     },
     "captions": {
       "fr-FR": "Un écopont près de Zakrzów, Pologne"
@@ -2224,38 +2260,6 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.IsoleEolie_IT-IT8736401041"
-    }
-  },
-  "SardegnaFaro": {
-    "name": "SardegnaFaro",
-    "urlbase": "/th?id=OHR.SardegnaFaro_IT-IT8009785446",
-    "date": "20260724",
-    "dateFormatted": "July 24, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "Un unico luogo, un unico scopo"
-    },
-    "copyrights": {
-      "it-IT": "Il Faro Mangiabarche, Sant'Antioco, Sulcis, Sardegna (© Francesco Riccardo Iacomino/Getty Images)"
-    },
-    "descs": {
-      "it-IT": "Il Faro Mangiabarche si erge su uno scoglio solitario davanti a Sant'Antioco, nel Sulcis, in Sardegna — un presidio di luce in mezzo al Mediterraneo che per secoli ha guidato i marinai lontano dalle insidie degli scogli. Il nome, evocativo e inquietante, racconta da solo la storia di queste acque: \"mangia barche\", perché qui il mare non perdona."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Il+Faro+Mangiabarche%2c+Sant%27Antioco%2c+Sulcis%2c+Sardegna&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.SardegnaFaro_IT-IT8009785446"
     }
   },
   "SantaCatalina": {
@@ -2582,15 +2586,29 @@
       }
     ],
     "titles": {
-      "en-IN": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
+      "en-IN": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States",
+      "en-GB": "The great balancing act. Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States",
+      "fr-FR": "Une coiffe de pierre. Cheminées de fées à Ah Shi Sle Pah Wilderness dans le comté de San Juan, Nouveau-Mexique, États-Unis",
+      "ja-JP": "夕陽を浴びる奇岩群. ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州",
+      "zh-CN": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国"
     },
     "copyrights": {
-      "en-IN": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)"
+      "en-IN": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
+      "en-GB": "© Westend61/Getty Images",
+      "fr-FR": "© Westend61/Getty Images",
+      "ja-JP": "© Westend61/Getty Images",
+      "zh-CN": "© Westend61/Getty Images"
     },
     "descs": {
-      "en-IN": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial."
+      "en-IN": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "en-GB": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "fr-FR": "Dans les vastes badlands du nord-ouest du Nouveau-Mexique, aux États-Unis, Ah-Shi-Sle-Pah Wilderness offre un décor tout droit sorti d’un rêve. Depuis environ 75 millions d’années, le vent, l’eau et le gel façonnent patiemment des cheminées de fée — de fines colonnes rocheuses portant d’imposants chapeaux de pierre, aussi présentes en France, notamment en Auvergne ou dans les Pyrénées-Orientales. Le nom navajo du lieu, associé au « sel gris », rappelle un territoire aussi ancien que fascinant, où la nature compose une œuvre d’art à grande échelle.",
+      "ja-JP": "ここは米国ニューメキシコ州のア・シ・スレ・パ自然保護区。水と風の浸食により約 7500 万年かけて形成された奇岩群「フードゥー」が広がっています。岩の大きさや形はさまざまで、なかでも「エイリアン・スローン（異星人の玉座）」と呼ばれる奇岩は、人気の撮影スポットです。また、この地域は化石の宝庫としても知られており、北米に生息した恐竜ペンタケラトプスをはじめ、先史時代のワニやカメ、魚類などの化石が発見されています。",
+      "zh-CN": "大自然善于平衡看似不可能之物。在新墨西哥州阿什斯利帕荒野地，高耸的石林以纤细石柱托起厚重岩帽。约7,500万年来，风、水和冰将这片偏远的恶地雕刻成一座露天展馆，景象更像异星，而非地球。"
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "zh-CN": "阿什斯勒帕保存着全球最丰富的晚白垩世哺乳动物、爬行动物、植物和鱼类化石记录之一。"
+    },
     "captions": {
       "en-IN": "Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
     },
@@ -2631,6 +2649,153 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "GalapagosFlamingos": {
+    "name": "GalapagosFlamingos",
+    "urlbase": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116",
+    "date": "20260724",
+    "dateFormatted": "July 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Family, in full color. National Cousins Day",
+      "en-CA": "Family, in full colour. National Cousins Day",
+      "pt-BR": "Em boa companhia",
+      "en-GB": "Family, in full colour. National Cousins Day",
+      "de-DE": "In voller Farbe. Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
+      "fr-FR": "Ça flame rose. Flamboyance de flamants roses",
+      "it-IT": "Famiglia, a colori",
+      "ja-JP": "今日は米国いとこの日",
+      "zh-CN": "缤纷多彩的一家人",
+      "en-IN": "Family, in full colour. National Cousins Day"
+    },
+    "copyrights": {
+      "en-US": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "en-CA": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "pt-BR": "Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador (© Tui De Roy/Nature Picture Library)",
+      "en-GB": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "de-DE": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "fr-FR": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)",
+      "it-IT": "Stormo di fenicotteri americani, Isola Isabela, Isole Galápagos, Ecuador (© Tui De Roy/Nature Picture Library)",
+      "ja-JP": "ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)",
+      "zh-CN": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)",
+      "en-IN": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure.",
+      "en-CA": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Fittingly, Canadians mark the day alongside their neighbour and, you could say, cousin to the south: the United States. Whether you grew up at the cottage, camping, skating or gathering for a long weekend barbecue, cousins often share some of life's best memories.",
+      "en-GB": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. While it originated in the United States, the day has gained traction in the United Kingdom through social media and family-focused events.",
+      "de-DE": "Auf der Insel Isabela lebt ein Schwarm Kubaflamingos in den flachen Lagunen der Galápagos-Inseln, die zu Ecuador gehören. Die eleganten Vögel bewegen sich oft gemeinsam durch das seichte Wasser und suchen dort nach kleinen Krebstieren, Insekten und anderen Nahrungsquellen. Mit ihren langen Beinen und geschwungenen Hälsen prägen sie das Bild vieler Feuchtgebiete der Insel. Vor der Kulisse dunkler Lavafelder und vulkanischer Landschaften bieten sie einen besonders eindrucksvollen Anblick und zählen zu den bekanntesten Vogelarten des Archipels.",
+      "fr-FR": "La langue française réserve parfois ses plus belles trouvailles aux assemblées d’animaux. Sur l’île Isabela, dans l’archipel des Galápagos, en Équateur, les lagunes saumâtres accueillent ainsi une « flamboyance » de flamants roses des Caraïbes — terme aussi vif que leur plumage, teinté de corail par les crevettes et algues qu’ils filtrent dans la boue tiède.",
+      "ja-JP": "今日 7 月 24 日は米国いとこの日。兄弟姉妹のようでありながら、友人のような存在でもある「いとこ」という繋がりを祝う日です。そして画像は、エクアドルのガラパゴス諸島に生息するフラミンゴの群れ。彼らは、単独で行動するのではなく、群れをなして集まり、一緒に餌を食べ、仲間と動きを揃えて移動します。直接的な血の繋がりがなくとも「家族」のように繋がっているという、いとこという関係性を思わせる光景です。",
+      "en-IN": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure. The celebration originated in the United States, but some countries have adopted it as a fun way to honour family bonds.",
+      "it-IT": "Alle Isole Galápagos, in Ecuador, i fenicotteri americani non si muovono mai da soli: vivono in stormi rumorosi, si nutrono insieme e camminano sincronizzati lungo le rive saline. Il loro inconfondibile rosa acceso non è innato, ma conquistato: nasce da una dieta ricca di alghe e piccoli crostacei, a riprova che l'identità si costruisce giorno per giorno.",
+      "pt-BR": "Antes de existir rede social, os flamingos já dominavam a arte de andar em grupo. Na imagem, estes exemplares das Ilhas Galápagos transformam uma área alagada numa convenção colorida. Raramente estão sozinhos: comem, voam e até descansam juntos, formando grandes concentrações que podem ser vistas a quilômetros de distância.",
+      "zh-CN": "缤纷多彩的一家人. 美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔. 除了引人注目的体色，栖息在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔的美洲红鹳还以其高度同步的求偶仪式而闻名。数百只红鹳会参与一场极具仪式感的“集体舞”，它们整齐划一地行进，并有节奏地左右摆动头部以吸引配偶。这种集体行为确保了整个集群能在同一时间进行繁殖，从而在群岛严酷的火山地貌中最大限度地提高雏鸟的存活率。"
+    },
+    "quickFacts": {
+      "en-US": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
+      "en-GB": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
+      "en-CA": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009.",
+      "de-DE": "Kubaflamingos verdanken ihre rosa Färbung den Carotinoiden in ihrer Nahrung. Jungtiere kommen grau zur Welt und entwickeln ihre typische Farbe erst nach und nach.",
+      "fr-FR": "Un groupe de loutres se rassemble en \"romance\", l'un des noms collectifs les plus poétiques du règne animal.",
+      "zh-CN": "红鹳双亲均能分泌“嗉囊乳”来哺育雏鸟，这种营养丰富的物质类似于哺乳动物的乳汁，在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔。",
+      "en-IN": "Vampire Weekend, the indie rock band, released their single 'Cousins' in 2009."
+    },
+    "captions": {
+      "en-US": "National Cousins Day",
+      "en-CA": "National Cousins Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0700%22",
+      "en-CA": "https://www.bing.com/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=flamingos+americanos&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116",
+      "en-CA": "/th?id=OHR.GalapagosFlamingos_EN-CA4325829188",
+      "pt-BR": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535"
+    }
+  },
+  "PrideBerlin": {
+    "name": "PrideBerlin",
+    "urlbase": "/th?id=OHR.PrideBerlin_DE-DE3369611592",
+    "date": "20260724",
+    "dateFormatted": "July 24, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Im Zeichen des Regenbogens. CSD Berlin"
+    },
+    "copyrights": {
+      "de-DE": "Fernsehturm am Alexanderplatz mit Regenbogen, Berlin (© fhm/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Ein Regenbogen spannt sich neben dem Berliner Fernsehturm über dem Alexanderplatz und setzt einen farbenfrohen Akzent am Himmel über der deutschen Hauptstadt. Das Motiv passt gut zum Christopher Street Day Berlin, dessen Hauptparade heute durch die Stadt zieht. Der CSD erinnert an die Stonewall-Aufstände von 1969 in New York. Nach einer Polizeirazzia im Stonewall Inn kam es zu mehreren Tagen des Protests, die zu einem Symbol der modernen LSBTIQ*-Bewegung wurden. Aus diesen Ereignissen entwickelte sich eine weltweite Tradition von Pride-Veranstaltungen."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "CSD Berlin"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Berliner+Christopher+Street+Day&form=hpcapt&filters=HpDate%3a%2220260724_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.PrideBerlin_DE-DE3369611592"
+    }
+  },
+  "SardegnaFaro": {
+    "name": "SardegnaFaro",
+    "urlbase": "/th?id=OHR.SardegnaFaro_IT-IT8009785446",
+    "date": "20260724",
+    "dateFormatted": "July 24, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Un unico luogo, un unico scopo"
+    },
+    "copyrights": {
+      "it-IT": "Il Faro Mangiabarche, Sant'Antioco, Sulcis, Sardegna (© Francesco Riccardo Iacomino/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Il Faro Mangiabarche si erge su uno scoglio solitario davanti a Sant'Antioco, nel Sulcis, in Sardegna — un presidio di luce in mezzo al Mediterraneo che per secoli ha guidato i marinai lontano dalle insidie degli scogli. Il nome, evocativo e inquietante, racconta da solo la storia di queste acque: \"mangia barche\", perché qui il mare non perdona."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Il+Faro+Mangiabarche%2c+Sant%27Antioco%2c+Sulcis%2c+Sardegna&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.SardegnaFaro_IT-IT8009785446"
     }
   },
   "PinkDahlia": {
