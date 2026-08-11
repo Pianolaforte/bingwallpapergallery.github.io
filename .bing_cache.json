@@ -1,4 +1,115 @@
 {
+  "SandPath": {
+    "name": "SandPath",
+    "urlbase": "/th?id=OHR.SandPath_EN-US3759872156",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where two deserts collide. Joshua Tree National Park, California",
+      "en-GB": "Where two deserts collide. Joshua Tree National Park, California, United States",
+      "en-CA": "Where two deserts collide. Joshua Tree National Park in California, United States",
+      "de-DE": "Wo zwei Wüsten aufeinandertreffen. Joshua-Tree-Nationalpark, Kalifornien, USA",
+      "fr-FR": "Un point de rencontre aride. Parc national Joshua Tree, Californie, États-Unis",
+      "es-ES": "Donde chocan dos desiertos. Parque Nacional Joshua Tree, California, EE. UU.",
+      "zh-CN": "约书亚树国家公园，加利福尼亚州，美国",
+      "en-IN": "Where two deserts collide. Joshua Tree National Park, California, United States"
+    },
+    "copyrights": {
+      "en-US": "Joshua Tree National Park, California (© JJ Landscapes/Getty Images)",
+      "en-GB": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
+      "en-CA": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
+      "de-DE": "Joshua-Tree-Nationalpark, Kalifornien, USA (© JJ Landscapes/Getty Images)",
+      "fr-FR": "Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images)",
+      "es-ES": "Parque Nacional Joshua Tree, California, EE. UU. (© JJ Landscapes/Getty Images)",
+      "zh-CN": "约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)",
+      "en-IN": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerizing landscape shaped by wind, time, and extremes. In Southern California, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "en-GB": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "en-CA": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "de-DE": "Wo zwei Wüstenlandschaften aufeinandertreffen, entfaltet der Joshua-Tree-Nationalpark im US-Bundesstaat Kalifornien eine außergewöhnliche Szenerie. Das Schutzgebiet im Südwesten der USA verbindet die höher gelegene Mojave-Wüste mit der heißeren Colorado-Wüste und schafft dadurch vielfältige Lebensräume. Auf einer Fläche von mehr als 3.200 Quadratkilometern prägen die charakteristischen Joshua-Palmlilien das Bild. Zwischen sandigen Ebenen und mächtigen Granitfelsen entstehen eindrucksvolle Kontraste, die diese Landschaft unverwechselbar machen. Wind, Erosion und starke Temperaturschwankungen haben die Felsformationen über Millionen von Jahren geformt.",
+      "fr-FR": "À l’endroit où se rencontrent deux grands déserts du sud de la Californie (États-Unis), le parc national Joshua Tree révèle un paysage spectaculaire façonné par les vents, les contrastes climatiques et les millénaires. Le désert de Mojave, situé en altitude, rejoint le désert du Colorado, plus chaud, créant une remarquable diversité de milieux naturels.",
+      "es-ES": "Donde el desierto de Mojave y el desierto de Colorado se encuentran, el Parque Nacional Joshua Tree, en California, EE. UU., despliega un paisaje de belleza perturbadora: llanuras arenosas salpicadas de yucas de silueta retorcida, bloques de granito esculpidos durante millones de años y un silencio que solo rompen el viento y los buitres. Este territorio —declarado monumento nacional un día como hoy en 1936 y elevado a parque nacional en 1994— abarca unas 320.000 hectáreas de ecosistemas únicos.",
+      "en-IN": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "zh-CN": "两片大沙漠交汇之处，约书亚树国家公园展现出由风、时间和极端环境塑造的冷峻迷人景观。在南加利福尼亚州，海拔较高的莫哈韦沙漠与更炎热、地势更低的科罗拉多沙漠相融，形成独特的生态系统组合与非凡的生物多样性。"
+    },
+    "quickFacts": {
+      "zh-CN": "约书亚树地区的二长花岗岩最初是熔融岩体，在一亿多年前于地下冷却形成。"
+    },
+    "captions": {
+      "en-US": "Joshua Tree National Park, California",
+      "en-GB": "Joshua Tree National Park, California, United States",
+      "en-CA": "Joshua Tree National Park in California, United States",
+      "de-DE": "Joshua-Tree-Nationalpark, Kalifornien, USA",
+      "fr-FR": "Parc national Joshua Tree, Californie, États-Unis",
+      "es-ES": "Parque Nacional Joshua Tree, California, EE. UU.",
+      "zh-CN": "",
+      "en-IN": "Joshua Tree National Park, California, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260810_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260809_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260810_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Joshua-Tree-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Parc+national+Joshua+Tree+&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+Joshua+Tree&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%ba%a6%e4%b9%a6%e4%ba%9a%e6%a0%91%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260809_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SandPath_EN-US3759872156",
+      "en-GB": "/th?id=OHR.SandPath_EN-GB4047990489",
+      "en-CA": "/th?id=OHR.SandPath_EN-CA4913487409",
+      "de-DE": "/th?id=OHR.SandPath_DE-DE5965414761",
+      "fr-FR": "/th?id=OHR.SandPath_FR-FR7702357138",
+      "es-ES": "/th?id=OHR.SandPath_ES-ES7679772396",
+      "zh-CN": "/th?id=OHR.SandPath_ZH-CN7820825668",
+      "en-IN": "/th?id=OHR.SandPath_EN-IN0786758834"
+    }
+  },
   "JMTjibaou": {
     "name": "JMTjibaou",
     "urlbase": "/th?id=OHR.JMTjibaou_EN-US3454380257",
@@ -711,7 +822,7 @@
       "es-ES": "¡Buu-Hoo! Día Internacional del Búho",
       "pt-BR": "A sentinela das pradarias",
       "ja-JP": "今日は国際フクロウの日",
-      "zh-CN": "佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国",
+      "zh-CN": "呼呼，太棒了！",
       "en-IN": "Hoot hoot hooray! International Owl Awareness Day"
     },
     "copyrights": {
@@ -1544,14 +1655,81 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "A balance in motion. World Nature Conservation Day",
+      "en-CA": "A balance in motion. World Nature Conservation Day",
+      "pt-BR": "A floresta que dança sob as ondas",
+      "en-GB": "A balance in motion. World Nature Conservation Day",
+      "de-DE": "Ein Gleichgewicht in Bewegung. Welttag des Naturschutzes",
+      "fr-FR": "Équilibre en mouvement. Journée mondiale de la conservation de la nature",
+      "it-IT": "Un equilibrio in movimento",
+      "es-ES": "Un equilibrio en movimiento. Día Mundial de la Conservación de la Naturaleza",
+      "zh-CN": "生机律动，恒久之衡",
+      "en-IN": "A balance in motion. World Nature Conservation Day"
+    },
+    "copyrights": {
+      "en-US": "A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)",
+      "en-CA": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
+      "pt-BR": "Floresta de kelp perto da Ilha Anacapa, Parque Nacional das Ilhas do Canal, Califórnia, Estados Unidos (© Ian Shive/Tandem Stills + Motion)",
+      "en-GB": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
+      "de-DE": "Ein Seetangwald vor Anacapa Island, Channel Islands National Park, Kalifornien, USA (© Ian Shive/Tandem Stills + Motion)",
+      "fr-FR": "Une forêt de varech au large d'Anacapa Island, Parc national des Channel Islands, Californie, États-Unis (© Ian Shive/Tandem Stills + Motion)",
+      "it-IT": "Una foresta di alghe al largo dell'isola di Anacapa, Parco Nazionale delle Isole del Canale, California, USA (© Ian Shive/Tandem Stills + Motion)",
+      "es-ES": "Un bosque de algas cerca de la isla Anacapa, Parque Nacional de las Islas del Canal, California, EE. UU.  (© Ian Shive/Tandem Stills + Motion)",
+      "zh-CN": "一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)",
+      "en-IN": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)"
+    },
+    "descs": {
+      "en-US": "Off Anacapa Island, California, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 100 feet in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
+      "en-CA": "Off Anacapa Island, California in the United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by root-like holdfasts.",
+      "en-GB": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
+      "de-DE": "Am 28. Juli lenkt der Welttag des Naturschutzes die Aufmerksamkeit auf Lebensräume, die oft verborgen bleiben. Dazu gehören die Seetangwälder vor Anacapa Island im Channel Islands National Park in Kalifornien. Die Region wird wegen ihrer außergewöhnlichen Artenvielfalt häufig als „Galápagos Nordamerikas“ bezeichnet. Riesentang kann hier über 30 Meter lang werden und unter günstigen Bedingungen täglich bis zu 60 Zentimeter wachsen. Seine dichten Bestände reichen von der Wasseroberfläche bis zum Meeresboden und schaffen einen Lebensraum für zahlreiche Tiere und Pflanzen.",
+      "fr-FR": "Au large d'Anacapa Island, dans le parc national des Channel Islands, aux États-Unis, la lumière californienne se fragmente sous la surface en milliers d'éclats verts et dorés. La mer a sculpté ses propres cathédrales : des forêts de varech géant s'élevant à plus de trente mètres du fond, leurs frondes ondulant comme des rubans de soie, maintenues en surface par de petits flotteurs remplis d'air.",
+      "es-ES": "Frente a la isla Anacapa, en el Parque Nacional Islas del Canal de California, el océano alberga uno de los ecosistemas más espectaculares del planeta: los bosques de algas gigantes. El kelp puede superar los 30 metros de altura, formando imponentes columnas que la luz solar atraviesa como si fueran vidrieras naturales.",
+      "en-IN": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
+      "it-IT": "Al largo dell'isola di Anacapa, in California, l'oceano ha costruito le proprie foreste. Nelle acque del Parco Nazionale delle Isole del Canale — soprannominato le \"Galápagos del Nord America\" — le alghe giganti si estendono per oltre trenta metri in lunghezza, formando nastri ondeggianti sostenuti da vesciche d'aria e ancorati al fondale da strutture simili a radici.",
+      "pt-BR": "Quem imagina uma floresta costuma pensar em troncos, folhas e canto de pássaros. Mas perto da Ilha Anacapa, na Califórnia, a imagem revela uma versão completamente diferente. Sob a superfície, algas-gigantes conhecidas como kelps formam uma floresta vertical capaz de crescer mais de 60 centímetros por dia e passar dos 30 metros de altura. Cheias de pequenas bolsas de ar, elas sobem em direção à luz enquanto permanecem ancoradas ao fundo do mar.",
+      "zh-CN": "生机律动，恒久之衡. 一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国. 在美国加利福尼亚州，海峡群岛国家公园，安纳卡帕岛附近，海洋孕育着属于自己的森林。在被称为“北美洲加拉帕戈斯”的海峡群岛国家公园内，巨藻的长度可超过 100 英尺，它们通过充满空气的气囊在水中形成具有浮力的丝带，并由底部的根状固着器锚定在海床之上。"
+    },
+    "quickFacts": {
+      "zh-CN": "海獭是此处的关键种；通过捕食海胆，它们能防止海藻林被过度啃食，在安纳卡帕岛附近，海峡群岛国家公园，美国。"
+    },
+    "captions": {
+      "en-US": "World Nature Conservation Day",
+      "en-CA": "World Nature Conservation Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260728_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260728_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+da+Conserva%c3%a7%c3%a3o+da+Natureza&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ChannelKelp_EN-US3809417919",
+      "en-CA": "/th?id=OHR.ChannelKelp_EN-CA9531487501",
+      "pt-BR": "/th?id=OHR.ChannelKelp_PT-BR8544444735"
+    }
+  },
+  "ColorfulCop": {
+    "name": "ColorfulCop",
+    "urlbase": "/th?id=OHR.ColorfulCop_EN-GB4254714055",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1569,14 +1747,9 @@
         "flag": "it"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
       },
       {
         "code": "zh-CN",
@@ -1590,248 +1763,73 @@
       }
     ],
     "titles": {
-      "en-US": "A balance in motion. World Nature Conservation Day",
-      "en-GB": "A balance in motion. World Nature Conservation Day",
-      "en-CA": "A balance in motion. World Nature Conservation Day",
-      "de-DE": "Ein Gleichgewicht in Bewegung. Welttag des Naturschutzes",
-      "fr-FR": "Équilibre en mouvement. Journée mondiale de la conservation de la nature",
-      "it-IT": "Un equilibrio in movimento",
-      "es-ES": "Un equilibrio en movimiento. Día Mundial de la Conservación de la Naturaleza",
-      "pt-BR": "A floresta que dança sob as ondas",
-      "zh-CN": "生机律动，恒久之衡",
-      "en-IN": "A balance in motion. World Nature Conservation Day"
+      "en-GB": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "de-DE": "Kopenhagen in voller Farbe. Nyhavn-Kanal, Kopenhagen, Dänemark",
+      "fr-FR": "Copenhague haute en couleur. Canal Nyhavn, Copenhague, Danemark",
+      "it-IT": "Copenaghen a colori",
+      "ja-JP": "静かな水面に映るカラフルな街並み",
+      "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦",
+      "en-IN": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "en-US": "Copenhagen in full color. Colorful homes line Nyhavn Canal, Copenhagen, Denmark",
+      "en-CA": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark",
+      "es-ES": "Copenhague a todo color. Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca",
+      "pt-BR": "Um porto entre capítulos. Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca"
     },
     "copyrights": {
-      "en-US": "A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)",
-      "en-GB": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
-      "en-CA": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
-      "de-DE": "Ein Seetangwald vor Anacapa Island, Channel Islands National Park, Kalifornien, USA (© Ian Shive/Tandem Stills + Motion)",
-      "fr-FR": "Une forêt de varech au large d'Anacapa Island, Parc national des Channel Islands, Californie, États-Unis (© Ian Shive/Tandem Stills + Motion)",
-      "it-IT": "Una foresta di alghe al largo dell'isola di Anacapa, Parco Nazionale delle Isole del Canale, California, USA (© Ian Shive/Tandem Stills + Motion)",
-      "es-ES": "Un bosque de algas cerca de la isla Anacapa, Parque Nacional de las Islas del Canal, California, EE. UU.  (© Ian Shive/Tandem Stills + Motion)",
-      "pt-BR": "Floresta de kelp perto da Ilha Anacapa, Parque Nacional das Ilhas do Canal, Califórnia, Estados Unidos (© Ian Shive/Tandem Stills + Motion)",
-      "zh-CN": "一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)",
-      "en-IN": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)"
+      "en-GB": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "de-DE": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
+      "fr-FR": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
+      "it-IT": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
+      "ja-JP": "ニューハウン, デンマーク (© emicristea/Getty Images)",
+      "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)",
+      "en-IN": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "en-US": "© emicristea/Getty Images",
+      "en-CA": "© emicristea/Getty Images",
+      "es-ES": "© emicristea/Getty Images",
+      "pt-BR": "© emicristea/Getty Images"
     },
     "descs": {
-      "en-US": "Off Anacapa Island, California, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 100 feet in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
-      "en-GB": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
-      "en-CA": "Off Anacapa Island, California in the United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by root-like holdfasts.",
-      "de-DE": "Am 28. Juli lenkt der Welttag des Naturschutzes die Aufmerksamkeit auf Lebensräume, die oft verborgen bleiben. Dazu gehören die Seetangwälder vor Anacapa Island im Channel Islands National Park in Kalifornien. Die Region wird wegen ihrer außergewöhnlichen Artenvielfalt häufig als „Galápagos Nordamerikas“ bezeichnet. Riesentang kann hier über 30 Meter lang werden und unter günstigen Bedingungen täglich bis zu 60 Zentimeter wachsen. Seine dichten Bestände reichen von der Wasseroberfläche bis zum Meeresboden und schaffen einen Lebensraum für zahlreiche Tiere und Pflanzen.",
-      "fr-FR": "Au large d'Anacapa Island, dans le parc national des Channel Islands, aux États-Unis, la lumière californienne se fragmente sous la surface en milliers d'éclats verts et dorés. La mer a sculpté ses propres cathédrales : des forêts de varech géant s'élevant à plus de trente mètres du fond, leurs frondes ondulant comme des rubans de soie, maintenues en surface par de petits flotteurs remplis d'air.",
-      "es-ES": "Frente a la isla Anacapa, en el Parque Nacional Islas del Canal de California, el océano alberga uno de los ecosistemas más espectaculares del planeta: los bosques de algas gigantes. El kelp puede superar los 30 metros de altura, formando imponentes columnas que la luz solar atraviesa como si fueran vidrieras naturales.",
-      "en-IN": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
-      "it-IT": "Al largo dell'isola di Anacapa, in California, l'oceano ha costruito le proprie foreste. Nelle acque del Parco Nazionale delle Isole del Canale — soprannominato le \"Galápagos del Nord America\" — le alghe giganti si estendono per oltre trenta metri in lunghezza, formando nastri ondeggianti sostenuti da vesciche d'aria e ancorati al fondale da strutture simili a radici.",
-      "pt-BR": "Quem imagina uma floresta costuma pensar em troncos, folhas e canto de pássaros. Mas perto da Ilha Anacapa, na Califórnia, a imagem revela uma versão completamente diferente. Sob a superfície, algas-gigantes conhecidas como kelps formam uma floresta vertical capaz de crescer mais de 60 centímetros por dia e passar dos 30 metros de altura. Cheias de pequenas bolsas de ar, elas sobem em direção à luz enquanto permanecem ancoradas ao fundo do mar.",
-      "zh-CN": "生机律动，恒久之衡. 一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国. 在美国加利福尼亚州，海峡群岛国家公园，安纳卡帕岛附近，海洋孕育着属于自己的森林。在被称为“北美洲加拉帕戈斯”的海峡群岛国家公园内，巨藻的长度可超过 100 英尺，它们通过充满空气的气囊在水中形成具有浮力的丝带，并由底部的根状固着器锚定在海床之上。"
+      "en-GB": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark. In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
+      "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
+      "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
+      "ja-JP": "静かな水面に映るカラフルな街並み. ニューハウン, デンマーク. ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
+      "en-IN": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark. In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks.",
+      "en-US": "Copenhagen in full color. Colorful homes line Nyhavn Canal, Copenhagen, Denmark. In Copenhagen, Nyhavn Canal is a burst of color and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships.",
+      "en-CA": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
+      "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
+      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
+      "pt-BR": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
+      "zh-CN": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。"
     },
     "quickFacts": {
-      "zh-CN": "海獭是此处的关键种；通过捕食海胆，它们能防止海藻林被过度啃食，在安纳卡帕岛附近，海峡群岛国家公园，美国。"
+      "zh-CN": "汉斯·克里斯蒂安·安徒生一生中曾在新港的18号、20号和67号三个不同地址居住。"
     },
     "captions": {
-      "en-US": "World Nature Conservation Day",
-      "en-GB": "World Nature Conservation Day",
-      "en-CA": "World Nature Conservation Day",
-      "de-DE": "Welttag des Naturschutzes",
-      "fr-FR": "Journée mondiale de la conservation de la nature",
+      "en-GB": "Nyhavn Canal, Copenhagen, Denmark",
+      "de-DE": "Nyhavn-Kanal, Kopenhagen, Dänemark",
+      "fr-FR": "Canal Nyhavn, Copenhague, Danemark",
       "it-IT": "",
-      "es-ES": "Día Mundial de la Conservación de la Naturaleza",
-      "pt-BR": "",
+      "ja-JP": "静かな水面に映るカラフルな街並み",
       "zh-CN": "",
-      "en-IN": "World Nature Conservation Day"
+      "en-IN": "Nyhavn Canal, Copenhagen, Denmark"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260728_0700%22",
-      "en-GB": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260727_2300%22",
-      "en-CA": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260728_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Welttag+des+Naturschutzes&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Conservation+de+la+nature&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+Mondiale+per+la+Conservazione+della+Natura&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+la+Conservaci%c3%b3n+de+la+Naturaleza&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+da+Conserva%c3%a7%c3%a3o+da+Natureza&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e8%87%aa%e7%84%b6%e4%bf%9d%e6%8a%a4%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260727_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260810_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Nyhavn-Kanal+Kopenhagen&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Canal+Nyhavn+Copenhague&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Copenaghen&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%8f%e3%82%a6%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260809_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%93%a5%e6%9c%ac%e5%93%88%e6%a0%b9%e6%96%b0%e6%b8%af%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260810_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.ChannelKelp_EN-US3809417919",
-      "en-GB": "/th?id=OHR.ChannelKelp_EN-GB5530574227",
-      "en-CA": "/th?id=OHR.ChannelKelp_EN-CA9531487501",
-      "de-DE": "/th?id=OHR.ChannelKelp_DE-DE2528098746",
-      "fr-FR": "/th?id=OHR.ChannelKelp_FR-FR7114923921",
-      "it-IT": "/th?id=OHR.ChannelKelp_IT-IT8356704681",
-      "es-ES": "/th?id=OHR.ChannelKelp_ES-ES2666922160",
-      "pt-BR": "/th?id=OHR.ChannelKelp_PT-BR8544444735",
-      "zh-CN": "/th?id=OHR.ChannelKelp_ZH-CN8732903732",
-      "en-IN": "/th?id=OHR.ChannelKelp_EN-IN9944710575"
-    }
-  },
-  "ChicagoTiffany": {
-    "name": "ChicagoTiffany",
-    "urlbase": "/th?id=OHR.ChicagoTiffany_EN-US3297949501",
-    "date": "20260727",
-    "dateFormatted": "July 27, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois",
-      "en-CA": "Chicago, look up! Tiffany Dome, Chicago Cultural Centre, Illinois, United States",
-      "pt-BR": "O céu de vidro de Chicago",
-      "en-GB": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois, United States",
-      "de-DE": "Wo Architektur strahlt. Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA",
-      "ja-JP": "灯りゆれる大空間",
-      "zh-CN": "仰望芝城，流光溢彩",
-      "en-IN": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois, United States",
-      "es-ES": "¡Chicago, mira hacia arriba!. Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU."
-    },
-    "copyrights": {
-      "en-US": "Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)",
-      "en-CA": "Tiffany Dome, Chicago Cultural Centre, Illinois, United States (© Felix Lipov/Shutterstock)",
-      "pt-BR": "Cúpula Tiffany, Centro Cultural de Chicago, Illinois, Estados Unidos (© Felix Lipov/Shutterstock)",
-      "en-GB": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)",
-      "de-DE": "Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA (© Felix Lipov/Shutterstock)",
-      "ja-JP": "シカゴ文化センター, 米国 イリノイ州 (© Felix Lipov/Shutterstock)",
-      "zh-CN": "蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)",
-      "en-IN": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)",
-      "es-ES": "Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.  (© Felix Lipov/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "Step inside the Chicago Cultural Center, and your eyes are instantly drawn upward to a glowing canopy of color—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans approximately 38 feet in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
-      "en-CA": "Step inside the Chicago Cultural Centre, and your eyes are instantly drawn upward to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans approximately 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
-      "en-GB": "Step inside the Chicago Cultural Center in Illinois, United States, and your eyes are instantly drawn upwards to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans over 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
-      "de-DE": "Im Herzen des Chicago Cultural Center im US-Bundesstaat Illinois zieht die Tiffany-Kuppel mit ihrem farbenreichen Glasdesign die Aufmerksamkeit auf sich. Das Kunstwerk überspannt die Preston Bradley Hall und erreicht einen Durchmesser von rund 11,6 Metern. Etwa 30.000 Stücke aus Favrile-Glas formen die beeindruckende Konstruktion, deren Oberfläche an schimmernde Fischschuppen erinnert. Je nach Tageszeit verändert das einfallende Licht ihre Wirkung und lässt immer neue Farbnuancen im Raum entstehen.",
-      "ja-JP": "ここは米国のシカゴ文化センターにあるプレストン・ブラッドリー・ホール。一歩足を踏み入れれば、視線はたちまちティファニー・ドームの輝く天蓋へと引き寄せられます。ドームの直径はおよそ 11m で、魚の鱗のような形をしたティファニー製ガラス片を約 3 万個組み合わせて作られています。シカゴ文化センターは、1897 年にシカゴ初の公共図書館として開館しました。1978 年に芸術文化センターとなり、以降現在まで何度か改修されながら、地域の文化拠点として親しまれています。",
-      "en-IN": "Step inside the Chicago Cultural Center in Illinois, United States, and your eyes are instantly drawn upwards to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans over 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
-      "es-ES": "En el corazón de Chicago, Estados Unidos, una cúpula de vidrio parece transformar la luz en arte. Suspendida sobre el Preston Bradley Hall del Chicago Cultural Center, la famosa Tiffany Dome deslumbra con sus tonos azules y dorados, creados por unas 30.000 piezas de vidrio Favrile dispuestas como escamas. A medida que la luz natural atraviesa la estructura, los colores cambian y llenan el espacio de reflejos que convierten cada visita en una experiencia diferente.",
-      "pt-BR": "Se algum dia você visitar o Centro Cultural de Chicago, em Illinois, Estados Unidos, olhe para cima. A imagem mostra a impressionante Cúpula Tiffany, um círculo de quase 12 metros formado por cerca de 30 mil peças de vidro encaixadas como escamas. Quando o sol atravessa esse quebra-cabeça colorido, o ambiente inteiro muda de humor.",
-      "zh-CN": "仰望芝城，流光溢彩. 蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国. 步入位于美国，伊利诺伊州，芝加哥文化中心的建筑内部，目光瞬间会被上方绚丽夺目的彩色顶棚——蒂芙尼穹顶所吸引。这座艺术杰作悬挂在普雷斯顿·布拉德利大厅上方，直径约38英尺，由约30,000片法夫里尔玻璃组成，每片玻璃都呈鱼鳞状。阳光透过其半透明的表面，在错综复杂的图案中映射出变幻莫测的蓝色与金色。"
-    },
-    "quickFacts": {
-      "zh-CN": "穹顶基座饰有十二星座图案，其玻璃工艺旨在模仿波光粼粼且具有虹彩质感的海面，在美国伊利诺伊州芝加哥文化中心。"
-    },
-    "captions": {
-      "en-US": "Tiffany Dome, Chicago Cultural Center, Illinois",
-      "en-CA": "Tiffany Dome, Chicago Cultural Centre, Illinois, United States",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260727_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260727_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=C%c3%bapula+Tiffany+Centro+Cultural+de+Chicago&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.ChicagoTiffany_EN-US3297949501",
-      "en-CA": "/th?id=OHR.ChicagoTiffany_EN-CA9232454244",
-      "pt-BR": "/th?id=OHR.ChicagoTiffany_PT-BR8094909459"
-    }
-  },
-  "SandPath": {
-    "name": "SandPath",
-    "urlbase": "/th?id=OHR.SandPath_EN-GB4047990489",
-    "date": "20260809",
-    "dateFormatted": "August 09, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Where two deserts collide. Joshua Tree National Park, California, United States",
-      "de-DE": "Wo zwei Wüsten aufeinandertreffen. Joshua-Tree-Nationalpark, Kalifornien, USA",
-      "fr-FR": "Un point de rencontre aride. Parc national Joshua Tree, Californie, États-Unis",
-      "es-ES": "Donde chocan dos desiertos. Parque Nacional Joshua Tree, California, EE. UU.",
-      "zh-CN": "约书亚树国家公园，加利福尼亚州，美国",
-      "en-IN": "Where two deserts collide. Joshua Tree National Park, California, United States",
-      "en-US": "Where two deserts collide. Joshua Tree National Park, California",
-      "en-CA": "Where two deserts collide. Joshua Tree National Park, California, United States"
-    },
-    "copyrights": {
-      "en-GB": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
-      "de-DE": "Joshua-Tree-Nationalpark, Kalifornien, USA (© JJ Landscapes/Getty Images)",
-      "fr-FR": "Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images)",
-      "es-ES": "Parque Nacional Joshua Tree, California, EE. UU. (© JJ Landscapes/Getty Images)",
-      "zh-CN": "约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)",
-      "en-IN": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
-      "en-US": "© JJ Landscapes/Getty Images",
-      "en-CA": "© JJ Landscapes/Getty Images"
-    },
-    "descs": {
-      "en-GB": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
-      "de-DE": "Wo zwei Wüstenlandschaften aufeinandertreffen, entfaltet der Joshua-Tree-Nationalpark im US-Bundesstaat Kalifornien eine außergewöhnliche Szenerie. Das Schutzgebiet im Südwesten der USA verbindet die höher gelegene Mojave-Wüste mit der heißeren Colorado-Wüste und schafft dadurch vielfältige Lebensräume. Auf einer Fläche von mehr als 3.200 Quadratkilometern prägen die charakteristischen Joshua-Palmlilien das Bild. Zwischen sandigen Ebenen und mächtigen Granitfelsen entstehen eindrucksvolle Kontraste, die diese Landschaft unverwechselbar machen. Wind, Erosion und starke Temperaturschwankungen haben die Felsformationen über Millionen von Jahren geformt.",
-      "fr-FR": "À l’endroit où se rencontrent deux grands déserts du sud de la Californie (États-Unis), le parc national Joshua Tree révèle un paysage spectaculaire façonné par les vents, les contrastes climatiques et les millénaires. Le désert de Mojave, situé en altitude, rejoint le désert du Colorado, plus chaud, créant une remarquable diversité de milieux naturels.",
-      "es-ES": "Donde el desierto de Mojave y el desierto de Colorado se encuentran, el Parque Nacional Joshua Tree, en California, EE. UU., despliega un paisaje de belleza perturbadora: llanuras arenosas salpicadas de yucas de silueta retorcida, bloques de granito esculpidos durante millones de años y un silencio que solo rompen el viento y los buitres. Este territorio —declarado monumento nacional un día como hoy en 1936 y elevado a parque nacional en 1994— abarca unas 320.000 hectáreas de ecosistemas únicos.",
-      "en-IN": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
-      "en-US": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerizing landscape shaped by wind, time, and extremes. In Southern California, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
-      "en-CA": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
-      "zh-CN": "两片大沙漠交汇之处，约书亚树国家公园展现出由风、时间和极端环境塑造的冷峻迷人景观。在南加利福尼亚州，海拔较高的莫哈韦沙漠与更炎热、地势更低的科罗拉多沙漠相融，形成独特的生态系统组合与非凡的生物多样性。"
-    },
-    "quickFacts": {
-      "zh-CN": "约书亚树地区的二长花岗岩最初是熔融岩体，在一亿多年前于地下冷却形成。"
-    },
-    "captions": {
-      "en-GB": "Joshua Tree National Park, California, United States",
-      "de-DE": "Joshua-Tree-Nationalpark, Kalifornien, USA",
-      "fr-FR": "Parc national Joshua Tree, Californie, États-Unis",
-      "es-ES": "Parque Nacional Joshua Tree, California, EE. UU.",
-      "zh-CN": "",
-      "en-IN": "Joshua Tree National Park, California, United States"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260809_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Joshua-Tree-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Parc+national+Joshua+Tree+&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+Joshua+Tree&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%ba%a6%e4%b9%a6%e4%ba%9a%e6%a0%91%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260809_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.SandPath_EN-GB4047990489",
-      "de-DE": "/th?id=OHR.SandPath_DE-DE5965414761",
-      "fr-FR": "/th?id=OHR.SandPath_FR-FR7702357138",
-      "es-ES": "/th?id=OHR.SandPath_ES-ES7679772396",
-      "zh-CN": "/th?id=OHR.SandPath_ZH-CN7820825668",
-      "en-IN": "/th?id=OHR.SandPath_EN-IN0786758834"
+      "en-GB": "/th?id=OHR.ColorfulCop_EN-GB4254714055",
+      "de-DE": "/th?id=OHR.ColorfulCop_DE-DE9077062253",
+      "fr-FR": "/th?id=OHR.ColorfulCop_FR-FR8595384019",
+      "it-IT": "/th?id=OHR.ColorfulCop_IT-IT3126463813",
+      "ja-JP": "/th?id=OHR.ColorfulCop_JA-JP4331289983",
+      "zh-CN": "/th?id=OHR.ColorfulCop_ZH-CN8015611442",
+      "en-IN": "/th?id=OHR.ColorfulCop_EN-IN0862473585"
     }
   },
   "BristolBalloonFiesta2026": {
@@ -2215,7 +2213,10 @@
       "es-ES": "Una anémona de primera. Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
       "ja-JP": "イソギンチャクにすむ小魚たち. カクレクマノミ, フィリピン",
       "zh-CN": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾",
-      "en-IN": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines"
+      "en-IN": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
+      "en-US": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
+      "en-CA": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
+      "pt-BR": "O bairro mais vibrante do oceano. Três peixes-palhaço falsos em uma anêmona-do-mar, Ilha Cabilao, Bohol, Filipinas"
     },
     "copyrights": {
       "it-IT": "Pesci pagliaccio in un anemone di mare, isola di Cabilao, Bohol, Filippine (© Franco Banfi/Nature Picture Library)",
@@ -2225,7 +2226,10 @@
       "es-ES": "© Franco Banfi/Nature Picture Library",
       "ja-JP": "© Franco Banfi/Nature Picture Library",
       "zh-CN": "© Franco Banfi/Nature Picture Library",
-      "en-IN": "© Franco Banfi/Nature Picture Library"
+      "en-IN": "© Franco Banfi/Nature Picture Library",
+      "en-US": "© Franco Banfi/Nature Picture Library",
+      "en-CA": "© Franco Banfi/Nature Picture Library",
+      "pt-BR": "© Franco Banfi/Nature Picture Library"
     },
     "descs": {
       "it-IT": "Nelle acque della barriera corallina dell'isola di Cabilao, a Bohol, nelle Filippine, i pesci pagliaccio hanno trovato la casa definitiva: un anemone di mare armato di migliaia di cellule urticanti microscopiche, in grado di tenere lontano qualsiasi intruso. Per la maggior parte dei pesci, avvicinarsi a un anemone equivale a entrare in un campo minato; per questi piccoli abitanti dai colori vivaci, è semplicemente il loro indirizzo di casa.",
@@ -2235,7 +2239,10 @@
       "es-ES": "En los arrecifes de la isla Cabilao, en Bohol, Filipinas, los peces payaso han encontrado el hogar definitivo: una anémona de mar armada con miles de células urticantes microscópicas que mantienen alejado a cualquier intruso. Para la mayoría de los peces, acercarse a una anémona equivale a tocar un campo de minas; para estos pequeños habitantes de colores, es simplemente su dirección.",
       "ja-JP": "今日の画像は、フィリピン・ボホール州のカビラオ島で撮影されたイソギンチャクにすむカクレクマノミ。多くの魚にとってイソギンチャクは刺胞を持つ危険な存在ですが、クマノミは特殊な粘液によって身体を守っているため、触手の間を安全な住処として利用できます。一方で、捕食者を追い払ったり食べ残しを与えたりすることでイソギンチャクにも利益をもたらすという共生関係を築いています。クマノミは、すべてオスとして生まれたあと、群れからメスがいなくなると最も大きなオスが性転換してメスになるという特徴があります。",
       "zh-CN": "地点很重要。看看图片中菲律宾卡比劳岛附近卡比劳附近的灯塔礁的眼斑双锯鱼就知道了。在这片充满饥饿捕食者和激烈竞争的热带水域，它们占据了一块黄金地段：一只拥有数千个微小刺细胞的海葵。",
-      "en-IN": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells."
+      "en-IN": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "en-US": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "en-CA": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "pt-BR": "No fundo do mar, endereço vale ouro. A imagem mostra um peixe-palhaço falso vivendo em um apartamento de luxo: uma anêmona-do-mar na Ilha Cabilao, nas Filipinas. Para qualquer outro peixe, aqueles tentáculos são uma coleção de milhares de ferrões microscópicos. Para ele, são portaria, muro e sistema de segurança funcionando 24 horas por dia."
     },
     "quickFacts": {
       "zh-CN": "眼斑双锯鱼（俗称“公子小丑鱼”）的学名为 Amphiprion ocellaris；根据世界鱼类数据库（FishBase）的记录，该物种具有 11 根背鳍鳍棘。"
@@ -2280,6 +2287,38 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.IsoleEolie_IT-IT8736401041"
+    }
+  },
+  "LloretdeMar": {
+    "name": "LloretdeMar",
+    "urlbase": "/th?id=OHR.LloretdeMar_ES-ES9587440947",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Donde las rocas se transforman. Camino de Ronda, Lloret de Mar, Girona, Cataluña, España"
+    },
+    "copyrights": {
+      "es-ES": "Camino de Ronda, Lloret de Mar, Girona, Cataluña (© MEDITERRANEAN/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Desde los acantilados de Lloret de Mar, en Girona, Cataluña, el Camino de Ronda serpentea por una costa brava en el sentido más literal del término: salvaje, recortada y sorprendente. Esta ruta histórica, que recorre calas escondidas, peñascos batidos por el Mediterráneo y bosques de pinos que llegan hasta el mar, fue trazada originalmente para que los carabineros vigilaran el litoral ante el contrabando. Hoy es uno de los paseos costeros más espectaculares de España."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Camino de Ronda, Lloret de Mar, Girona, Cataluña, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Girona&form=hpcapt&filters=HpDate%3a%2220260810_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.LloretdeMar_ES-ES9587440947"
     }
   },
   "SantaCatalina": {
@@ -2375,6 +2414,38 @@
       "es-ES": "/th?id=OHR.DeltaEbro_ES-ES3023885514"
     }
   },
+  "Golfinhos": {
+    "name": "Golfinhos",
+    "urlbase": "/th?id=OHR.Golfinhos_PT-BR2634808905",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Coreografias sob as ondas"
+    },
+    "copyrights": {
+      "pt-BR": "Golfinhos-rotadores no mar azul de Fernando de Noronha, Pernambuco (© cabuscaa/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Alguns visitantes de Fernando de Noronha chegam de avião. Outros aparecem sem fazer reserva, mas nunca faltam ao compromisso. Os golfinhos-rotadores seguem uma rotina tão previsível que, em muitas manhãs, basta olhar para a Baía dos Golfinhos para encontrá-los descansando depois de uma noite inteira de caça em mar aberto."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Noronha+Pernambuco&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Golfinhos_PT-BR2634808905"
+    }
+  },
   "Maracatu": {
     "name": "Maracatu",
     "urlbase": "/th?id=OHR.Maracatu_PT-BR9312687500",
@@ -2439,11 +2510,11 @@
       "pt-BR": "/th?id=OHR.Furada_PT-BR7092103592"
     }
   },
-  "ColorfulCop": {
-    "name": "ColorfulCop",
-    "urlbase": "/th?id=OHR.ColorfulCop_JA-JP4331289983",
-    "date": "20260809",
-    "dateFormatted": "August 09, 2026",
+  "MountainDay2026": {
+    "name": "MountainDay2026",
+    "urlbase": "/th?id=OHR.MountainDay2026_JA-JP4675980762",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
     "markets": [
       {
         "code": "ja-JP",
@@ -2452,55 +2523,23 @@
       }
     ],
     "titles": {
-      "ja-JP": "静かな水面に映るカラフルな街並み",
-      "en-US": "Copenhagen in full color. Colorful homes line Nyhavn Canal, Copenhagen, Denmark",
-      "en-GB": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark",
-      "en-CA": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark",
-      "de-DE": "Kopenhagen in voller Farbe. Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark",
-      "fr-FR": "Copenhague haute en couleur. Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark",
-      "it-IT": "Copenaghen a colori. Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca",
-      "es-ES": "Copenhague a todo color. Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca",
-      "pt-BR": "Um porto entre capítulos. Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca",
-      "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦",
-      "en-IN": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark"
+      "ja-JP": "今日は山の日"
     },
     "copyrights": {
-      "ja-JP": "ニューハウン, デンマーク (© emicristea/Getty Images)",
-      "en-US": "© emicristea/Getty Images",
-      "en-GB": "© emicristea/Getty Images",
-      "en-CA": "© emicristea/Getty Images",
-      "de-DE": "© emicristea/Getty Images",
-      "fr-FR": "© emicristea/Getty Images",
-      "it-IT": "© emicristea/Getty Images",
-      "es-ES": "© emicristea/Getty Images",
-      "pt-BR": "© emicristea/Getty Images",
-      "zh-CN": "© emicristea/Getty Images",
-      "en-IN": "© emicristea/Getty Images"
+      "ja-JP": "日本アルプス (© Sergey Alimov/Getty Images)"
     },
     "descs": {
-      "ja-JP": "静かな水面に映るカラフルな街並み. ニューハウン, デンマーク. ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
-      "en-US": "Copenhagen in full color. Colorful homes line Nyhavn Canal, Copenhagen, Denmark. In Copenhagen, Nyhavn Canal is a burst of color and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships.",
-      "en-GB": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark. In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
-      "en-CA": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
-      "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
-      "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
-      "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
-      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
-      "pt-BR": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
-      "zh-CN": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。",
-      "en-IN": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark. In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks."
+      "ja-JP": "今日は山の日. 日本アルプス. 今日 8 月 11 日は山の日。「山に親しむ機会を得て、山の恩恵に感謝する」ことを趣旨として、2014 年に制定、2016 年から施行された国民の祝日です。そして画像は、中部山岳国立公園に属する、日本屈指の鋭く険しい岩峰が連なる、息を呑むような大絶景が広がる日本有数の山岳エリアで、多くの登山者を魅了しています。"
     },
-    "quickFacts": {
-      "zh-CN": "汉斯·克里斯蒂安·安徒生一生中曾在新港的18号、20号和67号三个不同地址居住。"
-    },
+    "quickFacts": {},
     "captions": {
-      "ja-JP": "静かな水面に映るカラフルな街並み"
+      "ja-JP": "今日は山の日"
     },
     "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%8f%e3%82%a6%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260809_1500%22"
+      "ja-JP": "https://www.bing.com/search?q=%e5%b1%b1%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260810_1500%22"
     },
     "urlbases": {
-      "ja-JP": "/th?id=OHR.ColorfulCop_JA-JP4331289983"
+      "ja-JP": "/th?id=OHR.MountainDay2026_JA-JP4675980762"
     }
   },
   "HiroshimaPeaceMemorial2026": {
@@ -2565,64 +2604,6 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053"
-    }
-  },
-  "KaysersbergVillage": {
-    "name": "KaysersbergVillage",
-    "urlbase": "/th?id=OHR.KaysersbergVillage_JA-JP4774929635",
-    "date": "20260727",
-    "dateFormatted": "July 27, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "渓谷に息づく美しい村",
-      "en-CA": "This is your detour. Kaysersberg, Alsace, France",
-      "pt-BR": "Do império à enoteca",
-      "de-DE": "Im Herzen des Elsass. Kaysersberg, Elsass, Frankreich",
-      "fr-FR": "Faire un Tour au village. Kaysersberg, Alsace",
-      "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
-      "zh-CN": "此行，不虚绕道",
-      "en-IN": "This is your detour. Kaysersberg, Alsace, France",
-      "en-GB": "This is your detour. Kaysersberg, Alsace, France"
-    },
-    "copyrights": {
-      "ja-JP": "ケゼルスベール, フランス (© Federica Gentile/Getty Images)",
-      "en-CA": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-      "pt-BR": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
-      "de-DE": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
-      "fr-FR": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
-      "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
-      "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
-      "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-      "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "ここはフランス・アルザス地方に位置するケゼルスベール（カイゼルスベルグ）。ワイス川沿い、ヴォージュ山脈東斜面に広がる歴史ある町です。町の名前は「皇帝の山」を意味し、1227 年、神聖ローマ皇帝フリードリヒ 2 世が谷を見張るため城を築いたことに由来します。町のあらゆる所に歴史の面影があり、石畳の通りや木組みの家並み、石造の橋、サンクロワ教会のステンドグラスなど、時代を感じる景色を楽しむことができます。",
-      "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
-      "de-DE": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
-      "fr-FR": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
-      "es-ES": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
-      "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
-      "en-GB": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
-      "pt-BR": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
-      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。"
-    },
-    "quickFacts": {
-      "zh-CN": "白鹳（Ciconia ciconia）的复育生境在凯泽斯堡，阿尔萨斯，法国具有典型的生态指标意义，自1970年代险些灭绝后的保护行动，使这种标志性鸟类重新在村落的烟囱顶端筑巢，成为衡量当地跨区域生态系统健康的重要标志。"
-    },
-    "captions": {
-      "ja-JP": "渓谷に息づく美しい村"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%a4%e3%82%bc%e3%83%ab%e3%82%b9%e3%83%99%e3%83%ab%e3%82%b0&form=hpcapt&filters=HpDate%3a%2220260727_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.KaysersbergVillage_JA-JP4774929635"
     }
   },
   "ValleyDreams": {
@@ -2707,6 +2688,138 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905"
+    }
+  },
+  "ChicagoTiffany": {
+    "name": "ChicagoTiffany",
+    "urlbase": "/th?id=OHR.ChicagoTiffany_EN-US3297949501",
+    "date": "20260727",
+    "dateFormatted": "July 27, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois",
+      "en-CA": "Chicago, look up! Tiffany Dome, Chicago Cultural Centre, Illinois, United States",
+      "pt-BR": "O céu de vidro de Chicago",
+      "en-GB": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois, United States",
+      "de-DE": "Wo Architektur strahlt. Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA",
+      "ja-JP": "灯りゆれる大空間",
+      "zh-CN": "仰望芝城，流光溢彩",
+      "en-IN": "Chicago, look up! Tiffany Dome, Chicago Cultural Center, Illinois, United States",
+      "es-ES": "¡Chicago, mira hacia arriba!. Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU."
+    },
+    "copyrights": {
+      "en-US": "Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)",
+      "en-CA": "Tiffany Dome, Chicago Cultural Centre, Illinois, United States (© Felix Lipov/Shutterstock)",
+      "pt-BR": "Cúpula Tiffany, Centro Cultural de Chicago, Illinois, Estados Unidos (© Felix Lipov/Shutterstock)",
+      "en-GB": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)",
+      "de-DE": "Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA (© Felix Lipov/Shutterstock)",
+      "ja-JP": "シカゴ文化センター, 米国 イリノイ州 (© Felix Lipov/Shutterstock)",
+      "zh-CN": "蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)",
+      "en-IN": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)",
+      "es-ES": "Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.  (© Felix Lipov/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Step inside the Chicago Cultural Center, and your eyes are instantly drawn upward to a glowing canopy of color—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans approximately 38 feet in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
+      "en-CA": "Step inside the Chicago Cultural Centre, and your eyes are instantly drawn upward to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans approximately 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
+      "en-GB": "Step inside the Chicago Cultural Center in Illinois, United States, and your eyes are instantly drawn upwards to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans over 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
+      "de-DE": "Im Herzen des Chicago Cultural Center im US-Bundesstaat Illinois zieht die Tiffany-Kuppel mit ihrem farbenreichen Glasdesign die Aufmerksamkeit auf sich. Das Kunstwerk überspannt die Preston Bradley Hall und erreicht einen Durchmesser von rund 11,6 Metern. Etwa 30.000 Stücke aus Favrile-Glas formen die beeindruckende Konstruktion, deren Oberfläche an schimmernde Fischschuppen erinnert. Je nach Tageszeit verändert das einfallende Licht ihre Wirkung und lässt immer neue Farbnuancen im Raum entstehen.",
+      "ja-JP": "ここは米国のシカゴ文化センターにあるプレストン・ブラッドリー・ホール。一歩足を踏み入れれば、視線はたちまちティファニー・ドームの輝く天蓋へと引き寄せられます。ドームの直径はおよそ 11m で、魚の鱗のような形をしたティファニー製ガラス片を約 3 万個組み合わせて作られています。シカゴ文化センターは、1897 年にシカゴ初の公共図書館として開館しました。1978 年に芸術文化センターとなり、以降現在まで何度か改修されながら、地域の文化拠点として親しまれています。",
+      "en-IN": "Step inside the Chicago Cultural Center in Illinois, United States, and your eyes are instantly drawn upwards to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans over 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
+      "es-ES": "En el corazón de Chicago, Estados Unidos, una cúpula de vidrio parece transformar la luz en arte. Suspendida sobre el Preston Bradley Hall del Chicago Cultural Center, la famosa Tiffany Dome deslumbra con sus tonos azules y dorados, creados por unas 30.000 piezas de vidrio Favrile dispuestas como escamas. A medida que la luz natural atraviesa la estructura, los colores cambian y llenan el espacio de reflejos que convierten cada visita en una experiencia diferente.",
+      "pt-BR": "Se algum dia você visitar o Centro Cultural de Chicago, em Illinois, Estados Unidos, olhe para cima. A imagem mostra a impressionante Cúpula Tiffany, um círculo de quase 12 metros formado por cerca de 30 mil peças de vidro encaixadas como escamas. Quando o sol atravessa esse quebra-cabeça colorido, o ambiente inteiro muda de humor.",
+      "zh-CN": "仰望芝城，流光溢彩. 蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国. 步入位于美国，伊利诺伊州，芝加哥文化中心的建筑内部，目光瞬间会被上方绚丽夺目的彩色顶棚——蒂芙尼穹顶所吸引。这座艺术杰作悬挂在普雷斯顿·布拉德利大厅上方，直径约38英尺，由约30,000片法夫里尔玻璃组成，每片玻璃都呈鱼鳞状。阳光透过其半透明的表面，在错综复杂的图案中映射出变幻莫测的蓝色与金色。"
+    },
+    "quickFacts": {
+      "zh-CN": "穹顶基座饰有十二星座图案，其玻璃工艺旨在模仿波光粼粼且具有虹彩质感的海面，在美国伊利诺伊州芝加哥文化中心。"
+    },
+    "captions": {
+      "en-US": "Tiffany Dome, Chicago Cultural Center, Illinois",
+      "en-CA": "Tiffany Dome, Chicago Cultural Centre, Illinois, United States",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260727_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260727_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=C%c3%bapula+Tiffany+Centro+Cultural+de+Chicago&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ChicagoTiffany_EN-US3297949501",
+      "en-CA": "/th?id=OHR.ChicagoTiffany_EN-CA9232454244",
+      "pt-BR": "/th?id=OHR.ChicagoTiffany_PT-BR8094909459"
+    }
+  },
+  "KaysersbergVillage": {
+    "name": "KaysersbergVillage",
+    "urlbase": "/th?id=OHR.KaysersbergVillage_JA-JP4774929635",
+    "date": "20260727",
+    "dateFormatted": "July 27, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "渓谷に息づく美しい村",
+      "en-CA": "This is your detour. Kaysersberg, Alsace, France",
+      "pt-BR": "Do império à enoteca",
+      "de-DE": "Im Herzen des Elsass. Kaysersberg, Elsass, Frankreich",
+      "fr-FR": "Faire un Tour au village. Kaysersberg, Alsace",
+      "es-ES": "Este es tu desvío. Kaysersberg, Alsacia, Francia",
+      "zh-CN": "此行，不虚绕道",
+      "en-IN": "This is your detour. Kaysersberg, Alsace, France",
+      "en-GB": "This is your detour. Kaysersberg, Alsace, France"
+    },
+    "copyrights": {
+      "ja-JP": "ケゼルスベール, フランス (© Federica Gentile/Getty Images)",
+      "en-CA": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "pt-BR": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
+      "de-DE": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
+      "fr-FR": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
+      "es-ES": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
+      "zh-CN": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
+      "en-IN": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "en-GB": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "ここはフランス・アルザス地方に位置するケゼルスベール（カイゼルスベルグ）。ワイス川沿い、ヴォージュ山脈東斜面に広がる歴史ある町です。町の名前は「皇帝の山」を意味し、1227 年、神聖ローマ皇帝フリードリヒ 2 世が谷を見張るため城を築いたことに由来します。町のあらゆる所に歴史の面影があり、石畳の通りや木組みの家並み、石造の橋、サンクロワ教会のステンドグラスなど、時代を感じる景色を楽しむことができます。",
+      "en-CA": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
+      "de-DE": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
+      "fr-FR": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
+      "es-ES": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
+      "en-IN": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
+      "en-GB": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
+      "pt-BR": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
+      "zh-CN": "此行，不虚绕道. 凯泽斯堡，阿尔萨斯，法国. 7月4日，环法自行车赛拉开帷幕——这正是聚焦法国东北部阿尔萨斯地区凯泽斯堡（Kaysersberg）村落的绝佳时机。这座历史名城坐落在维斯河（Weiss River）畔，位于科尔马（Colmar）西北约12公里处，地处孚日山脉（Vosges Mountains）的东坡。"
+    },
+    "quickFacts": {
+      "zh-CN": "白鹳（Ciconia ciconia）的复育生境在凯泽斯堡，阿尔萨斯，法国具有典型的生态指标意义，自1970年代险些灭绝后的保护行动，使这种标志性鸟类重新在村落的烟囱顶端筑巢，成为衡量当地跨区域生态系统健康的重要标志。"
+    },
+    "captions": {
+      "ja-JP": "渓谷に息づく美しい村"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%a4%e3%82%bc%e3%83%ab%e3%82%b9%e3%83%99%e3%83%ab%e3%82%b0&form=hpcapt&filters=HpDate%3a%2220260727_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.KaysersbergVillage_JA-JP4774929635"
     }
   },
   "RedMangroveSunrise": {
