@@ -1,4 +1,148 @@
 {
+  "ElephantDay": {
+    "name": "ElephantDay",
+    "urlbase": "/th?id=OHR.ElephantDay_EN-US4280370948",
+    "date": "20260812",
+    "dateFormatted": "August 12, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Giants worth protecting. World Elephant Day",
+      "en-GB": "Giants worth protecting. World Elephant Day",
+      "en-CA": "Giants worth protecting. World Elephant Day",
+      "de-DE": "Schützenswerte Giganten. Weltelefantentag",
+      "fr-FR": "Des géants au cœur tendre. Journée mondiale de l’éléphant",
+      "it-IT": "Gianti che vale la pena proteggere",
+      "es-ES": "¡Qué memoria de elefantes! Día Mundial del Elefante",
+      "pt-BR": "O peso da experiência",
+      "ja-JP": "今日は世界ゾウの日",
+      "zh-CN": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚",
+      "en-IN": "Giants worth protecting. World Elephant Day"
+    },
+    "copyrights": {
+      "en-US": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "en-GB": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "en-CA": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "de-DE": "Eine Elefantengruppe im Amboseli-Nationalpark, Kenia (© Ibrahim Suha Derbent/Getty Images)",
+      "fr-FR": "Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "it-IT": "Un gruppo di elefanti, Parco Nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "es-ES": "Un grupo de elefantes, Parque Nacional Amboseli, Kenia (© Ibrahim Suha Derbent/Getty Images)",
+      "pt-BR": "Grupo de elefantes no Parque Nacional de Amboseli, Quênia (© Ibrahim Suha Derbent/Getty Images)",
+      "ja-JP": "ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)",
+      "zh-CN": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)",
+      "en-IN": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)"
+    },
+    "descs": {
+      "en-US": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
+      "en-GB": "On 12 August, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
+      "en-CA": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
+      "de-DE": "Am 12. August lenkt der Weltelefantentag den Blick auf eines der beeindruckendsten Tiere unseres Planeten. Das Bild zeigt eine Elefantengruppe im Amboseli-Nationalpark in Kenia, einer Landschaft, die für ihre weiten Ebenen und ihre bedeutenden Elefantenpopulationen bekannt ist. Innerhalb der Herden übernehmen erfahrene Leitkühe eine wichtige Rolle. Sie führen ihre Familien zu Wasserstellen und sicheren Wegen und geben Wissen weiter, das über Generationen hinweg erhalten bleibt.",
+      "fr-FR": "Chaque 12 août, la Journée mondiale de l’éléphant rappelle que ces géants sont bien plus que d’imposants mammifères. Dans le parc national d’Amboseli, au Kenya, les troupeaux traversent les paysages ouverts avec calme et détermination. Les matriarches guident leur troupeau vers les sources d’eau grâce à une mémoire acquise et enrichie au fil des années. Chez les éléphants, les déplacements témoignent d’une histoire de transmission autant que de survie.",
+      "es-ES": "Una manada de elefantes en movimiento por el Parque Nacional Amboseli, en Kenia, no se desplaza al azar: sigue rutas trazadas durante generaciones en la memoria de sus matriarcas, que conocen cada fuente de agua y cada refugio bajo las sombras del Kilimanjaro. Cada 12 de agosto, el Día Mundial del Elefante —celebrado desde 2012— invita a detenerse ante la complejidad de estos animales, cuya inteligencia, vínculos sociales y capacidad emocional rivalizan con las de muchos primates.",
+      "ja-JP": "今日 8 月 12 日は世界ゾウの日。密猟や生息地の破壊などによって絶滅の危機に瀕しているゾウの保護を呼びかける日として、2012 年に制定されました。画像は、ケニアのアンボセリ国立公園で暮らすゾウの群れ。ゾウは、年長のメスを中心とした群れで生活しており、オスは 12 ～ 15 歳程度の時期に群れを離れます。また、巨大な体に加え、高い知能と優れた記憶力を持つのもゾウの特徴です。そのため、リーダーである母ゾウが、長年の記憶を頼りに、群れを各地の水場へと導いています。",
+      "en-IN": "On 12 August, World Elephant Day shines a spotlight on the world's African and Asian elephants and the urgent need to protect them. In places like Amboseli National Park in Kenya, captured in this image, a herd doesn't simply pass through the landscape—it remembers it. Matriarchs guide their families between water sources, following routes shaped as much by memory as by terrain.",
+      "it-IT": "Una mandria di elefanti in cammino nel Parco Nazionale di Amboseli, in Kenya, non si sposta a caso: percorre rotte impresse per generazioni nella memoria delle matriarche, che conoscono ogni fonte d'acqua e ogni rifugio all'ombra del Kilimangiaro. Ogni 12 agosto, la Giornata Mondiale dell'Elefante — celebrata dal 2012 — invita a fermarsi davanti alla profondità di questi animali, la cui intelligenza, i legami sociali e la capacità emotiva rivaleggiano con quelli di molti primati.",
+      "pt-BR": "Dizem que elefantes têm boa memória. A verdade é mais impressionante: dela pode depender o destino de uma família inteira. Hoje, no Dia Mundial dos Elefantes, a imagem leva ao Parque Nacional de Amboseli, no Quênia, onde uma matriarca conduz seu grupo por rotas aprendidas ao longo de décadas. Ela sabe onde encontrar água depois da seca, quais caminhos são mais seguros e quando é hora de seguir viagem. Cada passo carrega experiência.",
+      "zh-CN": "8月12日世界大象日，让我们停下脚步，不仅思考这些动物的庞大体型，也体会它们生命的深度。在图片所示的肯尼亚安博塞利国家公园等地，非洲草原象群并非只是穿越景观；它们还会记住这片土地。母象首领带领家族往返于不同水源，行进路线既由地形塑造，也由记忆指引。"
+    },
+    "quickFacts": {
+      "zh-CN": "2024年的一项研究利用在安博塞利录制的叫声发现，非洲象会用类似个体名字的叫声彼此称呼。"
+    },
+    "captions": {
+      "en-US": "World Elephant Day",
+      "en-GB": "World Elephant Day",
+      "en-CA": "World Elephant Day",
+      "de-DE": "Weltelefantentag",
+      "fr-FR": "Journée mondiale de l’éléphant",
+      "it-IT": "",
+      "es-ES": "Día Mundial del Elefante",
+      "pt-BR": "",
+      "ja-JP": "今日は世界ゾウの日",
+      "zh-CN": "",
+      "en-IN": "World Elephant Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260812_0700%22",
+      "en-GB": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260811_2300%22",
+      "en-CA": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260812_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Weltelefantentag&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+de+l%e2%80%99%c3%a9l%c3%a9phant&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Mondiale+dell%27Elefante&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+del+Elefante&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+dos+Elefantes&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e3%82%be%e3%82%a6%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260811_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%a4%a7%e8%b1%a1%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260811_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ElephantDay_EN-US4280370948",
+      "en-GB": "/th?id=OHR.ElephantDay_EN-GB4622751774",
+      "en-CA": "/th?id=OHR.ElephantDay_EN-CA5228508211",
+      "de-DE": "/th?id=OHR.ElephantDay_DE-DE9475374565",
+      "fr-FR": "/th?id=OHR.ElephantDay_FR-FR9760624892",
+      "it-IT": "/th?id=OHR.ElephantDay_IT-IT3230857791",
+      "es-ES": "/th?id=OHR.ElephantDay_ES-ES9999263656",
+      "pt-BR": "/th?id=OHR.ElephantDay_PT-BR6092042150",
+      "ja-JP": "/th?id=OHR.ElephantDay_JA-JP5660368264",
+      "zh-CN": "/th?id=OHR.ElephantDay_ZH-CN8350171749",
+      "en-IN": "/th?id=OHR.ElephantDay_EN-IN1002436143"
+    }
+  },
   "ColorfulCop": {
     "name": "ColorfulCop",
     "urlbase": "/th?id=OHR.ColorfulCop_EN-US3993977654",
@@ -36,6 +180,11 @@
         "flag": "it"
       },
       {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -58,10 +207,10 @@
       "de-DE": "Kopenhagen in voller Farbe. Nyhavn-Kanal, Kopenhagen, Dänemark",
       "fr-FR": "Copenhague haute en couleur. Canal Nyhavn, Copenhague, Danemark",
       "it-IT": "Copenaghen a colori",
+      "es-ES": "Copenhague a todo color. Canal de Nyhavn, Copenhague, Dinamarca",
       "ja-JP": "静かな水面に映るカラフルな街並み",
       "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦",
       "en-IN": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
-      "es-ES": "Copenhague a todo color. Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca",
       "pt-BR": "Um porto entre capítulos. Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca"
     },
     "copyrights": {
@@ -71,10 +220,10 @@
       "de-DE": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
       "fr-FR": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
       "it-IT": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
+      "es-ES": "Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
       "ja-JP": "ニューハウン, デンマーク (© emicristea/Getty Images)",
       "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)",
       "en-IN": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "es-ES": "© emicristea/Getty Images",
       "pt-BR": "© emicristea/Getty Images"
     },
     "descs": {
@@ -83,10 +232,10 @@
       "en-CA": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
       "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
       "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
+      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
       "ja-JP": "静かな水面に映るカラフルな街並み. ニューハウン, デンマーク. ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
       "en-IN": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark. In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks.",
       "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
-      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
       "pt-BR": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
       "zh-CN": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。"
     },
@@ -100,6 +249,7 @@
       "de-DE": "Nyhavn-Kanal, Kopenhagen, Dänemark",
       "fr-FR": "Canal Nyhavn, Copenhague, Danemark",
       "it-IT": "",
+      "es-ES": "Canal de Nyhavn, Copenhague, Dinamarca",
       "ja-JP": "静かな水面に映るカラフルな街並み",
       "zh-CN": "",
       "en-IN": "Nyhavn Canal, Copenhagen, Denmark"
@@ -111,6 +261,7 @@
       "de-DE": "https://www.bing.com/search?q=Nyhavn-Kanal+Kopenhagen&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Canal+Nyhavn+Copenhague&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
       "it-IT": "https://www.bing.com/search?q=Copenaghen&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Canal+de+Nyhavn+en+Copenhague&form=hpcapt&filters=HpDate%3a%2220260812_2200%22",
       "ja-JP": "https://www.bing.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%8f%e3%82%a6%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260809_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e5%93%a5%e6%9c%ac%e5%93%88%e6%a0%b9%e6%96%b0%e6%b8%af%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260810_1830%22"
@@ -122,6 +273,7 @@
       "de-DE": "/th?id=OHR.ColorfulCop_DE-DE9077062253",
       "fr-FR": "/th?id=OHR.ColorfulCop_FR-FR8595384019",
       "it-IT": "/th?id=OHR.ColorfulCop_IT-IT3126463813",
+      "es-ES": "/th?id=OHR.ColorfulCop_ES-ES0268766801",
       "ja-JP": "/th?id=OHR.ColorfulCop_JA-JP4331289983",
       "zh-CN": "/th?id=OHR.ColorfulCop_ZH-CN8015611442",
       "en-IN": "/th?id=OHR.ColorfulCop_EN-IN0862473585"
@@ -667,7 +819,7 @@
       "it-IT": "La prova dei coraggiosi",
       "es-ES": "Un río de valientes. Ñus migratorios cruzando el río Mara en Masai Mara, Kenia",
       "pt-BR": "O efeito manada da coragem",
-      "zh-CN": "马赛马拉迁徙的角马群横渡马拉河，肯尼亚",
+      "zh-CN": "生死渡口，勇者的史诗",
       "en-IN": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya"
     },
     "copyrights": {
@@ -1539,45 +1691,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona",
-      "en-GB": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
       "en-CA": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
+      "en-GB": "A landscape of living heritage. Monument Valley, Navajo Nation, Arizona, United States",
       "it-IT": "Un paesaggio di storia vivente",
       "es-ES": "Un paisaje de patrimonio vivo. Valle de los Monumentos, Nación Navajo, Arizona, EE. UU.",
       "ja-JP": "夕暮れの砂漠を貫く道",
@@ -1586,8 +1708,8 @@
     },
     "copyrights": {
       "en-US": "Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)",
-      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
       "en-CA": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
       "it-IT": "Monument Valley, Nazione Navajo, Arizona, USA (© Westend61/Adobe Stock)",
       "es-ES": "El Valle de los Monumentos, Nación Navajo, Arizona, EE. UU. (© Westend61/Adobe Stock)",
       "ja-JP": "モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock)",
@@ -1596,8 +1718,8 @@
     },
     "descs": {
       "en-US": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 1,000 feet above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
-      "en-GB": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
       "en-CA": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 305 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+      "en-GB": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
       "es-ES": "Hay paisajes famosos y hay paisajes que se convierten en leyenda. Monument Valley, en la frontera entre Arizona y Utah, dentro de la Nación Navajo, en Estados Unidos, pertenece a esa segunda categoría. Sus gigantescas torres de arenisca roja —algunas superan los 300 metros de altura sobre el valle— no son simples formaciones geológicas: para el pueblo navajo, las icónicas Mitten Buttes son las manos de un gigante dispersadas por la tierra tras una gran batalla.",
       "ja-JP": "ここはモニュメント・バレー。米国のアリゾナ州とユタ州にまたがるナバホ族の準自治領「ナバホ・ネイション」内に広がる地域です。テーブル状の台地「メサ」や、侵食によって形成された「ビュート」という孤立丘が点在しているのが特徴です。これらが独特の景観を生み出し、世界中から観光客が訪れる景勝地となっています。また、西部劇映画の定番のロケ地として知られており、映画監督ジョン・フォードが撮影を行った場所は「ジョン・フォード・ポイント」と呼ばれる人気の写真撮影スポットとなっています。",
       "en-IN": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation in the United States, this desert wonder is shaped by towering sandstone buttes that rise more than 300 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
@@ -1609,117 +1731,22 @@
     },
     "captions": {
       "en-US": "Monument Valley, Navajo Nation, Arizona",
-      "en-GB": "Monument Valley, Navajo Nation, Arizona, United States",
-      "en-CA": "Monument Valley, Navajo Nation, Arizona, United States",
-      "it-IT": "",
-      "es-ES": "Valle de los Monumentos, Nación Navajo, Arizona, EE. UU.",
-      "ja-JP": "夕暮れの砂漠を貫く道",
-      "zh-CN": "",
-      "en-IN": "Monument Valley, Navajo Nation, Arizona, United States"
+      "en-CA": "Monument Valley, Navajo Nation, Arizona, United States"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260730_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260730_0400%22",
-      "it-IT": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=El+Valle+de+los+Monumentos&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a2%e3%83%8b%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88%e3%83%bb%e3%83%90%e3%83%ac%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260729_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%ba%aa%e5%bf%b5%e7%a2%91%e8%b0%b7&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260730_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.NavajoNation_EN-US6947714656",
-      "en-GB": "/th?id=OHR.NavajoNation_EN-GB6080318819",
-      "en-CA": "/th?id=OHR.NavajoNation_EN-CA0609244482",
-      "it-IT": "/th?id=OHR.NavajoNation_IT-IT8632328338",
-      "es-ES": "/th?id=OHR.NavajoNation_ES-ES2923536313",
-      "ja-JP": "/th?id=OHR.NavajoNation_JA-JP5174852282",
-      "zh-CN": "/th?id=OHR.NavajoNation_ZH-CN9274387505",
-      "en-IN": "/th?id=OHR.NavajoNation_EN-IN0765516783"
+      "en-CA": "/th?id=OHR.NavajoNation_EN-CA0609244482"
     }
   },
-  "TigerFamily": {
-    "name": "TigerFamily",
-    "urlbase": "/th?id=OHR.TigerFamily_EN-US4918106900",
-    "date": "20260729",
-    "dateFormatted": "July 29, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "A comeback with claws. International Tiger Day",
-      "en-CA": "A comeback with claws. International Tiger Day",
-      "pt-BR": "Uma floresta que voltou a rugir",
-      "en-GB": "A comeback with claws. International Tiger Day",
-      "de-DE": "Ein Comeback mit Krallen. Internationaler Tag des Tigers",
-      "fr-FR": "Un retour en force. Journée mondiale du tigre",
-      "it-IT": "Sulle tracce della tigre",
-      "es-ES": "Unos felinos más grandes. Día Internacional del Tigre",
-      "ja-JP": "今日は世界トラの日",
-      "zh-CN": "虎啸归来，锐爪重临"
-    },
-    "copyrights": {
-      "en-US": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
-      "en-CA": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
-      "pt-BR": "Família de tigres-de-bengala no Parque Nacional de Ranthambore, Rajastão, Índia (© Archna Singh/Shutterstock)",
-      "en-GB": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
-      "de-DE": "Eine Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan, Indien (© Archna Singh/Shutterstock)",
-      "fr-FR": "Une famille de tigres du Bengale au parc national de Ranthambore, Rajasthan, Inde (© Archna Singh/Shutterstock)",
-      "it-IT": "Una famiglia di tigri del Bengala al Parco Nazionale di Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
-      "es-ES": "Una familia de tigres de Bengala en el Parque Nacional de Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
-      "ja-JP": "ベンガルトラの家族, インド (© Archna Singh/Shutterstock)",
-      "zh-CN": "孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 10 feet from nose to tail and weigh around 500 pounds, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
-      "en-CA": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 227 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
-      "en-GB": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 230 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
-      "de-DE": "Am Internationalen Tag des Tigers steht diese Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan im Mittelpunkt. Die mächtigen Raubkatzen gehören zu den bekanntesten Bewohnern Indiens und faszinieren durch ihre Kombination aus Kraft und Eleganz. Ein ausgewachsener Tiger kann von der Nase bis zur Schwanzspitze mehr als drei Meter lang werden und rund 230 Kilogramm wiegen. Trotz ihrer Größe bewegen sich die Tiere erstaunlich lautlos durch Wälder und Graslandschaften. Ihr charakteristisches Streifenmuster dient nicht nur der Wiedererkennung, sondern auch der Tarnung, da es die Körperkonturen im wechselnden Licht der Vegetation auflöst.",
-      "fr-FR": "Dans la lumière dorée du matin, une famille de tigres du Bengale traverse la forêt sèche du parc national de Ranthambore, en Inde, avec une assurance tranquille. L'adulte — long de plus de trois mètres et fort de 250 kilos de puissance silencieuse — pose chaque patte sans un bruit. Ses rayures, uniques comme des empreintes digitales, se fondent dans les ombres mouvantes des acacias et des dhok, arbres emblématiques du Rajasthan.",
-      "es-ES": "En el Día Internacional del Tigre, una familia de tigres de Bengala recorre el Parque Nacional de Ranthambore, en Rajastán, India, con la calma soberana de quien sabe que no tiene rival. Son animales diseñados para la perfección: un adulto puede superar los tres metros de longitud y pesar más de 225 kilogramos, pero se mueve entre la vegetación sin emitir el menor sonido. Sus rayas no son solo un rasgo estético; son una herramienta de supervivencia que desorienta a las presas en un entorno donde ver y no ser visto lo es todo.",
-      "ja-JP": "今日 7 月 29 日は世界トラの日。トラの保全を呼びかける国際記念日です。20 世紀初めには、野生のトラは約 10 万頭いると推定されていましたが、環境破壊や密猟などにより、2010 年時点では約 3,000 頭にまで激減しました。その後、各国でのさまざまな保全活動により一部個体数は回復したものの、世界全体での生息数は未だ 6,000 頭程度と推定されています。画像は、インドのランタンボール国立公園に姿を現したベンガルトラの家族。 かつて王族の狩猟地であったこの公園は、1974 年にトラの保護区へと変わりました。",
-      "it-IT": "Nella Giornata Internazionale della Tigre, questa famiglia si muove con sicurezza nel Parco Nazionale di Ranthambore, in Rajasthan, India. Sono tigri del Bengala: un esemplare adulto può superare i tre metri di lunghezza dalla testa alla coda e pesare oltre 200 kg, eppure cammina nel silenzio più assoluto. Le strisce non sono solo decorative — confondono la preda in un paesaggio dove la visibilità è un'arma a doppio taglio.",
-      "pt-BR": "A natureza adora um bom paradoxo: o maior felino da Índia veste listras marcantes justamente para passar despercebido. Na imagem, uma família de tigres-de-bengala percorre o Parque Nacional de Ranthambore com a tranquilidade de quem não precisa provar nada. O padrão da pelagem embaralha a silhueta entre a vegetação, transformando um animal que pode passar de 280 quilos num fantasma surpreendentemente eficiente.",
-      "zh-CN": "虎啸归来，锐爪重临. 孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度. 在全球老虎日这一天，这群孟加拉虎迈着自信的步伐走过印度，拉贾斯坦邦，兰坦博尔国家公园，展现出顶级掠食者对自身在食物链中地位的精准认知。孟加拉虎兼具隐蔽性与力量：成年个体的体长从鼻尖到尾端可超过10英尺，体重约500磅，行走时却能悄无声息。在视觉可见度是一把“双刃剑”的自然生境中，它们的斑纹发挥了关键作用，通过复杂的图案模式在环境中进行伪装，使猎物难以辨识其身形。"
-    },
-    "quickFacts": {
-      "zh-CN": "老虎是卓越的游泳者，经常通过泡水来降温，这在大多数猫科动物中极为罕见，在兰坦博尔国家公园，拉贾斯坦邦，印度。"
-    },
-    "captions": {
-      "en-US": "International Tiger Day",
-      "en-CA": "International Tiger Day",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260729_0700%22",
-      "en-CA": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260729_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+do+Tigre&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.TigerFamily_EN-US4918106900",
-      "en-CA": "/th?id=OHR.TigerFamily_EN-CA0136574316",
-      "pt-BR": "/th?id=OHR.TigerFamily_PT-BR8805441851"
-    }
-  },
-  "ElephantDay": {
-    "name": "ElephantDay",
-    "urlbase": "/th?id=OHR.ElephantDay_EN-GB4622751774",
-    "date": "20260811",
-    "dateFormatted": "August 11, 2026",
+  "PerseidasTenerife": {
+    "name": "PerseidasTenerife",
+    "urlbase": "/th?id=OHR.PerseidasTenerife_EN-GB6939134267",
+    "date": "20260812",
+    "dateFormatted": "August 12, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1742,11 +1769,6 @@
         "flag": "it"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1763,76 +1785,73 @@
       }
     ],
     "titles": {
-      "en-GB": "Giants worth protecting. World Elephant Day",
-      "de-DE": "Schützenswerte Giganten. Weltelefantentag",
-      "fr-FR": "Des géants au cœur tendre. Journée mondiale de l’éléphant",
-      "it-IT": "Gianti che vale la pena proteggere",
-      "es-ES": "¡Qué memoria de elefantes! Día Mundial del Elefante",
-      "ja-JP": "今日は世界ゾウの日",
-      "zh-CN": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚",
-      "en-IN": "Giants worth protecting. World Elephant Day",
-      "en-US": "Giants worth protecting. A group of elephants, Amboseli National Park, Kenya",
-      "en-CA": "Giants worth protecting. A group of elephants, Amboseli National Park, Kenya",
-      "pt-BR": "O peso da experiência. Grupo de elefantes no Parque Nacional de Amboseli, Quênia"
+      "en-GB": "Make a wish. Perseid meteor shower over Tenerife, Spain",
+      "de-DE": "Leuchtender Himmel. Perseiden-Meteore auf Teneriffa, Spanien",
+      "fr-FR": "Faites un vœu ! Perséides au-dessus de Tenerife, Espagne",
+      "it-IT": "Esprimere un desiderio!",
+      "ja-JP": "ペルセウス座流星群が輝く夜空",
+      "zh-CN": "泰德天文台上空的英仙座流星，加那利群岛，西班牙",
+      "en-IN": "Make a wish. Perseid meteor shower over Tenerife, Spain",
+      "es-ES": "Un universo por descubrir. Observatorio Astronómico de Izaña, Tenerife, España",
+      "en-US": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
+      "en-CA": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
+      "pt-BR": "Desejos à velocidade da luz. Meteoros Perseidas sobre o Observatório do Teide, Tenerife, Espanha"
     },
     "copyrights": {
-      "en-GB": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "de-DE": "Eine Elefantengruppe im Amboseli-Nationalpark, Kenia (© Ibrahim Suha Derbent/Getty Images)",
-      "fr-FR": "Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "it-IT": "Un gruppo di elefanti, Parco Nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "es-ES": "Un grupo de elefantes, Parque Nacional Amboseli, Kenia (© Ibrahim Suha Derbent/Getty Images)",
-      "ja-JP": "ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)",
-      "zh-CN": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)",
-      "en-IN": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "en-US": "© Ibrahim Suha Derbent/Getty Images",
-      "en-CA": "© Ibrahim Suha Derbent/Getty Images",
-      "pt-BR": "© Ibrahim Suha Derbent/Getty Images"
+      "en-GB": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
+      "de-DE": "Perseiden-Meteore über dem Teide-Observatorium auf Teneriffa, Spanien (© Westend61/Getty Images)",
+      "fr-FR": "Perséides au-dessus de l’observatoire du Teide, Tenerife, Espagne (© Westend61/Getty Images)",
+      "it-IT": "Meteore delle Perseidi sopra l'Osservatorio del Teide, Tenerife, Spagna (© Westend61/Getty Images)",
+      "ja-JP": "テイデ天文台, スペイン (© Westend61/Getty Images)",
+      "zh-CN": "泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)",
+      "en-IN": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
+      "es-ES": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)",
+      "en-US": "© Westend61/Getty Images",
+      "en-CA": "© Westend61/Getty Images",
+      "pt-BR": "© Westend61/Getty Images"
     },
     "descs": {
-      "en-GB": "On 12 August, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
-      "de-DE": "Am 12. August lenkt der Weltelefantentag den Blick auf eines der beeindruckendsten Tiere unseres Planeten. Das Bild zeigt eine Elefantengruppe im Amboseli-Nationalpark in Kenia, einer Landschaft, die für ihre weiten Ebenen und ihre bedeutenden Elefantenpopulationen bekannt ist. Innerhalb der Herden übernehmen erfahrene Leitkühe eine wichtige Rolle. Sie führen ihre Familien zu Wasserstellen und sicheren Wegen und geben Wissen weiter, das über Generationen hinweg erhalten bleibt.",
-      "fr-FR": "Chaque 12 août, la Journée mondiale de l’éléphant rappelle que ces géants sont bien plus que d’imposants mammifères. Dans le parc national d’Amboseli, au Kenya, les troupeaux traversent les paysages ouverts avec calme et détermination. Les matriarches guident leur troupeau vers les sources d’eau grâce à une mémoire acquise et enrichie au fil des années. Chez les éléphants, les déplacements témoignent d’une histoire de transmission autant que de survie.",
-      "es-ES": "Una manada de elefantes en movimiento por el Parque Nacional Amboseli, en Kenia, no se desplaza al azar: sigue rutas trazadas durante generaciones en la memoria de sus matriarcas, que conocen cada fuente de agua y cada refugio bajo las sombras del Kilimanjaro. Cada 12 de agosto, el Día Mundial del Elefante —celebrado desde 2012— invita a detenerse ante la complejidad de estos animales, cuya inteligencia, vínculos sociales y capacidad emocional rivalizan con las de muchos primates.",
-      "ja-JP": "今日 8 月 12 日は世界ゾウの日。密猟や生息地の破壊などによって絶滅の危機に瀕しているゾウの保護を呼びかける日として、2012 年に制定されました。画像は、ケニアのアンボセリ国立公園で暮らすゾウの群れ。ゾウは、年長のメスを中心とした群れで生活しており、オスは 12 ～ 15 歳程度の時期に群れを離れます。また、巨大な体に加え、高い知能と優れた記憶力を持つのもゾウの特徴です。そのため、リーダーである母ゾウが、長年の記憶を頼りに、群れを各地の水場へと導いています。",
-      "en-IN": "On 12 August, World Elephant Day shines a spotlight on the world's African and Asian elephants and the urgent need to protect them. In places like Amboseli National Park in Kenya, captured in this image, a herd doesn't simply pass through the landscape—it remembers it. Matriarchs guide their families between water sources, following routes shaped as much by memory as by terrain.",
-      "en-US": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
-      "en-CA": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
-      "it-IT": "Una mandria di elefanti in cammino nel Parco Nazionale di Amboseli, in Kenya, non si sposta a caso: percorre rotte impresse per generazioni nella memoria delle matriarche, che conoscono ogni fonte d'acqua e ogni rifugio all'ombra del Kilimangiaro. Ogni 12 agosto, la Giornata Mondiale dell'Elefante — celebrata dal 2012 — invita a fermarsi davanti alla profondità di questi animali, la cui intelligenza, i legami sociali e la capacità emotiva rivaleggiano con quelli di molti primati.",
-      "pt-BR": "Dizem que elefantes têm boa memória. A verdade é mais impressionante: dela pode depender o destino de uma família inteira. Hoje, no Dia Mundial dos Elefantes, a imagem leva ao Parque Nacional de Amboseli, no Quênia, onde uma matriarca conduz seu grupo por rotas aprendidas ao longo de décadas. Ela sabe onde encontrar água depois da seca, quais caminhos são mais seguros e quando é hora de seguir viagem. Cada passo carrega experiência.",
-      "zh-CN": "8月12日世界大象日，让我们停下脚步，不仅思考这些动物的庞大体型，也体会它们生命的深度。在图片所示的肯尼亚安博塞利国家公园等地，非洲草原象群并非只是穿越景观；它们还会记住这片土地。母象首领带领家族往返于不同水源，行进路线既由地形塑造，也由记忆指引。"
+      "en-GB": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around 12-13 August. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
+      "de-DE": "Jeden Sommer zieht ein besonderes Himmelsschauspiel die Aufmerksamkeit von Sternenfreunden auf sich. Die Perseiden sind von Mitte Juli bis Ende August sichtbar und erreichen ihren Höhepunkt meist um den 12. und 13. August. Unter dunklem Himmel können dabei mehrere Dutzend Sternschnuppen pro Stunde erscheinen. Die leuchtenden Spuren entstehen, wenn die Erde Teilchen durchquert, die der Komet Swift-Tuttle auf seiner Bahn hinterlassen hat. Am Nachthimmel scheinen die Meteore aus dem Sternbild Perseus zu kommen.",
+      "fr-FR": "Chaque été, un spectacle fascinant se déroule au-dessus de nos têtes. De la mi-juillet à la fin août, les Perséides fendent le ciel nocturne, atteignant leur apogée autour du 12 et 13 août. Sous un ciel dégagé et préservé des lumières artificielles, des dizaines d’étoiles filantes peuvent être observées en une seule heure. Chacune d’elles est en réalité une minuscule particule laissée par la comète Swift-Tuttle sur son orbite, que la Terre croise chaque année. Les météores semblent surgir de la constellation de Persée, qui a donné son nom à cette pluie d’étoiles filantes.",
+      "ja-JP": "三大流星群の一つであるペルセウス座流星群が見頃を迎えています。多くの流星が流れると予想されるのは 8 月 12 日の夜から 13 日の未明と、13 日夜から 14 日の未明です。特に、本日 13 日は新月で月明かりの影響がないため、星空観察には好条件の日となっています。そして画像は、スペインのテイデ国立公園にあるテイデ天文台で以前撮影されたペルセウス座流星群。テイデ国立公園は、標高約 2400m の高地にあり、澄んだ空気と光害の少ない環境から、世界有数の天体観測地として知られています。",
+      "en-IN": "Not every summer tradition happens on the ground. Some unfold hundreds of miles overhead, one meteor at a time. The Perseids return each year from mid-July through late August, peaking around 12-13 August, when as many as 100 meteors an hour can streak across dark skies. Each meteor is a tiny fragment left behind by Comet Swift–Tuttle as Earth passes through its dust trail, appearing to radiate from the constellation Perseus. In Spain, the display is affectionately known as Lágrimas de San Lorenzo ('Tears of Saint Lawrence').",
+      "es-ES": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo.",
+      "it-IT": "Non tutte le tradizioni estive si vivono sulla spiaggia. Alcune si svolgono a centinaia di chilometri sopra le nostre teste, una meteora alla volta: le Perseidi tornano ogni anno tra metà luglio e fine agosto, raggiungendo il picco attorno al 12-13 agosto. L'immagine è scattata sopra l'Osservatorio del Teide a Tenerife, in Spagna, situato a 2.390 metri di altitudine — abbastanza in alto da lasciarsi il mare di nuvole sotto i piedi.",
+      "zh-CN": "并非所有夏日传统都发生在地面。有些在数百英里高空上演，每次划过一颗流星。英仙座流星雨每年从7月中旬持续至8月下旬，并在8月12日至13日前后达到峰值。世界大部分地区都能看到它；在黑暗天空下，每小时往往会出现数十颗流星。想象自己抬头仰望，一道接一道亮光划过。数到多少颗时，你会忘记数目？每道亮光都来自斯威夫特-塔特尔彗星散落的碎屑，地球穿过其尘埃带时便形成流星。它们看起来像是从英仙座辐射而出。",
+      "en-US": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around August 12-13. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
+      "en-CA": "Not every summer tradition happens on the ground. Some take place hundreds of kilometres overhead, one meteor at a time. The Perseids return every year from mid-July through late August, usually peaking around August 12–13. Visible across much of the world, they can produce dozens of meteors per hour under dark, clear skies. Each streak is a tiny fragment of debris left behind by Comet Swift–Tuttle as Earth moves through its dust trail, appearing to radiate from the constellation Perseus. In Canada, dark-sky destinations such as Jasper National Park in Alberta and Torrance Barrens Dark-Sky Preserve in Ontario are among the best places to enjoy the annual display.",
+      "pt-BR": "Tem noites em que o céu parece gastar todo o seu estoque de efeitos especiais. Entre julho e agosto, a Terra atravessa a trilha de detritos deixada pelo cometa Swift-Tuttle, dando origem à chuva de meteoros Perseidas, que atinge o auge por volta de 12 e 13 de agosto. E sabia que não são estrelas cadentes? Cada risco luminoso é um pequeno fragmento de rocha e poeira que incandesce ao atravessar a atmosfera a dezenas de quilômetros por segundo."
     },
     "quickFacts": {
-      "zh-CN": "2024年的一项研究利用在安博塞利录制的叫声发现，非洲象会用类似个体名字的叫声彼此称呼。"
+      "zh-CN": "作为英仙座流星雨母体的斯威夫特-塔特尔彗星，绕太阳运行一周约需133年。"
     },
     "captions": {
-      "en-GB": "World Elephant Day",
-      "de-DE": "Weltelefantentag",
-      "fr-FR": "Journée mondiale de l’éléphant",
+      "en-GB": "Perseid meteor shower over Tenerife, Spain",
+      "de-DE": "Perseiden-Meteore auf Teneriffa, Spanien",
+      "fr-FR": "Perséides au-dessus de Tenerife, Espagne",
       "it-IT": "",
-      "es-ES": "Día Mundial del Elefante",
-      "ja-JP": "今日は世界ゾウの日",
+      "ja-JP": "ペルセウス座流星群が輝く夜空",
       "zh-CN": "",
-      "en-IN": "World Elephant Day"
+      "en-IN": "Perseid meteor shower over Tenerife, Spain"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260811_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Weltelefantentag&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+de+l%e2%80%99%c3%a9l%c3%a9phant&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+Mondiale+dell%27Elefante&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+del+Elefante&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e3%82%be%e3%82%a6%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260811_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%a4%a7%e8%b1%a1%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260811_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260812_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Perseiden&form=hpcapt&filters=HpDate%3a%2220260812_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Pers%c3%a9ides&form=hpcapt&filters=HpDate%3a%2220260812_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Perseidi&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%9a%e3%83%ab%e3%82%bb%e3%82%a6%e3%82%b9%e5%ba%a7%e6%b5%81%e6%98%9f%e7%be%a4&form=hpcapt&filters=HpDate%3a%2220260812_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%8b%b1%e4%bb%99%e5%ba%a7%e6%b5%81%e6%98%9f%e9%9b%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260812_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.ElephantDay_EN-GB4622751774",
-      "de-DE": "/th?id=OHR.ElephantDay_DE-DE9475374565",
-      "fr-FR": "/th?id=OHR.ElephantDay_FR-FR9760624892",
-      "it-IT": "/th?id=OHR.ElephantDay_IT-IT3230857791",
-      "es-ES": "/th?id=OHR.ElephantDay_ES-ES9999263656",
-      "ja-JP": "/th?id=OHR.ElephantDay_JA-JP5660368264",
-      "zh-CN": "/th?id=OHR.ElephantDay_ZH-CN8350171749",
-      "en-IN": "/th?id=OHR.ElephantDay_EN-IN1002436143"
+      "en-GB": "/th?id=OHR.PerseidasTenerife_EN-GB6939134267",
+      "de-DE": "/th?id=OHR.PerseidasTenerife_DE-DE8459328996",
+      "fr-FR": "/th?id=OHR.PerseidasTenerife_FR-FR7138274954",
+      "it-IT": "/th?id=OHR.PerseidasTenerife_IT-IT4575150144",
+      "ja-JP": "/th?id=OHR.PerseidasTenerife_JA-JP5992050152",
+      "zh-CN": "/th?id=OHR.PerseidasTenerife_ZH-CN8520379683",
+      "en-IN": "/th?id=OHR.PerseidasTenerife_EN-IN1090547464"
     }
   },
   "BristolBalloonFiesta2026": {
@@ -1961,40 +1980,6 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.RhineFlames_DE-DE7527393403"
-    }
-  },
-  "BearBavaria": {
-    "name": "BearBavaria",
-    "urlbase": "/th?id=OHR.BearBavaria_DE-DE3681217161",
-    "date": "20260729",
-    "dateFormatted": "July 29, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Wild und wachsam. Braunbärenjunges auf einem Felsen, Bayern"
-    },
-    "copyrights": {
-      "de-DE": "Braunbärenjunges auf einem Felsen, Bayern (© Raimund Linke/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Der Braunbär ist eines der größten an Land lebenden Raubtiere Europas und ein Symbol für wilde, unberührte Landschaften. Als anpassungsfähiger Allesfresser ernährt er sich von Beeren, Kräutern, Insekten, Aas und gelegentlich größeren Beutetieren. Trotz seiner beeindruckenden Größe meidet er Menschen meist und streift auf der Suche nach Nahrung oft weite Strecken durch Wälder und Gebirge."
-    },
-    "quickFacts": {
-      "de-DE": "Trotz ihrer Größe können Braunbären Geschwindigkeiten von bis zu 50 km/h erreichen."
-    },
-    "captions": {
-      "de-DE": "Braunbärenjunges auf einem Felsen, Bayern"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Braunb%c3%a4r+Tier&form=hpcapt&filters=HpDate%3a%2220260729_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.BearBavaria_DE-DE3681217161"
     }
   },
   "ClothesBarjols": {
@@ -2131,40 +2116,6 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.SeaStacks_FR-FR4057620009"
-    }
-  },
-  "WildJackalFriends": {
-    "name": "WildJackalFriends",
-    "urlbase": "/th?id=OHR.WildJackalFriends_FR-FR7398331328",
-    "date": "20260729",
-    "dateFormatted": "July 29, 2026",
-    "markets": [
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "fr-FR": "L’amitié, ça s’apprend. Journée internationale de l’amitié"
-    },
-    "copyrights": {
-      "fr-FR": "Jeunes chacals sauvages dans le Bushveld, Afrique du Sud (© Jeff R Clow/Getty Images)"
-    },
-    "descs": {
-      "fr-FR": "Dans les herbes hautes du bushveld, deux chiots chacals se chamaillent — puis se rapprochent, museau contre oreille, comme pour se confier un secret. Le chacal à chabraque, reconnaissable à son manteau brun-roux et à sa selle sombre sur le dos, est l'un des canidés les plus sociaux de la savane africaine. Ces jeux d'apparence anodine sont en réalité une école : endurance, communication, confiance mutuelle."
-    },
-    "quickFacts": {
-      "fr-FR": "Les dauphins se donnent des \"noms\" sous forme de sifflements uniques et utilisent ceux de leurs amis pour les appeler spécifiquement, même à distance."
-    },
-    "captions": {
-      "fr-FR": "Journée internationale de l’amitié"
-    },
-    "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+de+l%e2%80%99amiti%c3%a9&form=hpcapt&filters=HpDate%3a%2220260729_2200%22"
-    },
-    "urlbases": {
-      "fr-FR": "/th?id=OHR.WildJackalFriends_FR-FR7398331328"
     }
   },
   "DolomitiAgosto": {
@@ -2694,6 +2645,151 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.ValleyDreams_EN-IN0485781632"
+    }
+  },
+  "TigerFamily": {
+    "name": "TigerFamily",
+    "urlbase": "/th?id=OHR.TigerFamily_EN-US4918106900",
+    "date": "20260729",
+    "dateFormatted": "July 29, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "A comeback with claws. International Tiger Day",
+      "en-CA": "A comeback with claws. International Tiger Day",
+      "pt-BR": "Uma floresta que voltou a rugir",
+      "en-GB": "A comeback with claws. International Tiger Day",
+      "de-DE": "Ein Comeback mit Krallen. Internationaler Tag des Tigers",
+      "fr-FR": "Un retour en force. Journée mondiale du tigre",
+      "it-IT": "Sulle tracce della tigre",
+      "es-ES": "Unos felinos más grandes. Día Internacional del Tigre",
+      "ja-JP": "今日は世界トラの日",
+      "zh-CN": "虎啸归来，锐爪重临"
+    },
+    "copyrights": {
+      "en-US": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "en-CA": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "pt-BR": "Família de tigres-de-bengala no Parque Nacional de Ranthambore, Rajastão, Índia (© Archna Singh/Shutterstock)",
+      "en-GB": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "de-DE": "Eine Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan, Indien (© Archna Singh/Shutterstock)",
+      "fr-FR": "Une famille de tigres du Bengale au parc national de Ranthambore, Rajasthan, Inde (© Archna Singh/Shutterstock)",
+      "it-IT": "Una famiglia di tigri del Bengala al Parco Nazionale di Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "es-ES": "Una familia de tigres de Bengala en el Parque Nacional de Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
+      "ja-JP": "ベンガルトラの家族, インド (© Archna Singh/Shutterstock)",
+      "zh-CN": "孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 10 feet from nose to tail and weigh around 500 pounds, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "en-CA": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 227 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "en-GB": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 230 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+      "de-DE": "Am Internationalen Tag des Tigers steht diese Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan im Mittelpunkt. Die mächtigen Raubkatzen gehören zu den bekanntesten Bewohnern Indiens und faszinieren durch ihre Kombination aus Kraft und Eleganz. Ein ausgewachsener Tiger kann von der Nase bis zur Schwanzspitze mehr als drei Meter lang werden und rund 230 Kilogramm wiegen. Trotz ihrer Größe bewegen sich die Tiere erstaunlich lautlos durch Wälder und Graslandschaften. Ihr charakteristisches Streifenmuster dient nicht nur der Wiedererkennung, sondern auch der Tarnung, da es die Körperkonturen im wechselnden Licht der Vegetation auflöst.",
+      "fr-FR": "Dans la lumière dorée du matin, une famille de tigres du Bengale traverse la forêt sèche du parc national de Ranthambore, en Inde, avec une assurance tranquille. L'adulte — long de plus de trois mètres et fort de 250 kilos de puissance silencieuse — pose chaque patte sans un bruit. Ses rayures, uniques comme des empreintes digitales, se fondent dans les ombres mouvantes des acacias et des dhok, arbres emblématiques du Rajasthan.",
+      "es-ES": "En el Día Internacional del Tigre, una familia de tigres de Bengala recorre el Parque Nacional de Ranthambore, en Rajastán, India, con la calma soberana de quien sabe que no tiene rival. Son animales diseñados para la perfección: un adulto puede superar los tres metros de longitud y pesar más de 225 kilogramos, pero se mueve entre la vegetación sin emitir el menor sonido. Sus rayas no son solo un rasgo estético; son una herramienta de supervivencia que desorienta a las presas en un entorno donde ver y no ser visto lo es todo.",
+      "ja-JP": "今日 7 月 29 日は世界トラの日。トラの保全を呼びかける国際記念日です。20 世紀初めには、野生のトラは約 10 万頭いると推定されていましたが、環境破壊や密猟などにより、2010 年時点では約 3,000 頭にまで激減しました。その後、各国でのさまざまな保全活動により一部個体数は回復したものの、世界全体での生息数は未だ 6,000 頭程度と推定されています。画像は、インドのランタンボール国立公園に姿を現したベンガルトラの家族。 かつて王族の狩猟地であったこの公園は、1974 年にトラの保護区へと変わりました。",
+      "it-IT": "Nella Giornata Internazionale della Tigre, questa famiglia si muove con sicurezza nel Parco Nazionale di Ranthambore, in Rajasthan, India. Sono tigri del Bengala: un esemplare adulto può superare i tre metri di lunghezza dalla testa alla coda e pesare oltre 200 kg, eppure cammina nel silenzio più assoluto. Le strisce non sono solo decorative — confondono la preda in un paesaggio dove la visibilità è un'arma a doppio taglio.",
+      "pt-BR": "A natureza adora um bom paradoxo: o maior felino da Índia veste listras marcantes justamente para passar despercebido. Na imagem, uma família de tigres-de-bengala percorre o Parque Nacional de Ranthambore com a tranquilidade de quem não precisa provar nada. O padrão da pelagem embaralha a silhueta entre a vegetação, transformando um animal que pode passar de 280 quilos num fantasma surpreendentemente eficiente.",
+      "zh-CN": "虎啸归来，锐爪重临. 孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度. 在全球老虎日这一天，这群孟加拉虎迈着自信的步伐走过印度，拉贾斯坦邦，兰坦博尔国家公园，展现出顶级掠食者对自身在食物链中地位的精准认知。孟加拉虎兼具隐蔽性与力量：成年个体的体长从鼻尖到尾端可超过10英尺，体重约500磅，行走时却能悄无声息。在视觉可见度是一把“双刃剑”的自然生境中，它们的斑纹发挥了关键作用，通过复杂的图案模式在环境中进行伪装，使猎物难以辨识其身形。"
+    },
+    "quickFacts": {
+      "zh-CN": "老虎是卓越的游泳者，经常通过泡水来降温，这在大多数猫科动物中极为罕见，在兰坦博尔国家公园，拉贾斯坦邦，印度。"
+    },
+    "captions": {
+      "en-US": "International Tiger Day",
+      "en-CA": "International Tiger Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260729_0700%22",
+      "en-CA": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260729_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+do+Tigre&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.TigerFamily_EN-US4918106900",
+      "en-CA": "/th?id=OHR.TigerFamily_EN-CA0136574316",
+      "pt-BR": "/th?id=OHR.TigerFamily_PT-BR8805441851"
+    }
+  },
+  "BearBavaria": {
+    "name": "BearBavaria",
+    "urlbase": "/th?id=OHR.BearBavaria_DE-DE3681217161",
+    "date": "20260729",
+    "dateFormatted": "July 29, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Wild und wachsam. Braunbärenjunges auf einem Felsen, Bayern"
+    },
+    "copyrights": {
+      "de-DE": "Braunbärenjunges auf einem Felsen, Bayern (© Raimund Linke/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Der Braunbär ist eines der größten an Land lebenden Raubtiere Europas und ein Symbol für wilde, unberührte Landschaften. Als anpassungsfähiger Allesfresser ernährt er sich von Beeren, Kräutern, Insekten, Aas und gelegentlich größeren Beutetieren. Trotz seiner beeindruckenden Größe meidet er Menschen meist und streift auf der Suche nach Nahrung oft weite Strecken durch Wälder und Gebirge."
+    },
+    "quickFacts": {
+      "de-DE": "Trotz ihrer Größe können Braunbären Geschwindigkeiten von bis zu 50 km/h erreichen."
+    },
+    "captions": {
+      "de-DE": "Braunbärenjunges auf einem Felsen, Bayern"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Braunb%c3%a4r+Tier&form=hpcapt&filters=HpDate%3a%2220260729_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.BearBavaria_DE-DE3681217161"
+    }
+  },
+  "WildJackalFriends": {
+    "name": "WildJackalFriends",
+    "urlbase": "/th?id=OHR.WildJackalFriends_FR-FR7398331328",
+    "date": "20260729",
+    "dateFormatted": "July 29, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "L’amitié, ça s’apprend. Journée internationale de l’amitié"
+    },
+    "copyrights": {
+      "fr-FR": "Jeunes chacals sauvages dans le Bushveld, Afrique du Sud (© Jeff R Clow/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Dans les herbes hautes du bushveld, deux chiots chacals se chamaillent — puis se rapprochent, museau contre oreille, comme pour se confier un secret. Le chacal à chabraque, reconnaissable à son manteau brun-roux et à sa selle sombre sur le dos, est l'un des canidés les plus sociaux de la savane africaine. Ces jeux d'apparence anodine sont en réalité une école : endurance, communication, confiance mutuelle."
+    },
+    "quickFacts": {
+      "fr-FR": "Les dauphins se donnent des \"noms\" sous forme de sifflements uniques et utilisent ceux de leurs amis pour les appeler spécifiquement, même à distance."
+    },
+    "captions": {
+      "fr-FR": "Journée internationale de l’amitié"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+de+l%e2%80%99amiti%c3%a9&form=hpcapt&filters=HpDate%3a%2220260729_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.WildJackalFriends_FR-FR7398331328"
     }
   },
   "ChannelKelp": {
@@ -4011,70 +4107,6 @@
       "en-US": "/th?id=OHR.NavyPier_EN-US1069960047",
       "en-CA": "/th?id=OHR.NavyPier_EN-CA7051482723",
       "pt-BR": "/th?id=OHR.NavyPier_PT-BR4218227814"
-    }
-  },
-  "PerseidasTenerife": {
-    "name": "PerseidasTenerife",
-    "urlbase": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261",
-    "date": "20260716",
-    "dateFormatted": "July 16, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "Un universo por descubrir. Observatorio Astronómico de Izaña, Tenerife, España",
-      "en-GB": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
-      "de-DE": "Leuchtender Himmel. Perseiden-Meteore über dem Teide-Observatorium auf Teneriffa, Spanien",
-      "fr-FR": "Faites un vœu !. Perséides au-dessus de l’observatoire du Teide, Tenerife, Espagne",
-      "it-IT": "Esprimere un desiderio!. Meteore delle Perseidi sopra l'Osservatorio del Teide, Tenerife, Spagna",
-      "ja-JP": "ペルセウス座流星群が輝く夜空. テイデ天文台, スペイン",
-      "zh-CN": "泰德天文台上空的英仙座流星，加那利群岛，西班牙",
-      "en-IN": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
-      "en-US": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
-      "en-CA": "Make a wish. Perseid meteors over Teide Observatory, Tenerife, Spain",
-      "pt-BR": "Desejos à velocidade da luz. Meteoros Perseidas sobre o Observatório do Teide, Tenerife, Espanha"
-    },
-    "copyrights": {
-      "es-ES": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)",
-      "en-GB": "© Westend61/Getty Images",
-      "de-DE": "© Westend61/Getty Images",
-      "fr-FR": "© Westend61/Getty Images",
-      "it-IT": "© Westend61/Getty Images",
-      "ja-JP": "© Westend61/Getty Images",
-      "zh-CN": "© Westend61/Getty Images",
-      "en-IN": "© Westend61/Getty Images",
-      "en-US": "© Westend61/Getty Images",
-      "en-CA": "© Westend61/Getty Images",
-      "pt-BR": "© Westend61/Getty Images"
-    },
-    "descs": {
-      "es-ES": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo.",
-      "en-GB": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around 12-13 August. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
-      "de-DE": "Jeden Sommer zieht ein besonderes Himmelsschauspiel die Aufmerksamkeit von Sternenfreunden auf sich. Die Perseiden sind von Mitte Juli bis Ende August sichtbar und erreichen ihren Höhepunkt meist um den 12. und 13. August. Unter dunklem Himmel können dabei mehrere Dutzend Sternschnuppen pro Stunde erscheinen. Die leuchtenden Spuren entstehen, wenn die Erde Teilchen durchquert, die der Komet Swift-Tuttle auf seiner Bahn hinterlassen hat. Am Nachthimmel scheinen die Meteore aus dem Sternbild Perseus zu kommen.",
-      "fr-FR": "Chaque été, un spectacle fascinant se déroule au-dessus de nos têtes. De la mi-juillet à la fin août, les Perséides fendent le ciel nocturne, atteignant leur apogée autour du 12 et 13 août. Sous un ciel dégagé et préservé des lumières artificielles, des dizaines d’étoiles filantes peuvent être observées en une seule heure. Chacune d’elles est en réalité une minuscule particule laissée par la comète Swift-Tuttle sur son orbite, que la Terre croise chaque année. Les météores semblent surgir de la constellation de Persée, qui a donné son nom à cette pluie d’étoiles filantes.",
-      "it-IT": "Non tutte le tradizioni estive si vivono sulla spiaggia. Alcune si svolgono a centinaia di chilometri sopra le nostre teste, una meteora alla volta: le Perseidi tornano ogni anno tra metà luglio e fine agosto, raggiungendo il picco attorno al 12-13 agosto. L'immagine è scattata sopra l'Osservatorio del Teide a Tenerife, in Spagna, situato a 2.390 metri di altitudine — abbastanza in alto da lasciarsi il mare di nuvole sotto i piedi.",
-      "ja-JP": "三大流星群の一つであるペルセウス座流星群が見頃を迎えています。多くの流星が流れると予想されるのは 8 月 12 日の夜から 13 日の未明と、13 日夜から 14 日の未明です。特に、本日 13 日は新月で月明かりの影響がないため、星空観察には好条件の日となっています。そして画像は、スペインのテイデ国立公園にあるテイデ天文台で以前撮影されたペルセウス座流星群。テイデ国立公園は、標高約 2400m の高地にあり、澄んだ空気と光害の少ない環境から、世界有数の天体観測地として知られています。",
-      "zh-CN": "并非所有夏日传统都发生在地面。有些在数百英里高空上演，每次划过一颗流星。英仙座流星雨每年从7月中旬持续至8月下旬，并在8月12日至13日前后达到峰值。世界大部分地区都能看到它；在黑暗天空下，每小时往往会出现数十颗流星。想象自己抬头仰望，一道接一道亮光划过。数到多少颗时，你会忘记数目？每道亮光都来自斯威夫特-塔特尔彗星散落的碎屑，地球穿过其尘埃带时便形成流星。它们看起来像是从英仙座辐射而出。",
-      "en-IN": "Not every summer tradition happens on the ground. Some unfold hundreds of miles overhead, one meteor at a time. The Perseids return each year from mid-July through late August, peaking around 12-13 August, when as many as 100 meteors an hour can streak across dark skies. Each meteor is a tiny fragment left behind by Comet Swift–Tuttle as Earth passes through its dust trail, appearing to radiate from the constellation Perseus. In Spain, the display is affectionately known as Lágrimas de San Lorenzo ('Tears of Saint Lawrence').",
-      "en-US": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around August 12-13. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
-      "en-CA": "Not every summer tradition happens on the ground. Some take place hundreds of kilometres overhead, one meteor at a time. The Perseids return every year from mid-July through late August, usually peaking around August 12–13. Visible across much of the world, they can produce dozens of meteors per hour under dark, clear skies. Each streak is a tiny fragment of debris left behind by Comet Swift–Tuttle as Earth moves through its dust trail, appearing to radiate from the constellation Perseus. In Canada, dark-sky destinations such as Jasper National Park in Alberta and Torrance Barrens Dark-Sky Preserve in Ontario are among the best places to enjoy the annual display.",
-      "pt-BR": "Tem noites em que o céu parece gastar todo o seu estoque de efeitos especiais. Entre julho e agosto, a Terra atravessa a trilha de detritos deixada pelo cometa Swift-Tuttle, dando origem à chuva de meteoros Perseidas, que atinge o auge por volta de 12 e 13 de agosto. E sabia que não são estrelas cadentes? Cada risco luminoso é um pequeno fragmento de rocha e poeira que incandesce ao atravessar a atmosfera a dezenas de quilômetros por segundo."
-    },
-    "quickFacts": {
-      "zh-CN": "作为英仙座流星雨母体的斯威夫特-塔特尔彗星，绕太阳运行一周约需133年。"
-    },
-    "captions": {
-      "es-ES": "Observatorio Astronómico de Izaña, Tenerife, España"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Observatorio+Astron%c3%b3mico+de+Izana+Tenerife&form=hpcapt&filters=HpDate%3a%2220260716_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261"
     }
   },
   "GionFestival2026": {
