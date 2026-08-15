@@ -1,4 +1,146 @@
 {
+  "WildlifeCrossingPoland": {
+    "name": "WildlifeCrossingPoland",
+    "urlbase": "/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
+      "en-GB": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
+      "en-CA": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
+      "de-DE": "Für Pfoten gebaut. Grünbrücke bei Zakrzów, Polen",
+      "fr-FR": "Tracé pour la nature. Un écopont près de Zakrzów, Pologne",
+      "it-IT": "Progettato per gli animali",
+      "es-ES": "Hecho para patas, no para personas. Ecoducto cerca de Zakrzów, Polonia",
+      "pt-BR": "Um elo entre dois mundos",
+      "zh-CN": "扎克舒夫附近的野生动物通道，波兰",
+      "en-IN": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
+      "ja-JP": "森をつなぐ動物専用橋. エコダクト, ポーランド"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+      "en-GB": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+      "en-CA": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+      "de-DE": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)",
+      "fr-FR": "Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images)",
+      "it-IT": "Veduta aerea di un passaggio faunistico vicino a Zakrzów, Polonia (© bbsferrari/Getty Images)",
+      "es-ES": "Vista aérea de un ecoducto cerca de Zakrzów, Polonia (© bbsferrari/Getty Images)",
+      "pt-BR": "Vista aérea de um ecoduto perto de Zakrzów, Polônia (© bbsferrari/Getty Images)",
+      "zh-CN": "扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)",
+      "en-IN": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+      "ja-JP": "© bbsferrari/Getty Images"
+    },
+    "descs": {
+      "en-US": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats, and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, and the idea soon spread across Europe. Countries such as the Netherlands helped refine ecoduct design by building wide green bridges covered in soil and native vegetation, from grasses and shrubs to trees.",
+      "en-GB": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
+      "en-CA": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later refined the concept with broad, green bridges covered in soil and native vegetation.",
+      "de-DE": "Die Luftaufnahme zeigt eine Grünbrücke bei Zakrzów in Polen, die eine stark befahrene Verkehrsachse überspannt. Solche Bauwerke verbinden Lebensräume, die durch Straßen und Autobahnen voneinander getrennt wurden. Für viele Tierarten schaffen sie sichere Wege zwischen Futtergebieten, Rückzugsorten und Wanderkorridoren. Dadurch sinkt nicht nur das Risiko von Wildunfällen, sondern auch die Gefahr, dass Populationen durch die Zerschneidung ihrer Lebensräume isoliert werden. Grünbrücken gelten heute als wichtiger Bestandteil moderner Naturschutzmaßnahmen.",
+      "fr-FR": "Les routes ont transformé notre rapport aux distances, rapprochant les villes et accélérant notre rythme de vie. Mais sous ce progrès, une fragmentation s’est installée dans les paysages. Les forêts, prairies et montagnes, autrefois continues, se sont retrouvées morcelées, les sentiers rompus. Cerfs, renards et ours ont continué d’emprunter ces routes invisibles, croisant désormais l’asphalte et le danger. Collisions, isolement génétique, disparition silencieuse : les conséquences se sont accumulées au fil des décennies.",
+      "es-ES": "Las carreteras resolvieron un problema y crearon otro sin querer: mientras las personas viajaban más rápido que nunca, la fauna silvestre veía cómo las autopistas partían en dos los territorios que había recorrido durante generaciones. La respuesta llegó en forma de ecoducto —puentes o túneles diseñados para que los animales crucen las vías de tráfico con seguridad— y los primeros ejemplos modernos surgieron precisamente en Francia durante los años cincuenta, extendiéndose después por toda Europa.",
+      "en-IN": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
+      "it-IT": "Le strade hanno risolto un problema creandone silenziosamente un altro: mentre le persone viaggiavano più veloce che mai, la fauna selvatica si trovava di fronte ad autostrade che tagliavano in due i territori percorsi per generazioni. La risposta è arrivata sotto forma di ecodotto — ponti o tunnel progettati per permettere agli animali di attraversare le vie di traffico in sicurezza — e i primi esempi moderni comparvero in Francia negli anni Cinquanta, diffondendosi poi in tutta Europa.",
+      "zh-CN": "道路解决了一个问题，却悄然制造了另一个问题。人类出行速度前所未有地提高，野生动物世代沿用的迁徙路线却被公路切断，导致碰撞事故增加、栖息地破碎化，野生动物种群彼此隔绝。为应对这一挑战，人们建造了称为生态桥的野生动物通道：这些桥梁或隧道旨在重新连接栖息地，让动物安全穿越繁忙道路。最早的一些现代案例于20世纪50年代出现在法国，这一理念很快传遍欧洲。荷兰等国通过建造覆盖土壤及草本、灌木和乔木等本土植被的宽阔绿色桥梁，推动了生态桥设计的完善。",
+      "pt-BR": "Estradas aproximaram cidades e encurtaram distâncias, mas criaram uma barreira inesperada: para muitos animais, atravessar uma rodovia virou uma missão perigosa. Rotas antigas de migração foram cortadas pelo asfalto, habitats ficaram separados e atropelamentos se tornaram mais frequentes. A solução veio de uma ideia curiosa: construir caminhos que não fossem para pessoas, mas para patas, asas e cascos.",
+      "ja-JP": "道路の整備により、人間が素早く快適に移動できるようになった一方で、野生動物は移動ルートを分断されたことで、道路を横断する際に車などとの衝突事故に遭うようになってしまいました。こうした課題を解決するために建設されたのが人工的なけもの道ともいえる「エコダクト」です。今日の画像はポーランドのザクルフにあるエコダクトで、分断された生息地を再びつなぎ、動物たちが交通量の多い道路を安全に横断できるようにしています。現在では、このような橋が世界各地に設置され、野生動物と人の共生を支えています。"
+    },
+    "quickFacts": {
+      "en-GB": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "de-DE": "In Frankreich entstanden die ersten Grünbrücken in den 1950er Jahren. Sie ermöglichten Tieren die Durchquerung von Landschaften, die durch neue Straßen zerschnitten worden waren.",
+      "fr-FR": "Les écoducs permettent aux animaux de traverser les routes sans danger, mais aussi de rompre l’isolement et d’échanger leurs gènes, préservant ainsi la biodiversité.",
+      "zh-CN": "20世纪50年代，法国首次出现了野生动物通道，为动物们在被公路分割的新景观中开辟了一条生路。",
+      "en-IN": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "en-US": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "en-CA": "Highway fencing in Banff National Park has cut wildlife-vehicle collisions by over 80%, including more than 96% for elk and deer."
+    },
+    "captions": {
+      "en-US": "Wildlife crossing near Zakrzów, Poland",
+      "en-GB": "Wildlife crossing near Zakrzów, Poland",
+      "en-CA": "Wildlife crossing near Zakrzów, Poland",
+      "de-DE": "Grünbrücke bei Zakrzów, Polen",
+      "fr-FR": "Un écopont près de Zakrzów, Pologne",
+      "it-IT": "",
+      "es-ES": "Ecoducto cerca de Zakrzów, Polonia",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Wildlife crossing near Zakrzów, Poland"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260814_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260813_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260814_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Gr%c3%bcnbr%c3%bccke&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=%c3%a9copont+faune&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Passaggio+faunistico&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Ecoducto&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=ecodutos+pontes+verdes&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e9%87%8e%e7%94%9f%e5%8a%a8%e7%89%a9%e9%80%9a%e9%81%93&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260813_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603",
+      "en-GB": "/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597",
+      "en-CA": "/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434",
+      "de-DE": "/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409",
+      "fr-FR": "/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013",
+      "it-IT": "/th?id=OHR.WildlifeCrossingPoland_IT-IT3470939727",
+      "es-ES": "/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817",
+      "pt-BR": "/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073",
+      "zh-CN": "/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246",
+      "en-IN": "/th?id=OHR.WildlifeCrossingPoland_EN-IN1351400780"
+    }
+  },
   "PerseidasTenerife": {
     "name": "PerseidasTenerife",
     "urlbase": "/th?id=OHR.PerseidasTenerife_EN-US4798593153",
@@ -730,7 +872,7 @@
       "es-ES": "¡Hacia el Infinito y mucho más! Día Internacional del Infinito",
       "pt-BR": "Uma obra sem começo nem fim",
       "ja-JP": "今日は無限大の日",
-      "zh-CN": "蒂斯河畔斯托克顿无限桥，英格兰",
+      "zh-CN": "迈向无限",
       "en-IN": "Crossing into infinity. International Infinity Day"
     },
     "copyrights": {
@@ -1619,26 +1761,6 @@
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1670,108 +1792,22 @@
     },
     "captions": {
       "en-US": "Lava flows spill into the ocean on Big Island, Hawaii",
-      "en-CA": "Lava flows spill into the ocean on Big Island, Hawaii, USA",
-      "de-DE": "Lavaströme münden ins Meer, Big Island, Hawaii, USA",
-      "it-IT": "",
-      "zh-CN": "",
-      "en-IN": "Big Island, Hawaii, United States"
+      "en-CA": "Lava flows spill into the ocean on Big Island, Hawaii, USA"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260801_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260801_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Hawai%27i-Volcanoes-Nationalpark+%c3%9cbersicht&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+Vulcani+delle+Hawaii&form=hpcapt",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a4%8f%e5%a8%81%e5%a4%b7%e7%81%ab%e5%b1%b1%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260731_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260801_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.HawaiiLava_EN-US4126737972",
-      "en-CA": "/th?id=OHR.HawaiiLava_EN-CA2181536757",
-      "de-DE": "/th?id=OHR.HawaiiLava_DE-DE4111997666",
-      "it-IT": "/th?id=OHR.HawaiiLava_IT-IT9255141439",
-      "zh-CN": "/th?id=OHR.HawaiiLava_ZH-CN3257621771",
-      "en-IN": "/th?id=OHR.HawaiiLava_EN-IN1784864041"
+      "en-CA": "/th?id=OHR.HawaiiLava_EN-CA2181536757"
     }
   },
-  "VirginiaTrail": {
-    "name": "VirginiaTrail",
-    "urlbase": "/th?id=OHR.VirginiaTrail_EN-US9403114082",
-    "date": "20260731",
-    "dateFormatted": "July 31, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia",
-      "en-CA": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
-      "pt-BR": "Dos trilhos às trilhas",
-      "en-GB": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
-      "de-DE": "Eine Reise durch die Zeit. Virginia Creeper Trail, Damascus, Virginia, USA",
-      "fr-FR": "Traverser le temps. Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
-      "ja-JP": "深緑の森を貫く木道",
-      "zh-CN": "穿越时光的足迹",
-      "en-IN": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States"
-    },
-    "copyrights": {
-      "en-US": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)",
-      "en-CA": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
-      "pt-BR": "Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos (© Eifel Kreutz/Getty Images)",
-      "en-GB": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
-      "de-DE": "Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA (© Eifel Kreutz/Getty Images)",
-      "fr-FR": "Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)",
-      "ja-JP": "バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)",
-      "zh-CN": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)",
-      "en-IN": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that labored up steep grades in the early 1900s.",
-      "en-CA": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 55 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
-      "en-GB": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
-      "de-DE": "Aus der Luft zeigt sich der Virginia Creeper Trail als grünes Band, das sich durch die bewaldeten Landschaften im Südwesten des US-Bundesstaates Virginia schlängelt. Die heute beliebte Freizeitroute verläuft auf einer ehemaligen Eisenbahnstrecke, die einst für den Transport von Holz und Eisenerz durch die Appalachen genutzt wurde. Ihren ungewöhnlichen Namen verdankt die Strecke den Dampflokomotiven, die zu Beginn des 20. Jahrhunderts die steilen Anstiege nur langsam bewältigen konnten. Auf einer Länge von rund 55 Kilometern verbindet der Weg reizvolle Natur mit einem Stück regionaler Geschichte und bietet immer wieder weite Ausblicke auf Berge, Täler und Flüsse in den Vereinigten Staaten.",
-      "fr-FR": "À Damascus, en Virginie, États-Unis, l’ancienne voie ferrée s’est tue, mais son parcours respire encore. Sur 55 km à travers les Appalaches, le Virginia Creeper Trail suit l’ancienne ligne qui transportait jadis bois et minerai de fer, gravissant des pentes si raides qu’on disait des locomotives qu’elles « grimpaient comme une vigne vierge » — d’où son nom.",
-      "ja-JP": "今日の画像は、米国バージニア州ダマスカス周辺を走るバージニア・クリーパー・トレイル。かつてアパラチア山脈を越えて木材や鉄鉱石を運んでいた鉄道の旧線路です。1957 年に蒸気機関車が引退した後、米国森林局によってレクリエーション・トレイルとして整備されました。全長 56km のトレイルは国有林を通り、美しい山々の風景の中、約 50 基の木製桁橋を渡ることができます。",
-      "en-IN": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 55.2 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
-      "pt-BR": "Algumas ferrovias encerram as atividades. A Virginia Creeper Trail reinventou a viagem. A imagem mostra parte dessa antiga linha férrea de 55 quilômetros, que por décadas levou madeira, minério e passageiros pelos Montes Apalaches. Hoje, quem passa por suas 47 pontes de madeira, rios e vales são ciclistas e caminhantes.",
-      "zh-CN": "穿越时光的足迹. 鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国. 有些铁路会退出历史舞台，而“弗吉尼亚爬山虎步道”则实现了华丽转身。这条步道全长34.3英里，横贯弗吉尼亚州西南部，沿用了一条昔日的铁路线——该线路曾用于在阿巴拉契亚山脉间运输木材和铁矿石。步道那独特的名字，源自20世纪初那些在陡峭坡道上艰难爬行的蒸汽机车。"
-    },
-    "quickFacts": {
-      "zh-CN": "这条步道的英文名字“Virginia creeper”（弗吉尼亚爬山虎）具有双重寓意：一是指沿铁轨茂盛生长的当地原生五叶爬山虎植物，二是指20世纪初蒸汽机车在攀爬陡峭山坡时如蜗牛爬行般缓慢的行驶速度。"
-    },
-    "captions": {
-      "en-US": "Virginia Creeper Trail, Damascus, Virginia",
-      "en-CA": "Virginia Creeper Trail, Damascus, Virginia, United States",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260731_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260731_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Damascus+na+Virginia&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.VirginiaTrail_EN-US9403114082",
-      "en-CA": "/th?id=OHR.VirginiaTrail_EN-CA9063701239",
-      "pt-BR": "/th?id=OHR.VirginiaTrail_PT-BR9310516852"
-    }
-  },
-  "WildlifeCrossingPoland": {
-    "name": "WildlifeCrossingPoland",
-    "urlbase": "/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597",
-    "date": "20260813",
-    "dateFormatted": "August 13, 2026",
+  "ValleyDreams": {
+    "name": "ValleyDreams",
+    "urlbase": "/th?id=OHR.ValleyDreams_EN-GB5755022749",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1779,24 +1815,14 @@
         "flag": "gb"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
         "code": "fr-FR",
         "name": "FR",
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
       },
       {
         "code": "zh-CN",
@@ -1810,79 +1836,55 @@
       }
     ],
     "titles": {
-      "en-GB": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
-      "de-DE": "Für Pfoten gebaut. Grünbrücke bei Zakrzów, Polen",
-      "fr-FR": "Tracé pour la nature. Un écopont près de Zakrzów, Pologne",
-      "it-IT": "Progettato per gli animali",
-      "es-ES": "Hecho para patas, no para personas. Ecoducto cerca de Zakrzów, Polonia",
-      "zh-CN": "扎克舒夫附近的野生动物通道，波兰",
-      "en-IN": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
-      "en-US": "Built for paws, not people. Aerial view of a wildlife crossing near Zakrzów, Poland",
-      "en-CA": "Built for paws, not people. Aerial view of a wildlife crossing near Zakrzów, Poland",
-      "pt-BR": "Um elo entre dois mundos. Vista aérea de um ecoduto perto de Zakrzów, Polônia",
-      "ja-JP": "森をつなぐ動物専用橋. エコダクト, ポーランド"
+      "en-GB": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States",
+      "fr-FR": "Une coiffe de pierre. Ah Shi Sle Pah Wilderness, Nouveau-Mexique, États-Unis",
+      "ja-JP": "夕陽を浴びる奇岩群",
+      "zh-CN": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国",
+      "en-IN": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States",
+      "en-US": "The great balancing act. Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico",
+      "en-CA": "The great balancing act. Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States"
     },
     "copyrights": {
-      "en-GB": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
-      "de-DE": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)",
-      "fr-FR": "Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images)",
-      "it-IT": "Veduta aerea di un passaggio faunistico vicino a Zakrzów, Polonia (© bbsferrari/Getty Images)",
-      "es-ES": "Vista aérea de un ecoducto cerca de Zakrzów, Polonia (© bbsferrari/Getty Images)",
-      "zh-CN": "扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)",
-      "en-IN": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
-      "en-US": "© bbsferrari/Getty Images",
-      "en-CA": "© bbsferrari/Getty Images",
-      "pt-BR": "© bbsferrari/Getty Images",
-      "ja-JP": "© bbsferrari/Getty Images"
+      "en-GB": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
+      "fr-FR": "Cheminées de fées à Ah Shi Sle Pah Wilderness dans le comté de San Juan, Nouveau-Mexique, États-Unis (© Westend61/Getty Images)",
+      "ja-JP": "ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)",
+      "zh-CN": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)",
+      "en-IN": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
+      "en-US": "© Westend61/Getty Images",
+      "en-CA": "© Westend61/Getty Images"
     },
     "descs": {
-      "en-GB": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
-      "de-DE": "Die Luftaufnahme zeigt eine Grünbrücke bei Zakrzów in Polen, die eine stark befahrene Verkehrsachse überspannt. Solche Bauwerke verbinden Lebensräume, die durch Straßen und Autobahnen voneinander getrennt wurden. Für viele Tierarten schaffen sie sichere Wege zwischen Futtergebieten, Rückzugsorten und Wanderkorridoren. Dadurch sinkt nicht nur das Risiko von Wildunfällen, sondern auch die Gefahr, dass Populationen durch die Zerschneidung ihrer Lebensräume isoliert werden. Grünbrücken gelten heute als wichtiger Bestandteil moderner Naturschutzmaßnahmen.",
-      "fr-FR": "Les routes ont transformé notre rapport aux distances, rapprochant les villes et accélérant notre rythme de vie. Mais sous ce progrès, une fragmentation s’est installée dans les paysages. Les forêts, prairies et montagnes, autrefois continues, se sont retrouvées morcelées, les sentiers rompus. Cerfs, renards et ours ont continué d’emprunter ces routes invisibles, croisant désormais l’asphalte et le danger. Collisions, isolement génétique, disparition silencieuse : les conséquences se sont accumulées au fil des décennies.",
-      "es-ES": "Las carreteras resolvieron un problema y crearon otro sin querer: mientras las personas viajaban más rápido que nunca, la fauna silvestre veía cómo las autopistas partían en dos los territorios que había recorrido durante generaciones. La respuesta llegó en forma de ecoducto —puentes o túneles diseñados para que los animales crucen las vías de tráfico con seguridad— y los primeros ejemplos modernos surgieron precisamente en Francia durante los años cincuenta, extendiéndose después por toda Europa.",
-      "en-IN": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
-      "it-IT": "Le strade hanno risolto un problema creandone silenziosamente un altro: mentre le persone viaggiavano più veloce che mai, la fauna selvatica si trovava di fronte ad autostrade che tagliavano in due i territori percorsi per generazioni. La risposta è arrivata sotto forma di ecodotto — ponti o tunnel progettati per permettere agli animali di attraversare le vie di traffico in sicurezza — e i primi esempi moderni comparvero in Francia negli anni Cinquanta, diffondendosi poi in tutta Europa.",
-      "zh-CN": "道路解决了一个问题，却悄然制造了另一个问题。人类出行速度前所未有地提高，野生动物世代沿用的迁徙路线却被公路切断，导致碰撞事故增加、栖息地破碎化，野生动物种群彼此隔绝。为应对这一挑战，人们建造了称为生态桥的野生动物通道：这些桥梁或隧道旨在重新连接栖息地，让动物安全穿越繁忙道路。最早的一些现代案例于20世纪50年代出现在法国，这一理念很快传遍欧洲。荷兰等国通过建造覆盖土壤及草本、灌木和乔木等本土植被的宽阔绿色桥梁，推动了生态桥设计的完善。",
-      "en-US": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats, and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, and the idea soon spread across Europe. Countries such as the Netherlands helped refine ecoduct design by building wide green bridges covered in soil and native vegetation, from grasses and shrubs to trees.",
-      "en-CA": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later refined the concept with broad, green bridges covered in soil and native vegetation.",
-      "pt-BR": "Estradas aproximaram cidades e encurtaram distâncias, mas criaram uma barreira inesperada: para muitos animais, atravessar uma rodovia virou uma missão perigosa. Rotas antigas de migração foram cortadas pelo asfalto, habitats ficaram separados e atropelamentos se tornaram mais frequentes. A solução veio de uma ideia curiosa: construir caminhos que não fossem para pessoas, mas para patas, asas e cascos.",
-      "ja-JP": "道路の整備により、人間が素早く快適に移動できるようになった一方で、野生動物は移動ルートを分断されたことで、道路を横断する際に車などとの衝突事故に遭うようになってしまいました。こうした課題を解決するために建設されたのが人工的なけもの道ともいえる「エコダクト」です。今日の画像はポーランドのザクルフにあるエコダクトで、分断された生息地を再びつなぎ、動物たちが交通量の多い道路を安全に横断できるようにしています。現在では、このような橋が世界各地に設置され、野生動物と人の共生を支えています。"
+      "en-GB": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "fr-FR": "Dans les vastes badlands du nord-ouest du Nouveau-Mexique, aux États-Unis, Ah-Shi-Sle-Pah Wilderness offre un décor tout droit sorti d’un rêve. Depuis environ 75 millions d’années, le vent, l’eau et le gel façonnent patiemment des cheminées de fée — de fines colonnes rocheuses portant d’imposants chapeaux de pierre, aussi présentes en France, notamment en Auvergne ou dans les Pyrénées-Orientales. Le nom navajo du lieu, associé au « sel gris », rappelle un territoire aussi ancien que fascinant, où la nature compose une œuvre d’art à grande échelle.",
+      "ja-JP": "ここは米国ニューメキシコ州のア・シ・スレ・パ自然保護区。水と風の浸食により約 7500 万年かけて形成された奇岩群「フードゥー」が広がっています。岩の大きさや形はさまざまで、なかでも「エイリアン・スローン（異星人の玉座）」と呼ばれる奇岩は、人気の撮影スポットです。また、この地域は化石の宝庫としても知られており、北米に生息した恐竜ペンタケラトプスをはじめ、先史時代のワニやカメ、魚類などの化石が発見されています。",
+      "en-IN": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "zh-CN": "大自然善于平衡看似不可能之物。在新墨西哥州阿什斯利帕荒野地，高耸的石林以纤细石柱托起厚重岩帽。约7,500万年来，风、水和冰将这片偏远的恶地雕刻成一座露天展馆，景象更像异星，而非地球。",
+      "en-US": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water, and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "en-CA": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial."
     },
     "quickFacts": {
-      "en-GB": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
-      "de-DE": "In Frankreich entstanden die ersten Grünbrücken in den 1950er Jahren. Sie ermöglichten Tieren die Durchquerung von Landschaften, die durch neue Straßen zerschnitten worden waren.",
-      "fr-FR": "Les écoducs permettent aux animaux de traverser les routes sans danger, mais aussi de rompre l’isolement et d’échanger leurs gènes, préservant ainsi la biodiversité.",
-      "zh-CN": "20世纪50年代，法国首次出现了野生动物通道，为动物们在被公路分割的新景观中开辟了一条生路。",
-      "en-IN": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
-      "en-US": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
-      "en-CA": "Highway fencing in Banff National Park has cut wildlife-vehicle collisions by over 80%, including more than 96% for elk and deer."
+      "zh-CN": "阿什斯勒帕保存着全球最丰富的晚白垩世哺乳动物、爬行动物、植物和鱼类化石记录之一。"
     },
     "captions": {
-      "en-GB": "Wildlife crossing near Zakrzów, Poland",
-      "de-DE": "Grünbrücke bei Zakrzów, Polen",
-      "fr-FR": "Un écopont près de Zakrzów, Pologne",
-      "it-IT": "",
-      "es-ES": "Ecoducto cerca de Zakrzów, Polonia",
+      "en-GB": "Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States",
+      "fr-FR": "Ah Shi Sle Pah Wilderness, Nouveau-Mexique, États-Unis",
+      "ja-JP": "夕陽を浴びる奇岩群",
       "zh-CN": "",
-      "en-IN": "Wildlife crossing near Zakrzów, Poland"
+      "en-IN": "Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260813_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Gr%c3%bcnbr%c3%bccke&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=%c3%a9copont+faune&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Passaggio+faunistico&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Ecoducto&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%87%8e%e7%94%9f%e5%8a%a8%e7%89%a9%e9%80%9a%e9%81%93&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260813_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260814_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness+Nouveau-Mexique&form=hpcapt&filters=HpDate%3a%2220260814_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3%e5%b7%9e%e3%81%ae%e3%83%95%e3%83%bc%e3%83%89%e3%82%a5%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260814_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%98%bf%e4%bb%80%e6%96%af%e5%88%a9%e5%b8%95%e8%8d%92%e9%87%8e%e5%9c%b0&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260806_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597",
-      "de-DE": "/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409",
-      "fr-FR": "/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013",
-      "it-IT": "/th?id=OHR.WildlifeCrossingPoland_IT-IT3470939727",
-      "es-ES": "/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817",
-      "zh-CN": "/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246",
-      "en-IN": "/th?id=OHR.WildlifeCrossingPoland_EN-IN1351400780"
+      "en-GB": "/th?id=OHR.ValleyDreams_EN-GB5755022749",
+      "fr-FR": "/th?id=OHR.ValleyDreams_FR-FR7228733244",
+      "ja-JP": "/th?id=OHR.ValleyDreams_JA-JP6579828761",
+      "zh-CN": "/th?id=OHR.ValleyDreams_ZH-CN9689713135",
+      "en-IN": "/th?id=OHR.ValleyDreams_EN-IN0485781632"
     }
   },
   "BristolBalloonFiesta2026": {
@@ -1917,38 +1919,6 @@
       "en-GB": "/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643"
     }
   },
-  "BrightonPride2026": {
-    "name": "BrightonPride2026",
-    "urlbase": "/th?id=OHR.BrightonPride2026_EN-GB6665333938",
-    "date": "20260731",
-    "dateFormatted": "July 31, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      }
-    ],
-    "titles": {
-      "en-GB": "Bright-on with pride. Brighton Pride"
-    },
-    "copyrights": {
-      "en-GB": "Rainbow balloons at the pride parade in Brighton, East Sussex, England (© Joel Sharpe/Getty Images)"
-    },
-    "descs": {
-      "en-GB": "One weekend. Hundreds of thousands of people. One shared message: everyone deserves to be seen, heard and celebrated. That's the spirit of Brighton Pride, where celebration and activism go hand in hand."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-GB": "Brighton Pride"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Brighton+Pride&form=hpcapt&filters=HpDate%3a%2220260731_2300%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.BrightonPride2026_EN-GB6665333938"
-    }
-  },
   "EDMFolkFest": {
     "name": "EDMFolkFest",
     "urlbase": "/th?id=OHR.EDMFolkFest_EN-CA4302918547",
@@ -1979,6 +1949,38 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.EDMFolkFest_EN-CA4302918547"
+    }
+  },
+  "SellinSunrise": {
+    "name": "SellinSunrise",
+    "urlbase": "/th?id=OHR.SellinSunrise_DE-DE6501539287",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Im goldenen Licht der Ostsee. Sonnenaufgang an der Seebrücke Sellin, Rügen"
+    },
+    "copyrights": {
+      "de-DE": "Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Wenn die ersten Sonnenstrahlen den Horizont vergolden, zeigt sich die Seebrücke Sellin von ihrer besonders eindrucksvollen Seite. An der Ostküste der Insel Rügen in Mecklenburg-Vorpommern gelegen, zählt dieses Bauwerk zu den bekanntesten Wahrzeichen der deutschen Ostsee. Ihre Geschichte reicht bis ins Jahr 1906 zurück, als die erste Seebrücke eröffnet wurde. Im Laufe der Jahrzehnte wurde die Anlage durch Stürme und andere Schäden mehrfach beeinträchtigt und schließlich abgerissen."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Sonnenaufgang an der Seebrücke Sellin, Rügen"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Seebr%c3%bccke+Sellin&form=hpcapt&filters=HpDate%3a%2220260814_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.SellinSunrise_DE-DE6501539287"
     }
   },
   "RhineFlames": {
@@ -2081,36 +2083,36 @@
       "fr-FR": "/th?id=OHR.ClothesBarjols_FR-FR4425384248"
     }
   },
-  "SeaStacks": {
-    "name": "SeaStacks",
-    "urlbase": "/th?id=OHR.SeaStacks_FR-FR4057620009",
-    "date": "20260731",
-    "dateFormatted": "July 31, 2026",
+  "EstateItaliana": {
+    "name": "EstateItaliana",
+    "urlbase": "/th?id=OHR.EstateItaliana_IT-IT7841784337",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
     "markets": [
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
       }
     ],
     "titles": {
-      "fr-FR": "Debout face aux vagues. Stacks près de Wilson Creek Beach, Californie, États-Unis"
+      "it-IT": "Momenti di convivialità e buon cibo"
     },
     "copyrights": {
-      "fr-FR": "Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images)"
+      "it-IT": "Cala Spinosa, Capo Testa, Santa Teresa di Gallura, Sardegna, Italia (© Francesco Riccardo Iacomino/Moment/Getty Images)"
     },
     "descs": {
-      "fr-FR": "Au large de la côte nord de la Californie, aux États-Unis, les vagues glissent en silence autour de hautes tours de roche sombre dressées face au large. Séparés du continent, ces empilements rocheux se parent d’une lumière changeante, tour à tour adoucie par le brouillard ou renforcée par l’éclat de l’écume. Depuis la grève, ils semblent à la fois immuables et fragiles, sculptés par des forces toujours à l’œuvre."
+      "it-IT": "Il 15 agosto in Italia non è solo un giorno festivo: è Ferragosto, la più radicata delle tradizioni estive italiane. Le sue origini risalgono all'antica Roma, quando l'imperatore Augusto istituì le Feriae Augusti nel 18 a.C. per celebrare la fine dei lavori agricoli. Nei secoli, la ricorrenza si è fusa con la festa cattolica dell'Assunzione di Maria, diventando il momento per eccellenza del riposo condiviso: gite fuori porta, grigliate in famiglia, spiagge piene e il piacere antico di stare insieme senza fretta."
     },
     "quickFacts": {},
     "captions": {
-      "fr-FR": "Stacks près de Wilson Creek Beach, Californie, États-Unis"
+      "it-IT": ""
     },
     "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=False+Klamath+Cove&form=hpcapt&filters=HpDate%3a%2220260731_2200%22"
+      "it-IT": "https://www.bing.com/search?q=Ferragosto&form=hpcapt"
     },
     "urlbases": {
-      "fr-FR": "/th?id=OHR.SeaStacks_FR-FR4057620009"
+      "it-IT": "/th?id=OHR.EstateItaliana_IT-IT7841784337"
     }
   },
   "DolomitiAgosto": {
@@ -2209,6 +2211,38 @@
       "it-IT": "/th?id=OHR.CabilaoClowns_IT-IT2689259702"
     }
   },
+  "MalagaFairAgosto": {
+    "name": "MalagaFairAgosto",
+    "urlbase": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "¡Abanico en mano y música! Feria de Málaga"
+    },
+    "copyrights": {
+      "es-ES": "Vista de la Catedral y la Alcazaba de Málaga, Andalucía, España (© SeanPavonePhoto/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Málaga, en Andalucía, se transforma cada agosto en la capital de la alegría del sur de España. La Feria de Málaga 2026, que se celebra del 15 al 22 de agosto, tiñe la ciudad de farolillos de colores, mantones de Manila y el ritmo inconfundible de las sevillanas durante ocho días de celebración ininterrumpida. Desde el recinto ferial del Cortijo de Torres hasta el centro histórico —donde la feria de día toma las calles del casco antiguo—, no hay rincón que escape al ambiente festivo."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Feria de Málaga"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Feria+de+M%c3%a1laga&form=hpcapt&filters=HpDate%3a%2220260814_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269"
+    }
+  },
   "LloretdeMar": {
     "name": "LloretdeMar",
     "urlbase": "/th?id=OHR.LloretdeMar_ES-ES9587440947",
@@ -2239,67 +2273,6 @@
     },
     "urlbases": {
       "es-ES": "/th?id=OHR.LloretdeMar_ES-ES9587440947"
-    }
-  },
-  "SantaCatalina": {
-    "name": "SantaCatalina",
-    "urlbase": "/th?id=OHR.SantaCatalina_ES-ES2186596110",
-    "date": "20260731",
-    "dateFormatted": "July 31, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "Pasadizo a plena luz. Arco de Santa Catalina, Antigua Guatemala, Guatemala",
-      "en-US": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "en-CA": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "pt-BR": "Um portal para outra época",
-      "en-GB": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
-      "de-DE": "Offenbar gut verborgen. Arco de Santa Catalina in Antigua, Guatemala",
-      "fr-FR": "L’arche qui cache. Santa Catalina Arch, Antigua, Guatemala",
-      "it-IT": "Senza entrare in strada",
-      "zh-CN": "拱影寻踪",
-      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala"
-    },
-    "copyrights": {
-      "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "en-US": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "en-CA": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "pt-BR": "Arco de Santa Catalina, Antígua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "en-GB": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "fr-FR": "Arche de Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "it-IT": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-      "zh-CN": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
-      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
-    },
-    "descs": {
-      "es-ES": "El Arco de Santa Catalina, en Antigua Guatemala, no fue concebido para deslumbrar a nadie: nació en 1693 como solución discreta a un dilema conventual. Las monjas de clausura necesitaban cruzar la calle para pasar de un edificio a otro sin ser vistas desde el exterior, y este puente cubierto fue la respuesta. La privacidad, no el espectáculo, creó uno de los monumentos coloniales más fotografiados de Centroamérica. La ironía tiene buena memoria.",
-      "en-US": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "en-CA": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow façade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "en-GB": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "de-DE": "Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.",
-      "fr-FR": "À Antigua, au Guatemala, l’arche de Santa Catalina se dresse au cœur des rues pavées, avec le volcan Agua en arrière‑plan. Au lever du soleil, sa façade jaune capte la lumière et contraste avec les pavés sombres qui s’étirent dans la perspective de la ville.",
-      "en-IN": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
-      "it-IT": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
-      "pt-BR": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
-      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。"
-    },
-    "quickFacts": {
-      "zh-CN": "这座标志性的法制时钟于19世纪30年代被增设，至今仍需每三天人工手动上弦一次，在圣卡塔琳娜拱门，安提瓜，危地马拉。"
-    },
-    "captions": {
-      "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Monumento+de+Antigua+Guatemala&form=hpcapt&filters=HpDate%3a%2220260731_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.SantaCatalina_ES-ES2186596110"
     }
   },
   "StuDay": {
@@ -2494,6 +2467,237 @@
       "ja-JP": "/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397"
     }
   },
+  "IndependenceDay2026": {
+    "name": "IndependenceDay2026",
+    "urlbase": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "Beneath the tricolour sky. Independence Day"
+    },
+    "copyrights": {
+      "en-IN": "The India Gate, New Delhi (© Arnav Pratap Singh/iStock/Getty Images)"
+    },
+    "descs": {
+      "en-IN": "Every 15 August, India celebrates its independence with flag-hoisting ceremonies, patriotic songs, skies dotted with colourful kites and visitors gathering around iconic places like India Gate in New Delhi, pictured here. Behind the festivities, however, are fascinating stories that make the day even more memorable."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-IN": "Independence Day"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=India+Independence+Day&form=hpcapt&filters=HpDate%3a%2220260814_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+    }
+  },
+  "VirginiaTrail": {
+    "name": "VirginiaTrail",
+    "urlbase": "/th?id=OHR.VirginiaTrail_EN-US9403114082",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia",
+      "en-CA": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
+      "pt-BR": "Dos trilhos às trilhas",
+      "en-GB": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States",
+      "de-DE": "Eine Reise durch die Zeit. Virginia Creeper Trail, Damascus, Virginia, USA",
+      "fr-FR": "Traverser le temps. Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
+      "ja-JP": "深緑の森を貫く木道",
+      "zh-CN": "穿越时光的足迹",
+      "en-IN": "Trailing through time. Virginia Creeper Trail, Damascus, Virginia, United States"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)",
+      "en-CA": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
+      "pt-BR": "Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos (© Eifel Kreutz/Getty Images)",
+      "en-GB": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
+      "de-DE": "Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA (© Eifel Kreutz/Getty Images)",
+      "fr-FR": "Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)",
+      "ja-JP": "バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)",
+      "zh-CN": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)",
+      "en-IN": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that labored up steep grades in the early 1900s.",
+      "en-CA": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 55 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "en-GB": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "de-DE": "Aus der Luft zeigt sich der Virginia Creeper Trail als grünes Band, das sich durch die bewaldeten Landschaften im Südwesten des US-Bundesstaates Virginia schlängelt. Die heute beliebte Freizeitroute verläuft auf einer ehemaligen Eisenbahnstrecke, die einst für den Transport von Holz und Eisenerz durch die Appalachen genutzt wurde. Ihren ungewöhnlichen Namen verdankt die Strecke den Dampflokomotiven, die zu Beginn des 20. Jahrhunderts die steilen Anstiege nur langsam bewältigen konnten. Auf einer Länge von rund 55 Kilometern verbindet der Weg reizvolle Natur mit einem Stück regionaler Geschichte und bietet immer wieder weite Ausblicke auf Berge, Täler und Flüsse in den Vereinigten Staaten.",
+      "fr-FR": "À Damascus, en Virginie, États-Unis, l’ancienne voie ferrée s’est tue, mais son parcours respire encore. Sur 55 km à travers les Appalaches, le Virginia Creeper Trail suit l’ancienne ligne qui transportait jadis bois et minerai de fer, gravissant des pentes si raides qu’on disait des locomotives qu’elles « grimpaient comme une vigne vierge » — d’où son nom.",
+      "ja-JP": "今日の画像は、米国バージニア州ダマスカス周辺を走るバージニア・クリーパー・トレイル。かつてアパラチア山脈を越えて木材や鉄鉱石を運んでいた鉄道の旧線路です。1957 年に蒸気機関車が引退した後、米国森林局によってレクリエーション・トレイルとして整備されました。全長 56km のトレイルは国有林を通り、美しい山々の風景の中、約 50 基の木製桁橋を渡ることができます。",
+      "en-IN": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 55.2 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "pt-BR": "Algumas ferrovias encerram as atividades. A Virginia Creeper Trail reinventou a viagem. A imagem mostra parte dessa antiga linha férrea de 55 quilômetros, que por décadas levou madeira, minério e passageiros pelos Montes Apalaches. Hoje, quem passa por suas 47 pontes de madeira, rios e vales são ciclistas e caminhantes.",
+      "zh-CN": "穿越时光的足迹. 鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国. 有些铁路会退出历史舞台，而“弗吉尼亚爬山虎步道”则实现了华丽转身。这条步道全长34.3英里，横贯弗吉尼亚州西南部，沿用了一条昔日的铁路线——该线路曾用于在阿巴拉契亚山脉间运输木材和铁矿石。步道那独特的名字，源自20世纪初那些在陡峭坡道上艰难爬行的蒸汽机车。"
+    },
+    "quickFacts": {
+      "zh-CN": "这条步道的英文名字“Virginia creeper”（弗吉尼亚爬山虎）具有双重寓意：一是指沿铁轨茂盛生长的当地原生五叶爬山虎植物，二是指20世纪初蒸汽机车在攀爬陡峭山坡时如蜗牛爬行般缓慢的行驶速度。"
+    },
+    "captions": {
+      "en-US": "Virginia Creeper Trail, Damascus, Virginia",
+      "en-CA": "Virginia Creeper Trail, Damascus, Virginia, United States",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260731_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260731_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Damascus+na+Virginia&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.VirginiaTrail_EN-US9403114082",
+      "en-CA": "/th?id=OHR.VirginiaTrail_EN-CA9063701239",
+      "pt-BR": "/th?id=OHR.VirginiaTrail_PT-BR9310516852"
+    }
+  },
+  "BrightonPride2026": {
+    "name": "BrightonPride2026",
+    "urlbase": "/th?id=OHR.BrightonPride2026_EN-GB6665333938",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "Bright-on with pride. Brighton Pride"
+    },
+    "copyrights": {
+      "en-GB": "Rainbow balloons at the pride parade in Brighton, East Sussex, England (© Joel Sharpe/Getty Images)"
+    },
+    "descs": {
+      "en-GB": "One weekend. Hundreds of thousands of people. One shared message: everyone deserves to be seen, heard and celebrated. That's the spirit of Brighton Pride, where celebration and activism go hand in hand."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "Brighton Pride"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Brighton+Pride&form=hpcapt&filters=HpDate%3a%2220260731_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.BrightonPride2026_EN-GB6665333938"
+    }
+  },
+  "SeaStacks": {
+    "name": "SeaStacks",
+    "urlbase": "/th?id=OHR.SeaStacks_FR-FR4057620009",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Debout face aux vagues. Stacks près de Wilson Creek Beach, Californie, États-Unis"
+    },
+    "copyrights": {
+      "fr-FR": "Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Au large de la côte nord de la Californie, aux États-Unis, les vagues glissent en silence autour de hautes tours de roche sombre dressées face au large. Séparés du continent, ces empilements rocheux se parent d’une lumière changeante, tour à tour adoucie par le brouillard ou renforcée par l’éclat de l’écume. Depuis la grève, ils semblent à la fois immuables et fragiles, sculptés par des forces toujours à l’œuvre."
+    },
+    "quickFacts": {},
+    "captions": {
+      "fr-FR": "Stacks près de Wilson Creek Beach, Californie, États-Unis"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=False+Klamath+Cove&form=hpcapt&filters=HpDate%3a%2220260731_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.SeaStacks_FR-FR4057620009"
+    }
+  },
+  "SantaCatalina": {
+    "name": "SantaCatalina",
+    "urlbase": "/th?id=OHR.SantaCatalina_ES-ES2186596110",
+    "date": "20260731",
+    "dateFormatted": "July 31, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Pasadizo a plena luz. Arco de Santa Catalina, Antigua Guatemala, Guatemala",
+      "en-US": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "en-CA": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "pt-BR": "Um portal para outra época",
+      "en-GB": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala",
+      "de-DE": "Offenbar gut verborgen. Arco de Santa Catalina in Antigua, Guatemala",
+      "fr-FR": "L’arche qui cache. Santa Catalina Arch, Antigua, Guatemala",
+      "it-IT": "Senza entrare in strada",
+      "zh-CN": "拱影寻踪",
+      "en-IN": "Hidden in plain arch. Santa Catalina Arch, Antigua, Guatemala"
+    },
+    "copyrights": {
+      "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "en-US": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "en-CA": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "pt-BR": "Arco de Santa Catalina, Antígua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "en-GB": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "de-DE": "Arco de Santa Catalina in Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "fr-FR": "Arche de Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "it-IT": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "zh-CN": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
+      "en-IN": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "El Arco de Santa Catalina, en Antigua Guatemala, no fue concebido para deslumbrar a nadie: nació en 1693 como solución discreta a un dilema conventual. Las monjas de clausura necesitaban cruzar la calle para pasar de un edificio a otro sin ser vistas desde el exterior, y este puente cubierto fue la respuesta. La privacidad, no el espectáculo, creó uno de los monumentos coloniales más fotografiados de Centroamérica. La ironía tiene buena memoria.",
+      "en-US": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "en-CA": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow façade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "en-GB": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "de-DE": "Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.",
+      "fr-FR": "À Antigua, au Guatemala, l’arche de Santa Catalina se dresse au cœur des rues pavées, avec le volcan Agua en arrière‑plan. Au lever du soleil, sa façade jaune capte la lumière et contraste avec les pavés sombres qui s’étirent dans la perspective de la ville.",
+      "en-IN": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow facade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+      "it-IT": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
+      "pt-BR": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
+      "zh-CN": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。"
+    },
+    "quickFacts": {
+      "zh-CN": "这座标志性的法制时钟于19世纪30年代被增设，至今仍需每三天人工手动上弦一次，在圣卡塔琳娜拱门，安提瓜，危地马拉。"
+    },
+    "captions": {
+      "es-ES": "Arco de Santa Catalina, Antigua Guatemala, Guatemala"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Arco+de+Santa+Catalina+Monumento+de+Antigua+Guatemala&form=hpcapt&filters=HpDate%3a%2220260731_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.SantaCatalina_ES-ES2186596110"
+    }
+  },
   "HirosakiNeputa2026": {
     "name": "HirosakiNeputa2026",
     "urlbase": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053",
@@ -2524,58 +2728,6 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053"
-    }
-  },
-  "ValleyDreams": {
-    "name": "ValleyDreams",
-    "urlbase": "/th?id=OHR.ValleyDreams_EN-IN0485781632",
-    "date": "20260806",
-    "dateFormatted": "August 06, 2026",
-    "markets": [
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-IN": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States",
-      "en-GB": "The great balancing act. Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States",
-      "fr-FR": "Une coiffe de pierre. Cheminées de fées à Ah Shi Sle Pah Wilderness dans le comté de San Juan, Nouveau-Mexique, États-Unis",
-      "ja-JP": "夕陽を浴びる奇岩群. ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州",
-      "zh-CN": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国",
-      "en-US": "The great balancing act. Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico",
-      "en-CA": "The great balancing act. Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States"
-    },
-    "copyrights": {
-      "en-IN": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
-      "en-GB": "© Westend61/Getty Images",
-      "fr-FR": "© Westend61/Getty Images",
-      "ja-JP": "© Westend61/Getty Images",
-      "zh-CN": "© Westend61/Getty Images",
-      "en-US": "© Westend61/Getty Images",
-      "en-CA": "© Westend61/Getty Images"
-    },
-    "descs": {
-      "en-IN": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
-      "en-GB": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
-      "fr-FR": "Dans les vastes badlands du nord-ouest du Nouveau-Mexique, aux États-Unis, Ah-Shi-Sle-Pah Wilderness offre un décor tout droit sorti d’un rêve. Depuis environ 75 millions d’années, le vent, l’eau et le gel façonnent patiemment des cheminées de fée — de fines colonnes rocheuses portant d’imposants chapeaux de pierre, aussi présentes en France, notamment en Auvergne ou dans les Pyrénées-Orientales. Le nom navajo du lieu, associé au « sel gris », rappelle un territoire aussi ancien que fascinant, où la nature compose une œuvre d’art à grande échelle.",
-      "ja-JP": "ここは米国ニューメキシコ州のア・シ・スレ・パ自然保護区。水と風の浸食により約 7500 万年かけて形成された奇岩群「フードゥー」が広がっています。岩の大きさや形はさまざまで、なかでも「エイリアン・スローン（異星人の玉座）」と呼ばれる奇岩は、人気の撮影スポットです。また、この地域は化石の宝庫としても知られており、北米に生息した恐竜ペンタケラトプスをはじめ、先史時代のワニやカメ、魚類などの化石が発見されています。",
-      "zh-CN": "大自然善于平衡看似不可能之物。在新墨西哥州阿什斯利帕荒野地，高耸的石林以纤细石柱托起厚重岩帽。约7,500万年来，风、水和冰将这片偏远的恶地雕刻成一座露天展馆，景象更像异星，而非地球。",
-      "en-US": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water, and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
-      "en-CA": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial."
-    },
-    "quickFacts": {
-      "zh-CN": "阿什斯勒帕保存着全球最丰富的晚白垩世哺乳动物、爬行动物、植物和鱼类化石记录之一。"
-    },
-    "captions": {
-      "en-IN": "Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
-    },
-    "copyrightlinks": {
-      "en-IN": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260806_1830%22"
-    },
-    "urlbases": {
-      "en-IN": "/th?id=OHR.ValleyDreams_EN-IN0485781632"
     }
   },
   "NavajoNation": {
