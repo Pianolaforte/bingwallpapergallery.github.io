@@ -1,4 +1,148 @@
 {
+  "RossErrillyRuins": {
+    "name": "RossErrillyRuins",
+    "urlbase": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
+    "date": "20260816",
+    "dateFormatted": "August 16, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "en-GB": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "en-CA": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "de-DE": "Wo eine Legende mit Schwänen begann. Kloster Ross Errilly, Grafschaft Galway, Irland",
+      "fr-FR": "Guidé par des cygnes. Monastère de Ross Errilly, Comté de Galway, Irlande",
+      "it-IT": "Dove le mura raccontano leggende",
+      "es-ES": "Leyenda de cisnes. El convento Ross Errilly, condado de Galway, Irlanda",
+      "pt-BR": "Onde o mito encontrou abrigo",
+      "ja-JP": "歴史を刻む石造りの修道院跡",
+      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰",
+      "en-IN": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland"
+    },
+    "copyrights": {
+      "en-US": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "en-GB": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "en-CA": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "de-DE": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
+      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
+      "it-IT": "Rovine del convento Ross Errilly, Contea di Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "es-ES": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "pt-BR": "Ruínas do Convento de Ross Errilly, Condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "ja-JP": "ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)",
+      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)",
+      "en-IN": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "What do swans, secret hideaways, and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "en-GB": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "en-CA": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "de-DE": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
+      "fr-FR": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
+      "es-ES": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
+      "ja-JP": "歴史を刻む石造りの修道院跡. ロス・エリリー修道院跡, アイルランド. ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
+      "en-IN": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "it-IT": "Cigni, nascondigli segreti e una vasca medievale per tenere vivi i pesci fino al momento di cucinarli: cosa hanno in comune? Fanno tutti parte della storia del Convento Ross Errilly, nella Contea di Galway, in Irlanda. Fondato intorno al XIV secolo sull'affluente Black River, questo convento francescano tra i meglio conservati d'Irlanda — spesso chiamato erroneamente \"Ross Abbey\", pur non avendo mai avuto un abate — è un labirinto di cappelle, chiostri e corridoi dove ogni pietra racconta secoli di storia religiosa e vita monastica medievale.",
+      "pt-BR": "O que cisnes, passagens secretas e tanques de peixe têm em comum? Todos fazem parte da história do Convento de Ross Errilly, no Condado de Galway, na Irlanda, que vemos na imagem de hoje. Fundado por volta de 1351, o lugar também é conhecido como Abadia de Ross, embora nunca tenha sido uma abadia: sem um abade, sempre foi um convento franciscano.",
+      "zh-CN": "天鹅、秘密藏身处和中世纪养鱼池有什么共同之处？它们都是罗斯埃里利方济各会修道院遗址故事的一部分。这座保存完好的爱尔兰方济各会修道院建于约1351年，常被称为罗斯修道院（俗称）；不过它从未设过院长，因为它本就不是隐修院。"
+    },
+    "quickFacts": {
+      "zh-CN": "罗斯埃里利修道院在建立后的一个世纪间逐步扩建，现存塔楼建于1498年。"
+    },
+    "captions": {
+      "en-US": "Ross Errilly Friary, County Galway, Ireland",
+      "en-GB": "Ross Errilly Friary, County Galway, Ireland",
+      "en-CA": "Ross Errilly Friary, County Galway, Ireland",
+      "de-DE": "Kloster Ross Errilly, Grafschaft Galway, Irland",
+      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande",
+      "it-IT": "",
+      "es-ES": "El convento Ross Errilly, condado de Galway, Irlanda",
+      "pt-BR": "",
+      "ja-JP": "歴史を刻む石造りの修道院跡",
+      "zh-CN": "",
+      "en-IN": "Ross Errilly Friary, County Galway, Ireland"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260815_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Kloster+Ross+Errilly+Irland&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=monast%c3%a8re+de+Ross+Errilly+Friary+Irlande&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Contea+di+Galway&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Galway+Irlanda&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Abadia+de+Ross+na+Irlanda&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%ad%e3%82%b9%e3%83%bb%e3%82%a8%e3%83%aa%e3%83%aa%e3%83%bc%e4%bf%ae%e9%81%93%e9%99%a2%e8%b7%a1&form=hpcapt&filters=HpDate%3a%2220260815_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%88%b1%e5%b0%94%e5%85%b0%e7%bd%97%e6%96%af%c2%b7%e5%9f%83%e9%87%8c%e5%88%a9%e4%bf%ae%e9%81%93%e9%99%a2&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260815_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
+      "en-GB": "/th?id=OHR.RossErrillyRuins_EN-GB5823104227",
+      "en-CA": "/th?id=OHR.RossErrillyRuins_EN-CA6127917779",
+      "de-DE": "/th?id=OHR.RossErrillyRuins_DE-DE7983217751",
+      "fr-FR": "/th?id=OHR.RossErrillyRuins_FR-FR6708321048",
+      "it-IT": "/th?id=OHR.RossErrillyRuins_IT-IT6009541490",
+      "es-ES": "/th?id=OHR.RossErrillyRuins_ES-ES2238203619",
+      "pt-BR": "/th?id=OHR.RossErrillyRuins_PT-BR4842065654",
+      "ja-JP": "/th?id=OHR.RossErrillyRuins_JA-JP6822363126",
+      "zh-CN": "/th?id=OHR.RossErrillyRuins_ZH-CN9986322001",
+      "en-IN": "/th?id=OHR.RossErrillyRuins_EN-IN1645230186"
+    }
+  },
   "ValleyDreams": {
     "name": "ValleyDreams",
     "urlbase": "/th?id=OHR.ValleyDreams_EN-US5250331985",
@@ -616,7 +760,7 @@
       "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
       "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
       "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
-      "ja-JP": "静かな水面に映るカラフルな街並み. ニューハウン, デンマーク. ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
+      "ja-JP": "ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
       "en-IN": "Copenhagen in full colour. Colourful homes line Nyhavn Canal, Copenhagen, Denmark. In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks.",
       "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
       "pt-BR": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
@@ -719,7 +863,7 @@
       "de-DE": "Wo zwei Wüsten aufeinandertreffen. Joshua-Tree-Nationalpark, Kalifornien, USA",
       "fr-FR": "Un point de rencontre aride. Parc national Joshua Tree, Californie, États-Unis",
       "es-ES": "Donde chocan dos desiertos. Parque Nacional Joshua Tree, California, EE. UU.",
-      "zh-CN": "约书亚树国家公园，加利福尼亚州，美国",
+      "zh-CN": "两片沙漠交汇之地",
       "en-IN": "Where two deserts collide. Joshua Tree National Park, California, United States"
     },
     "copyrights": {
@@ -1064,6 +1208,11 @@
         "flag": "de"
       },
       {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
@@ -1088,21 +1237,21 @@
       "en-US": "Guiding ships through history. National Lighthouse Day",
       "en-CA": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington state",
       "de-DE": "Schiffe durch die Geschichte führen. Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
+      "it-IT": "La luce che illumina il cammino",
       "es-ES": "Guiando a lo largo de la historia. Día Mundial de los Faros",
       "pt-BR": "Uma luz no fim do oceano",
       "ja-JP": "今日は米国灯台の日",
-      "zh-CN": "指引船只穿越历史",
-      "it-IT": "La luce che illumina il cammino. Faro Lime Kiln sull'isola di San Juan, stato di Washington, USA"
+      "zh-CN": "指引船只穿越历史"
     },
     "copyrights": {
       "en-US": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
       "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
       "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+      "it-IT": "Faro Lime Kiln sull'isola di San Juan, stato di Washington, USA (© Edmund Lowe Photography/Shutterstock)",
       "es-ES": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
       "pt-BR": "Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos (© Edmund Lowe Photography/Shutterstock)",
       "ja-JP": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
-      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)",
-      "it-IT": "© Edmund Lowe Photography/Shutterstock"
+      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)"
     },
     "descs": {
       "en-US": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
@@ -1121,6 +1270,7 @@
       "en-US": "National Lighthouse Day",
       "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state",
       "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
+      "it-IT": "",
       "es-ES": "Día Mundial de los Faros",
       "pt-BR": "",
       "ja-JP": "今日は米国灯台の日",
@@ -1130,6 +1280,7 @@
       "en-US": "https://www.bing.com/search?q=National+Lighthouse+Day&form=hpcapt&filters=HpDate%3a%2220260807_0700%22",
       "en-CA": "https://www.bing.com/search?q=Lime+Kiln+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260807_0400%22",
       "de-DE": "https://www.bing.com/search?q=Leuchtturm+Lime+Kiln+Wanderungen&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+dei+Fari&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Faros&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Farol+de+Lime+Kiln+nos+EUA&form=hpcapt&mkt=pt-br",
       "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e7%81%af%e5%8f%b0%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260806_1500%22",
@@ -1139,6 +1290,7 @@
       "en-US": "/th?id=OHR.LimeKiln_EN-US2748515593",
       "en-CA": "/th?id=OHR.LimeKiln_EN-CA4364402853",
       "de-DE": "/th?id=OHR.LimeKiln_DE-DE5407156308",
+      "it-IT": "/th?id=OHR.LimeKiln_IT-IT6111794447",
       "es-ES": "/th?id=OHR.LimeKiln_ES-ES1360502485",
       "pt-BR": "/th?id=OHR.LimeKiln_PT-BR0696520524",
       "ja-JP": "/th?id=OHR.LimeKiln_JA-JP2506397292",
@@ -1578,86 +1730,46 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Bright boats, timeless traditions. Colorful boats in Marsaxlokk Harbor, Malta",
-      "en-GB": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
       "en-CA": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
+      "pt-BR": "Ancorado em tradição",
+      "en-GB": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta",
       "de-DE": "Zeitlose Traditionen. Bunte Boote im Hafen von Marsaxlokk, Malta",
       "fr-FR": "Les couleurs de la tradition. Bateaux colorés dans le port de Marsaxlokk, Malte",
       "it-IT": "Un porto di colori",
       "es-ES": "Navegando entre colores. Barcos coloridos en el puerto de Marsaxlokk, Malta",
-      "pt-BR": "Ancorado em tradição",
       "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
       "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
       "en-IN": "Bright boats, timeless traditions. Colourful boats in Marsaxlokk Harbour, Malta"
     },
     "copyrights": {
       "en-US": "Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)",
-      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
       "en-CA": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
+      "pt-BR": "Barcos coloridos no porto de Marsaxlokk, Malta (© Klubovy/Getty Images)",
+      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
       "de-DE": "Bunte Boote im Hafen von Marsaxlokk, Malta (© Klubovy/Getty Images)",
       "fr-FR": "Bateaux colorés dans le port de Marsaxlokk, Malte (© Klubovy/Getty Images)",
       "it-IT": "Barche colorate nel porto di Marsaxlokk, Malta (© Klubovy/Getty Images)",
       "es-ES": "Barcos coloridos en el puerto de Marsaxlokk, Malta (© Klubovy/Getty Images)",
-      "pt-BR": "Barcos coloridos no porto de Marsaxlokk, Malta (© Klubovy/Getty Images)",
       "ja-JP": "マルサシュロック, マルタ (© Klubovy/Getty Images)",
       "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
       "en-IN": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)"
     },
     "descs": {
       "en-US": "Colorful luzzus—traditional Maltese fishing boats—fill the sheltered harbor of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
-      "en-GB": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
       "en-CA": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
+      "en-GB": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
       "de-DE": "Im geschützten Hafen von Marsaxlokk an der Südostküste Maltas gehören farbenfrohe Fischerboote zum gewohnten Bild. Das malerische Fischerdorf liegt nur wenige Kilometer von Valletta entfernt und zählt zu den bekanntesten Küstenorten der Insel. Noch heute spielt die Fischerei eine wichtige Rolle im Alltag der Einwohner. Besonders lebendig wird die Uferpromenade in den frühen Morgenstunden, wenn die Boote mit ihrem frischen Fang zurückkehren und das Hafenbecken mit Bewegung und Farbe füllen.",
       "fr-FR": "Les luzzus apportent leurs couleurs au paysage. Ces barques de pêche traditionnelles maltaises animent le port abrité de Marsaxlokk, village côtier du sud‑est de Malte, leurs coques peintes en bleu cobalt, jaune vif, rouge et vert composant une palette que la Méditerranée semble avoir créée elle‑même.",
       "es-ES": "En el puerto de Marsaxlokk, al sureste de Malta, los luzzus —embarcaciones de pesca tradicionales— tiñen el agua con sus llamativos rojos, amarillos, verdes y azules. A pocos minutos de Valletta, la capital, esta aldea de unos 4.000 habitantes sigue viviendo al ritmo del mar: cada mañana regresan los barcos cargados de pesca fresca, y los domingos el paseo marítimo se anima con un mercado que atrae a lugareños y visitantes por igual.",
@@ -1672,129 +1784,25 @@
     },
     "captions": {
       "en-US": "Colorful boats in Marsaxlokk Harbor, Malta",
-      "en-GB": "Colourful boats in Marsaxlokk Harbour, Malta",
       "en-CA": "Colourful boats in Marsaxlokk Harbour, Malta",
-      "de-DE": "Bunte Boote im Hafen von Marsaxlokk, Malta",
-      "fr-FR": "Bateaux colorés dans le port de Marsaxlokk, Malte",
-      "it-IT": "",
-      "es-ES": "Barcos coloridos en el puerto de Marsaxlokk, Malta",
-      "pt-BR": "",
-      "ja-JP": "エメラルドの海に浮かぶ色とりどりの船",
-      "zh-CN": "",
-      "en-IN": "Colourful boats in Marsaxlokk Harbour, Malta"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260803_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260803_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Marsaxlokk+Malte&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=vila+de+Marsaxlokk&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b5%e3%82%b7%e3%83%a5%e3%83%ad%e3%83%83%e3%82%af&form=hpcapt&filters=HpDate%3a%2220260802_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%a9%ac%e8%80%b3%e4%bb%96%e9%a9%ac%e5%b0%94%e8%90%a8%e4%bb%80%e6%b4%9b%e5%85%8b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BoatsMalta_EN-US5373607495",
-      "en-GB": "/th?id=OHR.BoatsMalta_EN-GB7267750671",
-      "en-CA": "/th?id=OHR.BoatsMalta_EN-CA2874745568",
-      "de-DE": "/th?id=OHR.BoatsMalta_DE-DE5376700732",
-      "fr-FR": "/th?id=OHR.BoatsMalta_FR-FR8096449869",
-      "it-IT": "/th?id=OHR.BoatsMalta_IT-IT9782215973",
-      "es-ES": "/th?id=OHR.BoatsMalta_ES-ES3454206365",
-      "pt-BR": "/th?id=OHR.BoatsMalta_PT-BR0574655720",
-      "ja-JP": "/th?id=OHR.BoatsMalta_JA-JP6685221242",
-      "zh-CN": "/th?id=OHR.BoatsMalta_ZH-CN4708255775",
-      "en-IN": "/th?id=OHR.BoatsMalta_EN-IN2698932333"
-    }
-  },
-  "HelsinkiBlue": {
-    "name": "HelsinkiBlue",
-    "urlbase": "/th?id=OHR.HelsinkiBlue_EN-US4898215906",
-    "date": "20260802",
-    "dateFormatted": "August 02, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
-      "en-CA": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
-      "pt-BR": "A cidade que abraça o mar",
-      "en-GB": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
-      "de-DE": "Tochter der Ostsee. Helsinki, Uusimaa, Finnland",
-      "fr-FR": "Fille de la Baltique. Helsinki, Uusimaa, Finlande",
-      "it-IT": "Figlia del Baltico",
-      "es-ES": "Hija del Báltico. Helsinki, Uusimaa, Finlandia",
-      "ja-JP": "ブルーアワーに輝く湾岸の街",
-      "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
-      "en-IN": "Daughter of the Baltic. Helsinki, Uusimaa, Finland"
-    },
-    "copyrights": {
-      "en-US": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
-      "en-CA": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
-      "pt-BR": "Orla de Helsinque na hora azul, Uusimaa, Finlândia (© Miemo Penttinen/Getty Images)",
-      "en-GB": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
-      "de-DE": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland (© Miemo Penttinen/Getty Images)",
-      "fr-FR": "Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande (© Miemo Penttinen/Getty Images)",
-      "it-IT": "La costa di Helsinki durante l'ora blu, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
-      "es-ES": "La costa de Helsinki durante la hora azul, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
-      "ja-JP": "ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)",
-      "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
-      "en-IN": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Finland is famous for the northern lights, its high happiness rankings, saunas, and thousands of lakes. Helsinki adds history, design, and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
-      "en-CA": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
-      "en-GB": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
-      "de-DE": "Helsinki, die Hauptstadt Finnlands, verbindet Geschichte, Design und die Nähe zur Ostsee auf einzigartige Weise. Die Stadt wurde 1550 von Gustav I. von Schweden gegründet und ist seit 1812 die Hauptstadt des Landes. Entlang der Küste prägen elegante Gebäude, lebendige Hafenviertel und die ruhige Weite des Meeres das Stadtbild. Zur blauen Stunde spiegeln sich die letzten Farben des Tages im Wasser, während die Lichter der Stadt allmählich aufleuchten und eine besondere Atmosphäre schaffen.",
-      "fr-FR": "Il est un moment, entre chien et loup, où Helsinki retient son souffle. Le ciel vire à l’indigo, les eaux de la Baltique s’apaisent, et la ville se reflète dans un calme presque irréel. C’est l’heure bleue — fugace, envoûtante.",
-      "es-ES": "Helsinki, la vibrante capital de Finlandia, es una ciudad donde el mar, la historia y el diseño conviven en perfecta armonía. Fundada en 1550 por el rey Gustavo I de Suecia, no alcanzó su papel de capital hasta 1812, aunque el tiempo no ha hecho más que pulir su carácter.",
-      "ja-JP": "ここはフィンランドの首都ヘルシンキ。1550 年、当時のスウェーデン国王グスタフ 1 世によって交易の街として整備され、1812 年に首都となりました。フィンランド湾沿岸に位置し、300 以上の島々を有しているため、街の総面積の約 7 割が海域となっていますが、同時に緑豊かな森にも恵まれています。フィンランドには「自然享受権」という権利があるため、誰でも気軽に森を散策することが可能であり、ベリーやキノコなどを自由に採集することができます。",
-      "en-IN": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
-      "it-IT": "Durante l'ora blu, quella finestra di luce sospesa tra il tramonto e la notte, Helsinki si riflette nel Baltico con una nitidezza che sembra quasi irreale. Fondata nel 1550 dal re svedese Gustavo I e diventata capitale della Finlandia nel 1812, la città ha costruito la propria identità sull'acqua: oltre il settanta per cento dei suoi 686 km² è mare, e il tessuto urbano si estende su più di 300 isole.",
-      "pt-BR": "Vista na imagem, Helsinque parece uma cidade que nunca conseguiu decidir se prefere terra ou mar. O resultado? Mais de 300 ilhas, quilômetros de litoral e uma capital onde o azul aparece em praticamente qualquer direção. Fundada em 1550 como um centro comercial do reino da Suécia, ela virou capital finlandesa em 1812 e, desde então, coleciona um talento raro: combinar prédios elegantes, natureza e uma vida urbana que anda sem pressa.",
-      "zh-CN": "色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
-    },
-    "quickFacts": {
-      "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
-    },
-    "captions": {
-      "en-US": "Helsinki, Uusimaa, Finland",
-      "en-CA": "Helsinki, Uusimaa, Finland",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260802_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260802_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Helsinque+Finl%c3%a2ndia&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260803_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260803_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=vila+de+Marsaxlokk&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.HelsinkiBlue_EN-US4898215906",
-      "en-CA": "/th?id=OHR.HelsinkiBlue_EN-CA2592660505",
-      "pt-BR": "/th?id=OHR.HelsinkiBlue_PT-BR0340824647"
+      "en-US": "/th?id=OHR.BoatsMalta_EN-US5373607495",
+      "en-CA": "/th?id=OHR.BoatsMalta_EN-CA2874745568",
+      "pt-BR": "/th?id=OHR.BoatsMalta_PT-BR0574655720"
     }
   },
-  "RossErrillyRuins": {
-    "name": "RossErrillyRuins",
-    "urlbase": "/th?id=OHR.RossErrillyRuins_EN-GB5823104227",
-    "date": "20260815",
-    "dateFormatted": "August 15, 2026",
+  "CabilaoClowns": {
+    "name": "CabilaoClowns",
+    "urlbase": "/th?id=OHR.CabilaoClowns_EN-GB5900354557",
+    "date": "20260816",
+    "dateFormatted": "August 16, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1838,76 +1846,76 @@
       }
     ],
     "titles": {
-      "en-GB": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
-      "de-DE": "Wo eine Legende mit Schwänen begann. Kloster Ross Errilly, Grafschaft Galway, Irland",
-      "fr-FR": "Guidé par des cygnes. Monastère de Ross Errilly, Comté de Galway, Irlande",
-      "it-IT": "Dove le mura raccontano leggende",
-      "es-ES": "Leyenda de cisnes. El convento Ross Errilly, condado de Galway, Irlanda",
-      "ja-JP": "歴史を刻む石造りの修道院跡",
-      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰",
-      "en-IN": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
-      "en-US": "Where swans started a legend. Ruins of Ross Errilly Friary, County Galway, Ireland",
-      "en-CA": "Where swans started a legend. Ruins of Ross Errilly Friary, County Galway, Ireland",
-      "pt-BR": "Onde o mito encontrou abrigo. Ruínas do Convento de Ross Errilly, Condado de Galway, Irlanda"
+      "en-GB": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
+      "de-DE": "Farbenfrohe Riffbewohner. Falsche Clownfische, Insel Cabilao, Bohol, Philippinen",
+      "fr-FR": "Nage droit devant toi ! Faux poissons-clowns au large de l’île de Cabilao, Philippines",
+      "it-IT": "Pronti per i festeggiamenti",
+      "es-ES": "Una anémona de primera. Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
+      "ja-JP": "イソギンチャクにすむ小魚たち",
+      "zh-CN": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾",
+      "en-IN": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
+      "en-US": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
+      "en-CA": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
+      "pt-BR": "O bairro mais vibrante do oceano. Três peixes-palhaço falsos em uma anêmona-do-mar, Ilha Cabilao, Bohol, Filipinas"
     },
     "copyrights": {
-      "en-GB": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-      "de-DE": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
-      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
-      "it-IT": "Rovine del convento Ross Errilly, Contea di Galway, Irlanda (© Maria Janus/Shutterstock)",
-      "es-ES": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
-      "ja-JP": "ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)",
-      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)",
-      "en-IN": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-      "en-US": "© Maria Janus/Shutterstock",
-      "en-CA": "© Maria Janus/Shutterstock",
-      "pt-BR": "© Maria Janus/Shutterstock"
+      "en-GB": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "de-DE": "Drei Falsche Clownfische in einer Seeanemone, Insel Cabilao, Bohol, Philippinen (© Franco Banfi/Nature Picture Library)",
+      "fr-FR": "Trois faux poissons-clowns dans une anémone de mer, Île de Cabilao, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "it-IT": "Pesci pagliaccio in un anemone di mare, isola di Cabilao, Bohol, Filippine (© Franco Banfi/Nature Picture Library)",
+      "es-ES": "Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
+      "ja-JP": "カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)",
+      "zh-CN": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)",
+      "en-IN": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "en-US": "© Franco Banfi/Nature Picture Library",
+      "en-CA": "© Franco Banfi/Nature Picture Library",
+      "pt-BR": "© Franco Banfi/Nature Picture Library"
     },
     "descs": {
-      "en-GB": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "de-DE": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
-      "fr-FR": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
-      "es-ES": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
-      "ja-JP": "歴史を刻む石造りの修道院跡. ロス・エリリー修道院跡, アイルランド. ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
-      "en-IN": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "en-US": "What do swans, secret hideaways, and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "en-CA": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "it-IT": "Cigni, nascondigli segreti e una vasca medievale per tenere vivi i pesci fino al momento di cucinarli: cosa hanno in comune? Fanno tutti parte della storia del Convento Ross Errilly, nella Contea di Galway, in Irlanda. Fondato intorno al XIV secolo sull'affluente Black River, questo convento francescano tra i meglio conservati d'Irlanda — spesso chiamato erroneamente \"Ross Abbey\", pur non avendo mai avuto un abate — è un labirinto di cappelle, chiostri e corridoi dove ogni pietra racconta secoli di storia religiosa e vita monastica medievale.",
-      "pt-BR": "O que cisnes, passagens secretas e tanques de peixe têm em comum? Todos fazem parte da história do Convento de Ross Errilly, no Condado de Galway, na Irlanda, que vemos na imagem de hoje. Fundado por volta de 1351, o lugar também é conhecido como Abadia de Ross, embora nunca tenha sido uma abadia: sem um abade, sempre foi um convento franciscano.",
-      "zh-CN": "天鹅、秘密藏身处和中世纪养鱼池有什么共同之处？它们都是罗斯埃里利方济各会修道院遗址故事的一部分。这座保存完好的爱尔兰方济各会修道院建于约1351年，常被称为罗斯修道院（俗称）；不过它从未设过院长，因为它本就不是隐修院。"
+      "en-GB": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "de-DE": "Falsche Clownfische gehören zu den bekanntesten Bewohnern tropischer Korallenriffe. Mit ihren leuchtend orangefarbenen Körpern und den weißen Streifen sind sie leicht zu erkennen. Besonders faszinierend ist ihre enge Verbindung zu Seeanemonen, zwischen deren Tentakeln sie Schutz vor vielen Fressfeinden finden. Dort verbringen sie einen Großteil ihres Lebens und bewegen sich oft nur wenige Meter von ihrem vertrauten Unterschlupf entfernt.",
+      "fr-FR": "À Lighthouse Reef, près de l’île de Cabilao aux Philippines, le faux poisson-clown évolue dans un décor aussi magnifique qu’hostile. Dans ces eaux tropicales saturées de prédateurs, il a trouvé un refuge inattendu : l’anémone de mer, dont les milliers de cellules urticantes dissuadent presque tous les intrus. Là où d’autres verraient un piège, il trouve un abri parfait.",
+      "es-ES": "En los arrecifes de la isla Cabilao, en Bohol, Filipinas, los peces payaso han encontrado el hogar definitivo: una anémona de mar armada con miles de células urticantes microscópicas que mantienen alejado a cualquier intruso. Para la mayoría de los peces, acercarse a una anémona equivale a tocar un campo de minas; para estos pequeños habitantes de colores, es simplemente su dirección.",
+      "ja-JP": "今日の画像は、フィリピン・ボホール州のカビラオ島で撮影されたイソギンチャクにすむカクレクマノミ。多くの魚にとってイソギンチャクは刺胞を持つ危険な存在ですが、クマノミは特殊な粘液によって身体を守っているため、触手の間を安全な住処として利用できます。一方で、捕食者を追い払ったり食べ残しを与えたりすることでイソギンチャクにも利益をもたらすという共生関係を築いています。クマノミは、すべてオスとして生まれたあと、群れからメスがいなくなると最も大きなオスが性転換してメスになるという特徴があります。",
+      "en-IN": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "it-IT": "Nelle acque della barriera corallina dell'isola di Cabilao, a Bohol, nelle Filippine, i pesci pagliaccio hanno trovato la casa definitiva: un anemone di mare armato di migliaia di cellule urticanti microscopiche, in grado di tenere lontano qualsiasi intruso. Per la maggior parte dei pesci, avvicinarsi a un anemone equivale a entrare in un campo minato; per questi piccoli abitanti dai colori vivaci, è semplicemente il loro indirizzo di casa.",
+      "zh-CN": "地点很重要。看看图片中菲律宾卡比劳岛附近卡比劳附近的灯塔礁的眼斑双锯鱼就知道了。在这片充满饥饿捕食者和激烈竞争的热带水域，它们占据了一块黄金地段：一只拥有数千个微小刺细胞的海葵。",
+      "en-US": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "en-CA": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "pt-BR": "No fundo do mar, endereço vale ouro. A imagem mostra um peixe-palhaço falso vivendo em um apartamento de luxo: uma anêmona-do-mar na Ilha Cabilao, nas Filipinas. Para qualquer outro peixe, aqueles tentáculos são uma coleção de milhares de ferrões microscópicos. Para ele, são portaria, muro e sistema de segurança funcionando 24 horas por dia."
     },
     "quickFacts": {
-      "zh-CN": "罗斯埃里利修道院在建立后的一个世纪间逐步扩建，现存塔楼建于1498年。"
+      "zh-CN": "眼斑双锯鱼（俗称“公子小丑鱼”）的学名为 Amphiprion ocellaris；根据世界鱼类数据库（FishBase）的记录，该物种具有 11 根背鳍鳍棘。"
     },
     "captions": {
-      "en-GB": "Ross Errilly Friary, County Galway, Ireland",
-      "de-DE": "Kloster Ross Errilly, Grafschaft Galway, Irland",
-      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande",
+      "en-GB": "False clownfish off Cabilao Island, Bohol, Philippines",
+      "de-DE": "Falsche Clownfische, Insel Cabilao, Bohol, Philippinen",
+      "fr-FR": "Faux poissons-clowns au large de l’île de Cabilao, Philippines",
       "it-IT": "",
-      "es-ES": "El convento Ross Errilly, condado de Galway, Irlanda",
-      "ja-JP": "歴史を刻む石造りの修道院跡",
+      "es-ES": "Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
+      "ja-JP": "イソギンチャクにすむ小魚たち",
       "zh-CN": "",
-      "en-IN": "Ross Errilly Friary, County Galway, Ireland"
+      "en-IN": "False clownfish off Cabilao Island, Bohol, Philippines"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260815_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Kloster+Ross+Errilly+Irland&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=monast%c3%a8re+de+Ross+Errilly+Friary+Irlande&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Contea+di+Galway&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Galway+Irlanda&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%ad%e3%82%b9%e3%83%bb%e3%82%a8%e3%83%aa%e3%83%aa%e3%83%bc%e4%bf%ae%e9%81%93%e9%99%a2%e8%b7%a1&form=hpcapt&filters=HpDate%3a%2220260815_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%88%b1%e5%b0%94%e5%85%b0%e7%bd%97%e6%96%af%c2%b7%e5%9f%83%e9%87%8c%e5%88%a9%e4%bf%ae%e9%81%93%e9%99%a2&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260815_1830%22"
+      "en-GB": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260816_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Falscher+Clownfisch&form=hpcapt&filters=HpDate%3a%2220260816_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=faux+poisson-clown+esp%c3%a8ce&form=hpcapt&filters=HpDate%3a%2220260816_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Pesci+pagliaccio&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=pez+payaso&form=hpcapt&filters=HpDate%3a%2220260816_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%82%af%e3%83%9e%e3%83%8e%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220260816_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%9c%bc%e6%96%91%e5%8f%8c%e9%94%af%e9%b1%bc&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260816_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.RossErrillyRuins_EN-GB5823104227",
-      "de-DE": "/th?id=OHR.RossErrillyRuins_DE-DE7983217751",
-      "fr-FR": "/th?id=OHR.RossErrillyRuins_FR-FR6708321048",
-      "it-IT": "/th?id=OHR.RossErrillyRuins_IT-IT6009541490",
-      "es-ES": "/th?id=OHR.RossErrillyRuins_ES-ES2238203619",
-      "ja-JP": "/th?id=OHR.RossErrillyRuins_JA-JP6822363126",
-      "zh-CN": "/th?id=OHR.RossErrillyRuins_ZH-CN9986322001",
-      "en-IN": "/th?id=OHR.RossErrillyRuins_EN-IN1645230186"
+      "en-GB": "/th?id=OHR.CabilaoClowns_EN-GB5900354557",
+      "de-DE": "/th?id=OHR.CabilaoClowns_DE-DE7285791368",
+      "fr-FR": "/th?id=OHR.CabilaoClowns_FR-FR3714615654",
+      "it-IT": "/th?id=OHR.CabilaoClowns_IT-IT2689259702",
+      "es-ES": "/th?id=OHR.CabilaoClowns_ES-ES2300770147",
+      "ja-JP": "/th?id=OHR.CabilaoClowns_JA-JP7034609036",
+      "zh-CN": "/th?id=OHR.CabilaoClowns_ZH-CN0147033898",
+      "en-IN": "/th?id=OHR.CabilaoClowns_EN-IN1781663885"
     }
   },
   "BristolBalloonFiesta2026": {
@@ -2170,70 +2178,6 @@
       "it-IT": "/th?id=OHR.DolomitiAgosto_IT-IT3030401591"
     }
   },
-  "CabilaoClowns": {
-    "name": "CabilaoClowns",
-    "urlbase": "/th?id=OHR.CabilaoClowns_IT-IT2689259702",
-    "date": "20260806",
-    "dateFormatted": "August 06, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "Pronti per i festeggiamenti",
-      "en-GB": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
-      "de-DE": "Farbenfrohe Riffbewohner. Drei Falsche Clownfische in einer Seeanemone, Insel Cabilao, Bohol, Philippinen",
-      "fr-FR": "Nage droit devant toi ! Trois faux poissons-clowns dans une anémone de mer, Île de Cabilao, Bohol, Philippines",
-      "es-ES": "Una anémona de primera. Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
-      "ja-JP": "イソギンチャクにすむ小魚たち. カクレクマノミ, フィリピン",
-      "zh-CN": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾",
-      "en-IN": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
-      "en-US": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
-      "en-CA": "A prime 'reef' estate. Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines",
-      "pt-BR": "O bairro mais vibrante do oceano. Três peixes-palhaço falsos em uma anêmona-do-mar, Ilha Cabilao, Bohol, Filipinas"
-    },
-    "copyrights": {
-      "it-IT": "Pesci pagliaccio in un anemone di mare, isola di Cabilao, Bohol, Filippine (© Franco Banfi/Nature Picture Library)",
-      "en-GB": "© Franco Banfi/Nature Picture Library",
-      "de-DE": "© Franco Banfi/Nature Picture Library",
-      "fr-FR": "© Franco Banfi/Nature Picture Library",
-      "es-ES": "© Franco Banfi/Nature Picture Library",
-      "ja-JP": "© Franco Banfi/Nature Picture Library",
-      "zh-CN": "© Franco Banfi/Nature Picture Library",
-      "en-IN": "© Franco Banfi/Nature Picture Library",
-      "en-US": "© Franco Banfi/Nature Picture Library",
-      "en-CA": "© Franco Banfi/Nature Picture Library",
-      "pt-BR": "© Franco Banfi/Nature Picture Library"
-    },
-    "descs": {
-      "it-IT": "Nelle acque della barriera corallina dell'isola di Cabilao, a Bohol, nelle Filippine, i pesci pagliaccio hanno trovato la casa definitiva: un anemone di mare armato di migliaia di cellule urticanti microscopiche, in grado di tenere lontano qualsiasi intruso. Per la maggior parte dei pesci, avvicinarsi a un anemone equivale a entrare in un campo minato; per questi piccoli abitanti dai colori vivaci, è semplicemente il loro indirizzo di casa.",
-      "en-GB": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "de-DE": "Falsche Clownfische gehören zu den bekanntesten Bewohnern tropischer Korallenriffe. Mit ihren leuchtend orangefarbenen Körpern und den weißen Streifen sind sie leicht zu erkennen. Besonders faszinierend ist ihre enge Verbindung zu Seeanemonen, zwischen deren Tentakeln sie Schutz vor vielen Fressfeinden finden. Dort verbringen sie einen Großteil ihres Lebens und bewegen sich oft nur wenige Meter von ihrem vertrauten Unterschlupf entfernt.",
-      "fr-FR": "À Lighthouse Reef, près de l’île de Cabilao aux Philippines, le faux poisson-clown évolue dans un décor aussi magnifique qu’hostile. Dans ces eaux tropicales saturées de prédateurs, il a trouvé un refuge inattendu : l’anémone de mer, dont les milliers de cellules urticantes dissuadent presque tous les intrus. Là où d’autres verraient un piège, il trouve un abri parfait.",
-      "es-ES": "En los arrecifes de la isla Cabilao, en Bohol, Filipinas, los peces payaso han encontrado el hogar definitivo: una anémona de mar armada con miles de células urticantes microscópicas que mantienen alejado a cualquier intruso. Para la mayoría de los peces, acercarse a una anémona equivale a tocar un campo de minas; para estos pequeños habitantes de colores, es simplemente su dirección.",
-      "ja-JP": "今日の画像は、フィリピン・ボホール州のカビラオ島で撮影されたイソギンチャクにすむカクレクマノミ。多くの魚にとってイソギンチャクは刺胞を持つ危険な存在ですが、クマノミは特殊な粘液によって身体を守っているため、触手の間を安全な住処として利用できます。一方で、捕食者を追い払ったり食べ残しを与えたりすることでイソギンチャクにも利益をもたらすという共生関係を築いています。クマノミは、すべてオスとして生まれたあと、群れからメスがいなくなると最も大きなオスが性転換してメスになるという特徴があります。",
-      "zh-CN": "地点很重要。看看图片中菲律宾卡比劳岛附近卡比劳附近的灯塔礁的眼斑双锯鱼就知道了。在这片充满饥饿捕食者和激烈竞争的热带水域，它们占据了一块黄金地段：一只拥有数千个微小刺细胞的海葵。",
-      "en-IN": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "en-US": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "en-CA": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "pt-BR": "No fundo do mar, endereço vale ouro. A imagem mostra um peixe-palhaço falso vivendo em um apartamento de luxo: uma anêmona-do-mar na Ilha Cabilao, nas Filipinas. Para qualquer outro peixe, aqueles tentáculos são uma coleção de milhares de ferrões microscópicos. Para ele, são portaria, muro e sistema de segurança funcionando 24 horas por dia."
-    },
-    "quickFacts": {
-      "zh-CN": "眼斑双锯鱼（俗称“公子小丑鱼”）的学名为 Amphiprion ocellaris；根据世界鱼类数据库（FishBase）的记录，该物种具有 11 根背鳍鳍棘。"
-    },
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Pesci+pagliaccio&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.CabilaoClowns_IT-IT2689259702"
-    }
-  },
   "MalagaFairAgosto": {
     "name": "MalagaFairAgosto",
     "urlbase": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269",
@@ -2488,6 +2432,86 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+    }
+  },
+  "HelsinkiBlue": {
+    "name": "HelsinkiBlue",
+    "urlbase": "/th?id=OHR.HelsinkiBlue_EN-US4898215906",
+    "date": "20260802",
+    "dateFormatted": "August 02, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
+      "en-CA": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
+      "pt-BR": "A cidade que abraça o mar",
+      "en-GB": "Daughter of the Baltic. Helsinki, Uusimaa, Finland",
+      "de-DE": "Tochter der Ostsee. Helsinki, Uusimaa, Finnland",
+      "fr-FR": "Fille de la Baltique. Helsinki, Uusimaa, Finlande",
+      "it-IT": "Figlia del Baltico",
+      "es-ES": "Hija del Báltico. Helsinki, Uusimaa, Finlandia",
+      "ja-JP": "ブルーアワーに輝く湾岸の街",
+      "zh-CN": "色彩鲜艳的船只，历久弥新的传统",
+      "en-IN": "Daughter of the Baltic. Helsinki, Uusimaa, Finland"
+    },
+    "copyrights": {
+      "en-US": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+      "en-CA": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+      "pt-BR": "Orla de Helsinque na hora azul, Uusimaa, Finlândia (© Miemo Penttinen/Getty Images)",
+      "en-GB": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+      "de-DE": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland (© Miemo Penttinen/Getty Images)",
+      "fr-FR": "Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande (© Miemo Penttinen/Getty Images)",
+      "it-IT": "La costa di Helsinki durante l'ora blu, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+      "es-ES": "La costa de Helsinki durante la hora azul, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+      "ja-JP": "ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)",
+      "zh-CN": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
+      "en-IN": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Finland is famous for the northern lights, its high happiness rankings, saunas, and thousands of lakes. Helsinki adds history, design, and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "en-CA": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "en-GB": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "de-DE": "Helsinki, die Hauptstadt Finnlands, verbindet Geschichte, Design und die Nähe zur Ostsee auf einzigartige Weise. Die Stadt wurde 1550 von Gustav I. von Schweden gegründet und ist seit 1812 die Hauptstadt des Landes. Entlang der Küste prägen elegante Gebäude, lebendige Hafenviertel und die ruhige Weite des Meeres das Stadtbild. Zur blauen Stunde spiegeln sich die letzten Farben des Tages im Wasser, während die Lichter der Stadt allmählich aufleuchten und eine besondere Atmosphäre schaffen.",
+      "fr-FR": "Il est un moment, entre chien et loup, où Helsinki retient son souffle. Le ciel vire à l’indigo, les eaux de la Baltique s’apaisent, et la ville se reflète dans un calme presque irréel. C’est l’heure bleue — fugace, envoûtante.",
+      "es-ES": "Helsinki, la vibrante capital de Finlandia, es una ciudad donde el mar, la historia y el diseño conviven en perfecta armonía. Fundada en 1550 por el rey Gustavo I de Suecia, no alcanzó su papel de capital hasta 1812, aunque el tiempo no ha hecho más que pulir su carácter.",
+      "ja-JP": "ここはフィンランドの首都ヘルシンキ。1550 年、当時のスウェーデン国王グスタフ 1 世によって交易の街として整備され、1812 年に首都となりました。フィンランド湾沿岸に位置し、300 以上の島々を有しているため、街の総面積の約 7 割が海域となっていますが、同時に緑豊かな森にも恵まれています。フィンランドには「自然享受権」という権利があるため、誰でも気軽に森を散策することが可能であり、ベリーやキノコなどを自由に採集することができます。",
+      "en-IN": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+      "it-IT": "Durante l'ora blu, quella finestra di luce sospesa tra il tramonto e la notte, Helsinki si riflette nel Baltico con una nitidezza che sembra quasi irreale. Fondata nel 1550 dal re svedese Gustavo I e diventata capitale della Finlandia nel 1812, la città ha costruito la propria identità sull'acqua: oltre il settanta per cento dei suoi 686 km² è mare, e il tessuto urbano si estende su più di 300 isole.",
+      "pt-BR": "Vista na imagem, Helsinque parece uma cidade que nunca conseguiu decidir se prefere terra ou mar. O resultado? Mais de 300 ilhas, quilômetros de litoral e uma capital onde o azul aparece em praticamente qualquer direção. Fundada em 1550 como um centro comercial do reino da Suécia, ela virou capital finlandesa em 1812 e, desde então, coleciona um talento raro: combinar prédios elegantes, natureza e uma vida urbana que anda sem pressa.",
+      "zh-CN": "色彩斑斓的“卢祖”（luzzu）——即马耳他的传统渔船——停满了马萨什洛克（Marsaxlokk）那避风港湾的水面；这座村庄坐落于马耳他东南沿海，距离首都瓦莱塔仅需短途车程。作为该国主要的渔业中心之一，这里的生活节奏始终与大海的律动保持着和谐的步调。村庄约有4000名居民，并以其充满活力的滨海区域而闻名——尤其是广受欢迎的周日鱼市，以及每天清晨满载新鲜渔获归来的船只。"
+    },
+    "quickFacts": {
+      "zh-CN": "鲁佐（Luzzu）渔船船头绘制的双眼被称为“荷鲁斯之眼”或“奥西里斯之眼”，这一传统源自古腓尼基和古埃及，代代相传，旨在驱散恶灵并为渔民带来好运。"
+    },
+    "captions": {
+      "en-US": "Helsinki, Uusimaa, Finland",
+      "en-CA": "Helsinki, Uusimaa, Finland",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260802_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260802_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Helsinque+Finl%c3%a2ndia&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HelsinkiBlue_EN-US4898215906",
+      "en-CA": "/th?id=OHR.HelsinkiBlue_EN-CA2592660505",
+      "pt-BR": "/th?id=OHR.HelsinkiBlue_PT-BR0340824647"
     }
   },
   "HawaiiLava": {
