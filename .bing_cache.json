@@ -1,4 +1,38 @@
 {
+  "BrewsterXF2A": {
+    "name": "BrewsterXF2A",
+    "urlbase": "/th?id=OHR.BrewsterXF2A_EN-US0417477370",
+    "date": "20260819",
+    "dateFormatted": "August 19, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Testing the future of flight. National Aviation Day"
+    },
+    "copyrights": {
+      "en-US": "NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)"
+    },
+    "descs": {
+      "en-US": "National Aviation Day, observed on August 19, celebrates the history of flight and the people who helped shape it. The day honors Orville Wright, whose pioneering work with his brother Wilbur helped launch the age of powered aviation."
+    },
+    "quickFacts": {
+      "en-US": "The Wright brothers' first powered flight in 1903 lasted just 12 seconds and covered 120 feet."
+    },
+    "captions": {
+      "en-US": "National Aviation Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Aviation+Day&form=hpcapt&filters=HpDate%3a%2220260819_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BrewsterXF2A_EN-US0417477370"
+    }
+  },
   "Palmanova": {
     "name": "Palmanova",
     "urlbase": "/th?id=OHR.Palmanova_EN-US0340289339",
@@ -747,7 +781,7 @@
       "it-IT": "Esprimere un desiderio!",
       "pt-BR": "Desejos à velocidade da luz",
       "ja-JP": "ペルセウス座流星群が輝く夜空",
-      "zh-CN": "泰德天文台上空的英仙座流星，加那利群岛，西班牙",
+      "zh-CN": "许个愿吧",
       "en-IN": "Make a wish. Perseid meteor shower over Tenerife, Spain",
       "es-ES": "Un universo por descubrir. Observatorio Astronómico de Izaña, Tenerife, España"
     },
@@ -1605,65 +1639,30 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
+      "pt-BR": "O efeito manada da coragem",
       "en-GB": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
       "de-DE": "Mutprobe am Fluss. Gnus überqueren den Mara-Fluss in der Masai Mara, Kenia",
       "fr-FR": "La traversée du courage. Gnous migrateurs traversant la rivière Mara, Kenya",
       "it-IT": "La prova dei coraggiosi",
       "es-ES": "Un río de valientes. Ñus migratorios cruzando el río Mara en Masai Mara, Kenia",
-      "pt-BR": "O efeito manada da coragem",
       "zh-CN": "生死渡口，勇者的史诗",
       "en-IN": "Where the river tests the brave. Migrating wildebeest crossing Mara River in Masai Mara, Kenya"
     },
     "copyrights": {
       "en-US": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+      "pt-BR": "Migração de gnus cruzando o Rio Mara na Reserva Nacional Masai Mara, Quênia (© Manoj Shah/Getty Images)",
       "en-GB": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
       "de-DE": "Gnuherden überqueren den Mara-Fluss in der Masai Mara, Kenia (© Manoj Shah/Getty Images)",
       "fr-FR": "Gnous migrateurs traversant la rivière Mara dans la réserve de Masai Mara, au Kenya (© Manoj Shah/Getty Images)",
       "it-IT": "Gnu migratori che attraversano il fiume Mara a Masai Mara, Kenya (© Manoj Shah/Getty Images)",
       "es-ES": "Ñus migratorios cruzando el río Mara en Masai Mara, Kenia (© Manoj Shah/Getty Images)",
-      "pt-BR": "Migração de gnus cruzando o Rio Mara na Reserva Nacional Masai Mara, Quênia (© Manoj Shah/Getty Images)",
       "zh-CN": "马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)",
       "en-IN": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)"
     },
@@ -1688,123 +1687,22 @@
     },
     "captions": {
       "en-US": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
-      "en-GB": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
-      "de-DE": "Gnus überqueren den Mara-Fluss in der Masai Mara, Kenia",
-      "fr-FR": "Gnous migrateurs traversant la rivière Mara, Kenya",
-      "it-IT": "",
-      "es-ES": "Ñus migratorios cruzando el río Mara en Masai Mara, Kenia",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=wildebeest&form=hpcapt&filters=HpDate%3a%2220260806_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Wildebeest&form=hpcapt&filters=HpDate%3a%2220260805_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Gnus&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=gnou&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lo+Gnu&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=%c3%91u+animal&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=gnus&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a7%92%e9%a9%ac&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Wildebeest&form=hpcapt&filters=HpDate%3a%2220260805_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.MaraCrossing_EN-US8682968377",
-      "en-GB": "/th?id=OHR.MaraCrossing_EN-GB8480696688",
-      "de-DE": "/th?id=OHR.MaraCrossing_DE-DE5747320047",
-      "fr-FR": "/th?id=OHR.MaraCrossing_FR-FR8762325537",
-      "it-IT": "/th?id=OHR.MaraCrossing_IT-IT0069962871",
-      "es-ES": "/th?id=OHR.MaraCrossing_ES-ES3801561108",
-      "pt-BR": "/th?id=OHR.MaraCrossing_PT-BR3865870931",
-      "zh-CN": "/th?id=OHR.MaraCrossing_ZH-CN8816902094",
-      "en-IN": "/th?id=OHR.MaraCrossing_EN-IN3635876531"
-    }
-  },
-  "FezMorocco": {
-    "name": "FezMorocco",
-    "urlbase": "/th?id=OHR.FezMorocco_EN-US8380353742",
-    "date": "20260805",
-    "dateFormatted": "August 05, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco",
-      "en-CA": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco",
-      "pt-BR": "Um mistério guardado a sete chaves",
-      "en-GB": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco",
-      "de-DE": "Tore eines verborgenen Königreichs. Verziertes Tor des Königspalasts von Fès, Marokko",
-      "fr-FR": "Les portes d'un royaume caché. Porte décorée du Palais Royal de Fès, Maroc",
-      "it-IT": "Porte di un regno nascosto",
-      "es-ES": "Puertas de un reino oculto. Puerta decorada del Palacio Real de Fez, Marruecos",
-      "ja-JP": "宮殿の門",
-      "zh-CN": "秘境之门，匠心传世",
-      "en-IN": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco"
-    },
-    "copyrights": {
-      "en-US": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
-      "en-CA": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
-      "pt-BR": "Porta decorada do Palácio Real de Fez, Marrocos (© cgst26/Shutterstock)",
-      "en-GB": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
-      "de-DE": "Verziertes Tor des Königspalasts von Fès, Marokko (© cgst26/Shutterstock)",
-      "fr-FR": "Porte décorée du Palais Royal de Fès, Maroc (© cgst26/Shutterstock)",
-      "it-IT": "Porta decorata del Palazzo Reale di Fès, Marocco (© cgst26/Shutterstock)",
-      "es-ES": "Puerta decorada del Palacio Real de Fez, Marruecos (© cgst26/Shutterstock)",
-      "ja-JP": "フェズ王宮, モロッコ (© cgst26/Shutterstock)",
-      "zh-CN": "非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)",
-      "en-IN": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques, and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
-      "en-CA": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
-      "en-GB": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
-      "de-DE": "Manchmal genügt ein Blick, um Geschichte zu spüren und ihre besondere Atmosphäre zu erleben – so wie vor dem Königspalast von Fès. Der Dar al-Makhzen geht auf das 13. Jahrhundert zurück und dient bis heute als eine offizielle Residenz des marokkanischen Königs. Hinter seinen Mauern verbirgt sich ein weitläufiger Komplex aus Gärten, Höfen und religiösen Bauten.",
-      "fr-FR": "Il y a des portes qui ne s’ouvrent pas — et qui n’en disent que plus. À Fès, au Maroc, sur la place des Alaouites, sept vantaux de laiton doré dominent l’espace par leur hauteur et leur éclat. Zelliges géométriques, arches sculptées dans le cèdre, symétries minutieuses : l’artisanat marocain atteint ici une forme d’absolu. Derrière ces murs, le Dar al‑Makhzen, palais royal depuis le XIIIᵉ siècle, abrite encore jardins, mosquées et résidences en activité.",
-      "es-ES": "Desde el siglo XIII, el Palacio Real de Fez, conocido como Dar al-Makhzen, ha sido uno de los principales símbolos de la monarquía marroquí. Situado en la zona de Fez el-Jdid, la ciudad real fundada en el siglo XIII, este extenso recinto amurallado alberga jardines, patios, mezquitas y residencias que el rey de Marruecos sigue utilizando en la actualidad.",
-      "ja-JP": "モロッコの古都フェズにある王宮「ダル・アル・マフゼン」は、13 世紀に建設された歴史ある宮殿です。写真に映る宮殿の門は、精巧な真鍮細工と色鮮やかな幾何学模様のタイルで彩られ、モロッコ建築の美しさを象徴しています。現在も王族の居住地として使用されているため、内部は一般公開されていませんが、この壮麗な門の前には近づくことができるため、長い歴史と王室文化の重みを間近に感じることができます。",
-      "en-IN": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
-      "it-IT": "A Fès, in Marocco, le sette porte in ottone del Dar al-Makhzen si aprono su Place des Alaouites con una presenza che non lascia indifferenti. Il Palazzo Reale esiste in questa forma dal XIII secolo, quando i sovrani del Marocco costruirono attorno a esso una vera e propria città fortezza. Dietro le mura alte si celano giardini, cortili, moschee e residenze reali ancora oggi in uso dal re — un complesso vivo, non un museo.",
-      "pt-BR": "Nossa imagem de hoje desperta a pergunta: o que existe atrás desta porta? Os sete portões do Palácio Real de Fez, conhecido como Dar al-Makhzen, guardam muito mais do que uma construção. Atrás dos altos muros funciona uma verdadeira cidade, com jardins, mesquitas, pátios e residências que continuam servindo à família real do Marrocos quase oito séculos depois de sua fundação.",
-      "zh-CN": "在摩洛哥的非斯，被称为“达尔·马赫赞”的王宫自13世纪以来一直是权力的中心；当时，摩洛哥的统治者围绕它建立了一座设防的皇城。其高墙之内，花园、庭院、清真寺和皇家住所错落分布于广阔的建筑群中，且至今仍供国王使用，使其既是历史古迹，又是仍在运作的活跃宫廷。"
-    },
-    "quickFacts": {
-      "zh-CN": "非斯皇宫那七扇标志性的青铜大门，至今仍由工匠使用柠檬汁和传统技艺进行精细的手工抛光，以保持其灿烂如金的光泽。"
-    },
-    "captions": {
-      "en-US": "Decorated gate of the Royal Palace of Fez, Morocco",
-      "en-CA": "Decorated gate of the Royal Palace of Fez, Morocco",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Royal+Palace+of+Fez&form=hpcapt&filters=HpDate%3a%2220260805_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Royal+Palace+of+Fez&form=hpcapt&filters=HpDate%3a%2220260805_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Pal%c3%a1cio+Real+de+Fez+Dar+al+Makhzen&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=wildebeest&form=hpcapt&filters=HpDate%3a%2220260806_0700%22",
+      "pt-BR": "https://www.bing.com/search?q=gnus&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.FezMorocco_EN-US8380353742",
-      "en-CA": "/th?id=OHR.FezMorocco_EN-CA4182192708",
-      "pt-BR": "/th?id=OHR.FezMorocco_PT-BR3389215453"
+      "en-US": "/th?id=OHR.MaraCrossing_EN-US8682968377",
+      "pt-BR": "/th?id=OHR.MaraCrossing_PT-BR3865870931"
     }
   },
-  "WhyteCliffP": {
-    "name": "WhyteCliffP",
-    "urlbase": "/th?id=OHR.WhyteCliffP_EN-GB6122204864",
-    "date": "20260818",
-    "dateFormatted": "August 18, 2026",
+  "LynnCanalOrca": {
+    "name": "LynnCanalOrca",
+    "urlbase": "/th?id=OHR.LynnCanalOrca_EN-GB6204959413",
+    "date": "20260819",
+    "dateFormatted": "August 19, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1832,6 +1730,136 @@
         "flag": "es"
       },
       {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-GB": "Voices of the pod. An orca in Lynn Canal, Alaska, United States",
+      "de-DE": "Klänge der Schwertwale. Ein Schwertwal nahe der Chilkat Mountains, Lynn Canal, Alaska, USA",
+      "fr-FR": "Les voix du canal. Une orque à la surface du canal de Lynn, Alaska, États-Unis",
+      "it-IT": "Voci dal fondo dell'oceano",
+      "es-ES": "El juego como forma de caza. Canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU.",
+      "ja-JP": "雪山を望む海に現れたシャチ",
+      "zh-CN": "林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国",
+      "en-IN": "Voices of the pod. An orca in Lynn Canal, Alaska, United States",
+      "en-US": "Voices of the pod. An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska",
+      "en-CA": "Voices of the pod. An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States",
+      "pt-BR": "Sociedades submarinas. Orca no Canal Lynn, próximo às Montanhas Chilkat, Alasca, Estados Unidos"
+    },
+    "copyrights": {
+      "en-GB": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)",
+      "de-DE": "Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy)",
+      "fr-FR": "Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy)",
+      "it-IT": "Un'orca emerge nel Lynn Canal vicino ai Monti Chilkat, Alaska, USA (© John Hyde/Alamy)",
+      "es-ES": "Una orca emerge en el canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU. (© John Hyde/Alamy)",
+      "ja-JP": "シャチ, 米国 アラスカ州 (© John Hyde/Alamy)",
+      "zh-CN": "林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)",
+      "en-IN": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)",
+      "en-US": "© John Hyde/Alamy",
+      "en-CA": "© John Hyde/Alamy",
+      "pt-BR": "© John Hyde/Alamy"
+    },
+    "descs": {
+      "en-GB": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska, United States. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+      "de-DE": "Im Lynn Canal nahe der Chilkat Mountains im US-Bundesstaat Alaska durchbricht ein Schwertwal die ruhige Wasseroberfläche. Für einen kurzen Moment zieht die markante Rückenflosse alle Blicke auf sich, bevor das Tier wieder in den Tiefen verschwindet. Die geschützten Gewässer dieser Region der Vereinigten Staaten zählen zu den artenreichsten Lebensräumen des Nordpazifiks und bieten Schwertwalen, Buckelwalen und zahlreichen Seevögeln ideale Bedingungen. Vor der Kulisse bewaldeter Hänge und schneebedeckter Gipfel entsteht ein eindrucksvolles Bild, das die Kraft und Eleganz dieser Meeressäuger besonders deutlich macht.",
+      "fr-FR": "Dans les eaux froides du Lynn Canal, au sud-est de l’Alaska (États-Unis), une silhouette noire et blanche surgit soudain à la surface. Derrière elle s’élèvent les sommets enneigés des monts Chilkat, formant un décor d’une saisissante majesté. L’orque, souvent appelée épaulard, est le plus grand représentant de la famille des dauphins. Les eaux riches de l’Inside Passage lui offrent un habitat exceptionnel, alimenté par les remontées de nutriments et les importantes migrations de saumons. Ici, chaque saison favorise une abondance de vie marine qui fait de cette région l’un des refuges les plus précieux pour les grands prédateurs de l’océan.",
+      "es-ES": "Una orca emerge en las aguas del canal Lynn, en el sureste de Alaska, EE. UU., con las montañas Chilkat nevadas como telón de fondo: la escena resume en una imagen la escala y la belleza de este fiordo de más de 100 kilómetros de longitud, uno de los más profundos de América del Norte. El mayor miembro de la familia de los delfines no es solo el depredador más reconocible del océano, sino también uno de los animales socialmente más complejos del planeta.",
+      "ja-JP": "ここは米国アラスカ南東部のリン運河。雪を頂くチルカット山脈を背景にシャチが力強く海面へ姿を現します。シャチは海を代表する捕食動物であり、マイルカ科の中では最大の種です。アラスカの冷たく栄養豊富な海はサケをはじめとする多様な生物を育み、シャチに豊かな餌場を提供しています。そしてシャチは、人間の方言のような群れごとに異なる鳴き声を持ち、家族の絆を大切にしながら暮す高い知能を持つ生物として知られています。リン運河は、そんなシャチたちを野生のまま観察できる貴重な場所です。",
+      "en-IN": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska, United States. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+      "en-US": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognizable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+      "en-CA": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. Alaska's Inside Passage provides abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+      "it-IT": "Un'orca rompe la superficie del Lynn Canal con i monti Chilkat innevati come sfondo, nel sud-est dell'Alaska, USA: la scena riassume in un'immagine la grandiosità e la bellezza di questo fiordo tra i più profondi del Nord America. Il più grande membro della famiglia dei delfini non è solo il predatore più riconoscibile dell'oceano, ma anche uno degli animali socialmente più complessi del pianeta: ogni gruppo familiare possiede richiami propri, tramandati di generazione in generazione come una lingua madre, e le femmine più anziane guidano il gruppo con una conoscenza del territorio accumulata per decenni.",
+      "pt-BR": "Primeiro surge a nadadeira. Depois, um sopro poderoso. Na imagem, uma orca emerge do Canal Lynn, no Alasca, Estados Unidos. Conhecida como baleia-assassina, ela é, na verdade, o maior integrante da família dos golfinhos e um predador sofisticado.",
+      "zh-CN": "在阿拉斯加东南部白雪覆盖的奇尔卡特山脉映衬下，一头虎鲸浮出林恩运河水面。虎鲸是海豚科体型最大的成员，也是海洋中最具辨识度的捕食者之一。阿拉斯加内湾航道寒冷且营养丰富的水域提供了充足的觅食地，既维系鲑鱼洄游，也滋养种类繁多的海洋生物，为这些非凡动物提供支持。"
+    },
+    "quickFacts": {
+      "zh-CN": "成年雄性虎鲸的背鳍可高达约6英尺，明显高于成年雌性虎鲸的背鳍。"
+    },
+    "captions": {
+      "en-GB": "An orca in Lynn Canal, Alaska, United States",
+      "de-DE": "Ein Schwertwal nahe der Chilkat Mountains, Lynn Canal, Alaska, USA",
+      "fr-FR": "Une orque à la surface du canal de Lynn, Alaska, États-Unis",
+      "it-IT": "",
+      "es-ES": "Canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU.",
+      "ja-JP": "雪山を望む海に現れたシャチ",
+      "zh-CN": "",
+      "en-IN": "An orca in Lynn Canal, Alaska, United States"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Orca+animal&form=hpcapt&filters=HpDate%3a%2220260819_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Schwertwal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=orque+animal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+      "it-IT": "https://www.bing.com/search?q=L%27orca+animale&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Orca+animal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%83%a3%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260819_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%99%8e%e9%b2%b8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Orca+animal&form=hpcapt&filters=HpDate%3a%2220260819_1830%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.LynnCanalOrca_EN-GB6204959413",
+      "de-DE": "/th?id=OHR.LynnCanalOrca_DE-DE7566722719",
+      "fr-FR": "/th?id=OHR.LynnCanalOrca_FR-FR3710534707",
+      "it-IT": "/th?id=OHR.LynnCanalOrca_IT-IT4270143164",
+      "es-ES": "/th?id=OHR.LynnCanalOrca_ES-ES3652598331",
+      "ja-JP": "/th?id=OHR.LynnCanalOrca_JA-JP7810665550",
+      "zh-CN": "/th?id=OHR.LynnCanalOrca_ZH-CN0719217908",
+      "en-IN": "/th?id=OHR.LynnCanalOrca_EN-IN2125273963"
+    }
+  },
+  "WhyteCliffP": {
+    "name": "WhyteCliffP",
+    "urlbase": "/th?id=OHR.WhyteCliffP_EN-GB6122204864",
+    "date": "20260818",
+    "dateFormatted": "August 18, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -1844,33 +1872,33 @@
     ],
     "titles": {
       "en-GB": "A path between the waves. Whytecliff Park, West Vancouver, British Columbia, Canada",
+      "en-CA": "A path between the waves. Whytecliff Park, West Vancouver, British Columbia",
       "de-DE": "Ein Weg zwischen den Wellen. Whytecliff Park in West Vancouver, British Columbia, Kanada",
       "fr-FR": "Un chemin entre les vagues. Whytecliff Park, West Vancouver, Colombie-Britannique, Canada",
       "it-IT": "Un isolotto particolare",
       "es-ES": "Rincones de Vancouver. Parque Whytecliff, West Vancouver, Canadá",
+      "pt-BR": "Uma rota revelada pelas águas",
       "zh-CN": "怀特克利夫公园，西温哥华，加拿大",
-      "en-IN": "A path between the waves. Whytecliff Park, West Vancouver, British Columbia, Canada",
-      "en-CA": "A path between the waves. Whytecliff Park in West Vancouver, British Columbia",
-      "pt-BR": "Uma rota revelada pelas águas. Parque Whytecliff, West Vancouver, Canadá"
+      "en-IN": "A path between the waves. Whytecliff Park, West Vancouver, British Columbia, Canada"
     },
     "copyrights": {
       "en-GB": "Whytecliff Park in West Vancouver, British Columbia, Canada (© Aolin Chen/Getty Images)",
+      "en-CA": "Whytecliff Park in West Vancouver, British Columbia (© Aolin Chen/Getty Images)",
       "de-DE": "Whytecliff Park in West Vancouver, British Columbia, Kanada (© Aolin Chen/Getty Images)",
       "fr-FR": "Whytecliff Park, West Vancouver, Colombie-Britannique, Canada (© Aolin Chen/Getty Images)",
       "it-IT": "Parco Whytecliff, West Vancouver, Canada (© Aolin Chen/Getty Images)",
       "es-ES": "Parque Whytecliff, West Vancouver, Canadá (© Aolin Chen/Getty Images)",
+      "pt-BR": "Parque Whytecliff, West Vancouver, Canadá (© Aolin Chen/Getty Images)",
       "zh-CN": "怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)",
-      "en-IN": "Whytecliff Park in West Vancouver, British Columbia, Canada (© Aolin Chen/Getty Images)",
-      "en-CA": "© Aolin Chen/Getty Images",
-      "pt-BR": "© Aolin Chen/Getty Images"
+      "en-IN": "Whytecliff Park in West Vancouver, British Columbia, Canada (© Aolin Chen/Getty Images)"
     },
     "descs": {
       "en-GB": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver, Canada. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
+      "en-CA": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
       "de-DE": "Im Whytecliff Park in West Vancouver in der kanadischen Provinz British Columbia zeigt sich die Küste von einer besonders eindrucksvollen Seite. Bei Ebbe wird ein schmaler Weg sichtbar, der Besucher zu einer kleinen Insel führt. Für kurze Zeit verbindet das Meer zwei Landflächen, bevor das Wasser den Übergang wieder verschwinden lässt. Die felsige Küstenlandschaft, das klare Wasser und die Aussicht auf die vorgelagerten Inseln machen den Park zu einem beliebten Ziel für Naturfreunde und Fotografen.",
       "fr-FR": "À marée basse, la nature trace ici un chemin éphémère. Depuis Whytecliff Park, sur la côte de West Vancouver (Canada), une bande rocheuse émerge progressivement et relie le rivage à Whyte Islet. Quelques heures plus tard, l’océan reprend discrètement possession du passage. Cette traversée exige prudence et respect, car les pierres humides rappellent que le paysage demeure vivant. Au terme de la traversée, la récompense est saisissante : une vue dégagée sur la plage, les eaux du détroit et les maisons accrochées aux collines de Gleneagles.",
       "es-ES": "En West Vancouver, Canadá, la marea marca el ritmo de una de las excursiones más singulares del océano Pacífico: a cada bajada, el mar revela un sendero rocoso que conecta el parque Whytecliff con el islote Whyte, una pequeña formación rocosa con vistas privilegiadas hacia la playa y las casas de Gleneagles. Unas horas después, el agua cubre de nuevo el paso, convirtiendo el momento elegido para cruzar en parte esencial de la experiencia. Las rocas mojadas obligan a ir despacio; la recompensa, al llegar arriba, lo justifica todo.",
       "en-IN": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver, Canada. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
-      "en-CA": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
       "it-IT": "A West Vancouver, in Canada, la marea detta il ritmo di una delle escursioni più singolari del litorale del Pacifico: a ogni bassa marea, il mare rivela un sentiero roccioso che collega il Parco Whytecliff all'isolotto di Whyte, una piccola formazione rocciosa con una vista privilegiata sulla spiaggia e sulle case di Gleneagles. Poche ore dopo, l'acqua ricopre nuovamente il passaggio, rendendo il momento scelto per attraversare parte essenziale dell'esperienza. Le rocce bagnate impongono di andarci piano; la ricompensa, arrivati in cima, vale ogni cautela.",
       "pt-BR": "Quer atravessar até uma ilha sem ponte? No Parque Whytecliff, em West Vancouver, Canadá, basta consultar a maré. Quando o nível do mar baixa, uma faixa de rochas surge ligando a costa à pequena Ilha de Whyte. Horas depois, o oceano fecha novamente a passagem como se nunca tivesse existido.",
       "zh-CN": "通往此处的最佳路径并非由混凝土铺就。每当退潮时，一条岩石小径便会显露出来，连接着加拿大西温哥华的怀特克利夫公园（Whytecliff Park）与怀特小岛（Whyte Islet）。数小时后，海水会悄然漫过这条通道，将“把握时机”也变成了体验的一部分。这片海岸线吸引着一代又一代的游客：潮汐开辟了道路，而湿滑的岩石则让人心存敬畏；作为回报，你将收获回望海滩与格伦伊格尔斯（Gleneagles）山坡民居时的壮丽景致。"
@@ -1880,28 +1908,34 @@
     },
     "captions": {
       "en-GB": "Whytecliff Park, West Vancouver, British Columbia, Canada",
+      "en-CA": "Whytecliff Park, West Vancouver, British Columbia",
       "de-DE": "Whytecliff Park in West Vancouver, British Columbia, Kanada",
       "fr-FR": "Whytecliff Park, West Vancouver, Colombie-Britannique, Canada",
       "it-IT": "",
       "es-ES": "Parque Whytecliff, West Vancouver, Canadá",
+      "pt-BR": "",
       "zh-CN": "",
       "en-IN": "Whytecliff Park, West Vancouver, British Columbia, Canada"
     },
     "copyrightlinks": {
       "en-GB": "https://www.bing.com/search?q=Whytecliff+Park&form=hpcapt&filters=HpDate%3a%2220260818_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Whytecliff+Park&form=hpcapt&filters=HpDate%3a%2220260819_0400%22",
       "de-DE": "https://www.bing.com/search?q=Whytecliff+Park+Informationen&form=hpcapt&filters=HpDate%3a%2220260818_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Whytecliff+Park+Colombie-Britannique&form=hpcapt&filters=HpDate%3a%2220260818_2200%22",
       "it-IT": "https://www.bing.com/search?q=Parco+Whytecliff+Vancouver+Canada&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Parque+Whytecliff&form=hpcapt&filters=HpDate%3a%2220260818_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=West+Vancouver+no+Canad%c3%a1&form=hpcapt&mkt=pt-br",
       "zh-CN": "https://www.bing.com/search?q=%e6%80%80%e7%89%b9%e5%85%8b%e5%88%a9%e5%a4%ab%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Whytecliff+Park&form=hpcapt&filters=HpDate%3a%2220260818_1830%22"
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.WhyteCliffP_EN-GB6122204864",
+      "en-CA": "/th?id=OHR.WhyteCliffP_EN-CA6624264199",
       "de-DE": "/th?id=OHR.WhyteCliffP_DE-DE7763456664",
       "fr-FR": "/th?id=OHR.WhyteCliffP_FR-FR1858775924",
       "it-IT": "/th?id=OHR.WhyteCliffP_IT-IT4080399787",
       "es-ES": "/th?id=OHR.WhyteCliffP_ES-ES2273614080",
+      "pt-BR": "/th?id=OHR.WhyteCliffP_PT-BR5369285709",
       "zh-CN": "/th?id=OHR.WhyteCliffP_ZH-CN0573407830",
       "en-IN": "/th?id=OHR.WhyteCliffP_EN-IN2033000441"
     }
@@ -2358,38 +2392,6 @@
       "ja-JP": "/th?id=OHR.MountainDay2026_JA-JP4675980762"
     }
   },
-  "HiroshimaPeaceMemorial2026": {
-    "name": "HiroshimaPeaceMemorial2026",
-    "urlbase": "/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397",
-    "date": "20260805",
-    "dateFormatted": "August 05, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日は広島平和記念日"
-    },
-    "copyrights": {
-      "ja-JP": "広島平和記念公園のとうろう流し, 広島県 広島市 (© Buddhika Weerasinghe/Stringer/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "今日、8 月 6 日は広島平和記念日。広島に投下された原子爆弾は、10 数万人もの人々の命を奪い、5 万を超える建物を破壊しました。毎年この日に、原爆ドームそばの元安川では、とうろう流しが行われます。川面に浮かぶ無数のとうろうには、原爆で失われた尊い命への追悼と、未来への平和の願いが込められています。この光景は、悲しみの記憶を受け継ぎながらも、希望を忘れない人々の思いの象徴です。今日という日は、平和な世界の維持と「核なき世界」の実現に向けて、一人ひとりが再認識し、考えるべき日です。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "今日は広島平和記念日"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e5%ba%83%e5%b3%b6%e5%b9%b3%e5%92%8c%e8%a8%98%e5%bf%b5%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260805_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397"
-    }
-  },
   "IndependenceDay2026": {
     "name": "IndependenceDay2026",
     "urlbase": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628",
@@ -2420,6 +2422,118 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+    }
+  },
+  "FezMorocco": {
+    "name": "FezMorocco",
+    "urlbase": "/th?id=OHR.FezMorocco_EN-US8380353742",
+    "date": "20260805",
+    "dateFormatted": "August 05, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco",
+      "en-CA": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco",
+      "pt-BR": "Um mistério guardado a sete chaves",
+      "en-GB": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco",
+      "de-DE": "Tore eines verborgenen Königreichs. Verziertes Tor des Königspalasts von Fès, Marokko",
+      "fr-FR": "Les portes d'un royaume caché. Porte décorée du Palais Royal de Fès, Maroc",
+      "it-IT": "Porte di un regno nascosto",
+      "es-ES": "Puertas de un reino oculto. Puerta decorada del Palacio Real de Fez, Marruecos",
+      "ja-JP": "宮殿の門",
+      "zh-CN": "秘境之门，匠心传世",
+      "en-IN": "Gates of a hidden kingdom. Decorated gate of the Royal Palace of Fez, Morocco"
+    },
+    "copyrights": {
+      "en-US": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
+      "en-CA": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
+      "pt-BR": "Porta decorada do Palácio Real de Fez, Marrocos (© cgst26/Shutterstock)",
+      "en-GB": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
+      "de-DE": "Verziertes Tor des Königspalasts von Fès, Marokko (© cgst26/Shutterstock)",
+      "fr-FR": "Porte décorée du Palais Royal de Fès, Maroc (© cgst26/Shutterstock)",
+      "it-IT": "Porta decorata del Palazzo Reale di Fès, Marocco (© cgst26/Shutterstock)",
+      "es-ES": "Puerta decorada del Palacio Real de Fez, Marruecos (© cgst26/Shutterstock)",
+      "ja-JP": "フェズ王宮, モロッコ (© cgst26/Shutterstock)",
+      "zh-CN": "非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)",
+      "en-IN": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques, and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
+      "en-CA": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
+      "en-GB": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
+      "de-DE": "Manchmal genügt ein Blick, um Geschichte zu spüren und ihre besondere Atmosphäre zu erleben – so wie vor dem Königspalast von Fès. Der Dar al-Makhzen geht auf das 13. Jahrhundert zurück und dient bis heute als eine offizielle Residenz des marokkanischen Königs. Hinter seinen Mauern verbirgt sich ein weitläufiger Komplex aus Gärten, Höfen und religiösen Bauten.",
+      "fr-FR": "Il y a des portes qui ne s’ouvrent pas — et qui n’en disent que plus. À Fès, au Maroc, sur la place des Alaouites, sept vantaux de laiton doré dominent l’espace par leur hauteur et leur éclat. Zelliges géométriques, arches sculptées dans le cèdre, symétries minutieuses : l’artisanat marocain atteint ici une forme d’absolu. Derrière ces murs, le Dar al‑Makhzen, palais royal depuis le XIIIᵉ siècle, abrite encore jardins, mosquées et résidences en activité.",
+      "es-ES": "Desde el siglo XIII, el Palacio Real de Fez, conocido como Dar al-Makhzen, ha sido uno de los principales símbolos de la monarquía marroquí. Situado en la zona de Fez el-Jdid, la ciudad real fundada en el siglo XIII, este extenso recinto amurallado alberga jardines, patios, mezquitas y residencias que el rey de Marruecos sigue utilizando en la actualidad.",
+      "ja-JP": "モロッコの古都フェズにある王宮「ダル・アル・マフゼン」は、13 世紀に建設された歴史ある宮殿です。写真に映る宮殿の門は、精巧な真鍮細工と色鮮やかな幾何学模様のタイルで彩られ、モロッコ建築の美しさを象徴しています。現在も王族の居住地として使用されているため、内部は一般公開されていませんが、この壮麗な門の前には近づくことができるため、長い歴史と王室文化の重みを間近に感じることができます。",
+      "en-IN": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
+      "it-IT": "A Fès, in Marocco, le sette porte in ottone del Dar al-Makhzen si aprono su Place des Alaouites con una presenza che non lascia indifferenti. Il Palazzo Reale esiste in questa forma dal XIII secolo, quando i sovrani del Marocco costruirono attorno a esso una vera e propria città fortezza. Dietro le mura alte si celano giardini, cortili, moschee e residenze reali ancora oggi in uso dal re — un complesso vivo, non un museo.",
+      "pt-BR": "Nossa imagem de hoje desperta a pergunta: o que existe atrás desta porta? Os sete portões do Palácio Real de Fez, conhecido como Dar al-Makhzen, guardam muito mais do que uma construção. Atrás dos altos muros funciona uma verdadeira cidade, com jardins, mesquitas, pátios e residências que continuam servindo à família real do Marrocos quase oito séculos depois de sua fundação.",
+      "zh-CN": "在摩洛哥的非斯，被称为“达尔·马赫赞”的王宫自13世纪以来一直是权力的中心；当时，摩洛哥的统治者围绕它建立了一座设防的皇城。其高墙之内，花园、庭院、清真寺和皇家住所错落分布于广阔的建筑群中，且至今仍供国王使用，使其既是历史古迹，又是仍在运作的活跃宫廷。"
+    },
+    "quickFacts": {
+      "zh-CN": "非斯皇宫那七扇标志性的青铜大门，至今仍由工匠使用柠檬汁和传统技艺进行精细的手工抛光，以保持其灿烂如金的光泽。"
+    },
+    "captions": {
+      "en-US": "Decorated gate of the Royal Palace of Fez, Morocco",
+      "en-CA": "Decorated gate of the Royal Palace of Fez, Morocco",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Royal+Palace+of+Fez&form=hpcapt&filters=HpDate%3a%2220260805_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Royal+Palace+of+Fez&form=hpcapt&filters=HpDate%3a%2220260805_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Pal%c3%a1cio+Real+de+Fez+Dar+al+Makhzen&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FezMorocco_EN-US8380353742",
+      "en-CA": "/th?id=OHR.FezMorocco_EN-CA4182192708",
+      "pt-BR": "/th?id=OHR.FezMorocco_PT-BR3389215453"
+    }
+  },
+  "HiroshimaPeaceMemorial2026": {
+    "name": "HiroshimaPeaceMemorial2026",
+    "urlbase": "/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397",
+    "date": "20260805",
+    "dateFormatted": "August 05, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は広島平和記念日"
+    },
+    "copyrights": {
+      "ja-JP": "広島平和記念公園のとうろう流し, 広島県 広島市 (© Buddhika Weerasinghe/Stringer/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日、8 月 6 日は広島平和記念日。広島に投下された原子爆弾は、10 数万人もの人々の命を奪い、5 万を超える建物を破壊しました。毎年この日に、原爆ドームそばの元安川では、とうろう流しが行われます。川面に浮かぶ無数のとうろうには、原爆で失われた尊い命への追悼と、未来への平和の願いが込められています。この光景は、悲しみの記憶を受け継ぎながらも、希望を忘れない人々の思いの象徴です。今日という日は、平和な世界の維持と「核なき世界」の実現に向けて、一人ひとりが再認識し、考えるべき日です。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は広島平和記念日"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e5%ba%83%e5%b3%b6%e5%b9%b3%e5%92%8c%e8%a8%98%e5%bf%b5%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260805_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397"
     }
   },
   "AdorableOwlet": {
