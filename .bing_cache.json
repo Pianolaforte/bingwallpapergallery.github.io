@@ -1,4 +1,137 @@
 {
+  "JulierPass": {
+    "name": "JulierPass",
+    "urlbase": "/th?id=OHR.JulierPass_EN-US2643379571",
+    "date": "20260821",
+    "dateFormatted": "August 21, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "en-GB": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "de-DE": "Auf in die Berge! Serpentinenstraße am Julierpass, Schweiz",
+      "fr-FR": "Accrochez-vous ! Route sinueuse du col du Julier, Suisse",
+      "it-IT": "Paesaggi garantiti",
+      "es-ES": "Tomando la curva perfecta. Paso de Julier, región de Grisones, Suiza",
+      "pt-BR": "A estrada que conquista montanhas",
+      "ja-JP": "アルブラアルプスを縫う山岳道路",
+      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士",
+      "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland"
+    },
+    "copyrights": {
+      "en-US": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "en-GB": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "de-DE": "Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)",
+      "fr-FR": "Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)",
+      "it-IT": "Passo del Giulio, Svizzera (© Westend61/Getty Images)",
+      "es-ES": "Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)",
+      "pt-BR": "Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)",
+      "ja-JP": "ユリア峠, スイス (© Westend61/Getty Images)",
+      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
+      "en-IN": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 7,493 feet and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travelers, merchants, and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
+      "en-GB": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has connected Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its heights. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
+      "de-DE": "Der Julierpass zählt zu den eindrucksvollsten Alpenübergängen der Schweiz. Die Passhöhe liegt auf 2284 Metern und verbindet seit fast 2000 Jahren verschiedene Täler miteinander. Bereits zur Römerzeit führte hier ein wichtiger Weg durch die Berge. Archäologische Funde nahe dem höchsten Punkt des Passes deuten darauf hin, dass Reisende diesen Ort nicht nur als Übergang, sondern auch als Rastplatz nutzten. Münzen und zwei römische Specksteinsäulen erinnern noch heute an diese lange Geschichte.",
+      "fr-FR": "À 2 284 mètres d’altitude, le col du Julier traverse le cœur des Alpes suisses comme un trait d’union entre vallées et époques. Depuis près de deux millénaires, voyageurs, marchands et messagers l’ont franchi malgré ses pentes escarpées, bien avant l’arrivée des routes modernes. Près du sommet, des découvertes archéologiques, notamment de nombreuses pièces de monnaie ainsi que deux colonnes en stéatite d’origine romaine, suggèrent l’existence d’un lieu de halte, voire de recueillement. Aujourd’hui encore, les prairies alpines, les mélèzes et les sommets rocheux composent un décor saisissant où le temps semble ralentir.",
+      "es-ES": "El Paso de Julier, en Suiza, es una de esas carreteras que se convierten en destino por sí solas. A más de 2.200 metros de altitud, este paso alpino conecta valles a través de una ruta transitada durante casi dos milenios: romanos, mercaderes y mensajeros ya lo cruzaban sin asfalto ni barreras de protección. Cerca de la cima, los arqueólogos han hallado monedas y dos columnas de esteatita que apuntan a la existencia de un santuario donde los viajeros buscaban amparo.",
+      "ja-JP": "今日の画像は、スイスのアルブラアルプス山脈にあるユリア峠。標高 2,284m のこの峠は、ローマ時代からアルプスの谷を結ぶ交通の要衝として利用されてきました。道路の建設は 1820 年代で、1935 年から 1940 年にかけてアスファルト舗装が行われ、スイス・アルプスで初めてアスファルト舗装された道路となりました。現在も重要な山岳道路として利用されており、アルプスの雄大な景色を眺めながらドライブを楽しむことができます。",
+      "en-IN": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has linked Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its summit. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
+      "it-IT": "Il Passo del Giulio, in Svizzera, è una di quelle strade di montagna che diventano esse stesse una destinazione. A oltre 2.200 metri di quota, collega le valli alpine lungo un percorso frequentato da quasi duemila anni: prima di guardrail e asfalto, romani, mercanti e messaggeri lo attraversavano a piedi. Vicino alla cima, gli archeologi hanno rinvenuto monete antiche e due colonne di steatite di epoca romana, indizi di un luogo di sosta o santuario lungo la salita.",
+      "pt-BR": "Algumas estradas fazem tanta questão de aparecer quanto o lugar para onde levam. A imagem mostra o Passo de Julier, nos Alpes da Suíça, a cerca de 2.284 metros de altitude, ligando vales alpinos por um caminho usado há quase dois milênios. Muito antes do asfalto, romanos, mercadores e mensageiros já cruzavam essa montanha. Perto do ponto mais alto, arqueólogos encontraram moedas e colunas de pedra-sabão que sugerem um antigo santuário ou ponto de descanso para quem encarava a travessia.",
+      "zh-CN": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。"
+    },
+    "quickFacts": {
+      "zh-CN": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。"
+    },
+    "captions": {
+      "en-US": "Winding road of Julier Pass, Switzerland",
+      "en-GB": "Winding road of Julier Pass, Switzerland",
+      "de-DE": "Serpentinenstraße am Julierpass, Schweiz",
+      "fr-FR": "Route sinueuse du col du Julier, Suisse",
+      "it-IT": "",
+      "es-ES": "Paso de Julier, región de Grisones, Suiza",
+      "pt-BR": "",
+      "ja-JP": "アルブラアルプスを縫う山岳道路",
+      "zh-CN": "",
+      "en-IN": "Winding road of Julier Pass, Switzerland"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260821_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260820_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Julierpass&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=col+du+Julier+Suisse&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Passo+del+Giulio&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Paso+de+Julier+Suiza&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Passagem+de+Julier+Su%c3%ad%c3%a7a&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a6%e3%83%aa%e3%82%a2%e5%b3%a0&form=hpcapt&filters=HpDate%3a%2220260820_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%91%9e%e5%a3%ab%e5%b0%a4%e5%88%a9%e5%b0%94%e5%b1%b1%e5%8f%a3&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260820_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.JulierPass_EN-US2643379571",
+      "en-GB": "/th?id=OHR.JulierPass_EN-GB1060938084",
+      "de-DE": "/th?id=OHR.JulierPass_DE-DE4547078745",
+      "fr-FR": "/th?id=OHR.JulierPass_FR-FR0870283971",
+      "it-IT": "/th?id=OHR.JulierPass_IT-IT0417165500",
+      "es-ES": "/th?id=OHR.JulierPass_ES-ES7799772209",
+      "pt-BR": "/th?id=OHR.JulierPass_PT-BR6496661993",
+      "ja-JP": "/th?id=OHR.JulierPass_JA-JP8487146662",
+      "zh-CN": "/th?id=OHR.JulierPass_ZH-CN3064797820",
+      "en-IN": "/th?id=OHR.JulierPass_EN-IN9398665018"
+    }
+  },
   "LynnCanalOrca": {
     "name": "LynnCanalOrca",
     "urlbase": "/th?id=OHR.LynnCanalOrca_EN-US0537229184",
@@ -644,7 +777,7 @@
       "en-CA": "The great balancing act. Ah Shi Sle Pah Wilderness, New Mexico, United States",
       "fr-FR": "Une coiffe de pierre. Ah Shi Sle Pah Wilderness, Nouveau-Mexique, États-Unis",
       "ja-JP": "夕陽を浴びる奇岩群",
-      "zh-CN": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国",
+      "zh-CN": "绝妙的平衡术",
       "en-IN": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
     },
     "copyrights": {
@@ -1526,72 +1659,42 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Crossing into infinity. International Infinity Day",
-      "en-GB": "Crossing into infinity. International Infinity Day",
       "en-CA": "Crossing into infinity. Infinity Bridge in Stockton-on-Tees, northern England",
+      "pt-BR": "Uma obra sem começo nem fim",
+      "en-GB": "Crossing into infinity. International Infinity Day",
       "it-IT": "Attraversare l'infinito",
       "es-ES": "¡Hacia el Infinito y mucho más! Día Internacional del Infinito",
-      "pt-BR": "Uma obra sem começo nem fim",
       "ja-JP": "今日は無限大の日",
       "zh-CN": "迈向无限",
       "en-IN": "Crossing into infinity. International Infinity Day"
     },
     "copyrights": {
       "en-US": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
-      "en-GB": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
       "en-CA": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
+      "pt-BR": "Infinity Bridge, Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
+      "en-GB": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
       "it-IT": "Ponte dell'Infinito a Stockton-on-Tees, Inghilterra (© Bahadir Yeniceri/Shutterstock)",
       "es-ES": "Puente del Infinito en Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
-      "pt-BR": "Infinity Bridge, Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
       "ja-JP": "インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock)",
       "zh-CN": "蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)",
       "en-IN": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)"
     },
     "descs": {
       "en-US": "On August 8, curiosity takes center stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the day invites everyone to explore big ideas through science, art, and imagination. It's not just about math—it's also about possibilities, from the vastness of space to the limits of human creativity.",
-      "en-GB": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
       "en-CA": "At first glance, it's just a bridge. Then the reflection changes everything. Infinity Bridge spans the River Tees in Stockton-on-Tees, England, where its two striking steel arches and their reflections create the shape of an infinity symbol, inspiring its name. Opened in 2009, the pedestrian and cycle bridge was designed by Expedition Engineering with architect Spence Associates as part of the regeneration of the town's riverside. Stretching about 240 metres, its tied-arch structure combines engineering efficiency with a distinctive appearance.",
+      "en-GB": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
       "es-ES": "El Puente del Infinito de Stockton-on-Tees, en Inglaterra, inaugurado en 2009, no es solo una pasarela peatonal sobre el río Tees: es una lección de geometría convertida en experiencia. Sus dos arcos de acero asimétricos —uno el doble de alto y largo que el otro— se reflejan en el agua formando el símbolo del infinito, y de noche las luces LED de la pasarela cambian del azul al blanco al ritmo de los pasos de quienes la cruzan.",
       "ja-JP": "今日 8 月 8 日は国際無限大の日 (International Infinity Day) 。ニューヨークの哲学者ジャン＝ピエール・アディ・フェニョによって創設されたもので、哲学や科学、芸術を通じて無限の可能性を探求する日です。そして画像は、イングランドの都市、ストックトン＝オン＝ティーズに架かるインフィニティ・ブリッジ。この独特な形状が特徴的な歩道橋は、橋本体と水面に反射した橋が一体となることで、無限大記号「∞」の形を描き出します。また、夜はライトアップされ、人が渡るたびに色が変化し、ダイナミックかつ近未来的な雰囲気を醸し出します。",
       "en-IN": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
@@ -1604,122 +1707,25 @@
     },
     "captions": {
       "en-US": "International Infinity Day",
-      "en-GB": "International Infinity Day",
       "en-CA": "Infinity Bridge in Stockton-on-Tees, northern England",
-      "it-IT": "",
-      "es-ES": "Día Internacional del Infinito",
-      "pt-BR": "",
-      "ja-JP": "今日は無限大の日",
-      "zh-CN": "",
-      "en-IN": "International Infinity Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260808_0700%22",
-      "en-GB": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260807_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Infinity+Bridge+England&form=hpcapt&filters=HpDate%3a%2220260808_0400%22",
-      "it-IT": "https://www.bing.com/search?q=Stockton-on-Tees&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Infinito&form=hpcapt&filters=HpDate%3a%2220260807_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=o+infinito&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260807_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%97%a0%e9%99%90%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260807_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.StocktonInfinity_EN-US3006724421",
-      "en-GB": "/th?id=OHR.StocktonInfinity_EN-GB3847788744",
-      "en-CA": "/th?id=OHR.StocktonInfinity_EN-CA4539873012",
-      "it-IT": "/th?id=OHR.StocktonInfinity_IT-IT2789649837",
-      "es-ES": "/th?id=OHR.StocktonInfinity_ES-ES5321261606",
-      "pt-BR": "/th?id=OHR.StocktonInfinity_PT-BR1264731427",
-      "ja-JP": "/th?id=OHR.StocktonInfinity_JA-JP6357248728",
-      "zh-CN": "/th?id=OHR.StocktonInfinity_ZH-CN5941379745",
-      "en-IN": "/th?id=OHR.StocktonInfinity_EN-IN0551257871"
-    }
-  },
-  "LimeKiln": {
-    "name": "LimeKiln",
-    "urlbase": "/th?id=OHR.LimeKiln_EN-US2748515593",
-    "date": "20260807",
-    "dateFormatted": "August 07, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Guiding ships through history. National Lighthouse Day",
-      "en-CA": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington state",
-      "it-IT": "La luce che illumina il cammino",
-      "pt-BR": "Uma luz no fim do oceano",
-      "de-DE": "Schiffe durch die Geschichte führen. Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
-      "es-ES": "Guiando a lo largo de la historia. Día Mundial de los Faros",
-      "ja-JP": "今日は米国灯台の日",
-      "zh-CN": "指引船只穿越历史"
-    },
-    "copyrights": {
-      "en-US": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
-      "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
-      "it-IT": "Faro Lime Kiln sull'isola di San Juan, stato di Washington, USA (© Edmund Lowe Photography/Shutterstock)",
-      "pt-BR": "Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos (© Edmund Lowe Photography/Shutterstock)",
-      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
-      "es-ES": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
-      "ja-JP": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
-      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
-      "en-CA": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
-      "de-DE": "Der Lime Kiln Lighthouse steht an der Westküste von San Juan Island im US-Bundesstaat Washington. Er gehört zu den bekanntesten Leuchttürmen der Region und blickt auf die stark befahrene Haro Strait. Seit seiner Inbetriebnahme unterstützt er die sichere Navigation von Schiffen, die zwischen den Vereinigten Staaten und Kanada verkehren. Das weiße Gebäude mit seinem markanten Turm fügt sich harmonisch in die felsige Küstenlandschaft ein und ist ein beliebtes Fotomotiv.",
-      "es-ES": "El Faro Lime Kiln, encendido por primera vez el 30 de junio de 1919 sobre la roca viva de la isla San Juan, en Washington, EE. UU., sigue lanzando su destello blanco sobre el estrecho de Haro con la misma fiabilidad que el primer día. Cada 7 de agosto, el Día Mundial de los Faros conmemora la Ley de Faros de 1789, firmada por George Washington.",
-      "ja-JP": "今日 8 月 7 日は米国灯台の日。ジョージ・ワシントン大統領の署名によって 1789 年に成立した「灯台法」を記念して制定された日であり、灯台の歴史と役割をたたえる日です。そして画像は、米国ワシントン州のサンファン島にあるライム・キルン灯台。1919 年に建設され、現在も船舶を導き続けています。航行技術の発展とともに進化を続けてきた灯台は、歴史的建造物や絶景スポットとしても親しまれながら、今もなお、安全と不屈の精神、そして大海原への冒険を象徴する存在であり続けています。",
-      "pt-BR": "Quando o céu escurece e o mar perde as referências, uma luz piscando vale mais do que qualquer mapa. Na imagem, o Farol de Lime Kiln, na Ilha San Juan, Estados Unidos, guia, desde 1919, cargueiros, balsas e barcos por uma das rotas marítimas mais movimentadas do noroeste do Pacífico.",
-      "zh-CN": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。",
-      "it-IT": "Il Faro Lime Kiln, acceso per la prima volta il 30 giugno 1919 sulla roccia viva dell'isola di San Juan, nello stato di Washington, USA, continua a lanciare il suo lampo bianco sullo stretto di Haro con la stessa precisione del primo giorno. Ogni 17 agosto, la Giornata Internazionale dei Fari celebra queste strutture che per secoli hanno guidato le navi lungo le coste di mezzo mondo."
-    },
-    "quickFacts": {
-      "zh-CN": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
-    },
-    "captions": {
-      "en-US": "National Lighthouse Day",
-      "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state",
-      "it-IT": "",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Lighthouse+Day&form=hpcapt&filters=HpDate%3a%2220260807_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Lime+Kiln+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260807_0400%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+dei+Fari&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=Farol+de+Lime+Kiln+nos+EUA&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260808_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Infinity+Bridge+England&form=hpcapt&filters=HpDate%3a%2220260808_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=o+infinito&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.LimeKiln_EN-US2748515593",
-      "en-CA": "/th?id=OHR.LimeKiln_EN-CA4364402853",
-      "it-IT": "/th?id=OHR.LimeKiln_IT-IT6111794447",
-      "pt-BR": "/th?id=OHR.LimeKiln_PT-BR0696520524"
+      "en-US": "/th?id=OHR.StocktonInfinity_EN-US3006724421",
+      "en-CA": "/th?id=OHR.StocktonInfinity_EN-CA4539873012",
+      "pt-BR": "/th?id=OHR.StocktonInfinity_PT-BR1264731427"
     }
   },
-  "JulierPass": {
-    "name": "JulierPass",
-    "urlbase": "/th?id=OHR.JulierPass_EN-GB1060938084",
-    "date": "20260820",
-    "dateFormatted": "August 20, 2026",
+  "CommonBlue": {
+    "name": "CommonBlue",
+    "urlbase": "/th?id=OHR.CommonBlue_EN-GB1147628721",
+    "date": "20260821",
+    "dateFormatted": "August 21, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1737,16 +1743,6 @@
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1763,73 +1759,67 @@
       }
     ],
     "titles": {
-      "en-GB": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "de-DE": "Auf in die Berge! Serpentinenstraße am Julierpass, Schweiz",
-      "fr-FR": "Accrochez-vous ! Route sinueuse du col du Julier, Suisse",
-      "it-IT": "Paesaggi garantiti",
-      "es-ES": "Tomando la curva perfecta. Paso de Julier, región de Grisones, Suiza",
-      "ja-JP": "アルブラアルプスを縫う山岳道路",
-      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士",
-      "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "en-US": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "pt-BR": "A estrada que conquista montanhas. Estrada sinuosa da Passagem de Julier, Suíça"
+      "en-GB": "Sky tinted wings. Common blue butterfly",
+      "de-DE": "Himmelblaue Flügel. Hauhechel-Bläuling, Devon, England",
+      "fr-FR": "De délicates ailes azur. Argus bleu",
+      "ja-JP": "花と蝶の紫色のハーモニー",
+      "zh-CN": "普通蓝灰蝶，德文郡，英格兰",
+      "en-IN": "Sky tinted wings. Common blue butterfly",
+      "en-US": "Sky tinted wings. Common blue butterfly, Devon, England",
+      "en-CA": "Sky tinted wings. Common blue butterfly, Devon, England"
     },
     "copyrights": {
-      "en-GB": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
-      "de-DE": "Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)",
-      "fr-FR": "Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)",
-      "it-IT": "Passo del Giulio, Svizzera (© Westend61/Getty Images)",
-      "es-ES": "Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)",
-      "ja-JP": "ユリア峠, スイス (© Westend61/Getty Images)",
-      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
-      "en-IN": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
-      "en-US": "© Westend61/Getty Images",
-      "pt-BR": "© Westend61/Getty Images"
+      "en-GB": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "de-DE": "Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "fr-FR": "Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)",
+      "ja-JP": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)",
+      "zh-CN": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
+      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "en-US": "© Ross Hoddinott/Nature Picture Library",
+      "en-CA": "© Ross Hoddinott/Nature Picture Library"
     },
     "descs": {
-      "en-GB": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has connected Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its heights. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
-      "de-DE": "Der Julierpass zählt zu den eindrucksvollsten Alpenübergängen der Schweiz. Die Passhöhe liegt auf 2284 Metern und verbindet seit fast 2000 Jahren verschiedene Täler miteinander. Bereits zur Römerzeit führte hier ein wichtiger Weg durch die Berge. Archäologische Funde nahe dem höchsten Punkt des Passes deuten darauf hin, dass Reisende diesen Ort nicht nur als Übergang, sondern auch als Rastplatz nutzten. Münzen und zwei römische Specksteinsäulen erinnern noch heute an diese lange Geschichte.",
-      "fr-FR": "À 2 284 mètres d’altitude, le col du Julier traverse le cœur des Alpes suisses comme un trait d’union entre vallées et époques. Depuis près de deux millénaires, voyageurs, marchands et messagers l’ont franchi malgré ses pentes escarpées, bien avant l’arrivée des routes modernes. Près du sommet, des découvertes archéologiques, notamment de nombreuses pièces de monnaie ainsi que deux colonnes en stéatite d’origine romaine, suggèrent l’existence d’un lieu de halte, voire de recueillement. Aujourd’hui encore, les prairies alpines, les mélèzes et les sommets rocheux composent un décor saisissant où le temps semble ralentir.",
-      "es-ES": "El Paso de Julier, en Suiza, es una de esas carreteras que se convierten en destino por sí solas. A más de 2.200 metros de altitud, este paso alpino conecta valles a través de una ruta transitada durante casi dos milenios: romanos, mercaderes y mensajeros ya lo cruzaban sin asfalto ni barreras de protección. Cerca de la cima, los arqueólogos han hallado monedas y dos columnas de esteatita que apuntan a la existencia de un santuario donde los viajeros buscaban amparo.",
-      "ja-JP": "今日の画像は、スイスのアルブラアルプス山脈にあるユリア峠。標高 2,284m のこの峠は、ローマ時代からアルプスの谷を結ぶ交通の要衝として利用されてきました。道路の建設は 1820 年代で、1935 年から 1940 年にかけてアスファルト舗装が行われ、スイス・アルプスで初めてアスファルト舗装された道路となりました。現在も重要な山岳道路として利用されており、アルプスの雄大な景色を眺めながらドライブを楽しむことができます。",
-      "en-IN": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has linked Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its summit. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
-      "en-US": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 7,493 feet and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travelers, merchants, and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
-      "it-IT": "Il Passo del Giulio, in Svizzera, è una di quelle strade di montagna che diventano esse stesse una destinazione. A oltre 2.200 metri di quota, collega le valli alpine lungo un percorso frequentato da quasi duemila anni: prima di guardrail e asfalto, romani, mercanti e messaggeri lo attraversavano a piedi. Vicino alla cima, gli archeologi hanno rinvenuto monete antiche e due colonne di steatite di epoca romana, indizi di un luogo di sosta o santuario lungo la salita.",
-      "pt-BR": "Algumas estradas fazem tanta questão de aparecer quanto o lugar para onde levam. A imagem mostra o Passo de Julier, nos Alpes da Suíça, a cerca de 2.284 metros de altitude, ligando vales alpinos por um caminho usado há quase dois milênios. Muito antes do asfalto, romanos, mercadores e mensageiros já cruzavam essa montanha. Perto do ponto mais alto, arqueólogos encontraram moedas e colunas de pedra-sabão que sugerem um antigo santuário ou ponto de descanso para quem encarava a travessia.",
-      "zh-CN": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。"
+      "en-GB": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
+      "de-DE": "Der Hauhechel-Bläuling gehört zu den bekanntesten Tagfaltern Europas. In Devon im Südwesten Englands ist er regelmäßig auf blütenreichen Wiesen, an Küstenhängen und entlang ruhiger Landwege zu beobachten. Besonders an sonnigen Tagen flattert er zwischen Wildblumen umher und zeigt dabei seine leuchtend blaue Flügelfärbung. Die Art bevorzugt offene Lebensräume mit einem reichen Angebot an Nektarpflanzen und trägt zur Vielfalt dieser Landschaften bei. Wegen seiner auffälligen Erscheinung ist der kleine Falter bei Naturfreunden und Fotografen gleichermaßen beliebt.",
+      "fr-FR": "Un éclair bleu traverse une prairie en fleurs, puis disparaît presque aussitôt. Derrière cette apparition fugace se cache pourtant un cycle de vie remarquable. Répandu dans une grande partie de l’Europe, en Afrique du Nord et dans certaines régions d’Asie, l’Argus bleu, aussi appelé Azuré commun (Polyommatus icarus), commence son cycle sous la forme d’un minuscule œuf déposé sur des plantes nourricières comme le lotier corniculé. Après l’éclosion, la chenille se nourrit de feuilles, grandissant à l’abri des regards dans un paysage animé d’insectes et de floraisons.",
+      "ja-JP": "今日の画像は、シジミチョウ科の一種であるイカルスヒメシジミ。ヨーロッパや北アフリカ、温帯アジアに広く分布する蝶です。この科の多くは、何らかの形でアリと共生関係にあることで知られており、イカルスヒメシジミの場合は、幼虫期にアリの餌となる甘い分泌物を出すことでアリに天敵から守ってもらうという関係を築いています。また、その他の特徴として、成虫のオスは鮮やかな青色の翅を持つ一方、メスは褐色を帯びた落ち着いた色合いをしており、オスとメスで見た目がはっきりと異なるという特徴があります。",
+      "en-IN": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
+      "en-US": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa, and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the cocooned caterpillar from predators.",
+      "en-CA": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the caterpillar from predators.",
+      "zh-CN": "田野中那一抹迅速掠过的蓝色背后，有一个开始得早得多的故事，故事的主角是一只小小的毛毛虫和一种令人惊讶的生存妙招。普通蓝灰蝶分布于欧洲、北非和亚洲部分地区，成虫以花蜜为食。它的生命始于一枚小小的卵，雌蝶通常会将卵产在百脉根等寄主植物上。真正令人惊讶的是它的毛毛虫阶段，此时蚂蚁会在其生存过程中扮演一个出人意料的角色。孵化后，毛毛虫会啃食叶片，然后进入蜕变的下一个阶段。在这一过程中，它会分泌一种名为蜜露的含糖物质，供蚂蚁取食。作为回报，蚂蚁可能会保护结茧的毛毛虫免受捕食者侵害。"
     },
     "quickFacts": {
-      "zh-CN": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。"
+      "en-US": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favorable patches of flowers.",
+      "en-GB": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
+      "en-CA": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
+      "de-DE": "Trotz ihres zarten Aussehens vertreiben männliche Hauhechel-Bläulinge aktiv rivalisierende Männchen und manchmal sogar größere Insekten von ihren bevorzugten Blütenplätzen.",
+      "fr-FR": "Malgré leur apparence fragile, les argus bleus mâles chassent activement leurs rivaux — et parfois même des insectes plus grands — des zones fleuries les plus prisées.",
+      "zh-CN": "尽管外表纤弱，雄性普通蓝灰蝶仍会主动将竞争的雄蝶——有时甚至是体型更大的昆虫——逐出花朵繁茂的有利地盘。",
+      "en-IN": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers."
     },
     "captions": {
-      "en-GB": "Winding road of Julier Pass, Switzerland",
-      "de-DE": "Serpentinenstraße am Julierpass, Schweiz",
-      "fr-FR": "Route sinueuse du col du Julier, Suisse",
-      "it-IT": "",
-      "es-ES": "Paso de Julier, región de Grisones, Suiza",
-      "ja-JP": "アルブラアルプスを縫う山岳道路",
+      "en-GB": "Common blue butterfly",
+      "de-DE": "Hauhechel-Bläuling, Devon, England",
+      "fr-FR": "Argus bleu",
+      "ja-JP": "花と蝶の紫色のハーモニー",
       "zh-CN": "",
-      "en-IN": "Winding road of Julier Pass, Switzerland"
+      "en-IN": "Common blue butterfly"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260820_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Julierpass&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=col+du+Julier+Suisse&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Passo+del+Giulio&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Paso+de+Julier+Suiza&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a6%e3%83%aa%e3%82%a2%e5%b3%a0&form=hpcapt&filters=HpDate%3a%2220260820_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%91%9e%e5%a3%ab%e5%b0%a4%e5%88%a9%e5%b0%94%e5%b1%b1%e5%8f%a3&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260820_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260821_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Hauhechel-Bl%c3%a4uling&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Argus+bleu&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%ab%e3%83%ab%e3%82%b9%e3%83%92%e3%83%a1%e3%82%b7%e3%82%b8%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220260821_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%99%ae%e9%80%9a%e8%93%9d%e7%81%b0%e8%9d%b6&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260821_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.JulierPass_EN-GB1060938084",
-      "de-DE": "/th?id=OHR.JulierPass_DE-DE4547078745",
-      "fr-FR": "/th?id=OHR.JulierPass_FR-FR0870283971",
-      "it-IT": "/th?id=OHR.JulierPass_IT-IT0417165500",
-      "es-ES": "/th?id=OHR.JulierPass_ES-ES7799772209",
-      "ja-JP": "/th?id=OHR.JulierPass_JA-JP8487146662",
-      "zh-CN": "/th?id=OHR.JulierPass_ZH-CN3064797820",
-      "en-IN": "/th?id=OHR.JulierPass_EN-IN9398665018"
+      "en-GB": "/th?id=OHR.CommonBlue_EN-GB1147628721",
+      "de-DE": "/th?id=OHR.CommonBlue_DE-DE9673283581",
+      "fr-FR": "/th?id=OHR.CommonBlue_FR-FR7050471063",
+      "ja-JP": "/th?id=OHR.CommonBlue_JA-JP8682246058",
+      "zh-CN": "/th?id=OHR.CommonBlue_ZH-CN8521430009",
+      "en-IN": "/th?id=OHR.CommonBlue_EN-IN9476454539"
     }
   },
   "WhyteCliffP": {
@@ -1954,6 +1944,38 @@
       "en-IN": "/th?id=OHR.WhyteCliffP_EN-IN2033000441"
     }
   },
+  "CanadaNE": {
+    "name": "CanadaNE",
+    "urlbase": "/th?id=OHR.CanadaNE_EN-CA9090606067",
+    "date": "20260821",
+    "dateFormatted": "August 21, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "One last summer spin. Canadian National Exhibition begins"
+    },
+    "copyrights": {
+      "en-CA": "Aerial view of Canadian National Exhibition in Toronto (© Wirestock/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "You arrive while the sky is turning blue-grey, hear the first burst of music from the midway and realise the Canadian National Exhibition has opened for another season. The event began in 1879 as the Toronto Industrial Exhibition, designed to bring together farming, industry and new ideas from across Canada. More than a century later, that purpose still survives in the exhibits and demonstrations spread across the grounds."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "Canadian National Exhibition begins"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Canadian+National+Exhibition+2026&form=hpcapt&filters=HpDate%3a%2220260821_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.CanadaNE_EN-CA9090606067"
+    }
+  },
   "SellinSunrise": {
     "name": "SellinSunrise",
     "urlbase": "/th?id=OHR.SellinSunrise_DE-DE6501539287",
@@ -1984,38 +2006,6 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.SellinSunrise_DE-DE6501539287"
-    }
-  },
-  "RhineFlames": {
-    "name": "RhineFlames",
-    "urlbase": "/th?id=OHR.RhineFlames_DE-DE7527393403",
-    "date": "20260807",
-    "dateFormatted": "August 07, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Feuerzauber über dem Rhein. Rhein in Flammen"
-    },
-    "copyrights": {
-      "de-DE": "Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock)"
-    },
-    "descs": {
-      "de-DE": "Wenn über dem Rhein die ersten Feuerwerksfarben aufleuchten, beginnt eines der bekanntesten Sommerereignisse Deutschlands. Bei „Rhein in Flammen“ verwandeln sich Burgen, Weinorte und Uferlandschaften entlang des Mittelrheins in eine Kulisse aus Licht und Farbe. Heute richtet sich der Blick auf die Region rund um Koblenz. Hier zieht ein festlich beleuchteter Schiffskonvoi den Fluss entlang, begleitet von mehreren Feuerwerken, deren Farben sich im Wasser spiegeln. Zwischen Spay, Braubach, Rhens und Koblenz werden Burgen und Rheinufer illuminiert, bevor das große Abschlussfeuerwerk den Höhepunkt des Abends bildet."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Rhein in Flammen"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Rhein+in+Flammen&form=hpcapt&filters=HpDate%3a%2220260807_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.RhineFlames_DE-DE7527393403"
     }
   },
   "DolmenRoche": {
@@ -2052,38 +2042,91 @@
       "fr-FR": "/th?id=OHR.DolmenRoche_FR-FR1513962303"
     }
   },
-  "ClothesBarjols": {
-    "name": "ClothesBarjols",
-    "urlbase": "/th?id=OHR.ClothesBarjols_FR-FR4425384248",
-    "date": "20260807",
-    "dateFormatted": "August 07, 2026",
+  "NotteTaranta": {
+    "name": "NotteTaranta",
+    "urlbase": "/th?id=OHR.NotteTaranta_IT-IT0811899295",
+    "date": "20260821",
+    "dateFormatted": "August 21, 2026",
     "markets": [
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
       }
     ],
     "titles": {
-      "fr-FR": "L’art de prendre le temps. Linge aux fenêtres d’une maison, Provence-Alpes-Côtes d'Azur"
+      "it-IT": "Il suono della Taranta"
     },
     "copyrights": {
-      "fr-FR": "Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur (© mammuth/Getty Images)"
+      "it-IT": "Torre Sant'Andrea, Salento, Puglia, Italia (© Balate.Dorin/Shutterstock)"
     },
     "descs": {
-      "fr-FR": "Sous le soleil doré du Midi, le temps semble s’étirer doucement, comme lors d’une sieste à l’ombre des platanes. Dans les ruelles étroites de Provence ou le long des façades pastel d’un village catalan, le linge ondule entre deux fenêtres, porté par une brise tiède venue de la mer. Les cigales, fidèles gardiennes de l’été, rythment ces heures suspendues où l’on pratique l’art du « dolce far niente », hérité des cultures méditerranéennes."
+      "it-IT": "Le acque turchesi di Torre Sant'Andrea, nel Salento pugliese, con i loro faraglioni di roccia bianca levigata dal mare, sono una delle coste più spettacolari d'Italia. Ed è proprio in questo lembo di Puglia che stasera si accende la 29ª edizione de La Notte della Taranta, il più grande festival di musica popolare d'Europa: nato a Melpignano nel 1998, ogni anno attraversa venti borghi del Salento prima del Concertone finale."
     },
-    "quickFacts": {
-      "fr-FR": "Le « dolce far niente » est un art de vivre italien qui célèbre les plaisirs du repos. Prendre le temps de ne rien faire peut aussi réduire le stress et stimuler la créativité."
-    },
+    "quickFacts": {},
     "captions": {
-      "fr-FR": "Linge aux fenêtres d’une maison, Provence-Alpes-Côtes d'Azur"
+      "it-IT": ""
     },
     "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=Provence-Alpes-C%c3%b4tes+d%e2%80%99Azur&form=hpcapt&filters=HpDate%3a%2220260807_2200%22"
+      "it-IT": "https://www.bing.com/search?q=La+Notte+della+Taranta&form=hpcapt"
     },
     "urlbases": {
-      "fr-FR": "/th?id=OHR.ClothesBarjols_FR-FR4425384248"
+      "it-IT": "/th?id=OHR.NotteTaranta_IT-IT0811899295"
+    }
+  },
+  "LimeKiln": {
+    "name": "LimeKiln",
+    "urlbase": "/th?id=OHR.LimeKiln_IT-IT6111794447",
+    "date": "20260816",
+    "dateFormatted": "August 16, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "La luce che illumina il cammino",
+      "en-US": "Guiding ships through history. National Lighthouse Day",
+      "en-CA": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington state",
+      "pt-BR": "Uma luz no fim do oceano",
+      "de-DE": "Schiffe durch die Geschichte führen. Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
+      "es-ES": "Guiando a lo largo de la historia. Día Mundial de los Faros",
+      "ja-JP": "今日は米国灯台の日",
+      "zh-CN": "指引船只穿越历史"
+    },
+    "copyrights": {
+      "it-IT": "Faro Lime Kiln sull'isola di San Juan, stato di Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+      "en-US": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
+      "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
+      "pt-BR": "Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos (© Edmund Lowe Photography/Shutterstock)",
+      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+      "es-ES": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
+      "ja-JP": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
+      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
+      "en-CA": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
+      "de-DE": "Der Lime Kiln Lighthouse steht an der Westküste von San Juan Island im US-Bundesstaat Washington. Er gehört zu den bekanntesten Leuchttürmen der Region und blickt auf die stark befahrene Haro Strait. Seit seiner Inbetriebnahme unterstützt er die sichere Navigation von Schiffen, die zwischen den Vereinigten Staaten und Kanada verkehren. Das weiße Gebäude mit seinem markanten Turm fügt sich harmonisch in die felsige Küstenlandschaft ein und ist ein beliebtes Fotomotiv.",
+      "es-ES": "El Faro Lime Kiln, encendido por primera vez el 30 de junio de 1919 sobre la roca viva de la isla San Juan, en Washington, EE. UU., sigue lanzando su destello blanco sobre el estrecho de Haro con la misma fiabilidad que el primer día. Cada 7 de agosto, el Día Mundial de los Faros conmemora la Ley de Faros de 1789, firmada por George Washington.",
+      "ja-JP": "今日 8 月 7 日は米国灯台の日。ジョージ・ワシントン大統領の署名によって 1789 年に成立した「灯台法」を記念して制定された日であり、灯台の歴史と役割をたたえる日です。そして画像は、米国ワシントン州のサンファン島にあるライム・キルン灯台。1919 年に建設され、現在も船舶を導き続けています。航行技術の発展とともに進化を続けてきた灯台は、歴史的建造物や絶景スポットとしても親しまれながら、今もなお、安全と不屈の精神、そして大海原への冒険を象徴する存在であり続けています。",
+      "pt-BR": "Quando o céu escurece e o mar perde as referências, uma luz piscando vale mais do que qualquer mapa. Na imagem, o Farol de Lime Kiln, na Ilha San Juan, Estados Unidos, guia, desde 1919, cargueiros, balsas e barcos por uma das rotas marítimas mais movimentadas do noroeste do Pacífico.",
+      "zh-CN": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。",
+      "it-IT": "Il Faro Lime Kiln, acceso per la prima volta il 30 giugno 1919 sulla roccia viva dell'isola di San Juan, nello stato di Washington, USA, continua a lanciare il suo lampo bianco sullo stretto di Haro con la stessa precisione del primo giorno. Ogni 17 agosto, la Giornata Internazionale dei Fari celebra queste strutture che per secoli hanno guidato le navi lungo le coste di mezzo mondo."
+    },
+    "quickFacts": {
+      "zh-CN": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
+    },
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+dei+Fari&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.LimeKiln_IT-IT6111794447"
     }
   },
   "EstateItaliana": {
@@ -2148,6 +2191,38 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.DolomitiAgosto_IT-IT3030401591"
+    }
+  },
+  "VueltaEspana": {
+    "name": "VueltaEspana",
+    "urlbase": "/th?id=OHR.VueltaEspana_ES-ES4697960673",
+    "date": "20260821",
+    "dateFormatted": "August 21, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Vuelta a casa sobre ruedas. La Vuelta a España"
+    },
+    "copyrights": {
+      "es-ES": "Vista general del pelotón durante la 77ª Vuelta a España 2022, Etapa 20, Navacerrada, España (© Europa Press Sports/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "En la imagen vemos cómo el pelotón de La Vuelta a España asciende el puerto de Navacerrada, uno de los escenarios más míticos de la carrera desde 1941, con sus rampas de hasta el 13% en plena Sierra de Guadarrama."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "La Vuelta a España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Vuelta+a+Espa%c3%b1a&form=hpcapt&filters=HpDate%3a%2220260821_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.VueltaEspana_ES-ES4697960673"
     }
   },
   "MalagaFairAgosto": {
@@ -2372,6 +2447,72 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+    }
+  },
+  "RhineFlames": {
+    "name": "RhineFlames",
+    "urlbase": "/th?id=OHR.RhineFlames_DE-DE7527393403",
+    "date": "20260807",
+    "dateFormatted": "August 07, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Feuerzauber über dem Rhein. Rhein in Flammen"
+    },
+    "copyrights": {
+      "de-DE": "Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock)"
+    },
+    "descs": {
+      "de-DE": "Wenn über dem Rhein die ersten Feuerwerksfarben aufleuchten, beginnt eines der bekanntesten Sommerereignisse Deutschlands. Bei „Rhein in Flammen“ verwandeln sich Burgen, Weinorte und Uferlandschaften entlang des Mittelrheins in eine Kulisse aus Licht und Farbe. Heute richtet sich der Blick auf die Region rund um Koblenz. Hier zieht ein festlich beleuchteter Schiffskonvoi den Fluss entlang, begleitet von mehreren Feuerwerken, deren Farben sich im Wasser spiegeln. Zwischen Spay, Braubach, Rhens und Koblenz werden Burgen und Rheinufer illuminiert, bevor das große Abschlussfeuerwerk den Höhepunkt des Abends bildet."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Rhein in Flammen"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Rhein+in+Flammen&form=hpcapt&filters=HpDate%3a%2220260807_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.RhineFlames_DE-DE7527393403"
+    }
+  },
+  "ClothesBarjols": {
+    "name": "ClothesBarjols",
+    "urlbase": "/th?id=OHR.ClothesBarjols_FR-FR4425384248",
+    "date": "20260807",
+    "dateFormatted": "August 07, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "L’art de prendre le temps. Linge aux fenêtres d’une maison, Provence-Alpes-Côtes d'Azur"
+    },
+    "copyrights": {
+      "fr-FR": "Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur (© mammuth/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Sous le soleil doré du Midi, le temps semble s’étirer doucement, comme lors d’une sieste à l’ombre des platanes. Dans les ruelles étroites de Provence ou le long des façades pastel d’un village catalan, le linge ondule entre deux fenêtres, porté par une brise tiède venue de la mer. Les cigales, fidèles gardiennes de l’été, rythment ces heures suspendues où l’on pratique l’art du « dolce far niente », hérité des cultures méditerranéennes."
+    },
+    "quickFacts": {
+      "fr-FR": "Le « dolce far niente » est un art de vivre italien qui célèbre les plaisirs du repos. Prendre le temps de ne rien faire peut aussi réduire le stress et stimuler la créativité."
+    },
+    "captions": {
+      "fr-FR": "Linge aux fenêtres d’une maison, Provence-Alpes-Côtes d'Azur"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Provence-Alpes-C%c3%b4tes+d%e2%80%99Azur&form=hpcapt&filters=HpDate%3a%2220260807_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.ClothesBarjols_FR-FR4425384248"
     }
   },
   "MaraCrossing": {
