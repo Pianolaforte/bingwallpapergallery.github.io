@@ -1,4 +1,121 @@
 {
+  "CommonBlue": {
+    "name": "CommonBlue",
+    "urlbase": "/th?id=OHR.CommonBlue_EN-US2760688799",
+    "date": "20260822",
+    "dateFormatted": "August 22, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Sky tinted wings. Common blue butterfly",
+      "en-GB": "Sky tinted wings. Common blue butterfly",
+      "en-CA": "Sky tinted wings. Common blue butterfly",
+      "de-DE": "Himmelblaue Flügel. Hauhechel-Bläuling, Devon, England",
+      "fr-FR": "De délicates ailes azur. Argus bleu",
+      "ja-JP": "花と蝶の紫色のハーモニー",
+      "zh-CN": "普通蓝灰蝶，德文郡，英格兰",
+      "en-IN": "Sky tinted wings. Common blue butterfly"
+    },
+    "copyrights": {
+      "en-US": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "en-GB": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "en-CA": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "de-DE": "Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "fr-FR": "Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)",
+      "ja-JP": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)",
+      "zh-CN": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
+      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa, and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the cocooned caterpillar from predators.",
+      "en-GB": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
+      "en-CA": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the caterpillar from predators.",
+      "de-DE": "Der Hauhechel-Bläuling gehört zu den bekanntesten Tagfaltern Europas. In Devon im Südwesten Englands ist er regelmäßig auf blütenreichen Wiesen, an Küstenhängen und entlang ruhiger Landwege zu beobachten. Besonders an sonnigen Tagen flattert er zwischen Wildblumen umher und zeigt dabei seine leuchtend blaue Flügelfärbung. Die Art bevorzugt offene Lebensräume mit einem reichen Angebot an Nektarpflanzen und trägt zur Vielfalt dieser Landschaften bei. Wegen seiner auffälligen Erscheinung ist der kleine Falter bei Naturfreunden und Fotografen gleichermaßen beliebt.",
+      "fr-FR": "Un éclair bleu traverse une prairie en fleurs, puis disparaît presque aussitôt. Derrière cette apparition fugace se cache pourtant un cycle de vie remarquable. Répandu dans une grande partie de l’Europe, en Afrique du Nord et dans certaines régions d’Asie, l’Argus bleu, aussi appelé Azuré commun (Polyommatus icarus), commence son cycle sous la forme d’un minuscule œuf déposé sur des plantes nourricières comme le lotier corniculé. Après l’éclosion, la chenille se nourrit de feuilles, grandissant à l’abri des regards dans un paysage animé d’insectes et de floraisons.",
+      "ja-JP": "今日の画像は、シジミチョウ科の一種であるイカルスヒメシジミ。ヨーロッパや北アフリカ、温帯アジアに広く分布する蝶です。この科の多くは、何らかの形でアリと共生関係にあることで知られており、イカルスヒメシジミの場合は、幼虫期にアリの餌となる甘い分泌物を出すことでアリに天敵から守ってもらうという関係を築いています。また、その他の特徴として、成虫のオスは鮮やかな青色の翅を持つ一方、メスは褐色を帯びた落ち着いた色合いをしており、オスとメスで見た目がはっきりと異なるという特徴があります。",
+      "en-IN": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
+      "zh-CN": "田野中那一抹迅速掠过的蓝色背后，有一个开始得早得多的故事，故事的主角是一只小小的毛毛虫和一种令人惊讶的生存妙招。普通蓝灰蝶分布于欧洲、北非和亚洲部分地区，成虫以花蜜为食。它的生命始于一枚小小的卵，雌蝶通常会将卵产在百脉根等寄主植物上。真正令人惊讶的是它的毛毛虫阶段，此时蚂蚁会在其生存过程中扮演一个出人意料的角色。孵化后，毛毛虫会啃食叶片，然后进入蜕变的下一个阶段。在这一过程中，它会分泌一种名为蜜露的含糖物质，供蚂蚁取食。作为回报，蚂蚁可能会保护结茧的毛毛虫免受捕食者侵害。"
+    },
+    "quickFacts": {
+      "en-US": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favorable patches of flowers.",
+      "en-GB": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
+      "en-CA": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
+      "de-DE": "Trotz ihres zarten Aussehens vertreiben männliche Hauhechel-Bläulinge aktiv rivalisierende Männchen und manchmal sogar größere Insekten von ihren bevorzugten Blütenplätzen.",
+      "fr-FR": "Malgré leur apparence fragile, les argus bleus mâles chassent activement leurs rivaux — et parfois même des insectes plus grands — des zones fleuries les plus prisées.",
+      "zh-CN": "尽管外表纤弱，雄性普通蓝灰蝶仍会主动将竞争的雄蝶——有时甚至是体型更大的昆虫——逐出花朵繁茂的有利地盘。",
+      "en-IN": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers."
+    },
+    "captions": {
+      "en-US": "Common blue butterfly",
+      "en-GB": "Common blue butterfly",
+      "en-CA": "Common blue butterfly",
+      "de-DE": "Hauhechel-Bläuling, Devon, England",
+      "fr-FR": "Argus bleu",
+      "ja-JP": "花と蝶の紫色のハーモニー",
+      "zh-CN": "",
+      "en-IN": "Common blue butterfly"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260822_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260821_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260822_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Hauhechel-Bl%c3%a4uling&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Argus+bleu&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%ab%e3%83%ab%e3%82%b9%e3%83%92%e3%83%a1%e3%82%b7%e3%82%b8%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220260821_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%99%ae%e9%80%9a%e8%93%9d%e7%81%b0%e8%9d%b6&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260821_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.CommonBlue_EN-US2760688799",
+      "en-GB": "/th?id=OHR.CommonBlue_EN-GB1147628721",
+      "en-CA": "/th?id=OHR.CommonBlue_EN-CA6718491810",
+      "de-DE": "/th?id=OHR.CommonBlue_DE-DE9673283581",
+      "fr-FR": "/th?id=OHR.CommonBlue_FR-FR7050471063",
+      "ja-JP": "/th?id=OHR.CommonBlue_JA-JP8682246058",
+      "zh-CN": "/th?id=OHR.CommonBlue_ZH-CN8521430009",
+      "en-IN": "/th?id=OHR.CommonBlue_EN-IN9476454539"
+    }
+  },
   "JulierPass": {
     "name": "JulierPass",
     "urlbase": "/th?id=OHR.JulierPass_EN-US2643379571",
@@ -662,7 +779,7 @@
       "es-ES": "Leyenda de cisnes. El convento Ross Errilly, condado de Galway, Irlanda",
       "pt-BR": "Onde o mito encontrou abrigo",
       "ja-JP": "歴史を刻む石造りの修道院跡",
-      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰",
+      "zh-CN": "天鹅开启传奇之处",
       "en-IN": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland"
     },
     "copyrights": {
@@ -685,7 +802,7 @@
       "de-DE": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
       "fr-FR": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
       "es-ES": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
-      "ja-JP": "歴史を刻む石造りの修道院跡. ロス・エリリー修道院跡, アイルランド. ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
+      "ja-JP": "ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
       "en-IN": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
       "it-IT": "Cigni, nascondigli segreti e una vasca medievale per tenere vivi i pesci fino al momento di cucinarli: cosa hanno in comune? Fanno tutti parte della storia del Convento Ross Errilly, nella Contea di Galway, in Irlanda. Fondato intorno al XIV secolo sull'affluente Black River, questo convento francescano tra i meglio conservati d'Irlanda — spesso chiamato erroneamente \"Ross Abbey\", pur non avendo mai avuto un abate — è un labirinto di cappelle, chiostri e corridoi dove ogni pietra racconta secoli di storia religiosa e vita monastica medievale.",
       "pt-BR": "O que cisnes, passagens secretas e tanques de peixe têm em comum? Todos fazem parte da história do Convento de Ross Errilly, no Condado de Galway, na Irlanda, que vemos na imagem de hoje. Fundado por volta de 1351, o lugar também é conhecido como Abadia de Ross, embora nunca tenha sido uma abadia: sem um abade, sempre foi um convento franciscano.",
@@ -1515,14 +1632,84 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Architecture of identity. International Day of the World's Indigenous Peoples",
+      "en-CA": "Architecture of identity. International Day of the World's Indigenous Peoples",
+      "pt-BR": "A arquitetura da memória",
+      "en-GB": "Architecture of identity. International Day of the World's Indigenous Peoples",
+      "de-DE": "Architektur der Identität. Internationaler Tag der indigenen Völker der Welt",
+      "fr-FR": "Quand architecture et identité vont de pair. Journée internationale des peuples autochtones",
+      "it-IT": "Architettura dell'identità",
+      "es-ES": "Arquitectura con identidad. Día Internacional de los Pueblos Indígenas del Mundo",
+      "ja-JP": "今日は世界の先住民の国際デー",
+      "zh-CN": "身份认同的建筑表达",
+      "en-IN": "Architecture of identity. International Day of the World's Indigenous Peoples"
+    },
+    "copyrights": {
+      "en-US": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
+      "en-CA": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
+      "pt-BR": "Centro Cultural Jean-Marie Tjibaou, Nouméa, Nova Caledônia (© Fabien Astre/Alamy)",
+      "en-GB": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
+      "de-DE": "Tjibaou-Kulturzentrum, Neukaledonien (© Fabien Astre/Alamy)",
+      "fr-FR": "Centre culturel Tjibaou, Nouvelle-Calédonie (© Fabien Astre/Alamy)",
+      "it-IT": "Jean-Marie Tjibaou Cultural Centre, Nuova Caledonia (© Fabien Astre/Alamy)",
+      "es-ES": "Centro Cultural Jean-Marie Tjibaou, Nueva Caledonia (© Fabien Astre/Alamy)",
+      "ja-JP": "チバウ文化センター, ニューカレドニア (© Fabien Astre/Alamy)",
+      "zh-CN": "让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)",
+      "en-IN": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)"
+    },
+    "descs": {
+      "en-US": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the date marks a landmark 1982 meeting focused on protecting Indigenous rights worldwide. More than 476 million Indigenous people now live across about 90 countries, sustaining thousands of cultures and the majority of the world's roughly 7,000 languages.",
+      "en-CA": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the day honours Indigenous Peoples worldwide. More than 476 million Indigenous people live across about 90 countries, sustaining thousands of cultures and many of the world's roughly 7,000 languages. In Canada, First Nations, Inuit and Métis peoples each have distinct histories, traditions and languages that continue to shape the country's identity.",
+      "en-GB": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the date marks a landmark 1982 meeting focused on protecting Indigenous rights worldwide. More than 476 million Indigenous people now live across about 90 countries, sustaining thousands of cultures and the majority of the world's roughly 7,000 languages.",
+      "de-DE": "Am 9. August rückt der Internationale Tag der indigenen Völker der Welt die Vielfalt indigener Gemeinschaften in den Mittelpunkt. Die Vereinten Nationen riefen den Gedenktag 1994 ins Leben. Er wird seit 1995 begangen und erinnert an ein wichtiges Treffen von 1982, das dem Schutz indigener Rechte gewidmet war. Heute leben mehr als 476 Millionen indigene Menschen in rund 90 Ländern.",
+      "fr-FR": "Aujourd’hui, l’attention se porte sur les peuples autochtones du monde, dont les racines plongent bien au-delà des archives écrites. Depuis son institution par l’ONU en 1994, cette journée rappelle un tournant amorcé en 1982 pour la reconnaissance de leurs droits. Plus de 476 millions de femmes et d’hommes, répartis dans environ 90 pays, perpétuent des milliers de cultures et utilisent une part importante des quelque 7 000 langues parlées dans le monde. Leurs savoirs, intimement liés aux territoires, constituent une mémoire vivante de la planète.",
+      "es-ES": "En la península de Tina, en Nueva Caledonia, el Centro Cultural Jean-Marie Tjibaou se eleva sobre el paisaje como un gesto arquitectónico sin precedentes. Diseñado por Renzo Piano e inaugurado en 1998, sus estructuras curvas y alargadas evocan las cabañas tradicionales del pueblo kanak, aunque construidas con materiales y técnicas de última generación. Senderos que conectan espacios de arte, investigación y espectáculo tejen un relato en el que la cultura, la tierra y la comunidad son inseparables.",
+      "ja-JP": "今日 8 月 9 日は世界の先住民の国際デー。先住民の権利の保護と推進を目的として、1994 年に国連総会で制定されました。現在、約 90 の国や地域に、およそ 4 億 7600 万人の先住民が暮らしており、それぞれの地域に根ざした独自の言語、文化、伝統を受け継いでいます。今日の画像、ニューカレドニアのティナ半島にあるチバウ文化センターは、そうした文化遺産を象徴する施設です。イタリアの建築家レンゾ・ピアノによって設計されたこの建造物は、島の先住民族である「カナック族」の伝統や文化などを紹介する複合施設として、1998 年にオープンしました。カナック族の伝統家屋「カーズ」をモチーフに設計されており、巻貝のような形が特徴です。",
+      "en-IN": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the day commemorates a landmark 1982 meeting on Indigenous rights. More than 476 million Indigenous people live across about 90 countries, representing thousands of cultures and protecting an estimated 80% of the planet's remaining biodiversity despite making up around 6% of the global population.",
+      "it-IT": "Sulla penisola di Tina, in Nuova Caledonia, il Centro Culturale Jean-Marie Tjibaou si erge nel paesaggio come un gesto architettonico senza precedenti. Progettato da Renzo Piano e inaugurato nel 1998, le sue grandi strutture curve evocano le capanne tradizionali del popolo Kanak, pur essendo costruite con materiali e tecniche modernissime. I sentieri che collegano gli spazi dedicati all'arte, alla ricerca e alle performance tessono un racconto in cui cultura, territorio e comunità sono inseparabili.",
+      "pt-BR": "Nem toda inovação nasce da ruptura. Às vezes, ela nasce da continuidade. Nesta imagem do Centro Cultural Jean-Marie Tjibaou, na Nova Caledônia, dez grandes estruturas de madeira e aço parecem brotar do solo. Inaugurado em 1998, o conjunto se inspira nas antigas casas do povo kanak, continuando uma conversa iniciada muito antes de existir concreto, vidro ou arquitetura contemporânea.",
+      "zh-CN": "今天，世界土著人民国际日邀请我们更深入地了解那些历史远早于文字记载的社群。联合国于1994年设立这一纪念日，并于1995年首次举行活动；日期所纪念的是1982年一次致力于保护全球土著人民权利的重要会议。如今，约90个国家生活着超过4.76亿土著人民，他们延续着数千种文化，也传承着全球约7,000种语言中的大多数。"
+    },
+    "quickFacts": {
+      "zh-CN": "文化中心的十座高耸“构筑体”高度各异，其中最高的一座在新喀里多尼亚的景观中高达28米。"
+    },
+    "captions": {
+      "en-US": "International Day of the World's Indigenous Peoples",
+      "en-CA": "International Day of the World's Indigenous Peoples",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=hpcapt&filters=HpDate%3a%2220260809_0700%22",
+      "en-CA": "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=hpcapt&filters=HpDate%3a%2220260809_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+dos+Povos+Ind%c3%adgenas+do+Mundo&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.JMTjibaou_EN-US3454380257",
+      "en-CA": "/th?id=OHR.JMTjibaou_EN-CA4738460132",
+      "pt-BR": "/th?id=OHR.JMTjibaou_PT-BR1657011012"
+    }
+  },
+  "KatmaiBear": {
+    "name": "KatmaiBear",
+    "urlbase": "/th?id=OHR.KatmaiBear_EN-GB1247114173",
+    "date": "20260822",
+    "dateFormatted": "August 22, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1545,281 +1732,68 @@
         "flag": "es"
       },
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
         "code": "en-IN",
         "name": "IN",
         "flag": "in"
       }
     ],
     "titles": {
-      "en-US": "Architecture of identity. International Day of the World's Indigenous Peoples",
-      "en-GB": "Architecture of identity. International Day of the World's Indigenous Peoples",
-      "en-CA": "Architecture of identity. International Day of the World's Indigenous Peoples",
-      "de-DE": "Architektur der Identität. Internationaler Tag der indigenen Völker der Welt",
-      "fr-FR": "Quand architecture et identité vont de pair. Journée internationale des peuples autochtones",
-      "it-IT": "Architettura dell'identità",
-      "es-ES": "Arquitectura con identidad. Día Internacional de los Pueblos Indígenas del Mundo",
-      "pt-BR": "A arquitetura da memória",
-      "ja-JP": "今日は世界の先住民の国際デー",
-      "zh-CN": "身份认同的建筑表达",
-      "en-IN": "Architecture of identity. International Day of the World's Indigenous Peoples"
+      "en-GB": "Meet Katmai's fishing giants. Brown bear, Katmai National Park, Alaska, United States",
+      "de-DE": "Der Fang des Tages. Braunbär beim Fischen im Fluss, Katmai-Nationalpark, Alaska, USA",
+      "fr-FR": "Que la pêche commence ! Parc national de Katmai, Alaska, États-Unis",
+      "it-IT": "Un pescatore professionista",
+      "es-ES": "Un pescador experto en manjares. Parque Nacional Katmai, Alaska, EE. UU.",
+      "en-IN": "Meet Katmai's fishing giants. Brown bear, Katmai National Park, Alaska, United States",
+      "en-US": "Meet Katmai's fishing giants. Brown bear fishing in river, Katmai National Park, Alaska",
+      "en-CA": "Meet Katmai's fishing giants. Brown bear fishing in river, Katmai National Park, Alaska, United States",
+      "pt-BR": "A pescaria mais famosa do Alasca. Urso-pardo pescando em um rio no Parque Nacional de Katmai, Alasca, Estados Unidos"
     },
     "copyrights": {
-      "en-US": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
-      "en-GB": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
-      "en-CA": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
-      "de-DE": "Tjibaou-Kulturzentrum, Neukaledonien (© Fabien Astre/Alamy)",
-      "fr-FR": "Centre culturel Tjibaou, Nouvelle-Calédonie (© Fabien Astre/Alamy)",
-      "it-IT": "Jean-Marie Tjibaou Cultural Centre, Nuova Caledonia (© Fabien Astre/Alamy)",
-      "es-ES": "Centro Cultural Jean-Marie Tjibaou, Nueva Caledonia (© Fabien Astre/Alamy)",
-      "pt-BR": "Centro Cultural Jean-Marie Tjibaou, Nouméa, Nova Caledônia (© Fabien Astre/Alamy)",
-      "ja-JP": "チバウ文化センター, ニューカレドニア (© Fabien Astre/Alamy)",
-      "zh-CN": "让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)",
-      "en-IN": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)"
+      "en-GB": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)",
+      "de-DE": "Braunbär beim Fischen im Fluss, Katmai-Nationalpark, Alaska, USA (© Pal Hermansen/Nature Picture Library)",
+      "fr-FR": "Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis (© Pal Hermansen/Nature Picture Library)",
+      "it-IT": "Pesca dell'orso bruno, Parco Nazionale e Riserva di Katmai, Alaska, USA (© Pal Hermansen/Nature Picture Library)",
+      "es-ES": "Oso pardo pescando en el río, Parque Nacional Katmai, Alaska, EE. UU. (© Pal Hermansen/Nature Picture Library)",
+      "en-IN": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)",
+      "en-US": "© Pal Hermansen/Nature Picture Library",
+      "en-CA": "© Pal Hermansen/Nature Picture Library",
+      "pt-BR": "© Pal Hermansen/Nature Picture Library"
     },
     "descs": {
-      "en-US": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the date marks a landmark 1982 meeting focused on protecting Indigenous rights worldwide. More than 476 million Indigenous people now live across about 90 countries, sustaining thousands of cultures and the majority of the world's roughly 7,000 languages.",
-      "en-GB": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the date marks a landmark 1982 meeting focused on protecting Indigenous rights worldwide. More than 476 million Indigenous people now live across about 90 countries, sustaining thousands of cultures and the majority of the world's roughly 7,000 languages.",
-      "en-CA": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the day honours Indigenous Peoples worldwide. More than 476 million Indigenous people live across about 90 countries, sustaining thousands of cultures and many of the world's roughly 7,000 languages. In Canada, First Nations, Inuit and Métis peoples each have distinct histories, traditions and languages that continue to shape the country's identity.",
-      "de-DE": "Am 9. August rückt der Internationale Tag der indigenen Völker der Welt die Vielfalt indigener Gemeinschaften in den Mittelpunkt. Die Vereinten Nationen riefen den Gedenktag 1994 ins Leben. Er wird seit 1995 begangen und erinnert an ein wichtiges Treffen von 1982, das dem Schutz indigener Rechte gewidmet war. Heute leben mehr als 476 Millionen indigene Menschen in rund 90 Ländern.",
-      "fr-FR": "Aujourd’hui, l’attention se porte sur les peuples autochtones du monde, dont les racines plongent bien au-delà des archives écrites. Depuis son institution par l’ONU en 1994, cette journée rappelle un tournant amorcé en 1982 pour la reconnaissance de leurs droits. Plus de 476 millions de femmes et d’hommes, répartis dans environ 90 pays, perpétuent des milliers de cultures et utilisent une part importante des quelque 7 000 langues parlées dans le monde. Leurs savoirs, intimement liés aux territoires, constituent une mémoire vivante de la planète.",
-      "es-ES": "En la península de Tina, en Nueva Caledonia, el Centro Cultural Jean-Marie Tjibaou se eleva sobre el paisaje como un gesto arquitectónico sin precedentes. Diseñado por Renzo Piano e inaugurado en 1998, sus estructuras curvas y alargadas evocan las cabañas tradicionales del pueblo kanak, aunque construidas con materiales y técnicas de última generación. Senderos que conectan espacios de arte, investigación y espectáculo tejen un relato en el que la cultura, la tierra y la comunidad son inseparables.",
-      "ja-JP": "今日 8 月 9 日は世界の先住民の国際デー。先住民の権利の保護と推進を目的として、1994 年に国連総会で制定されました。現在、約 90 の国や地域に、およそ 4 億 7600 万人の先住民が暮らしており、それぞれの地域に根ざした独自の言語、文化、伝統を受け継いでいます。今日の画像、ニューカレドニアのティナ半島にあるチバウ文化センターは、そうした文化遺産を象徴する施設です。イタリアの建築家レンゾ・ピアノによって設計されたこの建造物は、島の先住民族である「カナック族」の伝統や文化などを紹介する複合施設として、1998 年にオープンしました。カナック族の伝統家屋「カーズ」をモチーフに設計されており、巻貝のような形が特徴です。",
-      "en-IN": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the day commemorates a landmark 1982 meeting on Indigenous rights. More than 476 million Indigenous people live across about 90 countries, representing thousands of cultures and protecting an estimated 80% of the planet's remaining biodiversity despite making up around 6% of the global population.",
-      "it-IT": "Sulla penisola di Tina, in Nuova Caledonia, il Centro Culturale Jean-Marie Tjibaou si erge nel paesaggio come un gesto architettonico senza precedenti. Progettato da Renzo Piano e inaugurato nel 1998, le sue grandi strutture curve evocano le capanne tradizionali del popolo Kanak, pur essendo costruite con materiali e tecniche modernissime. I sentieri che collegano gli spazi dedicati all'arte, alla ricerca e alle performance tessono un racconto in cui cultura, territorio e comunità sono inseparabili.",
-      "pt-BR": "Nem toda inovação nasce da ruptura. Às vezes, ela nasce da continuidade. Nesta imagem do Centro Cultural Jean-Marie Tjibaou, na Nova Caledônia, dez grandes estruturas de madeira e aço parecem brotar do solo. Inaugurado em 1998, o conjunto se inspira nas antigas casas do povo kanak, continuando uma conversa iniciada muito antes de existir concreto, vidro ou arquitetura contemporânea.",
-      "zh-CN": "今天，世界土著人民国际日邀请我们更深入地了解那些历史远早于文字记载的社群。联合国于1994年设立这一纪念日，并于1995年首次举行活动；日期所纪念的是1982年一次致力于保护全球土著人民权利的重要会议。如今，约90个国家生活着超过4.76亿土著人民，他们延续着数千种文化，也传承着全球约7,000种语言中的大多数。"
+      "en-GB": "Meet Katmai's fishing giants. Brown bear fishing in river, Katmai National Park, Alaska, United States. At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins.",
+      "de-DE": "Im Katmai-Nationalpark in Alaska, Vereinigte Staaten, lebt mit rund 2200 Braunbären eine der größten Braunbärenpopulationen der Welt. Während der Wanderung der Rotlachse versammeln sich entlang des Brooks River oft zahlreiche Tiere. Mitunter lassen sich dort bis zu 40 Braunbären gleichzeitig beim Fischfang beobachten. Einige schnappen die Lachse direkt aus der Luft, andere suchen ihre Beute unter der Wasseroberfläche.",
+      "fr-FR": "Dans le parc national de Katmai, au sud-ouest de l’Alaska, l’été offre un véritable spectacle aux visiteurs. Durant la Semaine des parcs nationaux célébrée aux États-Unis, les regards se tournent vers la rivière Brooks. Les saumons rouges remontent le courant et bondissent hors de l’eau — une incroyable scène rythmée par les éclaboussures.",
+      "es-ES": "En el Parque Nacional de Katmai, en Alaska, Estados Unidos, el espectáculo no necesita escenario: los osos pardos esperan junto al río y, cuando el salmón salta, la función comienza. Este parque alberga una de las mayores concentraciones de osos pardos del planeta —unos 2.200 ejemplares—, y durante el paso del salmón rojo pueden llegar a reunirse hasta cuarenta de ellos en las cataratas del río Brooks para pescar: algunos atrapan el salmón en el aire, otros se sumergen directamente en busca del bocado.",
+      "en-IN": "Meet Katmai's fishing giants. Brown bear fishing in river, Katmai National Park, Alaska, United States. At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins.",
+      "en-US": "At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins. National Park Week—held in August this year—is the perfect time to celebrate these iconic bears and the wild home that helps them thrive.",
+      "en-CA": "In Alaska, some of the world's wildest wildlife spectacles unfold far from cities and roads. At Katmai National Park, brown bears line the river, and when the salmon jump, the show begins. Created in 1918 after the dramatic 1912 Novarupta volcanic eruption, the park protects more than 16,000 square kilometres of wilderness, including active volcanoes, tundra and salmon-rich rivers.",
+      "it-IT": "Nel Parco Nazionale di Katmai, in Alaska, Stati Uniti, lo spettacolo non ha bisogno di un palcoscenico: gli orsi bruni aspettano lungo il fiume e, quando il salmone salta, la scena ha inizio. Il parco ospita circa 2.200 orsi bruni, una delle concentrazioni più alte al mondo; durante la migrazione del salmone rosso, fino a quaranta esemplari si radunano alle cascate del fiume Brooks per pescare, alcuni afferrando il pesce in volo, altri tuffandosi direttamente.",
+      "pt-BR": "O restaurante abre uma vez por ano, não aceita reservas e serve um único prato: salmão fresco. A imagem mostra um urso-pardo no Parque Nacional Katmai, no Alasca, Estados Unidos, onde milhares de peixes enfrentam a correnteza para desovar e acabam protagonizando um dos maiores banquetes da natureza."
     },
-    "quickFacts": {
-      "zh-CN": "文化中心的十座高耸“构筑体”高度各异，其中最高的一座在新喀里多尼亚的景观中高达28米。"
-    },
+    "quickFacts": {},
     "captions": {
-      "en-US": "International Day of the World's Indigenous Peoples",
-      "en-GB": "International Day of the World's Indigenous Peoples",
-      "en-CA": "International Day of the World's Indigenous Peoples",
-      "de-DE": "Internationaler Tag der indigenen Völker der Welt",
-      "fr-FR": "Journée internationale des peuples autochtones",
+      "en-GB": "Brown bear, Katmai National Park, Alaska, United States",
+      "de-DE": "Braunbär beim Fischen im Fluss, Katmai-Nationalpark, Alaska, USA",
+      "fr-FR": "Parc national de Katmai, Alaska, États-Unis",
       "it-IT": "",
-      "es-ES": "Día Internacional de los Pueblos Indígenas del Mundo",
-      "pt-BR": "",
-      "ja-JP": "今日は世界の先住民の国際デー",
-      "zh-CN": "",
-      "en-IN": "International Day of the World's Indigenous Peoples"
+      "es-ES": "Parque Nacional Katmai, Alaska, EE. UU.",
+      "en-IN": "Brown bear, Katmai National Park, Alaska, United States"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=hpcapt&filters=HpDate%3a%2220260809_0700%22",
-      "en-GB": "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=hpcapt&filters=HpDate%3a%2220260808_2300%22",
-      "en-CA": "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=hpcapt&filters=HpDate%3a%2220260809_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+der+indigenen+V%c3%b6lker+der+Welt&form=hpcapt&filters=HpDate%3a%2220260808_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+des+peuples+autochtones&form=hpcapt&filters=HpDate%3a%2220260808_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+dei+Popoli+Indigeni+del+Mondo&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+los+Pueblos+Ind%c3%adgenas+del+Mundo&form=hpcapt&filters=HpDate%3a%2220260808_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+dos+Povos+Ind%c3%adgenas+do+Mundo&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e3%81%ae%e5%85%88%e4%bd%8f%e6%b0%91%e3%81%ae%e5%9b%bd%e9%9a%9b%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260808_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%9c%9f%e8%91%97%e4%ba%ba%e6%b0%91%e5%9b%bd%e9%99%85%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=hpcapt&filters=HpDate%3a%2220260808_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Katmai+National+Park&form=hpcapt&filters=HpDate%3a%2220260822_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Braunb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Ours+brun&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+e+Riserva+di+Katmai&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+Katmai+Alaska&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+      "en-IN": "https://www.bing.com/search?q=Katmai+National+Park&form=hpcapt&filters=HpDate%3a%2220260822_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.JMTjibaou_EN-US3454380257",
-      "en-GB": "/th?id=OHR.JMTjibaou_EN-GB3964962434",
-      "en-CA": "/th?id=OHR.JMTjibaou_EN-CA4738460132",
-      "de-DE": "/th?id=OHR.JMTjibaou_DE-DE7677372250",
-      "fr-FR": "/th?id=OHR.JMTjibaou_FR-FR6204350565",
-      "it-IT": "/th?id=OHR.JMTjibaou_IT-IT2902729380",
-      "es-ES": "/th?id=OHR.JMTjibaou_ES-ES9350648651",
-      "pt-BR": "/th?id=OHR.JMTjibaou_PT-BR1657011012",
-      "ja-JP": "/th?id=OHR.JMTjibaou_JA-JP3637480935",
-      "zh-CN": "/th?id=OHR.JMTjibaou_ZH-CN6992670356",
-      "en-IN": "/th?id=OHR.JMTjibaou_EN-IN0674088225"
-    }
-  },
-  "StocktonInfinity": {
-    "name": "StocktonInfinity",
-    "urlbase": "/th?id=OHR.StocktonInfinity_EN-US3006724421",
-    "date": "20260808",
-    "dateFormatted": "August 08, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Crossing into infinity. International Infinity Day",
-      "en-CA": "Crossing into infinity. Infinity Bridge in Stockton-on-Tees, northern England",
-      "pt-BR": "Uma obra sem começo nem fim",
-      "en-GB": "Crossing into infinity. International Infinity Day",
-      "it-IT": "Attraversare l'infinito",
-      "es-ES": "¡Hacia el Infinito y mucho más! Día Internacional del Infinito",
-      "ja-JP": "今日は無限大の日",
-      "zh-CN": "迈向无限",
-      "en-IN": "Crossing into infinity. International Infinity Day"
-    },
-    "copyrights": {
-      "en-US": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
-      "en-CA": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
-      "pt-BR": "Infinity Bridge, Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
-      "en-GB": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
-      "it-IT": "Ponte dell'Infinito a Stockton-on-Tees, Inghilterra (© Bahadir Yeniceri/Shutterstock)",
-      "es-ES": "Puente del Infinito en Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
-      "ja-JP": "インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock)",
-      "zh-CN": "蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)",
-      "en-IN": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "On August 8, curiosity takes center stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the day invites everyone to explore big ideas through science, art, and imagination. It's not just about math—it's also about possibilities, from the vastness of space to the limits of human creativity.",
-      "en-CA": "At first glance, it's just a bridge. Then the reflection changes everything. Infinity Bridge spans the River Tees in Stockton-on-Tees, England, where its two striking steel arches and their reflections create the shape of an infinity symbol, inspiring its name. Opened in 2009, the pedestrian and cycle bridge was designed by Expedition Engineering with architect Spence Associates as part of the regeneration of the town's riverside. Stretching about 240 metres, its tied-arch structure combines engineering efficiency with a distinctive appearance.",
-      "en-GB": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
-      "es-ES": "El Puente del Infinito de Stockton-on-Tees, en Inglaterra, inaugurado en 2009, no es solo una pasarela peatonal sobre el río Tees: es una lección de geometría convertida en experiencia. Sus dos arcos de acero asimétricos —uno el doble de alto y largo que el otro— se reflejan en el agua formando el símbolo del infinito, y de noche las luces LED de la pasarela cambian del azul al blanco al ritmo de los pasos de quienes la cruzan.",
-      "ja-JP": "今日 8 月 8 日は国際無限大の日 (International Infinity Day) 。ニューヨークの哲学者ジャン＝ピエール・アディ・フェニョによって創設されたもので、哲学や科学、芸術を通じて無限の可能性を探求する日です。そして画像は、イングランドの都市、ストックトン＝オン＝ティーズに架かるインフィニティ・ブリッジ。この独特な形状が特徴的な歩道橋は、橋本体と水面に反射した橋が一体となることで、無限大記号「∞」の形を描き出します。また、夜はライトアップされ、人が渡るたびに色が変化し、ダイナミックかつ近未来的な雰囲気を醸し出します。",
-      "en-IN": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
-      "it-IT": "A Stockton-on-Tees, in Inghilterra, c'è un ponte che non si limita ad attraversare un fiume: racconta una storia. Il Ponte dell'Infinito, inaugurato nel 2009, è una passerella pedonale sul Tees costruita con due archi d'acciaio asimmetrici — uno il doppio dell'altro — che si riflettono nell'acqua formando il simbolo matematico dell'infinito. Di notte, le luci LED cambiano dal blu al bianco al ritmo dei passi di chi lo percorre, trasformando ogni attraversamento in qualcosa di inaspettatamente coinvolgente.",
-      "pt-BR": "Existe uma data em que até o calendário faz uma piada matemática: 8 de agosto, ou 8/8. Virado de lado, o algarismo 8 se transforma no símbolo do infinito, usado para representar algo sem limite. Essa é a inspiração do Dia Internacional do Infinito, criado em 1987 pelo filósofo Jean-Pierre Ady Fenyo para despertar curiosidade sobre conceitos que atravessam números, descobertas e imaginação.",
-      "zh-CN": "8月8日，国际无限日让好奇心成为主角。这项庆祝活动的灵感来自横置的数字8——象征永无止境的无限符号。纽约哲学家让-皮埃尔·阿迪·费尼奥于1987年创立这一节日，邀请每个人通过科学、艺术和想象力探索宏大理念。它不只关乎数学，也关乎从浩瀚宇宙到人类创造力边界的种种可能。"
-    },
-    "quickFacts": {
-      "zh-CN": "由于无法设置中央桥墩，无限桥采用不等高系杆拱和倒置鞍形结构，为180米长的桥身增强刚度。"
-    },
-    "captions": {
-      "en-US": "International Infinity Day",
-      "en-CA": "Infinity Bridge in Stockton-on-Tees, northern England",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260808_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Infinity+Bridge+England&form=hpcapt&filters=HpDate%3a%2220260808_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=o+infinito&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.StocktonInfinity_EN-US3006724421",
-      "en-CA": "/th?id=OHR.StocktonInfinity_EN-CA4539873012",
-      "pt-BR": "/th?id=OHR.StocktonInfinity_PT-BR1264731427"
-    }
-  },
-  "CommonBlue": {
-    "name": "CommonBlue",
-    "urlbase": "/th?id=OHR.CommonBlue_EN-GB1147628721",
-    "date": "20260821",
-    "dateFormatted": "August 21, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Sky tinted wings. Common blue butterfly",
-      "de-DE": "Himmelblaue Flügel. Hauhechel-Bläuling, Devon, England",
-      "fr-FR": "De délicates ailes azur. Argus bleu",
-      "ja-JP": "花と蝶の紫色のハーモニー",
-      "zh-CN": "普通蓝灰蝶，德文郡，英格兰",
-      "en-IN": "Sky tinted wings. Common blue butterfly",
-      "en-US": "Sky tinted wings. Common blue butterfly, Devon, England",
-      "en-CA": "Sky tinted wings. Common blue butterfly, Devon, England"
-    },
-    "copyrights": {
-      "en-GB": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
-      "de-DE": "Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)",
-      "fr-FR": "Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)",
-      "ja-JP": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)",
-      "zh-CN": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
-      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
-      "en-US": "© Ross Hoddinott/Nature Picture Library",
-      "en-CA": "© Ross Hoddinott/Nature Picture Library"
-    },
-    "descs": {
-      "en-GB": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
-      "de-DE": "Der Hauhechel-Bläuling gehört zu den bekanntesten Tagfaltern Europas. In Devon im Südwesten Englands ist er regelmäßig auf blütenreichen Wiesen, an Küstenhängen und entlang ruhiger Landwege zu beobachten. Besonders an sonnigen Tagen flattert er zwischen Wildblumen umher und zeigt dabei seine leuchtend blaue Flügelfärbung. Die Art bevorzugt offene Lebensräume mit einem reichen Angebot an Nektarpflanzen und trägt zur Vielfalt dieser Landschaften bei. Wegen seiner auffälligen Erscheinung ist der kleine Falter bei Naturfreunden und Fotografen gleichermaßen beliebt.",
-      "fr-FR": "Un éclair bleu traverse une prairie en fleurs, puis disparaît presque aussitôt. Derrière cette apparition fugace se cache pourtant un cycle de vie remarquable. Répandu dans une grande partie de l’Europe, en Afrique du Nord et dans certaines régions d’Asie, l’Argus bleu, aussi appelé Azuré commun (Polyommatus icarus), commence son cycle sous la forme d’un minuscule œuf déposé sur des plantes nourricières comme le lotier corniculé. Après l’éclosion, la chenille se nourrit de feuilles, grandissant à l’abri des regards dans un paysage animé d’insectes et de floraisons.",
-      "ja-JP": "今日の画像は、シジミチョウ科の一種であるイカルスヒメシジミ。ヨーロッパや北アフリカ、温帯アジアに広く分布する蝶です。この科の多くは、何らかの形でアリと共生関係にあることで知られており、イカルスヒメシジミの場合は、幼虫期にアリの餌となる甘い分泌物を出すことでアリに天敵から守ってもらうという関係を築いています。また、その他の特徴として、成虫のオスは鮮やかな青色の翅を持つ一方、メスは褐色を帯びた落ち着いた色合いをしており、オスとメスで見た目がはっきりと異なるという特徴があります。",
-      "en-IN": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
-      "en-US": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa, and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the cocooned caterpillar from predators.",
-      "en-CA": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the caterpillar from predators.",
-      "zh-CN": "田野中那一抹迅速掠过的蓝色背后，有一个开始得早得多的故事，故事的主角是一只小小的毛毛虫和一种令人惊讶的生存妙招。普通蓝灰蝶分布于欧洲、北非和亚洲部分地区，成虫以花蜜为食。它的生命始于一枚小小的卵，雌蝶通常会将卵产在百脉根等寄主植物上。真正令人惊讶的是它的毛毛虫阶段，此时蚂蚁会在其生存过程中扮演一个出人意料的角色。孵化后，毛毛虫会啃食叶片，然后进入蜕变的下一个阶段。在这一过程中，它会分泌一种名为蜜露的含糖物质，供蚂蚁取食。作为回报，蚂蚁可能会保护结茧的毛毛虫免受捕食者侵害。"
-    },
-    "quickFacts": {
-      "en-US": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favorable patches of flowers.",
-      "en-GB": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
-      "en-CA": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
-      "de-DE": "Trotz ihres zarten Aussehens vertreiben männliche Hauhechel-Bläulinge aktiv rivalisierende Männchen und manchmal sogar größere Insekten von ihren bevorzugten Blütenplätzen.",
-      "fr-FR": "Malgré leur apparence fragile, les argus bleus mâles chassent activement leurs rivaux — et parfois même des insectes plus grands — des zones fleuries les plus prisées.",
-      "zh-CN": "尽管外表纤弱，雄性普通蓝灰蝶仍会主动将竞争的雄蝶——有时甚至是体型更大的昆虫——逐出花朵繁茂的有利地盘。",
-      "en-IN": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers."
-    },
-    "captions": {
-      "en-GB": "Common blue butterfly",
-      "de-DE": "Hauhechel-Bläuling, Devon, England",
-      "fr-FR": "Argus bleu",
-      "ja-JP": "花と蝶の紫色のハーモニー",
-      "zh-CN": "",
-      "en-IN": "Common blue butterfly"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260821_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Hauhechel-Bl%c3%a4uling&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Argus+bleu&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%ab%e3%83%ab%e3%82%b9%e3%83%92%e3%83%a1%e3%82%b7%e3%82%b8%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220260821_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%99%ae%e9%80%9a%e8%93%9d%e7%81%b0%e8%9d%b6&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260821_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.CommonBlue_EN-GB1147628721",
-      "de-DE": "/th?id=OHR.CommonBlue_DE-DE9673283581",
-      "fr-FR": "/th?id=OHR.CommonBlue_FR-FR7050471063",
-      "ja-JP": "/th?id=OHR.CommonBlue_JA-JP8682246058",
-      "zh-CN": "/th?id=OHR.CommonBlue_ZH-CN8521430009",
-      "en-IN": "/th?id=OHR.CommonBlue_EN-IN9476454539"
+      "en-GB": "/th?id=OHR.KatmaiBear_EN-GB1247114173",
+      "de-DE": "/th?id=OHR.KatmaiBear_DE-DE4863569312",
+      "fr-FR": "/th?id=OHR.KatmaiBear_FR-FR3593143405",
+      "it-IT": "/th?id=OHR.KatmaiBear_IT-IT0998174582",
+      "es-ES": "/th?id=OHR.KatmaiBear_ES-ES8288785894",
+      "en-IN": "/th?id=OHR.KatmaiBear_EN-IN9565722566"
     }
   },
   "WhyteCliffP": {
@@ -2289,6 +2263,38 @@
       "es-ES": "/th?id=OHR.LloretdeMar_ES-ES9587440947"
     }
   },
+  "FolkRJ": {
+    "name": "FolkRJ",
+    "urlbase": "/th?id=OHR.FolkRJ_PT-BR6598036806",
+    "date": "20260822",
+    "dateFormatted": "August 22, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "A longa dança da história"
+    },
+    "copyrights": {
+      "pt-BR": "Integrantes da Salgueiro na Marquês de Sapucaí em 2022, Rio de Janeiro (© MAURO PIMENTEL/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Algumas histórias vivem no papel. O Dia do Folclore celebra as que atravessam gerações cantadas, dançadas, bordadas e reinventadas. A palavra \"folklore\" nasceu na Inglaterra, em 1846, para definir os saberes de um povo, mas no Brasil ganhou ritmos, cores e vozes moldados por séculos de encontros entre indígenas, africanos e europeus. Por aqui, o Saci apronta, a Iara encanta rios, o Boto muda de forma e o Curupira insiste em despistar quem entra na mata. Bumba Meu Boi, frevo, maracatu, carimbó, fandango, cordel, capoeira, repentes, cantigas e receitas continuam circulando de voz em voz, de mãos em mãos e de festa em festa."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Dia+do+Folclore&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.FolkRJ_PT-BR6598036806"
+    }
+  },
   "StuDay": {
     "name": "StuDay",
     "urlbase": "/th?id=OHR.StuDay_PT-BR3798231635",
@@ -2351,6 +2357,38 @@
     },
     "urlbases": {
       "pt-BR": "/th?id=OHR.Golfinhos_PT-BR2634808905"
+    }
+  },
+  "ShizuokaSummer2026": {
+    "name": "ShizuokaSummer2026",
+    "urlbase": "/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076",
+    "date": "20260822",
+    "dateFormatted": "August 22, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は処暑"
+    },
+    "copyrights": {
+      "ja-JP": "夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日は処暑. 夏の森を潤す清流, 静岡県. 今日 8 月 23 日は二十四節気の一つ、「処暑」です。次の二十四節気である「白露」までの期間を指す言葉でもあり、厳しい夏の暑さが峠を越え、少しずつ秋の気配が感じられる頃とされています。そして、今日の画像は、静岡県内を流れる川の風景。自然豊かな川辺は真夏でも涼しさを感じることができ、夏の終わりにキャンプや散策を楽しむのにもぴったりの場所です。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は処暑"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e5%a4%8f%e3%81%ae%e6%a3%ae%e3%82%92%e6%bd%a4%e3%81%99%e6%b8%85%e6%b5%81&form=hpcapt&filters=HpDate%3a%2220260822_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076"
     }
   },
   "Shimoda2026": {
@@ -2417,6 +2455,40 @@
       "ja-JP": "/th?id=OHR.MountainDay2026_JA-JP4675980762"
     }
   },
+  "EndofHeatY26": {
+    "name": "EndofHeatY26",
+    "urlbase": "/th?id=OHR.EndofHeatY26_ZH-CN8936468848",
+    "date": "20260822",
+    "dateFormatted": "August 22, 2026",
+    "markets": [
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "zh-CN": "在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国"
+    },
+    "copyrights": {
+      "zh-CN": "在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)"
+    },
+    "descs": {
+      "zh-CN": "处暑时节将至，航拍视角下的古塔迎着晨雾耸立于渐染秋色的林木之间，生动呈现了暑气消退、金秋将至的自然韵律，以及中国传统文化景观的悠久魅力 。这一时节的传统习俗包括放河灯、迎秋赏景以及饮用中草药煎剂（如凉茶/防暑汤），以调和四季交替时的身体平衡 。"
+    },
+    "quickFacts": {
+      "zh-CN": "“处暑”标志着气温开始回落，预示着长江三角洲地区金秋收获季节的开启。"
+    },
+    "captions": {
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "zh-CN": "https://www.bing.com/search?q=%e5%a4%84%e6%9a%91%e8%8a%82%e6%b0%94&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "zh-CN": "/th?id=OHR.EndofHeatY26_ZH-CN8936468848"
+    }
+  },
   "IndependenceDay2026": {
     "name": "IndependenceDay2026",
     "urlbase": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628",
@@ -2447,6 +2519,80 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+    }
+  },
+  "StocktonInfinity": {
+    "name": "StocktonInfinity",
+    "urlbase": "/th?id=OHR.StocktonInfinity_EN-US3006724421",
+    "date": "20260808",
+    "dateFormatted": "August 08, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Crossing into infinity. International Infinity Day",
+      "en-CA": "Crossing into infinity. Infinity Bridge in Stockton-on-Tees, northern England",
+      "pt-BR": "Uma obra sem começo nem fim",
+      "en-GB": "Crossing into infinity. International Infinity Day",
+      "it-IT": "Attraversare l'infinito",
+      "es-ES": "¡Hacia el Infinito y mucho más! Día Internacional del Infinito",
+      "ja-JP": "今日は無限大の日",
+      "zh-CN": "迈向无限",
+      "en-IN": "Crossing into infinity. International Infinity Day"
+    },
+    "copyrights": {
+      "en-US": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
+      "en-CA": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
+      "pt-BR": "Infinity Bridge, Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
+      "en-GB": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
+      "it-IT": "Ponte dell'Infinito a Stockton-on-Tees, Inghilterra (© Bahadir Yeniceri/Shutterstock)",
+      "es-ES": "Puente del Infinito en Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
+      "ja-JP": "インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock)",
+      "zh-CN": "蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)",
+      "en-IN": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "On August 8, curiosity takes center stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the day invites everyone to explore big ideas through science, art, and imagination. It's not just about math—it's also about possibilities, from the vastness of space to the limits of human creativity.",
+      "en-CA": "At first glance, it's just a bridge. Then the reflection changes everything. Infinity Bridge spans the River Tees in Stockton-on-Tees, England, where its two striking steel arches and their reflections create the shape of an infinity symbol, inspiring its name. Opened in 2009, the pedestrian and cycle bridge was designed by Expedition Engineering with architect Spence Associates as part of the regeneration of the town's riverside. Stretching about 240 metres, its tied-arch structure combines engineering efficiency with a distinctive appearance.",
+      "en-GB": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
+      "es-ES": "El Puente del Infinito de Stockton-on-Tees, en Inglaterra, inaugurado en 2009, no es solo una pasarela peatonal sobre el río Tees: es una lección de geometría convertida en experiencia. Sus dos arcos de acero asimétricos —uno el doble de alto y largo que el otro— se reflejan en el agua formando el símbolo del infinito, y de noche las luces LED de la pasarela cambian del azul al blanco al ritmo de los pasos de quienes la cruzan.",
+      "ja-JP": "今日 8 月 8 日は国際無限大の日 (International Infinity Day) 。ニューヨークの哲学者ジャン＝ピエール・アディ・フェニョによって創設されたもので、哲学や科学、芸術を通じて無限の可能性を探求する日です。そして画像は、イングランドの都市、ストックトン＝オン＝ティーズに架かるインフィニティ・ブリッジ。この独特な形状が特徴的な歩道橋は、橋本体と水面に反射した橋が一体となることで、無限大記号「∞」の形を描き出します。また、夜はライトアップされ、人が渡るたびに色が変化し、ダイナミックかつ近未来的な雰囲気を醸し出します。",
+      "en-IN": "On 8 August, curiosity takes centre stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the date (8/8) was chosen because the number 8, when turned on its side, becomes the infinity symbol, or lemniscate, first introduced by English mathematician John Wallis in 1655. The day celebrates philosophy, science, art and the endless possibilities of human imagination.",
+      "it-IT": "A Stockton-on-Tees, in Inghilterra, c'è un ponte che non si limita ad attraversare un fiume: racconta una storia. Il Ponte dell'Infinito, inaugurato nel 2009, è una passerella pedonale sul Tees costruita con due archi d'acciaio asimmetrici — uno il doppio dell'altro — che si riflettono nell'acqua formando il simbolo matematico dell'infinito. Di notte, le luci LED cambiano dal blu al bianco al ritmo dei passi di chi lo percorre, trasformando ogni attraversamento in qualcosa di inaspettatamente coinvolgente.",
+      "pt-BR": "Existe uma data em que até o calendário faz uma piada matemática: 8 de agosto, ou 8/8. Virado de lado, o algarismo 8 se transforma no símbolo do infinito, usado para representar algo sem limite. Essa é a inspiração do Dia Internacional do Infinito, criado em 1987 pelo filósofo Jean-Pierre Ady Fenyo para despertar curiosidade sobre conceitos que atravessam números, descobertas e imaginação.",
+      "zh-CN": "8月8日，国际无限日让好奇心成为主角。这项庆祝活动的灵感来自横置的数字8——象征永无止境的无限符号。纽约哲学家让-皮埃尔·阿迪·费尼奥于1987年创立这一节日，邀请每个人通过科学、艺术和想象力探索宏大理念。它不只关乎数学，也关乎从浩瀚宇宙到人类创造力边界的种种可能。"
+    },
+    "quickFacts": {
+      "zh-CN": "由于无法设置中央桥墩，无限桥采用不等高系杆拱和倒置鞍形结构，为180米长的桥身增强刚度。"
+    },
+    "captions": {
+      "en-US": "International Infinity Day",
+      "en-CA": "Infinity Bridge in Stockton-on-Tees, northern England",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260808_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Infinity+Bridge+England&form=hpcapt&filters=HpDate%3a%2220260808_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=o+infinito&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.StocktonInfinity_EN-US3006724421",
+      "en-CA": "/th?id=OHR.StocktonInfinity_EN-CA4539873012",
+      "pt-BR": "/th?id=OHR.StocktonInfinity_PT-BR1264731427"
     }
   },
   "RhineFlames": {
