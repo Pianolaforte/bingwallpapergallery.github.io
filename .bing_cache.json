@@ -1,4 +1,137 @@
 {
+  "BKBridge": {
+    "name": "BKBridge",
+    "urlbase": "/th?id=OHR.BKBridge_EN-US2923468858",
+    "date": "20260824",
+    "dateFormatted": "August 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Crossing into history. Brooklyn Bridge, New York City",
+      "en-GB": "Crossing into history. Brooklyn Bridge, New York City, United States",
+      "en-CA": "Crossing into history. Brooklyn Bridge, New York City, United States",
+      "de-DE": "Brücke der Visionen. Brooklyn Bridge, New York City, USA",
+      "fr-FR": "Bien plus qu’un pont. Pont de Brooklyn, New York, États-Unis",
+      "it-IT": "Attraversare la storia",
+      "es-ES": "Rompiendo el techo de cristal. Puente de Brooklyn, Nueva York, EE. UU.",
+      "ja-JP": "イースト川を彩る歴史の架け橋",
+      "zh-CN": "布鲁克林大桥，纽约市，美国",
+      "en-IN": "Crossing into history. Brooklyn Bridge, New York City, United States"
+    },
+    "copyrights": {
+      "en-US": "Brooklyn Bridge, New York City (© shayes17/Getty Images)",
+      "en-GB": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
+      "en-CA": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
+      "de-DE": "Brooklyn Bridge, New York, USA (© shayes17/Getty Images)",
+      "fr-FR": "Pont de Brooklyn, New York, États-Unis (© shayes17/Getty Images)",
+      "it-IT": "Ponte di Brooklyn, New York City, USA (© shayes17/Getty Images)",
+      "es-ES": "Puente de Brooklyn, Nueva York, EE. UU. (© shayes17/Getty Images)",
+      "ja-JP": "ブルックリン橋, 米国 ニューヨーク州 (© shayes17/Getty Images)",
+      "zh-CN": "布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)",
+      "en-IN": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)"
+    },
+    "descs": {
+      "en-US": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn—it bridges history, engineering, and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
+      "en-GB": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn in the United States—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
+      "en-CA": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
+      "de-DE": "Die Brooklyn Bridge verbindet Manhattan und Brooklyn über den East River und zählt zu den bekanntesten Wahrzeichen von New York City in den Vereinigten Staaten. Nach einer Bauzeit von 14 Jahren wurde sie 1883 eröffnet und war eine der ersten großen Hängebrücken mit Stahlseilen. Ihr Bau stellte für die damalige Zeit eine technische Meisterleistung dar und veränderte den Verkehr zwischen den beiden Stadtteilen nachhaltig.",
+      "fr-FR": "Dominant l’East River (États-Unis), le pont de Brooklyn relie bien plus que deux arrondissements de New York. Inauguré en 1883 après quatorze ans de travaux, il fut le premier grand pont suspendu à câbles d’acier, transformant durablement les déplacements entre Manhattan et Brooklyn.",
+      "es-ES": "El puente de Brooklyn, en Nueva York, Estados Unidos, no es solo una conexión entre dos orillas: es un monumento a la ingeniería del siglo XIX y a la tenacidad humana. Inaugurado en 1883 tras catorce años de obras, fue el primer puente colgante de cables de acero del mundo. Su construcción tuvo un giro inesperado: cuando el diseñador John A. Roebling falleció y su hijo Washington quedó incapacitado, fue su esposa Emily Warren Roebling quien aprendió ingeniería para supervisar la finalización del proyecto.",
+      "ja-JP": "今日の画像は、米国・ニューヨークのランドマークとして親しまれているブルックリン橋。設計者はジョン・A・ローブリングで、彼の死後、その遺志を継いだ息子夫婦が、14年の歳月をかけて 1883 年に完成させました。世界初の鋼鉄製吊り橋であり、ニューヨーク市のマンハッタン区とブルックリン区を結ぶ米国内で最も古い吊橋の一つです。その美しい景観から人気の観光地・撮影スポットとして知られるほか、古くから様々な映画のロケ地としても使用されています。",
+      "en-IN": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn in the United States—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
+      "it-IT": "Il Ponte di Brooklyn, a New York, Stati Uniti, non collega soltanto Manhattan e Brooklyn: unisce storia, ingegneria e qualche storia sorprendente. Inaugurato nel 1883 dopo quattordici anni di lavori, fu il primo ponte sospeso con cavi d'acciaio al mondo. La sua costruzione ebbe un risvolto inatteso: quando il progettista John A. Roebling morì e il figlio Washington si ammalò gravemente, fu la moglie Emily Warren Roebling a studiare ingegneria e matematica per portare a termine il progetto.",
+      "zh-CN": "布鲁克林大桥连接的不只是曼哈顿和布鲁克林——它还连接着历史、工程学以及几个令人惊讶的故事。大桥历经14年建造，于1883年开放，成为世界上第一座钢丝悬索桥，永久改变了纽约人跨越东河的方式。"
+    },
+    "quickFacts": {
+      "zh-CN": "2024年，布鲁克林大桥日均承载103,051辆机动车、28,845名行人和5,504名骑行者。"
+    },
+    "captions": {
+      "en-US": "Brooklyn Bridge, New York City",
+      "en-GB": "Brooklyn Bridge, New York City, United States",
+      "en-CA": "Brooklyn Bridge, New York City, United States",
+      "de-DE": "Brooklyn Bridge, New York City, USA",
+      "fr-FR": "Pont de Brooklyn, New York, États-Unis",
+      "it-IT": "",
+      "es-ES": "Puente de Brooklyn, Nueva York, EE. UU.",
+      "ja-JP": "イースト川を彩る歴史の架け橋",
+      "zh-CN": "",
+      "en-IN": "Brooklyn Bridge, New York City, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260824_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260824_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=pont+de+Brooklyn&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Ponte+di+Brooklyn&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Puente+de+Brooklyn&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%96%e3%83%ab%e3%83%83%e3%82%af%e3%83%aa%e3%83%b3%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260823_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b8%83%e9%b2%81%e5%85%8b%e6%9e%97%e5%a4%a7%e6%a1%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BKBridge_EN-US2923468858",
+      "en-GB": "/th?id=OHR.BKBridge_EN-GB1324235273",
+      "en-CA": "/th?id=OHR.BKBridge_EN-CA9847334652",
+      "de-DE": "/th?id=OHR.BKBridge_DE-DE5037319514",
+      "fr-FR": "/th?id=OHR.BKBridge_FR-FR7150855439",
+      "it-IT": "/th?id=OHR.BKBridge_IT-IT1092253957",
+      "es-ES": "/th?id=OHR.BKBridge_ES-ES8423562789",
+      "ja-JP": "/th?id=OHR.BKBridge_JA-JP9540004516",
+      "zh-CN": "/th?id=OHR.BKBridge_ZH-CN3870511222",
+      "en-IN": "/th?id=OHR.BKBridge_EN-IN9646645592"
+    }
+  },
   "KatmaiBear": {
     "name": "KatmaiBear",
     "urlbase": "/th?id=OHR.KatmaiBear_EN-US2844742219",
@@ -619,7 +752,7 @@
       "es-ES": "Geometría de una ciudad estelar. Palmanova, una ciudad fortaleza en Friul-Venecia Julia, Italia",
       "pt-BR": "Nasce uma estrela",
       "ja-JP": "上空から見る星形要塞都市",
-      "zh-CN": "弗留利要塞城市帕尔马诺瓦航拍图，意大利",
+      "zh-CN": "星形城市的几何之美",
       "en-IN": "Geometry of a star city. Aerial view of Palmanova, a fortress city in Friuli, Italy"
     },
     "copyrights": {
@@ -1497,29 +1630,9 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
       },
       {
         "code": "es-ES",
@@ -1530,51 +1643,41 @@
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Copenhagen in full color. Nyhavn Canal, Copenhagen, Denmark",
-      "en-GB": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
       "en-CA": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "es-ES": "Copenhague a todo color. Canal de Nyhavn, Copenhague, Dinamarca",
+      "pt-BR": "Um porto entre capítulos",
+      "en-GB": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
       "de-DE": "Kopenhagen in voller Farbe. Nyhavn-Kanal, Kopenhagen, Dänemark",
       "fr-FR": "Copenhague haute en couleur. Canal Nyhavn, Copenhague, Danemark",
       "it-IT": "Copenaghen a colori",
-      "es-ES": "Copenhague a todo color. Canal de Nyhavn, Copenhague, Dinamarca",
-      "pt-BR": "Um porto entre capítulos",
       "zh-CN": "绚丽多彩的哥本哈根",
       "en-IN": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
       "ja-JP": "静かな水面に映るカラフルな街並み"
     },
     "copyrights": {
       "en-US": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "en-GB": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
       "en-CA": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "es-ES": "Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
+      "pt-BR": "Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
+      "en-GB": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
       "de-DE": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
       "fr-FR": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
       "it-IT": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
-      "es-ES": "Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
-      "pt-BR": "Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
       "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)",
       "en-IN": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
       "ja-JP": "ニューハウン, デンマーク (© emicristea/Getty Images)"
     },
     "descs": {
       "en-US": "In Copenhagen, Nyhavn Canal is a burst of color and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships.",
-      "en-GB": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
       "en-CA": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
+      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
+      "en-GB": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
       "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
       "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
-      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
       "en-IN": "In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks.",
       "ja-JP": "ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
       "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
@@ -1586,219 +1689,82 @@
     },
     "captions": {
       "en-US": "Nyhavn Canal, Copenhagen, Denmark",
-      "en-GB": "Nyhavn Canal, Copenhagen, Denmark",
       "en-CA": "Nyhavn Canal, Copenhagen, Denmark",
-      "de-DE": "Nyhavn-Kanal, Kopenhagen, Dänemark",
-      "fr-FR": "Canal Nyhavn, Copenhague, Danemark",
-      "it-IT": "",
       "es-ES": "Canal de Nyhavn, Copenhague, Dinamarca",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Nyhavn Canal, Copenhagen, Denmark"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260811_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260810_2300%22",
       "en-CA": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260811_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Nyhavn-Kanal+Kopenhagen&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Canal+Nyhavn+Copenhague&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Copenaghen&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Canal+de+Nyhavn+en+Copenhague&form=hpcapt&filters=HpDate%3a%2220260812_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Canal+Nyhavn+Dinamarca&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%93%a5%e6%9c%ac%e5%93%88%e6%a0%b9%e6%96%b0%e6%b8%af%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260810_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Canal+Nyhavn+Dinamarca&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.ColorfulCop_EN-US3993977654",
-      "en-GB": "/th?id=OHR.ColorfulCop_EN-GB4254714055",
       "en-CA": "/th?id=OHR.ColorfulCop_EN-CA5069380652",
-      "de-DE": "/th?id=OHR.ColorfulCop_DE-DE9077062253",
-      "fr-FR": "/th?id=OHR.ColorfulCop_FR-FR8595384019",
-      "it-IT": "/th?id=OHR.ColorfulCop_IT-IT3126463813",
       "es-ES": "/th?id=OHR.ColorfulCop_ES-ES0268766801",
-      "pt-BR": "/th?id=OHR.ColorfulCop_PT-BR4548843545",
-      "zh-CN": "/th?id=OHR.ColorfulCop_ZH-CN8015611442",
-      "en-IN": "/th?id=OHR.ColorfulCop_EN-IN0862473585"
+      "pt-BR": "/th?id=OHR.ColorfulCop_PT-BR4548843545"
     }
   },
-  "SandPath": {
-    "name": "SandPath",
-    "urlbase": "/th?id=OHR.SandPath_EN-US3759872156",
-    "date": "20260810",
-    "dateFormatted": "August 10, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Where two deserts collide. Joshua Tree National Park, California",
-      "en-CA": "Where two deserts collide. Joshua Tree National Park in California, United States",
-      "en-GB": "Where two deserts collide. Joshua Tree National Park, California, United States",
-      "de-DE": "Wo zwei Wüsten aufeinandertreffen. Joshua-Tree-Nationalpark, Kalifornien, USA",
-      "fr-FR": "Un point de rencontre aride. Parc national Joshua Tree, Californie, États-Unis",
-      "es-ES": "Donde chocan dos desiertos. Parque Nacional Joshua Tree, California, EE. UU.",
-      "zh-CN": "两片沙漠交汇之地",
-      "en-IN": "Where two deserts collide. Joshua Tree National Park, California, United States"
-    },
-    "copyrights": {
-      "en-US": "Joshua Tree National Park, California (© JJ Landscapes/Getty Images)",
-      "en-CA": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
-      "en-GB": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
-      "de-DE": "Joshua-Tree-Nationalpark, Kalifornien, USA (© JJ Landscapes/Getty Images)",
-      "fr-FR": "Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images)",
-      "es-ES": "Parque Nacional Joshua Tree, California, EE. UU. (© JJ Landscapes/Getty Images)",
-      "zh-CN": "约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)",
-      "en-IN": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerizing landscape shaped by wind, time, and extremes. In Southern California, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
-      "en-CA": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
-      "en-GB": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
-      "de-DE": "Wo zwei Wüstenlandschaften aufeinandertreffen, entfaltet der Joshua-Tree-Nationalpark im US-Bundesstaat Kalifornien eine außergewöhnliche Szenerie. Das Schutzgebiet im Südwesten der USA verbindet die höher gelegene Mojave-Wüste mit der heißeren Colorado-Wüste und schafft dadurch vielfältige Lebensräume. Auf einer Fläche von mehr als 3.200 Quadratkilometern prägen die charakteristischen Joshua-Palmlilien das Bild. Zwischen sandigen Ebenen und mächtigen Granitfelsen entstehen eindrucksvolle Kontraste, die diese Landschaft unverwechselbar machen. Wind, Erosion und starke Temperaturschwankungen haben die Felsformationen über Millionen von Jahren geformt.",
-      "fr-FR": "À l’endroit où se rencontrent deux grands déserts du sud de la Californie (États-Unis), le parc national Joshua Tree révèle un paysage spectaculaire façonné par les vents, les contrastes climatiques et les millénaires. Le désert de Mojave, situé en altitude, rejoint le désert du Colorado, plus chaud, créant une remarquable diversité de milieux naturels.",
-      "es-ES": "Donde el desierto de Mojave y el desierto de Colorado se encuentran, el Parque Nacional Joshua Tree, en California, EE. UU., despliega un paisaje de belleza perturbadora: llanuras arenosas salpicadas de yucas de silueta retorcida, bloques de granito esculpidos durante millones de años y un silencio que solo rompen el viento y los buitres. Este territorio —declarado monumento nacional un día como hoy en 1936 y elevado a parque nacional en 1994— abarca unas 320.000 hectáreas de ecosistemas únicos.",
-      "en-IN": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
-      "zh-CN": "两片大沙漠交汇之处，约书亚树国家公园展现出由风、时间和极端环境塑造的冷峻迷人景观。在南加利福尼亚州，海拔较高的莫哈韦沙漠与更炎热、地势更低的科罗拉多沙漠相融，形成独特的生态系统组合与非凡的生物多样性。"
-    },
-    "quickFacts": {
-      "zh-CN": "约书亚树地区的二长花岗岩最初是熔融岩体，在一亿多年前于地下冷却形成。"
-    },
-    "captions": {
-      "en-US": "Joshua Tree National Park, California",
-      "en-CA": "Joshua Tree National Park in California, United States"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260810_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260810_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.SandPath_EN-US3759872156",
-      "en-CA": "/th?id=OHR.SandPath_EN-CA4913487409"
-    }
-  },
-  "BKBridge": {
-    "name": "BKBridge",
-    "urlbase": "/th?id=OHR.BKBridge_EN-GB1324235273",
-    "date": "20260823",
-    "dateFormatted": "August 23, 2026",
+  "SantaCatarina": {
+    "name": "SantaCatarina",
+    "urlbase": "/th?id=OHR.SantaCatarina_EN-GB1458336075",
+    "date": "20260824",
+    "dateFormatted": "August 24, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
-      "en-GB": "Crossing into history. Brooklyn Bridge, New York City, United States",
-      "de-DE": "Brücke der Visionen. Brooklyn Bridge, New York City, USA",
-      "fr-FR": "Bien plus qu’un pont. Pont de Brooklyn, New York, États-Unis",
-      "it-IT": "Attraversare la storia",
-      "es-ES": "Rompiendo el techo de cristal. Puente de Brooklyn, Nueva York, EE. UU.",
-      "ja-JP": "イースト川を彩る歴史の架け橋",
-      "zh-CN": "布鲁克林大桥，纽约市，美国",
-      "en-IN": "Crossing into history. Brooklyn Bridge, New York City, United States",
-      "en-US": "Crossing into history. Brooklyn Bridge, New York City",
-      "en-CA": "Crossing into history. Brooklyn Bridge, New York City, United States"
+      "en-GB": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
+      "en-US": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
+      "en-CA": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
+      "de-DE": "Zwischen den Wellen lesen. Luftaufnahme von Surfern, Santa Catarina, Brasilien",
+      "fr-FR": "L'art de lire entre les vagues. Vue aérienne de surfeurs, Santa Catarina, Brésil",
+      "it-IT": "Studiando le maree. Veduta aerea di surfisti a Santa Catarina, Brasile",
+      "es-ES": "Estudiando la marea. Vista aérea de surfistas, Santa Catarina, Brasil",
+      "pt-BR": "Os intérpretes das marés. Vista aérea de surfistas em Santa Catarina",
+      "zh-CN": "冲浪者航拍图，圣卡塔琳娜州，巴西",
+      "en-IN": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil"
     },
     "copyrights": {
-      "en-GB": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
-      "de-DE": "Brooklyn Bridge, New York, USA (© shayes17/Getty Images)",
-      "fr-FR": "Pont de Brooklyn, New York, États-Unis (© shayes17/Getty Images)",
-      "it-IT": "Ponte di Brooklyn, New York City, USA (© shayes17/Getty Images)",
-      "es-ES": "Puente de Brooklyn, Nueva York, EE. UU. (© shayes17/Getty Images)",
-      "ja-JP": "ブルックリン橋, 米国 ニューヨーク州 (© shayes17/Getty Images)",
-      "zh-CN": "布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)",
-      "en-IN": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
-      "en-US": "© shayes17/Getty Images",
-      "en-CA": "© shayes17/Getty Images"
+      "en-GB": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+      "en-US": "© Wonderful Nature/Shutterstock",
+      "en-CA": "© Wonderful Nature/Shutterstock",
+      "de-DE": "© Wonderful Nature/Shutterstock",
+      "fr-FR": "© Wonderful Nature/Shutterstock",
+      "it-IT": "© Wonderful Nature/Shutterstock",
+      "es-ES": "© Wonderful Nature/Shutterstock",
+      "pt-BR": "© Wonderful Nature/Shutterstock",
+      "zh-CN": "© Wonderful Nature/Shutterstock",
+      "en-IN": "© Wonderful Nature/Shutterstock"
     },
     "descs": {
-      "en-GB": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn in the United States—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
-      "de-DE": "Die Brooklyn Bridge verbindet Manhattan und Brooklyn über den East River und zählt zu den bekanntesten Wahrzeichen von New York City in den Vereinigten Staaten. Nach einer Bauzeit von 14 Jahren wurde sie 1883 eröffnet und war eine der ersten großen Hängebrücken mit Stahlseilen. Ihr Bau stellte für die damalige Zeit eine technische Meisterleistung dar und veränderte den Verkehr zwischen den beiden Stadtteilen nachhaltig.",
-      "fr-FR": "Dominant l’East River (États-Unis), le pont de Brooklyn relie bien plus que deux arrondissements de New York. Inauguré en 1883 après quatorze ans de travaux, il fut le premier grand pont suspendu à câbles d’acier, transformant durablement les déplacements entre Manhattan et Brooklyn.",
-      "es-ES": "El puente de Brooklyn, en Nueva York, Estados Unidos, no es solo una conexión entre dos orillas: es un monumento a la ingeniería del siglo XIX y a la tenacidad humana. Inaugurado en 1883 tras catorce años de obras, fue el primer puente colgante de cables de acero del mundo. Su construcción tuvo un giro inesperado: cuando el diseñador John A. Roebling falleció y su hijo Washington quedó incapacitado, fue su esposa Emily Warren Roebling quien aprendió ingeniería para supervisar la finalización del proyecto.",
-      "ja-JP": "今日の画像は、米国・ニューヨークのランドマークとして親しまれているブルックリン橋。設計者はジョン・A・ローブリングで、彼の死後、その遺志を継いだ息子夫婦が、14年の歳月をかけて 1883 年に完成させました。世界初の鋼鉄製吊り橋であり、ニューヨーク市のマンハッタン区とブルックリン区を結ぶ米国内で最も古い吊橋の一つです。その美しい景観から人気の観光地・撮影スポットとして知られるほか、古くから様々な映画のロケ地としても使用されています。",
-      "en-IN": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn in the United States—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
-      "en-US": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn—it bridges history, engineering, and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
-      "en-CA": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
-      "it-IT": "Il Ponte di Brooklyn, a New York, Stati Uniti, non collega soltanto Manhattan e Brooklyn: unisce storia, ingegneria e qualche storia sorprendente. Inaugurato nel 1883 dopo quattordici anni di lavori, fu il primo ponte sospeso con cavi d'acciaio al mondo. La sua costruzione ebbe un risvolto inatteso: quando il progettista John A. Roebling morì e il figlio Washington si ammalò gravemente, fu la moglie Emily Warren Roebling a studiare ingegneria e matematica per portare a termine il progetto.",
-      "zh-CN": "布鲁克林大桥连接的不只是曼哈顿和布鲁克林——它还连接着历史、工程学以及几个令人惊讶的故事。大桥历经14年建造，于1883年开放，成为世界上第一座钢丝悬索桥，永久改变了纽约人跨越东河的方式。"
+      "en-GB": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "en-US": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "en-CA": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "de-DE": "An der Küste des südbrasilianischen Bundesstaates Santa Catarina gehört das Surfen fest zum Alltag vieler Menschen. Lange Sandstrände, beständige Wellen und die Nähe zum Atlantik schaffen Bedingungen, die Einsteiger ebenso anziehen wie erfahrene Surfer. Wer hier auf das Meer hinausblickt, erkennt schnell, dass Geduld ein wichtiger Teil dieses Sports ist. Zwischen den heranrollenden Wellen warten die Surfer aufmerksam auf den richtigen Moment. Sie beobachten Wind, Strömung und Wellengang, bevor sie sich für eine einzelne Welle entscheiden.",
+      "fr-FR": "Au large de l’État de Santa Catarina, dans le sud du Brésil, une scène familière se répète à l’infini : des surfeurs attendent derrière les vagues déferlantes, leurs planches montant et descendant au rythme de l’Atlantique. Vu du ciel, le spectacle semble presque immobile. Pourtant, c'est précisément là que tout se joue. Chaque houle transporte une énergie née de vents parfois soufflés à des centaines, voire à des milliers de kilomètres. Pour glisser sur l’eau, il faut savoir reconnaître le moment précis où cette force atteint la côte.",
+      "it-IT": "Al largo delle coste di Santa Catarina, nello stato meridionale del Brasile, una fila di surfisti aspetta immobile oltre la linea dove le onde si infrangono. Dall'alto sembra che non accada nulla, ma è proprio lì che inizia il vero lavoro. Ogni onda trasporta energia generata da venti che possono aver soffiato a migliaia di chilometri di distanza; dominarla richiede di leggere il mare con precisione, perché vento, correnti e la forma del fondale decidono come si romperà ogni onda.",
+      "es-ES": "Frente a las costas de Santa Catarina, en el sur de Brasil, una fila de surfistas esperan quietos más allá de donde rompen las olas. Desde el aire parece que no ocurre nada, pero ahí es exactamente donde empieza el verdadero trabajo. Cada ola arrastra energía generada por vientos que pueden haber soplado a miles de kilómetros de distancia; dominar ese pulso exige leer el mar con precisión, porque viento, mareas, corrientes y la forma del fondo marino deciden cómo romperá cada ola.",
+      "pt-BR": "Quem nunca surfou talvez ache que a parte emocionante é estar em pé sobre a prancha. Os surfistas da imagem podem discordar. No litoral de Santa Catarina, o momento mais importante acontece antes da primeira remada, enquanto todos observam o mar em silêncio, esperando a onda certa.",
+      "zh-CN": "在巴西南部圣卡塔琳娜州近海，图片捕捉到一种熟悉的仪式：冲浪者在碎浪之外等待，冲浪板随着大西洋的波涛起伏。从空中看，几乎什么都没有发生，但真正的功课正是在此时开始。",
+      "en-IN": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins."
     },
     "quickFacts": {
-      "zh-CN": "2024年，布鲁克林大桥日均承载103,051辆机动车、28,845名行人和5,504名骑行者。"
+      "zh-CN": "圣卡塔琳娜州海岸的若阿基纳海滩曾承办多项重要国际冲浪赛事。"
     },
     "captions": {
-      "en-GB": "Brooklyn Bridge, New York City, United States",
-      "de-DE": "Brooklyn Bridge, New York City, USA",
-      "fr-FR": "Pont de Brooklyn, New York, États-Unis",
-      "it-IT": "",
-      "es-ES": "Puente de Brooklyn, Nueva York, EE. UU.",
-      "ja-JP": "イースト川を彩る歴史の架け橋",
-      "zh-CN": "",
-      "en-IN": "Brooklyn Bridge, New York City, United States"
+      "en-GB": "Aerial view of surfers, Santa Catarina, Brazil"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=pont+de+Brooklyn&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Ponte+di+Brooklyn&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Puente+de+Brooklyn&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%96%e3%83%ab%e3%83%83%e3%82%af%e3%83%aa%e3%83%b3%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260823_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b8%83%e9%b2%81%e5%85%8b%e6%9e%97%e5%a4%a7%e6%a1%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260824_2300%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.BKBridge_EN-GB1324235273",
-      "de-DE": "/th?id=OHR.BKBridge_DE-DE5037319514",
-      "fr-FR": "/th?id=OHR.BKBridge_FR-FR7150855439",
-      "it-IT": "/th?id=OHR.BKBridge_IT-IT1092253957",
-      "es-ES": "/th?id=OHR.BKBridge_ES-ES8423562789",
-      "ja-JP": "/th?id=OHR.BKBridge_JA-JP9540004516",
-      "zh-CN": "/th?id=OHR.BKBridge_ZH-CN3870511222",
-      "en-IN": "/th?id=OHR.BKBridge_EN-IN9646645592"
+      "en-GB": "/th?id=OHR.SantaCatarina_EN-GB1458336075"
     }
   },
   "WhyteCliffP": {
@@ -1955,6 +1921,40 @@
       "en-CA": "/th?id=OHR.CanadaNE_EN-CA9090606067"
     }
   },
+  "KitesurfersSunset": {
+    "name": "KitesurfersSunset",
+    "urlbase": "/th?id=OHR.KitesurfersSunset_DE-DE3980635203",
+    "date": "20260824",
+    "dateFormatted": "August 24, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Wellen, Wind, Weltklasse. Kite-Surf World Cup auf Sylt"
+    },
+    "copyrights": {
+      "de-DE": "Kitesurfer bei Sonnenuntergang in Deutschland (© Jens Breuer/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Im goldenen Licht der untergehenden Sonne gleiten Kitesurfer über das Wasser. Die Sportart verbindet Elemente des Surfens, Segelns und Wakeboardens: Ein großer Lenkdrachen sorgt für den Antrieb, während die Fahrer über die Wellen rasen und spektakuläre Sprünge und Tricks ausführen. Kitesurfen entstand in den 1990er-Jahren und hat sich seitdem zu einer beliebten Wassersportart entwickelt. Ob auf dem Meer, an Seen oder in Lagunen – entscheidend sind ausreichend Wind, Geschicklichkeit und ein gutes Gespür für die Bedingungen auf dem Wasser."
+    },
+    "quickFacts": {
+      "de-DE": "Seit seiner Premiere bei den Olympischen Spielen 2024 in Paris gehört das Kitesurfen offiziell zum olympischen Programm und gilt dort als eine der schnellsten Sportarten überhaupt."
+    },
+    "captions": {
+      "de-DE": "Kite-Surf World Cup auf Sylt"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Kite+Worldcup+Sylt+2026&form=hpcapt&filters=HpDate%3a%2220260824_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.KitesurfersSunset_DE-DE3980635203"
+    }
+  },
   "SellinSunrise": {
     "name": "SellinSunrise",
     "urlbase": "/th?id=OHR.SellinSunrise_DE-DE6501539287",
@@ -1985,6 +1985,38 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.SellinSunrise_DE-DE6501539287"
+    }
+  },
+  "GlenanSummer": {
+    "name": "GlenanSummer",
+    "urlbase": "/th?id=OHR.GlenanSummer_FR-FR4786744371",
+    "date": "20260824",
+    "dateFormatted": "August 24, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Sable blanc et lagons bretons. Plage de sable blanc sur l’archipel des Glénan, Bretagne"
+    },
+    "copyrights": {
+      "fr-FR": "Plage de sable blanc sur l’archipel des Glénan, Bretagne (© HadelProductions/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Au large de la côte sud du Finistère, l’archipel des Glénan déploie un chapelet d’îlots aux eaux turquoise, si limpides qu’elles évoquent parfois des lagons lointains. Pourtant, nous sommes bien en Bretagne. Façonnées par les vents, les marées et les tempêtes, ces terres de sable blanc et de granite abritent un patrimoine naturel exceptionnel."
+    },
+    "quickFacts": {},
+    "captions": {
+      "fr-FR": "Plage de sable blanc sur l’archipel des Glénan, Bretagne"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=archipel+des+Gl%c3%a9nan&form=hpcapt&filters=HpDate%3a%2220260824_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.GlenanSummer_FR-FR4786744371"
     }
   },
   "DolmenRoche": {
@@ -2019,6 +2051,90 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.DolmenRoche_FR-FR1513962303"
+    }
+  },
+  "RedwoodPark": {
+    "name": "RedwoodPark",
+    "urlbase": "/th?id=OHR.RedwoodPark_IT-IT1204038943",
+    "date": "20260824",
+    "dateFormatted": "August 24, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "it-IT": "Giganti antichi",
+      "es-ES": "Secuoyas milenarias. Parques Nacionales y Estatales de Redwood, California, EE. UU.",
+      "ja-JP": "今日は米国国立公園局の創立記念日",
+      "zh-CN": "红木国家与州立公园的日出，加利福尼亚州，美国",
+      "en-IN": "Protecting America's treasures. Redwood National and State Parks, California, United States",
+      "en-US": "Protecting America's treasures. Sunrise in Redwood National and State Parks, California",
+      "pt-BR": "O peso dos séculos na leveza das folhas. Nascer do sol no Parque Nacional e Estadual de Redwood, Califórnia, Estados Unidos"
+    },
+    "copyrights": {
+      "it-IT": "Parchi Nazionali e Statali di Redwood, California, USA (© HadelProductions/Getty Images)",
+      "es-ES": "Parques Nacionales y Estatales de Redwood (RNSP), California, EE. UU. (© HadelProductions/Getty Images)",
+      "ja-JP": "レッドウッド国立州立公園, 米国 カリフォルニア州 (© HadelProductions/Getty Images)",
+      "zh-CN": "红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)",
+      "en-IN": "Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)",
+      "en-US": "© HadelProductions/Getty Images",
+      "pt-BR": "© HadelProductions/Getty Images"
+    },
+    "descs": {
+      "es-ES": "Caminar entre las secuoyas gigantes del Parque Nacional y Estatal de Redwood, en California, Estados Unidos, es una de esas experiencias que ponen en perspectiva la escala humana. Estos árboles, que llevan siglos creciendo, se elevan sobre una alfombra de helechos y musgos en uno de los ecosistemas más longevos del planeta. El 25 de agosto, el Servicio de Parques Nacionales de Estados Unidos celebra 110 años desde que el presidente Woodrow Wilson firmara en 1916 la ley que lo creó; hoy gestiona cientos de parques, monumentos y espacios históricos en todo el país.",
+      "ja-JP": "今日 8 月 25 日は、米国国立公園局の創立記念日です。1916 年に野生生物や自然、史跡などを保護することを目的として設立されて以降、多くの国立公園や史跡を管理しています。そして画像は、カリフォルニア州にあるレッドウッド国立州立公園。地球上で最も高い木のひとつとされるセコイアメスギの原生林が広がるこの公園も、国立公園局が管理しており、古くから伝わる貴重な自然環境を現在、そして未来へと伝えています。",
+      "en-IN": "Some places make you feel on top of the world. Redwood National and State Parks do the opposite—and that's the point. Stand beneath these towering giants and you'll quickly realise who's really setting the bar high.",
+      "en-US": "For 110 years, America's greatest outdoor classroom has been open for exploration. On August 25, the National Park Service marks over a century of protecting the nation's natural and cultural treasures. Established in 1916 when President Woodrow Wilson signed the Organic Act into law, the agency now cares for hundreds of parks, monuments, seashores, and historic sites across the country. Ranger-led programs, family activities, and educational events invite visitors to connect with the landscapes and stories that define the national park system.",
+      "it-IT": "Camminare tra le sequoie giganti del Parco Nazionale e Statale di Redwood, nel nord della California, Stati Uniti, è un'esperienza che ridimensiona la scala umana. Le sequoie costiere sono gli alberi più alti della Terra: alcuni esemplari superano i 115 metri di altezza e possono vivere più di duemila anni. Crescono su un tappeto di felci e muschi, creando una foresta che sembra antica e viva allo stesso tempo.",
+      "pt-BR": "A primeira reação costuma ser olhar para cima. A segunda é continuar olhando. A imagem revela o Parque Nacional e Estadual de Redwood, na Califórnia, Estados Unidos, onde as sequoias-costeiras fazem qualquer visitante parecer um detalhe da paisagem. As maiores passam dos 100 metros, altura equivalente à de um prédio de quase 40 andares, com troncos que podem ultrapassar 8 metros de diâmetro. Algumas já lançavam sombra quando impérios ainda disputavam mapas.",
+      "zh-CN": "110年来，美国最杰出的户外课堂始终向人们开放，供大家探索。8月25日，美国国家公园管理局迎来其守护美国自然与文化瑰宝一个多世纪的纪念日。1916年，伍德罗·威尔逊总统签署《组织法》使其成为法律，该机构由此成立；如今，它负责管理全美数百座公园、纪念地、海滨和历史遗址。由护林员带领的项目、家庭活动和教育活动邀请游客亲近那些塑造了国家公园体系的景观与故事。"
+    },
+    "quickFacts": {
+      "zh-CN": "夏季雾气约占海岸红杉水分来源的40%，帮助这些参天巨树安然度过干燥月份。"
+    },
+    "captions": {
+      "it-IT": "",
+      "es-ES": "Parques Nacionales y Estatales de Redwood, California, EE. UU.",
+      "ja-JP": "今日は米国国立公園局の創立記念日",
+      "zh-CN": "",
+      "en-IN": "Redwood National and State Parks, California, United States"
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+di+Redwood&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Parque+nacional+Redwood&form=hpcapt&filters=HpDate%3a%2220260824_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%e5%b1%80%e3%81%ae%e5%89%b5%e7%ab%8b%e8%a8%98%e5%bf%b5%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260824_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%ba%a2%e6%9d%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad%e4%b8%8e%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Redwood+National+and+State+Parks&form=hpcapt&filters=HpDate%3a%2220260824_1830%22"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.RedwoodPark_IT-IT1204038943",
+      "es-ES": "/th?id=OHR.RedwoodPark_ES-ES8525177894",
+      "ja-JP": "/th?id=OHR.RedwoodPark_JA-JP9805095528",
+      "zh-CN": "/th?id=OHR.RedwoodPark_ZH-CN9513051062",
+      "en-IN": "/th?id=OHR.RedwoodPark_EN-IN9796195264"
     }
   },
   "NotteTaranta": {
@@ -2204,36 +2320,36 @@
       "es-ES": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269"
     }
   },
-  "LloretdeMar": {
-    "name": "LloretdeMar",
-    "urlbase": "/th?id=OHR.LloretdeMar_ES-ES9587440947",
-    "date": "20260810",
-    "dateFormatted": "August 10, 2026",
+  "Lencois": {
+    "name": "Lencois",
+    "urlbase": "/th?id=OHR.Lencois_PT-BR9491147631",
+    "date": "20260824",
+    "dateFormatted": "August 24, 2026",
     "markets": [
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
       }
     ],
     "titles": {
-      "es-ES": "Donde las rocas se transforman. Camino de Ronda, Lloret de Mar, Girona, Cataluña, España"
+      "pt-BR": "Nem toda miragem é uma ilusão"
     },
     "copyrights": {
-      "es-ES": "Camino de Ronda, Lloret de Mar, Girona, Cataluña (© MEDITERRANEAN/Getty Images)"
+      "pt-BR": "Parque Nacional dos Lençóis Maranhenses, Maranhão (© Ignacio Palacios/Getty Images)"
     },
     "descs": {
-      "es-ES": "Desde los acantilados de Lloret de Mar, en Girona, Cataluña, el Camino de Ronda serpentea por una costa brava en el sentido más literal del término: salvaje, recortada y sorprendente. Esta ruta histórica, que recorre calas escondidas, peñascos batidos por el Mediterráneo y bosques de pinos que llegan hasta el mar, fue trazada originalmente para que los carabineros vigilaran el litoral ante el contrabando. Hoy es uno de los paseos costeros más espectaculares de España."
+      "pt-BR": "Há uma pegadinha geográfica escondida no Maranhão. À primeira vista, o Parque Nacional dos Lençóis Maranhenses parece um imenso deserto de areia branca. Mas quantos desertos escondem rios, lagoas cristalinas, peixes, aves e uma estação chuvosa que transforma completamente o cenário?"
     },
     "quickFacts": {},
     "captions": {
-      "es-ES": "Camino de Ronda, Lloret de Mar, Girona, Cataluña, España"
+      "pt-BR": ""
     },
     "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Girona&form=hpcapt&filters=HpDate%3a%2220260810_2200%22"
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+dos+Len%c3%a7%c3%b3is+Maranhenses&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "es-ES": "/th?id=OHR.LloretdeMar_ES-ES9587440947"
+      "pt-BR": "/th?id=OHR.Lencois_PT-BR9491147631"
     }
   },
   "FolkRJ": {
@@ -2300,38 +2416,6 @@
       "pt-BR": "/th?id=OHR.StuDay_PT-BR3798231635"
     }
   },
-  "Golfinhos": {
-    "name": "Golfinhos",
-    "urlbase": "/th?id=OHR.Golfinhos_PT-BR2634808905",
-    "date": "20260810",
-    "dateFormatted": "August 10, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Coreografias sob as ondas"
-    },
-    "copyrights": {
-      "pt-BR": "Golfinhos-rotadores no mar azul de Fernando de Noronha, Pernambuco (© cabuscaa/Getty Images)"
-    },
-    "descs": {
-      "pt-BR": "Alguns visitantes de Fernando de Noronha chegam de avião. Outros aparecem sem fazer reserva, mas nunca faltam ao compromisso. Os golfinhos-rotadores seguem uma rotina tão previsível que, em muitas manhãs, basta olhar para a Baía dos Golfinhos para encontrá-los descansando depois de uma noite inteira de caça em mar aberto."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=Noronha+Pernambuco&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.Golfinhos_PT-BR2634808905"
-    }
-  },
   "ShizuokaSummer2026": {
     "name": "ShizuokaSummer2026",
     "urlbase": "/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076",
@@ -2394,38 +2478,6 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.Shimoda2026_JA-JP6266826592"
-    }
-  },
-  "MountainDay2026": {
-    "name": "MountainDay2026",
-    "urlbase": "/th?id=OHR.MountainDay2026_JA-JP4675980762",
-    "date": "20260810",
-    "dateFormatted": "August 10, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日は山の日"
-    },
-    "copyrights": {
-      "ja-JP": "日本アルプス (© Sergey Alimov/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "今日 8 月 11 日は山の日。「山に親しむ機会を得て、山の恩恵に感謝する」ことを趣旨として、2014 年に制定、2016 年から施行された国民の祝日です。そして画像は、中部山岳国立公園に属する、日本屈指の鋭く険しい岩峰が連なる、息を呑むような大絶景が広がる日本有数の山岳エリアで、多くの登山者を魅了しています。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "今日は山の日"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e5%b1%b1%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260810_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.MountainDay2026_JA-JP4675980762"
     }
   },
   "EndofHeatY26": {
@@ -2492,6 +2544,165 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+    }
+  },
+  "SandPath": {
+    "name": "SandPath",
+    "urlbase": "/th?id=OHR.SandPath_EN-US3759872156",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Where two deserts collide. Joshua Tree National Park, California",
+      "en-CA": "Where two deserts collide. Joshua Tree National Park in California, United States",
+      "en-GB": "Where two deserts collide. Joshua Tree National Park, California, United States",
+      "de-DE": "Wo zwei Wüsten aufeinandertreffen. Joshua-Tree-Nationalpark, Kalifornien, USA",
+      "fr-FR": "Un point de rencontre aride. Parc national Joshua Tree, Californie, États-Unis",
+      "es-ES": "Donde chocan dos desiertos. Parque Nacional Joshua Tree, California, EE. UU.",
+      "zh-CN": "两片沙漠交汇之地",
+      "en-IN": "Where two deserts collide. Joshua Tree National Park, California, United States"
+    },
+    "copyrights": {
+      "en-US": "Joshua Tree National Park, California (© JJ Landscapes/Getty Images)",
+      "en-CA": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
+      "en-GB": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
+      "de-DE": "Joshua-Tree-Nationalpark, Kalifornien, USA (© JJ Landscapes/Getty Images)",
+      "fr-FR": "Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images)",
+      "es-ES": "Parque Nacional Joshua Tree, California, EE. UU. (© JJ Landscapes/Getty Images)",
+      "zh-CN": "约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)",
+      "en-IN": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerizing landscape shaped by wind, time, and extremes. In Southern California, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "en-CA": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "en-GB": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "de-DE": "Wo zwei Wüstenlandschaften aufeinandertreffen, entfaltet der Joshua-Tree-Nationalpark im US-Bundesstaat Kalifornien eine außergewöhnliche Szenerie. Das Schutzgebiet im Südwesten der USA verbindet die höher gelegene Mojave-Wüste mit der heißeren Colorado-Wüste und schafft dadurch vielfältige Lebensräume. Auf einer Fläche von mehr als 3.200 Quadratkilometern prägen die charakteristischen Joshua-Palmlilien das Bild. Zwischen sandigen Ebenen und mächtigen Granitfelsen entstehen eindrucksvolle Kontraste, die diese Landschaft unverwechselbar machen. Wind, Erosion und starke Temperaturschwankungen haben die Felsformationen über Millionen von Jahren geformt.",
+      "fr-FR": "À l’endroit où se rencontrent deux grands déserts du sud de la Californie (États-Unis), le parc national Joshua Tree révèle un paysage spectaculaire façonné par les vents, les contrastes climatiques et les millénaires. Le désert de Mojave, situé en altitude, rejoint le désert du Colorado, plus chaud, créant une remarquable diversité de milieux naturels.",
+      "es-ES": "Donde el desierto de Mojave y el desierto de Colorado se encuentran, el Parque Nacional Joshua Tree, en California, EE. UU., despliega un paisaje de belleza perturbadora: llanuras arenosas salpicadas de yucas de silueta retorcida, bloques de granito esculpidos durante millones de años y un silencio que solo rompen el viento y los buitres. Este territorio —declarado monumento nacional un día como hoy en 1936 y elevado a parque nacional en 1994— abarca unas 320.000 hectáreas de ecosistemas únicos.",
+      "en-IN": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "zh-CN": "两片大沙漠交汇之处，约书亚树国家公园展现出由风、时间和极端环境塑造的冷峻迷人景观。在南加利福尼亚州，海拔较高的莫哈韦沙漠与更炎热、地势更低的科罗拉多沙漠相融，形成独特的生态系统组合与非凡的生物多样性。"
+    },
+    "quickFacts": {
+      "zh-CN": "约书亚树地区的二长花岗岩最初是熔融岩体，在一亿多年前于地下冷却形成。"
+    },
+    "captions": {
+      "en-US": "Joshua Tree National Park, California",
+      "en-CA": "Joshua Tree National Park in California, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260810_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=hpcapt&filters=HpDate%3a%2220260810_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SandPath_EN-US3759872156",
+      "en-CA": "/th?id=OHR.SandPath_EN-CA4913487409"
+    }
+  },
+  "LloretdeMar": {
+    "name": "LloretdeMar",
+    "urlbase": "/th?id=OHR.LloretdeMar_ES-ES9587440947",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Donde las rocas se transforman. Camino de Ronda, Lloret de Mar, Girona, Cataluña, España"
+    },
+    "copyrights": {
+      "es-ES": "Camino de Ronda, Lloret de Mar, Girona, Cataluña (© MEDITERRANEAN/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Desde los acantilados de Lloret de Mar, en Girona, Cataluña, el Camino de Ronda serpentea por una costa brava en el sentido más literal del término: salvaje, recortada y sorprendente. Esta ruta histórica, que recorre calas escondidas, peñascos batidos por el Mediterráneo y bosques de pinos que llegan hasta el mar, fue trazada originalmente para que los carabineros vigilaran el litoral ante el contrabando. Hoy es uno de los paseos costeros más espectaculares de España."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Camino de Ronda, Lloret de Mar, Girona, Cataluña, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Girona&form=hpcapt&filters=HpDate%3a%2220260810_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.LloretdeMar_ES-ES9587440947"
+    }
+  },
+  "Golfinhos": {
+    "name": "Golfinhos",
+    "urlbase": "/th?id=OHR.Golfinhos_PT-BR2634808905",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Coreografias sob as ondas"
+    },
+    "copyrights": {
+      "pt-BR": "Golfinhos-rotadores no mar azul de Fernando de Noronha, Pernambuco (© cabuscaa/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Alguns visitantes de Fernando de Noronha chegam de avião. Outros aparecem sem fazer reserva, mas nunca faltam ao compromisso. Os golfinhos-rotadores seguem uma rotina tão previsível que, em muitas manhãs, basta olhar para a Baía dos Golfinhos para encontrá-los descansando depois de uma noite inteira de caça em mar aberto."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Noronha+Pernambuco&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Golfinhos_PT-BR2634808905"
+    }
+  },
+  "MountainDay2026": {
+    "name": "MountainDay2026",
+    "urlbase": "/th?id=OHR.MountainDay2026_JA-JP4675980762",
+    "date": "20260810",
+    "dateFormatted": "August 10, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は山の日"
+    },
+    "copyrights": {
+      "ja-JP": "日本アルプス (© Sergey Alimov/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日 8 月 11 日は山の日。「山に親しむ機会を得て、山の恩恵に感謝する」ことを趣旨として、2014 年に制定、2016 年から施行された国民の祝日です。そして画像は、中部山岳国立公園に属する、日本屈指の鋭く険しい岩峰が連なる、息を呑むような大絶景が広がる日本有数の山岳エリアで、多くの登山者を魅了しています。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は山の日"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e5%b1%b1%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260810_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.MountainDay2026_JA-JP4675980762"
     }
   },
   "JMTjibaou": {
