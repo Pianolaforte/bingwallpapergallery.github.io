@@ -1,4 +1,137 @@
 {
+  "AurorasIceland": {
+    "name": "AurorasIceland",
+    "urlbase": "/th?id=OHR.AurorasIceland_EN-US3293282785",
+    "date": "20260826",
+    "dateFormatted": "August 26, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A sky alive with color. Auroras over Kirkjufell, Iceland",
+      "en-GB": "A sky alive with colour. Auroras over Kirkjufell, Iceland",
+      "en-CA": "A sky alive with colour. Auroras over Kirkjufell, Iceland",
+      "de-DE": "Farbspiele am Himmel. Polarlichter über dem Kirkjufell, Island",
+      "fr-FR": "Comme un mirage céleste. Aurores boréales sur Kirkjufell, Islande",
+      "it-IT": "Una tempesta di colori",
+      "pt-BR": "A coreografia do cosmos",
+      "ja-JP": "オーロラが描く幻想の空",
+      "zh-CN": "基尔丘山上空的极光，冰岛",
+      "en-IN": "A sky alive with colour. Auroras over Kirkjufell, Iceland"
+    },
+    "copyrights": {
+      "en-US": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
+      "en-GB": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
+      "en-CA": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
+      "de-DE": "Polarlichter über dem Kirkjufell, Island (© Cavan Images/Alamy)",
+      "fr-FR": "Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)",
+      "it-IT": "L'aurora boreale su Kirkjufell, Islanda (© Cavan Images/Alamy)",
+      "pt-BR": "Auroras sobre Kirkjufell, Islândia (© Cavan Images/Alamy)",
+      "ja-JP": "オーロラ, アイスランド (© Cavan Images/Alamy)",
+      "zh-CN": "基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)",
+      "en-IN": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)"
+    },
+    "descs": {
+      "en-US": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when particles from the sun interact with gases high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple, and sometimes red light. Iceland's northern location and increasingly dark autumn and winter nights make it one of the world's premier destinations for aurora viewing.",
+      "en-GB": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when charged particles from the sun collide with oxygen and nitrogen high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. From September to April, Iceland's northern location and long winter nights make it one of the world's finest places to witness the display.",
+      "en-CA": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when particles from the sun interact with gases high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. Iceland's northern location and increasingly dark autumn and winter nights make it one of the world's premier destinations for aurora viewing.",
+      "de-DE": "Der Kirkjufell zählt zu den bekanntesten Bergen Islands und bietet eine eindrucksvolle Kulisse für die Beobachtung von Polarlichtern. Wenn die Nächte im Herbst und Winter langsam dunkler werden, erscheinen grüne Lichtbänder am Himmel und verwandeln die Landschaft in ein faszinierendes Schauspiel. Die reflektierenden Farben, die schneebedeckten Hänge und die abgelegene Lage schaffen eine Atmosphäre, die Besucher aus aller Welt anzieht. Besonders in den kalten Monaten gehören solche Nächte zu den eindrucksvollsten Naturerlebnissen des Landes.",
+      "fr-FR": "À mesure que les nuits s’allongent sur l’Islande, les regards se tournent vers le ciel dans l’espoir d’apercevoir l’aurore boréale. Ce ballet lumineux naît lorsque des particules venues du Soleil rencontrent les gaz de la haute atmosphère terrestre. Des voiles verts, roses, violets et parfois rouges ondulent alors au-dessus des paysages volcaniques. Grâce à sa situation à proximité du cercle polaire et à l’obscurité prolongée de l’automne et de l’hiver, l’île figure parmi les meilleurs endroits au monde pour contempler ce phénomène fascinant.",
+      "ja-JP": "アイスランドでは秋の訪れとともに夜が長くなり、オーロラ観測に適した季節が近づいています。オーロラで見られる青や緑、紫などに揺らめく光は、太陽から飛来した電気を帯びた粒子（プラズマ）が地球の高層大気中のガスと衝突することで発生します。そして、今日の画像はその幻想的な光の下にそびえるキルキュフェットル山。「教会の山」を意味する山で、晴れた夜には、この山と滝、そしてオーロラが織りなす絶景が多くの人々を魅了します。",
+      "en-IN": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when charged particles from the sun collide with oxygen and nitrogen high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. From September to April, Iceland's northern location and long winter nights make it one of the world's finest places to witness the display.",
+      "it-IT": "Sopra il monte Kirkjufell, nella penisola di Snæfellsnes, Islanda, il cielo notturno si trasforma in uno spettacolo di luci verdi, rosa e viola: è l'aurora boreale, il fenomeno che si produce quando le particelle solari collidono con i gas dell'atmosfera terrestre ad alta quota. La posizione settentrionale dell'Islanda e le lunghe notti autunnali e invernali la rendono una delle mete privilegiate al mondo per osservarla.",
+      "pt-BR": "O espetáculo começa a quase 150 milhões de quilômetros dali. Lançadas pelo Sol, partículas atravessam o espaço até encontrarem o campo magnético da Terra. Quando isso acontece sobre regiões próximas ao Ártico, o céu ganha movimento. A aurora boreal forma cortinas de luz que mudam de forma e cor, passando por tons de verde, rosa, violeta e, às vezes, vermelho.",
+      "zh-CN": "随着冰岛的夜晚再次变长，游客很快又会仰望天空，期待一睹北极光。北极光是一种发光现象，当来自太阳的粒子与地球高层大气中的气体相互作用时，便会形成闪烁的绿色、粉色、紫色，有时甚至是红色光带。冰岛地处北方，秋冬季夜晚日益漫长而黑暗，因此成为全球首屈一指的极光观赏地之一。"
+    },
+    "quickFacts": {
+      "zh-CN": "极光有时还可能伴随微弱声响，不过相关报告较少，其形成机制仍在研究中。"
+    },
+    "captions": {
+      "en-US": "Auroras over Kirkjufell, Iceland",
+      "en-GB": "Auroras over Kirkjufell, Iceland",
+      "en-CA": "Auroras over Kirkjufell, Iceland",
+      "de-DE": "Polarlichter über dem Kirkjufell, Island",
+      "fr-FR": "Aurores boréales sur Kirkjufell, Islande",
+      "it-IT": "",
+      "pt-BR": "",
+      "ja-JP": "オーロラが描く幻想の空",
+      "zh-CN": "",
+      "en-IN": "Auroras over Kirkjufell, Iceland"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260826_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260825_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260826_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Polarlicht&form=hpcapt&filters=HpDate%3a%2220260825_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=aurore+bor%c3%a9ale&form=hpcapt&filters=HpDate%3a%2220260825_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Aurora+boreale&form=hpcapt",
+      "pt-BR": "https://www.bing.com/search?q=aurora+boreal&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ad%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220260825_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8c%97%e6%9e%81%e5%85%89&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260825_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AurorasIceland_EN-US3293282785",
+      "en-GB": "/th?id=OHR.AurorasIceland_EN-GB1541173608",
+      "en-CA": "/th?id=OHR.AurorasIceland_EN-CA9381288782",
+      "de-DE": "/th?id=OHR.AurorasIceland_DE-DE5182720309",
+      "fr-FR": "/th?id=OHR.AurorasIceland_FR-FR6287537082",
+      "it-IT": "/th?id=OHR.AurorasIceland_IT-IT1298284038",
+      "pt-BR": "/th?id=OHR.AurorasIceland_PT-BR0858766581",
+      "ja-JP": "/th?id=OHR.AurorasIceland_JA-JP9970815507",
+      "zh-CN": "/th?id=OHR.AurorasIceland_ZH-CN9781322454",
+      "en-IN": "/th?id=OHR.AurorasIceland_EN-IN9916681236"
+    }
+  },
   "RedwoodPark": {
     "name": "RedwoodPark",
     "urlbase": "/th?id=OHR.RedwoodPark_EN-US3199427613",
@@ -407,7 +540,8 @@
       "fr-FR": "De délicates ailes azur. Argus bleu",
       "ja-JP": "花と蝶の紫色のハーモニー",
       "zh-CN": "普通蓝灰蝶，德文郡，英格兰",
-      "en-IN": "Sky tinted wings. Common blue butterfly"
+      "en-IN": "Sky tinted wings. Common blue butterfly",
+      "pt-BR": "Nem tudo são flores. Borboleta-azul-comum, Devon, Inglaterra"
     },
     "copyrights": {
       "en-US": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
@@ -417,7 +551,8 @@
       "fr-FR": "Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)",
       "ja-JP": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)",
       "zh-CN": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
-      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)"
+      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "pt-BR": "© Ross Hoddinott/Nature Picture Library"
     },
     "descs": {
       "en-US": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa, and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the cocooned caterpillar from predators.",
@@ -427,7 +562,8 @@
       "fr-FR": "Un éclair bleu traverse une prairie en fleurs, puis disparaît presque aussitôt. Derrière cette apparition fugace se cache pourtant un cycle de vie remarquable. Répandu dans une grande partie de l’Europe, en Afrique du Nord et dans certaines régions d’Asie, l’Argus bleu, aussi appelé Azuré commun (Polyommatus icarus), commence son cycle sous la forme d’un minuscule œuf déposé sur des plantes nourricières comme le lotier corniculé. Après l’éclosion, la chenille se nourrit de feuilles, grandissant à l’abri des regards dans un paysage animé d’insectes et de floraisons.",
       "ja-JP": "今日の画像は、シジミチョウ科の一種であるイカルスヒメシジミ。ヨーロッパや北アフリカ、温帯アジアに広く分布する蝶です。この科の多くは、何らかの形でアリと共生関係にあることで知られており、イカルスヒメシジミの場合は、幼虫期にアリの餌となる甘い分泌物を出すことでアリに天敵から守ってもらうという関係を築いています。また、その他の特徴として、成虫のオスは鮮やかな青色の翅を持つ一方、メスは褐色を帯びた落ち着いた色合いをしており、オスとメスで見た目がはっきりと異なるという特徴があります。",
       "en-IN": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
-      "zh-CN": "田野中那一抹迅速掠过的蓝色背后，有一个开始得早得多的故事，故事的主角是一只小小的毛毛虫和一种令人惊讶的生存妙招。普通蓝灰蝶分布于欧洲、北非和亚洲部分地区，成虫以花蜜为食。它的生命始于一枚小小的卵，雌蝶通常会将卵产在百脉根等寄主植物上。真正令人惊讶的是它的毛毛虫阶段，此时蚂蚁会在其生存过程中扮演一个出人意料的角色。孵化后，毛毛虫会啃食叶片，然后进入蜕变的下一个阶段。在这一过程中，它会分泌一种名为蜜露的含糖物质，供蚂蚁取食。作为回报，蚂蚁可能会保护结茧的毛毛虫免受捕食者侵害。"
+      "zh-CN": "田野中那一抹迅速掠过的蓝色背后，有一个开始得早得多的故事，故事的主角是一只小小的毛毛虫和一种令人惊讶的生存妙招。普通蓝灰蝶分布于欧洲、北非和亚洲部分地区，成虫以花蜜为食。它的生命始于一枚小小的卵，雌蝶通常会将卵产在百脉根等寄主植物上。真正令人惊讶的是它的毛毛虫阶段，此时蚂蚁会在其生存过程中扮演一个出人意料的角色。孵化后，毛毛虫会啃食叶片，然后进入蜕变的下一个阶段。在这一过程中，它会分泌一种名为蜜露的含糖物质，供蚂蚁取食。作为回报，蚂蚁可能会保护结茧的毛毛虫免受捕食者侵害。",
+      "pt-BR": "De comum, ela tem só o nome. A borboleta-azul-comum começa a vida em uma planta, passa por uma aliança improvável com formigas e termina com um par de asas azuis. A espécie, que não ocorre naturalmente no Brasil, é encontrada em grande parte da Europa, no norte da África e em partes da Ásia. Suas lagartas costumam se alimentar de plantas como o cornichão."
     },
     "quickFacts": {
       "en-US": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favorable patches of flowers.",
@@ -536,7 +672,8 @@
       "pt-BR": "A estrada que conquista montanhas",
       "ja-JP": "アルブラアルプスを縫う山岳道路",
       "zh-CN": "尤利尔山口蜿蜒的公路，瑞士",
-      "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland"
+      "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "en-CA": "The climb is calling. Winding road of Julier Pass, Switzerland"
     },
     "copyrights": {
       "en-US": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
@@ -548,7 +685,8 @@
       "pt-BR": "Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)",
       "ja-JP": "ユリア峠, スイス (© Westend61/Getty Images)",
       "zh-CN": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
-      "en-IN": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)"
+      "en-IN": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "en-CA": "© Westend61/Getty Images"
     },
     "descs": {
       "en-US": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 7,493 feet and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travelers, merchants, and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
@@ -560,7 +698,8 @@
       "en-IN": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has linked Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its summit. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
       "it-IT": "Il Passo del Giulio, in Svizzera, è una di quelle strade di montagna che diventano esse stesse una destinazione. A oltre 2.200 metri di quota, collega le valli alpine lungo un percorso frequentato da quasi duemila anni: prima di guardrail e asfalto, romani, mercanti e messaggeri lo attraversavano a piedi. Vicino alla cima, gli archeologi hanno rinvenuto monete antiche e due colonne di steatite di epoca romana, indizi di un luogo di sosta o santuario lungo la salita.",
       "pt-BR": "Algumas estradas fazem tanta questão de aparecer quanto o lugar para onde levam. A imagem mostra o Passo de Julier, nos Alpes da Suíça, a cerca de 2.284 metros de altitude, ligando vales alpinos por um caminho usado há quase dois milênios. Muito antes do asfalto, romanos, mercadores e mensageiros já cruzavam essa montanha. Perto do ponto mais alto, arqueólogos encontraram moedas e colunas de pedra-sabão que sugerem um antigo santuário ou ponto de descanso para quem encarava a travessia.",
-      "zh-CN": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。"
+      "zh-CN": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。",
+      "en-CA": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 2,284 metres and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travellers, merchants and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb."
     },
     "quickFacts": {
       "zh-CN": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。"
@@ -674,7 +813,7 @@
       "es-ES": "El juego como forma de caza. Canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU.",
       "pt-BR": "Sociedades submarinas",
       "ja-JP": "雪山を望む海に現れたシャチ",
-      "zh-CN": "林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国",
+      "zh-CN": "鲸群之声",
       "en-IN": "Voices of the pod. An orca in Lynn Canal, Alaska, United States"
     },
     "copyrights": {
@@ -1448,51 +1587,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1538,132 +1632,30 @@
       "zh-CN": "作为英仙座流星雨母体的斯威夫特-塔特尔彗星，绕太阳运行一周约需133年。"
     },
     "captions": {
-      "en-US": "Perseid meteor shower over Tenerife, Spain",
-      "en-GB": "Perseid meteor shower over Tenerife, Spain",
-      "en-CA": "Perseid meteor shower over Tenerife, Spain",
-      "de-DE": "Perseiden-Meteore auf Teneriffa, Spanien",
-      "fr-FR": "Perséides au-dessus de Tenerife, Espagne",
-      "it-IT": "",
-      "pt-BR": "",
-      "ja-JP": "ペルセウス座流星群が輝く夜空",
-      "zh-CN": "",
-      "en-IN": "Perseid meteor shower over Tenerife, Spain"
+      "en-US": "Perseid meteor shower over Tenerife, Spain"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260813_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260812_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260813_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Perseiden&form=hpcapt&filters=HpDate%3a%2220260812_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Pers%c3%a9ides&form=hpcapt&filters=HpDate%3a%2220260812_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Perseidi&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=chuva+de+meteoros+Perseidas&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%9a%e3%83%ab%e3%82%bb%e3%82%a6%e3%82%b9%e5%ba%a7%e6%b5%81%e6%98%9f%e7%be%a4&form=hpcapt&filters=HpDate%3a%2220260812_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%8b%b1%e4%bb%99%e5%ba%a7%e6%b5%81%e6%98%9f%e9%9b%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260812_1830%22"
+      "en-US": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260813_0700%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.PerseidasTenerife_EN-US4798593153",
-      "en-GB": "/th?id=OHR.PerseidasTenerife_EN-GB6939134267",
-      "en-CA": "/th?id=OHR.PerseidasTenerife_EN-CA5389279972",
-      "de-DE": "/th?id=OHR.PerseidasTenerife_DE-DE8459328996",
-      "fr-FR": "/th?id=OHR.PerseidasTenerife_FR-FR7138274954",
-      "it-IT": "/th?id=OHR.PerseidasTenerife_IT-IT4575150144",
-      "pt-BR": "/th?id=OHR.PerseidasTenerife_PT-BR3896657935",
-      "ja-JP": "/th?id=OHR.PerseidasTenerife_JA-JP5992050152",
-      "zh-CN": "/th?id=OHR.PerseidasTenerife_ZH-CN8520379683",
-      "en-IN": "/th?id=OHR.PerseidasTenerife_EN-IN1090547464"
+      "en-US": "/th?id=OHR.PerseidasTenerife_EN-US4798593153"
     }
   },
-  "ElephantDay": {
-    "name": "ElephantDay",
-    "urlbase": "/th?id=OHR.ElephantDay_EN-US4280370948",
-    "date": "20260812",
-    "dateFormatted": "August 12, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Giants worth protecting. World Elephant Day",
-      "en-CA": "Giants worth protecting. World Elephant Day",
-      "pt-BR": "O peso da experiência",
-      "en-GB": "Giants worth protecting. World Elephant Day",
-      "de-DE": "Schützenswerte Giganten. Weltelefantentag",
-      "fr-FR": "Des géants au cœur tendre. Journée mondiale de l’éléphant",
-      "it-IT": "Gianti che vale la pena proteggere",
-      "es-ES": "¡Qué memoria de elefantes! Día Mundial del Elefante",
-      "ja-JP": "今日は世界ゾウの日",
-      "zh-CN": "值得守护的巨兽",
-      "en-IN": "Giants worth protecting. World Elephant Day"
-    },
-    "copyrights": {
-      "en-US": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "en-CA": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "pt-BR": "Grupo de elefantes no Parque Nacional de Amboseli, Quênia (© Ibrahim Suha Derbent/Getty Images)",
-      "en-GB": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "de-DE": "Eine Elefantengruppe im Amboseli-Nationalpark, Kenia (© Ibrahim Suha Derbent/Getty Images)",
-      "fr-FR": "Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "it-IT": "Un gruppo di elefanti, Parco Nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
-      "es-ES": "Un grupo de elefantes, Parque Nacional Amboseli, Kenia (© Ibrahim Suha Derbent/Getty Images)",
-      "ja-JP": "ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)",
-      "zh-CN": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)",
-      "en-IN": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)"
-    },
-    "descs": {
-      "en-US": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
-      "en-CA": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
-      "en-GB": "On 12 August, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
-      "de-DE": "Am 12. August lenkt der Weltelefantentag den Blick auf eines der beeindruckendsten Tiere unseres Planeten. Das Bild zeigt eine Elefantengruppe im Amboseli-Nationalpark in Kenia, einer Landschaft, die für ihre weiten Ebenen und ihre bedeutenden Elefantenpopulationen bekannt ist. Innerhalb der Herden übernehmen erfahrene Leitkühe eine wichtige Rolle. Sie führen ihre Familien zu Wasserstellen und sicheren Wegen und geben Wissen weiter, das über Generationen hinweg erhalten bleibt.",
-      "fr-FR": "Chaque 12 août, la Journée mondiale de l’éléphant rappelle que ces géants sont bien plus que d’imposants mammifères. Dans le parc national d’Amboseli, au Kenya, les troupeaux traversent les paysages ouverts avec calme et détermination. Les matriarches guident leur troupeau vers les sources d’eau grâce à une mémoire acquise et enrichie au fil des années. Chez les éléphants, les déplacements témoignent d’une histoire de transmission autant que de survie.",
-      "es-ES": "Una manada de elefantes en movimiento por el Parque Nacional Amboseli, en Kenia, no se desplaza al azar: sigue rutas trazadas durante generaciones en la memoria de sus matriarcas, que conocen cada fuente de agua y cada refugio bajo las sombras del Kilimanjaro. Cada 12 de agosto, el Día Mundial del Elefante —celebrado desde 2012— invita a detenerse ante la complejidad de estos animales, cuya inteligencia, vínculos sociales y capacidad emocional rivalizan con las de muchos primates.",
-      "ja-JP": "今日 8 月 12 日は世界ゾウの日。密猟や生息地の破壊などによって絶滅の危機に瀕しているゾウの保護を呼びかける日として、2012 年に制定されました。画像は、ケニアのアンボセリ国立公園で暮らすゾウの群れ。ゾウは、年長のメスを中心とした群れで生活しており、オスは 12 ～ 15 歳程度の時期に群れを離れます。また、巨大な体に加え、高い知能と優れた記憶力を持つのもゾウの特徴です。そのため、リーダーである母ゾウが、長年の記憶を頼りに、群れを各地の水場へと導いています。",
-      "en-IN": "On 12 August, World Elephant Day shines a spotlight on the world's African and Asian elephants and the urgent need to protect them. In places like Amboseli National Park in Kenya, captured in this image, a herd doesn't simply pass through the landscape—it remembers it. Matriarchs guide their families between water sources, following routes shaped as much by memory as by terrain.",
-      "it-IT": "Una mandria di elefanti in cammino nel Parco Nazionale di Amboseli, in Kenya, non si sposta a caso: percorre rotte impresse per generazioni nella memoria delle matriarche, che conoscono ogni fonte d'acqua e ogni rifugio all'ombra del Kilimangiaro. Ogni 12 agosto, la Giornata Mondiale dell'Elefante — celebrata dal 2012 — invita a fermarsi davanti alla profondità di questi animali, la cui intelligenza, i legami sociali e la capacità emotiva rivaleggiano con quelli di molti primati.",
-      "pt-BR": "Dizem que elefantes têm boa memória. A verdade é mais impressionante: dela pode depender o destino de uma família inteira. Hoje, no Dia Mundial dos Elefantes, a imagem leva ao Parque Nacional de Amboseli, no Quênia, onde uma matriarca conduz seu grupo por rotas aprendidas ao longo de décadas. Ela sabe onde encontrar água depois da seca, quais caminhos são mais seguros e quando é hora de seguir viagem. Cada passo carrega experiência.",
-      "zh-CN": "8月12日世界大象日，让我们停下脚步，不仅思考这些动物的庞大体型，也体会它们生命的深度。在图片所示的肯尼亚安博塞利国家公园等地，非洲草原象群并非只是穿越景观；它们还会记住这片土地。母象首领带领家族往返于不同水源，行进路线既由地形塑造，也由记忆指引。"
-    },
-    "quickFacts": {
-      "zh-CN": "2024年的一项研究利用在安博塞利录制的叫声发现，非洲象会用类似个体名字的叫声彼此称呼。"
-    },
-    "captions": {
-      "en-US": "World Elephant Day",
-      "en-CA": "World Elephant Day",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260812_0700%22",
-      "en-CA": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260812_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+dos+Elefantes&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.ElephantDay_EN-US4280370948",
-      "en-CA": "/th?id=OHR.ElephantDay_EN-CA5228508211",
-      "pt-BR": "/th?id=OHR.ElephantDay_PT-BR6092042150"
-    }
-  },
-  "AurorasIceland": {
-    "name": "AurorasIceland",
-    "urlbase": "/th?id=OHR.AurorasIceland_EN-GB1541173608",
-    "date": "20260825",
-    "dateFormatted": "August 25, 2026",
+  "LakeMagadi": {
+    "name": "LakeMagadi",
+    "urlbase": "/th?id=OHR.LakeMagadi_EN-GB1628809720",
+    "date": "20260826",
+    "dateFormatted": "August 26, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
       },
       {
         "code": "de-DE",
@@ -1679,6 +1671,16 @@
         "code": "it-IT",
         "name": "IT",
         "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
       },
       {
         "code": "ja-JP",
@@ -1697,70 +1699,82 @@
       }
     ],
     "titles": {
-      "en-GB": "A sky alive with colour. Auroras over Kirkjufell, Iceland",
-      "de-DE": "Farbspiele am Himmel. Polarlichter über dem Kirkjufell, Island",
-      "fr-FR": "Comme un mirage céleste. Aurores boréales sur Kirkjufell, Islande",
-      "it-IT": "Una tempesta di colori",
-      "ja-JP": "オーロラが描く幻想の空",
-      "zh-CN": "基尔丘山上空的极光，冰岛",
-      "en-IN": "A sky alive with colour. Auroras over Kirkjufell, Iceland",
-      "en-US": "A sky alive with color. Auroras over Kirkjufell, Iceland",
-      "en-CA": "A sky alive with colour. Auroras over Kirkjufell, Iceland",
-      "pt-BR": "A coreografia do cosmos. Auroras sobre Kirkjufell, Islândia"
+      "en-GB": "Water, wildlife and wonder. World Lake Day",
+      "en-CA": "Water, wildlife and wonder. World Lake Day",
+      "de-DE": "Wasser, Wildtiere und Wunder. Welttag der Seen",
+      "fr-FR": "Des trésors à protéger. Journée mondiale des lacs",
+      "it-IT": "Acqua, fauna selvatica e meraviglia",
+      "es-ES": "Agua, fauna y maravilla. Día Mundial de los Lagos",
+      "pt-BR": "Liquidez em risco",
+      "ja-JP": "今日は世界湖沼の日",
+      "zh-CN": "日出时的小红鹳群，马加迪湖，肯尼亚",
+      "en-IN": "Water, wildlife and wonder. World Lake Day",
+      "en-US": "Water, wildlife, and wonder. Lesser flamingo flock at sunrise, Lake Magadi, Kenya"
     },
     "copyrights": {
-      "en-GB": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
-      "de-DE": "Polarlichter über dem Kirkjufell, Island (© Cavan Images/Alamy)",
-      "fr-FR": "Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)",
-      "it-IT": "L'aurora boreale su Kirkjufell, Islanda (© Cavan Images/Alamy)",
-      "ja-JP": "オーロラ, アイスランド (© Cavan Images/Alamy)",
-      "zh-CN": "基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)",
-      "en-IN": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
-      "en-US": "© Cavan Images/Alamy",
-      "en-CA": "© Cavan Images/Alamy",
-      "pt-BR": "© Cavan Images/Alamy"
+      "en-GB": "Lesser flamingo flock, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "en-CA": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "de-DE": "Zwergflamingos bei Sonnenaufgang am Magadi-See, Kenia (© Denis-Huot/Nature Picture Library)",
+      "fr-FR": "Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "it-IT": "Il fenicottero minore all'alba, Lago Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "es-ES": "Bandada de flamencos enanos al amanecer, Lago Magadi, Kenia (© Denis-Huot/Nature Picture Library)",
+      "pt-BR": "Bando de flamingos-pequenos ao nascer do sol no Lago Magadi, Quênia (© Denis-Huot/Nature Picture Library)",
+      "ja-JP": "マガディ湖, ケニア (© Denis-Huot/Nature Picture Library)",
+      "zh-CN": "日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)",
+      "en-IN": "Lesser flamingo flock, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "en-US": "© Denis-Huot/Nature Picture Library"
     },
     "descs": {
-      "en-GB": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when charged particles from the sun collide with oxygen and nitrogen high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. From September to April, Iceland's northern location and long winter nights make it one of the world's finest places to witness the display.",
-      "de-DE": "Der Kirkjufell zählt zu den bekanntesten Bergen Islands und bietet eine eindrucksvolle Kulisse für die Beobachtung von Polarlichtern. Wenn die Nächte im Herbst und Winter langsam dunkler werden, erscheinen grüne Lichtbänder am Himmel und verwandeln die Landschaft in ein faszinierendes Schauspiel. Die reflektierenden Farben, die schneebedeckten Hänge und die abgelegene Lage schaffen eine Atmosphäre, die Besucher aus aller Welt anzieht. Besonders in den kalten Monaten gehören solche Nächte zu den eindrucksvollsten Naturerlebnissen des Landes.",
-      "fr-FR": "À mesure que les nuits s’allongent sur l’Islande, les regards se tournent vers le ciel dans l’espoir d’apercevoir l’aurore boréale. Ce ballet lumineux naît lorsque des particules venues du Soleil rencontrent les gaz de la haute atmosphère terrestre. Des voiles verts, roses, violets et parfois rouges ondulent alors au-dessus des paysages volcaniques. Grâce à sa situation à proximité du cercle polaire et à l’obscurité prolongée de l’automne et de l’hiver, l’île figure parmi les meilleurs endroits au monde pour contempler ce phénomène fascinant.",
-      "ja-JP": "アイスランドでは秋の訪れとともに夜が長くなり、オーロラ観測に適した季節が近づいています。オーロラで見られる青や緑、紫などに揺らめく光は、太陽から飛来した電気を帯びた粒子（プラズマ）が地球の高層大気中のガスと衝突することで発生します。そして、今日の画像はその幻想的な光の下にそびえるキルキュフェットル山。「教会の山」を意味する山で、晴れた夜には、この山と滝、そしてオーロラが織りなす絶景が多くの人々を魅了します。",
-      "en-IN": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when charged particles from the sun collide with oxygen and nitrogen high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. From September to April, Iceland's northern location and long winter nights make it one of the world's finest places to witness the display.",
-      "en-US": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when particles from the sun interact with gases high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple, and sometimes red light. Iceland's northern location and increasingly dark autumn and winter nights make it one of the world's premier destinations for aurora viewing.",
-      "en-CA": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when particles from the sun interact with gases high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. Iceland's northern location and increasingly dark autumn and winter nights make it one of the world's premier destinations for aurora viewing.",
-      "it-IT": "Sopra il monte Kirkjufell, nella penisola di Snæfellsnes, Islanda, il cielo notturno si trasforma in uno spettacolo di luci verdi, rosa e viola: è l'aurora boreale, il fenomeno che si produce quando le particelle solari collidono con i gas dell'atmosfera terrestre ad alta quota. La posizione settentrionale dell'Islanda e le lunghe notti autunnali e invernali la rendono una delle mete privilegiate al mondo per osservarla.",
-      "pt-BR": "O espetáculo começa a quase 150 milhões de quilômetros dali. Lançadas pelo Sol, partículas atravessam o espaço até encontrarem o campo magnético da Terra. Quando isso acontece sobre regiões próximas ao Ártico, o céu ganha movimento. A aurora boreal forma cortinas de luz que mudam de forma e cor, passando por tons de verde, rosa, violeta e, às vezes, vermelho.",
-      "zh-CN": "随着冰岛的夜晚再次变长，游客很快又会仰望天空，期待一睹北极光。北极光是一种发光现象，当来自太阳的粒子与地球高层大气中的气体相互作用时，便会形成闪烁的绿色、粉色、紫色，有时甚至是红色光带。冰岛地处北方，秋冬季夜晚日益漫长而黑暗，因此成为全球首屈一指的极光观赏地之一。"
+      "en-GB": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources, providing clean water, supporting wildlife, regulating climate and sustaining communities worldwide. Recognising their importance, the United Nations designated 27 August as World Lake Day, first observed in 2025. Earth is home to more than 117 million lakes covering nearly 4% of its land surface. Together, they sustain countless ecosystems, while Lake Baikal in Russia alone holds about one-fifth of the world's surface liquid freshwater. Yet many lakes face growing pressure from pollution, overuse and climate change.",
+      "en-CA": "Imagine a world without the natural wonders that contain about 90% of Earth's surface freshwater. Lakes provide drinking water, support wildlife, help regulate climate and sustain communities around the globe. In recognition of their vital role, the United Nations designated 27 August as World Lake Day, first observed in 2025. The observance has particular relevance for Canadians, as Canada is home to more than two million lakes that shape its landscapes, ecosystems, recreation and freshwater resources. Protecting them is increasingly important as pollution, overuse and climate change put pressure on many lake environments.",
+      "de-DE": "Der Welttag der Seen am 27. August erinnert daran, wie wertvoll Seen für Natur, Klima und Menschen sind. Sie speichern Wasser, bieten Lebensraum für zahlreiche Tier- und Pflanzenarten und prägen Landschaften auf der ganzen Welt. Gleichzeitig sind viele Seen durch Verschmutzung, zunehmende Trockenheit und andere Umweltveränderungen bedroht. Der Aktionstag macht darauf aufmerksam, wie wichtig ihr Schutz für kommende Generationen ist.",
+      "fr-FR": "Il est difficile d’imaginer un monde privé de ces vastes miroirs d’eau qui renferment l’essentiel de l’eau douce liquide présente à la surface de la Terre. Les lacs sont au cœur de l’équilibre des écosystèmes : ils fournissent de l’eau, abritent une biodiversité remarquable, influencent le climat local et soutiennent d’innombrables communautés humaines. Pour souligner leur importance, les Nations unies ont instauré la Journée mondiale des lacs, célébrée chaque 27 août depuis 2025. Plus de 117 millions de lacs couvrent près de 4 % des terres émergées, mais beaucoup subissent pollution, surexploitation et dérèglement climatique.",
+      "es-ES": "En el lago Magadi, en el Gran Valle del Rift, Kenia, los flamencos enanos tiñen el horizonte de rosa al amanecer. Este lago somero y alcalino, rico en minerales, genera una proliferación de algas que atrae a miles de estas aves para alimentarse, transformando la orilla en un espectáculo de color extraordinario. Los lagos son mucho más que agua: almacenan alrededor del noventa por ciento del agua dulce superficial del planeta, regulan el clima y sostienen ecosistemas enteros. La ONU designó el 27 de agosto como Día Mundial de los Lagos, celebrado por primera vez en 2025, para visibilizar las amenazas que afrontan: contaminación, sobreexplotación y cambio climático.",
+      "ja-JP": "今日8月27日は「世界湖沼の日」。湖沼の重要性と保全への意識を高めるため、2024 年に国連総会で制定されました。湖沼は貴重な淡水資源であり、多様な生物を支える重要な存在です。しかし、都市化や気候変動などの影響により、その存続が脅かされています。そして、今日の画像は、ケニア南西部のマガディ湖に集まるコフラミンゴの群れ。マガディ湖は強アルカリ性で魚はほとんどいないものの、藻類が豊富であり、フラミンゴはそれを求めて集まっています。",
+      "en-IN": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources, providing clean water, supporting wildlife, regulating climate and sustaining communities worldwide. Recognising their importance, the United Nations designated 27 August as World Lake Day, first observed in 2025. Earth is home to more than 117 million lakes covering nearly 4% of its land surface. Together, they sustain countless ecosystems, while Lake Baikal in Russia alone holds about one-fifth of the world's surface liquid freshwater. Yet many lakes face growing pressure from pollution, overuse and climate change.",
+      "en-US": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources. They provide clean water, support wildlife, help regulate climate, and sustain communities around the globe. In recognition of their vital role, the United Nations designated August 27 as World Lake Day, first observed in 2025. The need for action is greater than ever. More than 117 million lakes cover nearly 4% of Earth's land surface, yet many face growing pressure from pollution, overuse, and climate change.",
+      "it-IT": "I fenicotteri minori del Lago Magadi, nella Grande Rift Valley del Kenya, tingono l'orizzonte di rosa all'alba, trasformando le rive di questo lago alcalino e poco profondo in uno spettacolo di colore straordinario. Le sue acque ricche di minerali favoriscono la proliferazione di alghe di cui si nutrono a migliaia. Il 27 agosto è la Giornata Mondiale dei Laghi, istituita dall'ONU nel 2025: i laghi coprono quasi il 4 % della superficie terrestre e contengono circa il 90 % dell'acqua dolce superficiale del pianeta, ma molti sono minacciati da inquinamento e cambiamenti climatici.",
+      "pt-BR": "Imagine abrir a torneira e descobrir que parte da água do mundo desapareceu. Parece exagero, mas lagos armazenam cerca de 90% da água doce líquida da superfície terrestre. Só que ter muita água não significa que ela está protegida. O Brasil, que concentra aproximadamente 12% da água doce superficial do planeta, é um de muitos países que enfrentam ameaças como poluição, uso excessivo, espécies invasoras e mudanças climáticas. É por isso que a ONU celebra, em 27 de agosto, o Dia Internacional dos Lagos.",
+      "zh-CN": "想象一个没有这些自然奇观的世界——它们容纳着地球约90%的地表淡水。湖泊是地球上最宝贵的资源之一。它们提供清洁水源、支持野生动物、帮助调节气候，并维系全球各地的社区。为肯定湖泊的重要作用，联合国将8月27日定为世界湖泊日，并于2025年首次纪念。采取行动的必要性比以往任何时候都更为迫切。全球超过1.17亿个湖泊覆盖了近4%的陆地表面，但许多湖泊正面临污染、过度利用和气候变化带来的日益严峻的压力。"
     },
     "quickFacts": {
-      "zh-CN": "极光有时还可能伴随微弱声响，不过相关报告较少，其形成机制仍在研究中。"
+      "zh-CN": "马加迪湖位于火山盆地中，温泉为富含碳酸钠的高碱性湖水提供补给。"
     },
     "captions": {
-      "en-GB": "Auroras over Kirkjufell, Iceland",
-      "de-DE": "Polarlichter über dem Kirkjufell, Island",
-      "fr-FR": "Aurores boréales sur Kirkjufell, Islande",
+      "en-GB": "World Lake Day",
+      "en-CA": "World Lake Day",
+      "de-DE": "Welttag der Seen",
+      "fr-FR": "Journée mondiale des lacs",
       "it-IT": "",
-      "ja-JP": "オーロラが描く幻想の空",
+      "es-ES": "Día Mundial de los Lagos",
+      "pt-BR": "",
+      "ja-JP": "今日は世界湖沼の日",
       "zh-CN": "",
-      "en-IN": "Auroras over Kirkjufell, Iceland"
+      "en-IN": "World Lake Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260825_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Polarlicht&form=hpcapt&filters=HpDate%3a%2220260825_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=aurore+bor%c3%a9ale&form=hpcapt&filters=HpDate%3a%2220260825_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Aurora+boreale&form=hpcapt",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ad%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220260825_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8c%97%e6%9e%81%e5%85%89&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260825_1830%22"
+      "en-GB": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260826_2300%22",
+      "en-CA": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260827_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Welttag+der+Seen&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+lacs&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lago+Magadi&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lago+Magadi&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+dos+Lagos&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b2%bc%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260826_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b3%8a%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260826_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AurorasIceland_EN-GB1541173608",
-      "de-DE": "/th?id=OHR.AurorasIceland_DE-DE5182720309",
-      "fr-FR": "/th?id=OHR.AurorasIceland_FR-FR6287537082",
-      "it-IT": "/th?id=OHR.AurorasIceland_IT-IT1298284038",
-      "ja-JP": "/th?id=OHR.AurorasIceland_JA-JP9970815507",
-      "zh-CN": "/th?id=OHR.AurorasIceland_ZH-CN9781322454",
-      "en-IN": "/th?id=OHR.AurorasIceland_EN-IN9916681236"
+      "en-GB": "/th?id=OHR.LakeMagadi_EN-GB1628809720",
+      "en-CA": "/th?id=OHR.LakeMagadi_EN-CA0091651040",
+      "de-DE": "/th?id=OHR.LakeMagadi_DE-DE5321228958",
+      "fr-FR": "/th?id=OHR.LakeMagadi_FR-FR8316800874",
+      "it-IT": "/th?id=OHR.LakeMagadi_IT-IT1397011994",
+      "es-ES": "/th?id=OHR.LakeMagadi_ES-ES9474511114",
+      "pt-BR": "/th?id=OHR.LakeMagadi_PT-BR1138055993",
+      "ja-JP": "/th?id=OHR.LakeMagadi_JA-JP0125683063",
+      "zh-CN": "/th?id=OHR.LakeMagadi_ZH-CN0601527009",
+      "en-IN": "/th?id=OHR.LakeMagadi_EN-IN0044350841"
     }
   },
   "SantaCatarina": {
@@ -2357,78 +2371,6 @@
       "es-ES": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269"
     }
   },
-  "ColorfulCop": {
-    "name": "ColorfulCop",
-    "urlbase": "/th?id=OHR.ColorfulCop_ES-ES0268766801",
-    "date": "20260812",
-    "dateFormatted": "August 12, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "es-ES": "Copenhague a todo color. Canal de Nyhavn, Copenhague, Dinamarca",
-      "pt-BR": "Um porto entre capítulos",
-      "en-US": "Copenhagen in full color. Nyhavn Canal, Copenhagen, Denmark",
-      "en-CA": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
-      "en-GB": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
-      "de-DE": "Kopenhagen in voller Farbe. Nyhavn-Kanal, Kopenhagen, Dänemark",
-      "fr-FR": "Copenhague haute en couleur. Canal Nyhavn, Copenhague, Danemark",
-      "it-IT": "Copenaghen a colori",
-      "zh-CN": "绚丽多彩的哥本哈根",
-      "en-IN": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
-      "ja-JP": "静かな水面に映るカラフルな街並み"
-    },
-    "copyrights": {
-      "es-ES": "Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
-      "pt-BR": "Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
-      "en-US": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "en-CA": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "en-GB": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "de-DE": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
-      "fr-FR": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
-      "it-IT": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
-      "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)",
-      "en-IN": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "ja-JP": "ニューハウン, デンマーク (© emicristea/Getty Images)"
-    },
-    "descs": {
-      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
-      "en-US": "In Copenhagen, Nyhavn Canal is a burst of color and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships.",
-      "en-CA": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
-      "en-GB": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
-      "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
-      "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
-      "en-IN": "In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks.",
-      "ja-JP": "ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
-      "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
-      "pt-BR": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
-      "zh-CN": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。"
-    },
-    "quickFacts": {
-      "zh-CN": "汉斯·克里斯蒂安·安徒生一生中曾在新港的18号、20号和67号三个不同地址居住。"
-    },
-    "captions": {
-      "es-ES": "Canal de Nyhavn, Copenhague, Dinamarca",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Canal+de+Nyhavn+en+Copenhague&form=hpcapt&filters=HpDate%3a%2220260812_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Canal+Nyhavn+Dinamarca&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.ColorfulCop_ES-ES0268766801",
-      "pt-BR": "/th?id=OHR.ColorfulCop_PT-BR4548843545"
-    }
-  },
   "Lencois": {
     "name": "Lencois",
     "urlbase": "/th?id=OHR.Lencois_PT-BR9491147631",
@@ -2491,6 +2433,70 @@
     },
     "urlbases": {
       "pt-BR": "/th?id=OHR.FolkRJ_PT-BR6598036806"
+    }
+  },
+  "ColorfulCop": {
+    "name": "ColorfulCop",
+    "urlbase": "/th?id=OHR.ColorfulCop_PT-BR4548843545",
+    "date": "20260815",
+    "dateFormatted": "August 15, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Um porto entre capítulos",
+      "es-ES": "Copenhague a todo color. Canal de Nyhavn, Copenhague, Dinamarca",
+      "en-US": "Copenhagen in full color. Nyhavn Canal, Copenhagen, Denmark",
+      "en-CA": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "en-GB": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "de-DE": "Kopenhagen in voller Farbe. Nyhavn-Kanal, Kopenhagen, Dänemark",
+      "fr-FR": "Copenhague haute en couleur. Canal Nyhavn, Copenhague, Danemark",
+      "it-IT": "Copenaghen a colori",
+      "zh-CN": "绚丽多彩的哥本哈根",
+      "en-IN": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "ja-JP": "静かな水面に映るカラフルな街並み"
+    },
+    "copyrights": {
+      "pt-BR": "Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
+      "es-ES": "Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
+      "en-US": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "en-CA": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "en-GB": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "de-DE": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
+      "fr-FR": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
+      "it-IT": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
+      "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)",
+      "en-IN": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "ja-JP": "ニューハウン, デンマーク (© emicristea/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
+      "en-US": "In Copenhagen, Nyhavn Canal is a burst of color and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships.",
+      "en-CA": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
+      "en-GB": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
+      "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
+      "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
+      "en-IN": "In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks.",
+      "ja-JP": "ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
+      "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
+      "pt-BR": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
+      "zh-CN": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。"
+    },
+    "quickFacts": {
+      "zh-CN": "汉斯·克里斯蒂安·安徒生一生中曾在新港的18号、20号和67号三个不同地址居住。"
+    },
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Canal+Nyhavn+Dinamarca&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.ColorfulCop_PT-BR4548843545"
     }
   },
   "ShizuokaSummer2026": {
@@ -2621,6 +2627,86 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+    }
+  },
+  "ElephantDay": {
+    "name": "ElephantDay",
+    "urlbase": "/th?id=OHR.ElephantDay_EN-US4280370948",
+    "date": "20260812",
+    "dateFormatted": "August 12, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Giants worth protecting. World Elephant Day",
+      "en-CA": "Giants worth protecting. World Elephant Day",
+      "pt-BR": "O peso da experiência",
+      "en-GB": "Giants worth protecting. World Elephant Day",
+      "de-DE": "Schützenswerte Giganten. Weltelefantentag",
+      "fr-FR": "Des géants au cœur tendre. Journée mondiale de l’éléphant",
+      "it-IT": "Gianti che vale la pena proteggere",
+      "es-ES": "¡Qué memoria de elefantes! Día Mundial del Elefante",
+      "ja-JP": "今日は世界ゾウの日",
+      "zh-CN": "值得守护的巨兽",
+      "en-IN": "Giants worth protecting. World Elephant Day"
+    },
+    "copyrights": {
+      "en-US": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "en-CA": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "pt-BR": "Grupo de elefantes no Parque Nacional de Amboseli, Quênia (© Ibrahim Suha Derbent/Getty Images)",
+      "en-GB": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "de-DE": "Eine Elefantengruppe im Amboseli-Nationalpark, Kenia (© Ibrahim Suha Derbent/Getty Images)",
+      "fr-FR": "Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "it-IT": "Un gruppo di elefanti, Parco Nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+      "es-ES": "Un grupo de elefantes, Parque Nacional Amboseli, Kenia (© Ibrahim Suha Derbent/Getty Images)",
+      "ja-JP": "ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)",
+      "zh-CN": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)",
+      "en-IN": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)"
+    },
+    "descs": {
+      "en-US": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
+      "en-CA": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
+      "en-GB": "On 12 August, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
+      "de-DE": "Am 12. August lenkt der Weltelefantentag den Blick auf eines der beeindruckendsten Tiere unseres Planeten. Das Bild zeigt eine Elefantengruppe im Amboseli-Nationalpark in Kenia, einer Landschaft, die für ihre weiten Ebenen und ihre bedeutenden Elefantenpopulationen bekannt ist. Innerhalb der Herden übernehmen erfahrene Leitkühe eine wichtige Rolle. Sie führen ihre Familien zu Wasserstellen und sicheren Wegen und geben Wissen weiter, das über Generationen hinweg erhalten bleibt.",
+      "fr-FR": "Chaque 12 août, la Journée mondiale de l’éléphant rappelle que ces géants sont bien plus que d’imposants mammifères. Dans le parc national d’Amboseli, au Kenya, les troupeaux traversent les paysages ouverts avec calme et détermination. Les matriarches guident leur troupeau vers les sources d’eau grâce à une mémoire acquise et enrichie au fil des années. Chez les éléphants, les déplacements témoignent d’une histoire de transmission autant que de survie.",
+      "es-ES": "Una manada de elefantes en movimiento por el Parque Nacional Amboseli, en Kenia, no se desplaza al azar: sigue rutas trazadas durante generaciones en la memoria de sus matriarcas, que conocen cada fuente de agua y cada refugio bajo las sombras del Kilimanjaro. Cada 12 de agosto, el Día Mundial del Elefante —celebrado desde 2012— invita a detenerse ante la complejidad de estos animales, cuya inteligencia, vínculos sociales y capacidad emocional rivalizan con las de muchos primates.",
+      "ja-JP": "今日 8 月 12 日は世界ゾウの日。密猟や生息地の破壊などによって絶滅の危機に瀕しているゾウの保護を呼びかける日として、2012 年に制定されました。画像は、ケニアのアンボセリ国立公園で暮らすゾウの群れ。ゾウは、年長のメスを中心とした群れで生活しており、オスは 12 ～ 15 歳程度の時期に群れを離れます。また、巨大な体に加え、高い知能と優れた記憶力を持つのもゾウの特徴です。そのため、リーダーである母ゾウが、長年の記憶を頼りに、群れを各地の水場へと導いています。",
+      "en-IN": "On 12 August, World Elephant Day shines a spotlight on the world's African and Asian elephants and the urgent need to protect them. In places like Amboseli National Park in Kenya, captured in this image, a herd doesn't simply pass through the landscape—it remembers it. Matriarchs guide their families between water sources, following routes shaped as much by memory as by terrain.",
+      "it-IT": "Una mandria di elefanti in cammino nel Parco Nazionale di Amboseli, in Kenya, non si sposta a caso: percorre rotte impresse per generazioni nella memoria delle matriarche, che conoscono ogni fonte d'acqua e ogni rifugio all'ombra del Kilimangiaro. Ogni 12 agosto, la Giornata Mondiale dell'Elefante — celebrata dal 2012 — invita a fermarsi davanti alla profondità di questi animali, la cui intelligenza, i legami sociali e la capacità emotiva rivaleggiano con quelli di molti primati.",
+      "pt-BR": "Dizem que elefantes têm boa memória. A verdade é mais impressionante: dela pode depender o destino de uma família inteira. Hoje, no Dia Mundial dos Elefantes, a imagem leva ao Parque Nacional de Amboseli, no Quênia, onde uma matriarca conduz seu grupo por rotas aprendidas ao longo de décadas. Ela sabe onde encontrar água depois da seca, quais caminhos são mais seguros e quando é hora de seguir viagem. Cada passo carrega experiência.",
+      "zh-CN": "8月12日世界大象日，让我们停下脚步，不仅思考这些动物的庞大体型，也体会它们生命的深度。在图片所示的肯尼亚安博塞利国家公园等地，非洲草原象群并非只是穿越景观；它们还会记住这片土地。母象首领带领家族往返于不同水源，行进路线既由地形塑造，也由记忆指引。"
+    },
+    "quickFacts": {
+      "zh-CN": "2024年的一项研究利用在安博塞利录制的叫声发现，非洲象会用类似个体名字的叫声彼此称呼。"
+    },
+    "captions": {
+      "en-US": "World Elephant Day",
+      "en-CA": "World Elephant Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260812_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260812_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+dos+Elefantes&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ElephantDay_EN-US4280370948",
+      "en-CA": "/th?id=OHR.ElephantDay_EN-CA5228508211",
+      "pt-BR": "/th?id=OHR.ElephantDay_PT-BR6092042150"
     }
   },
   "StuDay": {
