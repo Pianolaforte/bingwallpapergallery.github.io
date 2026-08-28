@@ -1,4 +1,292 @@
 {
+  "MichelSunset": {
+    "name": "MichelSunset",
+    "urlbase": "/th?id=OHR.MichelSunset_EN-US3527235033",
+    "date": "20260828",
+    "dateFormatted": "August 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where tides shape a legend. Mont-Saint Michel during high tide, Normandy, France",
+      "en-GB": "Where tides shape a legend. Mont-Saint‑Michel during high tide, Normandy, France",
+      "en-CA": "Where tides shape a legend. Mont-Saint Michel during high tide, Normandy, France",
+      "de-DE": "Zwischen Himmel und Meer. Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich",
+      "fr-FR": "Bercé par la marée. Le Mont-Saint-Michel à marée haute, Manche, Normandie",
+      "it-IT": "La marea trasforma il paesaggio",
+      "es-ES": "Donde la marea transforma paisajes. Monte Saint-Michel, Mancha, Normandía, Francia",
+      "pt-BR": "Uma ilha de meio período",
+      "ja-JP": "海岸風景の中にそびえる修道院",
+      "zh-CN": "涨潮时的圣米歇尔山，芒什省，诺曼底，法国",
+      "en-IN": "Where tides shape a legend. Mont-Saint‑Michel during high tide, Normandy, France"
+    },
+    "copyrights": {
+      "en-US": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+      "en-GB": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+      "en-CA": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+      "de-DE": "Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich (© Clement LEONARD/Getty Images)",
+      "fr-FR": "Le Mont-Saint-Michel à marée haute, Manche, Normandie (© Clement LEONARD/Getty Images)",
+      "it-IT": "Le Mont-Saint-Michel, Manica, Normandia, Francia (© Clement LEONARD/Getty Images)",
+      "es-ES": "Monte Saint-Michel durante la marea alta, Mancha, Normandía, Francia (© Clement LEONARD/Getty Images)",
+      "pt-BR": "Monte Saint-Michel durante a maré alta, Manche, Normandia, França (© Clement LEONARD/Getty Images)",
+      "ja-JP": "モン・サン＝ミシェル, フランス (© Clement LEONARD/Getty Images)",
+      "zh-CN": "涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)",
+      "en-IN": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)"
+    },
+    "descs": {
+      "en-US": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the center of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travelers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+      "en-GB": "At sunset, Mont-Saint‑Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+      "en-CA": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+      "de-DE": "Der Mont-Saint-Michel bei Flut in der Manche in der Normandie zählt zu den bekanntesten Wahrzeichen Frankreichs. Sobald das Meer ansteigt, verwandelt sich der Granitfelsen in eine Insel und wirkt wie eine Erscheinung aus einer anderen Zeit. Seine Geschichte reicht bis ins Jahr 708 zurück, als der Überlieferung nach der Erzengel Michael dem Bischof Aubert von Avranches erschien und ihn zum Bau eines Heiligtums auf dem Felsen aufforderte. Aus dieser ersten Kultstätte entwickelte sich im Laufe der Jahrhunderte ein bedeutendes religiöses Zentrum und ein viel besuchter Wallfahrtsort.",
+      "fr-FR": "Au coucher du soleil, le Mont-Saint-Michel semble surgir des eaux de Normandie comme un mirage façonné par les marées. Dressée sur un îlot rocheux, cette silhouette emblématique domine l’une des baies les plus spectaculaires d’Europe. Deux fois par jour, la mer se retire sur plusieurs kilomètres, dévoilant d’immenses étendues de sable où s’aventurent oiseaux côtiers et promeneurs attentifs. Puis l’eau revient, transformant à nouveau le mont en île. Depuis des siècles, habitants, marchands et pèlerins vivent au rythme de ce mouvement incessant, voyant le paysage se métamorphoser au fil des heures dans une lumière changeante et fascinante.",
+      "es-ES": "Al atardecer, el Monte Saint-Michel emerge de las aguas de Normandía, Francia, como una fortaleza esculpida por las mareas. Dos veces al día, el mar se retira dejando al descubierto vastas extensiones de arena antes de regresar: la diferencia entre marea alta y baja puede alcanzar los 14 metros, una de las más extremas del mundo. Durante siglos, los peregrinos calibraban sus travesías al ritmo de esas aguas o arriesgaban quedar atrapados.",
+      "ja-JP": "フランス・ノルマンディーの海に浮かぶモン・サン＝ミシェルが、夕陽に照らされて幻想的な姿を見せています。岩山の上にそびえ立つこの修道院は、ヨーロッパでも屈指の海岸景観で知られており、潮が引くと広大な干潟が現れ、満潮になると周囲を海に囲まれた島のような景観となります。その起源は 708 年にさかのぼるとされ、長い歴史の中でヨーロッパを代表するカトリックの巡礼地のひとつへと発展しました。そして、1979 年には「モン＝サン＝ミシェルとその湾」として、ユネスコの世界遺産に登録されました。",
+      "en-IN": "At sunset, Mont-Saint‑Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+      "it-IT": "Al tramonto, Mont-Saint-Michel emerge dalle acque della Normandia, in Francia, come una fortezza scolpita dalle maree. Due volte al giorno il mare si ritira scoprendo vaste distese di sabbia, poi torna a isolare il monte: la differenza tra alta e bassa marea può raggiungere i quattordici metri, una delle più estreme al mondo. Per secoli i pellegrini calcolavano i loro attraversamenti al ritmo di quelle acque, rischiando di restare intrappolati.",
+      "pt-BR": "Aqui, quem define os limites da terra não é o mapa. É a maré. A imagem mostra o Monte Saint-Michel, na Normandia, França, erguido sobre uma ilha rochosa onde o movimento das águas comanda o relógio. Quando o mar recua, revela uma vasta planície de areia. Poucas horas depois, a água retorna em velocidade surpreendente e recompõe a ilha, repetindo um ciclo que acontece há séculos.",
+      "zh-CN": "日落时分，圣米歇尔山从法国诺曼底的水面升起，宛如一座由海洋塑造的堡垒。修道院和村庄坐落在岩石潮汐岛上，矗立于欧洲最壮观的海岸环境之一。每天两次，海水退去，露出大片沙滩；随后潮水再次涌回，重新覆盖这片景观。涨潮时，圣米歇尔山又会变成一座岛屿。数百年来，旅行者一直根据这种潮汐节奏安排行程，在条件允许时穿越潮滩，并在数小时后观看海水归来。"
+    },
+    "quickFacts": {
+      "zh-CN": "圣米歇尔山周围的潮差可达约14米，是欧洲潮差最大的地区之一。"
+    },
+    "captions": {
+      "en-US": "Mont-Saint Michel during high tide, Normandy, France",
+      "en-GB": "Mont-Saint‑Michel during high tide, Normandy, France",
+      "en-CA": "Mont-Saint Michel during high tide, Normandy, France",
+      "de-DE": "Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich",
+      "fr-FR": "Le Mont-Saint-Michel à marée haute, Manche, Normandie",
+      "it-IT": "",
+      "es-ES": "Monte Saint-Michel, Mancha, Normandía, Francia",
+      "pt-BR": "",
+      "ja-JP": "海岸風景の中にそびえる修道院",
+      "zh-CN": "",
+      "en-IN": "Mont-Saint‑Michel during high tide, Normandy, France"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260828_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260827_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260828_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Mont-Saint-Michel&form=hpcapt&filters=HpDate%3a%2220260827_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Le+Mont-Saint-Michel&form=hpcapt&filters=HpDate%3a%2220260827_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Le+Mont-Saint-Michel&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Monte+Saint-Michel&form=hpcapt&filters=HpDate%3a%2220260827_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Monte+Saint+Michel&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a2%e3%83%b3%e3%83%bb%e3%82%b5%e3%83%b3%ef%bc%9d%e3%83%9f%e3%82%b7%e3%82%a7%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220260827_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9c%a3%e7%b1%b3%e6%ad%87%e5%b0%94%e5%b1%b1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260827_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MichelSunset_EN-US3527235033",
+      "en-GB": "/th?id=OHR.MichelSunset_EN-GB1738815139",
+      "en-CA": "/th?id=OHR.MichelSunset_EN-CA0604318625",
+      "de-DE": "/th?id=OHR.MichelSunset_DE-DE7463636835",
+      "fr-FR": "/th?id=OHR.MichelSunset_FR-FR8060193680",
+      "it-IT": "/th?id=OHR.MichelSunset_IT-IT1503723648",
+      "es-ES": "/th?id=OHR.MichelSunset_ES-ES9649662621",
+      "pt-BR": "/th?id=OHR.MichelSunset_PT-BR1793038232",
+      "ja-JP": "/th?id=OHR.MichelSunset_JA-JP0274204340",
+      "zh-CN": "/th?id=OHR.MichelSunset_ZH-CN0822968543",
+      "en-IN": "/th?id=OHR.MichelSunset_EN-IN0118589173"
+    }
+  },
+  "LakeMagadi": {
+    "name": "LakeMagadi",
+    "urlbase": "/th?id=OHR.LakeMagadi_EN-US3401664434",
+    "date": "20260827",
+    "dateFormatted": "August 27, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Water, wildlife, and wonder. World Lake Day",
+      "en-GB": "Water, wildlife and wonder. World Lake Day",
+      "en-CA": "Water, wildlife and wonder. World Lake Day",
+      "de-DE": "Wasser, Wildtiere und Wunder. Welttag der Seen",
+      "fr-FR": "Des trésors à protéger. Journée mondiale des lacs",
+      "it-IT": "Acqua, fauna selvatica e meraviglia",
+      "es-ES": "Agua, fauna y maravilla. Día Mundial de los Lagos",
+      "pt-BR": "Liquidez em risco",
+      "ja-JP": "今日は世界湖沼の日",
+      "zh-CN": "日出时的小红鹳群，马加迪湖，肯尼亚",
+      "en-IN": "Water, wildlife and wonder. World Lake Day"
+    },
+    "copyrights": {
+      "en-US": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "en-GB": "Lesser flamingo flock, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "en-CA": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "de-DE": "Zwergflamingos bei Sonnenaufgang am Magadi-See, Kenia (© Denis-Huot/Nature Picture Library)",
+      "fr-FR": "Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "it-IT": "Il fenicottero minore all'alba, Lago Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+      "es-ES": "Bandada de flamencos enanos al amanecer, Lago Magadi, Kenia (© Denis-Huot/Nature Picture Library)",
+      "pt-BR": "Bando de flamingos-pequenos ao nascer do sol no Lago Magadi, Quênia (© Denis-Huot/Nature Picture Library)",
+      "ja-JP": "マガディ湖, ケニア (© Denis-Huot/Nature Picture Library)",
+      "zh-CN": "日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)",
+      "en-IN": "Lesser flamingo flock, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources. They provide clean water, support wildlife, help regulate climate, and sustain communities around the globe. In recognition of their vital role, the United Nations designated August 27 as World Lake Day, first observed in 2025. The need for action is greater than ever. More than 117 million lakes cover nearly 4% of Earth's land surface, yet many face growing pressure from pollution, overuse, and climate change.",
+      "en-GB": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources, providing clean water, supporting wildlife, regulating climate and sustaining communities worldwide. Recognising their importance, the United Nations designated 27 August as World Lake Day, first observed in 2025. Earth is home to more than 117 million lakes covering nearly 4% of its land surface. Together, they sustain countless ecosystems, while Lake Baikal in Russia alone holds about one-fifth of the world's surface liquid freshwater. Yet many lakes face growing pressure from pollution, overuse and climate change.",
+      "en-CA": "Imagine a world without the natural wonders that contain about 90% of Earth's surface freshwater. Lakes provide drinking water, support wildlife, help regulate climate and sustain communities around the globe. In recognition of their vital role, the United Nations designated 27 August as World Lake Day, first observed in 2025. The observance has particular relevance for Canadians, as Canada is home to more than two million lakes that shape its landscapes, ecosystems, recreation and freshwater resources. Protecting them is increasingly important as pollution, overuse and climate change put pressure on many lake environments.",
+      "de-DE": "Der Welttag der Seen am 27. August erinnert daran, wie wertvoll Seen für Natur, Klima und Menschen sind. Sie speichern Wasser, bieten Lebensraum für zahlreiche Tier- und Pflanzenarten und prägen Landschaften auf der ganzen Welt. Gleichzeitig sind viele Seen durch Verschmutzung, zunehmende Trockenheit und andere Umweltveränderungen bedroht. Der Aktionstag macht darauf aufmerksam, wie wichtig ihr Schutz für kommende Generationen ist.",
+      "fr-FR": "Il est difficile d’imaginer un monde privé de ces vastes miroirs d’eau qui renferment l’essentiel de l’eau douce liquide présente à la surface de la Terre. Les lacs sont au cœur de l’équilibre des écosystèmes : ils fournissent de l’eau, abritent une biodiversité remarquable, influencent le climat local et soutiennent d’innombrables communautés humaines. Pour souligner leur importance, les Nations unies ont instauré la Journée mondiale des lacs, célébrée chaque 27 août depuis 2025. Plus de 117 millions de lacs couvrent près de 4 % des terres émergées, mais beaucoup subissent pollution, surexploitation et dérèglement climatique.",
+      "es-ES": "En el lago Magadi, en el Gran Valle del Rift, Kenia, los flamencos enanos tiñen el horizonte de rosa al amanecer. Este lago somero y alcalino, rico en minerales, genera una proliferación de algas que atrae a miles de estas aves para alimentarse, transformando la orilla en un espectáculo de color extraordinario. Los lagos son mucho más que agua: almacenan alrededor del noventa por ciento del agua dulce superficial del planeta, regulan el clima y sostienen ecosistemas enteros. La ONU designó el 27 de agosto como Día Mundial de los Lagos, celebrado por primera vez en 2025, para visibilizar las amenazas que afrontan: contaminación, sobreexplotación y cambio climático.",
+      "ja-JP": "今日8月27日は「世界湖沼の日」。湖沼の重要性と保全への意識を高めるため、2024 年に国連総会で制定されました。湖沼は貴重な淡水資源であり、多様な生物を支える重要な存在です。しかし、都市化や気候変動などの影響により、その存続が脅かされています。そして、今日の画像は、ケニア南西部のマガディ湖に集まるコフラミンゴの群れ。マガディ湖は強アルカリ性で魚はほとんどいないものの、藻類が豊富であり、フラミンゴはそれを求めて集まっています。",
+      "en-IN": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources, providing clean water, supporting wildlife, regulating climate and sustaining communities worldwide. Recognising their importance, the United Nations designated 27 August as World Lake Day, first observed in 2025. Earth is home to more than 117 million lakes covering nearly 4% of its land surface. Together, they sustain countless ecosystems, while Lake Baikal in Russia alone holds about one-fifth of the world's surface liquid freshwater. Yet many lakes face growing pressure from pollution, overuse and climate change.",
+      "it-IT": "I fenicotteri minori del Lago Magadi, nella Grande Rift Valley del Kenya, tingono l'orizzonte di rosa all'alba, trasformando le rive di questo lago alcalino e poco profondo in uno spettacolo di colore straordinario. Le sue acque ricche di minerali favoriscono la proliferazione di alghe di cui si nutrono a migliaia. Il 27 agosto è la Giornata Mondiale dei Laghi, istituita dall'ONU nel 2025: i laghi coprono quasi il 4 % della superficie terrestre e contengono circa il 90 % dell'acqua dolce superficiale del pianeta, ma molti sono minacciati da inquinamento e cambiamenti climatici.",
+      "pt-BR": "Imagine abrir a torneira e descobrir que parte da água do mundo desapareceu. Parece exagero, mas lagos armazenam cerca de 90% da água doce líquida da superfície terrestre. Só que ter muita água não significa que ela está protegida. O Brasil, que concentra aproximadamente 12% da água doce superficial do planeta, é um de muitos países que enfrentam ameaças como poluição, uso excessivo, espécies invasoras e mudanças climáticas. É por isso que a ONU celebra, em 27 de agosto, o Dia Internacional dos Lagos.",
+      "zh-CN": "想象一个没有这些自然奇观的世界——它们容纳着地球约90%的地表淡水。湖泊是地球上最宝贵的资源之一。它们提供清洁水源、支持野生动物、帮助调节气候，并维系全球各地的社区。为肯定湖泊的重要作用，联合国将8月27日定为世界湖泊日，并于2025年首次纪念。采取行动的必要性比以往任何时候都更为迫切。全球超过1.17亿个湖泊覆盖了近4%的陆地表面，但许多湖泊正面临污染、过度利用和气候变化带来的日益严峻的压力。"
+    },
+    "quickFacts": {
+      "zh-CN": "马加迪湖位于火山盆地中，温泉为富含碳酸钠的高碱性湖水提供补给。"
+    },
+    "captions": {
+      "en-US": "World Lake Day",
+      "en-GB": "World Lake Day",
+      "en-CA": "World Lake Day",
+      "de-DE": "Welttag der Seen",
+      "fr-FR": "Journée mondiale des lacs",
+      "it-IT": "",
+      "es-ES": "Día Mundial de los Lagos",
+      "pt-BR": "",
+      "ja-JP": "今日は世界湖沼の日",
+      "zh-CN": "",
+      "en-IN": "World Lake Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260827_0700%22",
+      "en-GB": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260826_2300%22",
+      "en-CA": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260827_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Welttag+der+Seen&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+lacs&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lago+Magadi&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lago+Magadi&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+dos+Lagos&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b2%bc%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260826_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b3%8a%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260826_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LakeMagadi_EN-US3401664434",
+      "en-GB": "/th?id=OHR.LakeMagadi_EN-GB1628809720",
+      "en-CA": "/th?id=OHR.LakeMagadi_EN-CA0091651040",
+      "de-DE": "/th?id=OHR.LakeMagadi_DE-DE5321228958",
+      "fr-FR": "/th?id=OHR.LakeMagadi_FR-FR8316800874",
+      "it-IT": "/th?id=OHR.LakeMagadi_IT-IT1397011994",
+      "es-ES": "/th?id=OHR.LakeMagadi_ES-ES9474511114",
+      "pt-BR": "/th?id=OHR.LakeMagadi_PT-BR1138055993",
+      "ja-JP": "/th?id=OHR.LakeMagadi_JA-JP0125683063",
+      "zh-CN": "/th?id=OHR.LakeMagadi_ZH-CN0601527009",
+      "en-IN": "/th?id=OHR.LakeMagadi_EN-IN0044350841"
+    }
+  },
   "AurorasIceland": {
     "name": "AurorasIceland",
     "urlbase": "/th?id=OHR.AurorasIceland_EN-US3293282785",
@@ -671,7 +959,7 @@
       "es-ES": "Tomando la curva perfecta. Paso de Julier, región de Grisones, Suiza",
       "pt-BR": "A estrada que conquista montanhas",
       "ja-JP": "アルブラアルプスを縫う山岳道路",
-      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士",
+      "zh-CN": "攀登在召唤",
       "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland",
       "en-CA": "The climb is calling. Winding road of Julier Pass, Switzerland"
     },
@@ -1435,348 +1723,6 @@
       "zh-CN": "/th?id=OHR.ValleyDreams_ZH-CN9689713135"
     }
   },
-  "WildlifeCrossingPoland": {
-    "name": "WildlifeCrossingPoland",
-    "urlbase": "/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603",
-    "date": "20260814",
-    "dateFormatted": "August 14, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-US": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
-      "en-GB": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
-      "en-CA": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
-      "de-DE": "Für Pfoten gebaut. Grünbrücke bei Zakrzów, Polen",
-      "it-IT": "Progettato per gli animali",
-      "es-ES": "Hecho para patas, no para personas. Ecoducto cerca de Zakrzów, Polonia",
-      "pt-BR": "Um elo entre dois mundos",
-      "ja-JP": "森をつなぐ動物専用橋",
-      "zh-CN": "为动物脚掌而建，而非行人",
-      "en-IN": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
-      "fr-FR": "Tracé pour la nature. Un écopont près de Zakrzów, Pologne"
-    },
-    "copyrights": {
-      "en-US": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
-      "en-GB": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
-      "en-CA": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
-      "de-DE": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)",
-      "it-IT": "Veduta aerea di un passaggio faunistico vicino a Zakrzów, Polonia (© bbsferrari/Getty Images)",
-      "es-ES": "Vista aérea de un ecoducto cerca de Zakrzów, Polonia (© bbsferrari/Getty Images)",
-      "pt-BR": "Vista aérea de um ecoduto perto de Zakrzów, Polônia (© bbsferrari/Getty Images)",
-      "ja-JP": "エコダクト, ポーランド (© bbsferrari/Getty Images)",
-      "zh-CN": "扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)",
-      "en-IN": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
-      "fr-FR": "Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats, and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, and the idea soon spread across Europe. Countries such as the Netherlands helped refine ecoduct design by building wide green bridges covered in soil and native vegetation, from grasses and shrubs to trees.",
-      "en-GB": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
-      "en-CA": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later refined the concept with broad, green bridges covered in soil and native vegetation.",
-      "de-DE": "Die Luftaufnahme zeigt eine Grünbrücke bei Zakrzów in Polen, die eine stark befahrene Verkehrsachse überspannt. Solche Bauwerke verbinden Lebensräume, die durch Straßen und Autobahnen voneinander getrennt wurden. Für viele Tierarten schaffen sie sichere Wege zwischen Futtergebieten, Rückzugsorten und Wanderkorridoren. Dadurch sinkt nicht nur das Risiko von Wildunfällen, sondern auch die Gefahr, dass Populationen durch die Zerschneidung ihrer Lebensräume isoliert werden. Grünbrücken gelten heute als wichtiger Bestandteil moderner Naturschutzmaßnahmen.",
-      "es-ES": "Las carreteras resolvieron un problema y crearon otro sin querer: mientras las personas viajaban más rápido que nunca, la fauna silvestre veía cómo las autopistas partían en dos los territorios que había recorrido durante generaciones. La respuesta llegó en forma de ecoducto —puentes o túneles diseñados para que los animales crucen las vías de tráfico con seguridad— y los primeros ejemplos modernos surgieron precisamente en Francia durante los años cincuenta, extendiéndose después por toda Europa.",
-      "ja-JP": "道路の整備により、人間が素早く快適に移動できるようになった一方で、野生動物は移動ルートを分断されたことで、道路を横断する際に車などとの衝突事故に遭うようになってしまいました。こうした課題を解決するために建設されたのが人工的なけもの道ともいえる「エコダクト」です。今日の画像はポーランドのザクルフにあるエコダクトで、分断された生息地を再びつなぎ、動物たちが交通量の多い道路を安全に横断できるようにしています。現在では、このような橋が世界各地に設置され、野生動物と人の共生を支えています。",
-      "en-IN": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
-      "fr-FR": "Les routes ont transformé notre rapport aux distances, rapprochant les villes et accélérant notre rythme de vie. Mais sous ce progrès, une fragmentation s’est installée dans les paysages. Les forêts, prairies et montagnes, autrefois continues, se sont retrouvées morcelées, les sentiers rompus. Cerfs, renards et ours ont continué d’emprunter ces routes invisibles, croisant désormais l’asphalte et le danger. Collisions, isolement génétique, disparition silencieuse : les conséquences se sont accumulées au fil des décennies.",
-      "it-IT": "Le strade hanno risolto un problema creandone silenziosamente un altro: mentre le persone viaggiavano più veloce che mai, la fauna selvatica si trovava di fronte ad autostrade che tagliavano in due i territori percorsi per generazioni. La risposta è arrivata sotto forma di ecodotto — ponti o tunnel progettati per permettere agli animali di attraversare le vie di traffico in sicurezza — e i primi esempi moderni comparvero in Francia negli anni Cinquanta, diffondendosi poi in tutta Europa.",
-      "zh-CN": "道路解决了一个问题，却悄然制造了另一个问题。人类出行速度前所未有地提高，野生动物世代沿用的迁徙路线却被公路切断，导致碰撞事故增加、栖息地破碎化，野生动物种群彼此隔绝。为应对这一挑战，人们建造了称为生态桥的野生动物通道：这些桥梁或隧道旨在重新连接栖息地，让动物安全穿越繁忙道路。最早的一些现代案例于20世纪50年代出现在法国，这一理念很快传遍欧洲。荷兰等国通过建造覆盖土壤及草本、灌木和乔木等本土植被的宽阔绿色桥梁，推动了生态桥设计的完善。",
-      "pt-BR": "Estradas aproximaram cidades e encurtaram distâncias, mas criaram uma barreira inesperada: para muitos animais, atravessar uma rodovia virou uma missão perigosa. Rotas antigas de migração foram cortadas pelo asfalto, habitats ficaram separados e atropelamentos se tornaram mais frequentes. A solução veio de uma ideia curiosa: construir caminhos que não fossem para pessoas, mas para patas, asas e cascos."
-    },
-    "quickFacts": {
-      "en-GB": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
-      "de-DE": "In Frankreich entstanden die ersten Grünbrücken in den 1950er Jahren. Sie ermöglichten Tieren die Durchquerung von Landschaften, die durch neue Straßen zerschnitten worden waren.",
-      "fr-FR": "Les écoducs permettent aux animaux de traverser les routes sans danger, mais aussi de rompre l’isolement et d’échanger leurs gènes, préservant ainsi la biodiversité.",
-      "zh-CN": "20世纪50年代，法国首次出现了野生动物通道，为动物们在被公路分割的新景观中开辟了一条生路。",
-      "en-IN": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
-      "en-US": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
-      "en-CA": "Highway fencing in Banff National Park has cut wildlife-vehicle collisions by over 80%, including more than 96% for elk and deer."
-    },
-    "captions": {
-      "en-US": "Wildlife crossing near Zakrzów, Poland",
-      "en-GB": "Wildlife crossing near Zakrzów, Poland",
-      "en-CA": "Wildlife crossing near Zakrzów, Poland",
-      "de-DE": "Grünbrücke bei Zakrzów, Polen",
-      "it-IT": "",
-      "es-ES": "Ecoducto cerca de Zakrzów, Polonia",
-      "pt-BR": "",
-      "ja-JP": "森をつなぐ動物専用橋",
-      "zh-CN": "",
-      "en-IN": "Wildlife crossing near Zakrzów, Poland"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260814_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260813_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260814_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Gr%c3%bcnbr%c3%bccke&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Passaggio+faunistico&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Ecoducto&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=ecodutos+pontes+verdes&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e5%8b%95%e7%89%a9%e7%94%a8%e3%81%ae%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260818_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%87%8e%e7%94%9f%e5%8a%a8%e7%89%a9%e9%80%9a%e9%81%93&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260813_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603",
-      "en-GB": "/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597",
-      "en-CA": "/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434",
-      "de-DE": "/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409",
-      "it-IT": "/th?id=OHR.WildlifeCrossingPoland_IT-IT3470939727",
-      "es-ES": "/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817",
-      "pt-BR": "/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073",
-      "ja-JP": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306",
-      "zh-CN": "/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246",
-      "en-IN": "/th?id=OHR.WildlifeCrossingPoland_EN-IN1351400780"
-    }
-  },
-  "PerseidasTenerife": {
-    "name": "PerseidasTenerife",
-    "urlbase": "/th?id=OHR.PerseidasTenerife_EN-US4798593153",
-    "date": "20260813",
-    "dateFormatted": "August 13, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "Make a wish. Perseid meteor shower over Tenerife, Spain",
-      "en-GB": "Make a wish. Perseid meteor shower over Tenerife, Spain",
-      "en-CA": "Make a wish. Perseid meteor shower over Tenerife, Spain",
-      "de-DE": "Leuchtender Himmel. Perseiden-Meteore auf Teneriffa, Spanien",
-      "fr-FR": "Faites un vœu ! Perséides au-dessus de Tenerife, Espagne",
-      "it-IT": "Esprimere un desiderio!",
-      "pt-BR": "Desejos à velocidade da luz",
-      "ja-JP": "ペルセウス座流星群が輝く夜空",
-      "zh-CN": "许个愿吧",
-      "en-IN": "Make a wish. Perseid meteor shower over Tenerife, Spain",
-      "es-ES": "Un universo por descubrir. Observatorio Astronómico de Izaña, Tenerife, España"
-    },
-    "copyrights": {
-      "en-US": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
-      "en-GB": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
-      "en-CA": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
-      "de-DE": "Perseiden-Meteore über dem Teide-Observatorium auf Teneriffa, Spanien (© Westend61/Getty Images)",
-      "fr-FR": "Perséides au-dessus de l’observatoire du Teide, Tenerife, Espagne (© Westend61/Getty Images)",
-      "it-IT": "Meteore delle Perseidi sopra l'Osservatorio del Teide, Tenerife, Spagna (© Westend61/Getty Images)",
-      "pt-BR": "Meteoros Perseidas sobre o Observatório do Teide, Tenerife, Espanha (© Westend61/Getty Images)",
-      "ja-JP": "テイデ天文台, スペイン (© Westend61/Getty Images)",
-      "zh-CN": "泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)",
-      "en-IN": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
-      "es-ES": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around August 12-13. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
-      "en-GB": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around 12-13 August. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
-      "en-CA": "Not every summer tradition happens on the ground. Some take place hundreds of kilometres overhead, one meteor at a time. The Perseids return every year from mid-July through late August, usually peaking around August 12–13. Visible across much of the world, they can produce dozens of meteors per hour under dark, clear skies. Each streak is a tiny fragment of debris left behind by Comet Swift–Tuttle as Earth moves through its dust trail, appearing to radiate from the constellation Perseus. In Canada, dark-sky destinations such as Jasper National Park in Alberta and Torrance Barrens Dark-Sky Preserve in Ontario are among the best places to enjoy the annual display.",
-      "de-DE": "Jeden Sommer zieht ein besonderes Himmelsschauspiel die Aufmerksamkeit von Sternenfreunden auf sich. Die Perseiden sind von Mitte Juli bis Ende August sichtbar und erreichen ihren Höhepunkt meist um den 12. und 13. August. Unter dunklem Himmel können dabei mehrere Dutzend Sternschnuppen pro Stunde erscheinen. Die leuchtenden Spuren entstehen, wenn die Erde Teilchen durchquert, die der Komet Swift-Tuttle auf seiner Bahn hinterlassen hat. Am Nachthimmel scheinen die Meteore aus dem Sternbild Perseus zu kommen.",
-      "fr-FR": "Chaque été, un spectacle fascinant se déroule au-dessus de nos têtes. De la mi-juillet à la fin août, les Perséides fendent le ciel nocturne, atteignant leur apogée autour du 12 et 13 août. Sous un ciel dégagé et préservé des lumières artificielles, des dizaines d’étoiles filantes peuvent être observées en une seule heure. Chacune d’elles est en réalité une minuscule particule laissée par la comète Swift-Tuttle sur son orbite, que la Terre croise chaque année. Les météores semblent surgir de la constellation de Persée, qui a donné son nom à cette pluie d’étoiles filantes.",
-      "ja-JP": "三大流星群の一つであるペルセウス座流星群が見頃を迎えています。多くの流星が流れると予想されるのは 8 月 12 日の夜から 13 日の未明と、13 日夜から 14 日の未明です。特に、本日 13 日は新月で月明かりの影響がないため、星空観察には好条件の日となっています。そして画像は、スペインのテイデ国立公園にあるテイデ天文台で以前撮影されたペルセウス座流星群。テイデ国立公園は、標高約 2400m の高地にあり、澄んだ空気と光害の少ない環境から、世界有数の天体観測地として知られています。",
-      "en-IN": "Not every summer tradition happens on the ground. Some unfold hundreds of miles overhead, one meteor at a time. The Perseids return each year from mid-July through late August, peaking around 12-13 August, when as many as 100 meteors an hour can streak across dark skies. Each meteor is a tiny fragment left behind by Comet Swift–Tuttle as Earth passes through its dust trail, appearing to radiate from the constellation Perseus. In Spain, the display is affectionately known as Lágrimas de San Lorenzo ('Tears of Saint Lawrence').",
-      "es-ES": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo.",
-      "it-IT": "Non tutte le tradizioni estive si vivono sulla spiaggia. Alcune si svolgono a centinaia di chilometri sopra le nostre teste, una meteora alla volta: le Perseidi tornano ogni anno tra metà luglio e fine agosto, raggiungendo il picco attorno al 12-13 agosto. L'immagine è scattata sopra l'Osservatorio del Teide a Tenerife, in Spagna, situato a 2.390 metri di altitudine — abbastanza in alto da lasciarsi il mare di nuvole sotto i piedi.",
-      "zh-CN": "并非所有夏日传统都发生在地面。有些在数百英里高空上演，每次划过一颗流星。英仙座流星雨每年从7月中旬持续至8月下旬，并在8月12日至13日前后达到峰值。世界大部分地区都能看到它；在黑暗天空下，每小时往往会出现数十颗流星。想象自己抬头仰望，一道接一道亮光划过。数到多少颗时，你会忘记数目？每道亮光都来自斯威夫特-塔特尔彗星散落的碎屑，地球穿过其尘埃带时便形成流星。它们看起来像是从英仙座辐射而出。",
-      "pt-BR": "Tem noites em que o céu parece gastar todo o seu estoque de efeitos especiais. Entre julho e agosto, a Terra atravessa a trilha de detritos deixada pelo cometa Swift-Tuttle, dando origem à chuva de meteoros Perseidas, que atinge o auge por volta de 12 e 13 de agosto. E sabia que não são estrelas cadentes? Cada risco luminoso é um pequeno fragmento de rocha e poeira que incandesce ao atravessar a atmosfera a dezenas de quilômetros por segundo."
-    },
-    "quickFacts": {
-      "zh-CN": "作为英仙座流星雨母体的斯威夫特-塔特尔彗星，绕太阳运行一周约需133年。"
-    },
-    "captions": {
-      "en-US": "Perseid meteor shower over Tenerife, Spain"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260813_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.PerseidasTenerife_EN-US4798593153"
-    }
-  },
-  "LakeMagadi": {
-    "name": "LakeMagadi",
-    "urlbase": "/th?id=OHR.LakeMagadi_EN-GB1628809720",
-    "date": "20260826",
-    "dateFormatted": "August 26, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Water, wildlife and wonder. World Lake Day",
-      "en-CA": "Water, wildlife and wonder. World Lake Day",
-      "de-DE": "Wasser, Wildtiere und Wunder. Welttag der Seen",
-      "fr-FR": "Des trésors à protéger. Journée mondiale des lacs",
-      "it-IT": "Acqua, fauna selvatica e meraviglia",
-      "es-ES": "Agua, fauna y maravilla. Día Mundial de los Lagos",
-      "pt-BR": "Liquidez em risco",
-      "ja-JP": "今日は世界湖沼の日",
-      "zh-CN": "日出时的小红鹳群，马加迪湖，肯尼亚",
-      "en-IN": "Water, wildlife and wonder. World Lake Day",
-      "en-US": "Water, wildlife, and wonder. Lesser flamingo flock at sunrise, Lake Magadi, Kenya"
-    },
-    "copyrights": {
-      "en-GB": "Lesser flamingo flock, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
-      "en-CA": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
-      "de-DE": "Zwergflamingos bei Sonnenaufgang am Magadi-See, Kenia (© Denis-Huot/Nature Picture Library)",
-      "fr-FR": "Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
-      "it-IT": "Il fenicottero minore all'alba, Lago Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
-      "es-ES": "Bandada de flamencos enanos al amanecer, Lago Magadi, Kenia (© Denis-Huot/Nature Picture Library)",
-      "pt-BR": "Bando de flamingos-pequenos ao nascer do sol no Lago Magadi, Quênia (© Denis-Huot/Nature Picture Library)",
-      "ja-JP": "マガディ湖, ケニア (© Denis-Huot/Nature Picture Library)",
-      "zh-CN": "日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)",
-      "en-IN": "Lesser flamingo flock, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
-      "en-US": "© Denis-Huot/Nature Picture Library"
-    },
-    "descs": {
-      "en-GB": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources, providing clean water, supporting wildlife, regulating climate and sustaining communities worldwide. Recognising their importance, the United Nations designated 27 August as World Lake Day, first observed in 2025. Earth is home to more than 117 million lakes covering nearly 4% of its land surface. Together, they sustain countless ecosystems, while Lake Baikal in Russia alone holds about one-fifth of the world's surface liquid freshwater. Yet many lakes face growing pressure from pollution, overuse and climate change.",
-      "en-CA": "Imagine a world without the natural wonders that contain about 90% of Earth's surface freshwater. Lakes provide drinking water, support wildlife, help regulate climate and sustain communities around the globe. In recognition of their vital role, the United Nations designated 27 August as World Lake Day, first observed in 2025. The observance has particular relevance for Canadians, as Canada is home to more than two million lakes that shape its landscapes, ecosystems, recreation and freshwater resources. Protecting them is increasingly important as pollution, overuse and climate change put pressure on many lake environments.",
-      "de-DE": "Der Welttag der Seen am 27. August erinnert daran, wie wertvoll Seen für Natur, Klima und Menschen sind. Sie speichern Wasser, bieten Lebensraum für zahlreiche Tier- und Pflanzenarten und prägen Landschaften auf der ganzen Welt. Gleichzeitig sind viele Seen durch Verschmutzung, zunehmende Trockenheit und andere Umweltveränderungen bedroht. Der Aktionstag macht darauf aufmerksam, wie wichtig ihr Schutz für kommende Generationen ist.",
-      "fr-FR": "Il est difficile d’imaginer un monde privé de ces vastes miroirs d’eau qui renferment l’essentiel de l’eau douce liquide présente à la surface de la Terre. Les lacs sont au cœur de l’équilibre des écosystèmes : ils fournissent de l’eau, abritent une biodiversité remarquable, influencent le climat local et soutiennent d’innombrables communautés humaines. Pour souligner leur importance, les Nations unies ont instauré la Journée mondiale des lacs, célébrée chaque 27 août depuis 2025. Plus de 117 millions de lacs couvrent près de 4 % des terres émergées, mais beaucoup subissent pollution, surexploitation et dérèglement climatique.",
-      "es-ES": "En el lago Magadi, en el Gran Valle del Rift, Kenia, los flamencos enanos tiñen el horizonte de rosa al amanecer. Este lago somero y alcalino, rico en minerales, genera una proliferación de algas que atrae a miles de estas aves para alimentarse, transformando la orilla en un espectáculo de color extraordinario. Los lagos son mucho más que agua: almacenan alrededor del noventa por ciento del agua dulce superficial del planeta, regulan el clima y sostienen ecosistemas enteros. La ONU designó el 27 de agosto como Día Mundial de los Lagos, celebrado por primera vez en 2025, para visibilizar las amenazas que afrontan: contaminación, sobreexplotación y cambio climático.",
-      "ja-JP": "今日8月27日は「世界湖沼の日」。湖沼の重要性と保全への意識を高めるため、2024 年に国連総会で制定されました。湖沼は貴重な淡水資源であり、多様な生物を支える重要な存在です。しかし、都市化や気候変動などの影響により、その存続が脅かされています。そして、今日の画像は、ケニア南西部のマガディ湖に集まるコフラミンゴの群れ。マガディ湖は強アルカリ性で魚はほとんどいないものの、藻類が豊富であり、フラミンゴはそれを求めて集まっています。",
-      "en-IN": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources, providing clean water, supporting wildlife, regulating climate and sustaining communities worldwide. Recognising their importance, the United Nations designated 27 August as World Lake Day, first observed in 2025. Earth is home to more than 117 million lakes covering nearly 4% of its land surface. Together, they sustain countless ecosystems, while Lake Baikal in Russia alone holds about one-fifth of the world's surface liquid freshwater. Yet many lakes face growing pressure from pollution, overuse and climate change.",
-      "en-US": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources. They provide clean water, support wildlife, help regulate climate, and sustain communities around the globe. In recognition of their vital role, the United Nations designated August 27 as World Lake Day, first observed in 2025. The need for action is greater than ever. More than 117 million lakes cover nearly 4% of Earth's land surface, yet many face growing pressure from pollution, overuse, and climate change.",
-      "it-IT": "I fenicotteri minori del Lago Magadi, nella Grande Rift Valley del Kenya, tingono l'orizzonte di rosa all'alba, trasformando le rive di questo lago alcalino e poco profondo in uno spettacolo di colore straordinario. Le sue acque ricche di minerali favoriscono la proliferazione di alghe di cui si nutrono a migliaia. Il 27 agosto è la Giornata Mondiale dei Laghi, istituita dall'ONU nel 2025: i laghi coprono quasi il 4 % della superficie terrestre e contengono circa il 90 % dell'acqua dolce superficiale del pianeta, ma molti sono minacciati da inquinamento e cambiamenti climatici.",
-      "pt-BR": "Imagine abrir a torneira e descobrir que parte da água do mundo desapareceu. Parece exagero, mas lagos armazenam cerca de 90% da água doce líquida da superfície terrestre. Só que ter muita água não significa que ela está protegida. O Brasil, que concentra aproximadamente 12% da água doce superficial do planeta, é um de muitos países que enfrentam ameaças como poluição, uso excessivo, espécies invasoras e mudanças climáticas. É por isso que a ONU celebra, em 27 de agosto, o Dia Internacional dos Lagos.",
-      "zh-CN": "想象一个没有这些自然奇观的世界——它们容纳着地球约90%的地表淡水。湖泊是地球上最宝贵的资源之一。它们提供清洁水源、支持野生动物、帮助调节气候，并维系全球各地的社区。为肯定湖泊的重要作用，联合国将8月27日定为世界湖泊日，并于2025年首次纪念。采取行动的必要性比以往任何时候都更为迫切。全球超过1.17亿个湖泊覆盖了近4%的陆地表面，但许多湖泊正面临污染、过度利用和气候变化带来的日益严峻的压力。"
-    },
-    "quickFacts": {
-      "zh-CN": "马加迪湖位于火山盆地中，温泉为富含碳酸钠的高碱性湖水提供补给。"
-    },
-    "captions": {
-      "en-GB": "World Lake Day",
-      "en-CA": "World Lake Day",
-      "de-DE": "Welttag der Seen",
-      "fr-FR": "Journée mondiale des lacs",
-      "it-IT": "",
-      "es-ES": "Día Mundial de los Lagos",
-      "pt-BR": "",
-      "ja-JP": "今日は世界湖沼の日",
-      "zh-CN": "",
-      "en-IN": "World Lake Day"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260826_2300%22",
-      "en-CA": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260827_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Welttag+der+Seen&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+lacs&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lago+Magadi&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lago+Magadi&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+dos+Lagos&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b2%bc%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260826_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b3%8a%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260826_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.LakeMagadi_EN-GB1628809720",
-      "en-CA": "/th?id=OHR.LakeMagadi_EN-CA0091651040",
-      "de-DE": "/th?id=OHR.LakeMagadi_DE-DE5321228958",
-      "fr-FR": "/th?id=OHR.LakeMagadi_FR-FR8316800874",
-      "it-IT": "/th?id=OHR.LakeMagadi_IT-IT1397011994",
-      "es-ES": "/th?id=OHR.LakeMagadi_ES-ES9474511114",
-      "pt-BR": "/th?id=OHR.LakeMagadi_PT-BR1138055993",
-      "ja-JP": "/th?id=OHR.LakeMagadi_JA-JP0125683063",
-      "zh-CN": "/th?id=OHR.LakeMagadi_ZH-CN0601527009",
-      "en-IN": "/th?id=OHR.LakeMagadi_EN-IN0044350841"
-    }
-  },
   "SantaCatarina": {
     "name": "SantaCatarina",
     "urlbase": "/th?id=OHR.SantaCatarina_EN-GB1458336075",
@@ -2120,40 +2066,6 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.GlenanSummer_FR-FR4786744371"
-    }
-  },
-  "DolmenRoche": {
-    "name": "DolmenRoche",
-    "urlbase": "/th?id=OHR.DolmenRoche_FR-FR1513962303",
-    "date": "20260813",
-    "dateFormatted": "August 13, 2026",
-    "markets": [
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "fr-FR": "« Par Toutatis ! ». 100ᵉ anniversaire de la naissance de René Goscinny"
-    },
-    "copyrights": {
-      "fr-FR": "Dolmen, La Roche-Aux-Fées, Bretagne (© Michal Boubin/Getty Images)"
-    },
-    "descs": {
-      "fr-FR": "À l’occasion du 100ᵉ anniversaire de la naissance de René Goscinny, la Bretagne évoque naturellement l’univers d’Astérix. Car, comme il est souvent rappelé dans la célèbre bande dessinée, le village des irréductibles Gaulois se situe sur les côtes armoricaines, au cœur de cette péninsule battue par les vents et les embruns."
-    },
-    "quickFacts": {
-      "fr-FR": "Le village d’Astérix est souvent associé à la Pointe des Trois Pierres d’Erquy, dans les Côtes-d’Armor, qui ressemblent au dessin de la loupe dans les albums et aurait inspiré l’artiste Albert Uderzo."
-    },
-    "captions": {
-      "fr-FR": "100ᵉ anniversaire de la naissance de René Goscinny"
-    },
-    "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=Ren%c3%a9+Goscinny&form=hpcapt&filters=HpDate%3a%2220260813_2200%22"
-    },
-    "urlbases": {
-      "fr-FR": "/th?id=OHR.DolmenRoche_FR-FR1513962303"
     }
   },
   "NotteTaranta": {
@@ -2531,11 +2443,11 @@
       "ja-JP": "/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076"
     }
   },
-  "Shimoda2026": {
-    "name": "Shimoda2026",
-    "urlbase": "/th?id=OHR.Shimoda2026_JA-JP6266826592",
-    "date": "20260813",
-    "dateFormatted": "August 13, 2026",
+  "WildlifeCrossingPoland": {
+    "name": "WildlifeCrossingPoland",
+    "urlbase": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306",
+    "date": "20260818",
+    "dateFormatted": "August 18, 2026",
     "markets": [
       {
         "code": "ja-JP",
@@ -2544,23 +2456,61 @@
       }
     ],
     "titles": {
-      "ja-JP": "灯りに彩られた歴史ある港町"
+      "ja-JP": "森をつなぐ動物専用橋",
+      "en-US": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
+      "en-GB": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
+      "en-CA": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
+      "de-DE": "Für Pfoten gebaut. Grünbrücke bei Zakrzów, Polen",
+      "it-IT": "Progettato per gli animali",
+      "es-ES": "Hecho para patas, no para personas. Ecoducto cerca de Zakrzów, Polonia",
+      "pt-BR": "Um elo entre dois mundos",
+      "zh-CN": "为动物脚掌而建，而非行人",
+      "en-IN": "Built for paws, not people. Wildlife crossing near Zakrzów, Poland",
+      "fr-FR": "Tracé pour la nature. Un écopont près de Zakrzów, Pologne"
     },
     "copyrights": {
-      "ja-JP": "下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)"
+      "ja-JP": "エコダクト, ポーランド (© bbsferrari/Getty Images)",
+      "en-US": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+      "en-GB": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+      "en-CA": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+      "de-DE": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)",
+      "it-IT": "Veduta aerea di un passaggio faunistico vicino a Zakrzów, Polonia (© bbsferrari/Getty Images)",
+      "es-ES": "Vista aérea de un ecoducto cerca de Zakrzów, Polonia (© bbsferrari/Getty Images)",
+      "pt-BR": "Vista aérea de um ecoduto perto de Zakrzów, Polônia (© bbsferrari/Getty Images)",
+      "zh-CN": "扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)",
+      "en-IN": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+      "fr-FR": "Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images)"
     },
     "descs": {
-      "ja-JP": "下田港は、静岡県伊豆半島の南端に位置する歴史ある港です。幕末にペリー艦隊が来航した港でもあり、1854 年の日米和親条約により函館港とともに日本初の開港地となりました。山と海に囲まれた美しい景観が魅力で、現在は観光港や漁港として親しまれています。毎年 8 月 14 日と 15 日に約 400 年の歴史を誇る「下田八幡神社例大祭（下田太鼓祭り）」が開催され、勇壮な太鼓の音とともに町全体が活気に包まれます。夕暮れには港町の灯りが水面に映り、歴史、自然、そして伝統文化が織りなす魅力的な風景が広がります。"
+      "ja-JP": "道路の整備により、人間が素早く快適に移動できるようになった一方で、野生動物は移動ルートを分断されたことで、道路を横断する際に車などとの衝突事故に遭うようになってしまいました。こうした課題を解決するために建設されたのが人工的なけもの道ともいえる「エコダクト」です。今日の画像はポーランドのザクルフにあるエコダクトで、分断された生息地を再びつなぎ、動物たちが交通量の多い道路を安全に横断できるようにしています。現在では、このような橋が世界各地に設置され、野生動物と人の共生を支えています。",
+      "en-US": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats, and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, and the idea soon spread across Europe. Countries such as the Netherlands helped refine ecoduct design by building wide green bridges covered in soil and native vegetation, from grasses and shrubs to trees.",
+      "en-GB": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
+      "en-CA": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later refined the concept with broad, green bridges covered in soil and native vegetation.",
+      "de-DE": "Die Luftaufnahme zeigt eine Grünbrücke bei Zakrzów in Polen, die eine stark befahrene Verkehrsachse überspannt. Solche Bauwerke verbinden Lebensräume, die durch Straßen und Autobahnen voneinander getrennt wurden. Für viele Tierarten schaffen sie sichere Wege zwischen Futtergebieten, Rückzugsorten und Wanderkorridoren. Dadurch sinkt nicht nur das Risiko von Wildunfällen, sondern auch die Gefahr, dass Populationen durch die Zerschneidung ihrer Lebensräume isoliert werden. Grünbrücken gelten heute als wichtiger Bestandteil moderner Naturschutzmaßnahmen.",
+      "es-ES": "Las carreteras resolvieron un problema y crearon otro sin querer: mientras las personas viajaban más rápido que nunca, la fauna silvestre veía cómo las autopistas partían en dos los territorios que había recorrido durante generaciones. La respuesta llegó en forma de ecoducto —puentes o túneles diseñados para que los animales crucen las vías de tráfico con seguridad— y los primeros ejemplos modernos surgieron precisamente en Francia durante los años cincuenta, extendiéndose después por toda Europa.",
+      "en-IN": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
+      "fr-FR": "Les routes ont transformé notre rapport aux distances, rapprochant les villes et accélérant notre rythme de vie. Mais sous ce progrès, une fragmentation s’est installée dans les paysages. Les forêts, prairies et montagnes, autrefois continues, se sont retrouvées morcelées, les sentiers rompus. Cerfs, renards et ours ont continué d’emprunter ces routes invisibles, croisant désormais l’asphalte et le danger. Collisions, isolement génétique, disparition silencieuse : les conséquences se sont accumulées au fil des décennies.",
+      "it-IT": "Le strade hanno risolto un problema creandone silenziosamente un altro: mentre le persone viaggiavano più veloce che mai, la fauna selvatica si trovava di fronte ad autostrade che tagliavano in due i territori percorsi per generazioni. La risposta è arrivata sotto forma di ecodotto — ponti o tunnel progettati per permettere agli animali di attraversare le vie di traffico in sicurezza — e i primi esempi moderni comparvero in Francia negli anni Cinquanta, diffondendosi poi in tutta Europa.",
+      "zh-CN": "道路解决了一个问题，却悄然制造了另一个问题。人类出行速度前所未有地提高，野生动物世代沿用的迁徙路线却被公路切断，导致碰撞事故增加、栖息地破碎化，野生动物种群彼此隔绝。为应对这一挑战，人们建造了称为生态桥的野生动物通道：这些桥梁或隧道旨在重新连接栖息地，让动物安全穿越繁忙道路。最早的一些现代案例于20世纪50年代出现在法国，这一理念很快传遍欧洲。荷兰等国通过建造覆盖土壤及草本、灌木和乔木等本土植被的宽阔绿色桥梁，推动了生态桥设计的完善。",
+      "pt-BR": "Estradas aproximaram cidades e encurtaram distâncias, mas criaram uma barreira inesperada: para muitos animais, atravessar uma rodovia virou uma missão perigosa. Rotas antigas de migração foram cortadas pelo asfalto, habitats ficaram separados e atropelamentos se tornaram mais frequentes. A solução veio de uma ideia curiosa: construir caminhos que não fossem para pessoas, mas para patas, asas e cascos."
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "en-GB": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "de-DE": "In Frankreich entstanden die ersten Grünbrücken in den 1950er Jahren. Sie ermöglichten Tieren die Durchquerung von Landschaften, die durch neue Straßen zerschnitten worden waren.",
+      "fr-FR": "Les écoducs permettent aux animaux de traverser les routes sans danger, mais aussi de rompre l’isolement et d’échanger leurs gènes, préservant ainsi la biodiversité.",
+      "zh-CN": "20世纪50年代，法国首次出现了野生动物通道，为动物们在被公路分割的新景观中开辟了一条生路。",
+      "en-IN": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "en-US": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+      "en-CA": "Highway fencing in Banff National Park has cut wildlife-vehicle collisions by over 80%, including more than 96% for elk and deer."
+    },
     "captions": {
-      "ja-JP": "灯りに彩られた歴史ある港町"
+      "ja-JP": "森をつなぐ動物専用橋"
     },
     "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%8b%e7%94%b0%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220260813_1500%22"
+      "ja-JP": "https://www.bing.com/search?q=%e5%8b%95%e7%89%a9%e7%94%a8%e3%81%ae%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260818_1500%22"
     },
     "urlbases": {
-      "ja-JP": "/th?id=OHR.Shimoda2026_JA-JP6266826592"
+      "ja-JP": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306"
     }
   },
   "EndofHeatY26": {
@@ -2627,6 +2577,136 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+    }
+  },
+  "PerseidasTenerife": {
+    "name": "PerseidasTenerife",
+    "urlbase": "/th?id=OHR.PerseidasTenerife_EN-US4798593153",
+    "date": "20260813",
+    "dateFormatted": "August 13, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Make a wish. Perseid meteor shower over Tenerife, Spain",
+      "en-GB": "Make a wish. Perseid meteor shower over Tenerife, Spain",
+      "en-CA": "Make a wish. Perseid meteor shower over Tenerife, Spain",
+      "de-DE": "Leuchtender Himmel. Perseiden-Meteore auf Teneriffa, Spanien",
+      "fr-FR": "Faites un vœu ! Perséides au-dessus de Tenerife, Espagne",
+      "it-IT": "Esprimere un desiderio!",
+      "pt-BR": "Desejos à velocidade da luz",
+      "ja-JP": "ペルセウス座流星群が輝く夜空",
+      "zh-CN": "许个愿吧",
+      "en-IN": "Make a wish. Perseid meteor shower over Tenerife, Spain",
+      "es-ES": "Un universo por descubrir. Observatorio Astronómico de Izaña, Tenerife, España"
+    },
+    "copyrights": {
+      "en-US": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
+      "en-GB": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
+      "en-CA": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
+      "de-DE": "Perseiden-Meteore über dem Teide-Observatorium auf Teneriffa, Spanien (© Westend61/Getty Images)",
+      "fr-FR": "Perséides au-dessus de l’observatoire du Teide, Tenerife, Espagne (© Westend61/Getty Images)",
+      "it-IT": "Meteore delle Perseidi sopra l'Osservatorio del Teide, Tenerife, Spagna (© Westend61/Getty Images)",
+      "pt-BR": "Meteoros Perseidas sobre o Observatório do Teide, Tenerife, Espanha (© Westend61/Getty Images)",
+      "ja-JP": "テイデ天文台, スペイン (© Westend61/Getty Images)",
+      "zh-CN": "泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)",
+      "en-IN": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
+      "es-ES": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around August 12-13. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
+      "en-GB": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around 12-13 August. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
+      "en-CA": "Not every summer tradition happens on the ground. Some take place hundreds of kilometres overhead, one meteor at a time. The Perseids return every year from mid-July through late August, usually peaking around August 12–13. Visible across much of the world, they can produce dozens of meteors per hour under dark, clear skies. Each streak is a tiny fragment of debris left behind by Comet Swift–Tuttle as Earth moves through its dust trail, appearing to radiate from the constellation Perseus. In Canada, dark-sky destinations such as Jasper National Park in Alberta and Torrance Barrens Dark-Sky Preserve in Ontario are among the best places to enjoy the annual display.",
+      "de-DE": "Jeden Sommer zieht ein besonderes Himmelsschauspiel die Aufmerksamkeit von Sternenfreunden auf sich. Die Perseiden sind von Mitte Juli bis Ende August sichtbar und erreichen ihren Höhepunkt meist um den 12. und 13. August. Unter dunklem Himmel können dabei mehrere Dutzend Sternschnuppen pro Stunde erscheinen. Die leuchtenden Spuren entstehen, wenn die Erde Teilchen durchquert, die der Komet Swift-Tuttle auf seiner Bahn hinterlassen hat. Am Nachthimmel scheinen die Meteore aus dem Sternbild Perseus zu kommen.",
+      "fr-FR": "Chaque été, un spectacle fascinant se déroule au-dessus de nos têtes. De la mi-juillet à la fin août, les Perséides fendent le ciel nocturne, atteignant leur apogée autour du 12 et 13 août. Sous un ciel dégagé et préservé des lumières artificielles, des dizaines d’étoiles filantes peuvent être observées en une seule heure. Chacune d’elles est en réalité une minuscule particule laissée par la comète Swift-Tuttle sur son orbite, que la Terre croise chaque année. Les météores semblent surgir de la constellation de Persée, qui a donné son nom à cette pluie d’étoiles filantes.",
+      "ja-JP": "三大流星群の一つであるペルセウス座流星群が見頃を迎えています。多くの流星が流れると予想されるのは 8 月 12 日の夜から 13 日の未明と、13 日夜から 14 日の未明です。特に、本日 13 日は新月で月明かりの影響がないため、星空観察には好条件の日となっています。そして画像は、スペインのテイデ国立公園にあるテイデ天文台で以前撮影されたペルセウス座流星群。テイデ国立公園は、標高約 2400m の高地にあり、澄んだ空気と光害の少ない環境から、世界有数の天体観測地として知られています。",
+      "en-IN": "Not every summer tradition happens on the ground. Some unfold hundreds of miles overhead, one meteor at a time. The Perseids return each year from mid-July through late August, peaking around 12-13 August, when as many as 100 meteors an hour can streak across dark skies. Each meteor is a tiny fragment left behind by Comet Swift–Tuttle as Earth passes through its dust trail, appearing to radiate from the constellation Perseus. In Spain, the display is affectionately known as Lágrimas de San Lorenzo ('Tears of Saint Lawrence').",
+      "es-ES": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo.",
+      "it-IT": "Non tutte le tradizioni estive si vivono sulla spiaggia. Alcune si svolgono a centinaia di chilometri sopra le nostre teste, una meteora alla volta: le Perseidi tornano ogni anno tra metà luglio e fine agosto, raggiungendo il picco attorno al 12-13 agosto. L'immagine è scattata sopra l'Osservatorio del Teide a Tenerife, in Spagna, situato a 2.390 metri di altitudine — abbastanza in alto da lasciarsi il mare di nuvole sotto i piedi.",
+      "zh-CN": "并非所有夏日传统都发生在地面。有些在数百英里高空上演，每次划过一颗流星。英仙座流星雨每年从7月中旬持续至8月下旬，并在8月12日至13日前后达到峰值。世界大部分地区都能看到它；在黑暗天空下，每小时往往会出现数十颗流星。想象自己抬头仰望，一道接一道亮光划过。数到多少颗时，你会忘记数目？每道亮光都来自斯威夫特-塔特尔彗星散落的碎屑，地球穿过其尘埃带时便形成流星。它们看起来像是从英仙座辐射而出。",
+      "pt-BR": "Tem noites em que o céu parece gastar todo o seu estoque de efeitos especiais. Entre julho e agosto, a Terra atravessa a trilha de detritos deixada pelo cometa Swift-Tuttle, dando origem à chuva de meteoros Perseidas, que atinge o auge por volta de 12 e 13 de agosto. E sabia que não são estrelas cadentes? Cada risco luminoso é um pequeno fragmento de rocha e poeira que incandesce ao atravessar a atmosfera a dezenas de quilômetros por segundo."
+    },
+    "quickFacts": {
+      "zh-CN": "作为英仙座流星雨母体的斯威夫特-塔特尔彗星，绕太阳运行一周约需133年。"
+    },
+    "captions": {
+      "en-US": "Perseid meteor shower over Tenerife, Spain"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260813_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PerseidasTenerife_EN-US4798593153"
+    }
+  },
+  "DolmenRoche": {
+    "name": "DolmenRoche",
+    "urlbase": "/th?id=OHR.DolmenRoche_FR-FR1513962303",
+    "date": "20260813",
+    "dateFormatted": "August 13, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "« Par Toutatis ! ». 100ᵉ anniversaire de la naissance de René Goscinny"
+    },
+    "copyrights": {
+      "fr-FR": "Dolmen, La Roche-Aux-Fées, Bretagne (© Michal Boubin/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "À l’occasion du 100ᵉ anniversaire de la naissance de René Goscinny, la Bretagne évoque naturellement l’univers d’Astérix. Car, comme il est souvent rappelé dans la célèbre bande dessinée, le village des irréductibles Gaulois se situe sur les côtes armoricaines, au cœur de cette péninsule battue par les vents et les embruns."
+    },
+    "quickFacts": {
+      "fr-FR": "Le village d’Astérix est souvent associé à la Pointe des Trois Pierres d’Erquy, dans les Côtes-d’Armor, qui ressemblent au dessin de la loupe dans les albums et aurait inspiré l’artiste Albert Uderzo."
+    },
+    "captions": {
+      "fr-FR": "100ᵉ anniversaire de la naissance de René Goscinny"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Ren%c3%a9+Goscinny&form=hpcapt&filters=HpDate%3a%2220260813_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.DolmenRoche_FR-FR1513962303"
+    }
+  },
+  "Shimoda2026": {
+    "name": "Shimoda2026",
+    "urlbase": "/th?id=OHR.Shimoda2026_JA-JP6266826592",
+    "date": "20260813",
+    "dateFormatted": "August 13, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "灯りに彩られた歴史ある港町"
+    },
+    "copyrights": {
+      "ja-JP": "下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "下田港は、静岡県伊豆半島の南端に位置する歴史ある港です。幕末にペリー艦隊が来航した港でもあり、1854 年の日米和親条約により函館港とともに日本初の開港地となりました。山と海に囲まれた美しい景観が魅力で、現在は観光港や漁港として親しまれています。毎年 8 月 14 日と 15 日に約 400 年の歴史を誇る「下田八幡神社例大祭（下田太鼓祭り）」が開催され、勇壮な太鼓の音とともに町全体が活気に包まれます。夕暮れには港町の灯りが水面に映り、歴史、自然、そして伝統文化が織りなす魅力的な風景が広がります。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "灯りに彩られた歴史ある港町"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%8b%e7%94%b0%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220260813_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Shimoda2026_JA-JP6266826592"
     }
   },
   "ElephantDay": {
@@ -7653,15 +7733,44 @@
       }
     ],
     "titles": {
-      "de-DE": "Rot‑weiß am Horizont. Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
+      "de-DE": "Rot‑weiß am Horizont. Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein",
+      "en-US": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany",
+      "en-GB": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany",
+      "en-CA": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany",
+      "fr-FR": "Rouge et blanc à l'horizon. Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne",
+      "it-IT": "Rosso e bianco all'orizzonte. Faro di Westerheversand in Westerhever, Schleswig-Holstein, Germania",
+      "es-ES": "Rojo y blanco en el horizonte. Faro de Westerheversand, Westerhever, Schleswig-Holstein, Alemania",
+      "ja-JP": "草原の先にたたずむ灯台. ヴェスターヘーファーザント灯台, ドイツ",
+      "zh-CN": "韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国",
+      "en-IN": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany"
     },
     "copyrights": {
-      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)"
+      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)",
+      "en-US": "© bluejayphoto/Getty Images",
+      "en-GB": "© bluejayphoto/Getty Images",
+      "en-CA": "© bluejayphoto/Getty Images",
+      "fr-FR": "© bluejayphoto/Getty Images",
+      "it-IT": "© bluejayphoto/Getty Images",
+      "es-ES": "© bluejayphoto/Getty Images",
+      "ja-JP": "© bluejayphoto/Getty Images",
+      "zh-CN": "© bluejayphoto/Getty Images",
+      "en-IN": "© bluejayphoto/Getty Images"
     },
     "descs": {
-      "de-DE": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann."
+      "de-DE": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann.",
+      "en-US": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognizable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
+      "en-GB": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.",
+      "en-CA": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognisable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
+      "fr-FR": "Dressé au-dessus des marais salés de la côte allemande de la mer du Nord, le phare de Westerheversand attire immédiatement le regard avec ses bandes rouges et blanches. Érigé entre 1906 et 1908 sur la péninsule d’Eiderstedt, il guide depuis plus d’un siècle les navigateurs dans les eaux parfois capricieuses de la mer du Nord. Aujourd’hui encore, cette silhouette emblématique figure parmi les monuments côtiers les plus célèbres du nord de l’Allemagne. Après l’ascension de ses 157 marches, les visiteurs découvrent un vaste panorama où ciel, mer et terre semblent ne faire qu’un.",
+      "it-IT": "Tra le paludi salmastre di Westerhever, nello Schleswig-Holstein (Germania), una torre a fasce rosse e bianche sorveglia il Mare del Nord dal 1908. Il faro di Westerheversand è una struttura in ghisa alta quaranta metri, poggiata su un rilievo artificiale e circondata da canali che la marea disegna e cancella due volte al giorno.",
+      "es-ES": "Entre las marismas saladas de Westerhever, en Schleswig-Holstein (Alemania), un gigante a franjas rojas y blancas vigila el mar del Norte desde 1908. El faro de Westerheversand es una torre de hierro fundido de 40 metros asentada sobre una loma artificial, rodeada de canales que la marea dibuja y borra dos veces al día.",
+      "ja-JP": "草原の先にたたずむ灯台. ヴェスターヘーファーザント灯台, ドイツ. ドイツ北海沿岸に広がる塩性湿地帯の中にそびえ立つヴェスターヘーファーザント灯台。赤と白の縞模様が特徴的なこの鋳鉄製灯台は、ユネスコ世界自然遺産に登録されているワッデン海の一部であるワッデン海国立公園内にあります。1906 年から 1908 年にかけて建設され、1 世紀以上にわたり北海を航行する船舶の安全を見守ってきました。現在は、ドイツ北部沿岸のランドマークの一つとして親しまれています。",
+      "zh-CN": "韦斯特黑弗桑德灯塔高耸于德国北海沿岸的盐沼之上，凭借醒目的红白条纹一眼便可辨认。灯塔建于1906年至1908年间，一个多世纪以来一直是艾德施泰特半岛的标志，为穿行北海水域的船只指引航向。如今，它仍是德国北部最著名的海岸地标之一。登上157级台阶的游客，可以饱览周围的壮阔景色。",
+      "en-IN": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance."
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "zh-CN": "韦斯特黑弗桑德灯塔是一座40米高的铸铁塔，左右两侧各有一座造型对称的原守塔人住宅。"
+    },
     "captions": {
       "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
     },
