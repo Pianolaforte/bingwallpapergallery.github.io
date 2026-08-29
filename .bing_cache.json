@@ -827,7 +827,7 @@
       "de-DE": "Himmelblaue Flügel. Hauhechel-Bläuling, Devon, England",
       "fr-FR": "De délicates ailes azur. Argus bleu",
       "ja-JP": "花と蝶の紫色のハーモニー",
-      "zh-CN": "普通蓝灰蝶，德文郡，英格兰",
+      "zh-CN": "天蓝色的翅膀",
       "en-IN": "Sky tinted wings. Common blue butterfly",
       "pt-BR": "Nem tudo são flores. Borboleta-azul-comum, Devon, Inglaterra"
     },
@@ -1641,31 +1641,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
       }
     ],
     "titles": {
@@ -1699,28 +1674,45 @@
       "zh-CN": "阿什斯勒帕保存着全球最丰富的晚白垩世哺乳动物、爬行动物、植物和鱼类化石记录之一。"
     },
     "captions": {
-      "en-US": "Ah Shi Sle Pah Wilderness, New Mexico",
-      "en-GB": "Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States",
-      "en-CA": "Ah Shi Sle Pah Wilderness, New Mexico, United States",
-      "fr-FR": "Ah Shi Sle Pah Wilderness, Nouveau-Mexique, États-Unis",
-      "ja-JP": "夕陽を浴びる奇岩群",
-      "zh-CN": ""
+      "en-US": "Ah Shi Sle Pah Wilderness, New Mexico"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260815_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260814_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260815_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness+Nouveau-Mexique&form=hpcapt&filters=HpDate%3a%2220260814_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3%e5%b7%9e%e3%81%ae%e3%83%95%e3%83%bc%e3%83%89%e3%82%a5%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260814_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%98%bf%e4%bb%80%e6%96%af%e5%88%a9%e5%b8%95%e8%8d%92%e9%87%8e%e5%9c%b0&form=hpcapt&mkt=zh-cn"
+      "en-US": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260815_0700%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.ValleyDreams_EN-US5250331985",
-      "en-GB": "/th?id=OHR.ValleyDreams_EN-GB5755022749",
-      "en-CA": "/th?id=OHR.ValleyDreams_EN-CA5979323627",
-      "fr-FR": "/th?id=OHR.ValleyDreams_FR-FR7228733244",
-      "ja-JP": "/th?id=OHR.ValleyDreams_JA-JP6579828761",
-      "zh-CN": "/th?id=OHR.ValleyDreams_ZH-CN9689713135"
+      "en-US": "/th?id=OHR.ValleyDreams_EN-US5250331985"
+    }
+  },
+  "NottingHillCarnival2026": {
+    "name": "NottingHillCarnival2026",
+    "urlbase": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135",
+    "date": "20260828",
+    "dateFormatted": "August 28, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "A city painted in rhythm. Notting Hill Carnival"
+    },
+    "copyrights": {
+      "en-GB": "Notting Hill Carnival, London (© Sebastian Remme/Alamy Live News)"
+    },
+    "descs": {
+      "en-GB": "Some weekends ask you to slow down. This one turns the volume up. Streets become dance floors, steel pans replace traffic noise, and the scent of Caribbean food follows every step. At Notting Hill Carnival, London's roads don't just close to traffic, they open to celebration."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "Notting Hill Carnival"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Notting+Hill+Carnival&form=hpcapt&filters=HpDate%3a%2220260828_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135"
     }
   },
   "SantaCatarina": {
@@ -1733,55 +1725,119 @@
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
       }
     ],
     "titles": {
       "en-GB": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
-      "en-US": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
       "en-CA": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
       "de-DE": "Zwischen den Wellen lesen. Luftaufnahme von Surfern, Santa Catarina, Brasilien",
-      "fr-FR": "L'art de lire entre les vagues. Vue aérienne de surfeurs, Santa Catarina, Brésil",
-      "it-IT": "Studiando le maree. Veduta aerea di surfisti a Santa Catarina, Brasile",
+      "fr-FR": "L’art de lire entre les vagues. Vue aérienne de surfeurs, Santa Catarina, Brésil",
+      "it-IT": "Studiando le maree",
       "es-ES": "Estudiando la marea. Vista aérea de surfistas, Santa Catarina, Brasil",
-      "pt-BR": "Os intérpretes das marés. Vista aérea de surfistas em Santa Catarina",
+      "pt-BR": "Os intérpretes das marés",
       "zh-CN": "冲浪者航拍图，圣卡塔琳娜州，巴西",
-      "en-IN": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil"
+      "en-IN": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
+      "en-US": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil"
     },
     "copyrights": {
       "en-GB": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
-      "en-US": "© Wonderful Nature/Shutterstock",
-      "en-CA": "© Wonderful Nature/Shutterstock",
-      "de-DE": "© Wonderful Nature/Shutterstock",
-      "fr-FR": "© Wonderful Nature/Shutterstock",
-      "it-IT": "© Wonderful Nature/Shutterstock",
-      "es-ES": "© Wonderful Nature/Shutterstock",
-      "pt-BR": "© Wonderful Nature/Shutterstock",
-      "zh-CN": "© Wonderful Nature/Shutterstock",
-      "en-IN": "© Wonderful Nature/Shutterstock"
+      "en-CA": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+      "de-DE": "Luftaufnahme von Surfern, Santa Catarina, Brasilien (© Wonderful Nature/Shutterstock)",
+      "fr-FR": "Vue aérienne de surfeurs, Santa Catarina, Brésil (© Wonderful Nature/Shutterstock)",
+      "it-IT": "Veduta aerea di surfisti a Santa Catarina, Brasile (© Wonderful Nature/Shutterstock)",
+      "es-ES": "Vista aérea de surfistas, Santa Catarina, Brasil (© Wonderful Nature/Shutterstock)",
+      "pt-BR": "Vista aérea de surfistas em Santa Catarina (© Wonderful Nature/Shutterstock)",
+      "zh-CN": "冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)",
+      "en-IN": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+      "en-US": "© Wonderful Nature/Shutterstock"
     },
     "descs": {
       "en-GB": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
-      "en-US": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
       "en-CA": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
       "de-DE": "An der Küste des südbrasilianischen Bundesstaates Santa Catarina gehört das Surfen fest zum Alltag vieler Menschen. Lange Sandstrände, beständige Wellen und die Nähe zum Atlantik schaffen Bedingungen, die Einsteiger ebenso anziehen wie erfahrene Surfer. Wer hier auf das Meer hinausblickt, erkennt schnell, dass Geduld ein wichtiger Teil dieses Sports ist. Zwischen den heranrollenden Wellen warten die Surfer aufmerksam auf den richtigen Moment. Sie beobachten Wind, Strömung und Wellengang, bevor sie sich für eine einzelne Welle entscheiden.",
       "fr-FR": "Au large de l’État de Santa Catarina, dans le sud du Brésil, une scène familière se répète à l’infini : des surfeurs attendent derrière les vagues déferlantes, leurs planches montant et descendant au rythme de l’Atlantique. Vu du ciel, le spectacle semble presque immobile. Pourtant, c'est précisément là que tout se joue. Chaque houle transporte une énergie née de vents parfois soufflés à des centaines, voire à des milliers de kilomètres. Pour glisser sur l’eau, il faut savoir reconnaître le moment précis où cette force atteint la côte.",
-      "it-IT": "Al largo delle coste di Santa Catarina, nello stato meridionale del Brasile, una fila di surfisti aspetta immobile oltre la linea dove le onde si infrangono. Dall'alto sembra che non accada nulla, ma è proprio lì che inizia il vero lavoro. Ogni onda trasporta energia generata da venti che possono aver soffiato a migliaia di chilometri di distanza; dominarla richiede di leggere il mare con precisione, perché vento, correnti e la forma del fondale decidono come si romperà ogni onda.",
       "es-ES": "Frente a las costas de Santa Catarina, en el sur de Brasil, una fila de surfistas esperan quietos más allá de donde rompen las olas. Desde el aire parece que no ocurre nada, pero ahí es exactamente donde empieza el verdadero trabajo. Cada ola arrastra energía generada por vientos que pueden haber soplado a miles de kilómetros de distancia; dominar ese pulso exige leer el mar con precisión, porque viento, mareas, corrientes y la forma del fondo marino deciden cómo romperá cada ola.",
+      "en-IN": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "en-US": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "it-IT": "Al largo delle coste di Santa Catarina, nello stato meridionale del Brasile, una fila di surfisti aspetta immobile oltre la linea dove le onde si infrangono. Dall'alto sembra che non accada nulla, ma è proprio lì che inizia il vero lavoro. Ogni onda trasporta energia generata da venti che possono aver soffiato a migliaia di chilometri di distanza; dominarla richiede di leggere il mare con precisione, perché vento, correnti e la forma del fondale decidono come si romperà ogni onda.",
       "pt-BR": "Quem nunca surfou talvez ache que a parte emocionante é estar em pé sobre a prancha. Os surfistas da imagem podem discordar. No litoral de Santa Catarina, o momento mais importante acontece antes da primeira remada, enquanto todos observam o mar em silêncio, esperando a onda certa.",
-      "zh-CN": "在巴西南部圣卡塔琳娜州近海，图片捕捉到一种熟悉的仪式：冲浪者在碎浪之外等待，冲浪板随着大西洋的波涛起伏。从空中看，几乎什么都没有发生，但真正的功课正是在此时开始。",
-      "en-IN": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins."
+      "zh-CN": "在巴西南部圣卡塔琳娜州近海，图片捕捉到一种熟悉的仪式：冲浪者在碎浪之外等待，冲浪板随着大西洋的波涛起伏。从空中看，几乎什么都没有发生，但真正的功课正是在此时开始。"
     },
     "quickFacts": {
       "zh-CN": "圣卡塔琳娜州海岸的若阿基纳海滩曾承办多项重要国际冲浪赛事。"
     },
     "captions": {
-      "en-GB": "Aerial view of surfers, Santa Catarina, Brazil"
+      "en-GB": "Aerial view of surfers, Santa Catarina, Brazil",
+      "en-CA": "Aerial view of surfers, Santa Catarina, Brazil",
+      "de-DE": "Luftaufnahme von Surfern, Santa Catarina, Brasilien",
+      "fr-FR": "Vue aérienne de surfeurs, Santa Catarina, Brésil",
+      "it-IT": "",
+      "es-ES": "Vista aérea de surfistas, Santa Catarina, Brasil",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Aerial view of surfers, Santa Catarina, Brazil"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260824_2300%22"
+      "en-GB": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260824_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260829_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Santa+Catarina+Brasilien&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Br%c3%a9sil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e8%a5%bf%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e5%b7%9e&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.SantaCatarina_EN-GB1458336075"
+      "en-GB": "/th?id=OHR.SantaCatarina_EN-GB1458336075",
+      "en-CA": "/th?id=OHR.SantaCatarina_EN-CA1161995702",
+      "de-DE": "/th?id=OHR.SantaCatarina_DE-DE7458345257",
+      "fr-FR": "/th?id=OHR.SantaCatarina_FR-FR8615743181",
+      "it-IT": "/th?id=OHR.SantaCatarina_IT-IT1605956723",
+      "es-ES": "/th?id=OHR.SantaCatarina_ES-ES9631069615",
+      "pt-BR": "/th?id=OHR.SantaCatarina_PT-BR2149597812",
+      "zh-CN": "/th?id=OHR.SantaCatarina_ZH-CN4170292043",
+      "en-IN": "/th?id=OHR.SantaCatarina_EN-IN0197195904"
     }
   },
   "WhyteCliffP": {
@@ -2004,38 +2060,6 @@
       "de-DE": "/th?id=OHR.KitesurfersSunset_DE-DE3980635203"
     }
   },
-  "SellinSunrise": {
-    "name": "SellinSunrise",
-    "urlbase": "/th?id=OHR.SellinSunrise_DE-DE6501539287",
-    "date": "20260814",
-    "dateFormatted": "August 14, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Im goldenen Licht der Ostsee. Sonnenaufgang an der Seebrücke Sellin, Rügen"
-    },
-    "copyrights": {
-      "de-DE": "Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Wenn die ersten Sonnenstrahlen den Horizont vergolden, zeigt sich die Seebrücke Sellin von ihrer besonders eindrucksvollen Seite. An der Ostküste der Insel Rügen in Mecklenburg-Vorpommern gelegen, zählt dieses Bauwerk zu den bekanntesten Wahrzeichen der deutschen Ostsee. Ihre Geschichte reicht bis ins Jahr 1906 zurück, als die erste Seebrücke eröffnet wurde. Im Laufe der Jahrzehnte wurde die Anlage durch Stürme und andere Schäden mehrfach beeinträchtigt und schließlich abgerissen."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Sonnenaufgang an der Seebrücke Sellin, Rügen"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Seebr%c3%bccke+Sellin&form=hpcapt&filters=HpDate%3a%2220260814_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.SellinSunrise_DE-DE6501539287"
-    }
-  },
   "GlenanSummer": {
     "name": "GlenanSummer",
     "urlbase": "/th?id=OHR.GlenanSummer_FR-FR4786744371",
@@ -2155,38 +2179,6 @@
       "it-IT": "/th?id=OHR.LimeKiln_IT-IT6111794447"
     }
   },
-  "EstateItaliana": {
-    "name": "EstateItaliana",
-    "urlbase": "/th?id=OHR.EstateItaliana_IT-IT7841784337",
-    "date": "20260814",
-    "dateFormatted": "August 14, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "Momenti di convivialità e buon cibo"
-    },
-    "copyrights": {
-      "it-IT": "Cala Spinosa, Capo Testa, Santa Teresa di Gallura, Sardegna, Italia (© Francesco Riccardo Iacomino/Moment/Getty Images)"
-    },
-    "descs": {
-      "it-IT": "Il 15 agosto in Italia non è solo un giorno festivo: è Ferragosto, la più radicata delle tradizioni estive italiane. Le sue origini risalgono all'antica Roma, quando l'imperatore Augusto istituì le Feriae Augusti nel 18 a.C. per celebrare la fine dei lavori agricoli. Nei secoli, la ricorrenza si è fusa con la festa cattolica dell'Assunzione di Maria, diventando il momento per eccellenza del riposo condiviso: gite fuori porta, grigliate in famiglia, spiagge piene e il piacere antico di stare insieme senza fretta."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Ferragosto&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.EstateItaliana_IT-IT7841784337"
-    }
-  },
   "TomatinaBunol": {
     "name": "TomatinaBunol",
     "urlbase": "/th?id=OHR.TomatinaBunol_ES-ES8709376731",
@@ -2249,38 +2241,6 @@
     },
     "urlbases": {
       "es-ES": "/th?id=OHR.VueltaEspana_ES-ES4697960673"
-    }
-  },
-  "MalagaFairAgosto": {
-    "name": "MalagaFairAgosto",
-    "urlbase": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269",
-    "date": "20260814",
-    "dateFormatted": "August 14, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "¡Abanico en mano y música! Feria de Málaga"
-    },
-    "copyrights": {
-      "es-ES": "Vista de la Catedral y la Alcazaba de Málaga, Andalucía, España (© SeanPavonePhoto/Getty Images)"
-    },
-    "descs": {
-      "es-ES": "Málaga, en Andalucía, se transforma cada agosto en la capital de la alegría del sur de España. La Feria de Málaga 2026, que se celebra del 15 al 22 de agosto, tiñe la ciudad de farolillos de colores, mantones de Manila y el ritmo inconfundible de las sevillanas durante ocho días de celebración ininterrumpida. Desde el recinto ferial del Cortijo de Torres hasta el centro histórico —donde la feria de día toma las calles del casco antiguo—, no hay rincón que escape al ambiente festivo."
-    },
-    "quickFacts": {},
-    "captions": {
-      "es-ES": "Feria de Málaga"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Feria+de+M%c3%a1laga&form=hpcapt&filters=HpDate%3a%2220260814_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269"
     }
   },
   "Lencois": {
@@ -2347,68 +2307,36 @@
       "pt-BR": "/th?id=OHR.FolkRJ_PT-BR6598036806"
     }
   },
-  "ColorfulCop": {
-    "name": "ColorfulCop",
-    "urlbase": "/th?id=OHR.ColorfulCop_PT-BR4548843545",
-    "date": "20260815",
-    "dateFormatted": "August 15, 2026",
+  "OmagariFireworks2026": {
+    "name": "OmagariFireworks2026",
+    "urlbase": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919",
+    "date": "20260828",
+    "dateFormatted": "August 28, 2026",
     "markets": [
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
       }
     ],
     "titles": {
-      "pt-BR": "Um porto entre capítulos",
-      "es-ES": "Copenhague a todo color. Canal de Nyhavn, Copenhague, Dinamarca",
-      "en-US": "Copenhagen in full color. Nyhavn Canal, Copenhagen, Denmark",
-      "en-CA": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
-      "en-GB": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
-      "de-DE": "Kopenhagen in voller Farbe. Nyhavn-Kanal, Kopenhagen, Dänemark",
-      "fr-FR": "Copenhague haute en couleur. Canal Nyhavn, Copenhague, Danemark",
-      "it-IT": "Copenaghen a colori",
-      "zh-CN": "绚丽多彩的哥本哈根",
-      "en-IN": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
-      "ja-JP": "静かな水面に映るカラフルな街並み"
+      "ja-JP": "今日は大曲の花火の開催日"
     },
     "copyrights": {
-      "pt-BR": "Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
-      "es-ES": "Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
-      "en-US": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "en-CA": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "en-GB": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "de-DE": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
-      "fr-FR": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
-      "it-IT": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
-      "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)",
-      "en-IN": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-      "ja-JP": "ニューハウン, デンマーク (© emicristea/Getty Images)"
+      "ja-JP": "全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)"
     },
     "descs": {
-      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
-      "en-US": "In Copenhagen, Nyhavn Canal is a burst of color and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships.",
-      "en-CA": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
-      "en-GB": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
-      "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
-      "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
-      "en-IN": "In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks.",
-      "ja-JP": "ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
-      "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
-      "pt-BR": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
-      "zh-CN": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。"
+      "ja-JP": "今日 8 月 29 日は全国花火競技大会の開催日。秋田県大仙市で行われるこの大会は、「大曲の花火」とも呼ばれ、日本三大花火大会の一つとして知られており、全国から選抜された花火師が、「昼花火の部」と「夜花火の部」で技を競います。昼花火とは、光ではなく煙で美しさを表現する花火です。また、大曲の花火最大の特徴であり、大会を象徴する競技が、夜花火の部で行われる「創造花火」。既成概念に囚われず、形や色、大きさなど全てがオリジナルの花火を、音楽にあわせて披露する競技です。"
     },
-    "quickFacts": {
-      "zh-CN": "汉斯·克里斯蒂安·安徒生一生中曾在新港的18号、20号和67号三个不同地址居住。"
-    },
+    "quickFacts": {},
     "captions": {
-      "pt-BR": ""
+      "ja-JP": "今日は大曲の花火の開催日"
     },
     "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=Canal+Nyhavn+Dinamarca&form=hpcapt&mkt=pt-br"
+      "ja-JP": "https://www.bing.com/search?q=%e5%85%a8%e5%9b%bd%e8%8a%b1%e7%81%ab%e7%ab%b6%e6%8a%80%e5%a4%a7%e4%bc%9a&form=hpcapt&filters=HpDate%3a%2220260828_1500%22"
     },
     "urlbases": {
-      "pt-BR": "/th?id=OHR.ColorfulCop_PT-BR4548843545"
+      "ja-JP": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919"
     }
   },
   "ShizuokaSummer2026": {
@@ -2545,6 +2473,166 @@
     },
     "urlbases": {
       "zh-CN": "/th?id=OHR.EndofHeatY26_ZH-CN8936468848"
+    }
+  },
+  "SellinSunrise": {
+    "name": "SellinSunrise",
+    "urlbase": "/th?id=OHR.SellinSunrise_DE-DE6501539287",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Im goldenen Licht der Ostsee. Sonnenaufgang an der Seebrücke Sellin, Rügen"
+    },
+    "copyrights": {
+      "de-DE": "Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Wenn die ersten Sonnenstrahlen den Horizont vergolden, zeigt sich die Seebrücke Sellin von ihrer besonders eindrucksvollen Seite. An der Ostküste der Insel Rügen in Mecklenburg-Vorpommern gelegen, zählt dieses Bauwerk zu den bekanntesten Wahrzeichen der deutschen Ostsee. Ihre Geschichte reicht bis ins Jahr 1906 zurück, als die erste Seebrücke eröffnet wurde. Im Laufe der Jahrzehnte wurde die Anlage durch Stürme und andere Schäden mehrfach beeinträchtigt und schließlich abgerissen."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Sonnenaufgang an der Seebrücke Sellin, Rügen"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Seebr%c3%bccke+Sellin&form=hpcapt&filters=HpDate%3a%2220260814_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.SellinSunrise_DE-DE6501539287"
+    }
+  },
+  "EstateItaliana": {
+    "name": "EstateItaliana",
+    "urlbase": "/th?id=OHR.EstateItaliana_IT-IT7841784337",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Momenti di convivialità e buon cibo"
+    },
+    "copyrights": {
+      "it-IT": "Cala Spinosa, Capo Testa, Santa Teresa di Gallura, Sardegna, Italia (© Francesco Riccardo Iacomino/Moment/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Il 15 agosto in Italia non è solo un giorno festivo: è Ferragosto, la più radicata delle tradizioni estive italiane. Le sue origini risalgono all'antica Roma, quando l'imperatore Augusto istituì le Feriae Augusti nel 18 a.C. per celebrare la fine dei lavori agricoli. Nei secoli, la ricorrenza si è fusa con la festa cattolica dell'Assunzione di Maria, diventando il momento per eccellenza del riposo condiviso: gite fuori porta, grigliate in famiglia, spiagge piene e il piacere antico di stare insieme senza fretta."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Ferragosto&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.EstateItaliana_IT-IT7841784337"
+    }
+  },
+  "MalagaFairAgosto": {
+    "name": "MalagaFairAgosto",
+    "urlbase": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269",
+    "date": "20260814",
+    "dateFormatted": "August 14, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "¡Abanico en mano y música! Feria de Málaga"
+    },
+    "copyrights": {
+      "es-ES": "Vista de la Catedral y la Alcazaba de Málaga, Andalucía, España (© SeanPavonePhoto/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Málaga, en Andalucía, se transforma cada agosto en la capital de la alegría del sur de España. La Feria de Málaga 2026, que se celebra del 15 al 22 de agosto, tiñe la ciudad de farolillos de colores, mantones de Manila y el ritmo inconfundible de las sevillanas durante ocho días de celebración ininterrumpida. Desde el recinto ferial del Cortijo de Torres hasta el centro histórico —donde la feria de día toma las calles del casco antiguo—, no hay rincón que escape al ambiente festivo."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Feria de Málaga"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Feria+de+M%c3%a1laga&form=hpcapt&filters=HpDate%3a%2220260814_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269"
+    }
+  },
+  "ColorfulCop": {
+    "name": "ColorfulCop",
+    "urlbase": "/th?id=OHR.ColorfulCop_PT-BR4548843545",
+    "date": "20260815",
+    "dateFormatted": "August 15, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Um porto entre capítulos",
+      "es-ES": "Copenhague a todo color. Canal de Nyhavn, Copenhague, Dinamarca",
+      "en-US": "Copenhagen in full color. Nyhavn Canal, Copenhagen, Denmark",
+      "en-CA": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "en-GB": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "de-DE": "Kopenhagen in voller Farbe. Nyhavn-Kanal, Kopenhagen, Dänemark",
+      "fr-FR": "Copenhague haute en couleur. Canal Nyhavn, Copenhague, Danemark",
+      "it-IT": "Copenaghen a colori",
+      "zh-CN": "绚丽多彩的哥本哈根",
+      "en-IN": "Copenhagen in full colour. Nyhavn Canal, Copenhagen, Denmark",
+      "ja-JP": "静かな水面に映るカラフルな街並み"
+    },
+    "copyrights": {
+      "pt-BR": "Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
+      "es-ES": "Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
+      "en-US": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "en-CA": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "en-GB": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "de-DE": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
+      "fr-FR": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
+      "it-IT": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
+      "zh-CN": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)",
+      "en-IN": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+      "ja-JP": "ニューハウン, デンマーク (© emicristea/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "El canal de Nyhavn, en Copenhague, Dinamarca, es el lugar donde la historia se asienta con los colores de una paleta de pintor. Sus casas de fachadas rojas, ocres y azules se inclinan levemente sobre el agua, y sus reflejos se mecen junto a veleros de madera que llevan siglos amarrados en el mismo muelle. Excavado entre 1670 y 1673 por orden del rey Cristián V, este canal —cuya longitud ronda los 450 metros— fue durante siglos el corazón comercial y portuario de la capital danesa, frecuentado por marineros y mercaderes de toda Europa.",
+      "en-US": "In Copenhagen, Nyhavn Canal is a burst of color and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships.",
+      "en-CA": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
+      "en-GB": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
+      "de-DE": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
+      "fr-FR": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
+      "en-IN": "In Copenhagen, Nyhavn Canal is a burst of colour and history. Lined with bright, gabled townhouses reflected in the water, this 17th-century waterfront is one of Denmark's best-known landmarks.",
+      "ja-JP": "ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
+      "it-IT": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
+      "pt-BR": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
+      "zh-CN": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。"
+    },
+    "quickFacts": {
+      "zh-CN": "汉斯·克里斯蒂安·安徒生一生中曾在新港的18号、20号和67号三个不同地址居住。"
+    },
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Canal+Nyhavn+Dinamarca&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.ColorfulCop_PT-BR4548843545"
     }
   },
   "IndependenceDay2026": {
