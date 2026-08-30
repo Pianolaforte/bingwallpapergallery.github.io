@@ -1,4 +1,137 @@
 {
+  "SantaCatarina": {
+    "name": "SantaCatarina",
+    "urlbase": "/th?id=OHR.SantaCatarina_EN-US3600536393",
+    "date": "20260829",
+    "dateFormatted": "August 29, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
+      "en-GB": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
+      "en-CA": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
+      "de-DE": "Zwischen den Wellen lesen. Luftaufnahme von Surfern, Santa Catarina, Brasilien",
+      "fr-FR": "L’art de lire entre les vagues. Vue aérienne de surfeurs, Santa Catarina, Brésil",
+      "it-IT": "Studiando le maree",
+      "es-ES": "Estudiando la marea. Vista aérea de surfistas, Santa Catarina, Brasil",
+      "pt-BR": "Os intérpretes das marés",
+      "zh-CN": "冲浪者航拍图，圣卡塔琳娜州，巴西",
+      "en-IN": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+      "en-GB": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+      "en-CA": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+      "de-DE": "Luftaufnahme von Surfern, Santa Catarina, Brasilien (© Wonderful Nature/Shutterstock)",
+      "fr-FR": "Vue aérienne de surfeurs, Santa Catarina, Brésil (© Wonderful Nature/Shutterstock)",
+      "it-IT": "Veduta aerea di surfisti a Santa Catarina, Brasile (© Wonderful Nature/Shutterstock)",
+      "es-ES": "Vista aérea de surfistas, Santa Catarina, Brasil (© Wonderful Nature/Shutterstock)",
+      "pt-BR": "Vista aérea de surfistas em Santa Catarina (© Wonderful Nature/Shutterstock)",
+      "zh-CN": "冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)",
+      "en-IN": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "en-GB": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "en-CA": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "de-DE": "An der Küste des südbrasilianischen Bundesstaates Santa Catarina gehört das Surfen fest zum Alltag vieler Menschen. Lange Sandstrände, beständige Wellen und die Nähe zum Atlantik schaffen Bedingungen, die Einsteiger ebenso anziehen wie erfahrene Surfer. Wer hier auf das Meer hinausblickt, erkennt schnell, dass Geduld ein wichtiger Teil dieses Sports ist. Zwischen den heranrollenden Wellen warten die Surfer aufmerksam auf den richtigen Moment. Sie beobachten Wind, Strömung und Wellengang, bevor sie sich für eine einzelne Welle entscheiden.",
+      "fr-FR": "Au large de l’État de Santa Catarina, dans le sud du Brésil, une scène familière se répète à l’infini : des surfeurs attendent derrière les vagues déferlantes, leurs planches montant et descendant au rythme de l’Atlantique. Vu du ciel, le spectacle semble presque immobile. Pourtant, c'est précisément là que tout se joue. Chaque houle transporte une énergie née de vents parfois soufflés à des centaines, voire à des milliers de kilomètres. Pour glisser sur l’eau, il faut savoir reconnaître le moment précis où cette force atteint la côte.",
+      "es-ES": "Frente a las costas de Santa Catarina, en el sur de Brasil, una fila de surfistas esperan quietos más allá de donde rompen las olas. Desde el aire parece que no ocurre nada, pero ahí es exactamente donde empieza el verdadero trabajo. Cada ola arrastra energía generada por vientos que pueden haber soplado a miles de kilómetros de distancia; dominar ese pulso exige leer el mar con precisión, porque viento, mareas, corrientes y la forma del fondo marino deciden cómo romperá cada ola.",
+      "en-IN": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+      "it-IT": "Al largo delle coste di Santa Catarina, nello stato meridionale del Brasile, una fila di surfisti aspetta immobile oltre la linea dove le onde si infrangono. Dall'alto sembra che non accada nulla, ma è proprio lì che inizia il vero lavoro. Ogni onda trasporta energia generata da venti che possono aver soffiato a migliaia di chilometri di distanza; dominarla richiede di leggere il mare con precisione, perché vento, correnti e la forma del fondale decidono come si romperà ogni onda.",
+      "pt-BR": "Quem nunca surfou talvez ache que a parte emocionante é estar em pé sobre a prancha. Os surfistas da imagem podem discordar. No litoral de Santa Catarina, o momento mais importante acontece antes da primeira remada, enquanto todos observam o mar em silêncio, esperando a onda certa.",
+      "zh-CN": "在巴西南部圣卡塔琳娜州近海，图片捕捉到一种熟悉的仪式：冲浪者在碎浪之外等待，冲浪板随着大西洋的波涛起伏。从空中看，几乎什么都没有发生，但真正的功课正是在此时开始。"
+    },
+    "quickFacts": {
+      "zh-CN": "圣卡塔琳娜州海岸的若阿基纳海滩曾承办多项重要国际冲浪赛事。"
+    },
+    "captions": {
+      "en-US": "Aerial view of surfers, Santa Catarina, Brazil",
+      "en-GB": "Aerial view of surfers, Santa Catarina, Brazil",
+      "en-CA": "Aerial view of surfers, Santa Catarina, Brazil",
+      "de-DE": "Luftaufnahme von Surfern, Santa Catarina, Brasilien",
+      "fr-FR": "Vue aérienne de surfeurs, Santa Catarina, Brésil",
+      "it-IT": "",
+      "es-ES": "Vista aérea de surfistas, Santa Catarina, Brasil",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Aerial view of surfers, Santa Catarina, Brazil"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260829_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260824_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260829_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Santa+Catarina+Brasilien&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Br%c3%a9sil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e8%a5%bf%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e5%b7%9e&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SantaCatarina_EN-US3600536393",
+      "en-GB": "/th?id=OHR.SantaCatarina_EN-GB1458336075",
+      "en-CA": "/th?id=OHR.SantaCatarina_EN-CA1161995702",
+      "de-DE": "/th?id=OHR.SantaCatarina_DE-DE7458345257",
+      "fr-FR": "/th?id=OHR.SantaCatarina_FR-FR8615743181",
+      "it-IT": "/th?id=OHR.SantaCatarina_IT-IT1605956723",
+      "es-ES": "/th?id=OHR.SantaCatarina_ES-ES9631069615",
+      "pt-BR": "/th?id=OHR.SantaCatarina_PT-BR2149597812",
+      "zh-CN": "/th?id=OHR.SantaCatarina_ZH-CN4170292043",
+      "en-IN": "/th?id=OHR.SantaCatarina_EN-IN0197195904"
+    }
+  },
   "MichelSunset": {
     "name": "MichelSunset",
     "urlbase": "/th?id=OHR.MichelSunset_EN-US3527235033",
@@ -729,12 +862,12 @@
     },
     "descs": {
       "en-US": "At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins. National Park Week—held in August this year—is the perfect time to celebrate these iconic bears and the wild home that helps them thrive.",
-      "en-GB": "Meet Katmai's fishing giants. Brown bear fishing in river, Katmai National Park, Alaska, United States. At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins.",
+      "en-GB": "At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins.",
       "en-CA": "In Alaska, some of the world's wildest wildlife spectacles unfold far from cities and roads. At Katmai National Park, brown bears line the river, and when the salmon jump, the show begins. Created in 1918 after the dramatic 1912 Novarupta volcanic eruption, the park protects more than 16,000 square kilometres of wilderness, including active volcanoes, tundra and salmon-rich rivers.",
       "de-DE": "Im Katmai-Nationalpark in Alaska, Vereinigte Staaten, lebt mit rund 2200 Braunbären eine der größten Braunbärenpopulationen der Welt. Während der Wanderung der Rotlachse versammeln sich entlang des Brooks River oft zahlreiche Tiere. Mitunter lassen sich dort bis zu 40 Braunbären gleichzeitig beim Fischfang beobachten. Einige schnappen die Lachse direkt aus der Luft, andere suchen ihre Beute unter der Wasseroberfläche.",
       "fr-FR": "Dans le parc national de Katmai, au sud-ouest de l’Alaska, l’été offre un véritable spectacle aux visiteurs. Durant la Semaine des parcs nationaux célébrée aux États-Unis, les regards se tournent vers la rivière Brooks. Les saumons rouges remontent le courant et bondissent hors de l’eau — une incroyable scène rythmée par les éclaboussures.",
       "es-ES": "En el Parque Nacional de Katmai, en Alaska, Estados Unidos, el espectáculo no necesita escenario: los osos pardos esperan junto al río y, cuando el salmón salta, la función comienza. Este parque alberga una de las mayores concentraciones de osos pardos del planeta —unos 2.200 ejemplares—, y durante el paso del salmón rojo pueden llegar a reunirse hasta cuarenta de ellos en las cataratas del río Brooks para pescar: algunos atrapan el salmón en el aire, otros se sumergen directamente en busca del bocado.",
-      "en-IN": "Meet Katmai's fishing giants. Brown bear fishing in river, Katmai National Park, Alaska, United States. At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins.",
+      "en-IN": "At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins.",
       "it-IT": "Nel Parco Nazionale di Katmai, in Alaska, Stati Uniti, lo spettacolo non ha bisogno di un palcoscenico: gli orsi bruni aspettano lungo il fiume e, quando il salmone salta, la scena ha inizio. Il parco ospita circa 2.200 orsi bruni, una delle concentrazioni più alte al mondo; durante la migrazione del salmone rosso, fino a quaranta esemplari si radunano alle cascate del fiume Brooks per pescare, alcuni afferrando il pesce in volo, altri tuffandosi direttamente.",
       "pt-BR": "O restaurante abre uma vez por ano, não aceita reservas e serve um único prato: salmão fresco. A imagem mostra um urso-pardo no Parque Nacional Katmai, no Alasca, Estados Unidos, onde milhares de peixes enfrentam a correnteza para desovar e acabam protagonizando um dos maiores banquetes da natureza."
     },
@@ -1499,14 +1632,84 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "en-CA": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "pt-BR": "Onde o mito encontrou abrigo",
+      "en-GB": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "de-DE": "Wo eine Legende mit Schwänen begann. Kloster Ross Errilly, Grafschaft Galway, Irland",
+      "fr-FR": "Guidé par des cygnes. Monastère de Ross Errilly, Comté de Galway, Irlande",
+      "it-IT": "Dove le mura raccontano leggende",
+      "es-ES": "Leyenda de cisnes. El convento Ross Errilly, condado de Galway, Irlanda",
+      "ja-JP": "歴史を刻む石造りの修道院跡",
+      "zh-CN": "天鹅开启传奇之处",
+      "en-IN": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland"
+    },
+    "copyrights": {
+      "en-US": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "en-CA": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "pt-BR": "Ruínas do Convento de Ross Errilly, Condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "en-GB": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "de-DE": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
+      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
+      "it-IT": "Rovine del convento Ross Errilly, Contea di Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "es-ES": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "ja-JP": "ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)",
+      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)",
+      "en-IN": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "What do swans, secret hideaways, and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "en-CA": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "en-GB": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "de-DE": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
+      "fr-FR": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
+      "es-ES": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
+      "ja-JP": "ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
+      "en-IN": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "it-IT": "Cigni, nascondigli segreti e una vasca medievale per tenere vivi i pesci fino al momento di cucinarli: cosa hanno in comune? Fanno tutti parte della storia del Convento Ross Errilly, nella Contea di Galway, in Irlanda. Fondato intorno al XIV secolo sull'affluente Black River, questo convento francescano tra i meglio conservati d'Irlanda — spesso chiamato erroneamente \"Ross Abbey\", pur non avendo mai avuto un abate — è un labirinto di cappelle, chiostri e corridoi dove ogni pietra racconta secoli di storia religiosa e vita monastica medievale.",
+      "pt-BR": "O que cisnes, passagens secretas e tanques de peixe têm em comum? Todos fazem parte da história do Convento de Ross Errilly, no Condado de Galway, na Irlanda, que vemos na imagem de hoje. Fundado por volta de 1351, o lugar também é conhecido como Abadia de Ross, embora nunca tenha sido uma abadia: sem um abade, sempre foi um convento franciscano.",
+      "zh-CN": "天鹅、秘密藏身处和中世纪养鱼池有什么共同之处？它们都是罗斯埃里利方济各会修道院遗址故事的一部分。这座保存完好的爱尔兰方济各会修道院建于约1351年，常被称为罗斯修道院（俗称）；不过它从未设过院长，因为它本就不是隐修院。"
+    },
+    "quickFacts": {
+      "zh-CN": "罗斯埃里利修道院在建立后的一个世纪间逐步扩建，现存塔楼建于1498年。"
+    },
+    "captions": {
+      "en-US": "Ross Errilly Friary, County Galway, Ireland",
+      "en-CA": "Ross Errilly Friary, County Galway, Ireland",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Abadia+de+Ross+na+Irlanda&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
+      "en-CA": "/th?id=OHR.RossErrillyRuins_EN-CA6127917779",
+      "pt-BR": "/th?id=OHR.RossErrillyRuins_PT-BR4842065654"
+    }
+  },
+  "YellowShark": {
+    "name": "YellowShark",
+    "urlbase": "/th?id=OHR.YellowShark_EN-GB1905405727",
+    "date": "20260829",
+    "dateFormatted": "August 29, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1529,11 +1732,6 @@
         "flag": "es"
       },
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1550,137 +1748,82 @@
       }
     ],
     "titles": {
-      "en-US": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
-      "en-GB": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
-      "en-CA": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
-      "de-DE": "Wo eine Legende mit Schwänen begann. Kloster Ross Errilly, Grafschaft Galway, Irland",
-      "fr-FR": "Guidé par des cygnes. Monastère de Ross Errilly, Comté de Galway, Irlande",
-      "it-IT": "Dove le mura raccontano leggende",
-      "es-ES": "Leyenda de cisnes. El convento Ross Errilly, condado de Galway, Irlanda",
-      "pt-BR": "Onde o mito encontrou abrigo",
-      "ja-JP": "歴史を刻む石造りの修道院跡",
-      "zh-CN": "天鹅开启传奇之处",
-      "en-IN": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland"
+      "en-GB": "The fish that outgrew its name. International Whale Shark Day",
+      "de-DE": "Majestät der Ozeane. Internationaler Tag des Walhais",
+      "fr-FR": "Un grand nom pour un gros poisson. Journée internationale du requin-baleine",
+      "it-IT": "Il pesce che ha superato la balena",
+      "es-ES": "Un pez con el nombre de otro. Día Internacional del Tiburón Ballena",
+      "ja-JP": "今日は国際ジンベエザメの日",
+      "zh-CN": "鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚",
+      "en-IN": "The fish that outgrew its name. International Whale Shark Day",
+      "en-US": "The fish that outgrew its name. Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia",
+      "en-CA": "The fish that outgrew its name. Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia",
+      "pt-BR": "Gigante por natureza. Tubarão-baleia e xaréus-dourados na Baía de Cenderawasih, Papua Ocidental, Indonésia"
     },
     "copyrights": {
-      "en-US": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-      "en-GB": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-      "en-CA": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-      "de-DE": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
-      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
-      "it-IT": "Rovine del convento Ross Errilly, Contea di Galway, Irlanda (© Maria Janus/Shutterstock)",
-      "es-ES": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
-      "pt-BR": "Ruínas do Convento de Ross Errilly, Condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
-      "ja-JP": "ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)",
-      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)",
-      "en-IN": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)"
+      "en-GB": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "de-DE": "Walhai und Goldmakrelen, Cenderawasih-Bucht, West-Papua, Indonesien (© Pete Oxford/Nature Picture Library)",
+      "fr-FR": "Requin-baleine et carangues royales, Golfe de Cenderawasih, Papouasie occidentale, Indonésie (© Pete Oxford/Nature Picture Library)",
+      "it-IT": "Squalo balena e carango dorato, Baia di Cenderawasih, Papua Occidentale, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "es-ES": "Tiburón ballena y jurel real dorado, Bahía de Cenderawasih, Papúa Occidental, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "ja-JP": "ジンベエザメ, インドネシア (© Pete Oxford/Nature Picture Library)",
+      "zh-CN": "鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)",
+      "en-IN": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "en-US": "© Pete Oxford/Nature Picture Library",
+      "en-CA": "© Pete Oxford/Nature Picture Library",
+      "pt-BR": "© Pete Oxford/Nature Picture Library"
     },
     "descs": {
-      "en-US": "What do swans, secret hideaways, and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "en-GB": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "en-CA": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "de-DE": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
-      "fr-FR": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
-      "es-ES": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
-      "ja-JP": "ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
-      "en-IN": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "it-IT": "Cigni, nascondigli segreti e una vasca medievale per tenere vivi i pesci fino al momento di cucinarli: cosa hanno in comune? Fanno tutti parte della storia del Convento Ross Errilly, nella Contea di Galway, in Irlanda. Fondato intorno al XIV secolo sull'affluente Black River, questo convento francescano tra i meglio conservati d'Irlanda — spesso chiamato erroneamente \"Ross Abbey\", pur non avendo mai avuto un abate — è un labirinto di cappelle, chiostri e corridoi dove ogni pietra racconta secoli di storia religiosa e vita monastica medievale.",
-      "pt-BR": "O que cisnes, passagens secretas e tanques de peixe têm em comum? Todos fazem parte da história do Convento de Ross Errilly, no Condado de Galway, na Irlanda, que vemos na imagem de hoje. Fundado por volta de 1351, o lugar também é conhecido como Abadia de Ross, embora nunca tenha sido uma abadia: sem um abade, sempre foi um convento franciscano.",
-      "zh-CN": "天鹅、秘密藏身处和中世纪养鱼池有什么共同之处？它们都是罗斯埃里利方济各会修道院遗址故事的一部分。这座保存完好的爱尔兰方济各会修道院建于约1351年，常被称为罗斯修道院（俗称）；不过它从未设过院长，因为它本就不是隐修院。"
+      "en-GB": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "de-DE": "Am 30. August macht der Internationale Tag des Walhais auf die Bedeutung des größten Fisches der Erde aufmerksam. Trotz seiner beeindruckenden Größe gilt der Walhai als friedlicher Filterer, der sich vor allem von Plankton und kleinen Meerestieren ernährt. Ausgewachsene Tiere können bis zu 18 Meter lang werden und etwa 20 Tonnen wiegen. Damit gehört diese Art zu den eindrucksvollsten Bewohnern der tropischen und subtropischen Meere und fasziniert Forschende ebenso wie Naturbegeisterte auf der ganzen Welt.",
+      "fr-FR": "Le 30 août, la Journée internationale du requin-baleine met à l’honneur un géant paisible des océans. Malgré son nom, il ne s’agit pas d’une baleine, mais du plus grand poisson vivant sur Terre. Pouvant atteindre près de 18 mètres de long et peser jusqu’à 18 tonnes, il fréquente les eaux tropicales et subtropicales chaudes. La bouche grande ouverte, il filtre l’eau pour capturer du plancton, des œufs de poissons et d’autres organismes minuscules. Chaque individu porte une constellation de taches blanches unique, comparable à une empreinte digitale.",
+      "es-ES": "En la bahía de Cenderawasih, en Papúa Occidental (Indonesia), un tiburón ballena navega en compañía de un banco de jureles dorados. El 30 de agosto es el Día Internacional del Tiburón Ballena: con hasta 18 metros de longitud y cerca de 20 toneladas de peso, es el pez más grande del planeta, aunque se alimenta filtrando plancton y huevos de pez con su enorme boca abierta. Cada individuo lleva en su piel un mapa único de manchas blancas —como las huellas dactilares— que permite identificarlo.",
+      "ja-JP": "今日、8 月 30 日は国際ジンベエザメの日。そして今日の画像は、インドネシアのチェンデラワシ湾で撮影されたジンベエザメです。ジンベエザメは、現生の魚類では最大の種であり、体長は最大で約 20m、体重は 20 トン前後にまで達します。世界中の熱帯・亜熱帯・温帯の海に広く分布しており、プランクトンや小魚を主食としています。穏やかな性格で知られていますが、乱獲や混獲、船との衝突などの影響で世界的に個体数が減少しており、絶滅危惧種に指定されています。",
+      "en-IN": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "en-US": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 60 feet and weighing around 20 tons. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs, and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "en-CA": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 metric tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "it-IT": "Nella baia di Cenderawasih, in Papua Occidentale, Indonesia, uno squalo balena nuota in compagnia di un banco di carangidi dorati. Il 30 agosto è la Giornata Internazionale dello Squalo Balena: con fino a diciotto metri di lunghezza e circa venti tonnellate di peso, è il pesce più grande del pianeta, ma si nutre filtrando plancton e uova di pesce a bocca aperta. Ogni esemplare porta sulla pelle una mappa unica di macchie bianche — come le impronte digitali — che permette di identificarlo.",
+      "pt-BR": "Dá para medir um peixe em andares de prédio? Nesse caso, dá sim. A imagem registra um tubarão-baleia na Baía de Cenderawasih, na Indonésia, cercado por um cardume de xaréus-dourados que aproveitam a carona, a proteção e os petiscos deixados pelo gigante.",
+      "zh-CN": "今天，国际鲸鲨日将目光投向世界上最大的鱼类。鲸鲨虽然名字中带有“鲸”，却不是鲸类，而是鱼类；体长可达60英尺，体重约20吨。它们分布在温暖的热带海域，张着嘴在水中缓缓游动，滤食浮游生物、鱼卵和其他微小猎物。每条鲸鲨身上独特的白色斑点图案都各不相同，就像人类的指纹。"
     },
     "quickFacts": {
-      "zh-CN": "罗斯埃里利修道院在建立后的一个世纪间逐步扩建，现存塔楼建于1498年。"
+      "en-US": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
+      "en-GB": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
+      "en-CA": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
+      "de-DE": "Walhaie können 100 Jahre oder sogar noch älter werden. Damit hat der größte Fisch der Welt eine überraschend hohe Lebenserwartung.",
+      "fr-FR": "Les requins-baleines peuvent vivre un siècle, voire plus, ce qui confère au plus grand poisson du monde une longévité étonnamment élevée.",
+      "zh-CN": "鲸鲨的寿命可能达到或超过一个世纪，这使世界上最大的鱼拥有令人意外的漫长生命。",
+      "en-IN": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span."
     },
     "captions": {
-      "en-US": "Ross Errilly Friary, County Galway, Ireland",
-      "en-GB": "Ross Errilly Friary, County Galway, Ireland",
-      "en-CA": "Ross Errilly Friary, County Galway, Ireland",
-      "de-DE": "Kloster Ross Errilly, Grafschaft Galway, Irland",
-      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande",
+      "en-GB": "International Whale Shark Day",
+      "de-DE": "Internationaler Tag des Walhais",
+      "fr-FR": "Journée internationale du requin-baleine",
       "it-IT": "",
-      "es-ES": "El convento Ross Errilly, condado de Galway, Irlanda",
-      "pt-BR": "",
-      "ja-JP": "歴史を刻む石造りの修道院跡",
+      "es-ES": "Día Internacional del Tiburón Ballena",
+      "ja-JP": "今日は国際ジンベエザメの日",
       "zh-CN": "",
-      "en-IN": "Ross Errilly Friary, County Galway, Ireland"
+      "en-IN": "International Whale Shark Day"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260815_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Kloster+Ross+Errilly+Irland&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=monast%c3%a8re+de+Ross+Errilly+Friary+Irlande&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Contea+di+Galway&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Galway+Irlanda&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Abadia+de+Ross+na+Irlanda&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%ad%e3%82%b9%e3%83%bb%e3%82%a8%e3%83%aa%e3%83%aa%e3%83%bc%e4%bf%ae%e9%81%93%e9%99%a2%e8%b7%a1&form=hpcapt&filters=HpDate%3a%2220260815_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%88%b1%e5%b0%94%e5%85%b0%e7%bd%97%e6%96%af%c2%b7%e5%9f%83%e9%87%8c%e5%88%a9%e4%bf%ae%e9%81%93%e9%99%a2&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260815_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220260829_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Walhais&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=requin-baleine&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Squalo+balena&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Tibur%c3%b3n+Ballena&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%b8%e3%83%b3%e3%83%99%e3%82%a8%e3%82%b6%e3%83%a1%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260829_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%b2%b8%e9%b2%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220260829_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
-      "en-GB": "/th?id=OHR.RossErrillyRuins_EN-GB5823104227",
-      "en-CA": "/th?id=OHR.RossErrillyRuins_EN-CA6127917779",
-      "de-DE": "/th?id=OHR.RossErrillyRuins_DE-DE7983217751",
-      "fr-FR": "/th?id=OHR.RossErrillyRuins_FR-FR6708321048",
-      "it-IT": "/th?id=OHR.RossErrillyRuins_IT-IT6009541490",
-      "es-ES": "/th?id=OHR.RossErrillyRuins_ES-ES2238203619",
-      "pt-BR": "/th?id=OHR.RossErrillyRuins_PT-BR4842065654",
-      "ja-JP": "/th?id=OHR.RossErrillyRuins_JA-JP6822363126",
-      "zh-CN": "/th?id=OHR.RossErrillyRuins_ZH-CN9986322001",
-      "en-IN": "/th?id=OHR.RossErrillyRuins_EN-IN1645230186"
-    }
-  },
-  "ValleyDreams": {
-    "name": "ValleyDreams",
-    "urlbase": "/th?id=OHR.ValleyDreams_EN-US5250331985",
-    "date": "20260815",
-    "dateFormatted": "August 15, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "The great balancing act. Ah Shi Sle Pah Wilderness, New Mexico",
-      "en-GB": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States",
-      "en-CA": "The great balancing act. Ah Shi Sle Pah Wilderness, New Mexico, United States",
-      "fr-FR": "Une coiffe de pierre. Ah Shi Sle Pah Wilderness, Nouveau-Mexique, États-Unis",
-      "ja-JP": "夕陽を浴びる奇岩群",
-      "zh-CN": "绝妙的平衡术",
-      "en-IN": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
-    },
-    "copyrights": {
-      "en-US": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)",
-      "en-GB": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
-      "en-CA": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
-      "fr-FR": "Cheminées de fées à Ah Shi Sle Pah Wilderness dans le comté de San Juan, Nouveau-Mexique, États-Unis (© Westend61/Getty Images)",
-      "ja-JP": "ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)",
-      "zh-CN": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)",
-      "en-IN": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water, and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
-      "en-GB": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
-      "en-CA": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
-      "fr-FR": "Dans les vastes badlands du nord-ouest du Nouveau-Mexique, aux États-Unis, Ah-Shi-Sle-Pah Wilderness offre un décor tout droit sorti d’un rêve. Depuis environ 75 millions d’années, le vent, l’eau et le gel façonnent patiemment des cheminées de fée — de fines colonnes rocheuses portant d’imposants chapeaux de pierre, aussi présentes en France, notamment en Auvergne ou dans les Pyrénées-Orientales. Le nom navajo du lieu, associé au « sel gris », rappelle un territoire aussi ancien que fascinant, où la nature compose une œuvre d’art à grande échelle.",
-      "ja-JP": "ここは米国ニューメキシコ州のア・シ・スレ・パ自然保護区。水と風の浸食により約 7500 万年かけて形成された奇岩群「フードゥー」が広がっています。岩の大きさや形はさまざまで、なかでも「エイリアン・スローン（異星人の玉座）」と呼ばれる奇岩は、人気の撮影スポットです。また、この地域は化石の宝庫としても知られており、北米に生息した恐竜ペンタケラトプスをはじめ、先史時代のワニやカメ、魚類などの化石が発見されています。",
-      "en-IN": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
-      "zh-CN": "大自然善于平衡看似不可能之物。在新墨西哥州阿什斯利帕荒野地，高耸的石林以纤细石柱托起厚重岩帽。约7,500万年来，风、水和冰将这片偏远的恶地雕刻成一座露天展馆，景象更像异星，而非地球。"
-    },
-    "quickFacts": {
-      "zh-CN": "阿什斯勒帕保存着全球最丰富的晚白垩世哺乳动物、爬行动物、植物和鱼类化石记录之一。"
-    },
-    "captions": {
-      "en-US": "Ah Shi Sle Pah Wilderness, New Mexico"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260815_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.ValleyDreams_EN-US5250331985"
+      "en-GB": "/th?id=OHR.YellowShark_EN-GB1905405727",
+      "de-DE": "/th?id=OHR.YellowShark_DE-DE7632036192",
+      "fr-FR": "/th?id=OHR.YellowShark_FR-FR9208937852",
+      "it-IT": "/th?id=OHR.YellowShark_IT-IT2405493473",
+      "es-ES": "/th?id=OHR.YellowShark_ES-ES9780213231",
+      "ja-JP": "/th?id=OHR.YellowShark_JA-JP0572284773",
+      "zh-CN": "/th?id=OHR.YellowShark_ZH-CN1570569826",
+      "en-IN": "/th?id=OHR.YellowShark_EN-IN0280820685"
     }
   },
   "NottingHillCarnival2026": {
@@ -1713,131 +1856,6 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135"
-    }
-  },
-  "SantaCatarina": {
-    "name": "SantaCatarina",
-    "urlbase": "/th?id=OHR.SantaCatarina_EN-GB1458336075",
-    "date": "20260824",
-    "dateFormatted": "August 24, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
-      "en-CA": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
-      "de-DE": "Zwischen den Wellen lesen. Luftaufnahme von Surfern, Santa Catarina, Brasilien",
-      "fr-FR": "L’art de lire entre les vagues. Vue aérienne de surfeurs, Santa Catarina, Brésil",
-      "it-IT": "Studiando le maree",
-      "es-ES": "Estudiando la marea. Vista aérea de surfistas, Santa Catarina, Brasil",
-      "pt-BR": "Os intérpretes das marés",
-      "zh-CN": "冲浪者航拍图，圣卡塔琳娜州，巴西",
-      "en-IN": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
-      "en-US": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil"
-    },
-    "copyrights": {
-      "en-GB": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
-      "en-CA": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
-      "de-DE": "Luftaufnahme von Surfern, Santa Catarina, Brasilien (© Wonderful Nature/Shutterstock)",
-      "fr-FR": "Vue aérienne de surfeurs, Santa Catarina, Brésil (© Wonderful Nature/Shutterstock)",
-      "it-IT": "Veduta aerea di surfisti a Santa Catarina, Brasile (© Wonderful Nature/Shutterstock)",
-      "es-ES": "Vista aérea de surfistas, Santa Catarina, Brasil (© Wonderful Nature/Shutterstock)",
-      "pt-BR": "Vista aérea de surfistas em Santa Catarina (© Wonderful Nature/Shutterstock)",
-      "zh-CN": "冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)",
-      "en-IN": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
-      "en-US": "© Wonderful Nature/Shutterstock"
-    },
-    "descs": {
-      "en-GB": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
-      "en-CA": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
-      "de-DE": "An der Küste des südbrasilianischen Bundesstaates Santa Catarina gehört das Surfen fest zum Alltag vieler Menschen. Lange Sandstrände, beständige Wellen und die Nähe zum Atlantik schaffen Bedingungen, die Einsteiger ebenso anziehen wie erfahrene Surfer. Wer hier auf das Meer hinausblickt, erkennt schnell, dass Geduld ein wichtiger Teil dieses Sports ist. Zwischen den heranrollenden Wellen warten die Surfer aufmerksam auf den richtigen Moment. Sie beobachten Wind, Strömung und Wellengang, bevor sie sich für eine einzelne Welle entscheiden.",
-      "fr-FR": "Au large de l’État de Santa Catarina, dans le sud du Brésil, une scène familière se répète à l’infini : des surfeurs attendent derrière les vagues déferlantes, leurs planches montant et descendant au rythme de l’Atlantique. Vu du ciel, le spectacle semble presque immobile. Pourtant, c'est précisément là que tout se joue. Chaque houle transporte une énergie née de vents parfois soufflés à des centaines, voire à des milliers de kilomètres. Pour glisser sur l’eau, il faut savoir reconnaître le moment précis où cette force atteint la côte.",
-      "es-ES": "Frente a las costas de Santa Catarina, en el sur de Brasil, una fila de surfistas esperan quietos más allá de donde rompen las olas. Desde el aire parece que no ocurre nada, pero ahí es exactamente donde empieza el verdadero trabajo. Cada ola arrastra energía generada por vientos que pueden haber soplado a miles de kilómetros de distancia; dominar ese pulso exige leer el mar con precisión, porque viento, mareas, corrientes y la forma del fondo marino deciden cómo romperá cada ola.",
-      "en-IN": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
-      "en-US": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
-      "it-IT": "Al largo delle coste di Santa Catarina, nello stato meridionale del Brasile, una fila di surfisti aspetta immobile oltre la linea dove le onde si infrangono. Dall'alto sembra che non accada nulla, ma è proprio lì che inizia il vero lavoro. Ogni onda trasporta energia generata da venti che possono aver soffiato a migliaia di chilometri di distanza; dominarla richiede di leggere il mare con precisione, perché vento, correnti e la forma del fondale decidono come si romperà ogni onda.",
-      "pt-BR": "Quem nunca surfou talvez ache que a parte emocionante é estar em pé sobre a prancha. Os surfistas da imagem podem discordar. No litoral de Santa Catarina, o momento mais importante acontece antes da primeira remada, enquanto todos observam o mar em silêncio, esperando a onda certa.",
-      "zh-CN": "在巴西南部圣卡塔琳娜州近海，图片捕捉到一种熟悉的仪式：冲浪者在碎浪之外等待，冲浪板随着大西洋的波涛起伏。从空中看，几乎什么都没有发生，但真正的功课正是在此时开始。"
-    },
-    "quickFacts": {
-      "zh-CN": "圣卡塔琳娜州海岸的若阿基纳海滩曾承办多项重要国际冲浪赛事。"
-    },
-    "captions": {
-      "en-GB": "Aerial view of surfers, Santa Catarina, Brazil",
-      "en-CA": "Aerial view of surfers, Santa Catarina, Brazil",
-      "de-DE": "Luftaufnahme von Surfern, Santa Catarina, Brasilien",
-      "fr-FR": "Vue aérienne de surfeurs, Santa Catarina, Brésil",
-      "it-IT": "",
-      "es-ES": "Vista aérea de surfistas, Santa Catarina, Brasil",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Aerial view of surfers, Santa Catarina, Brazil"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260824_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260829_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Santa+Catarina+Brasilien&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Br%c3%a9sil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e8%a5%bf%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e5%b7%9e&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.SantaCatarina_EN-GB1458336075",
-      "en-CA": "/th?id=OHR.SantaCatarina_EN-CA1161995702",
-      "de-DE": "/th?id=OHR.SantaCatarina_DE-DE7458345257",
-      "fr-FR": "/th?id=OHR.SantaCatarina_FR-FR8615743181",
-      "it-IT": "/th?id=OHR.SantaCatarina_IT-IT1605956723",
-      "es-ES": "/th?id=OHR.SantaCatarina_ES-ES9631069615",
-      "pt-BR": "/th?id=OHR.SantaCatarina_PT-BR2149597812",
-      "zh-CN": "/th?id=OHR.SantaCatarina_ZH-CN4170292043",
-      "en-IN": "/th?id=OHR.SantaCatarina_EN-IN0197195904"
     }
   },
   "WhyteCliffP": {
@@ -2358,7 +2376,7 @@
       "ja-JP": "夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images)"
     },
     "descs": {
-      "ja-JP": "今日は処暑. 夏の森を潤す清流, 静岡県. 今日 8 月 23 日は二十四節気の一つ、「処暑」です。次の二十四節気である「白露」までの期間を指す言葉でもあり、厳しい夏の暑さが峠を越え、少しずつ秋の気配が感じられる頃とされています。そして、今日の画像は、静岡県内を流れる川の風景。自然豊かな川辺は真夏でも涼しさを感じることができ、夏の終わりにキャンプや散策を楽しむのにもぴったりの場所です。"
+      "ja-JP": "今日 8 月 23 日は二十四節気の一つ、「処暑」です。次の二十四節気である「白露」までの期間を指す言葉でもあり、厳しい夏の暑さが峠を越え、少しずつ秋の気配が感じられる頃とされています。そして、今日の画像は、静岡県内を流れる川の風景。自然豊かな川辺は真夏でも涼しさを感じることができ、夏の終わりにキャンプや散策を楽しむのにもぴったりの場所です。"
     },
     "quickFacts": {},
     "captions": {
@@ -2454,7 +2472,7 @@
       }
     ],
     "titles": {
-      "zh-CN": "在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国"
+      "zh-CN": "暑气渐消，金秋已至"
     },
     "copyrights": {
       "zh-CN": "在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)"
@@ -2473,6 +2491,58 @@
     },
     "urlbases": {
       "zh-CN": "/th?id=OHR.EndofHeatY26_ZH-CN8936468848"
+    }
+  },
+  "ValleyDreams": {
+    "name": "ValleyDreams",
+    "urlbase": "/th?id=OHR.ValleyDreams_EN-US5250331985",
+    "date": "20260815",
+    "dateFormatted": "August 15, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "The great balancing act. Ah Shi Sle Pah Wilderness, New Mexico",
+      "en-GB": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States",
+      "en-CA": "The great balancing act. Ah Shi Sle Pah Wilderness, New Mexico, United States",
+      "fr-FR": "Une coiffe de pierre. Ah Shi Sle Pah Wilderness, Nouveau-Mexique, États-Unis",
+      "ja-JP": "夕陽を浴びる奇岩群",
+      "zh-CN": "绝妙的平衡术",
+      "en-IN": "The great balancing act. Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States"
+    },
+    "copyrights": {
+      "en-US": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)",
+      "en-GB": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
+      "en-CA": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
+      "fr-FR": "Cheminées de fées à Ah Shi Sle Pah Wilderness dans le comté de San Juan, Nouveau-Mexique, États-Unis (© Westend61/Getty Images)",
+      "ja-JP": "ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)",
+      "zh-CN": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)",
+      "en-IN": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water, and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "en-GB": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "en-CA": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "fr-FR": "Dans les vastes badlands du nord-ouest du Nouveau-Mexique, aux États-Unis, Ah-Shi-Sle-Pah Wilderness offre un décor tout droit sorti d’un rêve. Depuis environ 75 millions d’années, le vent, l’eau et le gel façonnent patiemment des cheminées de fée — de fines colonnes rocheuses portant d’imposants chapeaux de pierre, aussi présentes en France, notamment en Auvergne ou dans les Pyrénées-Orientales. Le nom navajo du lieu, associé au « sel gris », rappelle un territoire aussi ancien que fascinant, où la nature compose une œuvre d’art à grande échelle.",
+      "ja-JP": "ここは米国ニューメキシコ州のア・シ・スレ・パ自然保護区。水と風の浸食により約 7500 万年かけて形成された奇岩群「フードゥー」が広がっています。岩の大きさや形はさまざまで、なかでも「エイリアン・スローン（異星人の玉座）」と呼ばれる奇岩は、人気の撮影スポットです。また、この地域は化石の宝庫としても知られており、北米に生息した恐竜ペンタケラトプスをはじめ、先史時代のワニやカメ、魚類などの化石が発見されています。",
+      "en-IN": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "zh-CN": "大自然善于平衡看似不可能之物。在新墨西哥州阿什斯利帕荒野地，高耸的石林以纤细石柱托起厚重岩帽。约7,500万年来，风、水和冰将这片偏远的恶地雕刻成一座露天展馆，景象更像异星，而非地球。"
+    },
+    "quickFacts": {
+      "zh-CN": "阿什斯勒帕保存着全球最丰富的晚白垩世哺乳动物、爬行动物、植物和鱼类化石记录之一。"
+    },
+    "captions": {
+      "en-US": "Ah Shi Sle Pah Wilderness, New Mexico"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260815_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ValleyDreams_EN-US5250331985"
     }
   },
   "SellinSunrise": {
