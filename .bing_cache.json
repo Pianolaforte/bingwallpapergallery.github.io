@@ -1,4 +1,154 @@
 {
+  "YellowShark": {
+    "name": "YellowShark",
+    "urlbase": "/th?id=OHR.YellowShark_EN-US3678567058",
+    "date": "20260830",
+    "dateFormatted": "August 30, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The fish that outgrew its name. International Whale Shark Day",
+      "en-GB": "The fish that outgrew its name. International Whale Shark Day",
+      "en-CA": "The fish that outgrew its name. International Whale Shark Day",
+      "de-DE": "Majestät der Ozeane. Internationaler Tag des Walhais",
+      "fr-FR": "Un grand nom pour un gros poisson. Journée internationale du requin-baleine",
+      "it-IT": "Il pesce che ha superato la balena",
+      "es-ES": "Un pez con el nombre de otro. Día Internacional del Tiburón Ballena",
+      "pt-BR": "Gigante por natureza",
+      "ja-JP": "今日は国際ジンベエザメの日",
+      "zh-CN": "鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚",
+      "en-IN": "The fish that outgrew its name. International Whale Shark Day"
+    },
+    "copyrights": {
+      "en-US": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "en-GB": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "en-CA": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "de-DE": "Walhai und Goldmakrelen, Cenderawasih-Bucht, West-Papua, Indonesien (© Pete Oxford/Nature Picture Library)",
+      "fr-FR": "Requin-baleine et carangues royales, Golfe de Cenderawasih, Papouasie occidentale, Indonésie (© Pete Oxford/Nature Picture Library)",
+      "it-IT": "Squalo balena e carango dorato, Baia di Cenderawasih, Papua Occidentale, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "es-ES": "Tiburón ballena y jurel real dorado, Bahía de Cenderawasih, Papúa Occidental, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "pt-BR": "Tubarão-baleia e xaréus-dourados na Baía de Cenderawasih, Papua Ocidental, Indonésia (© Pete Oxford/Nature Picture Library)",
+      "ja-JP": "ジンベエザメ, インドネシア (© Pete Oxford/Nature Picture Library)",
+      "zh-CN": "鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)",
+      "en-IN": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 60 feet and weighing around 20 tons. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs, and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "en-GB": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "en-CA": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 metric tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "de-DE": "Am 30. August macht der Internationale Tag des Walhais auf die Bedeutung des größten Fisches der Erde aufmerksam. Trotz seiner beeindruckenden Größe gilt der Walhai als friedlicher Filterer, der sich vor allem von Plankton und kleinen Meerestieren ernährt. Ausgewachsene Tiere können bis zu 18 Meter lang werden und etwa 20 Tonnen wiegen. Damit gehört diese Art zu den eindrucksvollsten Bewohnern der tropischen und subtropischen Meere und fasziniert Forschende ebenso wie Naturbegeisterte auf der ganzen Welt.",
+      "fr-FR": "Le 30 août, la Journée internationale du requin-baleine met à l’honneur un géant paisible des océans. Malgré son nom, il ne s’agit pas d’une baleine, mais du plus grand poisson vivant sur Terre. Pouvant atteindre près de 18 mètres de long et peser jusqu’à 18 tonnes, il fréquente les eaux tropicales et subtropicales chaudes. La bouche grande ouverte, il filtre l’eau pour capturer du plancton, des œufs de poissons et d’autres organismes minuscules. Chaque individu porte une constellation de taches blanches unique, comparable à une empreinte digitale.",
+      "es-ES": "En la bahía de Cenderawasih, en Papúa Occidental (Indonesia), un tiburón ballena navega en compañía de un banco de jureles dorados. El 30 de agosto es el Día Internacional del Tiburón Ballena: con hasta 18 metros de longitud y cerca de 20 toneladas de peso, es el pez más grande del planeta, aunque se alimenta filtrando plancton y huevos de pez con su enorme boca abierta. Cada individuo lleva en su piel un mapa único de manchas blancas —como las huellas dactilares— que permite identificarlo.",
+      "ja-JP": "今日、8 月 30 日は国際ジンベエザメの日。そして今日の画像は、インドネシアのチェンデラワシ湾で撮影されたジンベエザメです。ジンベエザメは、現生の魚類では最大の種であり、体長は最大で約 20m、体重は 20 トン前後にまで達します。世界中の熱帯・亜熱帯・温帯の海に広く分布しており、プランクトンや小魚を主食としています。穏やかな性格で知られていますが、乱獲や混獲、船との衝突などの影響で世界的に個体数が減少しており、絶滅危惧種に指定されています。",
+      "en-IN": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "it-IT": "Nella baia di Cenderawasih, in Papua Occidentale, Indonesia, uno squalo balena nuota in compagnia di un banco di carangidi dorati. Il 30 agosto è la Giornata Internazionale dello Squalo Balena: con fino a diciotto metri di lunghezza e circa venti tonnellate di peso, è il pesce più grande del pianeta, ma si nutre filtrando plancton e uova di pesce a bocca aperta. Ogni esemplare porta sulla pelle una mappa unica di macchie bianche — come le impronte digitali — che permette di identificarlo.",
+      "pt-BR": "Dá para medir um peixe em andares de prédio? Nesse caso, dá sim. A imagem registra um tubarão-baleia na Baía de Cenderawasih, na Indonésia, cercado por um cardume de xaréus-dourados que aproveitam a carona, a proteção e os petiscos deixados pelo gigante.",
+      "zh-CN": "今天，国际鲸鲨日将目光投向世界上最大的鱼类。鲸鲨虽然名字中带有“鲸”，却不是鲸类，而是鱼类；体长可达60英尺，体重约20吨。它们分布在温暖的热带海域，张着嘴在水中缓缓游动，滤食浮游生物、鱼卵和其他微小猎物。每条鲸鲨身上独特的白色斑点图案都各不相同，就像人类的指纹。"
+    },
+    "quickFacts": {
+      "en-US": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
+      "en-GB": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
+      "en-CA": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
+      "de-DE": "Walhaie können 100 Jahre oder sogar noch älter werden. Damit hat der größte Fisch der Welt eine überraschend hohe Lebenserwartung.",
+      "fr-FR": "Les requins-baleines peuvent vivre un siècle, voire plus, ce qui confère au plus grand poisson du monde une longévité étonnamment élevée.",
+      "zh-CN": "鲸鲨的寿命可能达到或超过一个世纪，这使世界上最大的鱼拥有令人意外的漫长生命。",
+      "en-IN": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span."
+    },
+    "captions": {
+      "en-US": "International Whale Shark Day",
+      "en-GB": "International Whale Shark Day",
+      "en-CA": "International Whale Shark Day",
+      "de-DE": "Internationaler Tag des Walhais",
+      "fr-FR": "Journée internationale du requin-baleine",
+      "it-IT": "",
+      "es-ES": "Día Internacional del Tiburón Ballena",
+      "pt-BR": "",
+      "ja-JP": "今日は国際ジンベエザメの日",
+      "zh-CN": "",
+      "en-IN": "International Whale Shark Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=whale+shark&form=hpcapt&filters=HpDate%3a%2220260830_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220260829_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220260830_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Walhais&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=requin-baleine&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Squalo+balena&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Tibur%c3%b3n+Ballena&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=tubarao+baleia&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%b8%e3%83%b3%e3%83%99%e3%82%a8%e3%82%b6%e3%83%a1%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260829_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%b2%b8%e9%b2%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220260829_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.YellowShark_EN-US3678567058",
+      "en-GB": "/th?id=OHR.YellowShark_EN-GB1905405727",
+      "en-CA": "/th?id=OHR.YellowShark_EN-CA1504942162",
+      "de-DE": "/th?id=OHR.YellowShark_DE-DE7632036192",
+      "fr-FR": "/th?id=OHR.YellowShark_FR-FR9208937852",
+      "it-IT": "/th?id=OHR.YellowShark_IT-IT2405493473",
+      "es-ES": "/th?id=OHR.YellowShark_ES-ES9780213231",
+      "pt-BR": "/th?id=OHR.YellowShark_PT-BR2490068911",
+      "ja-JP": "/th?id=OHR.YellowShark_JA-JP0572284773",
+      "zh-CN": "/th?id=OHR.YellowShark_ZH-CN1570569826",
+      "en-IN": "/th?id=OHR.YellowShark_EN-IN0280820685"
+    }
+  },
   "SantaCatarina": {
     "name": "SantaCatarina",
     "urlbase": "/th?id=OHR.SantaCatarina_EN-US3600536393",
@@ -719,7 +869,7 @@
       "it-IT": "Attraversare la storia",
       "es-ES": "Rompiendo el techo de cristal. Puente de Brooklyn, Nueva York, EE. UU.",
       "ja-JP": "イースト川を彩る歴史の架け橋",
-      "zh-CN": "布鲁克林大桥，纽约市，美国",
+      "zh-CN": "跨越历史",
       "en-IN": "Crossing into history. Brooklyn Bridge, New York City, United States"
     },
     "copyrights": {
@@ -1496,59 +1646,24 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
-      "en-GB": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
       "en-CA": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
+      "pt-BR": "O bairro mais vibrante do oceano",
+      "en-GB": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
       "de-DE": "Farbenfrohe Riffbewohner. Falsche Clownfische, Insel Cabilao, Bohol, Philippinen",
       "fr-FR": "Nage droit devant toi ! Faux poissons-clowns au large de l’île de Cabilao, Philippines",
       "es-ES": "Una anémona de primera. Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
-      "pt-BR": "O bairro mais vibrante do oceano",
       "ja-JP": "イソギンチャクにすむ小魚たち",
       "zh-CN": "珊瑚礁上的黄金地段",
       "en-IN": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
@@ -1556,12 +1671,12 @@
     },
     "copyrights": {
       "en-US": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-      "en-GB": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
       "en-CA": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "pt-BR": "Três peixes-palhaço falsos em uma anêmona-do-mar, Ilha Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
+      "en-GB": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
       "de-DE": "Drei Falsche Clownfische in einer Seeanemone, Insel Cabilao, Bohol, Philippinen (© Franco Banfi/Nature Picture Library)",
       "fr-FR": "Trois faux poissons-clowns dans une anémone de mer, Île de Cabilao, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
       "es-ES": "Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
-      "pt-BR": "Três peixes-palhaço falsos em uma anêmona-do-mar, Ilha Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
       "ja-JP": "カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)",
       "zh-CN": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)",
       "en-IN": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
@@ -1569,8 +1684,8 @@
     },
     "descs": {
       "en-US": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "en-GB": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
       "en-CA": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "en-GB": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
       "de-DE": "Falsche Clownfische gehören zu den bekanntesten Bewohnern tropischer Korallenriffe. Mit ihren leuchtend orangefarbenen Körpern und den weißen Streifen sind sie leicht zu erkennen. Besonders faszinierend ist ihre enge Verbindung zu Seeanemonen, zwischen deren Tentakeln sie Schutz vor vielen Fressfeinden finden. Dort verbringen sie einen Großteil ihres Lebens und bewegen sich oft nur wenige Meter von ihrem vertrauten Unterschlupf entfernt.",
       "fr-FR": "À Lighthouse Reef, près de l’île de Cabilao aux Philippines, le faux poisson-clown évolue dans un décor aussi magnifique qu’hostile. Dans ces eaux tropicales saturées de prédateurs, il a trouvé un refuge inattendu : l’anémone de mer, dont les milliers de cellules urticantes dissuadent presque tous les intrus. Là où d’autres verraient un piège, il trouve un abri parfait.",
       "es-ES": "En los arrecifes de la isla Cabilao, en Bohol, Filipinas, los peces payaso han encontrado el hogar definitivo: una anémona de mar armada con miles de células urticantes microscópicas que mantienen alejado a cualquier intruso. Para la mayoría de los peces, acercarse a una anémona equivale a tocar un campo de minas; para estos pequeños habitantes de colores, es simplemente su dirección.",
@@ -1585,126 +1700,25 @@
     },
     "captions": {
       "en-US": "False clownfish off Cabilao Island, Bohol, Philippines",
-      "en-GB": "False clownfish off Cabilao Island, Bohol, Philippines",
       "en-CA": "False clownfish off Cabilao Island, Bohol, Philippines",
-      "de-DE": "Falsche Clownfische, Insel Cabilao, Bohol, Philippinen",
-      "fr-FR": "Faux poissons-clowns au large de l’île de Cabilao, Philippines",
-      "es-ES": "Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
-      "pt-BR": "",
-      "ja-JP": "イソギンチャクにすむ小魚たち",
-      "zh-CN": "",
-      "en-IN": "False clownfish off Cabilao Island, Bohol, Philippines"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=false+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0700%22",
-      "en-GB": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260816_2300%22",
-      "en-CA": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Falscher+Clownfisch&form=hpcapt&filters=HpDate%3a%2220260816_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=faux+poisson-clown+esp%c3%a8ce&form=hpcapt&filters=HpDate%3a%2220260816_2200%22",
-      "es-ES": "https://www.bing.com/search?q=pez+payaso&form=hpcapt&filters=HpDate%3a%2220260816_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=anemona+do+mar&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%82%af%e3%83%9e%e3%83%8e%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220260816_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%9c%bc%e6%96%91%e5%8f%8c%e9%94%af%e9%b1%bc&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260816_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.CabilaoClowns_EN-US6302440247",
-      "en-GB": "/th?id=OHR.CabilaoClowns_EN-GB5900354557",
-      "en-CA": "/th?id=OHR.CabilaoClowns_EN-CA6278195956",
-      "de-DE": "/th?id=OHR.CabilaoClowns_DE-DE7285791368",
-      "fr-FR": "/th?id=OHR.CabilaoClowns_FR-FR3714615654",
-      "es-ES": "/th?id=OHR.CabilaoClowns_ES-ES2300770147",
-      "pt-BR": "/th?id=OHR.CabilaoClowns_PT-BR4676255668",
-      "ja-JP": "/th?id=OHR.CabilaoClowns_JA-JP7034609036",
-      "zh-CN": "/th?id=OHR.CabilaoClowns_ZH-CN0147033898",
-      "en-IN": "/th?id=OHR.CabilaoClowns_EN-IN1781663885"
-    }
-  },
-  "RossErrillyRuins": {
-    "name": "RossErrillyRuins",
-    "urlbase": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
-    "date": "20260816",
-    "dateFormatted": "August 16, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
-      "en-CA": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
-      "pt-BR": "Onde o mito encontrou abrigo",
-      "en-GB": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
-      "de-DE": "Wo eine Legende mit Schwänen begann. Kloster Ross Errilly, Grafschaft Galway, Irland",
-      "fr-FR": "Guidé par des cygnes. Monastère de Ross Errilly, Comté de Galway, Irlande",
-      "it-IT": "Dove le mura raccontano leggende",
-      "es-ES": "Leyenda de cisnes. El convento Ross Errilly, condado de Galway, Irlanda",
-      "ja-JP": "歴史を刻む石造りの修道院跡",
-      "zh-CN": "天鹅开启传奇之处",
-      "en-IN": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland"
-    },
-    "copyrights": {
-      "en-US": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-      "en-CA": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-      "pt-BR": "Ruínas do Convento de Ross Errilly, Condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
-      "en-GB": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-      "de-DE": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
-      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
-      "it-IT": "Rovine del convento Ross Errilly, Contea di Galway, Irlanda (© Maria Janus/Shutterstock)",
-      "es-ES": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
-      "ja-JP": "ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)",
-      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)",
-      "en-IN": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "What do swans, secret hideaways, and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "en-CA": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "en-GB": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "de-DE": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
-      "fr-FR": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
-      "es-ES": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
-      "ja-JP": "ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
-      "en-IN": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-      "it-IT": "Cigni, nascondigli segreti e una vasca medievale per tenere vivi i pesci fino al momento di cucinarli: cosa hanno in comune? Fanno tutti parte della storia del Convento Ross Errilly, nella Contea di Galway, in Irlanda. Fondato intorno al XIV secolo sull'affluente Black River, questo convento francescano tra i meglio conservati d'Irlanda — spesso chiamato erroneamente \"Ross Abbey\", pur non avendo mai avuto un abate — è un labirinto di cappelle, chiostri e corridoi dove ogni pietra racconta secoli di storia religiosa e vita monastica medievale.",
-      "pt-BR": "O que cisnes, passagens secretas e tanques de peixe têm em comum? Todos fazem parte da história do Convento de Ross Errilly, no Condado de Galway, na Irlanda, que vemos na imagem de hoje. Fundado por volta de 1351, o lugar também é conhecido como Abadia de Ross, embora nunca tenha sido uma abadia: sem um abade, sempre foi um convento franciscano.",
-      "zh-CN": "天鹅、秘密藏身处和中世纪养鱼池有什么共同之处？它们都是罗斯埃里利方济各会修道院遗址故事的一部分。这座保存完好的爱尔兰方济各会修道院建于约1351年，常被称为罗斯修道院（俗称）；不过它从未设过院长，因为它本就不是隐修院。"
-    },
-    "quickFacts": {
-      "zh-CN": "罗斯埃里利修道院在建立后的一个世纪间逐步扩建，现存塔楼建于1498年。"
-    },
-    "captions": {
-      "en-US": "Ross Errilly Friary, County Galway, Ireland",
-      "en-CA": "Ross Errilly Friary, County Galway, Ireland",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Abadia+de+Ross+na+Irlanda&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=false+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0700%22",
+      "en-CA": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=anemona+do+mar&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
-      "en-CA": "/th?id=OHR.RossErrillyRuins_EN-CA6127917779",
-      "pt-BR": "/th?id=OHR.RossErrillyRuins_PT-BR4842065654"
+      "en-US": "/th?id=OHR.CabilaoClowns_EN-US6302440247",
+      "en-CA": "/th?id=OHR.CabilaoClowns_EN-CA6278195956",
+      "pt-BR": "/th?id=OHR.CabilaoClowns_PT-BR4676255668"
     }
   },
-  "YellowShark": {
-    "name": "YellowShark",
-    "urlbase": "/th?id=OHR.YellowShark_EN-GB1905405727",
-    "date": "20260829",
-    "dateFormatted": "August 29, 2026",
+  "SamarkandCeiling": {
+    "name": "SamarkandCeiling",
+    "urlbase": "/th?id=OHR.SamarkandCeiling_EN-GB2027090405",
+    "date": "20260830",
+    "dateFormatted": "August 30, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1748,82 +1762,76 @@
       }
     ],
     "titles": {
-      "en-GB": "The fish that outgrew its name. International Whale Shark Day",
-      "de-DE": "Majestät der Ozeane. Internationaler Tag des Walhais",
-      "fr-FR": "Un grand nom pour un gros poisson. Journée internationale du requin-baleine",
-      "it-IT": "Il pesce che ha superato la balena",
-      "es-ES": "Un pez con el nombre de otro. Día Internacional del Tiburón Ballena",
-      "ja-JP": "今日は国際ジンベエザメの日",
-      "zh-CN": "鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚",
-      "en-IN": "The fish that outgrew its name. International Whale Shark Day",
-      "en-US": "The fish that outgrew its name. Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia",
-      "en-CA": "The fish that outgrew its name. Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia",
-      "pt-BR": "Gigante por natureza. Tubarão-baleia e xaréus-dourados na Baía de Cenderawasih, Papua Ocidental, Indonésia"
+      "en-GB": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
+      "de-DE": "Ein Meisterwerk der Musterkunst. Registan-Platz, Samarkand, Usbekistan",
+      "fr-FR": "Quand la beauté du détail opère. Détails d’un plafond, Régistan, Samarcande, Ouzbékistan",
+      "it-IT": "Un design ipnotico",
+      "es-ES": "Un diseño hipnótico. Plaza Registan, Samarcanda, Uzbekistán",
+      "ja-JP": "精緻な幾何学模様が彩る天井",
+      "zh-CN": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦",
+      "en-IN": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
+      "en-US": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
+      "en-CA": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
+      "pt-BR": "Geometria em estado de arte. Detalhes da Praça Registan, Samarcanda, Uzbequistão"
     },
     "copyrights": {
-      "en-GB": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
-      "de-DE": "Walhai und Goldmakrelen, Cenderawasih-Bucht, West-Papua, Indonesien (© Pete Oxford/Nature Picture Library)",
-      "fr-FR": "Requin-baleine et carangues royales, Golfe de Cenderawasih, Papouasie occidentale, Indonésie (© Pete Oxford/Nature Picture Library)",
-      "it-IT": "Squalo balena e carango dorato, Baia di Cenderawasih, Papua Occidentale, Indonesia (© Pete Oxford/Nature Picture Library)",
-      "es-ES": "Tiburón ballena y jurel real dorado, Bahía de Cenderawasih, Papúa Occidental, Indonesia (© Pete Oxford/Nature Picture Library)",
-      "ja-JP": "ジンベエザメ, インドネシア (© Pete Oxford/Nature Picture Library)",
-      "zh-CN": "鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)",
-      "en-IN": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
-      "en-US": "© Pete Oxford/Nature Picture Library",
-      "en-CA": "© Pete Oxford/Nature Picture Library",
-      "pt-BR": "© Pete Oxford/Nature Picture Library"
+      "en-GB": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "de-DE": "Architektonisches Detail des Registan-Platzes, Samarkand, Usbekistan (© Piero M. Bianchi/Getty Images)",
+      "fr-FR": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan (© Piero M. Bianchi/Getty Images)",
+      "it-IT": "Cupola all'interno della moschea Tilla Kari Madrasa, Piazza Registan, Samarcanda, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "es-ES": "Cúpula en el interior de la mezquita de la madrasa Tilla-Kari, Plaza Registan, Samarcanda, Uzbekistán (© Piero M. Bianchi/Getty Images)",
+      "ja-JP": "レギスタン広場のマドラサ, ウズベキスタン (© Piero M. Bianchi/Getty Images)",
+      "zh-CN": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)",
+      "en-IN": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "en-US": "© Piero M. Bianchi/Getty Images",
+      "en-CA": "© Piero M. Bianchi/Getty Images",
+      "pt-BR": "© Piero M. Bianchi/Getty Images"
     },
     "descs": {
-      "en-GB": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
-      "de-DE": "Am 30. August macht der Internationale Tag des Walhais auf die Bedeutung des größten Fisches der Erde aufmerksam. Trotz seiner beeindruckenden Größe gilt der Walhai als friedlicher Filterer, der sich vor allem von Plankton und kleinen Meerestieren ernährt. Ausgewachsene Tiere können bis zu 18 Meter lang werden und etwa 20 Tonnen wiegen. Damit gehört diese Art zu den eindrucksvollsten Bewohnern der tropischen und subtropischen Meere und fasziniert Forschende ebenso wie Naturbegeisterte auf der ganzen Welt.",
-      "fr-FR": "Le 30 août, la Journée internationale du requin-baleine met à l’honneur un géant paisible des océans. Malgré son nom, il ne s’agit pas d’une baleine, mais du plus grand poisson vivant sur Terre. Pouvant atteindre près de 18 mètres de long et peser jusqu’à 18 tonnes, il fréquente les eaux tropicales et subtropicales chaudes. La bouche grande ouverte, il filtre l’eau pour capturer du plancton, des œufs de poissons et d’autres organismes minuscules. Chaque individu porte une constellation de taches blanches unique, comparable à une empreinte digitale.",
-      "es-ES": "En la bahía de Cenderawasih, en Papúa Occidental (Indonesia), un tiburón ballena navega en compañía de un banco de jureles dorados. El 30 de agosto es el Día Internacional del Tiburón Ballena: con hasta 18 metros de longitud y cerca de 20 toneladas de peso, es el pez más grande del planeta, aunque se alimenta filtrando plancton y huevos de pez con su enorme boca abierta. Cada individuo lleva en su piel un mapa único de manchas blancas —como las huellas dactilares— que permite identificarlo.",
-      "ja-JP": "今日、8 月 30 日は国際ジンベエザメの日。そして今日の画像は、インドネシアのチェンデラワシ湾で撮影されたジンベエザメです。ジンベエザメは、現生の魚類では最大の種であり、体長は最大で約 20m、体重は 20 トン前後にまで達します。世界中の熱帯・亜熱帯・温帯の海に広く分布しており、プランクトンや小魚を主食としています。穏やかな性格で知られていますが、乱獲や混獲、船との衝突などの影響で世界的に個体数が減少しており、絶滅危惧種に指定されています。",
-      "en-IN": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
-      "en-US": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 60 feet and weighing around 20 tons. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs, and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
-      "en-CA": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 metric tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
-      "it-IT": "Nella baia di Cenderawasih, in Papua Occidentale, Indonesia, uno squalo balena nuota in compagnia di un banco di carangidi dorati. Il 30 agosto è la Giornata Internazionale dello Squalo Balena: con fino a diciotto metri di lunghezza e circa venti tonnellate di peso, è il pesce più grande del pianeta, ma si nutre filtrando plancton e uova di pesce a bocca aperta. Ogni esemplare porta sulla pelle una mappa unica di macchie bianche — come le impronte digitali — che permette di identificarlo.",
-      "pt-BR": "Dá para medir um peixe em andares de prédio? Nesse caso, dá sim. A imagem registra um tubarão-baleia na Baía de Cenderawasih, na Indonésia, cercado por um cardume de xaréus-dourados que aproveitam a carona, a proteção e os petiscos deixados pelo gigante.",
-      "zh-CN": "今天，国际鲸鲨日将目光投向世界上最大的鱼类。鲸鲨虽然名字中带有“鲸”，却不是鲸类，而是鱼类；体长可达60英尺，体重约20吨。它们分布在温暖的热带海域，张着嘴在水中缓缓游动，滤食浮游生物、鱼卵和其他微小猎物。每条鲸鲨身上独特的白色斑点图案都各不相同，就像人类的指纹。"
+      "en-GB": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upwards. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+      "de-DE": "Der Registan in Samarkand zählt zu den bekanntesten Wahrzeichen Usbekistans und gilt als ein Meisterwerk der islamischen Baukunst. Besonders faszinierend sind die architektonischen Details, die sich über Fassaden, Portale und Kuppeln erstrecken. Tausende sorgfältig angeordnete Keramikfliesen bilden geometrische Muster, die den Blick immer wieder auf neue Formen und Symmetrien lenken. Das Zusammenspiel von Blau, Türkis und Sandtönen verleiht den Bauwerken eine außergewöhnliche Ausstrahlung und unterstreicht ihre historische Bedeutung.",
+      "fr-FR": "Sur la place du Régistan, à Samarcande, il suffit de lever les yeux pour comprendre pourquoi ce lieu est considéré comme le cœur architectural de l’Asie centrale. Bordée par trois majestueuses médersas, anciennes écoles consacrées au savoir et à la spiritualité, cette vaste esplanade d’Ouzbékistan impressionne par ses façades monumentales et ses portails élancés.",
+      "es-ES": "La plaza del Registán es el corazón histórico de Samarcanda, una de las ciudades habitadas de forma continua más antiguas de Asia Central, con más de 2.500 años de historia. Tres madrasas monumentales —la de Ulugbek, la Sher-Dor y la Tilla-Kari— enmarcan el espacio con una precisión casi simétrica, aunque fueron construidas en épocas distintas entre los siglos XV y XVII.",
+      "ja-JP": "レギスタン広場は、ウズベキスタンの古代都市サマルカンドの中心に位置する歴史的な広場です。 3 つのマドラサ（イスラムの神学校）に囲まれ、それぞれに独自の装飾が施されています。今日の画像は、マドラサ内部の天井に施された芸術的な装飾の一端です。釉薬を施したタイル、幾何学模様、花柄、そして美しく装飾された文字（カリグラフィー）が、驚くほどの精緻さで調和しています。こうした建築群を含むサマルカンドの歴史地区は、2001 年に世界遺産に登録されました。",
+      "en-IN": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upwards. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+      "en-US": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centers of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+      "en-CA": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+      "it-IT": "La piazza del Registan è il cuore storico di Samarcanda, una delle città a continuità abitativa più antiche dell'Asia Centrale, con oltre 2.500 anni di storia. Tre imponenti madrasse — l'Ulugbek, la Sher-Dor e la Tilla Kari — delimitano lo spazio con una precisione quasi simmetrica, sebbene costruite in epoche diverse tra il XV e il XVII secolo.",
+      "pt-BR": "A praça Registan, em Samarcanda, Uzbequistão, sabe recompensar quem visita. Considerada o coração arquitetônico de uma das cidades mais antigas da Ásia Central, ela é cercada por três madraças, instituições de ensino islâmico, cujas fachadas revelam um universo de formas, cores e simetrias.",
+      "zh-CN": "站在雷吉斯坦广场上，你很容易明白为什么这里被视为撒马尔罕的建筑核心——撒马尔罕是中亚最古老的城市之一。这座位于乌兹别克斯坦的广场三面矗立着三座宏伟的经学院——伊斯兰学术中心——它们高耸的门廊吸引着人们仰头观望。然而，广场上一些最珍贵的瑰宝，只有在你走近细看时才会显露出来。"
     },
     "quickFacts": {
-      "en-US": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
-      "en-GB": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
-      "en-CA": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span.",
-      "de-DE": "Walhaie können 100 Jahre oder sogar noch älter werden. Damit hat der größte Fisch der Welt eine überraschend hohe Lebenserwartung.",
-      "fr-FR": "Les requins-baleines peuvent vivre un siècle, voire plus, ce qui confère au plus grand poisson du monde une longévité étonnamment élevée.",
-      "zh-CN": "鲸鲨的寿命可能达到或超过一个世纪，这使世界上最大的鱼拥有令人意外的漫长生命。",
-      "en-IN": "Whale sharks may live for a century or more, giving the world's largest fish an unexpectedly long life span."
+      "zh-CN": "2001年，撒马尔罕被列入联合国教科文组织《世界遗产名录》，获誉为拥有2500多年历史的世界文化交汇地。"
     },
     "captions": {
-      "en-GB": "International Whale Shark Day",
-      "de-DE": "Internationaler Tag des Walhais",
-      "fr-FR": "Journée internationale du requin-baleine",
+      "en-GB": "Building detail of Registan Square, Samarkand, Uzbekistan",
+      "de-DE": "Registan-Platz, Samarkand, Usbekistan",
+      "fr-FR": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan",
       "it-IT": "",
-      "es-ES": "Día Internacional del Tiburón Ballena",
-      "ja-JP": "今日は国際ジンベエザメの日",
+      "es-ES": "Plaza Registan, Samarcanda, Uzbekistán",
+      "ja-JP": "精緻な幾何学模様が彩る天井",
       "zh-CN": "",
-      "en-IN": "International Whale Shark Day"
+      "en-IN": "Building detail of Registan Square, Samarkand, Uzbekistan"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220260829_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Walhais&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=requin-baleine&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Squalo+balena&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Tibur%c3%b3n+Ballena&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%b8%e3%83%b3%e3%83%99%e3%82%a8%e3%82%b6%e3%83%a1%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260829_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%b2%b8%e9%b2%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220260829_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Samarcande&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Madrasa+Tilla+Kari&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Plaza+Registan+Samarcanda&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%ac%e3%82%ae%e3%82%b9%e3%82%bf%e3%83%b3%e5%ba%83%e5%a0%b4%e3%81%ae%e3%83%9e%e3%83%89%e3%83%a9%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260830_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%92%92%e9%a9%ac%e5%b0%94%e7%bd%95&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.YellowShark_EN-GB1905405727",
-      "de-DE": "/th?id=OHR.YellowShark_DE-DE7632036192",
-      "fr-FR": "/th?id=OHR.YellowShark_FR-FR9208937852",
-      "it-IT": "/th?id=OHR.YellowShark_IT-IT2405493473",
-      "es-ES": "/th?id=OHR.YellowShark_ES-ES9780213231",
-      "ja-JP": "/th?id=OHR.YellowShark_JA-JP0572284773",
-      "zh-CN": "/th?id=OHR.YellowShark_ZH-CN1570569826",
-      "en-IN": "/th?id=OHR.YellowShark_EN-IN0280820685"
+      "en-GB": "/th?id=OHR.SamarkandCeiling_EN-GB2027090405",
+      "de-DE": "/th?id=OHR.SamarkandCeiling_DE-DE7789243927",
+      "fr-FR": "/th?id=OHR.SamarkandCeiling_FR-FR3513297737",
+      "it-IT": "/th?id=OHR.SamarkandCeiling_IT-IT1763957510",
+      "es-ES": "/th?id=OHR.SamarkandCeiling_ES-ES9960905844",
+      "ja-JP": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578",
+      "zh-CN": "/th?id=OHR.SamarkandCeiling_ZH-CN1818913296",
+      "en-IN": "/th?id=OHR.SamarkandCeiling_EN-IN0367504407"
     }
   },
   "NottingHillCarnival2026": {
@@ -2142,61 +2150,6 @@
       "it-IT": "/th?id=OHR.NotteTaranta_IT-IT0811899295"
     }
   },
-  "LimeKiln": {
-    "name": "LimeKiln",
-    "urlbase": "/th?id=OHR.LimeKiln_IT-IT6111794447",
-    "date": "20260816",
-    "dateFormatted": "August 16, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "La luce che illumina il cammino",
-      "en-US": "Guiding ships through history. National Lighthouse Day",
-      "en-CA": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington state",
-      "pt-BR": "Uma luz no fim do oceano",
-      "de-DE": "Schiffe durch die Geschichte führen. Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
-      "es-ES": "Guiando a lo largo de la historia. Día Mundial de los Faros",
-      "ja-JP": "今日は米国灯台の日",
-      "zh-CN": "指引船只穿越历史"
-    },
-    "copyrights": {
-      "it-IT": "Faro Lime Kiln sull'isola di San Juan, stato di Washington, USA (© Edmund Lowe Photography/Shutterstock)",
-      "en-US": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
-      "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
-      "pt-BR": "Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos (© Edmund Lowe Photography/Shutterstock)",
-      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
-      "es-ES": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
-      "ja-JP": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
-      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
-      "en-CA": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
-      "de-DE": "Der Lime Kiln Lighthouse steht an der Westküste von San Juan Island im US-Bundesstaat Washington. Er gehört zu den bekanntesten Leuchttürmen der Region und blickt auf die stark befahrene Haro Strait. Seit seiner Inbetriebnahme unterstützt er die sichere Navigation von Schiffen, die zwischen den Vereinigten Staaten und Kanada verkehren. Das weiße Gebäude mit seinem markanten Turm fügt sich harmonisch in die felsige Küstenlandschaft ein und ist ein beliebtes Fotomotiv.",
-      "es-ES": "El Faro Lime Kiln, encendido por primera vez el 30 de junio de 1919 sobre la roca viva de la isla San Juan, en Washington, EE. UU., sigue lanzando su destello blanco sobre el estrecho de Haro con la misma fiabilidad que el primer día. Cada 7 de agosto, el Día Mundial de los Faros conmemora la Ley de Faros de 1789, firmada por George Washington.",
-      "ja-JP": "今日 8 月 7 日は米国灯台の日。ジョージ・ワシントン大統領の署名によって 1789 年に成立した「灯台法」を記念して制定された日であり、灯台の歴史と役割をたたえる日です。そして画像は、米国ワシントン州のサンファン島にあるライム・キルン灯台。1919 年に建設され、現在も船舶を導き続けています。航行技術の発展とともに進化を続けてきた灯台は、歴史的建造物や絶景スポットとしても親しまれながら、今もなお、安全と不屈の精神、そして大海原への冒険を象徴する存在であり続けています。",
-      "pt-BR": "Quando o céu escurece e o mar perde as referências, uma luz piscando vale mais do que qualquer mapa. Na imagem, o Farol de Lime Kiln, na Ilha San Juan, Estados Unidos, guia, desde 1919, cargueiros, balsas e barcos por uma das rotas marítimas mais movimentadas do noroeste do Pacífico.",
-      "zh-CN": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。",
-      "it-IT": "Il Faro Lime Kiln, acceso per la prima volta il 30 giugno 1919 sulla roccia viva dell'isola di San Juan, nello stato di Washington, USA, continua a lanciare il suo lampo bianco sullo stretto di Haro con la stessa precisione del primo giorno. Ogni 17 agosto, la Giornata Internazionale dei Fari celebra queste strutture che per secoli hanno guidato le navi lungo le coste di mezzo mondo."
-    },
-    "quickFacts": {
-      "zh-CN": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
-    },
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+dei+Fari&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.LimeKiln_IT-IT6111794447"
-    }
-  },
   "TomatinaBunol": {
     "name": "TomatinaBunol",
     "urlbase": "/th?id=OHR.TomatinaBunol_ES-ES8709376731",
@@ -2491,6 +2444,141 @@
     },
     "urlbases": {
       "zh-CN": "/th?id=OHR.EndofHeatY26_ZH-CN8936468848"
+    }
+  },
+  "RossErrillyRuins": {
+    "name": "RossErrillyRuins",
+    "urlbase": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
+    "date": "20260816",
+    "dateFormatted": "August 16, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "en-CA": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "pt-BR": "Onde o mito encontrou abrigo",
+      "en-GB": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland",
+      "de-DE": "Wo eine Legende mit Schwänen begann. Kloster Ross Errilly, Grafschaft Galway, Irland",
+      "fr-FR": "Guidé par des cygnes. Monastère de Ross Errilly, Comté de Galway, Irlande",
+      "it-IT": "Dove le mura raccontano leggende",
+      "es-ES": "Leyenda de cisnes. El convento Ross Errilly, condado de Galway, Irlanda",
+      "ja-JP": "歴史を刻む石造りの修道院跡",
+      "zh-CN": "天鹅开启传奇之处",
+      "en-IN": "Where swans started a legend. Ross Errilly Friary, County Galway, Ireland"
+    },
+    "copyrights": {
+      "en-US": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "en-CA": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "pt-BR": "Ruínas do Convento de Ross Errilly, Condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "en-GB": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+      "de-DE": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
+      "fr-FR": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
+      "it-IT": "Rovine del convento Ross Errilly, Contea di Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "es-ES": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+      "ja-JP": "ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)",
+      "zh-CN": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)",
+      "en-IN": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "What do swans, secret hideaways, and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "en-CA": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "en-GB": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "de-DE": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
+      "fr-FR": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
+      "es-ES": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
+      "ja-JP": "ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
+      "en-IN": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+      "it-IT": "Cigni, nascondigli segreti e una vasca medievale per tenere vivi i pesci fino al momento di cucinarli: cosa hanno in comune? Fanno tutti parte della storia del Convento Ross Errilly, nella Contea di Galway, in Irlanda. Fondato intorno al XIV secolo sull'affluente Black River, questo convento francescano tra i meglio conservati d'Irlanda — spesso chiamato erroneamente \"Ross Abbey\", pur non avendo mai avuto un abate — è un labirinto di cappelle, chiostri e corridoi dove ogni pietra racconta secoli di storia religiosa e vita monastica medievale.",
+      "pt-BR": "O que cisnes, passagens secretas e tanques de peixe têm em comum? Todos fazem parte da história do Convento de Ross Errilly, no Condado de Galway, na Irlanda, que vemos na imagem de hoje. Fundado por volta de 1351, o lugar também é conhecido como Abadia de Ross, embora nunca tenha sido uma abadia: sem um abade, sempre foi um convento franciscano.",
+      "zh-CN": "天鹅、秘密藏身处和中世纪养鱼池有什么共同之处？它们都是罗斯埃里利方济各会修道院遗址故事的一部分。这座保存完好的爱尔兰方济各会修道院建于约1351年，常被称为罗斯修道院（俗称）；不过它从未设过院长，因为它本就不是隐修院。"
+    },
+    "quickFacts": {
+      "zh-CN": "罗斯埃里利修道院在建立后的一个世纪间逐步扩建，现存塔楼建于1498年。"
+    },
+    "captions": {
+      "en-US": "Ross Errilly Friary, County Galway, Ireland",
+      "en-CA": "Ross Errilly Friary, County Galway, Ireland",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Abadia+de+Ross+na+Irlanda&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
+      "en-CA": "/th?id=OHR.RossErrillyRuins_EN-CA6127917779",
+      "pt-BR": "/th?id=OHR.RossErrillyRuins_PT-BR4842065654"
+    }
+  },
+  "LimeKiln": {
+    "name": "LimeKiln",
+    "urlbase": "/th?id=OHR.LimeKiln_IT-IT6111794447",
+    "date": "20260816",
+    "dateFormatted": "August 16, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "La luce che illumina il cammino",
+      "en-US": "Guiding ships through history. National Lighthouse Day",
+      "en-CA": "Guiding ships through history. Lime Kiln Lighthouse on San Juan Island, Washington state",
+      "pt-BR": "Uma luz no fim do oceano",
+      "de-DE": "Schiffe durch die Geschichte führen. Leuchtturm Lime Kiln auf San Juan Island, Washington, USA",
+      "es-ES": "Guiando a lo largo de la historia. Día Mundial de los Faros",
+      "ja-JP": "今日は米国灯台の日",
+      "zh-CN": "指引船只穿越历史"
+    },
+    "copyrights": {
+      "it-IT": "Faro Lime Kiln sull'isola di San Juan, stato di Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+      "en-US": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
+      "en-CA": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
+      "pt-BR": "Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos (© Edmund Lowe Photography/Shutterstock)",
+      "de-DE": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+      "es-ES": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
+      "ja-JP": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
+      "zh-CN": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
+      "en-CA": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
+      "de-DE": "Der Lime Kiln Lighthouse steht an der Westküste von San Juan Island im US-Bundesstaat Washington. Er gehört zu den bekanntesten Leuchttürmen der Region und blickt auf die stark befahrene Haro Strait. Seit seiner Inbetriebnahme unterstützt er die sichere Navigation von Schiffen, die zwischen den Vereinigten Staaten und Kanada verkehren. Das weiße Gebäude mit seinem markanten Turm fügt sich harmonisch in die felsige Küstenlandschaft ein und ist ein beliebtes Fotomotiv.",
+      "es-ES": "El Faro Lime Kiln, encendido por primera vez el 30 de junio de 1919 sobre la roca viva de la isla San Juan, en Washington, EE. UU., sigue lanzando su destello blanco sobre el estrecho de Haro con la misma fiabilidad que el primer día. Cada 7 de agosto, el Día Mundial de los Faros conmemora la Ley de Faros de 1789, firmada por George Washington.",
+      "ja-JP": "今日 8 月 7 日は米国灯台の日。ジョージ・ワシントン大統領の署名によって 1789 年に成立した「灯台法」を記念して制定された日であり、灯台の歴史と役割をたたえる日です。そして画像は、米国ワシントン州のサンファン島にあるライム・キルン灯台。1919 年に建設され、現在も船舶を導き続けています。航行技術の発展とともに進化を続けてきた灯台は、歴史的建造物や絶景スポットとしても親しまれながら、今もなお、安全と不屈の精神、そして大海原への冒険を象徴する存在であり続けています。",
+      "pt-BR": "Quando o céu escurece e o mar perde as referências, uma luz piscando vale mais do que qualquer mapa. Na imagem, o Farol de Lime Kiln, na Ilha San Juan, Estados Unidos, guia, desde 1919, cargueiros, balsas e barcos por uma das rotas marítimas mais movimentadas do noroeste do Pacífico.",
+      "zh-CN": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。",
+      "it-IT": "Il Faro Lime Kiln, acceso per la prima volta il 30 giugno 1919 sulla roccia viva dell'isola di San Juan, nello stato di Washington, USA, continua a lanciare il suo lampo bianco sullo stretto di Haro con la stessa precisione del primo giorno. Ogni 17 agosto, la Giornata Internazionale dei Fari celebra queste strutture che per secoli hanno guidato le navi lungo le coste di mezzo mondo."
+    },
+    "quickFacts": {
+      "zh-CN": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
+    },
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Giornata+Internazionale+dei+Fari&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.LimeKiln_IT-IT6111794447"
     }
   },
   "ValleyDreams": {
