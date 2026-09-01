@@ -1,4 +1,148 @@
 {
+  "SamarkandCeiling": {
+    "name": "SamarkandCeiling",
+    "urlbase": "/th?id=OHR.SamarkandCeiling_EN-US3761829748",
+    "date": "20260831",
+    "dateFormatted": "August 31, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
+      "en-GB": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
+      "en-CA": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
+      "de-DE": "Ein Meisterwerk der Musterkunst. Registan-Platz, Samarkand, Usbekistan",
+      "fr-FR": "Quand la beauté du détail opère. Détails d’un plafond, Régistan, Samarcande, Ouzbékistan",
+      "it-IT": "Un design ipnotico",
+      "es-ES": "Un diseño hipnótico. Plaza Registan, Samarcanda, Uzbekistán",
+      "pt-BR": "Geometria em estado de arte",
+      "ja-JP": "精緻な幾何学模様が彩る天井",
+      "zh-CN": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦",
+      "en-IN": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan"
+    },
+    "copyrights": {
+      "en-US": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "en-GB": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "en-CA": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "de-DE": "Architektonisches Detail des Registan-Platzes, Samarkand, Usbekistan (© Piero M. Bianchi/Getty Images)",
+      "fr-FR": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan (© Piero M. Bianchi/Getty Images)",
+      "it-IT": "Cupola all'interno della moschea Tilla Kari Madrasa, Piazza Registan, Samarcanda, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "es-ES": "Cúpula en el interior de la mezquita de la madrasa Tilla-Kari, Plaza Registan, Samarcanda, Uzbekistán (© Piero M. Bianchi/Getty Images)",
+      "pt-BR": "Detalhes da Praça Registan, Samarcanda, Uzbequistão (© Piero M. Bianchi/Getty Images)",
+      "ja-JP": "レギスタン広場のマドラサ, ウズベキスタン (© Piero M. Bianchi/Getty Images)",
+      "zh-CN": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)",
+      "en-IN": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centers of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+      "en-GB": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upwards. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+      "en-CA": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+      "de-DE": "Der Registan in Samarkand zählt zu den bekanntesten Wahrzeichen Usbekistans und gilt als ein Meisterwerk der islamischen Baukunst. Besonders faszinierend sind die architektonischen Details, die sich über Fassaden, Portale und Kuppeln erstrecken. Tausende sorgfältig angeordnete Keramikfliesen bilden geometrische Muster, die den Blick immer wieder auf neue Formen und Symmetrien lenken. Das Zusammenspiel von Blau, Türkis und Sandtönen verleiht den Bauwerken eine außergewöhnliche Ausstrahlung und unterstreicht ihre historische Bedeutung.",
+      "fr-FR": "Sur la place du Régistan, à Samarcande, il suffit de lever les yeux pour comprendre pourquoi ce lieu est considéré comme le cœur architectural de l’Asie centrale. Bordée par trois majestueuses médersas, anciennes écoles consacrées au savoir et à la spiritualité, cette vaste esplanade d’Ouzbékistan impressionne par ses façades monumentales et ses portails élancés.",
+      "es-ES": "La plaza del Registán es el corazón histórico de Samarcanda, una de las ciudades habitadas de forma continua más antiguas de Asia Central, con más de 2.500 años de historia. Tres madrasas monumentales —la de Ulugbek, la Sher-Dor y la Tilla-Kari— enmarcan el espacio con una precisión casi simétrica, aunque fueron construidas en épocas distintas entre los siglos XV y XVII.",
+      "ja-JP": "レギスタン広場は、ウズベキスタンの古代都市サマルカンドの中心に位置する歴史的な広場です。 3 つのマドラサ（イスラムの神学校）に囲まれ、それぞれに独自の装飾が施されています。今日の画像は、マドラサ内部の天井に施された芸術的な装飾の一端です。釉薬を施したタイル、幾何学模様、花柄、そして美しく装飾された文字（カリグラフィー）が、驚くほどの精緻さで調和しています。こうした建築群を含むサマルカンドの歴史地区は、2001 年に世界遺産に登録されました。",
+      "en-IN": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upwards. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+      "it-IT": "La piazza del Registan è il cuore storico di Samarcanda, una delle città a continuità abitativa più antiche dell'Asia Centrale, con oltre 2.500 anni di storia. Tre imponenti madrasse — l'Ulugbek, la Sher-Dor e la Tilla Kari — delimitano lo spazio con una precisione quasi simmetrica, sebbene costruite in epoche diverse tra il XV e il XVII secolo.",
+      "pt-BR": "A praça Registan, em Samarcanda, Uzbequistão, sabe recompensar quem visita. Considerada o coração arquitetônico de uma das cidades mais antigas da Ásia Central, ela é cercada por três madraças, instituições de ensino islâmico, cujas fachadas revelam um universo de formas, cores e simetrias.",
+      "zh-CN": "站在雷吉斯坦广场上，你很容易明白为什么这里被视为撒马尔罕的建筑核心——撒马尔罕是中亚最古老的城市之一。这座位于乌兹别克斯坦的广场三面矗立着三座宏伟的经学院——伊斯兰学术中心——它们高耸的门廊吸引着人们仰头观望。然而，广场上一些最珍贵的瑰宝，只有在你走近细看时才会显露出来。"
+    },
+    "quickFacts": {
+      "zh-CN": "2001年，撒马尔罕被列入联合国教科文组织《世界遗产名录》，获誉为拥有2500多年历史的世界文化交汇地。"
+    },
+    "captions": {
+      "en-US": "Building detail of Registan Square, Samarkand, Uzbekistan",
+      "en-GB": "Building detail of Registan Square, Samarkand, Uzbekistan",
+      "en-CA": "Building detail of Registan Square, Samarkand, Uzbekistan",
+      "de-DE": "Registan-Platz, Samarkand, Usbekistan",
+      "fr-FR": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan",
+      "it-IT": "",
+      "es-ES": "Plaza Registan, Samarcanda, Uzbekistán",
+      "pt-BR": "",
+      "ja-JP": "精緻な幾何学模様が彩る天井",
+      "zh-CN": "",
+      "en-IN": "Building detail of Registan Square, Samarkand, Uzbekistan"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260831_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260831_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Samarcande&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Madrasa+Tilla+Kari&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Plaza+Registan+Samarcanda&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Samarcanda&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%ac%e3%82%ae%e3%82%b9%e3%82%bf%e3%83%b3%e5%ba%83%e5%a0%b4%e3%81%ae%e3%83%9e%e3%83%89%e3%83%a9%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260830_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%92%92%e9%a9%ac%e5%b0%94%e7%bd%95&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SamarkandCeiling_EN-US3761829748",
+      "en-GB": "/th?id=OHR.SamarkandCeiling_EN-GB2027090405",
+      "en-CA": "/th?id=OHR.SamarkandCeiling_EN-CA1921310723",
+      "de-DE": "/th?id=OHR.SamarkandCeiling_DE-DE7789243927",
+      "fr-FR": "/th?id=OHR.SamarkandCeiling_FR-FR3513297737",
+      "it-IT": "/th?id=OHR.SamarkandCeiling_IT-IT1763957510",
+      "es-ES": "/th?id=OHR.SamarkandCeiling_ES-ES9960905844",
+      "pt-BR": "/th?id=OHR.SamarkandCeiling_PT-BR2655743090",
+      "ja-JP": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578",
+      "zh-CN": "/th?id=OHR.SamarkandCeiling_ZH-CN1818913296",
+      "en-IN": "/th?id=OHR.SamarkandCeiling_EN-IN0367504407"
+    }
+  },
   "YellowShark": {
     "name": "YellowShark",
     "urlbase": "/th?id=OHR.YellowShark_EN-US3678567058",
@@ -751,7 +895,7 @@
       "es-ES": "Secuoyas milenarias. Parques Nacionales y Estatales de Redwood, California, EE. UU.",
       "pt-BR": "O peso dos séculos na leveza das folhas",
       "ja-JP": "今日は米国国立公園局の創立記念日",
-      "zh-CN": "红木国家与州立公园的日出，加利福尼亚州，美国",
+      "zh-CN": "守护美国瑰宝",
       "en-IN": "Protecting America's treasures. Redwood National and State Parks, California, United States"
     },
     "copyrights": {
@@ -1502,60 +1646,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Geometry of a star city. Aerial view of Palmanova, a fortress city in Friuli, Italy",
-      "en-GB": "Geometry of a star city. Aerial view of Palmanova, a fortress city in Friuli, Italy",
       "en-CA": "Geometry of a star city. Aerial view of Palmanova, a fortress city in Friuli, Italy",
+      "en-GB": "Geometry of a star city. Aerial view of Palmanova, a fortress city in Friuli, Italy",
       "de-DE": "Geometrie einer Sternenstadt. Luftaufnahme von Palmanova, einer Festungsstadt in Friaul, Italien",
       "fr-FR": "Étoilée et italienne. Vue aérienne de Palmanova, Friuli, Italie",
       "it-IT": "Geometria di una città stellare",
@@ -1567,8 +1666,8 @@
     },
     "copyrights": {
       "en-US": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
-      "en-GB": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
       "en-CA": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
+      "en-GB": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
       "de-DE": "Luftaufnahme von Palmanova, einer Festungsstadt in Friaul, Italien (© Riccardo Saponi/Getty Images)",
       "fr-FR": "Vue aérienne de Palmanova, Friuli, Italie (© Riccardo Saponi/Getty Images)",
       "it-IT": "Veduta aerea di Palmanova, una città-fortezza in Friuli, Italia (© Riccardo Saponi/Getty Images)",
@@ -1580,8 +1679,8 @@
     },
     "descs": {
       "en-US": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defense, order, and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
-      "en-GB": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defence, order and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
       "en-CA": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defence, order and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
+      "en-GB": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defence, order and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
       "de-DE": "Palmanova gilt als eines der außergewöhnlichsten Beispiele europäischer Stadtplanung. Die Festungsstadt liegt in der italienischen Region Friaul-Julisch Venetien und wurde 1593 von der Republik Venedig gegründet. Sie entstand nach einem streng geometrischen Plan und wirkt aus der Luft wie ein perfekter Stern mit neun Zacken. Umgeben von mächtigen Wällen und Verteidigungsanlagen sollte die Stadt die nordöstliche Grenze des venezianischen Herrschaftsgebiets schützen und zugleich die Vorstellungen einer idealen Stadt verwirklichen.",
       "fr-FR": "Vue du ciel, Palmanova évoque une gigantesque étoile posée sur la plaine du Frioul-Vénétie Julienne, dans le nord-est de l’Italie. Fondée en 1593 par la République de Venise, elle incarne une idée audacieuse : réunir l’art, la science et la défense dans une même conception urbaine. Depuis sa vaste place centrale, les rues rayonnent selon un plan d’une précision remarquable, tandis que les remparts dessinent une figure à neuf pointes visible jusque dans les moindres détails depuis les airs.",
       "es-ES": "Vista desde el aire, Palmanova no parece una ciudad: parece el plano de una estrella de nueve puntas trazado con escuadra y compás sobre las llanuras de Friul-Venecia Julia, Italia. Fundada por la República de Venecia el 7 de octubre de 1593, esta ciudad fortaleza fue concebida desde cero como modelo de defensa, orden y belleza: sus calles irradian desde una plaza central hexagonal hacia las murallas, que forman un anillo de bastiones en perfección matemática.",
@@ -1596,129 +1695,22 @@
     },
     "captions": {
       "en-US": "Aerial view of Palmanova, a fortress city in Friuli, Italy",
-      "en-GB": "Aerial view of Palmanova, a fortress city in Friuli, Italy",
-      "en-CA": "Aerial view of Palmanova, a fortress city in Friuli, Italy",
-      "de-DE": "Luftaufnahme von Palmanova, einer Festungsstadt in Friaul, Italien",
-      "fr-FR": "Vue aérienne de Palmanova, Friuli, Italie",
-      "it-IT": "",
-      "es-ES": "Palmanova, una ciudad fortaleza en Friul-Venecia Julia, Italia",
-      "pt-BR": "",
-      "ja-JP": "上空から見る星形要塞都市",
-      "zh-CN": "",
-      "en-IN": "Aerial view of Palmanova, a fortress city in Friuli, Italy"
+      "en-CA": "Aerial view of Palmanova, a fortress city in Friuli, Italy"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate%3a%2220260818_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate%3a%2220260817_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate%3a%2220260818_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Palmanova+Italien&form=hpcapt&filters=HpDate%3a%2220260817_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Palmanova+Italie&form=hpcapt&filters=HpDate%3a%2220260817_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Palmanova&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Palmanova+Italia&form=hpcapt&filters=HpDate%3a%2220260817_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Palmanova+Italia&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%91%e3%83%ab%e3%83%9e%e3%83%8e%e3%83%bc%e3%83%b4%e3%82%a1&form=hpcapt&filters=HpDate%3a%2220260817_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%b8%95%e5%b0%94%e9%a9%ac%e8%af%ba%e7%93%a6&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate%3a%2220260817_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate%3a%2220260818_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.Palmanova_EN-US0340289339",
-      "en-GB": "/th?id=OHR.Palmanova_EN-GB5986280332",
-      "en-CA": "/th?id=OHR.Palmanova_EN-CA6466747249",
-      "de-DE": "/th?id=OHR.Palmanova_DE-DE7108374282",
-      "fr-FR": "/th?id=OHR.Palmanova_FR-FR7049551960",
-      "it-IT": "/th?id=OHR.Palmanova_IT-IT8638241680",
-      "es-ES": "/th?id=OHR.Palmanova_ES-ES2137780663",
-      "pt-BR": "/th?id=OHR.Palmanova_PT-BR5252698571",
-      "ja-JP": "/th?id=OHR.Palmanova_JA-JP7271854286",
-      "zh-CN": "/th?id=OHR.Palmanova_ZH-CN0378401592",
-      "en-IN": "/th?id=OHR.Palmanova_EN-IN1888779790"
+      "en-CA": "/th?id=OHR.Palmanova_EN-CA6466747249"
     }
   },
-  "CabilaoClowns": {
-    "name": "CabilaoClowns",
-    "urlbase": "/th?id=OHR.CabilaoClowns_EN-US6302440247",
-    "date": "20260817",
-    "dateFormatted": "August 17, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
-      "en-CA": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
-      "pt-BR": "O bairro mais vibrante do oceano",
-      "en-GB": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
-      "de-DE": "Farbenfrohe Riffbewohner. Falsche Clownfische, Insel Cabilao, Bohol, Philippinen",
-      "fr-FR": "Nage droit devant toi ! Faux poissons-clowns au large de l’île de Cabilao, Philippines",
-      "es-ES": "Una anémona de primera. Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
-      "ja-JP": "イソギンチャクにすむ小魚たち",
-      "zh-CN": "珊瑚礁上的黄金地段",
-      "en-IN": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
-      "it-IT": "Pronti per i festeggiamenti"
-    },
-    "copyrights": {
-      "en-US": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-      "en-CA": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-      "pt-BR": "Três peixes-palhaço falsos em uma anêmona-do-mar, Ilha Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
-      "en-GB": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-      "de-DE": "Drei Falsche Clownfische in einer Seeanemone, Insel Cabilao, Bohol, Philippinen (© Franco Banfi/Nature Picture Library)",
-      "fr-FR": "Trois faux poissons-clowns dans une anémone de mer, Île de Cabilao, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-      "es-ES": "Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
-      "ja-JP": "カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)",
-      "zh-CN": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)",
-      "en-IN": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-      "it-IT": "Pesci pagliaccio in un anemone di mare, isola di Cabilao, Bohol, Filippine (© Franco Banfi/Nature Picture Library)"
-    },
-    "descs": {
-      "en-US": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "en-CA": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "en-GB": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "de-DE": "Falsche Clownfische gehören zu den bekanntesten Bewohnern tropischer Korallenriffe. Mit ihren leuchtend orangefarbenen Körpern und den weißen Streifen sind sie leicht zu erkennen. Besonders faszinierend ist ihre enge Verbindung zu Seeanemonen, zwischen deren Tentakeln sie Schutz vor vielen Fressfeinden finden. Dort verbringen sie einen Großteil ihres Lebens und bewegen sich oft nur wenige Meter von ihrem vertrauten Unterschlupf entfernt.",
-      "fr-FR": "À Lighthouse Reef, près de l’île de Cabilao aux Philippines, le faux poisson-clown évolue dans un décor aussi magnifique qu’hostile. Dans ces eaux tropicales saturées de prédateurs, il a trouvé un refuge inattendu : l’anémone de mer, dont les milliers de cellules urticantes dissuadent presque tous les intrus. Là où d’autres verraient un piège, il trouve un abri parfait.",
-      "es-ES": "En los arrecifes de la isla Cabilao, en Bohol, Filipinas, los peces payaso han encontrado el hogar definitivo: una anémona de mar armada con miles de células urticantes microscópicas que mantienen alejado a cualquier intruso. Para la mayoría de los peces, acercarse a una anémona equivale a tocar un campo de minas; para estos pequeños habitantes de colores, es simplemente su dirección.",
-      "ja-JP": "今日の画像は、フィリピン・ボホール州のカビラオ島で撮影されたイソギンチャクにすむカクレクマノミ。多くの魚にとってイソギンチャクは刺胞を持つ危険な存在ですが、クマノミは特殊な粘液によって身体を守っているため、触手の間を安全な住処として利用できます。一方で、捕食者を追い払ったり食べ残しを与えたりすることでイソギンチャクにも利益をもたらすという共生関係を築いています。クマノミは、すべてオスとして生まれたあと、群れからメスがいなくなると最も大きなオスが性転換してメスになるという特徴があります。",
-      "en-IN": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-      "it-IT": "Nelle acque della barriera corallina dell'isola di Cabilao, a Bohol, nelle Filippine, i pesci pagliaccio hanno trovato la casa definitiva: un anemone di mare armato di migliaia di cellule urticanti microscopiche, in grado di tenere lontano qualsiasi intruso. Per la maggior parte dei pesci, avvicinarsi a un anemone equivale a entrare in un campo minato; per questi piccoli abitanti dai colori vivaci, è semplicemente il loro indirizzo di casa.",
-      "zh-CN": "地点很重要。看看图片中菲律宾卡比劳岛附近卡比劳附近的灯塔礁的眼斑双锯鱼就知道了。在这片充满饥饿捕食者和激烈竞争的热带水域，它们占据了一块黄金地段：一只拥有数千个微小刺细胞的海葵。",
-      "pt-BR": "No fundo do mar, endereço vale ouro. A imagem mostra um peixe-palhaço falso vivendo em um apartamento de luxo: uma anêmona-do-mar na Ilha Cabilao, nas Filipinas. Para qualquer outro peixe, aqueles tentáculos são uma coleção de milhares de ferrões microscópicos. Para ele, são portaria, muro e sistema de segurança funcionando 24 horas por dia."
-    },
-    "quickFacts": {
-      "zh-CN": "眼斑双锯鱼（俗称“公子小丑鱼”）的学名为 Amphiprion ocellaris；根据世界鱼类数据库（FishBase）的记录，该物种具有 11 根背鳍鳍棘。"
-    },
-    "captions": {
-      "en-US": "False clownfish off Cabilao Island, Bohol, Philippines",
-      "en-CA": "False clownfish off Cabilao Island, Bohol, Philippines",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=false+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0700%22",
-      "en-CA": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=anemona+do+mar&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.CabilaoClowns_EN-US6302440247",
-      "en-CA": "/th?id=OHR.CabilaoClowns_EN-CA6278195956",
-      "pt-BR": "/th?id=OHR.CabilaoClowns_PT-BR4676255668"
-    }
-  },
-  "SamarkandCeiling": {
-    "name": "SamarkandCeiling",
-    "urlbase": "/th?id=OHR.SamarkandCeiling_EN-GB2027090405",
-    "date": "20260830",
-    "dateFormatted": "August 30, 2026",
+  "HorseHairShroom": {
+    "name": "HorseHairShroom",
+    "urlbase": "/th?id=OHR.HorseHairShroom_EN-GB2103309829",
+    "date": "20260831",
+    "dateFormatted": "August 31, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1736,14 +1728,14 @@
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
       },
       {
         "code": "ja-JP",
@@ -1754,84 +1746,75 @@
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
-      "en-GB": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
-      "de-DE": "Ein Meisterwerk der Musterkunst. Registan-Platz, Samarkand, Usbekistan",
-      "fr-FR": "Quand la beauté du détail opère. Détails d’un plafond, Régistan, Samarcande, Ouzbékistan",
-      "it-IT": "Un design ipnotico",
-      "es-ES": "Un diseño hipnótico. Plaza Registan, Samarcanda, Uzbekistán",
-      "ja-JP": "精緻な幾何学模様が彩る天井",
-      "zh-CN": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦",
-      "en-IN": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
-      "en-US": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
-      "en-CA": "A master class in pattern. Building detail of Registan Square, Samarkand, Uzbekistan",
-      "pt-BR": "Geometria em estado de arte. Detalhes da Praça Registan, Samarcanda, Uzbequistão"
+      "en-GB": "A world beneath your feet. Horsehair parachute fungus, Belarus",
+      "de-DE": "Die verborgene Welt der Pilze. Rosshaar-Schwindling, Belarus",
+      "fr-FR": "Un monde entier sous nos pieds. Gymnopus androsaceus, Biélorussie",
+      "es-ES": "Un mundo bajo tus pies. Hongos paracaídas, Bielorrusia",
+      "pt-BR": "Um universo em miniatura",
+      "ja-JP": "9 月は米国のキノコ月間",
+      "zh-CN": "马鬃小皮伞，白俄罗斯",
+      "en-US": "A world beneath your feet. Horsehair parachute fungus, Belarus",
+      "en-CA": "A world beneath your feet. Horsehair parachute fungus, Belarus"
     },
     "copyrights": {
-      "en-GB": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
-      "de-DE": "Architektonisches Detail des Registan-Platzes, Samarkand, Usbekistan (© Piero M. Bianchi/Getty Images)",
-      "fr-FR": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan (© Piero M. Bianchi/Getty Images)",
-      "it-IT": "Cupola all'interno della moschea Tilla Kari Madrasa, Piazza Registan, Samarcanda, Uzbekistan (© Piero M. Bianchi/Getty Images)",
-      "es-ES": "Cúpula en el interior de la mezquita de la madrasa Tilla-Kari, Plaza Registan, Samarcanda, Uzbekistán (© Piero M. Bianchi/Getty Images)",
-      "ja-JP": "レギスタン広場のマドラサ, ウズベキスタン (© Piero M. Bianchi/Getty Images)",
-      "zh-CN": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)",
-      "en-IN": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
-      "en-US": "© Piero M. Bianchi/Getty Images",
-      "en-CA": "© Piero M. Bianchi/Getty Images",
-      "pt-BR": "© Piero M. Bianchi/Getty Images"
+      "en-GB": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
+      "de-DE": "Rosshaar-Schwindling, Belarus (© Máté/Nature Picture Library)",
+      "fr-FR": "Gymnopus androsaceus, Biélorussie (© Máté/Nature Picture Library)",
+      "es-ES": "Hongos paracaídas, Bielorrusia (© Máté/Nature Picture Library)",
+      "pt-BR": "Cogumelo Gymnopus androsaceus, Belarus (© Máté/Nature Picture Library)",
+      "ja-JP": "オチバタケ, ベラルーシ (© Máté/Nature Picture Library)",
+      "zh-CN": "马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)",
+      "en-US": "© Máté/Nature Picture Library",
+      "en-CA": "© Máté/Nature Picture Library"
     },
     "descs": {
-      "en-GB": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upwards. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
-      "de-DE": "Der Registan in Samarkand zählt zu den bekanntesten Wahrzeichen Usbekistans und gilt als ein Meisterwerk der islamischen Baukunst. Besonders faszinierend sind die architektonischen Details, die sich über Fassaden, Portale und Kuppeln erstrecken. Tausende sorgfältig angeordnete Keramikfliesen bilden geometrische Muster, die den Blick immer wieder auf neue Formen und Symmetrien lenken. Das Zusammenspiel von Blau, Türkis und Sandtönen verleiht den Bauwerken eine außergewöhnliche Ausstrahlung und unterstreicht ihre historische Bedeutung.",
-      "fr-FR": "Sur la place du Régistan, à Samarcande, il suffit de lever les yeux pour comprendre pourquoi ce lieu est considéré comme le cœur architectural de l’Asie centrale. Bordée par trois majestueuses médersas, anciennes écoles consacrées au savoir et à la spiritualité, cette vaste esplanade d’Ouzbékistan impressionne par ses façades monumentales et ses portails élancés.",
-      "es-ES": "La plaza del Registán es el corazón histórico de Samarcanda, una de las ciudades habitadas de forma continua más antiguas de Asia Central, con más de 2.500 años de historia. Tres madrasas monumentales —la de Ulugbek, la Sher-Dor y la Tilla-Kari— enmarcan el espacio con una precisión casi simétrica, aunque fueron construidas en épocas distintas entre los siglos XV y XVII.",
-      "ja-JP": "レギスタン広場は、ウズベキスタンの古代都市サマルカンドの中心に位置する歴史的な広場です。 3 つのマドラサ（イスラムの神学校）に囲まれ、それぞれに独自の装飾が施されています。今日の画像は、マドラサ内部の天井に施された芸術的な装飾の一端です。釉薬を施したタイル、幾何学模様、花柄、そして美しく装飾された文字（カリグラフィー）が、驚くほどの精緻さで調和しています。こうした建築群を含むサマルカンドの歴史地区は、2001 年に世界遺産に登録されました。",
-      "en-IN": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upwards. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
-      "en-US": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centers of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
-      "en-CA": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
-      "it-IT": "La piazza del Registan è il cuore storico di Samarcanda, una delle città a continuità abitativa più antiche dell'Asia Centrale, con oltre 2.500 anni di storia. Tre imponenti madrasse — l'Ulugbek, la Sher-Dor e la Tilla Kari — delimitano lo spazio con una precisione quasi simmetrica, sebbene costruite in epoche diverse tra il XV e il XVII secolo.",
-      "pt-BR": "A praça Registan, em Samarcanda, Uzbequistão, sabe recompensar quem visita. Considerada o coração arquitetônico de uma das cidades mais antigas da Ásia Central, ela é cercada por três madraças, instituições de ensino islâmico, cujas fachadas revelam um universo de formas, cores e simetrias.",
-      "zh-CN": "站在雷吉斯坦广场上，你很容易明白为什么这里被视为撒马尔罕的建筑核心——撒马尔罕是中亚最古老的城市之一。这座位于乌兹别克斯坦的广场三面矗立着三座宏伟的经学院——伊斯兰学术中心——它们高耸的门廊吸引着人们仰头观望。然而，广场上一些最珍贵的瑰宝，只有在你走近细看时才会显露出来。"
+      "en-GB": "Tiny mushrooms often go unnoticed, but the horsehair parachute fungus deserves a closer look. With a stem as thin as a strand of horsehair and a pleated cap measuring just 0.5 to 1 centimetre across, this miniature mushroom proves that good things really do come in small packages.",
+      "de-DE": "Im September erreicht in vielen Regionen Europas die Pilzsaison ihren Höhepunkt. Auch der Rosshaar-Schwindling bildet dann häufig Fruchtkörper und lässt sich mit etwas Aufmerksamkeit in Wäldern entdecken. Der kleine Pilz wächst auf abgestorbenen Nadeln, Blättern und Zweigen und trägt als Zersetzer zum natürlichen Stoffkreislauf im Wald bei. In Belarus kommt er sowohl in Mischwäldern als auch in ausgedehnten Nadelwäldern vor, die einen wichtigen Teil der Landschaft prägen. Seine zarten Fruchtkörper sind jedoch leicht zu übersehen und werden oft erst auf den zweiten Blick sichtbar.",
+      "fr-FR": "Sous la litière des forêts, parmi les feuilles mortes et les pelouses que nous foulons chaque jour, un monde discret travaille sans relâche. Les réseaux de champignons recyclent les nutriments, nourrissent les sols et soutiennent l’équilibre des écosystèmes. Les champignons visibles ne sont que les fructifications éphémères de ces organismes cachés, surgissant brièvement pour disperser leurs spores avant de disparaître à nouveau.",
+      "es-ES": "El hongo paracaídas, fotografiado aquí en Bielorrusia, es uno de los organismos más singulares del sotobosque: sus sombreros minúsculos —de apenas un centímetro— se sostienen sobre tallos negros y rígidos que parecen hilos de alambre. Crece en grupos sobre hojarasca y ramas muertas, y posee una cualidad extraordinaria: puede desecarse por completo y revivir con la siguiente lluvia. Los hongos no son plantas, sino un reino propio que descompone materia orgánica y mantiene vivos los ecosistemas forestales; lo que vemos sobre el suelo es solo la punta visible de una red subterránea de micelio que puede extenderse varios metros.",
+      "ja-JP": "9 月は米国のキノコ月間. オチバタケ, ベラルーシ. 9 月は米国のキノコ月間。キノコの多様性や健康への効果について理解を深めるための啓発月間です。私たちが「キノコ」と呼ぶものは、菌類が作り出した「子実体」と呼ばれるもので、胞子形成のために菌糸が組み合わさり複雑な構造になったものを指します。そして、今日の画像は、オチバタケという小さなキノコ。落ち葉の積もる林床などに生え、黒色の馬の毛状菌糸束を持っています。",
+      "en-US": "September's National Mushroom Month celebrates a world that often goes unnoticed. Beneath forest floors, lawns, and fallen leaves, fungal networks recycle nutrients, helping ecosystems thrive. The mushrooms we notice are only the fruiting bodies of these hidden organisms, emerging briefly to release spores before fading back from view. They are not plants; fungi form a kingdom of their own and play an essential role in nature's cycles.",
+      "en-CA": "Fungi often go unnoticed beneath forest floors, lawns and fallen leaves, yet their underground threads help recycle nutrients and support healthy ecosystems. The mushrooms we see are only the fruiting bodies of much larger organisms. They appear briefly, release spores, then disappear from sight. Unlike plants, fungi belong to a kingdom of their own. Some species even glow, while others form partnerships with trees.",
+      "pt-BR": "Se os fungos desaparecessem amanhã, a conta chegaria rápido: folhas deixariam de se decompor, nutrientes parariam de circular e muitos ecossistemas perderiam uma de suas engrenagens mais importantes. Debaixo da terra, entre folhas secas e troncos em decomposição, eles formam uma vasta rede invisível que recicla matéria, alimenta plantas e mantém florestas funcionando.",
+      "zh-CN": "九月的全国蘑菇月旨在赞颂一个常常不为人注意的世界。在森林地表、草坪和落叶下方，真菌网络循环利用养分，帮助生态系统蓬勃发展。我们看到的蘑菇只是这些隐秘生物的子实体，它们短暂现身释放孢子，随后又从视野中消失。它们并非植物；真菌自成一界，并在大自然的循环中发挥着至关重要的作用。"
     },
     "quickFacts": {
-      "zh-CN": "2001年，撒马尔罕被列入联合国教科文组织《世界遗产名录》，获誉为拥有2500多年历史的世界文化交汇地。"
+      "en-US": "In southeastern Pennsylvania, Kennett Square has earned a global reputation as the 'Mushroom Capital of the World.'",
+      "en-GB": "Even after drying into a seemingly lifeless speck during drought, the horsehair parachute fungus springs back to life within hours of rainfall, ready to release its spores.",
+      "en-CA": "In southeastern Pennsylvania, Kennett Square has earned a global reputation as the 'Mushroom Capital of the World.'",
+      "de-DE": "Im Südosten Pennsylvanias hat sich Kennett Square den weltweiten Ruf als „Pilzhauptstadt der Welt“ erworben.",
+      "fr-FR": "Contrairement aux plantes, les champignons n'ont pas besoin de lumière pour vivre.",
+      "zh-CN": "宾夕法尼亚州东南部的肯尼特广场享誉全球，被誉为“世界蘑菇之都”。"
     },
     "captions": {
-      "en-GB": "Building detail of Registan Square, Samarkand, Uzbekistan",
-      "de-DE": "Registan-Platz, Samarkand, Usbekistan",
-      "fr-FR": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan",
-      "it-IT": "",
-      "es-ES": "Plaza Registan, Samarcanda, Uzbekistán",
-      "ja-JP": "精緻な幾何学模様が彩る天井",
-      "zh-CN": "",
-      "en-IN": "Building detail of Registan Square, Samarkand, Uzbekistan"
+      "en-GB": "Horsehair parachute fungus, Belarus",
+      "de-DE": "Rosshaar-Schwindling, Belarus",
+      "fr-FR": "Gymnopus androsaceus, Biélorussie",
+      "es-ES": "Hongos paracaídas, Bielorrusia",
+      "pt-BR": "",
+      "ja-JP": "9 月は米国のキノコ月間",
+      "zh-CN": ""
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Samarcande&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Madrasa+Tilla+Kari&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Plaza+Registan+Samarcanda&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%ac%e3%82%ae%e3%82%b9%e3%82%bf%e3%83%b3%e5%ba%83%e5%a0%b4%e3%81%ae%e3%83%9e%e3%83%89%e3%83%a9%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260830_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%92%92%e9%a9%ac%e5%b0%94%e7%bd%95&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Horsehair+parachute+fungus&form=hpcapt&filters=HpDate%3a%2220260831_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Rosshaar-Schwindling&form=hpcapt&filters=HpDate%3a%2220260831_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=champignon+Gymnopus+androsaceus&form=hpcapt&filters=HpDate%3a%2220260831_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Marasmius+rotula&form=hpcapt&filters=HpDate%3a%2220260831_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Cogumelo&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%82%ad%e3%83%8e%e3%82%b3%e6%9c%88%e9%96%93&form=hpcapt&filters=HpDate%3a%2220260831_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%a9%ac%e9%ac%83%e5%b0%8f%e7%9a%ae%e4%bc%9e&form=hpcapt&mkt=zh-cn"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.SamarkandCeiling_EN-GB2027090405",
-      "de-DE": "/th?id=OHR.SamarkandCeiling_DE-DE7789243927",
-      "fr-FR": "/th?id=OHR.SamarkandCeiling_FR-FR3513297737",
-      "it-IT": "/th?id=OHR.SamarkandCeiling_IT-IT1763957510",
-      "es-ES": "/th?id=OHR.SamarkandCeiling_ES-ES9960905844",
-      "ja-JP": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578",
-      "zh-CN": "/th?id=OHR.SamarkandCeiling_ZH-CN1818913296",
-      "en-IN": "/th?id=OHR.SamarkandCeiling_EN-IN0367504407"
+      "en-GB": "/th?id=OHR.HorseHairShroom_EN-GB2103309829",
+      "de-DE": "/th?id=OHR.HorseHairShroom_DE-DE7910104416",
+      "fr-FR": "/th?id=OHR.HorseHairShroom_FR-FR3845055413",
+      "es-ES": "/th?id=OHR.HorseHairShroom_ES-ES0065882566",
+      "pt-BR": "/th?id=OHR.HorseHairShroom_PT-BR3941207361",
+      "ja-JP": "/th?id=OHR.HorseHairShroom_JA-JP2550807968",
+      "zh-CN": "/th?id=OHR.HorseHairShroom_ZH-CN2241458451"
     }
   },
   "NottingHillCarnival2026": {
@@ -2116,6 +2099,38 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.GlenanSummer_FR-FR4786744371"
+    }
+  },
+  "CapodannoBizantino": {
+    "name": "CapodannoBizantino",
+    "urlbase": "/th?id=OHR.CapodannoBizantino_IT-IT2305233649",
+    "date": "20260831",
+    "dateFormatted": "August 31, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Buon Capodanno Bizantino!"
+    },
+    "copyrights": {
+      "it-IT": "Vista aerea del Fiordo di Furore, Costiera Amalfitana, Italia (© Artur Debat/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Il Fiordo di Furore è un'insenatura scavata dal torrente Schiato nella roccia calcarea della Costiera Amalfitana, in Campania: un anfiteatro naturale che si apre tra pareti verticali sul mare Tirreno, con una spiaggia di appena venticinque metri raggiungibile solo attraverso un percorso nella roccia. Il ponte che lo sovrasta, a oltre venticinque metri di altezza, è parte della Statale Amalfitana che unisce tutti i comuni di questa costa."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Il+Capodanno+Bizantino+ad+Amalfi&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.CapodannoBizantino_IT-IT2305233649"
     }
   },
   "NotteTaranta": {
@@ -2444,6 +2459,118 @@
     },
     "urlbases": {
       "zh-CN": "/th?id=OHR.EndofHeatY26_ZH-CN8936468848"
+    }
+  },
+  "SurathkalBeach2026": {
+    "name": "SurathkalBeach2026",
+    "urlbase": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394",
+    "date": "20260831",
+    "dateFormatted": "August 31, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "The tide that carries tales. Surathkal Beach, Karnataka"
+    },
+    "copyrights": {
+      "en-IN": "The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images)"
+    },
+    "descs": {
+      "en-IN": "At Surathkal Beach, the waves aren't the only things making an impression. A lighthouse watches over the shore, a historic temple keeps centuries-old legends alive and, until recently, a stranded ship added an unexpected chapter to its story."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-IN": "Surathkal Beach, Karnataka"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Surathkal+Beach&form=hpcapt&filters=HpDate%3a%2220260831_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394"
+    }
+  },
+  "CabilaoClowns": {
+    "name": "CabilaoClowns",
+    "urlbase": "/th?id=OHR.CabilaoClowns_EN-US6302440247",
+    "date": "20260817",
+    "dateFormatted": "August 17, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
+      "en-CA": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
+      "pt-BR": "O bairro mais vibrante do oceano",
+      "en-GB": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
+      "de-DE": "Farbenfrohe Riffbewohner. Falsche Clownfische, Insel Cabilao, Bohol, Philippinen",
+      "fr-FR": "Nage droit devant toi ! Faux poissons-clowns au large de l’île de Cabilao, Philippines",
+      "es-ES": "Una anémona de primera. Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas",
+      "ja-JP": "イソギンチャクにすむ小魚たち",
+      "zh-CN": "珊瑚礁上的黄金地段",
+      "en-IN": "A prime 'reef' estate. False clownfish off Cabilao Island, Bohol, Philippines",
+      "it-IT": "Pronti per i festeggiamenti"
+    },
+    "copyrights": {
+      "en-US": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "en-CA": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "pt-BR": "Três peixes-palhaço falsos em uma anêmona-do-mar, Ilha Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
+      "en-GB": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "de-DE": "Drei Falsche Clownfische in einer Seeanemone, Insel Cabilao, Bohol, Philippinen (© Franco Banfi/Nature Picture Library)",
+      "fr-FR": "Trois faux poissons-clowns dans une anémone de mer, Île de Cabilao, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "es-ES": "Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
+      "ja-JP": "カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)",
+      "zh-CN": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)",
+      "en-IN": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+      "it-IT": "Pesci pagliaccio in un anemone di mare, isola di Cabilao, Bohol, Filippine (© Franco Banfi/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "en-CA": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "en-GB": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "de-DE": "Falsche Clownfische gehören zu den bekanntesten Bewohnern tropischer Korallenriffe. Mit ihren leuchtend orangefarbenen Körpern und den weißen Streifen sind sie leicht zu erkennen. Besonders faszinierend ist ihre enge Verbindung zu Seeanemonen, zwischen deren Tentakeln sie Schutz vor vielen Fressfeinden finden. Dort verbringen sie einen Großteil ihres Lebens und bewegen sich oft nur wenige Meter von ihrem vertrauten Unterschlupf entfernt.",
+      "fr-FR": "À Lighthouse Reef, près de l’île de Cabilao aux Philippines, le faux poisson-clown évolue dans un décor aussi magnifique qu’hostile. Dans ces eaux tropicales saturées de prédateurs, il a trouvé un refuge inattendu : l’anémone de mer, dont les milliers de cellules urticantes dissuadent presque tous les intrus. Là où d’autres verraient un piège, il trouve un abri parfait.",
+      "es-ES": "En los arrecifes de la isla Cabilao, en Bohol, Filipinas, los peces payaso han encontrado el hogar definitivo: una anémona de mar armada con miles de células urticantes microscópicas que mantienen alejado a cualquier intruso. Para la mayoría de los peces, acercarse a una anémona equivale a tocar un campo de minas; para estos pequeños habitantes de colores, es simplemente su dirección.",
+      "ja-JP": "今日の画像は、フィリピン・ボホール州のカビラオ島で撮影されたイソギンチャクにすむカクレクマノミ。多くの魚にとってイソギンチャクは刺胞を持つ危険な存在ですが、クマノミは特殊な粘液によって身体を守っているため、触手の間を安全な住処として利用できます。一方で、捕食者を追い払ったり食べ残しを与えたりすることでイソギンチャクにも利益をもたらすという共生関係を築いています。クマノミは、すべてオスとして生まれたあと、群れからメスがいなくなると最も大きなオスが性転換してメスになるという特徴があります。",
+      "en-IN": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+      "it-IT": "Nelle acque della barriera corallina dell'isola di Cabilao, a Bohol, nelle Filippine, i pesci pagliaccio hanno trovato la casa definitiva: un anemone di mare armato di migliaia di cellule urticanti microscopiche, in grado di tenere lontano qualsiasi intruso. Per la maggior parte dei pesci, avvicinarsi a un anemone equivale a entrare in un campo minato; per questi piccoli abitanti dai colori vivaci, è semplicemente il loro indirizzo di casa.",
+      "zh-CN": "地点很重要。看看图片中菲律宾卡比劳岛附近卡比劳附近的灯塔礁的眼斑双锯鱼就知道了。在这片充满饥饿捕食者和激烈竞争的热带水域，它们占据了一块黄金地段：一只拥有数千个微小刺细胞的海葵。",
+      "pt-BR": "No fundo do mar, endereço vale ouro. A imagem mostra um peixe-palhaço falso vivendo em um apartamento de luxo: uma anêmona-do-mar na Ilha Cabilao, nas Filipinas. Para qualquer outro peixe, aqueles tentáculos são uma coleção de milhares de ferrões microscópicos. Para ele, são portaria, muro e sistema de segurança funcionando 24 horas por dia."
+    },
+    "quickFacts": {
+      "zh-CN": "眼斑双锯鱼（俗称“公子小丑鱼”）的学名为 Amphiprion ocellaris；根据世界鱼类数据库（FishBase）的记录，该物种具有 11 根背鳍鳍棘。"
+    },
+    "captions": {
+      "en-US": "False clownfish off Cabilao Island, Bohol, Philippines",
+      "en-CA": "False clownfish off Cabilao Island, Bohol, Philippines",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=false+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0700%22",
+      "en-CA": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=anemona+do+mar&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.CabilaoClowns_EN-US6302440247",
+      "en-CA": "/th?id=OHR.CabilaoClowns_EN-CA6278195956",
+      "pt-BR": "/th?id=OHR.CabilaoClowns_PT-BR4676255668"
     }
   },
   "RossErrillyRuins": {
