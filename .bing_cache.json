@@ -1,4 +1,115 @@
 {
+  "AZWilderness": {
+    "name": "AZWilderness",
+    "urlbase": "/th?id=OHR.AZWilderness_EN-US4070936347",
+    "date": "20260903",
+    "dateFormatted": "September 03, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "An act of wilderness. Coyote Buttes, Vermilion Cliffs National Monument, Arizona",
+      "en-GB": "An act of wilderness. Coyote Buttes, Arizona, United States",
+      "fr-FR": "Une mer de grès. Buttes Coyote, Arizona, États-Unis",
+      "it-IT": "Onde statiche",
+      "es-ES": "La silueta del tiempo. Coyote Buttes, Arizona, EE. UU.",
+      "ja-JP": "今日は米国原生自然法制定の記念日",
+      "zh-CN": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国",
+      "en-IN": "An act of wilderness. Coyote Buttes, Arizona, United States"
+    },
+    "copyrights": {
+      "en-US": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)",
+      "en-GB": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)",
+      "fr-FR": "Buttes Coyote, Monument national des Falaises Vermilion, Arizona, États-Unis (© James Hager/Getty Images)",
+      "it-IT": "Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA (© James Hager/Getty Images)",
+      "es-ES": "Coyote Buttes, Monumento Nacional Vermilion Cliffs, Arizona, EE. UU. (© James Hager/Getty Images)",
+      "ja-JP": "コヨーテ・ビュート, 米国 アリゾナ州 (© James Hager/Getty Images)",
+      "zh-CN": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)",
+      "en-IN": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Waves usually belong to the ocean. In northern Arizona, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
+      "en-GB": "Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
+      "fr-FR": "Dans le nord de l’Arizona (États-Unis), les vagues semblent avoir quitté l’océan pour se figer dans le désert. Aux Buttes Coyote, au sein du Monument national des Falaises Vermilion (« Vermilion Cliffs National Monument »), les couches de grès aux courbes ondulantes témoignent d’une histoire vieille de millions d’années. D’anciennes dunes, sculptées par le vent, la pluie et les écarts de température, ont façonné un décor spectaculaire aux teintes ocre, rouge et or. Même immobile, le paysage semble en mouvement, telle une mer figée sous le soleil.",
+      "es-ES": "Las formaciones de arenisca de Coyote Buttes, dentro del Monumento Nacional de los Acantilados Bermejos de Arizona, Estados Unidos, parecen olas petrificadas: capas de roca multicolor moldeadas hace 190 millones de años, cuando toda la región era un desierto de dunas similar al Sahara actual. La erosión del viento y el agua durante millones de años dio lugar a estas curvas que parecen moverse, aunque estén inmóviles.",
+      "ja-JP": "今日の画像は米国アリゾナ州バーミリオン・クリフ国定公園に位置するコヨーテ・ビュート。砂漠に波が押し寄せたような独特の景観は、風や水が長い年月をかけて砂丘を浸食することで生まれました。こうした原生的な自然を守るため、米国では 1964 年 9 月 3 日に「原生自然法」が制定されました。当初は 54 か所、約 3 万 6,800km² が保護対象でしたが、現在ではその 10 倍を超える面積が指定され、手つかずの森や砂漠など大自然の魅力を未来へ受け継いでいます。",
+      "en-IN": "Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
+      "it-IT": "Di solito le onde appartengono all'oceano. In Arizona settentrionale, invece, nascono dal deserto. Le formazioni di arenaria di Coyote Buttes, nel Monumento Nazionale di Vermilion Cliffs, Stati Uniti, furono modellate da dune antiche e milioni di anni di erosione, creando un paesaggio che sembra ondeggiare pur restando immobile. I colori — rossi e arancioni da ossido di ferro, viola dal manganese, gialli dalla limonite — non sono filtri fotografici, ma reazioni chimiche avvenute nel sottosuolo per millenni.",
+      "zh-CN": "波浪通常属于海洋。但在亚利桑那州北部，它们却从沙漠中涌起。郊狼丘是朱红悬崖国家纪念区的一部分，其盘旋起伏的砂岩地貌由远古沙丘和数百万年的侵蚀共同塑造而成，造就了一片即使静止不动也仿佛泛着涟漪的景观。"
+    },
+    "quickFacts": {
+      "zh-CN": "《荒野法》通常禁止在指定荒野地区修建永久性道路或开展商业活动。"
+    },
+    "captions": {
+      "en-US": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona",
+      "en-GB": "Coyote Buttes, Arizona, United States",
+      "fr-FR": "Buttes Coyote, Arizona, États-Unis",
+      "it-IT": "",
+      "es-ES": "Coyote Buttes, Arizona, EE. UU.",
+      "ja-JP": "今日は米国原生自然法制定の記念日",
+      "zh-CN": "",
+      "en-IN": "Coyote Buttes, Arizona, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260902_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Buttes+Coyote+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220260902_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Coyote+Buttes&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Coyote+Buttes&form=hpcapt&filters=HpDate%3a%2220260902_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b3%e3%83%a8%e3%83%bc%e3%83%86%e3%83%bb%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260902_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%9c%b1%e7%ba%a2%e6%82%ac%e5%b4%96%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%8c%ba&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260902_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AZWilderness_EN-US4070936347",
+      "en-GB": "/th?id=OHR.AZWilderness_EN-GB2345947468",
+      "fr-FR": "/th?id=OHR.AZWilderness_FR-FR4389464671",
+      "it-IT": "/th?id=OHR.AZWilderness_IT-IT2616845424",
+      "es-ES": "/th?id=OHR.AZWilderness_ES-ES0293957035",
+      "ja-JP": "/th?id=OHR.AZWilderness_JA-JP3309055326",
+      "zh-CN": "/th?id=OHR.AZWilderness_ZH-CN2664566131",
+      "en-IN": "/th?id=OHR.AZWilderness_EN-IN0610933686"
+    }
+  },
   "SuffolkHuts": {
     "name": "SuffolkHuts",
     "urlbase": "/th?id=OHR.SuffolkHuts_EN-US3987062531",
@@ -769,7 +880,7 @@
       "es-ES": "Donde la marea transforma paisajes. Monte Saint-Michel, Mancha, Normandía, Francia",
       "pt-BR": "Uma ilha de meio período",
       "ja-JP": "海岸風景の中にそびえる修道院",
-      "zh-CN": "涨潮时的圣米歇尔山，芒什省，诺曼底，法国",
+      "zh-CN": "潮汐塑造的传奇",
       "en-IN": "Where tides shape a legend. Mont-Saint‑Michel during high tide, Normandy, France"
     },
     "copyrights": {
@@ -1503,6 +1614,11 @@
         "flag": "fr"
       },
       {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1524,10 +1640,10 @@
       "en-CA": "Sky tinted wings. Common blue butterfly",
       "de-DE": "Himmelblaue Flügel. Hauhechel-Bläuling, Devon, England",
       "fr-FR": "De délicates ailes azur. Argus bleu",
+      "pt-BR": "Nem tudo são flores",
       "ja-JP": "花と蝶の紫色のハーモニー",
       "zh-CN": "天蓝色的翅膀",
-      "en-IN": "Sky tinted wings. Common blue butterfly",
-      "pt-BR": "Nem tudo são flores. Borboleta-azul-comum, Devon, Inglaterra"
+      "en-IN": "Sky tinted wings. Common blue butterfly"
     },
     "copyrights": {
       "en-US": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
@@ -1535,10 +1651,10 @@
       "en-CA": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
       "de-DE": "Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)",
       "fr-FR": "Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)",
+      "pt-BR": "Borboleta-azul-comum, Devon, Inglaterra (© Ross Hoddinott/Nature Picture Library)",
       "ja-JP": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)",
       "zh-CN": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
-      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
-      "pt-BR": "© Ross Hoddinott/Nature Picture Library"
+      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)"
     },
     "descs": {
       "en-US": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa, and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the cocooned caterpillar from predators.",
@@ -1566,6 +1682,7 @@
       "en-CA": "Common blue butterfly",
       "de-DE": "Hauhechel-Bläuling, Devon, England",
       "fr-FR": "Argus bleu",
+      "pt-BR": "",
       "ja-JP": "花と蝶の紫色のハーモニー",
       "zh-CN": "",
       "en-IN": "Common blue butterfly"
@@ -1576,6 +1693,7 @@
       "en-CA": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260822_0400%22",
       "de-DE": "https://www.bing.com/search?q=Hauhechel-Bl%c3%a4uling&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Argus+bleu&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=borboleta+azul+comum&form=hpcapt&mkt=pt-br",
       "ja-JP": "https://www.bing.com/search?q=%e3%82%a4%e3%82%ab%e3%83%ab%e3%82%b9%e3%83%92%e3%83%a1%e3%82%b7%e3%82%b8%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220260821_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e6%99%ae%e9%80%9a%e8%93%9d%e7%81%b0%e8%9d%b6&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260821_1830%22"
@@ -1586,6 +1704,7 @@
       "en-CA": "/th?id=OHR.CommonBlue_EN-CA6718491810",
       "de-DE": "/th?id=OHR.CommonBlue_DE-DE9673283581",
       "fr-FR": "/th?id=OHR.CommonBlue_FR-FR7050471063",
+      "pt-BR": "/th?id=OHR.CommonBlue_PT-BR1879697147",
       "ja-JP": "/th?id=OHR.CommonBlue_JA-JP8682246058",
       "zh-CN": "/th?id=OHR.CommonBlue_ZH-CN8521430009",
       "en-IN": "/th?id=OHR.CommonBlue_EN-IN9476454539"
@@ -1596,142 +1715,6 @@
     "urlbase": "/th?id=OHR.JulierPass_EN-US2643379571",
     "date": "20260821",
     "dateFormatted": "August 21, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-US": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "en-GB": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "de-DE": "Auf in die Berge! Serpentinenstraße am Julierpass, Schweiz",
-      "fr-FR": "Accrochez-vous ! Route sinueuse du col du Julier, Suisse",
-      "it-IT": "Paesaggi garantiti",
-      "es-ES": "Tomando la curva perfecta. Paso de Julier, región de Grisones, Suiza",
-      "pt-BR": "A estrada que conquista montanhas",
-      "ja-JP": "アルブラアルプスを縫う山岳道路",
-      "zh-CN": "攀登在召唤",
-      "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "en-CA": "The climb is calling. Winding road of Julier Pass, Switzerland"
-    },
-    "copyrights": {
-      "en-US": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
-      "en-GB": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
-      "de-DE": "Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)",
-      "fr-FR": "Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)",
-      "it-IT": "Passo del Giulio, Svizzera (© Westend61/Getty Images)",
-      "es-ES": "Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)",
-      "pt-BR": "Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)",
-      "ja-JP": "ユリア峠, スイス (© Westend61/Getty Images)",
-      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
-      "en-IN": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
-      "en-CA": "© Westend61/Getty Images"
-    },
-    "descs": {
-      "en-US": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 7,493 feet and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travelers, merchants, and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
-      "en-GB": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has connected Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its heights. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
-      "de-DE": "Der Julierpass zählt zu den eindrucksvollsten Alpenübergängen der Schweiz. Die Passhöhe liegt auf 2284 Metern und verbindet seit fast 2000 Jahren verschiedene Täler miteinander. Bereits zur Römerzeit führte hier ein wichtiger Weg durch die Berge. Archäologische Funde nahe dem höchsten Punkt des Passes deuten darauf hin, dass Reisende diesen Ort nicht nur als Übergang, sondern auch als Rastplatz nutzten. Münzen und zwei römische Specksteinsäulen erinnern noch heute an diese lange Geschichte.",
-      "fr-FR": "À 2 284 mètres d’altitude, le col du Julier traverse le cœur des Alpes suisses comme un trait d’union entre vallées et époques. Depuis près de deux millénaires, voyageurs, marchands et messagers l’ont franchi malgré ses pentes escarpées, bien avant l’arrivée des routes modernes. Près du sommet, des découvertes archéologiques, notamment de nombreuses pièces de monnaie ainsi que deux colonnes en stéatite d’origine romaine, suggèrent l’existence d’un lieu de halte, voire de recueillement. Aujourd’hui encore, les prairies alpines, les mélèzes et les sommets rocheux composent un décor saisissant où le temps semble ralentir.",
-      "es-ES": "El Paso de Julier, en Suiza, es una de esas carreteras que se convierten en destino por sí solas. A más de 2.200 metros de altitud, este paso alpino conecta valles a través de una ruta transitada durante casi dos milenios: romanos, mercaderes y mensajeros ya lo cruzaban sin asfalto ni barreras de protección. Cerca de la cima, los arqueólogos han hallado monedas y dos columnas de esteatita que apuntan a la existencia de un santuario donde los viajeros buscaban amparo.",
-      "ja-JP": "今日の画像は、スイスのアルブラアルプス山脈にあるユリア峠。標高 2,284m のこの峠は、ローマ時代からアルプスの谷を結ぶ交通の要衝として利用されてきました。道路の建設は 1820 年代で、1935 年から 1940 年にかけてアスファルト舗装が行われ、スイス・アルプスで初めてアスファルト舗装された道路となりました。現在も重要な山岳道路として利用されており、アルプスの雄大な景色を眺めながらドライブを楽しむことができます。",
-      "en-IN": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has linked Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its summit. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
-      "it-IT": "Il Passo del Giulio, in Svizzera, è una di quelle strade di montagna che diventano esse stesse una destinazione. A oltre 2.200 metri di quota, collega le valli alpine lungo un percorso frequentato da quasi duemila anni: prima di guardrail e asfalto, romani, mercanti e messaggeri lo attraversavano a piedi. Vicino alla cima, gli archeologi hanno rinvenuto monete antiche e due colonne di steatite di epoca romana, indizi di un luogo di sosta o santuario lungo la salita.",
-      "pt-BR": "Algumas estradas fazem tanta questão de aparecer quanto o lugar para onde levam. A imagem mostra o Passo de Julier, nos Alpes da Suíça, a cerca de 2.284 metros de altitude, ligando vales alpinos por um caminho usado há quase dois milênios. Muito antes do asfalto, romanos, mercadores e mensageiros já cruzavam essa montanha. Perto do ponto mais alto, arqueólogos encontraram moedas e colunas de pedra-sabão que sugerem um antigo santuário ou ponto de descanso para quem encarava a travessia.",
-      "zh-CN": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。",
-      "en-CA": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 2,284 metres and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travellers, merchants and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb."
-    },
-    "quickFacts": {
-      "zh-CN": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。"
-    },
-    "captions": {
-      "en-US": "Winding road of Julier Pass, Switzerland",
-      "en-GB": "Winding road of Julier Pass, Switzerland",
-      "de-DE": "Serpentinenstraße am Julierpass, Schweiz",
-      "fr-FR": "Route sinueuse du col du Julier, Suisse",
-      "it-IT": "",
-      "es-ES": "Paso de Julier, región de Grisones, Suiza",
-      "pt-BR": "",
-      "ja-JP": "アルブラアルプスを縫う山岳道路",
-      "zh-CN": "",
-      "en-IN": "Winding road of Julier Pass, Switzerland"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260821_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260820_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Julierpass&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=col+du+Julier+Suisse&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Passo+del+Giulio&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Paso+de+Julier+Suiza&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Passagem+de+Julier+Su%c3%ad%c3%a7a&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a6%e3%83%aa%e3%82%a2%e5%b3%a0&form=hpcapt&filters=HpDate%3a%2220260820_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%91%9e%e5%a3%ab%e5%b0%a4%e5%88%a9%e5%b0%94%e5%b1%b1%e5%8f%a3&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260820_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.JulierPass_EN-US2643379571",
-      "en-GB": "/th?id=OHR.JulierPass_EN-GB1060938084",
-      "de-DE": "/th?id=OHR.JulierPass_DE-DE4547078745",
-      "fr-FR": "/th?id=OHR.JulierPass_FR-FR0870283971",
-      "it-IT": "/th?id=OHR.JulierPass_IT-IT0417165500",
-      "es-ES": "/th?id=OHR.JulierPass_ES-ES7799772209",
-      "pt-BR": "/th?id=OHR.JulierPass_PT-BR6496661993",
-      "ja-JP": "/th?id=OHR.JulierPass_JA-JP8487146662",
-      "zh-CN": "/th?id=OHR.JulierPass_ZH-CN3064797820",
-      "en-IN": "/th?id=OHR.JulierPass_EN-IN9398665018"
-    }
-  },
-  "LynnCanalOrca": {
-    "name": "LynnCanalOrca",
-    "urlbase": "/th?id=OHR.LynnCanalOrca_EN-US0537229184",
-    "date": "20260820",
-    "dateFormatted": "August 20, 2026",
     "markets": [
       {
         "code": "en-US",
@@ -1750,68 +1733,68 @@
       }
     ],
     "titles": {
-      "en-US": "Voices of the pod. An orca near the Chilkat Mountains, Lynn Canal, Alaska",
-      "en-CA": "Voices of the pod. An orca near the Chilkat Mountains, Lynn Canal, Alaska, USA",
-      "pt-BR": "Sociedades submarinas",
-      "en-GB": "Voices of the pod. An orca in Lynn Canal, Alaska, United States",
-      "de-DE": "Klänge der Schwertwale. Ein Schwertwal nahe der Chilkat Mountains, Lynn Canal, Alaska, USA",
-      "fr-FR": "Les voix du canal. Une orque à la surface du canal de Lynn, Alaska, États-Unis",
-      "it-IT": "Voci dal fondo dell'oceano",
-      "es-ES": "El juego como forma de caza. Canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU.",
-      "ja-JP": "雪山を望む海に現れたシャチ",
-      "zh-CN": "鲸群之声",
-      "en-IN": "Voices of the pod. An orca in Lynn Canal, Alaska, United States"
+      "en-US": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "en-CA": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "pt-BR": "A estrada que conquista montanhas",
+      "en-GB": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "de-DE": "Auf in die Berge! Serpentinenstraße am Julierpass, Schweiz",
+      "fr-FR": "Accrochez-vous ! Route sinueuse du col du Julier, Suisse",
+      "it-IT": "Paesaggi garantiti",
+      "es-ES": "Tomando la curva perfecta. Paso de Julier, región de Grisones, Suiza",
+      "ja-JP": "アルブラアルプスを縫う山岳道路",
+      "zh-CN": "攀登在召唤",
+      "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland"
     },
     "copyrights": {
-      "en-US": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)",
-      "en-CA": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)",
-      "pt-BR": "Orca no Canal Lynn, próximo às Montanhas Chilkat, Alasca, Estados Unidos (© John Hyde/Alamy)",
-      "en-GB": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)",
-      "de-DE": "Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy)",
-      "fr-FR": "Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy)",
-      "it-IT": "Un'orca emerge nel Lynn Canal vicino ai Monti Chilkat, Alaska, USA (© John Hyde/Alamy)",
-      "es-ES": "Una orca emerge en el canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU. (© John Hyde/Alamy)",
-      "ja-JP": "シャチ, 米国 アラスカ州 (© John Hyde/Alamy)",
-      "zh-CN": "林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)",
-      "en-IN": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)"
+      "en-US": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "en-CA": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "pt-BR": "Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)",
+      "en-GB": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "de-DE": "Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)",
+      "fr-FR": "Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)",
+      "it-IT": "Passo del Giulio, Svizzera (© Westend61/Getty Images)",
+      "es-ES": "Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)",
+      "ja-JP": "ユリア峠, スイス (© Westend61/Getty Images)",
+      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
+      "en-IN": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)"
     },
     "descs": {
-      "en-US": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognizable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
-      "en-CA": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. Alaska's Inside Passage provides abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
-      "en-GB": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska, United States. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
-      "de-DE": "Im Lynn Canal nahe der Chilkat Mountains im US-Bundesstaat Alaska durchbricht ein Schwertwal die ruhige Wasseroberfläche. Für einen kurzen Moment zieht die markante Rückenflosse alle Blicke auf sich, bevor das Tier wieder in den Tiefen verschwindet. Die geschützten Gewässer dieser Region der Vereinigten Staaten zählen zu den artenreichsten Lebensräumen des Nordpazifiks und bieten Schwertwalen, Buckelwalen und zahlreichen Seevögeln ideale Bedingungen. Vor der Kulisse bewaldeter Hänge und schneebedeckter Gipfel entsteht ein eindrucksvolles Bild, das die Kraft und Eleganz dieser Meeressäuger besonders deutlich macht.",
-      "fr-FR": "Dans les eaux froides du Lynn Canal, au sud-est de l’Alaska (États-Unis), une silhouette noire et blanche surgit soudain à la surface. Derrière elle s’élèvent les sommets enneigés des monts Chilkat, formant un décor d’une saisissante majesté. L’orque, souvent appelée épaulard, est le plus grand représentant de la famille des dauphins. Les eaux riches de l’Inside Passage lui offrent un habitat exceptionnel, alimenté par les remontées de nutriments et les importantes migrations de saumons. Ici, chaque saison favorise une abondance de vie marine qui fait de cette région l’un des refuges les plus précieux pour les grands prédateurs de l’océan.",
-      "es-ES": "Una orca emerge en las aguas del canal Lynn, en el sureste de Alaska, EE. UU., con las montañas Chilkat nevadas como telón de fondo: la escena resume en una imagen la escala y la belleza de este fiordo de más de 100 kilómetros de longitud, uno de los más profundos de América del Norte. El mayor miembro de la familia de los delfines no es solo el depredador más reconocible del océano, sino también uno de los animales socialmente más complejos del planeta.",
-      "ja-JP": "ここは米国アラスカ南東部のリン運河。雪を頂くチルカット山脈を背景にシャチが力強く海面へ姿を現します。シャチは海を代表する捕食動物であり、マイルカ科の中では最大の種です。アラスカの冷たく栄養豊富な海はサケをはじめとする多様な生物を育み、シャチに豊かな餌場を提供しています。そしてシャチは、人間の方言のような群れごとに異なる鳴き声を持ち、家族の絆を大切にしながら暮す高い知能を持つ生物として知られています。リン運河は、そんなシャチたちを野生のまま観察できる貴重な場所です。",
-      "en-IN": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska, United States. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
-      "it-IT": "Un'orca rompe la superficie del Lynn Canal con i monti Chilkat innevati come sfondo, nel sud-est dell'Alaska, USA: la scena riassume in un'immagine la grandiosità e la bellezza di questo fiordo tra i più profondi del Nord America. Il più grande membro della famiglia dei delfini non è solo il predatore più riconoscibile dell'oceano, ma anche uno degli animali socialmente più complessi del pianeta: ogni gruppo familiare possiede richiami propri, tramandati di generazione in generazione come una lingua madre, e le femmine più anziane guidano il gruppo con una conoscenza del territorio accumulata per decenni.",
-      "pt-BR": "Primeiro surge a nadadeira. Depois, um sopro poderoso. Na imagem, uma orca emerge do Canal Lynn, no Alasca, Estados Unidos. Conhecida como baleia-assassina, ela é, na verdade, o maior integrante da família dos golfinhos e um predador sofisticado.",
-      "zh-CN": "在阿拉斯加东南部白雪覆盖的奇尔卡特山脉映衬下，一头虎鲸浮出林恩运河水面。虎鲸是海豚科体型最大的成员，也是海洋中最具辨识度的捕食者之一。阿拉斯加内湾航道寒冷且营养丰富的水域提供了充足的觅食地，既维系鲑鱼洄游，也滋养种类繁多的海洋生物，为这些非凡动物提供支持。"
+      "en-US": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 7,493 feet and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travelers, merchants, and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
+      "en-CA": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 2,284 metres and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travellers, merchants and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
+      "en-GB": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has connected Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its heights. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
+      "de-DE": "Der Julierpass zählt zu den eindrucksvollsten Alpenübergängen der Schweiz. Die Passhöhe liegt auf 2284 Metern und verbindet seit fast 2000 Jahren verschiedene Täler miteinander. Bereits zur Römerzeit führte hier ein wichtiger Weg durch die Berge. Archäologische Funde nahe dem höchsten Punkt des Passes deuten darauf hin, dass Reisende diesen Ort nicht nur als Übergang, sondern auch als Rastplatz nutzten. Münzen und zwei römische Specksteinsäulen erinnern noch heute an diese lange Geschichte.",
+      "fr-FR": "À 2 284 mètres d’altitude, le col du Julier traverse le cœur des Alpes suisses comme un trait d’union entre vallées et époques. Depuis près de deux millénaires, voyageurs, marchands et messagers l’ont franchi malgré ses pentes escarpées, bien avant l’arrivée des routes modernes. Près du sommet, des découvertes archéologiques, notamment de nombreuses pièces de monnaie ainsi que deux colonnes en stéatite d’origine romaine, suggèrent l’existence d’un lieu de halte, voire de recueillement. Aujourd’hui encore, les prairies alpines, les mélèzes et les sommets rocheux composent un décor saisissant où le temps semble ralentir.",
+      "es-ES": "El Paso de Julier, en Suiza, es una de esas carreteras que se convierten en destino por sí solas. A más de 2.200 metros de altitud, este paso alpino conecta valles a través de una ruta transitada durante casi dos milenios: romanos, mercaderes y mensajeros ya lo cruzaban sin asfalto ni barreras de protección. Cerca de la cima, los arqueólogos han hallado monedas y dos columnas de esteatita que apuntan a la existencia de un santuario donde los viajeros buscaban amparo.",
+      "ja-JP": "今日の画像は、スイスのアルブラアルプス山脈にあるユリア峠。標高 2,284m のこの峠は、ローマ時代からアルプスの谷を結ぶ交通の要衝として利用されてきました。道路の建設は 1820 年代で、1935 年から 1940 年にかけてアスファルト舗装が行われ、スイス・アルプスで初めてアスファルト舗装された道路となりました。現在も重要な山岳道路として利用されており、アルプスの雄大な景色を眺めながらドライブを楽しむことができます。",
+      "en-IN": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has linked Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its summit. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
+      "it-IT": "Il Passo del Giulio, in Svizzera, è una di quelle strade di montagna che diventano esse stesse una destinazione. A oltre 2.200 metri di quota, collega le valli alpine lungo un percorso frequentato da quasi duemila anni: prima di guardrail e asfalto, romani, mercanti e messaggeri lo attraversavano a piedi. Vicino alla cima, gli archeologi hanno rinvenuto monete antiche e due colonne di steatite di epoca romana, indizi di un luogo di sosta o santuario lungo la salita.",
+      "pt-BR": "Algumas estradas fazem tanta questão de aparecer quanto o lugar para onde levam. A imagem mostra o Passo de Julier, nos Alpes da Suíça, a cerca de 2.284 metros de altitude, ligando vales alpinos por um caminho usado há quase dois milênios. Muito antes do asfalto, romanos, mercadores e mensageiros já cruzavam essa montanha. Perto do ponto mais alto, arqueólogos encontraram moedas e colunas de pedra-sabão que sugerem um antigo santuário ou ponto de descanso para quem encarava a travessia.",
+      "zh-CN": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。"
     },
     "quickFacts": {
-      "zh-CN": "成年雄性虎鲸的背鳍可高达约6英尺，明显高于成年雌性虎鲸的背鳍。"
+      "zh-CN": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。"
     },
     "captions": {
-      "en-US": "An orca near the Chilkat Mountains, Lynn Canal, Alaska",
-      "en-CA": "An orca near the Chilkat Mountains, Lynn Canal, Alaska, USA",
+      "en-US": "Winding road of Julier Pass, Switzerland",
+      "en-CA": "Winding road of Julier Pass, Switzerland",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=orca+animal&form=hpcapt&filters=HpDate%3a%2220260820_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Orca+animal&form=hpcapt&filters=HpDate%3a%2220260820_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=orca&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260821_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260903_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Passagem+de+Julier+Su%c3%ad%c3%a7a&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.LynnCanalOrca_EN-US0537229184",
-      "en-CA": "/th?id=OHR.LynnCanalOrca_EN-CA6813259779",
-      "pt-BR": "/th?id=OHR.LynnCanalOrca_PT-BR5511829673"
+      "en-US": "/th?id=OHR.JulierPass_EN-US2643379571",
+      "en-CA": "/th?id=OHR.JulierPass_EN-CA1672226611",
+      "pt-BR": "/th?id=OHR.JulierPass_PT-BR6496661993"
     }
   },
-  "AZWilderness": {
-    "name": "AZWilderness",
-    "urlbase": "/th?id=OHR.AZWilderness_EN-GB2345947468",
-    "date": "20260902",
-    "dateFormatted": "September 02, 2026",
+  "Westerheversand": {
+    "name": "Westerheversand",
+    "urlbase": "/th?id=OHR.Westerheversand_EN-GB5592839708",
+    "date": "20260903",
+    "dateFormatted": "September 03, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1850,64 +1833,70 @@
       }
     ],
     "titles": {
-      "en-GB": "An act of wilderness. Coyote Buttes, Arizona, United States",
-      "fr-FR": "Une mer de grès. Buttes Coyote, Arizona, États-Unis",
-      "it-IT": "Onde statiche",
-      "es-ES": "La silueta del tiempo. Coyote Buttes, Arizona, EE. UU.",
-      "ja-JP": "今日は米国原生自然法制定の記念日",
-      "zh-CN": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国",
-      "en-IN": "An act of wilderness. Coyote Buttes, Arizona, United States",
-      "en-US": "An act of wilderness. Coyote Buttes, Vermilion Cliffs National Monument, Arizona"
+      "en-GB": "Red and white on the horizon. Westerheversand Lighthouse, Schleswig-Holstein, Germany",
+      "fr-FR": "Rouge et blanc à l’horizon. Phare de Westerheversand, Schleswig-Holstein, Allemagne",
+      "it-IT": "Rosso e bianco all'orizzonte",
+      "es-ES": "Rojo y blanco en el horizonte. Faro de Westerheversand, Schleswig-Holstein, Alemania",
+      "ja-JP": "草原の先にたたずむ灯台",
+      "zh-CN": "韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国",
+      "en-IN": "Red and white on the horizon. Westerheversand Lighthouse, Schleswig-Holstein, Germany",
+      "de-DE": "Rot‑weiß am Horizont. Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein",
+      "en-US": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany",
+      "en-CA": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany"
     },
     "copyrights": {
-      "en-GB": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)",
-      "fr-FR": "Buttes Coyote, Monument national des Falaises Vermilion, Arizona, États-Unis (© James Hager/Getty Images)",
-      "it-IT": "Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA (© James Hager/Getty Images)",
-      "es-ES": "Coyote Buttes, Monumento Nacional Vermilion Cliffs, Arizona, EE. UU. (© James Hager/Getty Images)",
-      "ja-JP": "コヨーテ・ビュート, 米国 アリゾナ州 (© James Hager/Getty Images)",
-      "zh-CN": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)",
-      "en-IN": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)",
-      "en-US": "© James Hager/Getty Images"
+      "en-GB": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
+      "fr-FR": "Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne (© bluejayphoto/Getty Images)",
+      "it-IT": "Faro di Westerheversand in Westerhever, Schleswig-Holstein, Germania (© bluejayphoto/Getty Images)",
+      "es-ES": "Faro de Westerheversand, Westerhever, Schleswig-Holstein, Alemania (© bluejayphoto/Getty Images)",
+      "ja-JP": "ヴェスターヘーファーザント灯台, ドイツ (© bluejayphoto/Getty Images)",
+      "zh-CN": "韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images)",
+      "en-IN": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
+      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)",
+      "en-US": "© bluejayphoto/Getty Images",
+      "en-CA": "© bluejayphoto/Getty Images"
     },
     "descs": {
-      "en-GB": "Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
-      "fr-FR": "Dans le nord de l’Arizona (États-Unis), les vagues semblent avoir quitté l’océan pour se figer dans le désert. Aux Buttes Coyote, au sein du Monument national des Falaises Vermilion (« Vermilion Cliffs National Monument »), les couches de grès aux courbes ondulantes témoignent d’une histoire vieille de millions d’années. D’anciennes dunes, sculptées par le vent, la pluie et les écarts de température, ont façonné un décor spectaculaire aux teintes ocre, rouge et or. Même immobile, le paysage semble en mouvement, telle une mer figée sous le soleil.",
-      "es-ES": "Las formaciones de arenisca de Coyote Buttes, dentro del Monumento Nacional de los Acantilados Bermejos de Arizona, Estados Unidos, parecen olas petrificadas: capas de roca multicolor moldeadas hace 190 millones de años, cuando toda la región era un desierto de dunas similar al Sahara actual. La erosión del viento y el agua durante millones de años dio lugar a estas curvas que parecen moverse, aunque estén inmóviles.",
-      "ja-JP": "今日の画像は米国アリゾナ州バーミリオン・クリフ国定公園に位置するコヨーテ・ビュート。砂漠に波が押し寄せたような独特の景観は、風や水が長い年月をかけて砂丘を浸食することで生まれました。こうした原生的な自然を守るため、米国では 1964 年 9 月 3 日に「原生自然法」が制定されました。当初は 54 か所、約 3 万 6,800km² が保護対象でしたが、現在ではその 10 倍を超える面積が指定され、手つかずの森や砂漠など大自然の魅力を未来へ受け継いでいます。",
-      "en-IN": "Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
-      "en-US": "Waves usually belong to the ocean. In northern Arizona, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
-      "it-IT": "Di solito le onde appartengono all'oceano. In Arizona settentrionale, invece, nascono dal deserto. Le formazioni di arenaria di Coyote Buttes, nel Monumento Nazionale di Vermilion Cliffs, Stati Uniti, furono modellate da dune antiche e milioni di anni di erosione, creando un paesaggio che sembra ondeggiare pur restando immobile. I colori — rossi e arancioni da ossido di ferro, viola dal manganese, gialli dalla limonite — non sono filtri fotografici, ma reazioni chimiche avvenute nel sottosuolo per millenni.",
-      "zh-CN": "波浪通常属于海洋。但在亚利桑那州北部，它们却从沙漠中涌起。郊狼丘是朱红悬崖国家纪念区的一部分，其盘旋起伏的砂岩地貌由远古沙丘和数百万年的侵蚀共同塑造而成，造就了一片即使静止不动也仿佛泛着涟漪的景观。"
+      "en-GB": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.",
+      "fr-FR": "Dressé au-dessus des marais salés de la côte allemande de la mer du Nord, le phare de Westerheversand attire immédiatement le regard avec ses bandes rouges et blanches. Érigé entre 1906 et 1908 sur la péninsule d’Eiderstedt, il guide depuis plus d’un siècle les navigateurs dans les eaux parfois capricieuses de la mer du Nord. Aujourd’hui encore, cette silhouette emblématique figure parmi les monuments côtiers les plus célèbres du nord de l’Allemagne. Après l’ascension de ses 157 marches, les visiteurs découvrent un vaste panorama où ciel, mer et terre semblent ne faire qu’un.",
+      "es-ES": "Entre las marismas saladas de Westerhever, en Schleswig-Holstein (Alemania), un gigante a franjas rojas y blancas vigila el mar del Norte desde 1908. El faro de Westerheversand es una torre de hierro fundido de 40 metros asentada sobre una loma artificial, rodeada de canales que la marea dibuja y borra dos veces al día.",
+      "ja-JP": "草原の先にたたずむ灯台. ヴェスターヘーファーザント灯台, ドイツ. ドイツ北海沿岸に広がる塩性湿地帯の中にそびえ立つヴェスターヘーファーザント灯台。赤と白の縞模様が特徴的なこの鋳鉄製灯台は、ユネスコ世界自然遺産に登録されているワッデン海の一部であるワッデン海国立公園内にあります。1906 年から 1908 年にかけて建設され、1 世紀以上にわたり北海を航行する船舶の安全を見守ってきました。現在は、ドイツ北部沿岸のランドマークの一つとして親しまれています。",
+      "en-IN": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.",
+      "de-DE": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann.",
+      "en-US": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognizable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
+      "en-CA": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognisable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
+      "it-IT": "Tra le paludi salmastre di Westerhever, nello Schleswig-Holstein (Germania), una torre a fasce rosse e bianche sorveglia il Mare del Nord dal 1908. Il faro di Westerheversand è una struttura in ghisa alta quaranta metri, poggiata su un rilievo artificiale e circondata da canali che la marea disegna e cancella due volte al giorno.",
+      "zh-CN": "韦斯特黑弗桑德灯塔高耸于德国北海沿岸的盐沼之上，凭借醒目的红白条纹一眼便可辨认。灯塔建于1906年至1908年间，一个多世纪以来一直是艾德施泰特半岛的标志，为穿行北海水域的船只指引航向。如今，它仍是德国北部最著名的海岸地标之一。登上157级台阶的游客，可以饱览周围的壮阔景色。"
     },
     "quickFacts": {
-      "zh-CN": "《荒野法》通常禁止在指定荒野地区修建永久性道路或开展商业活动。"
+      "zh-CN": "韦斯特黑弗桑德灯塔是一座40米高的铸铁塔，左右两侧各有一座造型对称的原守塔人住宅。"
     },
     "captions": {
-      "en-GB": "Coyote Buttes, Arizona, United States",
-      "fr-FR": "Buttes Coyote, Arizona, États-Unis",
+      "en-GB": "Westerheversand Lighthouse, Schleswig-Holstein, Germany",
+      "fr-FR": "Phare de Westerheversand, Schleswig-Holstein, Allemagne",
       "it-IT": "",
-      "es-ES": "Coyote Buttes, Arizona, EE. UU.",
-      "ja-JP": "今日は米国原生自然法制定の記念日",
+      "es-ES": "Faro de Westerheversand, Schleswig-Holstein, Alemania",
+      "ja-JP": "草原の先にたたずむ灯台",
       "zh-CN": "",
-      "en-IN": "Coyote Buttes, Arizona, United States"
+      "en-IN": "Westerheversand Lighthouse, Schleswig-Holstein, Germany"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260902_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Buttes+Coyote+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220260902_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Coyote+Buttes&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Coyote+Buttes&form=hpcapt&filters=HpDate%3a%2220260902_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b3%e3%83%a8%e3%83%bc%e3%83%86%e3%83%bb%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260902_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%9c%b1%e7%ba%a2%e6%82%ac%e5%b4%96%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%8c%ba&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260902_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260903_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=phare+de+Westerheversand+Allemagne&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Faro+di+Westerheversand&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Westerhever+Alemania&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%b4%e3%82%a7%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%98%e3%83%bc%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b6%e3%83%b3%e3%83%88%e7%81%af%e5%8f%b0&form=hpcapt&filters=HpDate%3a%2220260903_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%9f%a6%e6%96%af%e7%89%b9%e9%bb%91%e5%bc%97%e6%a1%91%e5%be%b7%e7%81%af%e5%a1%94&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260903_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AZWilderness_EN-GB2345947468",
-      "fr-FR": "/th?id=OHR.AZWilderness_FR-FR4389464671",
-      "it-IT": "/th?id=OHR.AZWilderness_IT-IT2616845424",
-      "es-ES": "/th?id=OHR.AZWilderness_ES-ES0293957035",
-      "ja-JP": "/th?id=OHR.AZWilderness_JA-JP3309055326",
-      "zh-CN": "/th?id=OHR.AZWilderness_ZH-CN2664566131",
-      "en-IN": "/th?id=OHR.AZWilderness_EN-IN0610933686"
+      "en-GB": "/th?id=OHR.Westerheversand_EN-GB5592839708",
+      "fr-FR": "/th?id=OHR.Westerheversand_FR-FR6860967880",
+      "it-IT": "/th?id=OHR.Westerheversand_IT-IT2705992595",
+      "es-ES": "/th?id=OHR.Westerheversand_ES-ES7729851361",
+      "ja-JP": "/th?id=OHR.Westerheversand_JA-JP0136915036",
+      "zh-CN": "/th?id=OHR.Westerheversand_ZH-CN0517707643",
+      "en-IN": "/th?id=OHR.Westerheversand_EN-IN6508979486"
     }
   },
   "NottingHillCarnival2026": {
@@ -2004,6 +1993,38 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.CanadaNE_EN-CA9090606067"
+    }
+  },
+  "HorizontHerten": {
+    "name": "HorizontHerten",
+    "urlbase": "/th?id=OHR.HorizontHerten_DE-DE6847367698",
+    "date": "20260903",
+    "dateFormatted": "September 03, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Bögen zum Horizont. Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen"
+    },
+    "copyrights": {
+      "de-DE": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Hoch über dem Ruhrgebiet erhebt sich auf der Halde Hoheward das Horizontobservatorium, eines der ungewöhnlichsten Wahrzeichen des Strukturwandels in Nordrhein-Westfalen. Die gewaltigen Stahlbögen, die das Gipfelplateau überspannen, wirken wie ein modernes Kunstwerk unter freiem Himmel. Tatsächlich dient die Anlage jedoch nicht nur als Blickfang: Sie wurde als astronomisches Bauwerk entworfen, das die Bewegungen der Sonne und die Wechsel der Jahreszeiten veranschaulicht und Besucher ins Staunen versetzt."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Horizontobservatorium+Halde+Hoheward&form=hpcapt&filters=HpDate%3a%2220260903_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.HorizontHerten_DE-DE6847367698"
     }
   },
   "FrankfurtRomerberg": {
@@ -2424,6 +2445,86 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394"
+    }
+  },
+  "LynnCanalOrca": {
+    "name": "LynnCanalOrca",
+    "urlbase": "/th?id=OHR.LynnCanalOrca_EN-US0537229184",
+    "date": "20260820",
+    "dateFormatted": "August 20, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Voices of the pod. An orca near the Chilkat Mountains, Lynn Canal, Alaska",
+      "en-CA": "Voices of the pod. An orca near the Chilkat Mountains, Lynn Canal, Alaska, USA",
+      "pt-BR": "Sociedades submarinas",
+      "en-GB": "Voices of the pod. An orca in Lynn Canal, Alaska, United States",
+      "de-DE": "Klänge der Schwertwale. Ein Schwertwal nahe der Chilkat Mountains, Lynn Canal, Alaska, USA",
+      "fr-FR": "Les voix du canal. Une orque à la surface du canal de Lynn, Alaska, États-Unis",
+      "it-IT": "Voci dal fondo dell'oceano",
+      "es-ES": "El juego como forma de caza. Canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU.",
+      "ja-JP": "雪山を望む海に現れたシャチ",
+      "zh-CN": "鲸群之声",
+      "en-IN": "Voices of the pod. An orca in Lynn Canal, Alaska, United States"
+    },
+    "copyrights": {
+      "en-US": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)",
+      "en-CA": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)",
+      "pt-BR": "Orca no Canal Lynn, próximo às Montanhas Chilkat, Alasca, Estados Unidos (© John Hyde/Alamy)",
+      "en-GB": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)",
+      "de-DE": "Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy)",
+      "fr-FR": "Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy)",
+      "it-IT": "Un'orca emerge nel Lynn Canal vicino ai Monti Chilkat, Alaska, USA (© John Hyde/Alamy)",
+      "es-ES": "Una orca emerge en el canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU. (© John Hyde/Alamy)",
+      "ja-JP": "シャチ, 米国 アラスカ州 (© John Hyde/Alamy)",
+      "zh-CN": "林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)",
+      "en-IN": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)"
+    },
+    "descs": {
+      "en-US": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognizable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+      "en-CA": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. Alaska's Inside Passage provides abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+      "en-GB": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska, United States. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+      "de-DE": "Im Lynn Canal nahe der Chilkat Mountains im US-Bundesstaat Alaska durchbricht ein Schwertwal die ruhige Wasseroberfläche. Für einen kurzen Moment zieht die markante Rückenflosse alle Blicke auf sich, bevor das Tier wieder in den Tiefen verschwindet. Die geschützten Gewässer dieser Region der Vereinigten Staaten zählen zu den artenreichsten Lebensräumen des Nordpazifiks und bieten Schwertwalen, Buckelwalen und zahlreichen Seevögeln ideale Bedingungen. Vor der Kulisse bewaldeter Hänge und schneebedeckter Gipfel entsteht ein eindrucksvolles Bild, das die Kraft und Eleganz dieser Meeressäuger besonders deutlich macht.",
+      "fr-FR": "Dans les eaux froides du Lynn Canal, au sud-est de l’Alaska (États-Unis), une silhouette noire et blanche surgit soudain à la surface. Derrière elle s’élèvent les sommets enneigés des monts Chilkat, formant un décor d’une saisissante majesté. L’orque, souvent appelée épaulard, est le plus grand représentant de la famille des dauphins. Les eaux riches de l’Inside Passage lui offrent un habitat exceptionnel, alimenté par les remontées de nutriments et les importantes migrations de saumons. Ici, chaque saison favorise une abondance de vie marine qui fait de cette région l’un des refuges les plus précieux pour les grands prédateurs de l’océan.",
+      "es-ES": "Una orca emerge en las aguas del canal Lynn, en el sureste de Alaska, EE. UU., con las montañas Chilkat nevadas como telón de fondo: la escena resume en una imagen la escala y la belleza de este fiordo de más de 100 kilómetros de longitud, uno de los más profundos de América del Norte. El mayor miembro de la familia de los delfines no es solo el depredador más reconocible del océano, sino también uno de los animales socialmente más complejos del planeta.",
+      "ja-JP": "ここは米国アラスカ南東部のリン運河。雪を頂くチルカット山脈を背景にシャチが力強く海面へ姿を現します。シャチは海を代表する捕食動物であり、マイルカ科の中では最大の種です。アラスカの冷たく栄養豊富な海はサケをはじめとする多様な生物を育み、シャチに豊かな餌場を提供しています。そしてシャチは、人間の方言のような群れごとに異なる鳴き声を持ち、家族の絆を大切にしながら暮す高い知能を持つ生物として知られています。リン運河は、そんなシャチたちを野生のまま観察できる貴重な場所です。",
+      "en-IN": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska, United States. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+      "it-IT": "Un'orca rompe la superficie del Lynn Canal con i monti Chilkat innevati come sfondo, nel sud-est dell'Alaska, USA: la scena riassume in un'immagine la grandiosità e la bellezza di questo fiordo tra i più profondi del Nord America. Il più grande membro della famiglia dei delfini non è solo il predatore più riconoscibile dell'oceano, ma anche uno degli animali socialmente più complessi del pianeta: ogni gruppo familiare possiede richiami propri, tramandati di generazione in generazione come una lingua madre, e le femmine più anziane guidano il gruppo con una conoscenza del territorio accumulata per decenni.",
+      "pt-BR": "Primeiro surge a nadadeira. Depois, um sopro poderoso. Na imagem, uma orca emerge do Canal Lynn, no Alasca, Estados Unidos. Conhecida como baleia-assassina, ela é, na verdade, o maior integrante da família dos golfinhos e um predador sofisticado.",
+      "zh-CN": "在阿拉斯加东南部白雪覆盖的奇尔卡特山脉映衬下，一头虎鲸浮出林恩运河水面。虎鲸是海豚科体型最大的成员，也是海洋中最具辨识度的捕食者之一。阿拉斯加内湾航道寒冷且营养丰富的水域提供了充足的觅食地，既维系鲑鱼洄游，也滋养种类繁多的海洋生物，为这些非凡动物提供支持。"
+    },
+    "quickFacts": {
+      "zh-CN": "成年雄性虎鲸的背鳍可高达约6英尺，明显高于成年雌性虎鲸的背鳍。"
+    },
+    "captions": {
+      "en-US": "An orca near the Chilkat Mountains, Lynn Canal, Alaska",
+      "en-CA": "An orca near the Chilkat Mountains, Lynn Canal, Alaska, USA",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=orca+animal&form=hpcapt&filters=HpDate%3a%2220260820_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Orca+animal&form=hpcapt&filters=HpDate%3a%2220260820_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=orca&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.LynnCanalOrca_EN-US0537229184",
+      "en-CA": "/th?id=OHR.LynnCanalOrca_EN-CA6813259779",
+      "pt-BR": "/th?id=OHR.LynnCanalOrca_PT-BR5511829673"
     }
   },
   "BrewsterXF2A": {
@@ -8266,67 +8367,6 @@
     "urlbases": {
       "en-US": "/th?id=OHR.ThamesSummer_EN-US6783349970",
       "en-CA": "/th?id=OHR.ThamesSummer_EN-CA4092680642"
-    }
-  },
-  "Westerheversand": {
-    "name": "Westerheversand",
-    "urlbase": "/th?id=OHR.Westerheversand_DE-DE9270031466",
-    "date": "20260626",
-    "dateFormatted": "June 26, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Rot‑weiß am Horizont. Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein",
-      "en-US": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany",
-      "en-GB": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany",
-      "en-CA": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany",
-      "fr-FR": "Rouge et blanc à l'horizon. Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne",
-      "it-IT": "Rosso e bianco all'orizzonte. Faro di Westerheversand in Westerhever, Schleswig-Holstein, Germania",
-      "es-ES": "Rojo y blanco en el horizonte. Faro de Westerheversand, Westerhever, Schleswig-Holstein, Alemania",
-      "ja-JP": "草原の先にたたずむ灯台. ヴェスターヘーファーザント灯台, ドイツ",
-      "zh-CN": "韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国",
-      "en-IN": "Red and white on the horizon. Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany"
-    },
-    "copyrights": {
-      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)",
-      "en-US": "© bluejayphoto/Getty Images",
-      "en-GB": "© bluejayphoto/Getty Images",
-      "en-CA": "© bluejayphoto/Getty Images",
-      "fr-FR": "© bluejayphoto/Getty Images",
-      "it-IT": "© bluejayphoto/Getty Images",
-      "es-ES": "© bluejayphoto/Getty Images",
-      "ja-JP": "© bluejayphoto/Getty Images",
-      "zh-CN": "© bluejayphoto/Getty Images",
-      "en-IN": "© bluejayphoto/Getty Images"
-    },
-    "descs": {
-      "de-DE": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann.",
-      "en-US": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognizable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
-      "en-GB": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.",
-      "en-CA": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognisable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
-      "fr-FR": "Dressé au-dessus des marais salés de la côte allemande de la mer du Nord, le phare de Westerheversand attire immédiatement le regard avec ses bandes rouges et blanches. Érigé entre 1906 et 1908 sur la péninsule d’Eiderstedt, il guide depuis plus d’un siècle les navigateurs dans les eaux parfois capricieuses de la mer du Nord. Aujourd’hui encore, cette silhouette emblématique figure parmi les monuments côtiers les plus célèbres du nord de l’Allemagne. Après l’ascension de ses 157 marches, les visiteurs découvrent un vaste panorama où ciel, mer et terre semblent ne faire qu’un.",
-      "it-IT": "Tra le paludi salmastre di Westerhever, nello Schleswig-Holstein (Germania), una torre a fasce rosse e bianche sorveglia il Mare del Nord dal 1908. Il faro di Westerheversand è una struttura in ghisa alta quaranta metri, poggiata su un rilievo artificiale e circondata da canali che la marea disegna e cancella due volte al giorno.",
-      "es-ES": "Entre las marismas saladas de Westerhever, en Schleswig-Holstein (Alemania), un gigante a franjas rojas y blancas vigila el mar del Norte desde 1908. El faro de Westerheversand es una torre de hierro fundido de 40 metros asentada sobre una loma artificial, rodeada de canales que la marea dibuja y borra dos veces al día.",
-      "ja-JP": "草原の先にたたずむ灯台. ヴェスターヘーファーザント灯台, ドイツ. ドイツ北海沿岸に広がる塩性湿地帯の中にそびえ立つヴェスターヘーファーザント灯台。赤と白の縞模様が特徴的なこの鋳鉄製灯台は、ユネスコ世界自然遺産に登録されているワッデン海の一部であるワッデン海国立公園内にあります。1906 年から 1908 年にかけて建設され、1 世紀以上にわたり北海を航行する船舶の安全を見守ってきました。現在は、ドイツ北部沿岸のランドマークの一つとして親しまれています。",
-      "zh-CN": "韦斯特黑弗桑德灯塔高耸于德国北海沿岸的盐沼之上，凭借醒目的红白条纹一眼便可辨认。灯塔建于1906年至1908年间，一个多世纪以来一直是艾德施泰特半岛的标志，为穿行北海水域的船只指引航向。如今，它仍是德国北部最著名的海岸地标之一。登上157级台阶的游客，可以饱览周围的壮阔景色。",
-      "en-IN": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance."
-    },
-    "quickFacts": {
-      "zh-CN": "韦斯特黑弗桑德灯塔是一座40米高的铸铁塔，左右两侧各有一座造型对称的原守塔人住宅。"
-    },
-    "captions": {
-      "de-DE": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Leuchtturm+Westerheversand&form=hpcapt&filters=HpDate%3a%2220260626_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.Westerheversand_DE-DE9270031466"
     }
   },
   "Parintins": {
