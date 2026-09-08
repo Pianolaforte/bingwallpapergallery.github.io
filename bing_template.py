@@ -384,11 +384,26 @@ body.dark-mode .page-btn.active { background: #4caf50; color: white; border-colo
     .card-grid { grid-template-columns: 1fr; }
     .detail-container { padding: 12px 8px; }
     .detail-title { font-size: 20px; }
+    /* Mobile: keep the same logo spacing ratio as desktop (gap stays 8px) */
+    .logo { font-size: 18px; gap: 8px; }
+    .logo-text { font-size: 18px; white-space: nowrap; }
+    .logo-img { height: 20px; }
 }
 @media (max-width: 480px) {
     .search-box { width: 100px; }
     .view-btn { width: 30px; height: 30px; font-size: 14px; }
-    .logo { font-size: 16px; gap: 6px; }
+    /* gap stays 8px (never shrinks) so spacing feels as natural as on desktop */
+    .logo { font-size: 17px; gap: 8px; }
+    .logo-text { font-size: 17px; white-space: nowrap; }
+    .logo-img { height: 19px; }
+}
+@media (max-width: 360px) {
+    .search-box { width: 84px; padding: 6px 10px; }
+    .header { padding: 0 8px; }
+    .header-right { gap: 6px; }
+    .view-toggle { padding: 2px; }
+    .logo { font-size: 16px; gap: 8px; }
+    .logo-text { font-size: 16px; white-space: nowrap; }
     .logo-img { height: 18px; }
 }
 </style>
@@ -568,7 +583,8 @@ function renderDetailView(imageName) {
     }
 
     // Primary description section
-    if (img.desc) {
+    // (guard: skip when identical to descZh – Chinese exclusives carry it in the ZH section)
+    if (img.desc && img.desc !== img.descZh) {
         contentHtml += '<div class="desc-section">';
         if (img.hasEnglish) {
             contentHtml += '<div class="lang-label lang-en">English</div><br>';

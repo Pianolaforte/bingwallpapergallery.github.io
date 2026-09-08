@@ -31,7 +31,7 @@ import sys
 import argparse
 from datetime import datetime, timezone, timedelta
 
-VERSION = "5.8.6-github"
+VERSION = "5.8.7-github"
 
 # ---------------------------------------------------------------------------
 # Base directory = location of this script (GitHub Actions friendly)
@@ -674,10 +674,17 @@ def build_image_data(all_data, all_descs, cache=None):
         qf = desc_data.get("quickFact", "").strip()
         if qf:
             entry["quickFacts"]["zh-CN"] = normalize_cn_punctuation(qf)
-        # 中文标题：直接使用API的Title字段，与英文标题一一对应
+        # 中文标题：Headline + Title 完整组合，与英文标题结构一一对应
+        # 英文标题 = headline + caption（如 "Crossing into history. Brooklyn Bridge..."）
+        # 中文标题 = headline + title（如 "跨越历史。布鲁克林大桥，纽约市，美国"）
         cn_title = desc_data.get("title", "").strip()
-        if cn_title:
-            entry["titles"]["zh-CN"] = normalize_cn_punctuation(cn_title)
+        cn_headline = desc_data.get("headline", "").strip()
+        if cn_title and cn_headline and cn_headline != cn_title:
+            full_cn_title = smart_join(cn_headline, cn_title)
+        else:
+            full_cn_title = cn_title or cn_headline
+        if full_cn_title:
+            entry["titles"]["zh-CN"] = normalize_cn_punctuation(full_cn_title)
 
     # Phase 4: 构建最终图片列表
     unique_images = []
@@ -717,6 +724,10 @@ def build_image_data(all_data, all_descs, cache=None):
                     break
         else:
             for mc in LOCAL_PRIORITY:
+                # zh-CN 独占内容已由 descZh 字段单独承载，
+                # 不再放入 desc，避免详情页出现两份中文
+                if mc == "zh-CN":
+                    continue
                 if mc in entry["descs"] and entry["descs"][mc]:
                     en_desc = entry["descs"][mc]
                     break
@@ -1258,12 +1269,19 @@ def validate_output(images, html_path):
           f"(>= {MIN_WALLPAPER_COUNT})")
 
     # 2. Empty desc count (percentage-based)
-    empty_desc = sum(1 for img in images if not img.get("desc", ""))
+    # 中文独家壁纸（无英文版）内容由 descZh 单独承载，desc 合法为空，不计入空缺
+    empty_desc = sum(
+        1 for img in images
+        if not img.get("desc", "")
+        and not (not img.get("has_english", False) and img.get("descZh", ""))
+    )
     max_empty = max(2, int(total * MAX_EMPTY_DESC_PCT / 100))
     ok = empty_desc <= max_empty
     checks.append(ok)
+    zh_excl = sum(1 for img in images
+                  if not img.get("desc", "") and img.get("descZh", ""))
     print(f"  [{'PASS' if ok else 'FAIL'}] Empty desc count: {empty_desc} "
-          f"(<= {max_empty})")
+          f"(<= {max_empty}; zh-exclusive in descZh: {zh_excl})")
 
     # 3. Truncated desc count (< 200 chars, non-empty, percentage-based)
     truncated = sum(
