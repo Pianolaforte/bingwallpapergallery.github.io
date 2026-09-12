@@ -1,4 +1,36 @@
 {
+  "Flight93": {
+    "name": "Flight93",
+    "urlbase": "/th?id=OHR.Flight93_EN-US5966783443",
+    "date": "20260911",
+    "dateFormatted": "September 11, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "A legacy of heroism. 25th anniversary of September 11, 2001"
+    },
+    "copyrights": {
+      "en-US": "The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)"
+    },
+    "descs": {
+      "en-US": "Some journeys never reach their destination yet change the course of history. The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania, tells the story of one such flight. It honors the 40 passengers and crew members whose actions on September 11, 2001, became a defining moment of courage."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "25th anniversary of September 11, 2001"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=9+11+anniversary+2026&form=hpcapt&filters=HpDate%3a%2220260911_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Flight93_EN-US5966783443"
+    }
+  },
   "Olvera": {
     "name": "Olvera",
     "urlbase": "/th?id=OHR.Olvera_EN-US4712443253",
@@ -632,7 +664,7 @@
       "es-ES": "Pequeños pero veloces. Colibríes brillantes frentiverdes, Costa Rica",
       "pt-BR": "Um doce intervalo",
       "ja-JP": "今日は米国のハチドリの日",
-      "zh-CN": "龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加"
+      "zh-CN": "小小鸟儿，巨大影响"
     },
     "copyrights": {
       "en-US": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)",
@@ -1509,49 +1541,19 @@
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
       "en-CA": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
+      "pt-BR": "Os intérpretes das marés",
       "de-DE": "Zwischen den Wellen lesen. Luftaufnahme von Surfern, Santa Catarina, Brasilien",
       "fr-FR": "L’art de lire entre les vagues. Vue aérienne de surfeurs, Santa Catarina, Brésil",
       "it-IT": "Studiando le maree",
       "es-ES": "Estudiando la marea. Vista aérea de surfistas, Santa Catarina, Brasil",
-      "pt-BR": "Os intérpretes das marés",
       "zh-CN": "读懂浪涛之间的讯息",
       "en-IN": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil",
       "en-GB": "Reading between the waves. Aerial view of surfers, Santa Catarina, Brazil"
@@ -1559,11 +1561,11 @@
     "copyrights": {
       "en-US": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
       "en-CA": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+      "pt-BR": "Vista aérea de surfistas em Santa Catarina (© Wonderful Nature/Shutterstock)",
       "de-DE": "Luftaufnahme von Surfern, Santa Catarina, Brasilien (© Wonderful Nature/Shutterstock)",
       "fr-FR": "Vue aérienne de surfeurs, Santa Catarina, Brésil (© Wonderful Nature/Shutterstock)",
       "it-IT": "Veduta aerea di surfisti a Santa Catarina, Brasile (© Wonderful Nature/Shutterstock)",
       "es-ES": "Vista aérea de surfistas, Santa Catarina, Brasil (© Wonderful Nature/Shutterstock)",
-      "pt-BR": "Vista aérea de surfistas em Santa Catarina (© Wonderful Nature/Shutterstock)",
       "zh-CN": "冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)",
       "en-IN": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
       "en-GB": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)"
@@ -1586,115 +1588,49 @@
     "captions": {
       "en-US": "Aerial view of surfers, Santa Catarina, Brazil",
       "en-CA": "Aerial view of surfers, Santa Catarina, Brazil",
-      "de-DE": "Luftaufnahme von Surfern, Santa Catarina, Brasilien",
-      "fr-FR": "Vue aérienne de surfeurs, Santa Catarina, Brésil",
-      "it-IT": "",
-      "es-ES": "Vista aérea de surfistas, Santa Catarina, Brasil",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Aerial view of surfers, Santa Catarina, Brazil"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260829_0700%22",
       "en-CA": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260829_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Santa+Catarina+Brasilien&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Br%c3%a9sil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e8%a5%bf%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e5%b7%9e&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.SantaCatarina_EN-US3600536393",
       "en-CA": "/th?id=OHR.SantaCatarina_EN-CA1161995702",
-      "de-DE": "/th?id=OHR.SantaCatarina_DE-DE7458345257",
-      "fr-FR": "/th?id=OHR.SantaCatarina_FR-FR8615743181",
-      "it-IT": "/th?id=OHR.SantaCatarina_IT-IT1605956723",
-      "es-ES": "/th?id=OHR.SantaCatarina_ES-ES9631069615",
-      "pt-BR": "/th?id=OHR.SantaCatarina_PT-BR2149597812",
-      "zh-CN": "/th?id=OHR.SantaCatarina_ZH-CN4170292043",
-      "en-IN": "/th?id=OHR.SantaCatarina_EN-IN0197195904"
+      "pt-BR": "/th?id=OHR.SantaCatarina_PT-BR2149597812"
     }
   },
-  "MichelSunset": {
-    "name": "MichelSunset",
-    "urlbase": "/th?id=OHR.MichelSunset_EN-US3527235033",
-    "date": "20260828",
-    "dateFormatted": "August 28, 2026",
+  "LastNightOfTheProms2026": {
+    "name": "LastNightOfTheProms2026",
+    "urlbase": "/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139",
+    "date": "20260911",
+    "dateFormatted": "September 11, 2026",
     "markets": [
       {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       }
     ],
     "titles": {
-      "en-US": "Where tides shape a legend. Mont-Saint Michel during high tide, Normandy, France",
-      "en-CA": "Where tides shape a legend. Mont-Saint Michel during high tide, Normandy, France",
-      "pt-BR": "Uma ilha de meio período",
-      "en-GB": "Where tides shape a legend. Mont-Saint‑Michel during high tide, Normandy, France",
-      "de-DE": "Zwischen Himmel und Meer. Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich",
-      "fr-FR": "Bercé par la marée. Le Mont-Saint-Michel à marée haute, Manche, Normandie",
-      "it-IT": "La marea trasforma il paesaggio",
-      "es-ES": "Donde la marea transforma paisajes. Monte Saint-Michel, Mancha, Normandía, Francia",
-      "ja-JP": "海岸風景の中にそびえる修道院",
-      "zh-CN": "潮汐塑造的传奇",
-      "en-IN": "Where tides shape a legend. Mont-Saint‑Michel during high tide, Normandy, France"
+      "en-GB": "A finale worth singing about. Last Night of the Proms"
     },
     "copyrights": {
-      "en-US": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
-      "en-CA": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
-      "pt-BR": "Monte Saint-Michel durante a maré alta, Manche, Normandia, França (© Clement LEONARD/Getty Images)",
-      "en-GB": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
-      "de-DE": "Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich (© Clement LEONARD/Getty Images)",
-      "fr-FR": "Le Mont-Saint-Michel à marée haute, Manche, Normandie (© Clement LEONARD/Getty Images)",
-      "it-IT": "Le Mont-Saint-Michel, Manica, Normandia, Francia (© Clement LEONARD/Getty Images)",
-      "es-ES": "Monte Saint-Michel durante la marea alta, Mancha, Normandía, Francia (© Clement LEONARD/Getty Images)",
-      "ja-JP": "モン・サン＝ミシェル, フランス (© Clement LEONARD/Getty Images)",
-      "zh-CN": "涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)",
-      "en-IN": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)"
+      "en-GB": "Interior of the Royal Albert Hall, London (© William Barton/Shutterstock)"
     },
     "descs": {
-      "en-US": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the center of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travelers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
-      "en-CA": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
-      "en-GB": "At sunset, Mont-Saint‑Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
-      "de-DE": "Der Mont-Saint-Michel bei Flut in der Manche in der Normandie zählt zu den bekanntesten Wahrzeichen Frankreichs. Sobald das Meer ansteigt, verwandelt sich der Granitfelsen in eine Insel und wirkt wie eine Erscheinung aus einer anderen Zeit. Seine Geschichte reicht bis ins Jahr 708 zurück, als der Überlieferung nach der Erzengel Michael dem Bischof Aubert von Avranches erschien und ihn zum Bau eines Heiligtums auf dem Felsen aufforderte. Aus dieser ersten Kultstätte entwickelte sich im Laufe der Jahrhunderte ein bedeutendes religiöses Zentrum und ein viel besuchter Wallfahrtsort.",
-      "fr-FR": "Au coucher du soleil, le Mont-Saint-Michel semble surgir des eaux de Normandie comme un mirage façonné par les marées. Dressée sur un îlot rocheux, cette silhouette emblématique domine l’une des baies les plus spectaculaires d’Europe. Deux fois par jour, la mer se retire sur plusieurs kilomètres, dévoilant d’immenses étendues de sable où s’aventurent oiseaux côtiers et promeneurs attentifs. Puis l’eau revient, transformant à nouveau le mont en île. Depuis des siècles, habitants, marchands et pèlerins vivent au rythme de ce mouvement incessant, voyant le paysage se métamorphoser au fil des heures dans une lumière changeante et fascinante.",
-      "es-ES": "Al atardecer, el Monte Saint-Michel emerge de las aguas de Normandía, Francia, como una fortaleza esculpida por las mareas. Dos veces al día, el mar se retira dejando al descubierto vastas extensiones de arena antes de regresar: la diferencia entre marea alta y baja puede alcanzar los 14 metros, una de las más extremas del mundo. Durante siglos, los peregrinos calibraban sus travesías al ritmo de esas aguas o arriesgaban quedar atrapados.",
-      "ja-JP": "フランス・ノルマンディーの海に浮かぶモン・サン＝ミシェルが、夕陽に照らされて幻想的な姿を見せています。岩山の上にそびえ立つこの修道院は、ヨーロッパでも屈指の海岸景観で知られており、潮が引くと広大な干潟が現れ、満潮になると周囲を海に囲まれた島のような景観となります。その起源は 708 年にさかのぼるとされ、長い歴史の中でヨーロッパを代表するカトリックの巡礼地のひとつへと発展しました。そして、1979 年には「モン＝サン＝ミシェルとその湾」として、ユネスコの世界遺産に登録されました。",
-      "en-IN": "At sunset, Mont-Saint‑Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
-      "it-IT": "Al tramonto, Mont-Saint-Michel emerge dalle acque della Normandia, in Francia, come una fortezza scolpita dalle maree. Due volte al giorno il mare si ritira scoprendo vaste distese di sabbia, poi torna a isolare il monte: la differenza tra alta e bassa marea può raggiungere i quattordici metri, una delle più estreme al mondo. Per secoli i pellegrini calcolavano i loro attraversamenti al ritmo di quelle acque, rischiando di restare intrappolati.",
-      "pt-BR": "Aqui, quem define os limites da terra não é o mapa. É a maré. A imagem mostra o Monte Saint-Michel, na Normandia, França, erguido sobre uma ilha rochosa onde o movimento das águas comanda o relógio. Quando o mar recua, revela uma vasta planície de areia. Poucas horas depois, a água retorna em velocidade surpreendente e recompõe a ilha, repetindo um ciclo que acontece há séculos.",
-      "zh-CN": "日落时分，圣米歇尔山从法国诺曼底的水面升起，宛如一座由海洋塑造的堡垒。修道院和村庄坐落在岩石潮汐岛上，矗立于欧洲最壮观的海岸环境之一。每天两次，海水退去，露出大片沙滩；随后潮水再次涌回，重新覆盖这片景观。涨潮时，圣米歇尔山又会变成一座岛屿。数百年来，旅行者一直根据这种潮汐节奏安排行程，在条件允许时穿越潮滩，并在数小时后观看海水归来。"
+      "en-GB": "What happens when a grand classical concert lets its hair down? The Last Night of the Proms. The finale of the annual BBC Proms turns London's Royal Albert Hall into a joyful, flag-waving party, where world-class music meets quirky costumes, inflatable toys and enthusiastic singalongs."
     },
-    "quickFacts": {
-      "zh-CN": "圣米歇尔山周围的潮差可达约14米，是欧洲潮差最大的地区之一。"
-    },
+    "quickFacts": {},
     "captions": {
-      "en-US": "Mont-Saint Michel during high tide, Normandy, France",
-      "en-CA": "Mont-Saint Michel during high tide, Normandy, France",
-      "pt-BR": ""
+      "en-GB": "Last Night of the Proms"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260828_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260828_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Monte+Saint+Michel&form=hpcapt&mkt=pt-br"
+      "en-GB": "https://www.bing.com/search?q=Night+of+the+Proms+London&form=hpcapt&filters=HpDate%3a%2220260911_2300%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.MichelSunset_EN-US3527235033",
-      "en-CA": "/th?id=OHR.MichelSunset_EN-CA0604318625",
-      "pt-BR": "/th?id=OHR.MichelSunset_PT-BR1793038232"
+      "en-GB": "/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139"
     }
   },
   "FrenchRivieraVillage": {
@@ -1707,6 +1643,11 @@
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
       },
       {
         "code": "de-DE",
@@ -1736,31 +1677,31 @@
     ],
     "titles": {
       "en-GB": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
+      "en-CA": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
       "de-DE": "Wo das Mittelmeer regiert. Villefranche-sur-Mer, Côte d’Azur, Frankreich",
       "fr-FR": "Là où la Méditerranée est reine. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur",
       "es-ES": "Donde huele a mar y flores. Bahía de Villefranche-sur-Mer, Provenza-Alpes-Costa Azul, Francia",
       "zh-CN": "滨海自由城，法国里维埃拉，法国",
       "en-IN": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
-      "en-CA": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, French Riviera, France",
       "pt-BR": "Um jardim com vista para o mar. Baía de Villefranche-sur-Mer, Alpes-Maritimes, Provença-Alpes-Côte d'Azur, França"
     },
     "copyrights": {
       "en-GB": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
+      "en-CA": "Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)",
       "de-DE": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
       "fr-FR": "Vue aérienne de la baie de Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur (© StockByM/Getty Images)",
       "es-ES": "La bahía de Villefranche-sur-Mer, Alpes Marítimos, en la región de Provenza-Alpes-Costa Azul, Francia (© StockByM/Getty Images)",
       "zh-CN": "滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)",
       "en-IN": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
-      "en-CA": "© StockByM/Getty Images",
       "pt-BR": "© StockByM/Getty Images"
     },
     "descs": {
       "en-GB": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
+      "en-CA": "In September, the French Riviera is bathed in a softer light, and the Mediterranean landscape takes on fresher tones after the peak of summer. The hills are scented with Aleppo pine, rosemary and wild thyme. In the hinterland, centuries-old olive trees and hilltop villages tell a story shaped by Greek, Roman and Provençal influences.",
       "de-DE": "Im September zeigt sich die Côte d’Azur von ihrer ruhigeren Seite. Das Licht wirkt weicher, die Sommerhitze lässt nach, und die mediterrane Vegetation gewinnt neue Frische. Zwischen Pinien, Rosmarin und wildem Thymian entfaltet sich eine Landschaft, die seit Jahrhunderten vom Meer geprägt wird. In den Hügeln der Alpes Maritimes erinnern alte Olivenhaine und verstreute Dörfer an die lange Geschichte der Region, die von verschiedenen Kulturen und Traditionen beeinflusst wurde.",
       "fr-FR": "En septembre, la Côte d’Azur se pare d’une lumière plus douce et la végétation méditerranéenne retrouve progressivement son éclat. Les collines embaument des senteurs de pin d’Alep, de romarin et de thym sauvage. Dans l’arrière-pays, les oliviers centenaires et les villages perchés racontent une histoire façonnée par les influences grecques, romaines et provençales.",
       "es-ES": "En septiembre, la bahía de Villefranche-sur-Mer, en la Costa Azul (Francia), baja de revoluciones: la luz se vuelve más suave, el agua sigue templada y el monte huele a pino carrasco, romero y tomillo. Los veleros se deslizan por una rada de aguas inusualmente profundas, encajada entre laderas de casas ocres.",
       "en-IN": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
-      "en-CA": "In September, the French Riviera is bathed in a softer light, and the Mediterranean landscape takes on fresher tones after the peak of summer. The hills are scented with Aleppo pine, rosemary and wild thyme. In the hinterland, centuries-old olive trees and hilltop villages tell a story shaped by Greek, Roman and Provençal influences.",
       "pt-BR": "A Riviera Francesa não guarda toda a graça para o verão. Em setembro, o calor começa a ceder, as colinas recuperam tons de verde e espalham aromas de alecrim, tomilho e pinheiro-de-alepo. No interior, oliveiras centenárias acompanham estradas que sobem até vilarejos moldados por séculos de influências gregas, romanas e provençais.",
       "zh-CN": "九月，法国里维埃拉沐浴在更柔和的光线中，地中海植被也逐渐恢复生机。山丘间弥漫着阿勒颇松、迷迭香和野百里香的芳香。内陆地区，百年橄榄树和山顶村庄讲述着一个由希腊、罗马和普罗旺斯影响共同塑造的故事。"
     },
@@ -1769,6 +1710,7 @@
     },
     "captions": {
       "en-GB": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
+      "en-CA": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
       "de-DE": "Villefranche-sur-Mer, Côte d’Azur, Frankreich",
       "fr-FR": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur",
       "es-ES": "Bahía de Villefranche-sur-Mer, Provenza-Alpes-Costa Azul, Francia",
@@ -1777,6 +1719,7 @@
     },
     "copyrightlinks": {
       "en-GB": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260911_0400%22",
       "de-DE": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
       "es-ES": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
@@ -1785,6 +1728,7 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823",
+      "en-CA": "/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252",
       "de-DE": "/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127",
       "fr-FR": "/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166",
       "es-ES": "/th?id=OHR.FrenchRivieraVillage_ES-ES2800644521",
@@ -1927,30 +1871,65 @@
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
       }
     ],
     "titles": {
       "en-GB": "Masters of the surf and shore. California sea lions, offshore Mexico, Pacific Ocean",
-      "de-DE": "Meister der Brandung. Kalifornische Seelöwen bei der Jagd auf einen Sardinen-Köderball vor der Küste Mexikos im Pazifik",
-      "fr-FR": "Des maîtres de la glisse. Des lions de mer de Californie chassant un banc de sardines au large du Mexique, Océan Pacifique",
-      "it-IT": "Maestri del surf e della riva. Leoni marini della California a caccia di una palla di esca per sardine, al largo del Messico, Oceano Pacifico",
-      "es-ES": "Maestros de las olas y los giros. Leones marinos de California cazando un cardumen de sardinas, México, Océano Pacífico",
-      "ja-JP": "イワシの群れを狙うカリフォルニアアシカ. カリフォルニアアシカ, メキシコ沖",
+      "de-DE": "Meister der Brandung. Kalifornische Seelöwen vor der Küste Mexikos im Pazifik",
+      "fr-FR": "Des maîtres de la glisse. Lions de mer de Californie au large du Mexique, Océan Pacifique",
+      "it-IT": "Maestri del surf e della riva",
+      "es-ES": "Maestros de las olas y los giros. Leones marinos de California, frente a México, Océano Pacífico",
+      "ja-JP": "イワシの群れを狙うカリフォルニアアシカ",
       "zh-CN": "墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋",
-      "en-IN": "Masters of the surf and shore. California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean",
+      "en-IN": "Masters of the surf and shore. California sea lions, offshore Mexico, Pacific Ocean",
       "en-US": "Masters of the surf and shore. California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean",
       "en-CA": "Masters of the surf and shore. California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean",
       "pt-BR": "O baile das barbatanas. Leões-marinhos-da-califórnia caçando cardume de sardinhas no litoral do México, Oceano Pacífico"
     },
     "copyrights": {
       "en-GB": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)",
-      "de-DE": "© Henley Spiers/Nature Picture Library",
-      "fr-FR": "© Henley Spiers/Nature Picture Library",
-      "it-IT": "© Henley Spiers/Nature Picture Library",
-      "es-ES": "© Henley Spiers/Nature Picture Library",
-      "ja-JP": "© Henley Spiers/Nature Picture Library",
-      "zh-CN": "© Henley Spiers/Nature Picture Library",
-      "en-IN": "© Henley Spiers/Nature Picture Library",
+      "de-DE": "Kalifornische Seelöwen bei der Jagd auf einen Sardinen-Köderball vor der Küste Mexikos im Pazifik (© Henley Spiers/Nature Picture Library)",
+      "fr-FR": "Des lions de mer de Californie chassant un banc de sardines au large du Mexique, Océan Pacifique (© Henley Spiers/Nature Picture Library)",
+      "it-IT": "Leoni marini della California a caccia di una palla di esca per sardine, al largo del Messico, Oceano Pacifico (© Henley Spiers/Nature Picture Library)",
+      "es-ES": "Leones marinos de California cazando un cardumen de sardinas, México, Océano Pacífico (© Henley Spiers/Nature Picture Library)",
+      "ja-JP": "カリフォルニアアシカ, メキシコ沖 (© Henley Spiers/Nature Picture Library)",
+      "zh-CN": "墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)",
+      "en-IN": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)",
       "en-US": "© Henley Spiers/Nature Picture Library",
       "en-CA": "© Henley Spiers/Nature Picture Library",
       "pt-BR": "© Henley Spiers/Nature Picture Library"
@@ -1959,11 +1938,11 @@
       "en-GB": "A day at the beach is rarely quiet when California sea lions are around. With their booming barks, playful personalities and a knack for stealing the spotlight, these marine mammals know how to put on a show.",
       "de-DE": "Kalifornische Seelöwen gehören zu den geschicktesten Jägern des Pazifiks. Vor der Küste Mexikos sind sie häufig zu beobachten, wenn sie gemeinsam auf Fischschwärme treffen. Besonders spektakulär wird die Jagd, wenn sich Sardinen zu einem dichten Köderball zusammenschließen. In dieser wirbelnden Ansammlung suchen die kleinen Fische Schutz vor ihren Verfolgern. Für die Seelöwen bietet sich dadurch jedoch eine ideale Gelegenheit, Beute zu machen. Mit schnellen Wendungen und beeindruckender Beweglichkeit schießen sie durch den Schwarm und nutzen jede Lücke, um einzelne Fische zu erwischen.",
       "fr-FR": "Une journée sur la côte Pacifique des États-Unis est rarement silencieuse lorsque les lions de mer de Californie sont de la partie. Leurs aboiements puissants résonnent sur les plages, tandis que leur curiosité et leur énergie attirent tous les regards.",
-      "it-IT": "Un banco di sardine si trasforma in un vortice quando arrivano i leoni marini della California, qui al largo del Messico, nell'Oceano Pacifico. Cacciano in squadra, girano, accelerano e disfano il branco fino ad aprire il varco giusto; a volte sfruttano perfino il lavoro di delfini e uccelli marini per accerchiare i pesci.",
       "es-ES": "Un banco de sardinas se convierte en un torbellino cuando aparecen los leones marinos de California, aquí frente a las costas de México, en el océano Pacífico. Cazan en equipo, giran, aceleran y desordenan al cardumen hasta abrir el hueco perfecto; a veces aprovechan incluso el trabajo de delfines y aves marinas para acorralar a los peces.",
       "ja-JP": "イワシの群れを狙うカリフォルニアアシカ. カリフォルニアアシカ, メキシコ沖. 今日の画像は、カリフォルニアアシカ。主にアラスカ南東部からメキシコ中部にかけての北米大陸西海岸に生息する海洋哺乳類です。ひれ状の足は太く丈夫で、海では前足を使って力強く泳ぎ、陸上では前足と後ろ足で体を支えて歩くことができます。また、オスとメスでは見た目が異なり、オスは濃い色の体毛と盛り上がった頭頂部、メスは明るい色合いが特徴です。",
-      "zh-CN": "加州海狮在场时，海滩上的一天很少会安静。洪亮的吠叫、顽皮的个性，再加上抢尽风头的本领，让这些海洋哺乳动物深谙如何上演一场好戏。",
       "en-IN": "A day at the beach is rarely quiet when California sea lions are around. With their booming barks, playful personalities and a knack for stealing the spotlight, these marine mammals know how to put on a show.",
+      "it-IT": "Un banco di sardine si trasforma in un vortice quando arrivano i leoni marini della California, qui al largo del Messico, nell'Oceano Pacifico. Cacciano in squadra, girano, accelerano e disfano il branco fino ad aprire il varco giusto; a volte sfruttano perfino il lavoro di delfini e uccelli marini per accerchiare i pesci.",
+      "zh-CN": "加州海狮在场时，海滩上的一天很少会安静。洪亮的吠叫、顽皮的个性，再加上抢尽风头的本领，让这些海洋哺乳动物深谙如何上演一场好戏。",
       "en-US": "A day at the beach is rarely quiet when California sea lions are around. With their booming barks, playful personalities, and a knack for stealing the spotlight, these marine mammals know how to put on a show.",
       "en-CA": "A day at the beach is rarely quiet when California sea lions are around. With their booming barks, playful personalities and a knack for stealing the spotlight, these marine mammals know how to put on a show.",
       "pt-BR": "Você pode encontrar um leão-marinho-da-califórnia largado na praia, olhos semicerrados, parecendo que o expediente acabou. Não se engane. Quando entra na água, ele pode acelerar até cerca de 40 km/h. A espécie vive no litoral do Pacífico da América do Norte, da Colúmbia Britânica até o México."
@@ -1979,45 +1958,34 @@
       "en-CA": "California sea lions can dive as deep as 305 metres and hold their breath for up to 10 minutes."
     },
     "captions": {
-      "en-GB": "California sea lions, offshore Mexico, Pacific Ocean"
+      "en-GB": "California sea lions, offshore Mexico, Pacific Ocean",
+      "de-DE": "Kalifornische Seelöwen vor der Küste Mexikos im Pazifik",
+      "fr-FR": "Lions de mer de Californie au large du Mexique, Océan Pacifique",
+      "it-IT": "",
+      "es-ES": "Leones marinos de California, frente a México, Océano Pacífico",
+      "ja-JP": "イワシの群れを狙うカリフォルニアアシカ",
+      "zh-CN": "",
+      "en-IN": "California sea lions, offshore Mexico, Pacific Ocean"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=California+sea+lion&form=hpcapt&filters=HpDate%3a%2220260904_2300%22"
+      "en-GB": "https://www.bing.com/search?q=California+sea+lion&form=hpcapt&filters=HpDate%3a%2220260904_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Kalifornischer+Seel%c3%b6we&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=lions+de+mer+de+Californie&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Leoni+marini+della+California&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=lobo+marino+de+California&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e3%82%a2%e3%82%b7%e3%82%ab&form=hpcapt&filters=HpDate%3a%2220260911_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8a%a0%e5%b7%9e%e6%b5%b7%e7%8b%ae&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=California+sea+lion&form=hpcapt&filters=HpDate%3a%2220260911_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.SardineBait_EN-GB5662354179"
-    }
-  },
-  "NottingHillCarnival2026": {
-    "name": "NottingHillCarnival2026",
-    "urlbase": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135",
-    "date": "20260828",
-    "dateFormatted": "August 28, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      }
-    ],
-    "titles": {
-      "en-GB": "A city painted in rhythm. Notting Hill Carnival"
-    },
-    "copyrights": {
-      "en-GB": "Notting Hill Carnival, London (© Sebastian Remme/Alamy Live News)"
-    },
-    "descs": {
-      "en-GB": "Some weekends ask you to slow down. This one turns the volume up. Streets become dance floors, steel pans replace traffic noise, and the scent of Caribbean food follows every step. At Notting Hill Carnival, London's roads don't just close to traffic, they open to celebration."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-GB": "Notting Hill Carnival"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Notting+Hill+Carnival&form=hpcapt&filters=HpDate%3a%2220260828_2300%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135"
+      "en-GB": "/th?id=OHR.SardineBait_EN-GB5662354179",
+      "de-DE": "/th?id=OHR.SardineBait_DE-DE9091780632",
+      "fr-FR": "/th?id=OHR.SardineBait_FR-FR6373570079",
+      "it-IT": "/th?id=OHR.SardineBait_IT-IT4326891508",
+      "es-ES": "/th?id=OHR.SardineBait_ES-ES9719293392",
+      "ja-JP": "/th?id=OHR.SardineBait_JA-JP5540649445",
+      "zh-CN": "/th?id=OHR.SardineBait_ZH-CN3256234033",
+      "en-IN": "/th?id=OHR.SardineBait_EN-IN7573319017"
     }
   },
   "TIFFRoy": {
@@ -2403,6 +2371,38 @@
       "es-ES": "/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072"
     }
   },
+  "RedMacaws": {
+    "name": "RedMacaws",
+    "urlbase": "/th?id=OHR.RedMacaws_PT-BR5164998297",
+    "date": "20260911",
+    "dateFormatted": "September 11, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Uma chegada anunciada"
+    },
+    "copyrights": {
+      "pt-BR": "Araras-vermelhas, América do Sul (© markes51/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "A arara-vermelha-grande não economiza na cor. Vermelha, verde, azul e zero interesse em passar despercebida, ela atravessa as copas da América do Sul, incluindo Brasil, Bolívia, Colômbia, Venezuela e Paraguai. Ocupa florestas, áreas de cerrado e regiões próximas a rios, voando em pares ou grupos que fazem questão de anunciar a própria chegada aos quatro ventos."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=arara+vermelha&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.RedMacaws_PT-BR5164998297"
+    }
+  },
   "IndependenceBR": {
     "name": "IndependenceBR",
     "urlbase": "/th?id=OHR.IndependenceBR_PT-BR8326749510",
@@ -2533,38 +2533,6 @@
       "ja-JP": "/th?id=OHR.ChungYang2026_JA-JP4920316432"
     }
   },
-  "OmagariFireworks2026": {
-    "name": "OmagariFireworks2026",
-    "urlbase": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919",
-    "date": "20260828",
-    "dateFormatted": "August 28, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日は大曲の花火の開催日"
-    },
-    "copyrights": {
-      "ja-JP": "全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "今日 8 月 29 日は全国花火競技大会の開催日。秋田県大仙市で行われるこの大会は、「大曲の花火」とも呼ばれ、日本三大花火大会の一つとして知られており、全国から選抜された花火師が、「昼花火の部」と「夜花火の部」で技を競います。昼花火とは、光ではなく煙で美しさを表現する花火です。また、大曲の花火最大の特徴であり、大会を象徴する競技が、夜花火の部で行われる「創造花火」。既成概念に囚われず、形や色、大きさなど全てがオリジナルの花火を、音楽にあわせて披露する競技です。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "今日は大曲の花火の開催日"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e5%85%a8%e5%9b%bd%e8%8a%b1%e7%81%ab%e7%ab%b6%e6%8a%80%e5%a4%a7%e4%bc%9a&form=hpcapt&filters=HpDate%3a%2220260828_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919"
-    }
-  },
   "PuranaQila2026": {
     "name": "PuranaQila2026",
     "urlbase": "/th?id=OHR.PuranaQila2026_EN-IN6620233403",
@@ -2627,6 +2595,150 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394"
+    }
+  },
+  "MichelSunset": {
+    "name": "MichelSunset",
+    "urlbase": "/th?id=OHR.MichelSunset_EN-US3527235033",
+    "date": "20260828",
+    "dateFormatted": "August 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Where tides shape a legend. Mont-Saint Michel during high tide, Normandy, France",
+      "en-CA": "Where tides shape a legend. Mont-Saint Michel during high tide, Normandy, France",
+      "pt-BR": "Uma ilha de meio período",
+      "en-GB": "Where tides shape a legend. Mont-Saint‑Michel during high tide, Normandy, France",
+      "de-DE": "Zwischen Himmel und Meer. Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich",
+      "fr-FR": "Bercé par la marée. Le Mont-Saint-Michel à marée haute, Manche, Normandie",
+      "it-IT": "La marea trasforma il paesaggio",
+      "es-ES": "Donde la marea transforma paisajes. Monte Saint-Michel, Mancha, Normandía, Francia",
+      "ja-JP": "海岸風景の中にそびえる修道院",
+      "zh-CN": "潮汐塑造的传奇",
+      "en-IN": "Where tides shape a legend. Mont-Saint‑Michel during high tide, Normandy, France"
+    },
+    "copyrights": {
+      "en-US": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+      "en-CA": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+      "pt-BR": "Monte Saint-Michel durante a maré alta, Manche, Normandia, França (© Clement LEONARD/Getty Images)",
+      "en-GB": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+      "de-DE": "Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich (© Clement LEONARD/Getty Images)",
+      "fr-FR": "Le Mont-Saint-Michel à marée haute, Manche, Normandie (© Clement LEONARD/Getty Images)",
+      "it-IT": "Le Mont-Saint-Michel, Manica, Normandia, Francia (© Clement LEONARD/Getty Images)",
+      "es-ES": "Monte Saint-Michel durante la marea alta, Mancha, Normandía, Francia (© Clement LEONARD/Getty Images)",
+      "ja-JP": "モン・サン＝ミシェル, フランス (© Clement LEONARD/Getty Images)",
+      "zh-CN": "涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)",
+      "en-IN": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)"
+    },
+    "descs": {
+      "en-US": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the center of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travelers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+      "en-CA": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+      "en-GB": "At sunset, Mont-Saint‑Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+      "de-DE": "Der Mont-Saint-Michel bei Flut in der Manche in der Normandie zählt zu den bekanntesten Wahrzeichen Frankreichs. Sobald das Meer ansteigt, verwandelt sich der Granitfelsen in eine Insel und wirkt wie eine Erscheinung aus einer anderen Zeit. Seine Geschichte reicht bis ins Jahr 708 zurück, als der Überlieferung nach der Erzengel Michael dem Bischof Aubert von Avranches erschien und ihn zum Bau eines Heiligtums auf dem Felsen aufforderte. Aus dieser ersten Kultstätte entwickelte sich im Laufe der Jahrhunderte ein bedeutendes religiöses Zentrum und ein viel besuchter Wallfahrtsort.",
+      "fr-FR": "Au coucher du soleil, le Mont-Saint-Michel semble surgir des eaux de Normandie comme un mirage façonné par les marées. Dressée sur un îlot rocheux, cette silhouette emblématique domine l’une des baies les plus spectaculaires d’Europe. Deux fois par jour, la mer se retire sur plusieurs kilomètres, dévoilant d’immenses étendues de sable où s’aventurent oiseaux côtiers et promeneurs attentifs. Puis l’eau revient, transformant à nouveau le mont en île. Depuis des siècles, habitants, marchands et pèlerins vivent au rythme de ce mouvement incessant, voyant le paysage se métamorphoser au fil des heures dans une lumière changeante et fascinante.",
+      "es-ES": "Al atardecer, el Monte Saint-Michel emerge de las aguas de Normandía, Francia, como una fortaleza esculpida por las mareas. Dos veces al día, el mar se retira dejando al descubierto vastas extensiones de arena antes de regresar: la diferencia entre marea alta y baja puede alcanzar los 14 metros, una de las más extremas del mundo. Durante siglos, los peregrinos calibraban sus travesías al ritmo de esas aguas o arriesgaban quedar atrapados.",
+      "ja-JP": "フランス・ノルマンディーの海に浮かぶモン・サン＝ミシェルが、夕陽に照らされて幻想的な姿を見せています。岩山の上にそびえ立つこの修道院は、ヨーロッパでも屈指の海岸景観で知られており、潮が引くと広大な干潟が現れ、満潮になると周囲を海に囲まれた島のような景観となります。その起源は 708 年にさかのぼるとされ、長い歴史の中でヨーロッパを代表するカトリックの巡礼地のひとつへと発展しました。そして、1979 年には「モン＝サン＝ミシェルとその湾」として、ユネスコの世界遺産に登録されました。",
+      "en-IN": "At sunset, Mont-Saint‑Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+      "it-IT": "Al tramonto, Mont-Saint-Michel emerge dalle acque della Normandia, in Francia, come una fortezza scolpita dalle maree. Due volte al giorno il mare si ritira scoprendo vaste distese di sabbia, poi torna a isolare il monte: la differenza tra alta e bassa marea può raggiungere i quattordici metri, una delle più estreme al mondo. Per secoli i pellegrini calcolavano i loro attraversamenti al ritmo di quelle acque, rischiando di restare intrappolati.",
+      "pt-BR": "Aqui, quem define os limites da terra não é o mapa. É a maré. A imagem mostra o Monte Saint-Michel, na Normandia, França, erguido sobre uma ilha rochosa onde o movimento das águas comanda o relógio. Quando o mar recua, revela uma vasta planície de areia. Poucas horas depois, a água retorna em velocidade surpreendente e recompõe a ilha, repetindo um ciclo que acontece há séculos.",
+      "zh-CN": "日落时分，圣米歇尔山从法国诺曼底的水面升起，宛如一座由海洋塑造的堡垒。修道院和村庄坐落在岩石潮汐岛上，矗立于欧洲最壮观的海岸环境之一。每天两次，海水退去，露出大片沙滩；随后潮水再次涌回，重新覆盖这片景观。涨潮时，圣米歇尔山又会变成一座岛屿。数百年来，旅行者一直根据这种潮汐节奏安排行程，在条件允许时穿越潮滩，并在数小时后观看海水归来。"
+    },
+    "quickFacts": {
+      "zh-CN": "圣米歇尔山周围的潮差可达约14米，是欧洲潮差最大的地区之一。"
+    },
+    "captions": {
+      "en-US": "Mont-Saint Michel during high tide, Normandy, France",
+      "en-CA": "Mont-Saint Michel during high tide, Normandy, France",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260828_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260828_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Monte+Saint+Michel&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MichelSunset_EN-US3527235033",
+      "en-CA": "/th?id=OHR.MichelSunset_EN-CA0604318625",
+      "pt-BR": "/th?id=OHR.MichelSunset_PT-BR1793038232"
+    }
+  },
+  "NottingHillCarnival2026": {
+    "name": "NottingHillCarnival2026",
+    "urlbase": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135",
+    "date": "20260828",
+    "dateFormatted": "August 28, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "A city painted in rhythm. Notting Hill Carnival"
+    },
+    "copyrights": {
+      "en-GB": "Notting Hill Carnival, London (© Sebastian Remme/Alamy Live News)"
+    },
+    "descs": {
+      "en-GB": "Some weekends ask you to slow down. This one turns the volume up. Streets become dance floors, steel pans replace traffic noise, and the scent of Caribbean food follows every step. At Notting Hill Carnival, London's roads don't just close to traffic, they open to celebration."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "Notting Hill Carnival"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Notting+Hill+Carnival&form=hpcapt&filters=HpDate%3a%2220260828_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135"
+    }
+  },
+  "OmagariFireworks2026": {
+    "name": "OmagariFireworks2026",
+    "urlbase": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919",
+    "date": "20260828",
+    "dateFormatted": "August 28, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は大曲の花火の開催日"
+    },
+    "copyrights": {
+      "ja-JP": "全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日 8 月 29 日は全国花火競技大会の開催日。秋田県大仙市で行われるこの大会は、「大曲の花火」とも呼ばれ、日本三大花火大会の一つとして知られており、全国から選抜された花火師が、「昼花火の部」と「夜花火の部」で技を競います。昼花火とは、光ではなく煙で美しさを表現する花火です。また、大曲の花火最大の特徴であり、大会を象徴する競技が、夜花火の部で行われる「創造花火」。既成概念に囚われず、形や色、大きさなど全てがオリジナルの花火を、音楽にあわせて披露する競技です。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は大曲の花火の開催日"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e5%85%a8%e5%9b%bd%e8%8a%b1%e7%81%ab%e7%ab%b6%e6%8a%80%e5%a4%a7%e4%bc%9a&form=hpcapt&filters=HpDate%3a%2220260828_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919"
     }
   },
   "LakeMagadi": {
