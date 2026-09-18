@@ -1,4 +1,137 @@
 {
+  "Santenay": {
+    "name": "Santenay",
+    "urlbase": "/th?id=OHR.Santenay_EN-US5299702509",
+    "date": "20260917",
+    "dateFormatted": "September 17, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France",
+      "en-GB": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France",
+      "de-DE": "Ein Hoch auf die Ernte. Weinregion Santenay, Côte de Beaune, Burgund, Frankreich",
+      "fr-FR": "Santé ! Santenay, Côte de Beaune, Bourgogne",
+      "it-IT": "Un brindisi al raccolto",
+      "es-ES": "Un brindis por la cosecha. Región vinícola de Santenay, Costa de Beaune, Borgoña, Francia",
+      "pt-BR": "Um brinde à colheita",
+      "ja-JP": "収穫期を迎えたブドウ畑",
+      "zh-CN": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国",
+      "en-IN": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France"
+    },
+    "copyrights": {
+      "en-US": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
+      "en-GB": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
+      "de-DE": "Windmühle von Sorine und Weinberge in der Weinregion Santenay, Côte de Beaune, Burgund, Frankreich (© Marco Bottigelli/Getty Images)",
+      "fr-FR": "Le moulin à vent et les vignobles de Sorine, Santenay, Côte de Beaune, Bourgogne (© Marco Bottigelli/Getty Images)",
+      "it-IT": "Mulino a vento e vigneti di Sorine, regione vinicola di Santenay, Côte de Beaune, Borgogna, Francia (© Marco Bottigelli/Getty Images)",
+      "es-ES": "Molino de viento y viñedos de Sorine, región vinícola de Santenay, Costa de Beaune, Borgoña, Francia (© Marco Bottigelli/Getty Images)",
+      "pt-BR": "Moinho de vento de Sorine e vinhedos, região vinícola de Santenay, Côte de Beaune, Borgonha, França (© Marco Bottigelli/Getty Images)",
+      "ja-JP": "サントネー, フランス (© Marco Bottigelli/Getty Images)",
+      "zh-CN": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)",
+      "en-IN": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Each year, late summer and early fall bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure, and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
+      "en-GB": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
+      "de-DE": "Zwischen den sanften Hügeln der Côte de Beaune in Frankreich erhebt sich die Windmühle von Sorine über den Weinbergen der Weinregion Santenay. Die Landschaft im Süden Burgunds wird von sorgfältig gepflegten Rebreihen geprägt, die sich über die Hänge erstrecken und je nach Jahreszeit in unterschiedlichen Farben leuchten. Von hier aus öffnen sich weite Blicke über eine Kulturlandschaft, die seit Jahrhunderten eng mit dem Weinbau verbunden ist.",
+      "fr-FR": "À la fin de l’été et au début de l’automne, les vendanges réveillent les paysages viticoles français. La date de récolte varie selon les régions, l’ensoleillement et la maturité des raisins. Dans de nombreux domaines, la cueillette reste manuelle : chaque grappe est sélectionnée avec soin pour préserver la qualité des futurs crus.",
+      "es-ES": "El molino de Sorine vigila los viñedos de Santenay, en el extremo sur de la Costa de Beaune, en Borgoña (Francia). Se construyó a principios del siglo XIX y se restauró en 1995, y es el único molino de viento de la zona que todavía funciona: una vez al año vuelve a girar durante una fiesta local.",
+      "ja-JP": "「ヴァンダンジュ」とはフランス語で「収穫」を意味し、毎年夏の終わりから秋にかけて行われる「ブドウの収穫」を指します。地域や天候、ブドウの熟し具合によって微妙に時期は異なるものの、多くの畑では今も人の手で丁寧に収穫が行われています。そして、今日の画像は、ブルゴーニュ地方サントネーで、色づいたブドウ畑の先に佇む「ソリーヌの風車」。19世紀から残るこの風車は、豊かなワイン産地の景観を象徴する存在であり、ブドウの栽培・収穫、そしてワイン作りの歴史を見守り続けています。",
+      "en-IN": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
+      "it-IT": "Il mulino di Sorine veglia sui vigneti di Santenay, all'estremità meridionale della Côte de Beaune, in Borgogna (Francia). Costruito all'inizio dell'Ottocento e restaurato nel 1995, è l'unico mulino a vento della zona ancora funzionante: una volta all'anno torna a girare durante una festa di paese.",
+      "pt-BR": "Muito antes de alguém erguer uma taça de vinho francês, alguém plantou e cuidou das videiras. Depois vieram sol, chuva e meses de espera. Hoje estamos em Santenay, na Borgonha, com o moinho de Sorine, construído no século XIX, ao fundo. Temperatura, insolação e maturação das uvas ajudam a decidir quando cada vinhedo está pronto.",
+      "zh-CN": "每年夏末秋初，法国最令人期待的传统之一——“vendanges”葡萄采摘季——如期而至。采摘时间因葡萄酒产区而异，并取决于天气状况、日照以及果实的成熟度。对许多葡萄园而言，采收仍主要依靠人工，工作人员会仔细挑选一串串葡萄，用于酿造法国一些最负盛名的葡萄酒。"
+    },
+    "quickFacts": {
+      "zh-CN": "索林风车是伯恩丘现存最后一座仍可运转的公共风车；这座19世纪风车于1995年得到忠实修复。"
+    },
+    "captions": {
+      "en-US": "Santenay wine region, Côte de Beaune, Burgundy, France",
+      "en-GB": "Santenay wine region, Côte de Beaune, Burgundy, France",
+      "de-DE": "Weinregion Santenay, Côte de Beaune, Burgund, Frankreich",
+      "fr-FR": "Santenay, Côte de Beaune, Bourgogne",
+      "it-IT": "",
+      "es-ES": "Región vinícola de Santenay, Costa de Beaune, Borgoña, Francia",
+      "pt-BR": "",
+      "ja-JP": "収穫期を迎えたブドウ畑",
+      "zh-CN": "",
+      "en-IN": "Santenay wine region, Côte de Beaune, Burgundy, France"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260917_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260916_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Santenay+Weinregion&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Santenay+Bourgogne&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
+      "it-IT": "https://www.bing.com/search?q=C%c3%b4te+de+Beaune&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Regi%c3%b3n+vin%c3%adcola+de+Santenay&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=C%c3%b4te+de+Beaune+na+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%83%88%e3%83%8d%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260916_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%a1%91%e7%89%b9%e5%a5%88%e8%91%a1%e8%90%84%e9%85%92%e4%ba%a7%e5%8c%ba&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260916_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Santenay_EN-US5299702509",
+      "en-GB": "/th?id=OHR.Santenay_EN-GB8477225756",
+      "de-DE": "/th?id=OHR.Santenay_DE-DE7807006506",
+      "fr-FR": "/th?id=OHR.Santenay_FR-FR5987836668",
+      "it-IT": "/th?id=OHR.Santenay_IT-IT4764829953",
+      "es-ES": "/th?id=OHR.Santenay_ES-ES0534993805",
+      "pt-BR": "/th?id=OHR.Santenay_PT-BR1634508094",
+      "ja-JP": "/th?id=OHR.Santenay_JA-JP6491231112",
+      "zh-CN": "/th?id=OHR.Santenay_ZH-CN5676942384",
+      "en-IN": "/th?id=OHR.Santenay_EN-IN8437955164"
+    }
+  },
   "IcyCubs": {
     "name": "IcyCubs",
     "urlbase": "/th?id=OHR.IcyCubs_EN-US5222104616",
@@ -658,6 +791,11 @@
         "flag": "gb"
       },
       {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
@@ -701,6 +839,7 @@
     "titles": {
       "en-US": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
       "en-GB": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "en-CA": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
       "de-DE": "Ein buntes Mosaik aus der Luft. Luftaufnahme von Olvera, Andalusien, Spanien",
       "fr-FR": "Un patchwork vu du dessus. Vue aérienne d’Olvera, Andalousie, Espagne",
       "it-IT": "Un mosaico dall'alto",
@@ -708,12 +847,12 @@
       "pt-BR": "A Andaluzia em mosaico",
       "ja-JP": "赤茶色の屋根が映えるアンダルシアの街",
       "zh-CN": "俯瞰大地拼图",
-      "en-IN": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "en-CA": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain"
+      "en-IN": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain"
     },
     "copyrights": {
       "en-US": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
       "en-GB": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "en-CA": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
       "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
       "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)",
       "it-IT": "Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)",
@@ -721,12 +860,12 @@
       "pt-BR": "Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)",
       "ja-JP": "オルベラ, スペイン (© Marco Bottigelli/Getty Images)",
       "zh-CN": "奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)",
-      "en-IN": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "en-CA": "© Marco Bottigelli/Getty Images"
+      "en-IN": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)"
     },
     "descs": {
       "en-US": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture, and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
       "en-GB": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "en-CA": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions.",
       "de-DE": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
       "fr-FR": "L’Andalousie est l’une des régions les plus emblématiques d’Espagne. Entre flamenco, tapas, héritage mauresque et vastes oliveraies, elle séduit par sa richesse culturelle. Au cœur de ce paysage se trouve Olvera, un village entouré de plus de deux millions d’oliviers, qui conserve les traces de plusieurs siècles d’histoire. Son château domine encore les hauteurs, tandis que l’église Notre-Dame de l’Incarnation marque l’horizon. Pour mieux comprendre le passé médiéval et les traditions locales, le centre culturel La Cilla constitue une étape incontournable.",
       "es-ES": "Olvera, en la sierra de Cádiz (Andalucía), se ve desde muy lejos: un cerro de casas encaladas coronado por un castillo de origen musulmán y por la mole neoclásica de la iglesia de Nuestra Señora de la Encarnación. A 643 metros de altitud, este pueblo blanco fue durante siglos tierra de frontera, y ese pasado se cuenta en La Cilla, el antiguo granero de los duques de Osuna hoy convertido en centro cultural y museo.",
@@ -734,8 +873,7 @@
       "en-IN": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
       "it-IT": "Olvera, nella sierra di Cadice (Andalusia, Spagna), si vede da lontanissimo: un colle di case imbiancate a calce sormontato da un castello di origine musulmana e dalla mole neoclassica della chiesa di Nuestra Señora de la Encarnación. A 643 metri di quota, questo borgo bianco è stato per secoli terra di frontiera, e quel passato si racconta a La Cilla, l'antico granaio dei duchi di Osuna oggi diventato centro culturale.",
       "pt-BR": "Olvera parece ter sido construída em camadas: primeiro vêm as oliveiras, depois as casas brancas, depois a igreja e, lá em cima, o castelo. Estamos na Andaluzia, na Espanha, em uma vila cercada por mais de 2 milhões de oliveiras, onde a paisagem agrícola praticamente sobe a montanha junto com as ruas.",
-      "zh-CN": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。",
-      "en-CA": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions."
+      "zh-CN": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。"
     },
     "quickFacts": {
       "zh-CN": "奥尔韦拉的摩尔式城堡建于12世纪末，坐落在海拔约623米的高处。"
@@ -743,6 +881,7 @@
     "captions": {
       "en-US": "Aerial view of Olvera, Andalusia, Spain",
       "en-GB": "Aerial view of Olvera, Andalusia, Spain",
+      "en-CA": "Aerial view of Olvera, Andalusia, Spain",
       "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien",
       "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne",
       "it-IT": "",
@@ -755,6 +894,7 @@
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260910_0700%22",
       "en-GB": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260909_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260917_0400%22",
       "de-DE": "https://www.bing.com/search?q=Olvera+Informationen&form=hpcapt&filters=HpDate%3a%2220260909_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Olvera+Espagne&form=hpcapt&filters=HpDate%3a%2220260909_2200%22",
       "it-IT": "https://www.bing.com/search?q=Andalusia+Spagna&form=hpcapt",
@@ -767,6 +907,7 @@
     "urlbases": {
       "en-US": "/th?id=OHR.Olvera_EN-US4712443253",
       "en-GB": "/th?id=OHR.Olvera_EN-GB6934313279",
+      "en-CA": "/th?id=OHR.Olvera_EN-CA0142222460",
       "de-DE": "/th?id=OHR.Olvera_DE-DE7810722479",
       "fr-FR": "/th?id=OHR.Olvera_FR-FR2163620703",
       "it-IT": "/th?id=OHR.Olvera_IT-IT3958001884",
@@ -872,7 +1013,7 @@
       "de-DE": "An der Westküste Indiens, im Bundesstaat Karnataka, liegt der Gabit-Keni-Strand nahe der Stadt Ankola. Der breite Sandstrand öffnet sich zum Arabischen Meer und vermittelt eine ruhige, fast unberührte Atmosphäre. Besonders in den frühen Morgenstunden prägen Fischerboote das Bild, wenn sie hinausfahren und später mit ihrem Fang zurückkehren. Die Nähe zum Meer bestimmt hier seit Generationen den Alltag vieler Menschen.",
       "fr-FR": "Quand on évoque le sud de l’Inde, viennent souvent à l’esprit les anciennes routes des épices, les mélodies de la musique carnatique et les rivages qui ont relié le sous-continent au monde pendant des siècles. En suivant la côte occidentale du Karnataka jusqu’aux environs d’Ankola, un lieu attire les voyageurs en quête d’authenticité : la plage de Gabit Keni. Ici, le rythme de la vie est dicté par la mer d’Arabie. Avant l’aube, les bateaux de pêche quittent le rivage, perpétuant un savoir-faire profondément enraciné dans le paysage côtier.",
       "es-ES": "La playa de Gabit Keni, junto a Ankola, en el estado indio de Karnataka, es una de esas paradas discretas del mar de Arabia donde la vida sigue el ritmo de las barcas: salen antes del amanecer y regresan con la captura del día. El arenal debe su nombre a los gabit, comunidad pesquera de la costa de Konkan.",
-      "ja-JP": "美しい海辺の風景. ガビット・ケニ・ビーチ, インド. アンコラは、インド南西部カルナータカ州のウッタラ・カンナダ県にある海辺の町です。アラビア海に面しており、美しい自然のビーチが多数点在しています。今日の画像に写るガビット・ケニ・ビーチもそのひとつです。このビーチの名前は、地元の漁業コミュニティである「ガビット」に由来しており、ビーチとしてだけでなく、漁業が盛んな地域としても知られています。地元の飲食店では、新鮮な魚介を使った料理が人気です。",
+      "ja-JP": "アンコラは、インド南西部カルナータカ州のウッタラ・カンナダ県にある海辺の町です。アラビア海に面しており、美しい自然のビーチが多数点在しています。今日の画像に写るガビット・ケニ・ビーチもそのひとつです。このビーチの名前は、地元の漁業コミュニティである「ガビット」に由来しており、ビーチとしてだけでなく、漁業が盛んな地域としても知られています。地元の飲食店では、新鮮な魚介を使った料理が人気です。",
       "en-IN": "When people think of South India, they often picture spice trade routes, classical music, folk traditions and a coastline shaped by centuries of maritime life. Follow Karnataka's Arabian Sea coast to the quieter shores of Gabit Keni Beach near Ankola, where fishing remains part of everyday life.",
       "it-IT": "La spiaggia di Gabit Keni, vicino ad Ankola, nello stato indiano del Karnataka, è una di quelle tappe discrete del Mar Arabico dove tutto segue il ritmo delle barche: escono prima dell'alba e rientrano con il pescato del giorno. Il nome ricorda i gabit, comunità di pescatori della costa del Konkan.",
       "pt-BR": "Na praia de Gabit Keni, perto de Ankola, na Índia, o Mar da Arábia não fica só fazendo bonito no horizonte. Ele dita horários, movimenta barcos e ajuda a colocar o almoço na mesa. A imagem mostra esta faixa do litoral de Karnataka, onde pescadores da comunidade Gabit, que deu nome à praia, saem cedo para o mar e voltam com o pescado do dia.",
@@ -1345,50 +1486,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Red and white on the horizon. Westerheversand Lighthouse, Schleswig-Holstein, Germany",
-      "en-GB": "Red and white on the horizon. Westerheversand Lighthouse, Schleswig-Holstein, Germany",
       "en-CA": "Red and white on the horizon. Westerheversand Lighthouse, Schleswig-Holstein, Germany",
+      "en-GB": "Red and white on the horizon. Westerheversand Lighthouse, Schleswig-Holstein, Germany",
       "fr-FR": "Rouge et blanc à l’horizon. Phare de Westerheversand, Schleswig-Holstein, Allemagne",
       "it-IT": "Rosso e bianco all'orizzonte",
       "es-ES": "Rojo y blanco en el horizonte. Faro de Westerheversand, Schleswig-Holstein, Alemania",
@@ -1399,8 +1505,8 @@
     },
     "copyrights": {
       "en-US": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
-      "en-GB": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
       "en-CA": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
+      "en-GB": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
       "fr-FR": "Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne (© bluejayphoto/Getty Images)",
       "it-IT": "Faro di Westerheversand in Westerhever, Schleswig-Holstein, Germania (© bluejayphoto/Getty Images)",
       "es-ES": "Faro de Westerheversand, Westerhever, Schleswig-Holstein, Alemania (© bluejayphoto/Getty Images)",
@@ -1411,8 +1517,8 @@
     },
     "descs": {
       "en-US": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognizable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
-      "en-GB": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.",
       "en-CA": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognisable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
+      "en-GB": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.",
       "fr-FR": "Dressé au-dessus des marais salés de la côte allemande de la mer du Nord, le phare de Westerheversand attire immédiatement le regard avec ses bandes rouges et blanches. Érigé entre 1906 et 1908 sur la péninsule d’Eiderstedt, il guide depuis plus d’un siècle les navigateurs dans les eaux parfois capricieuses de la mer du Nord. Aujourd’hui encore, cette silhouette emblématique figure parmi les monuments côtiers les plus célèbres du nord de l’Allemagne. Après l’ascension de ses 157 marches, les visiteurs découvrent un vaste panorama où ciel, mer et terre semblent ne faire qu’un.",
       "es-ES": "Entre las marismas saladas de Westerhever, en Schleswig-Holstein (Alemania), un gigante a franjas rojas y blancas vigila el mar del Norte desde 1908. El faro de Westerheversand es una torre de hierro fundido de 40 metros asentada sobre una loma artificial, rodeada de canales que la marea dibuja y borra dos veces al día.",
       "ja-JP": "ドイツ北海沿岸に広がる塩性湿地帯の中にそびえ立つヴェスターヘーファーザント灯台。赤と白の縞模様が特徴的なこの鋳鉄製灯台は、ユネスコ世界自然遺産に登録されているワッデン海の一部であるワッデン海国立公園内にあります。1906 年から 1908 年にかけて建設され、1 世紀以上にわたり北海を航行する船舶の安全を見守ってきました。現在は、ドイツ北部沿岸のランドマークの一つとして親しまれています。",
@@ -1426,98 +1532,22 @@
     },
     "captions": {
       "en-US": "Westerheversand Lighthouse, Schleswig-Holstein, Germany",
-      "en-GB": "Westerheversand Lighthouse, Schleswig-Holstein, Germany",
-      "en-CA": "Westerheversand Lighthouse, Schleswig-Holstein, Germany",
-      "fr-FR": "Phare de Westerheversand, Schleswig-Holstein, Allemagne",
-      "it-IT": "",
-      "es-ES": "Faro de Westerheversand, Schleswig-Holstein, Alemania",
-      "ja-JP": "草原の先にたたずむ灯台",
-      "zh-CN": "",
-      "en-IN": "Westerheversand Lighthouse, Schleswig-Holstein, Germany"
+      "en-CA": "Westerheversand Lighthouse, Schleswig-Holstein, Germany"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260903_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=phare+de+Westerheversand+Allemagne&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Faro+di+Westerheversand&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Westerhever+Alemania&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%b4%e3%82%a7%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%98%e3%83%bc%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b6%e3%83%b3%e3%83%88%e7%81%af%e5%8f%b0&form=hpcapt&filters=HpDate%3a%2220260903_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%9f%a6%e6%96%af%e7%89%b9%e9%bb%91%e5%bc%97%e6%a1%91%e5%be%b7%e7%81%af%e5%a1%94&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260903_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.Westerheversand_EN-US3028839945",
-      "en-GB": "/th?id=OHR.Westerheversand_EN-GB5592839708",
-      "en-CA": "/th?id=OHR.Westerheversand_EN-CA7107631944",
-      "fr-FR": "/th?id=OHR.Westerheversand_FR-FR6860967880",
-      "it-IT": "/th?id=OHR.Westerheversand_IT-IT2705992595",
-      "es-ES": "/th?id=OHR.Westerheversand_ES-ES7729851361",
-      "ja-JP": "/th?id=OHR.Westerheversand_JA-JP0136915036",
-      "zh-CN": "/th?id=OHR.Westerheversand_ZH-CN0517707643",
-      "en-IN": "/th?id=OHR.Westerheversand_EN-IN6508979486"
+      "en-CA": "/th?id=OHR.Westerheversand_EN-CA7107631944"
     }
   },
-  "AZWilderness": {
-    "name": "AZWilderness",
-    "urlbase": "/th?id=OHR.AZWilderness_EN-US4070936347",
-    "date": "20260903",
-    "dateFormatted": "September 03, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "An act of wilderness. Coyote Buttes, Vermilion Cliffs National Monument, Arizona",
-      "en-GB": "An act of wilderness. Coyote Buttes, Arizona, United States",
-      "fr-FR": "Une mer de grès. Buttes Coyote, Arizona, États-Unis",
-      "it-IT": "Onde statiche",
-      "es-ES": "La silueta del tiempo. Coyote Buttes, Arizona, EE. UU.",
-      "ja-JP": "今日は米国原生自然法制定の記念日",
-      "zh-CN": "一部守护荒野的法案",
-      "en-IN": "An act of wilderness. Coyote Buttes, Arizona, United States"
-    },
-    "copyrights": {
-      "en-US": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)",
-      "en-GB": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)",
-      "fr-FR": "Buttes Coyote, Monument national des Falaises Vermilion, Arizona, États-Unis (© James Hager/Getty Images)",
-      "it-IT": "Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA (© James Hager/Getty Images)",
-      "es-ES": "Coyote Buttes, Monumento Nacional Vermilion Cliffs, Arizona, EE. UU. (© James Hager/Getty Images)",
-      "ja-JP": "コヨーテ・ビュート, 米国 アリゾナ州 (© James Hager/Getty Images)",
-      "zh-CN": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)",
-      "en-IN": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Waves usually belong to the ocean. In northern Arizona, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
-      "en-GB": "Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
-      "fr-FR": "Dans le nord de l’Arizona (États-Unis), les vagues semblent avoir quitté l’océan pour se figer dans le désert. Aux Buttes Coyote, au sein du Monument national des Falaises Vermilion (« Vermilion Cliffs National Monument »), les couches de grès aux courbes ondulantes témoignent d’une histoire vieille de millions d’années. D’anciennes dunes, sculptées par le vent, la pluie et les écarts de température, ont façonné un décor spectaculaire aux teintes ocre, rouge et or. Même immobile, le paysage semble en mouvement, telle une mer figée sous le soleil.",
-      "es-ES": "Las formaciones de arenisca de Coyote Buttes, dentro del Monumento Nacional de los Acantilados Bermejos de Arizona, Estados Unidos, parecen olas petrificadas: capas de roca multicolor moldeadas hace 190 millones de años, cuando toda la región era un desierto de dunas similar al Sahara actual. La erosión del viento y el agua durante millones de años dio lugar a estas curvas que parecen moverse, aunque estén inmóviles.",
-      "ja-JP": "今日の画像は米国アリゾナ州バーミリオン・クリフ国定公園に位置するコヨーテ・ビュート。砂漠に波が押し寄せたような独特の景観は、風や水が長い年月をかけて砂丘を浸食することで生まれました。こうした原生的な自然を守るため、米国では 1964 年 9 月 3 日に「原生自然法」が制定されました。当初は 54 か所、約 3 万 6,800km² が保護対象でしたが、現在ではその 10 倍を超える面積が指定され、手つかずの森や砂漠など大自然の魅力を未来へ受け継いでいます。",
-      "en-IN": "Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
-      "it-IT": "Di solito le onde appartengono all'oceano. In Arizona settentrionale, invece, nascono dal deserto. Le formazioni di arenaria di Coyote Buttes, nel Monumento Nazionale di Vermilion Cliffs, Stati Uniti, furono modellate da dune antiche e milioni di anni di erosione, creando un paesaggio che sembra ondeggiare pur restando immobile. I colori — rossi e arancioni da ossido di ferro, viola dal manganese, gialli dalla limonite — non sono filtri fotografici, ma reazioni chimiche avvenute nel sottosuolo per millenni.",
-      "zh-CN": "波浪通常属于海洋。但在亚利桑那州北部，它们却从沙漠中涌起。郊狼丘是朱红悬崖国家纪念区的一部分，其盘旋起伏的砂岩地貌由远古沙丘和数百万年的侵蚀共同塑造而成，造就了一片即使静止不动也仿佛泛着涟漪的景观。"
-    },
-    "quickFacts": {
-      "zh-CN": "《荒野法》通常禁止在指定荒野地区修建永久性道路或开展商业活动。"
-    },
-    "captions": {
-      "en-US": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.AZWilderness_EN-US4070936347"
-    }
-  },
-  "Santenay": {
-    "name": "Santenay",
-    "urlbase": "/th?id=OHR.Santenay_EN-GB8477225756",
-    "date": "20260916",
-    "dateFormatted": "September 16, 2026",
+  "WinnatsPassPeak": {
+    "name": "WinnatsPassPeak",
+    "urlbase": "/th?id=OHR.WinnatsPassPeak_EN-GB8850951451",
+    "date": "20260917",
+    "dateFormatted": "September 17, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1540,11 +1570,6 @@
         "flag": "it"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1561,73 +1586,70 @@
       }
     ],
     "titles": {
-      "en-GB": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France",
-      "de-DE": "Ein Hoch auf die Ernte. Weinregion Santenay, Côte de Beaune, Burgund, Frankreich",
-      "fr-FR": "Santé ! Santenay, Côte de Beaune, Bourgogne",
-      "it-IT": "Un brindisi al raccolto",
-      "es-ES": "Un brindis por la cosecha. Región vinícola de Santenay, Costa de Beaune, Borgoña, Francia",
-      "ja-JP": "収穫期を迎えたブドウ畑",
-      "zh-CN": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国",
-      "en-IN": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France",
-      "en-US": "A toast to the harvest. Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France",
-      "pt-BR": "Um brinde à colheita. Moinho de vento de Sorine e vinhedos, região vinícola de Santenay, Côte de Beaune, Borgonha, França"
+      "en-GB": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
+      "de-DE": "Durch das Herz des Passes. Winnats Pass im Peak-District-Nationalpark, England",
+      "fr-FR": "Au cœur du temps. Col de Winnats, Parc national du Peak District, Angleterre",
+      "it-IT": "Attraverso il cuore del passo",
+      "ja-JP": "緑の丘を縫う道",
+      "zh-CN": "温纳茨山口，峰区国家公园，英格兰",
+      "en-IN": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
+      "en-US": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
+      "en-CA": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
+      "pt-BR": "Um capítulo aberto da Terra. Winnats Pass, Parque Nacional Peak District, Inglaterra"
     },
     "copyrights": {
-      "en-GB": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
-      "de-DE": "Windmühle von Sorine und Weinberge in der Weinregion Santenay, Côte de Beaune, Burgund, Frankreich (© Marco Bottigelli/Getty Images)",
-      "fr-FR": "Le moulin à vent et les vignobles de Sorine, Santenay, Côte de Beaune, Bourgogne (© Marco Bottigelli/Getty Images)",
-      "it-IT": "Mulino a vento e vigneti di Sorine, regione vinicola di Santenay, Côte de Beaune, Borgogna, Francia (© Marco Bottigelli/Getty Images)",
-      "es-ES": "Molino de viento y viñedos de Sorine, región vinícola de Santenay, Costa de Beaune, Borgoña, Francia (© Marco Bottigelli/Getty Images)",
-      "ja-JP": "サントネー, フランス (© Marco Bottigelli/Getty Images)",
-      "zh-CN": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)",
-      "en-IN": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
-      "en-US": "© Marco Bottigelli/Getty Images",
-      "pt-BR": "© Marco Bottigelli/Getty Images"
+      "en-GB": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
+      "de-DE": "Winnats Pass im Peak-District-Nationalpark, England (© Daniel_Kay/Getty Images)",
+      "fr-FR": "Col de Winnats, Parc national du Peak District, Angleterre (© Daniel_Kay/Getty Images)",
+      "it-IT": "Winnats Pass, Parco Nazionale del Peak District, Inghilterra (© Daniel_Kay/Getty Images)",
+      "ja-JP": "ウィナッツ・パス, イングランド (© Daniel_Kay/Getty Images)",
+      "zh-CN": "温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)",
+      "en-IN": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
+      "en-US": "© Daniel_Kay/Getty Images",
+      "en-CA": "© Daniel_Kay/Getty Images",
+      "pt-BR": "© Daniel_Kay/Getty Images"
     },
     "descs": {
-      "en-GB": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
-      "de-DE": "Zwischen den sanften Hügeln der Côte de Beaune in Frankreich erhebt sich die Windmühle von Sorine über den Weinbergen der Weinregion Santenay. Die Landschaft im Süden Burgunds wird von sorgfältig gepflegten Rebreihen geprägt, die sich über die Hänge erstrecken und je nach Jahreszeit in unterschiedlichen Farben leuchten. Von hier aus öffnen sich weite Blicke über eine Kulturlandschaft, die seit Jahrhunderten eng mit dem Weinbau verbunden ist.",
-      "fr-FR": "À la fin de l’été et au début de l’automne, les vendanges réveillent les paysages viticoles français. La date de récolte varie selon les régions, l’ensoleillement et la maturité des raisins. Dans de nombreux domaines, la cueillette reste manuelle : chaque grappe est sélectionnée avec soin pour préserver la qualité des futurs crus.",
-      "es-ES": "El molino de Sorine vigila los viñedos de Santenay, en el extremo sur de la Costa de Beaune, en Borgoña (Francia). Se construyó a principios del siglo XIX y se restauró en 1995, y es el único molino de viento de la zona que todavía funciona: una vez al año vuelve a girar durante una fiesta local.",
-      "ja-JP": "「ヴァンダンジュ」とはフランス語で「収穫」を意味し、毎年夏の終わりから秋にかけて行われる「ブドウの収穫」を指します。地域や天候、ブドウの熟し具合によって微妙に時期は異なるものの、多くの畑では今も人の手で丁寧に収穫が行われています。そして、今日の画像は、ブルゴーニュ地方サントネーで、色づいたブドウ畑の先に佇む「ソリーヌの風車」。19世紀から残るこの風車は、豊かなワイン産地の景観を象徴する存在であり、ブドウの栽培・収穫、そしてワイン作りの歴史を見守り続けています。",
-      "en-IN": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
-      "en-US": "Each year, late summer and early fall bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure, and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
-      "it-IT": "Il mulino di Sorine veglia sui vigneti di Santenay, all'estremità meridionale della Côte de Beaune, in Borgogna (Francia). Costruito all'inizio dell'Ottocento e restaurato nel 1995, è l'unico mulino a vento della zona ancora funzionante: una volta all'anno torna a girare durante una festa di paese.",
-      "pt-BR": "Muito antes de alguém erguer uma taça de vinho francês, alguém plantou e cuidou das videiras. Depois vieram sol, chuva e meses de espera. Hoje estamos em Santenay, na Borgonha, com o moinho de Sorine, construído no século XIX, ao fundo. Temperatura, insolação e maturação das uvas ajudam a decidir quando cada vinhedo está pronto.",
-      "zh-CN": "每年夏末秋初，法国最令人期待的传统之一——“vendanges”葡萄采摘季——如期而至。采摘时间因葡萄酒产区而异，并取决于天气状况、日照以及果实的成熟度。对许多葡萄园而言，采收仍主要依靠人工，工作人员会仔细挑选一串串葡萄，用于酿造法国一些最负盛名的葡萄酒。"
+      "en-GB": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "de-DE": "Im Peak-District-Nationalpark in England schlängelt sich die Straße durch den Winnats Pass, eine eindrucksvolle Kalksteinschlucht nahe dem Dorf Castleton. Steile Felswände ragen zu beiden Seiten empor und prägen eine Landschaft, die über Millionen von Jahren durch natürliche Prozesse geformt wurde. Wer den Pass durchquert, fährt mitten durch eine Kulisse, die von der langen geologischen Geschichte der Region erzählt. Besonders eindrucksvoll wirkt der Ort bei wechselhaftem Wetter, wenn Licht und Schatten über die hellen Felsen wandern.",
+      "fr-FR": "Au cœur du Peak District, premier parc national créé au Royaume-Uni, une route sinueuse traverse un paysage façonné il y a plus de 300 millions d’années. À Winnats Pass, les falaises calcaires s’élèvent de part et d’autre de la chaussée, dévoilant les vestiges d’anciennes mers tropicales qui recouvraient autrefois cette partie de l’Angleterre. Le silence des parois rocheuses contraste avec le vent qui s’engouffre dans la gorge et souligne la puissance du temps géologique.",
+      "ja-JP": "緑の丘を縫う道. ウィナッツ・パス, イングランド. ここはイギリスで最初の国立公園であるピーク・ディストリクト国立公園。そして、この石灰岩の断崖に囲まれた曲がりくねった峠道は、ウィナッツ・パス。その周辺には、緑豊かな谷や広々とした丘陵が続き、ハイキングを楽しむことができます。また、地下には洞窟が広がり、旧鉛鉱山の跡も残されているほか、キャッスルトンやベイクウェルといった趣ある町を訪れることもできます。",
+      "en-IN": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "en-US": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "en-CA": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "it-IT": "La strada che serpeggia nell'immagine attraversa il Winnats Pass, una gola calcarea del Parco Nazionale del Peak District (Inghilterra) scavata in rocce di oltre 300 milioni di anni. Quelle pareti si sono formate sul fondo di un mare tropicale e oggi stringono il passaggio fino a trasformarlo in un imbuto di pietra ed erba, con pendenze che mettono alla prova freni e polmoni.",
+      "pt-BR": "O asfalto que atravessa o Winnats Pass, no Peak District, é só a camada mais recente de uma história muito mais antiga. Há mais de 300 milhões de anos, este trecho do norte da Inglaterra fazia parte de um ambiente marinho tropical. Sedimentos acumulados no fundo do oceano deram origem ao calcário que hoje forma os paredões do desfiladeiro.",
+      "zh-CN": "在英格兰峰区，一条蜿蜒的长路从已有3亿多年历史的岩石间穿过。如此漫长的地质时间尺度本就令人惊叹，而这条路还穿越了温纳茨山口：这是一道狭窄的石灰岩峡谷，高耸的峭壁展现出远古海洋曾经覆盖英国这一地区的痕迹。"
     },
     "quickFacts": {
-      "zh-CN": "索林风车是伯恩丘现存最后一座仍可运转的公共风车；这座19世纪风车于1995年得到忠实修复。"
+      "zh-CN": "温纳茨山口是峰区国家公园内一处壮观的石灰岩峡谷，位于卡斯尔顿附近，两侧峭壁陡峻嶙峋。"
     },
     "captions": {
-      "en-GB": "Santenay wine region, Côte de Beaune, Burgundy, France",
-      "de-DE": "Weinregion Santenay, Côte de Beaune, Burgund, Frankreich",
-      "fr-FR": "Santenay, Côte de Beaune, Bourgogne",
+      "en-GB": "Winnats Pass, Peak District National Park, England",
+      "de-DE": "Winnats Pass im Peak-District-Nationalpark, England",
+      "fr-FR": "Col de Winnats, Parc national du Peak District, Angleterre",
       "it-IT": "",
-      "es-ES": "Región vinícola de Santenay, Costa de Beaune, Borgoña, Francia",
-      "ja-JP": "収穫期を迎えたブドウ畑",
+      "ja-JP": "緑の丘を縫う道",
       "zh-CN": "",
-      "en-IN": "Santenay wine region, Côte de Beaune, Burgundy, France"
+      "en-IN": "Winnats Pass, Peak District National Park, England"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260916_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Santenay+Weinregion&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Santenay+Bourgogne&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
-      "it-IT": "https://www.bing.com/search?q=C%c3%b4te+de+Beaune&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Regi%c3%b3n+vin%c3%adcola+de+Santenay&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%83%88%e3%83%8d%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260916_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%a1%91%e7%89%b9%e5%a5%88%e8%91%a1%e8%90%84%e9%85%92%e4%ba%a7%e5%8c%ba&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260916_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260917_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Peak-District-Nationalpark+England&form=hpcapt&filters=HpDate%3a%2220260917_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=parc+national+de+Peak+District&form=hpcapt&filters=HpDate%3a%2220260917_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Peak+District&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a6%e3%82%a3%e3%83%8a%e3%83%83%e3%83%84%e3%83%bb%e3%83%91%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220260917_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b3%b0%e5%8c%ba%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260917_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.Santenay_EN-GB8477225756",
-      "de-DE": "/th?id=OHR.Santenay_DE-DE7807006506",
-      "fr-FR": "/th?id=OHR.Santenay_FR-FR5987836668",
-      "it-IT": "/th?id=OHR.Santenay_IT-IT4764829953",
-      "es-ES": "/th?id=OHR.Santenay_ES-ES0534993805",
-      "ja-JP": "/th?id=OHR.Santenay_JA-JP6491231112",
-      "zh-CN": "/th?id=OHR.Santenay_ZH-CN5676942384",
-      "en-IN": "/th?id=OHR.Santenay_EN-IN8437955164"
+      "en-GB": "/th?id=OHR.WinnatsPassPeak_EN-GB8850951451",
+      "de-DE": "/th?id=OHR.WinnatsPassPeak_DE-DE1067601127",
+      "fr-FR": "/th?id=OHR.WinnatsPassPeak_FR-FR7611183995",
+      "it-IT": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458",
+      "ja-JP": "/th?id=OHR.WinnatsPassPeak_JA-JP5840257609",
+      "zh-CN": "/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412",
+      "en-IN": "/th?id=OHR.WinnatsPassPeak_EN-IN7644884043"
     }
   },
   "RedMacawsFlight": {
@@ -1832,7 +1854,7 @@
       "fr-FR": "Là où la Méditerranée est reine. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur",
       "es-ES": "Donde huele a mar y flores. Bahía de Villefranche-sur-Mer, Provenza-Alpes-Costa Azul, Francia",
       "pt-BR": "Um jardim com vista para o mar",
-      "zh-CN": "滨海自由城，法国里维埃拉，法国",
+      "zh-CN": "地中海风情尽显",
       "en-IN": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France"
     },
     "copyrights": {
@@ -2054,102 +2076,6 @@
       "en-CA": "/th?id=OHR.TIFFRoy_EN-CA6717935809"
     }
   },
-  "JulierPass": {
-    "name": "JulierPass",
-    "urlbase": "/th?id=OHR.JulierPass_EN-CA1672226611",
-    "date": "20260903",
-    "dateFormatted": "September 03, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "en-US": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "pt-BR": "A estrada que conquista montanhas",
-      "en-GB": "The climb is calling. Winding road of Julier Pass, Switzerland",
-      "de-DE": "Auf in die Berge! Serpentinenstraße am Julierpass, Schweiz",
-      "fr-FR": "Accrochez-vous ! Route sinueuse du col du Julier, Suisse",
-      "it-IT": "Paesaggi garantiti",
-      "es-ES": "Tomando la curva perfecta. Paso de Julier, región de Grisones, Suiza",
-      "ja-JP": "アルブラアルプスを縫う山岳道路",
-      "zh-CN": "攀登在召唤",
-      "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland"
-    },
-    "copyrights": {
-      "en-CA": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
-      "en-US": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
-      "pt-BR": "Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)",
-      "en-GB": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
-      "de-DE": "Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)",
-      "fr-FR": "Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)",
-      "it-IT": "Passo del Giulio, Svizzera (© Westend61/Getty Images)",
-      "es-ES": "Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)",
-      "ja-JP": "ユリア峠, スイス (© Westend61/Getty Images)",
-      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
-      "en-IN": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 2,284 metres and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travellers, merchants and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
-      "en-US": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 7,493 feet and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travelers, merchants, and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
-      "en-GB": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has connected Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its heights. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
-      "de-DE": "Der Julierpass zählt zu den eindrucksvollsten Alpenübergängen der Schweiz. Die Passhöhe liegt auf 2284 Metern und verbindet seit fast 2000 Jahren verschiedene Täler miteinander. Bereits zur Römerzeit führte hier ein wichtiger Weg durch die Berge. Archäologische Funde nahe dem höchsten Punkt des Passes deuten darauf hin, dass Reisende diesen Ort nicht nur als Übergang, sondern auch als Rastplatz nutzten. Münzen und zwei römische Specksteinsäulen erinnern noch heute an diese lange Geschichte.",
-      "fr-FR": "À 2 284 mètres d’altitude, le col du Julier traverse le cœur des Alpes suisses comme un trait d’union entre vallées et époques. Depuis près de deux millénaires, voyageurs, marchands et messagers l’ont franchi malgré ses pentes escarpées, bien avant l’arrivée des routes modernes. Près du sommet, des découvertes archéologiques, notamment de nombreuses pièces de monnaie ainsi que deux colonnes en stéatite d’origine romaine, suggèrent l’existence d’un lieu de halte, voire de recueillement. Aujourd’hui encore, les prairies alpines, les mélèzes et les sommets rocheux composent un décor saisissant où le temps semble ralentir.",
-      "es-ES": "El Paso de Julier, en Suiza, es una de esas carreteras que se convierten en destino por sí solas. A más de 2.200 metros de altitud, este paso alpino conecta valles a través de una ruta transitada durante casi dos milenios: romanos, mercaderes y mensajeros ya lo cruzaban sin asfalto ni barreras de protección. Cerca de la cima, los arqueólogos han hallado monedas y dos columnas de esteatita que apuntan a la existencia de un santuario donde los viajeros buscaban amparo.",
-      "ja-JP": "今日の画像は、スイスのアルブラアルプス山脈にあるユリア峠。標高 2,284m のこの峠は、ローマ時代からアルプスの谷を結ぶ交通の要衝として利用されてきました。道路の建設は 1820 年代で、1935 年から 1940 年にかけてアスファルト舗装が行われ、スイス・アルプスで初めてアスファルト舗装された道路となりました。現在も重要な山岳道路として利用されており、アルプスの雄大な景色を眺めながらドライブを楽しむことができます。",
-      "en-IN": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has linked Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its summit. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
-      "it-IT": "Il Passo del Giulio, in Svizzera, è una di quelle strade di montagna che diventano esse stesse una destinazione. A oltre 2.200 metri di quota, collega le valli alpine lungo un percorso frequentato da quasi duemila anni: prima di guardrail e asfalto, romani, mercanti e messaggeri lo attraversavano a piedi. Vicino alla cima, gli archeologi hanno rinvenuto monete antiche e due colonne di steatite di epoca romana, indizi di un luogo di sosta o santuario lungo la salita.",
-      "pt-BR": "Algumas estradas fazem tanta questão de aparecer quanto o lugar para onde levam. A imagem mostra o Passo de Julier, nos Alpes da Suíça, a cerca de 2.284 metros de altitude, ligando vales alpinos por um caminho usado há quase dois milênios. Muito antes do asfalto, romanos, mercadores e mensageiros já cruzavam essa montanha. Perto do ponto mais alto, arqueólogos encontraram moedas e colunas de pedra-sabão que sugerem um antigo santuário ou ponto de descanso para quem encarava a travessia.",
-      "zh-CN": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。"
-    },
-    "quickFacts": {
-      "zh-CN": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。"
-    },
-    "captions": {
-      "en-CA": "Winding road of Julier Pass, Switzerland"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260903_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.JulierPass_EN-CA1672226611"
-    }
-  },
-  "HorizontHerten": {
-    "name": "HorizontHerten",
-    "urlbase": "/th?id=OHR.HorizontHerten_DE-DE6847367698",
-    "date": "20260903",
-    "dateFormatted": "September 03, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Bögen zum Horizont. Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen"
-    },
-    "copyrights": {
-      "de-DE": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Hoch über dem Ruhrgebiet erhebt sich auf der Halde Hoheward das Horizontobservatorium, eines der ungewöhnlichsten Wahrzeichen des Strukturwandels in Nordrhein-Westfalen. Die gewaltigen Stahlbögen, die das Gipfelplateau überspannen, wirken wie ein modernes Kunstwerk unter freiem Himmel. Tatsächlich dient die Anlage jedoch nicht nur als Blickfang: Sie wurde als astronomisches Bauwerk entworfen, das die Bewegungen der Sonne und die Wechsel der Jahreszeiten veranschaulicht und Besucher ins Staunen versetzt."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Horizontobservatorium+Halde+Hoheward&form=hpcapt&filters=HpDate%3a%2220260903_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.HorizontHerten_DE-DE6847367698"
-    }
-  },
   "LillePlace": {
     "name": "LillePlace",
     "urlbase": "/th?id=OHR.LillePlace_FR-FR3992764620",
@@ -2246,6 +2172,38 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394"
+    }
+  },
+  "SanSebastian": {
+    "name": "SanSebastian",
+    "urlbase": "/th?id=OHR.SanSebastian_ES-ES7080505846",
+    "date": "20260917",
+    "dateFormatted": "September 17, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Una costa de película. Festival Internacional de Cine de San Sebastián"
+    },
+    "copyrights": {
+      "es-ES": "San Sebastián, Guipúzcoa, País Vasco, España (© Tichr/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Hoy arranca en San Sebastián (Guipúzcoa, País Vasco, España) la 74.ª edición de su Festival Internacional de Cine: nueve días en los que la ciudad cambia el ritmo de las olas por el de las alfombras rojas."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Festival Internacional de Cine de San Sebastián"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Festival+Internacional+de+Cine+de+San+Sebasti%c3%a1n&form=hpcapt&filters=HpDate%3a%2220260917_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.SanSebastian_ES-ES7080505846"
     }
   },
   "LaVueltaEnd": {
@@ -2376,70 +2334,6 @@
       "pt-BR": "/th?id=OHR.IndependenceBR_PT-BR8326749510"
     }
   },
-  "CommonBlue": {
-    "name": "CommonBlue",
-    "urlbase": "/th?id=OHR.CommonBlue_PT-BR1879697147",
-    "date": "20260903",
-    "dateFormatted": "September 03, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Nem tudo são flores",
-      "en-US": "Sky tinted wings. Common blue butterfly",
-      "en-CA": "Sky tinted wings. Common blue butterfly",
-      "en-GB": "Sky tinted wings. Common blue butterfly",
-      "de-DE": "Himmelblaue Flügel. Hauhechel-Bläuling, Devon, England",
-      "fr-FR": "De délicates ailes azur. Argus bleu",
-      "ja-JP": "花と蝶の紫色のハーモニー",
-      "zh-CN": "天蓝色的翅膀",
-      "en-IN": "Sky tinted wings. Common blue butterfly"
-    },
-    "copyrights": {
-      "pt-BR": "Borboleta-azul-comum, Devon, Inglaterra (© Ross Hoddinott/Nature Picture Library)",
-      "en-US": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
-      "en-CA": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
-      "en-GB": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
-      "de-DE": "Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)",
-      "fr-FR": "Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)",
-      "ja-JP": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)",
-      "zh-CN": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
-      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)"
-    },
-    "descs": {
-      "en-US": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa, and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the cocooned caterpillar from predators.",
-      "en-CA": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the caterpillar from predators.",
-      "en-GB": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
-      "de-DE": "Der Hauhechel-Bläuling gehört zu den bekanntesten Tagfaltern Europas. In Devon im Südwesten Englands ist er regelmäßig auf blütenreichen Wiesen, an Küstenhängen und entlang ruhiger Landwege zu beobachten. Besonders an sonnigen Tagen flattert er zwischen Wildblumen umher und zeigt dabei seine leuchtend blaue Flügelfärbung. Die Art bevorzugt offene Lebensräume mit einem reichen Angebot an Nektarpflanzen und trägt zur Vielfalt dieser Landschaften bei. Wegen seiner auffälligen Erscheinung ist der kleine Falter bei Naturfreunden und Fotografen gleichermaßen beliebt.",
-      "fr-FR": "Un éclair bleu traverse une prairie en fleurs, puis disparaît presque aussitôt. Derrière cette apparition fugace se cache pourtant un cycle de vie remarquable. Répandu dans une grande partie de l’Europe, en Afrique du Nord et dans certaines régions d’Asie, l’Argus bleu, aussi appelé Azuré commun (Polyommatus icarus), commence son cycle sous la forme d’un minuscule œuf déposé sur des plantes nourricières comme le lotier corniculé. Après l’éclosion, la chenille se nourrit de feuilles, grandissant à l’abri des regards dans un paysage animé d’insectes et de floraisons.",
-      "ja-JP": "今日の画像は、シジミチョウ科の一種であるイカルスヒメシジミ。ヨーロッパや北アフリカ、温帯アジアに広く分布する蝶です。この科の多くは、何らかの形でアリと共生関係にあることで知られており、イカルスヒメシジミの場合は、幼虫期にアリの餌となる甘い分泌物を出すことでアリに天敵から守ってもらうという関係を築いています。また、その他の特徴として、成虫のオスは鮮やかな青色の翅を持つ一方、メスは褐色を帯びた落ち着いた色合いをしており、オスとメスで見た目がはっきりと異なるという特徴があります。",
-      "en-IN": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
-      "zh-CN": "田野中那一抹迅速掠过的蓝色背后，有一个开始得早得多的故事，故事的主角是一只小小的毛毛虫和一种令人惊讶的生存妙招。普通蓝灰蝶分布于欧洲、北非和亚洲部分地区，成虫以花蜜为食。它的生命始于一枚小小的卵，雌蝶通常会将卵产在百脉根等寄主植物上。真正令人惊讶的是它的毛毛虫阶段，此时蚂蚁会在其生存过程中扮演一个出人意料的角色。孵化后，毛毛虫会啃食叶片，然后进入蜕变的下一个阶段。在这一过程中，它会分泌一种名为蜜露的含糖物质，供蚂蚁取食。作为回报，蚂蚁可能会保护结茧的毛毛虫免受捕食者侵害。",
-      "pt-BR": "De comum, ela tem só o nome. A borboleta-azul-comum começa a vida em uma planta, passa por uma aliança improvável com formigas e termina com um par de asas azuis. A espécie, que não ocorre naturalmente no Brasil, é encontrada em grande parte da Europa, no norte da África e em partes da Ásia. Suas lagartas costumam se alimentar de plantas como o cornichão."
-    },
-    "quickFacts": {
-      "en-US": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favorable patches of flowers.",
-      "en-GB": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
-      "en-CA": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
-      "de-DE": "Trotz ihres zarten Aussehens vertreiben männliche Hauhechel-Bläulinge aktiv rivalisierende Männchen und manchmal sogar größere Insekten von ihren bevorzugten Blütenplätzen.",
-      "fr-FR": "Malgré leur apparence fragile, les argus bleus mâles chassent activement leurs rivaux — et parfois même des insectes plus grands — des zones fleuries les plus prisées.",
-      "zh-CN": "尽管外表纤弱，雄性普通蓝灰蝶仍会主动将竞争的雄蝶——有时甚至是体型更大的昆虫——逐出花朵繁茂的有利地盘。",
-      "en-IN": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers."
-    },
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=borboleta+azul+comum&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.CommonBlue_PT-BR1879697147"
-    }
-  },
   "Cosmos2026": {
     "name": "Cosmos2026",
     "urlbase": "/th?id=OHR.Cosmos2026_JA-JP5810317842",
@@ -2538,6 +2432,221 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.PuranaQila2026_EN-IN6620233403"
+    }
+  },
+  "AZWilderness": {
+    "name": "AZWilderness",
+    "urlbase": "/th?id=OHR.AZWilderness_EN-US4070936347",
+    "date": "20260903",
+    "dateFormatted": "September 03, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "An act of wilderness. Coyote Buttes, Vermilion Cliffs National Monument, Arizona",
+      "en-GB": "An act of wilderness. Coyote Buttes, Arizona, United States",
+      "fr-FR": "Une mer de grès. Buttes Coyote, Arizona, États-Unis",
+      "it-IT": "Onde statiche",
+      "es-ES": "La silueta del tiempo. Coyote Buttes, Arizona, EE. UU.",
+      "ja-JP": "今日は米国原生自然法制定の記念日",
+      "zh-CN": "一部守护荒野的法案",
+      "en-IN": "An act of wilderness. Coyote Buttes, Arizona, United States"
+    },
+    "copyrights": {
+      "en-US": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)",
+      "en-GB": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)",
+      "fr-FR": "Buttes Coyote, Monument national des Falaises Vermilion, Arizona, États-Unis (© James Hager/Getty Images)",
+      "it-IT": "Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA (© James Hager/Getty Images)",
+      "es-ES": "Coyote Buttes, Monumento Nacional Vermilion Cliffs, Arizona, EE. UU. (© James Hager/Getty Images)",
+      "ja-JP": "コヨーテ・ビュート, 米国 アリゾナ州 (© James Hager/Getty Images)",
+      "zh-CN": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)",
+      "en-IN": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Waves usually belong to the ocean. In northern Arizona, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
+      "en-GB": "Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
+      "fr-FR": "Dans le nord de l’Arizona (États-Unis), les vagues semblent avoir quitté l’océan pour se figer dans le désert. Aux Buttes Coyote, au sein du Monument national des Falaises Vermilion (« Vermilion Cliffs National Monument »), les couches de grès aux courbes ondulantes témoignent d’une histoire vieille de millions d’années. D’anciennes dunes, sculptées par le vent, la pluie et les écarts de température, ont façonné un décor spectaculaire aux teintes ocre, rouge et or. Même immobile, le paysage semble en mouvement, telle une mer figée sous le soleil.",
+      "es-ES": "Las formaciones de arenisca de Coyote Buttes, dentro del Monumento Nacional de los Acantilados Bermejos de Arizona, Estados Unidos, parecen olas petrificadas: capas de roca multicolor moldeadas hace 190 millones de años, cuando toda la región era un desierto de dunas similar al Sahara actual. La erosión del viento y el agua durante millones de años dio lugar a estas curvas que parecen moverse, aunque estén inmóviles.",
+      "ja-JP": "今日の画像は米国アリゾナ州バーミリオン・クリフ国定公園に位置するコヨーテ・ビュート。砂漠に波が押し寄せたような独特の景観は、風や水が長い年月をかけて砂丘を浸食することで生まれました。こうした原生的な自然を守るため、米国では 1964 年 9 月 3 日に「原生自然法」が制定されました。当初は 54 か所、約 3 万 6,800km² が保護対象でしたが、現在ではその 10 倍を超える面積が指定され、手つかずの森や砂漠など大自然の魅力を未来へ受け継いでいます。",
+      "en-IN": "Waves usually belong to the ocean. In northern Arizona, United States, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
+      "it-IT": "Di solito le onde appartengono all'oceano. In Arizona settentrionale, invece, nascono dal deserto. Le formazioni di arenaria di Coyote Buttes, nel Monumento Nazionale di Vermilion Cliffs, Stati Uniti, furono modellate da dune antiche e milioni di anni di erosione, creando un paesaggio che sembra ondeggiare pur restando immobile. I colori — rossi e arancioni da ossido di ferro, viola dal manganese, gialli dalla limonite — non sono filtri fotografici, ma reazioni chimiche avvenute nel sottosuolo per millenni.",
+      "zh-CN": "波浪通常属于海洋。但在亚利桑那州北部，它们却从沙漠中涌起。郊狼丘是朱红悬崖国家纪念区的一部分，其盘旋起伏的砂岩地貌由远古沙丘和数百万年的侵蚀共同塑造而成，造就了一片即使静止不动也仿佛泛着涟漪的景观。"
+    },
+    "quickFacts": {
+      "zh-CN": "《荒野法》通常禁止在指定荒野地区修建永久性道路或开展商业活动。"
+    },
+    "captions": {
+      "en-US": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AZWilderness_EN-US4070936347"
+    }
+  },
+  "JulierPass": {
+    "name": "JulierPass",
+    "urlbase": "/th?id=OHR.JulierPass_EN-CA1672226611",
+    "date": "20260903",
+    "dateFormatted": "September 03, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "en-US": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "pt-BR": "A estrada que conquista montanhas",
+      "en-GB": "The climb is calling. Winding road of Julier Pass, Switzerland",
+      "de-DE": "Auf in die Berge! Serpentinenstraße am Julierpass, Schweiz",
+      "fr-FR": "Accrochez-vous ! Route sinueuse du col du Julier, Suisse",
+      "it-IT": "Paesaggi garantiti",
+      "es-ES": "Tomando la curva perfecta. Paso de Julier, región de Grisones, Suiza",
+      "ja-JP": "アルブラアルプスを縫う山岳道路",
+      "zh-CN": "攀登在召唤",
+      "en-IN": "The climb is calling. Winding road of Julier Pass, Switzerland"
+    },
+    "copyrights": {
+      "en-CA": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "en-US": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "pt-BR": "Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)",
+      "en-GB": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+      "de-DE": "Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)",
+      "fr-FR": "Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)",
+      "it-IT": "Passo del Giulio, Svizzera (© Westend61/Getty Images)",
+      "es-ES": "Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)",
+      "ja-JP": "ユリア峠, スイス (© Westend61/Getty Images)",
+      "zh-CN": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
+      "en-IN": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 2,284 metres and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travellers, merchants and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
+      "en-US": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 7,493 feet and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travelers, merchants, and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
+      "en-GB": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has connected Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its heights. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
+      "de-DE": "Der Julierpass zählt zu den eindrucksvollsten Alpenübergängen der Schweiz. Die Passhöhe liegt auf 2284 Metern und verbindet seit fast 2000 Jahren verschiedene Täler miteinander. Bereits zur Römerzeit führte hier ein wichtiger Weg durch die Berge. Archäologische Funde nahe dem höchsten Punkt des Passes deuten darauf hin, dass Reisende diesen Ort nicht nur als Übergang, sondern auch als Rastplatz nutzten. Münzen und zwei römische Specksteinsäulen erinnern noch heute an diese lange Geschichte.",
+      "fr-FR": "À 2 284 mètres d’altitude, le col du Julier traverse le cœur des Alpes suisses comme un trait d’union entre vallées et époques. Depuis près de deux millénaires, voyageurs, marchands et messagers l’ont franchi malgré ses pentes escarpées, bien avant l’arrivée des routes modernes. Près du sommet, des découvertes archéologiques, notamment de nombreuses pièces de monnaie ainsi que deux colonnes en stéatite d’origine romaine, suggèrent l’existence d’un lieu de halte, voire de recueillement. Aujourd’hui encore, les prairies alpines, les mélèzes et les sommets rocheux composent un décor saisissant où le temps semble ralentir.",
+      "es-ES": "El Paso de Julier, en Suiza, es una de esas carreteras que se convierten en destino por sí solas. A más de 2.200 metros de altitud, este paso alpino conecta valles a través de una ruta transitada durante casi dos milenios: romanos, mercaderes y mensajeros ya lo cruzaban sin asfalto ni barreras de protección. Cerca de la cima, los arqueólogos han hallado monedas y dos columnas de esteatita que apuntan a la existencia de un santuario donde los viajeros buscaban amparo.",
+      "ja-JP": "今日の画像は、スイスのアルブラアルプス山脈にあるユリア峠。標高 2,284m のこの峠は、ローマ時代からアルプスの谷を結ぶ交通の要衝として利用されてきました。道路の建設は 1820 年代で、1935 年から 1940 年にかけてアスファルト舗装が行われ、スイス・アルプスで初めてアスファルト舗装された道路となりました。現在も重要な山岳道路として利用されており、アルプスの雄大な景色を眺めながらドライブを楽しむことができます。",
+      "en-IN": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has linked Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its summit. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
+      "it-IT": "Il Passo del Giulio, in Svizzera, è una di quelle strade di montagna che diventano esse stesse una destinazione. A oltre 2.200 metri di quota, collega le valli alpine lungo un percorso frequentato da quasi duemila anni: prima di guardrail e asfalto, romani, mercanti e messaggeri lo attraversavano a piedi. Vicino alla cima, gli archeologi hanno rinvenuto monete antiche e due colonne di steatite di epoca romana, indizi di un luogo di sosta o santuario lungo la salita.",
+      "pt-BR": "Algumas estradas fazem tanta questão de aparecer quanto o lugar para onde levam. A imagem mostra o Passo de Julier, nos Alpes da Suíça, a cerca de 2.284 metros de altitude, ligando vales alpinos por um caminho usado há quase dois milênios. Muito antes do asfalto, romanos, mercadores e mensageiros já cruzavam essa montanha. Perto do ponto mais alto, arqueólogos encontraram moedas e colunas de pedra-sabão que sugerem um antigo santuário ou ponto de descanso para quem encarava a travessia.",
+      "zh-CN": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。"
+    },
+    "quickFacts": {
+      "zh-CN": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。"
+    },
+    "captions": {
+      "en-CA": "Winding road of Julier Pass, Switzerland"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260903_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.JulierPass_EN-CA1672226611"
+    }
+  },
+  "HorizontHerten": {
+    "name": "HorizontHerten",
+    "urlbase": "/th?id=OHR.HorizontHerten_DE-DE6847367698",
+    "date": "20260903",
+    "dateFormatted": "September 03, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Bögen zum Horizont. Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen"
+    },
+    "copyrights": {
+      "de-DE": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Hoch über dem Ruhrgebiet erhebt sich auf der Halde Hoheward das Horizontobservatorium, eines der ungewöhnlichsten Wahrzeichen des Strukturwandels in Nordrhein-Westfalen. Die gewaltigen Stahlbögen, die das Gipfelplateau überspannen, wirken wie ein modernes Kunstwerk unter freiem Himmel. Tatsächlich dient die Anlage jedoch nicht nur als Blickfang: Sie wurde als astronomisches Bauwerk entworfen, das die Bewegungen der Sonne und die Wechsel der Jahreszeiten veranschaulicht und Besucher ins Staunen versetzt."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Horizontobservatorium+Halde+Hoheward&form=hpcapt&filters=HpDate%3a%2220260903_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.HorizontHerten_DE-DE6847367698"
+    }
+  },
+  "CommonBlue": {
+    "name": "CommonBlue",
+    "urlbase": "/th?id=OHR.CommonBlue_PT-BR1879697147",
+    "date": "20260903",
+    "dateFormatted": "September 03, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Nem tudo são flores",
+      "en-US": "Sky tinted wings. Common blue butterfly",
+      "en-CA": "Sky tinted wings. Common blue butterfly",
+      "en-GB": "Sky tinted wings. Common blue butterfly",
+      "de-DE": "Himmelblaue Flügel. Hauhechel-Bläuling, Devon, England",
+      "fr-FR": "De délicates ailes azur. Argus bleu",
+      "ja-JP": "花と蝶の紫色のハーモニー",
+      "zh-CN": "天蓝色的翅膀",
+      "en-IN": "Sky tinted wings. Common blue butterfly"
+    },
+    "copyrights": {
+      "pt-BR": "Borboleta-azul-comum, Devon, Inglaterra (© Ross Hoddinott/Nature Picture Library)",
+      "en-US": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "en-CA": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "en-GB": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "de-DE": "Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+      "fr-FR": "Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)",
+      "ja-JP": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)",
+      "zh-CN": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
+      "en-IN": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa, and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the cocooned caterpillar from predators.",
+      "en-CA": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the caterpillar from predators.",
+      "en-GB": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
+      "de-DE": "Der Hauhechel-Bläuling gehört zu den bekanntesten Tagfaltern Europas. In Devon im Südwesten Englands ist er regelmäßig auf blütenreichen Wiesen, an Küstenhängen und entlang ruhiger Landwege zu beobachten. Besonders an sonnigen Tagen flattert er zwischen Wildblumen umher und zeigt dabei seine leuchtend blaue Flügelfärbung. Die Art bevorzugt offene Lebensräume mit einem reichen Angebot an Nektarpflanzen und trägt zur Vielfalt dieser Landschaften bei. Wegen seiner auffälligen Erscheinung ist der kleine Falter bei Naturfreunden und Fotografen gleichermaßen beliebt.",
+      "fr-FR": "Un éclair bleu traverse une prairie en fleurs, puis disparaît presque aussitôt. Derrière cette apparition fugace se cache pourtant un cycle de vie remarquable. Répandu dans une grande partie de l’Europe, en Afrique du Nord et dans certaines régions d’Asie, l’Argus bleu, aussi appelé Azuré commun (Polyommatus icarus), commence son cycle sous la forme d’un minuscule œuf déposé sur des plantes nourricières comme le lotier corniculé. Après l’éclosion, la chenille se nourrit de feuilles, grandissant à l’abri des regards dans un paysage animé d’insectes et de floraisons.",
+      "ja-JP": "今日の画像は、シジミチョウ科の一種であるイカルスヒメシジミ。ヨーロッパや北アフリカ、温帯アジアに広く分布する蝶です。この科の多くは、何らかの形でアリと共生関係にあることで知られており、イカルスヒメシジミの場合は、幼虫期にアリの餌となる甘い分泌物を出すことでアリに天敵から守ってもらうという関係を築いています。また、その他の特徴として、成虫のオスは鮮やかな青色の翅を持つ一方、メスは褐色を帯びた落ち着いた色合いをしており、オスとメスで見た目がはっきりと異なるという特徴があります。",
+      "en-IN": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
+      "zh-CN": "田野中那一抹迅速掠过的蓝色背后，有一个开始得早得多的故事，故事的主角是一只小小的毛毛虫和一种令人惊讶的生存妙招。普通蓝灰蝶分布于欧洲、北非和亚洲部分地区，成虫以花蜜为食。它的生命始于一枚小小的卵，雌蝶通常会将卵产在百脉根等寄主植物上。真正令人惊讶的是它的毛毛虫阶段，此时蚂蚁会在其生存过程中扮演一个出人意料的角色。孵化后，毛毛虫会啃食叶片，然后进入蜕变的下一个阶段。在这一过程中，它会分泌一种名为蜜露的含糖物质，供蚂蚁取食。作为回报，蚂蚁可能会保护结茧的毛毛虫免受捕食者侵害。",
+      "pt-BR": "De comum, ela tem só o nome. A borboleta-azul-comum começa a vida em uma planta, passa por uma aliança improvável com formigas e termina com um par de asas azuis. A espécie, que não ocorre naturalmente no Brasil, é encontrada em grande parte da Europa, no norte da África e em partes da Ásia. Suas lagartas costumam se alimentar de plantas como o cornichão."
+    },
+    "quickFacts": {
+      "en-US": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favorable patches of flowers.",
+      "en-GB": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
+      "en-CA": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers.",
+      "de-DE": "Trotz ihres zarten Aussehens vertreiben männliche Hauhechel-Bläulinge aktiv rivalisierende Männchen und manchmal sogar größere Insekten von ihren bevorzugten Blütenplätzen.",
+      "fr-FR": "Malgré leur apparence fragile, les argus bleus mâles chassent activement leurs rivaux — et parfois même des insectes plus grands — des zones fleuries les plus prisées.",
+      "zh-CN": "尽管外表纤弱，雄性普通蓝灰蝶仍会主动将竞争的雄蝶——有时甚至是体型更大的昆虫——逐出花朵繁茂的有利地盘。",
+      "en-IN": "Despite their delicate appearance, males of common blue butterflies actively chase away rival males—and sometimes even larger insects—from favourable patches of flowers."
+    },
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=borboleta+azul+comum&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.CommonBlue_PT-BR1879697147"
     }
   },
   "SuffolkHuts": {
