@@ -1,4 +1,142 @@
 {
+  "AlphornBavaria": {
+    "name": "AlphornBavaria",
+    "urlbase": "/th?id=OHR.AlphornBavaria_EN-US6200857270",
+    "date": "20260919",
+    "dateFormatted": "September 19, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
+      "en-GB": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
+      "en-CA": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
+      "fr-FR": "Le son alpin de l’Oktoberfest. Oktoberfest, Allemagne",
+      "it-IT": "Il suono alpino dell'Oktoberfest",
+      "es-ES": "El sonido alpino del Oktoberfest. Oktoberfest, Alemania",
+      "pt-BR": "A Baviera em alto e bom som",
+      "ja-JP": "今日はオクトーバーフェストの開幕日",
+      "zh-CN": "阿尔卑斯长号演奏者，巴伐利亚州，德国",
+      "en-IN": "The Alpine sound of Oktoberfest. Oktoberfest, Germany"
+    },
+    "copyrights": {
+      "en-US": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
+      "en-GB": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
+      "en-CA": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
+      "fr-FR": "Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)",
+      "it-IT": "Giocatori di alphorn, Baviera, Germania (© U. J. Alexander/Shutterstock)",
+      "es-ES": "Músicos tocando la trompa de los Alpes, Waltenhofen, Baviera, Alemania (© U. J. Alexander/Shutterstock)",
+      "pt-BR": "Músicos de trompa alpina, Baviera, Alemanha (© U. J. Alexander/Shutterstock)",
+      "ja-JP": "アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)",
+      "zh-CN": "阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)",
+      "en-IN": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria, and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+      "en-GB": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+      "en-CA": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+      "fr-FR": "Alors que l’Oktoberfest ouvre ses portes à Munich, en Bavière (Allemagne), un autre symbole du patrimoine alpin accompagne les visiteurs : le chant profond du cor des Alpes. Bien avant que cette fête n’acquière une renommée mondiale, son écho résonnait déjà entre les sommets de Bavière, d’Autriche et de Suisse, reliant les communautés de montagne à travers les prairies, les forêts d’épicéas et les vallées brumeuses.",
+      "es-ES": "El sonido alpino del Oktoberfest. Músicos tocando la trompa de los Alpes, Waltenhofen, Baviera, Alemania. Hoy abre sus puertas el Oktoberfest, pero esta imagen viene de Waltenhofen, en Baviera (Alemania), y suena a algo mucho más antiguo que la fiesta: la trompa de los Alpes.",
+      "ja-JP": "今日 9 月 19 日からオクトーバーフェストが開幕します。ドイツ・バイエルン州では、祭りのにぎわいに欠かせない伝統楽器「アルプホルン」の響きが広がります。全長約 3.5m の木製管楽器で、かつては羊飼いたちが遠く離れた谷や山々の間で連絡を取り合うために使われていました。バルブや指穴はなく、息づかいと唇の動きだけで音を奏でます。祭りや文化イベントで演奏されており、その深く温かな音色はアルプスの風景と調和し、バイエルンならではの歴史や文化を今に伝えています。",
+      "en-IN": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+      "it-IT": "Il suono alpino dell'Oktoberfest. Giocatori di alphorn, Baviera, Germania. L'Oktoberfest è appena cominciato, ma il suono che arriva dalla Baviera (Germania) è più antico della festa: è la voce profonda del corno delle Alpi.",
+      "pt-BR": "Hoje, uma mensagem atravessa continentes em segundos. Mas, por séculos, havia um jeito bem mais barulhento de chamar alguém. A Oktoberfest começa hoje em Munique, Baviera — pouco antes da nossa versão em Blumenau, Santa Catarina, que este ano é de 7 a 25 de outubro. Mas a história sonora da Alemanha começou muito antes da cerveja e das bandas que chegam para a festa.",
+      "zh-CN": "慕尼黑啤酒节于今天开幕，抵达德国巴伐利亚州的游客或许会听到一种甚至比这一著名节日本身更古老的声音：阿尔卑斯长号深沉而浑厚的鸣响。这种传统的阿尔卑斯乐器与巴伐利亚、奥地利和瑞士的文化紧密相连；过去，牧羊人曾用它跨越山谷彼此传递信息。"
+    },
+    "quickFacts": {
+      "en-US": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
+      "en-GB": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
+      "en-CA": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
+      "fr-FR": "L'Oktoberfest a vu le jour en 1810 pour célébrer le mariage du prince héritier de Bavière, Louis, et de la princesse Thérèse.",
+      "zh-CN": "已知最早提及瑞士阿尔卑斯长号的文字记录可追溯至1527年，见于圣乌尔班修道院的账簿。",
+      "en-IN": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese."
+    },
+    "captions": {
+      "en-US": "Oktoberfest, Germany",
+      "en-GB": "Oktoberfest, Germany",
+      "en-CA": "Oktoberfest, Germany",
+      "fr-FR": "Oktoberfest, Allemagne",
+      "it-IT": "",
+      "es-ES": "Oktoberfest, Alemania",
+      "pt-BR": "",
+      "ja-JP": "今日はオクトーバーフェストの開幕日",
+      "zh-CN": "",
+      "en-IN": "Oktoberfest, Germany"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260919_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260919_0400%22",
+      "fr-FR": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Oktoberfest+na+Alemanha&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%ab%e3%83%97%e3%83%9b%e3%83%ab%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260918_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e5%95%a4%e9%85%92%e8%8a%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AlphornBavaria_EN-US6200857270",
+      "en-GB": "/th?id=OHR.AlphornBavaria_EN-GB8912057279",
+      "en-CA": "/th?id=OHR.AlphornBavaria_EN-CA4386550572",
+      "fr-FR": "/th?id=OHR.AlphornBavaria_FR-FR7751398658",
+      "it-IT": "/th?id=OHR.AlphornBavaria_IT-IT7483263500",
+      "es-ES": "/th?id=OHR.AlphornBavaria_ES-ES7277929054",
+      "pt-BR": "/th?id=OHR.AlphornBavaria_PT-BR5395210076",
+      "ja-JP": "/th?id=OHR.AlphornBavaria_JA-JP7669654652",
+      "zh-CN": "/th?id=OHR.AlphornBavaria_ZH-CN5896237112",
+      "en-IN": "/th?id=OHR.AlphornBavaria_EN-IN7812928124"
+    }
+  },
   "WinnatsPassPeak": {
     "name": "WinnatsPassPeak",
     "urlbase": "/th?id=OHR.WinnatsPassPeak_EN-US6112068451",
@@ -657,7 +795,7 @@
       "it-IT": "La corona d'Italia",
       "pt-BR": "O recife que subiu de nível",
       "ja-JP": "雲間にそびえる鋭い峰々",
-      "zh-CN": "米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利",
+      "zh-CN": "高处的珊瑚礁",
       "en-IN": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy"
     },
     "copyrights": {
@@ -1364,79 +1502,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "A reservoir of reflections. Lake Fyans, Grampians National Park, Victoria, Australia",
-      "en-GB": "A reservoir of reflections. Lake Fyans, Grampians National Park, Victoria, Australia",
       "en-CA": "A reservoir of reflections. Lake Fyans, Grampians National Park, Victoria, Australia",
+      "pt-BR": "Muito além da superfície",
+      "en-GB": "A reservoir of reflections. Lake Fyans, Grampians National Park, Victoria, Australia",
       "de-DE": "Ein See voller Spiegelungen. Fyans-See, Grampians-Nationalpark, Victoria, Australien",
       "fr-FR": "Des reflets infinis. Lac Fyans, Parc national des Grampians, Victoria, Australie",
       "es-ES": "El reflejo de la naturaleza. Parque Nacional de los Montes Grampianos, Victoria, Australia",
-      "pt-BR": "Muito além da superfície",
       "ja-JP": "空を映す静かな人工貯水池",
       "zh-CN": "倒影满湖的水库",
       "en-IN": "A reservoir of reflections. Lake Fyans, Grampians National Park, Victoria, Australia"
     },
     "copyrights": {
       "en-US": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
-      "en-GB": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
       "en-CA": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
+      "pt-BR": "Lago Fyans, Parque Nacional Grampians, Vitória, Austrália (© tracielouise/Getty Images)",
+      "en-GB": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
       "de-DE": "Fyans-See, Grampians-Nationalpark, Victoria, Australien (© tracielouise/Getty Images)",
       "fr-FR": "Lac Fyans, Parc national des Grampians, Victoria, Australie (© tracielouise/Getty Images)",
       "es-ES": "Lago Fyans, Parque Nacional de los Montes Grampianos, Victoria, Australia (© tracielouise/Getty Images)",
-      "pt-BR": "Lago Fyans, Parque Nacional Grampians, Vitória, Austrália (© tracielouise/Getty Images)",
       "ja-JP": "ファイアンズ湖, オーストラリア (© tracielouise/Getty Images)",
       "zh-CN": "菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)",
       "en-IN": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)"
     },
     "descs": {
       "en-US": "At first glance, today's image looks more like a drowned woodland than a lake. Bare tree trunks emerge from the water, their reflections stretching across the surface as the Grampians glow in the distance. This is Lake Fyans, an artificial reservoir on the edge of the Grampians (Gariwerd) National Park in Victoria, Australia. Popular with boaters, anglers, sailors, and water-skiers, it offers a front-row seat to one of the country's most striking landscapes.",
-      "en-GB": "At first glance, today's image looks more like a drowned woodland than a lake. Bare tree trunks emerge from the water, their reflections stretching across the surface as the Grampians glow in the distance. This is Lake Fyans, a man-made off-stream reservoir at the foot of the Grampians (Gariwerd) National Park in Victoria, Australia. Part of the regional Wimmera-Mallee water supply system, it also draws anglers with its brown and rainbow trout and trophy-sized redfin.",
       "en-CA": "At first glance, today's image looks more like a drowned woodland than a lake. Bare tree trunks emerge from the water, their reflections stretching across the surface as the Grampians glow in the distance. This is Lake Fyans, an artificial reservoir on the edge of the Grampians (Gariwerd) National Park in Victoria, Australia. Popular with boaters, anglers, sailors and water skiers, it offers a front-row seat to one of the country's most striking landscapes.",
+      "en-GB": "At first glance, today's image looks more like a drowned woodland than a lake. Bare tree trunks emerge from the water, their reflections stretching across the surface as the Grampians glow in the distance. This is Lake Fyans, a man-made off-stream reservoir at the foot of the Grampians (Gariwerd) National Park in Victoria, Australia. Part of the regional Wimmera-Mallee water supply system, it also draws anglers with its brown and rainbow trout and trophy-sized redfin.",
       "de-DE": "Der Fyans-See neben dem Grampians-Nationalpark im australischen Bundesstaat Victoria zählt zu den landschaftlich reizvollen Gewässern der Region. Ruhiges Wasser, markante Bergzüge und weite Uferbereiche prägen das Bild. An windstillen Tagen spiegeln sich die umliegenden Höhenzüge nahezu perfekt auf der Wasseroberfläche und schaffen eine Atmosphäre, die Besucherinnen und Besucher gleichermaßen fasziniert.",
       "fr-FR": "À première vue, l’image évoque davantage une forêt engloutie qu’un lac. Des troncs dénudés émergent de l’eau immobile, tandis que leurs reflets allongés dessinent des lignes mouvantes sous la lumière. Nous sommes au lac Fyans, un réservoir artificiel situé aux portes du parc national des Grampians, également connu sous le nom traditionnel de Gariwerd, dans l’État australien du Victoria. Très apprécié des plaisanciers, pêcheurs, véliplanchistes et amateurs de sports nautiques, ce vaste plan d’eau offre un remarquable point d’observation sur un paysage où la nature paraît se renouveler sans cesse.",
       "es-ES": "Los troncos secos que asoman del agua delatan que el lago Fyans, en Victoria (Australia), no es un lago cualquiera: es un embalse que anegó el terreno donde hoy se reflejan los montes Grampianos. El resultado es una estampa extraña y magnética, con la sierra recortada al fondo.",
@@ -1450,120 +1553,25 @@
     },
     "captions": {
       "en-US": "Lake Fyans, Grampians National Park, Victoria, Australia",
-      "en-GB": "Lake Fyans, Grampians National Park, Victoria, Australia",
       "en-CA": "Lake Fyans, Grampians National Park, Victoria, Australia",
-      "de-DE": "Fyans-See, Grampians-Nationalpark, Victoria, Australien",
-      "fr-FR": "Lac Fyans, Parc national des Grampians, Victoria, Australie",
-      "es-ES": "Parque Nacional de los Montes Grampianos, Victoria, Australia",
-      "pt-BR": "",
-      "ja-JP": "空を映す静かな人工貯水池",
-      "zh-CN": "",
-      "en-IN": "Lake Fyans, Grampians National Park, Victoria, Australia"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate%3a%2220260906_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate%3a%2220260905_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate%3a%2220260906_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Grampians-Nationalpark+Victoria+Australien&form=hpcapt&filters=HpDate%3a%2220260905_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=parc+national+des+Grampians+Australie&form=hpcapt&filters=HpDate%3a%2220260905_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+los+Montes+Grampianos&form=hpcapt&filters=HpDate%3a%2220260905_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+Grampians+Austr%c3%a1lia&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=Fyans+Lake+%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260905_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e5%b7%9e%e6%a0%bc%e5%85%b0%e5%b1%8f%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate%3a%2220260905_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.LakeFyans_EN-US4295341714",
-      "en-GB": "/th?id=OHR.LakeFyans_EN-GB5800075953",
-      "en-CA": "/th?id=OHR.LakeFyans_EN-CA4654575679",
-      "de-DE": "/th?id=OHR.LakeFyans_DE-DE9957934690",
-      "fr-FR": "/th?id=OHR.LakeFyans_FR-FR2873606415",
-      "es-ES": "/th?id=OHR.LakeFyans_ES-ES8019860279",
-      "pt-BR": "/th?id=OHR.LakeFyans_PT-BR2121172613",
-      "ja-JP": "/th?id=OHR.LakeFyans_JA-JP2778092364",
-      "zh-CN": "/th?id=OHR.LakeFyans_ZH-CN1067187791",
-      "en-IN": "/th?id=OHR.LakeFyans_EN-IN6678174820"
-    }
-  },
-  "GreenCrowned": {
-    "name": "GreenCrowned",
-    "urlbase": "/th?id=OHR.GreenCrowned_EN-US3119017947",
-    "date": "20260905",
-    "dateFormatted": "September 05, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Small birds, big impact. National Hummingbird Day",
-      "en-CA": "Small birds, big impact. Green-crowned brilliant hummingbirds in Costa Rica",
-      "pt-BR": "Um doce intervalo",
-      "de-DE": "Kleine Vögel, große Wirkung. Grünstirn-Brillantkolibris an Helikonienblüten, Costa Rica",
-      "it-IT": "Un piccolo spuntino per la giornata",
-      "es-ES": "Pequeños pero veloces. Colibríes brillantes frentiverdes, Costa Rica",
-      "ja-JP": "今日は米国のハチドリの日",
-      "zh-CN": "小小鸟儿，巨大影响"
-    },
-    "copyrights": {
-      "en-US": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)",
-      "en-CA": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)",
-      "pt-BR": "Beija-flores-brilhantes-de-coroa-verde alimentando-se de flores de garra-de-lagosta, Costa Rica (© Paul Hobson/Nature Picture Library)",
-      "de-DE": "Grünstirn-Brillantkolibris an Helikonienblüten, Costa Rica (© Paul Hobson/Nature Picture Library)",
-      "it-IT": "Colibrì dalla fronte verde brillante, Costa Rica (© Paul Hobson/Nature Picture Library)",
-      "es-ES": "Colibríes brillantes frentiverdes alimentándose de flores de platanillo, Costa Rica (© Paul Hobson/Nature Picture Library)",
-      "ja-JP": "ミドリボウシテリハチドリ, コスタリカ (© Paul Hobson/Nature Picture Library)",
-      "zh-CN": "龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)"
-    },
-    "descs": {
-      "en-US": "National Hummingbird Day celebrates some of nature's most extraordinary aerial specialists. Found only in the Americas, these tiny birds can hover in place, fly backward, and beat their wings dozens of times per second. As they visit flowers in search of nectar, they also serve as important pollinators, helping sustain ecosystems from alpine meadows to tropical rainforests. Their shimmering plumage, remarkable agility, and high-energy lifestyles make them some of the world's most fascinating birds.",
-      "en-CA": "When it comes to aerial acrobatics, hummingbirds are in a league of their own. Found only in the Americas, these tiny birds can hover in place, fly backwards and beat their wings dozens of times per second. As they visit flowers in search of nectar, they also serve as important pollinators, helping sustain ecosystems from alpine meadows to tropical rainforests. Their shimmering plumage, remarkable agility and high-energy lifestyles make them some of the world's most fascinating birds.",
-      "de-DE": "Zwischen den farbenprächtigen Helikonien des tropischen Regenwaldes in Costa Rica wirken Grünstirn-Brillantkolibris wie schillernde Juwelen. Mit erstaunlicher Präzision verharren sie im Schwirrflug vor den Blüten und erreichen selbst tief verborgene Nektarquellen. Je nach Blickwinkel leuchten Stirn und Gefieder in unterschiedlichen Grüntönen, während das Sonnenlicht die metallischen Farben zusätzlich hervorhebt. Die kleinen Vögel sind ständig in Bewegung und wechseln in rascher Folge von Pflanze zu Pflanze. Dabei entstehen eindrucksvolle Szenen, die die Lebendigkeit und den Artenreichtum der tropischen Wälder sichtbar machen.",
-      "es-ES": "El colibrí brillante frentiverde habita los bosques húmedos de Costa Rica, donde su plumaje verde esmeralda cambia de tono según cómo le dé la luz. Mide apenas doce o trece centímetros y frecuenta las laderas montañosas entre los 700 y los 2.000 metros, allí donde siempre hay flores abiertas, como las heliconias de la imagen.",
-      "ja-JP": "9 月の第 1 土曜日は、米国の「ハチドリの日」。ハチドリの保護に対する意識向上と支援を目的に毎年祝われています。ハチドリは、南北米大陸に生息する美しい羽を持つ小鳥です。花の蜜を主な餌とし、ホバリングしながら花にくちばしを差し込んで蜜を吸います。そして画像は、コスタリカで撮影されたヘリコニアの花の蜜を吸うミドリボウシテリハチドリ。中米に生息する大型のハチドリの一種で、虹色に輝くエメラルドグリーンの羽と、わずかに湾曲した長いくちばしが特徴です。",
-      "it-IT": "Il colibrì dalla fronte verde brillante (Heliodoxa jacula) vive nelle foreste umide del Costa Rica, dove il piumaggio verde smeraldo cambia tonalità a seconda di come lo colpisce la luce. Misura appena dodici o tredici centimetri e frequenta i versanti montani tra i 700 e i 2.000 metri, là dove i fiori non finiscono mai.",
-      "pt-BR": "Se existisse uma escola de acrobacia para aves, o beija-flor daria aula. Encontradas exclusivamente nas Américas, estas pequenas aves pairam no mesmo lugar, voam para trás, freiam de repente e mudam de direção em um piscar de olhos, tudo enquanto batem as asas dezenas de vezes por segundo. Tanta agilidade exige muita energia, e cada flor vira uma parada estratégica para se reabastecer com néctar. E há uma recompensa extra para o jardim: ao visitar várias flores, a ave transporta pólen e ajuda plantas a se reproduzir.",
-      "zh-CN": "全国蜂鸟日旨在赞颂自然界中最非凡的空中飞行专家。蜂鸟仅分布于美洲，这些小鸟能够原地悬停、向后飞行，翅膀每秒可拍动数十次。它们为寻找花蜜而造访花朵时，也充当重要的传粉者，帮助维系从高山草甸到热带雨林的各种生态系统。闪耀的羽毛、非凡的敏捷性和高能耗的生活方式，使它们成为世界上最迷人的鸟类之一。"
-    },
-    "quickFacts": {
-      "en-US": "With the highest metabolic rate of any vertebrate, hummingbirds may need to feed every 10 minutes.",
-      "en-CA": "With the highest metabolic rate of any vertebrate, hummingbirds may need to feed every 10 minutes.",
-      "de-DE": "Kolibris haben die höchste Stoffwechselrate aller Wirbeltiere und müssen daher möglicherweise alle zehn Minuten Nahrung aufnehmen.",
-      "zh-CN": "蜂鸟的新陈代谢率在所有脊椎动物中最高，可能每10分钟就要进食一次。"
-    },
-    "captions": {
-      "en-US": "National Hummingbird Day",
-      "en-CA": "Green-crowned brilliant hummingbirds in Costa Rica",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Hummingbird+Day&form=hpcapt&filters=HpDate%3a%2220260905_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Green-crowned+brilliant&form=hpcapt&filters=HpDate%3a%2220260905_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=beija+flor&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate%3a%2220260906_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate%3a%2220260906_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+Grampians+Austr%c3%a1lia&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.GreenCrowned_EN-US3119017947",
-      "en-CA": "/th?id=OHR.GreenCrowned_EN-CA4098383254",
-      "pt-BR": "/th?id=OHR.GreenCrowned_PT-BR1965351936"
+      "en-US": "/th?id=OHR.LakeFyans_EN-US4295341714",
+      "en-CA": "/th?id=OHR.LakeFyans_EN-CA4654575679",
+      "pt-BR": "/th?id=OHR.LakeFyans_PT-BR2121172613"
     }
   },
-  "AlphornBavaria": {
-    "name": "AlphornBavaria",
-    "urlbase": "/th?id=OHR.AlphornBavaria_EN-GB8912057279",
-    "date": "20260918",
-    "dateFormatted": "September 18, 2026",
+  "ParisSunset": {
+    "name": "ParisSunset",
+    "urlbase": "/th?id=OHR.ParisSunset_EN-GB8990968501",
+    "date": "20260919",
+    "dateFormatted": "September 19, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1571,9 +1579,9 @@
         "flag": "gb"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       },
       {
         "code": "es-ES",
@@ -1597,72 +1605,64 @@
       }
     ],
     "titles": {
-      "en-GB": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
-      "fr-FR": "Le son alpin de l’Oktoberfest. Oktoberfest, Allemagne",
-      "es-ES": "El sonido alpino del Oktoberfest. Oktoberfest, Alemania",
-      "ja-JP": "今日はオクトーバーフェストの開幕日",
-      "zh-CN": "阿尔卑斯长号演奏者，巴伐利亚州，德国",
-      "en-IN": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
-      "en-US": "The Alpine sound of Oktoberfest. Alphorn players, Bavaria, Germany",
-      "en-CA": "The Alpine sound of Oktoberfest. Alphorn players, Bavaria, Germany",
-      "it-IT": "Il suono alpino dell'Oktoberfest. Giocatori di alphorn, Baviera, Germania",
-      "pt-BR": "A Baviera em alto e bom som. Músicos de trompa alpina, Baviera, Alemanha"
+      "en-GB": "The tower that won Paris over. Eiffel Tower, Paris, France",
+      "de-DE": "Der Turm, der Paris eroberte. Eiffelturm bei Sonnenuntergang, Paris, Frankreich",
+      "es-ES": "La torre que conquistó París. Torre Eiffel al atardecer, París, Francia",
+      "ja-JP": "夕焼けに染まるエッフェル塔",
+      "zh-CN": "日落时分的埃菲尔铁塔，巴黎，法国",
+      "en-IN": "The tower that won Paris over. Eiffel Tower, Paris, France",
+      "en-US": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
+      "en-CA": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
+      "pt-BR": "De polêmica a cartão-postal. Torre Eiffel ao pôr do sol, Paris, França"
     },
     "copyrights": {
-      "en-GB": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
-      "fr-FR": "Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)",
-      "es-ES": "Músicos tocando la trompa de los Alpes, Waltenhofen, Baviera, Alemania (© U. J. Alexander/Shutterstock)",
-      "ja-JP": "アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)",
-      "zh-CN": "阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)",
-      "en-IN": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
-      "en-US": "© U. J. Alexander/Shutterstock",
-      "en-CA": "© U. J. Alexander/Shutterstock",
-      "it-IT": "© U. J. Alexander/Shutterstock",
-      "pt-BR": "© U. J. Alexander/Shutterstock"
+      "en-GB": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "de-DE": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)",
+      "es-ES": "Torre Eiffel al atardecer, París, Francia (© Alexander Spatari/Getty Images)",
+      "ja-JP": "パリ, フランス (© Alexander Spatari/Getty Images)",
+      "zh-CN": "日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)",
+      "en-IN": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "en-US": "© Alexander Spatari/Getty Images",
+      "en-CA": "© Alexander Spatari/Getty Images",
+      "pt-BR": "© Alexander Spatari/Getty Images"
     },
     "descs": {
-      "en-GB": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
-      "fr-FR": "Alors que l’Oktoberfest ouvre ses portes à Munich, en Bavière (Allemagne), un autre symbole du patrimoine alpin accompagne les visiteurs : le chant profond du cor des Alpes. Bien avant que cette fête n’acquière une renommée mondiale, son écho résonnait déjà entre les sommets de Bavière, d’Autriche et de Suisse, reliant les communautés de montagne à travers les prairies, les forêts d’épicéas et les vallées brumeuses.",
-      "es-ES": "El sonido alpino del Oktoberfest. Músicos tocando la trompa de los Alpes, Waltenhofen, Baviera, Alemania. Hoy abre sus puertas el Oktoberfest, pero esta imagen viene de Waltenhofen, en Baviera (Alemania), y suena a algo mucho más antiguo que la fiesta: la trompa de los Alpes.",
-      "ja-JP": "今日 9 月 19 日からオクトーバーフェストが開幕します。ドイツ・バイエルン州では、祭りのにぎわいに欠かせない伝統楽器「アルプホルン」の響きが広がります。全長約 3.5m の木製管楽器で、かつては羊飼いたちが遠く離れた谷や山々の間で連絡を取り合うために使われていました。バルブや指穴はなく、息づかいと唇の動きだけで音を奏でます。祭りや文化イベントで演奏されており、その深く温かな音色はアルプスの風景と調和し、バイエルンならではの歴史や文化を今に伝えています。",
-      "en-IN": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
-      "en-US": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria, and Switzerland, where it once helped shepherds communicate across mountain valleys.",
-      "en-CA": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
-      "it-IT": "Il suono alpino dell'Oktoberfest. Giocatori di alphorn, Baviera, Germania. L'Oktoberfest è appena cominciato, ma il suono che arriva dalla Baviera (Germania) è più antico della festa: è la voce profonda del corno delle Alpi.",
-      "pt-BR": "Hoje, uma mensagem atravessa continentes em segundos. Mas, por séculos, havia um jeito bem mais barulhento de chamar alguém. A Oktoberfest começa hoje em Munique, Baviera — pouco antes da nossa versão em Blumenau, Santa Catarina, que este ano é de 7 a 25 de outubro. Mas a história sonora da Alemanha começou muito antes da cerveja e das bandas que chegam para a festa.",
-      "zh-CN": "慕尼黑啤酒节于今天开幕，抵达德国巴伐利亚州的游客或许会听到一种甚至比这一著名节日本身更古老的声音：阿尔卑斯长号深沉而浑厚的鸣响。这种传统的阿尔卑斯乐器与巴伐利亚、奥地利和瑞士的文化紧密相连；过去，牧羊人曾用它跨越山谷彼此传递信息。"
+      "en-GB": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "de-DE": "Paris gehört zu den Städten, die Menschen auf der ganzen Welt faszinieren. Wenn die Sonne hinter dem Eiffelturm untergeht und den Himmel in warme Farben taucht, zeigt sich die französische Hauptstadt von ihrer besonders stimmungsvollen Seite. Der berühmte Turm erhebt sich über dem Champ de Mars und prägt seit mehr als einem Jahrhundert die Silhouette der Stadt.",
+      "es-ES": "La Torre Eiffel se recorta al atardecer sobre París (Francia), aunque su historia empezó con bastante peor prensa: se levantó como puerta de entrada de la Exposición Universal de 1889, que celebraba el centenario de la Revolución Francesa, y buena parte de la intelectualidad parisina la tachó de adefesio de hierro.",
+      "ja-JP": "ここはフランス最大の都市パリ。そして、中央にそびえるのがエッフェル塔です。フランス革命 100 周年を記念する 1889 年のパリ万国博覧会に合わせて建設されました。塔の名前は、設計者であるギュスターヴ・エッフェルに由来します。完成当初の高さは 300m で、1930 年に米国でクライスラー・ビルディングが建設されるまでは、世界で最も高い建造物でした。現在も多くの観光客が訪れる名所として親しまれており、フランスの創造性や技術力を象徴しています。",
+      "en-IN": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "en-US": "No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.",
+      "en-CA": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "pt-BR": "A Torre Eiffel não nasceu como símbolo romântico. Nasceu como atração de feira e, para muita gente em Paris, era uma ideia de gosto bastante duvidoso. A torre foi construída para ser um dos grandes destaques da Exposição Universal de 1889, realizada no centenário da Revolução Francesa. Gustave Eiffel e sua equipe ergueram uma estrutura de 300 metros de altura, a construção mais alta do mundo na época.",
+      "zh-CN": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。"
     },
     "quickFacts": {
-      "en-US": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
-      "en-GB": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
-      "en-CA": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
-      "fr-FR": "L'Oktoberfest a vu le jour en 1810 pour célébrer le mariage du prince héritier de Bavière, Louis, et de la princesse Thérèse.",
-      "zh-CN": "已知最早提及瑞士阿尔卑斯长号的文字记录可追溯至1527年，见于圣乌尔班修道院的账簿。",
-      "en-IN": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese."
+      "zh-CN": "如今埃菲尔铁塔高330米；2022年安装一根新的数字广播天线后，塔身增高了6米。"
     },
     "captions": {
-      "en-GB": "Oktoberfest, Germany",
-      "fr-FR": "Oktoberfest, Allemagne",
-      "es-ES": "Oktoberfest, Alemania",
-      "ja-JP": "今日はオクトーバーフェストの開幕日",
+      "en-GB": "Eiffel Tower, Paris, France",
+      "de-DE": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich",
+      "es-ES": "Torre Eiffel al atardecer, París, Francia",
+      "ja-JP": "夕焼けに染まるエッフェル塔",
       "zh-CN": "",
-      "en-IN": "Oktoberfest, Germany"
+      "en-IN": "Eiffel Tower, Paris, France"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%ab%e3%83%97%e3%83%9b%e3%83%ab%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260918_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e5%95%a4%e9%85%92%e8%8a%82&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260919_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260919_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Par%c3%ads&form=hpcapt&filters=HpDate%3a%2220260919_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%91%e3%83%aa&form=hpcapt&filters=HpDate%3a%2220260919_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e9%bb%8e&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260919_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AlphornBavaria_EN-GB8912057279",
-      "fr-FR": "/th?id=OHR.AlphornBavaria_FR-FR7751398658",
-      "es-ES": "/th?id=OHR.AlphornBavaria_ES-ES7277929054",
-      "ja-JP": "/th?id=OHR.AlphornBavaria_JA-JP7669654652",
-      "zh-CN": "/th?id=OHR.AlphornBavaria_ZH-CN5896237112",
-      "en-IN": "/th?id=OHR.AlphornBavaria_EN-IN7812928124"
+      "en-GB": "/th?id=OHR.ParisSunset_EN-GB8990968501",
+      "de-DE": "/th?id=OHR.ParisSunset_DE-DE1426517976",
+      "es-ES": "/th?id=OHR.ParisSunset_ES-ES7380438298",
+      "ja-JP": "/th?id=OHR.ParisSunset_JA-JP6560235841",
+      "zh-CN": "/th?id=OHR.ParisSunset_ZH-CN6050686638",
+      "en-IN": "/th?id=OHR.ParisSunset_EN-IN7894876294"
     }
   },
   "RedMacawsFlight": {
@@ -2113,6 +2113,38 @@
       "de-DE": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623"
     }
   },
+  "CastelnaudPatrimoine": {
+    "name": "CastelnaudPatrimoine",
+    "urlbase": "/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727",
+    "date": "20260919",
+    "dateFormatted": "September 19, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Lumière sur un héritage commun. Journées européennes du patrimoine"
+    },
+    "copyrights": {
+      "fr-FR": "Château de Castelnaud, Castelnaud-la-Chapelle, Nouvelle-Aquitaine (© garethkirklandphotogrphy/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Ce week-end, à l’occasion des Journées européennes du patrimoine, partez à la découverte de lieux qui racontent l’histoire de nos territoires. Derrière des portes parfois fermées le reste de l’année se cachent des monuments, des jardins, des savoir-faire et des trésors architecturaux témoins de siècles de mémoire collective."
+    },
+    "quickFacts": {},
+    "captions": {
+      "fr-FR": "Journées européennes du patrimoine"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9es+europ%c3%a9ennes+du+patrimoine&form=hpcapt&filters=HpDate%3a%2220260919_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727"
+    }
+  },
   "BorgoMarinari": {
     "name": "BorgoMarinari",
     "urlbase": "/th?id=OHR.BorgoMarinari_IT-IT7423218886",
@@ -2175,38 +2207,6 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.Castelmezzano_IT-IT4140249349"
-    }
-  },
-  "RegataStoricaVen": {
-    "name": "RegataStoricaVen",
-    "urlbase": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394",
-    "date": "20260905",
-    "dateFormatted": "September 05, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "Una regata attraverso la storia"
-    },
-    "copyrights": {
-      "it-IT": "Regata Storica di Venezia, Venezia, Italia (© Javen/Shutterstock)"
-    },
-    "descs": {
-      "it-IT": "Una regata attraverso la storia. Regata Storica di Venezia, Venezia, Italia. Oggi il Canal Grande di Venezia (Italia) si trasforma in una pista d'acqua: è la prima domenica di settembre e va in scena la Regata Storica, l'appuntamento più atteso della voga alla veneta."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Regata+Storica+di+Venezia&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394"
     }
   },
   "SanSebastian": {
@@ -2435,6 +2435,112 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.ChungYang2026_JA-JP4920316432"
+    }
+  },
+  "GreenCrowned": {
+    "name": "GreenCrowned",
+    "urlbase": "/th?id=OHR.GreenCrowned_EN-US3119017947",
+    "date": "20260905",
+    "dateFormatted": "September 05, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Small birds, big impact. National Hummingbird Day",
+      "en-CA": "Small birds, big impact. Green-crowned brilliant hummingbirds in Costa Rica",
+      "pt-BR": "Um doce intervalo",
+      "de-DE": "Kleine Vögel, große Wirkung. Grünstirn-Brillantkolibris an Helikonienblüten, Costa Rica",
+      "it-IT": "Un piccolo spuntino per la giornata",
+      "es-ES": "Pequeños pero veloces. Colibríes brillantes frentiverdes, Costa Rica",
+      "ja-JP": "今日は米国のハチドリの日",
+      "zh-CN": "小小鸟儿，巨大影响"
+    },
+    "copyrights": {
+      "en-US": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)",
+      "en-CA": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)",
+      "pt-BR": "Beija-flores-brilhantes-de-coroa-verde alimentando-se de flores de garra-de-lagosta, Costa Rica (© Paul Hobson/Nature Picture Library)",
+      "de-DE": "Grünstirn-Brillantkolibris an Helikonienblüten, Costa Rica (© Paul Hobson/Nature Picture Library)",
+      "it-IT": "Colibrì dalla fronte verde brillante, Costa Rica (© Paul Hobson/Nature Picture Library)",
+      "es-ES": "Colibríes brillantes frentiverdes alimentándose de flores de platanillo, Costa Rica (© Paul Hobson/Nature Picture Library)",
+      "ja-JP": "ミドリボウシテリハチドリ, コスタリカ (© Paul Hobson/Nature Picture Library)",
+      "zh-CN": "龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "National Hummingbird Day celebrates some of nature's most extraordinary aerial specialists. Found only in the Americas, these tiny birds can hover in place, fly backward, and beat their wings dozens of times per second. As they visit flowers in search of nectar, they also serve as important pollinators, helping sustain ecosystems from alpine meadows to tropical rainforests. Their shimmering plumage, remarkable agility, and high-energy lifestyles make them some of the world's most fascinating birds.",
+      "en-CA": "When it comes to aerial acrobatics, hummingbirds are in a league of their own. Found only in the Americas, these tiny birds can hover in place, fly backwards and beat their wings dozens of times per second. As they visit flowers in search of nectar, they also serve as important pollinators, helping sustain ecosystems from alpine meadows to tropical rainforests. Their shimmering plumage, remarkable agility and high-energy lifestyles make them some of the world's most fascinating birds.",
+      "de-DE": "Zwischen den farbenprächtigen Helikonien des tropischen Regenwaldes in Costa Rica wirken Grünstirn-Brillantkolibris wie schillernde Juwelen. Mit erstaunlicher Präzision verharren sie im Schwirrflug vor den Blüten und erreichen selbst tief verborgene Nektarquellen. Je nach Blickwinkel leuchten Stirn und Gefieder in unterschiedlichen Grüntönen, während das Sonnenlicht die metallischen Farben zusätzlich hervorhebt. Die kleinen Vögel sind ständig in Bewegung und wechseln in rascher Folge von Pflanze zu Pflanze. Dabei entstehen eindrucksvolle Szenen, die die Lebendigkeit und den Artenreichtum der tropischen Wälder sichtbar machen.",
+      "es-ES": "El colibrí brillante frentiverde habita los bosques húmedos de Costa Rica, donde su plumaje verde esmeralda cambia de tono según cómo le dé la luz. Mide apenas doce o trece centímetros y frecuenta las laderas montañosas entre los 700 y los 2.000 metros, allí donde siempre hay flores abiertas, como las heliconias de la imagen.",
+      "ja-JP": "9 月の第 1 土曜日は、米国の「ハチドリの日」。ハチドリの保護に対する意識向上と支援を目的に毎年祝われています。ハチドリは、南北米大陸に生息する美しい羽を持つ小鳥です。花の蜜を主な餌とし、ホバリングしながら花にくちばしを差し込んで蜜を吸います。そして画像は、コスタリカで撮影されたヘリコニアの花の蜜を吸うミドリボウシテリハチドリ。中米に生息する大型のハチドリの一種で、虹色に輝くエメラルドグリーンの羽と、わずかに湾曲した長いくちばしが特徴です。",
+      "it-IT": "Il colibrì dalla fronte verde brillante (Heliodoxa jacula) vive nelle foreste umide del Costa Rica, dove il piumaggio verde smeraldo cambia tonalità a seconda di come lo colpisce la luce. Misura appena dodici o tredici centimetri e frequenta i versanti montani tra i 700 e i 2.000 metri, là dove i fiori non finiscono mai.",
+      "pt-BR": "Se existisse uma escola de acrobacia para aves, o beija-flor daria aula. Encontradas exclusivamente nas Américas, estas pequenas aves pairam no mesmo lugar, voam para trás, freiam de repente e mudam de direção em um piscar de olhos, tudo enquanto batem as asas dezenas de vezes por segundo. Tanta agilidade exige muita energia, e cada flor vira uma parada estratégica para se reabastecer com néctar. E há uma recompensa extra para o jardim: ao visitar várias flores, a ave transporta pólen e ajuda plantas a se reproduzir.",
+      "zh-CN": "全国蜂鸟日旨在赞颂自然界中最非凡的空中飞行专家。蜂鸟仅分布于美洲，这些小鸟能够原地悬停、向后飞行，翅膀每秒可拍动数十次。它们为寻找花蜜而造访花朵时，也充当重要的传粉者，帮助维系从高山草甸到热带雨林的各种生态系统。闪耀的羽毛、非凡的敏捷性和高能耗的生活方式，使它们成为世界上最迷人的鸟类之一。"
+    },
+    "quickFacts": {
+      "en-US": "With the highest metabolic rate of any vertebrate, hummingbirds may need to feed every 10 minutes.",
+      "en-CA": "With the highest metabolic rate of any vertebrate, hummingbirds may need to feed every 10 minutes.",
+      "de-DE": "Kolibris haben die höchste Stoffwechselrate aller Wirbeltiere und müssen daher möglicherweise alle zehn Minuten Nahrung aufnehmen.",
+      "zh-CN": "蜂鸟的新陈代谢率在所有脊椎动物中最高，可能每10分钟就要进食一次。"
+    },
+    "captions": {
+      "en-US": "National Hummingbird Day",
+      "en-CA": "Green-crowned brilliant hummingbirds in Costa Rica",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Hummingbird+Day&form=hpcapt&filters=HpDate%3a%2220260905_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Green-crowned+brilliant&form=hpcapt&filters=HpDate%3a%2220260905_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=beija+flor&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.GreenCrowned_EN-US3119017947",
+      "en-CA": "/th?id=OHR.GreenCrowned_EN-CA4098383254",
+      "pt-BR": "/th?id=OHR.GreenCrowned_PT-BR1965351936"
+    }
+  },
+  "RegataStoricaVen": {
+    "name": "RegataStoricaVen",
+    "urlbase": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394",
+    "date": "20260905",
+    "dateFormatted": "September 05, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Una regata attraverso la storia"
+    },
+    "copyrights": {
+      "it-IT": "Regata Storica di Venezia, Venezia, Italia (© Javen/Shutterstock)"
+    },
+    "descs": {
+      "it-IT": "Una regata attraverso la storia. Regata Storica di Venezia, Venezia, Italia. Oggi il Canal Grande di Venezia (Italia) si trasforma in una pista d'acqua: è la prima domenica di settembre e va in scena la Regata Storica, l'appuntamento più atteso della voga alla veneta."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Regata+Storica+di+Venezia&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394"
     }
   },
   "Westerheversand": {
