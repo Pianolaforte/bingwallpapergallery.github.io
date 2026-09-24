@@ -1,4 +1,116 @@
 {
+  "TolkienWeek": {
+    "name": "TolkienWeek",
+    "urlbase": "/th?id=OHR.TolkienWeek_EN-US7313336185",
+    "date": "20260923",
+    "dateFormatted": "September 23, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Beyond the last page. Tolkien Week",
+      "en-GB": "Beyond the last page. Tolkien Week",
+      "en-CA": "Beyond the last page. Tolkien Week",
+      "de-DE": "Willkommen in Hobbiton. Hobbit-Tag",
+      "fr-FR": "Au-delà de la dernière page. Journée du Hobbit",
+      "it-IT": "Oltre l'ultima pagina",
+      "es-ES": "Donde lo pequeño se hace grande. Decorado de películas de Hobbiton, Matamata, Nueva Zelanda",
+      "en-IN": "Beyond the last page. Tolkien Week",
+      "pt-BR": "Muito além da última página. Vila dos Hobbits em Matamata, Nova Zelândia"
+    },
+    "copyrights": {
+      "en-US": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "en-GB": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "en-CA": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "de-DE": "Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland (© djr-photography/Shutterstock)",
+      "fr-FR": "Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)",
+      "it-IT": "La Casa di Hobbit presso il Set Cinematografico di Hobbiton, Matamata, Nuova Zelanda (© djr-photography/Shutterstock)",
+      "es-ES": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda (© djr-photography/Shutterstock)",
+      "en-IN": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "pt-BR": "© djr-photography/Shutterstock"
+    },
+    "descs": {
+      "en-US": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens, and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
+      "en-GB": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
+      "en-CA": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
+      "de-DE": "Heute wird der Hobbit-Tag gefeiert, ein Anlass, der Fans von J. R. R. Tolkien auf der ganzen Welt zusammenbringt. Kaum ein Ort verkörpert die Magie seiner Geschichten so eindrucksvoll wie das Hobbit-Haus am Filmset von Hobbiton in Matamata. Eingebettet in die sanften Hügel Neuseelands wirkt die Kulisse, als wäre sie direkt aus den Seiten eines Fantasyromans in die Wirklichkeit versetzt worden.",
+      "fr-FR": "Dans les collines verdoyantes de Matamata, en Nouvelle-Zélande, un décor de cinéma est devenu un lieu à part entière. Installé sur une ferme ovine encore en activité, Hobbiton est né lorsqu’une équipe de repérage des films « Le Seigneur des anneaux » découvrit, en 1998, un paysage remarquablement proche de la Comté imaginée par Tolkien. Les courbes du relief, les prairies parsemées de moutons et la lumière changeante semblaient déjà raconter une histoire. Des portes rondes, des jardins soignés et des cheminées à volutes ont ensuite achevé la métamorphose.",
+      "es-ES": "Casi todos los lugares célebres los construyó la historia; este lo construyó un relato. El decorado de Hobbiton está en Matamata (Nueva Zelanda), sobre una granja de ovejas que en 1998 llamó la atención de los localizadores de El Señor de los Anillos: las colinas ya parecían la Comarca y solo faltaron puertas redondas, huertos ordenados y chimeneas humeantes.",
+      "en-IN": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
+      "it-IT": "Quasi tutti i luoghi celebri li ha costruiti la storia; questo l'ha costruito un racconto. Il set di Hobbiton si trova a Matamata (Nuova Zelanda), in una fattoria di pecore che nel 1998 colpì chi cercava le location per Il Signore degli Anelli: le colline sembravano già la Contea, sono bastate porte rotonde, orti in ordine e comignoli fumanti.",
+      "pt-BR": "Alguns lugares entram para a história. Hobbiton, em Matamata, Nova Zelândia, foi feito para dar vida a uma. Quando produtores de “O Senhor dos Anéis” procuravam locações em 1998, encontraram ali colinas verdes que já pareciam pertencer ao Condado. A equipe acrescentou portas redondas, jardins e chaminés, e o cenário foi reconstruído para os filmes de “O Hobbit”. Uma locação temporária acabou virando atração para fãs do mundo inteiro."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Tolkien Week",
+      "en-GB": "Tolkien Week",
+      "en-CA": "Tolkien Week",
+      "de-DE": "Hobbit-Tag",
+      "fr-FR": "Journée du Hobbit",
+      "it-IT": "",
+      "es-ES": "Decorado de películas de Hobbiton, Matamata, Nueva Zelanda",
+      "en-IN": "Tolkien Week"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Hobbit-Tag&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+du+Hobbit&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Set+cinematografico+di+Hobbiton&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Hobbiton&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
+      "en-IN": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.TolkienWeek_EN-US7313336185",
+      "en-GB": "/th?id=OHR.TolkienWeek_EN-GB9361035480",
+      "en-CA": "/th?id=OHR.TolkienWeek_EN-CA7225706887",
+      "de-DE": "/th?id=OHR.TolkienWeek_DE-DE1744424672",
+      "fr-FR": "/th?id=OHR.TolkienWeek_FR-FR8060088549",
+      "it-IT": "/th?id=OHR.TolkienWeek_IT-IT7744314580",
+      "es-ES": "/th?id=OHR.TolkienWeek_ES-ES8577009856",
+      "en-IN": "/th?id=OHR.TolkienWeek_EN-IN8323924749"
+    }
+  },
   "FallAspens": {
     "name": "FallAspens",
     "urlbase": "/th?id=OHR.FallAspens_EN-US7211031109",
@@ -343,7 +455,8 @@
       "pt-BR": "De polêmica a cartão-postal",
       "ja-JP": "夕焼けに染まるエッフェル塔",
       "zh-CN": "日落时分的埃菲尔铁塔，巴黎，法国",
-      "en-IN": "The tower that won Paris over. Eiffel Tower, Paris, France"
+      "en-IN": "The tower that won Paris over. Eiffel Tower, Paris, France",
+      "fr-FR": "Elle nous fait tourner la tête. La tour Eiffel au coucher de soleil, Paris"
     },
     "copyrights": {
       "en-US": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
@@ -354,7 +467,8 @@
       "pt-BR": "Torre Eiffel ao pôr do sol, Paris, França (© Alexander Spatari/Getty Images)",
       "ja-JP": "パリ, フランス (© Alexander Spatari/Getty Images)",
       "zh-CN": "日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)",
-      "en-IN": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)"
+      "en-IN": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "fr-FR": "© Alexander Spatari/Getty Images"
     },
     "descs": {
       "en-US": "No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.",
@@ -365,7 +479,8 @@
       "ja-JP": "ここはフランス最大の都市パリ。そして、中央にそびえるのがエッフェル塔です。フランス革命 100 周年を記念する 1889 年のパリ万国博覧会に合わせて建設されました。塔の名前は、設計者であるギュスターヴ・エッフェルに由来します。完成当初の高さは 300m で、1930 年に米国でクライスラー・ビルディングが建設されるまでは、世界で最も高い建造物でした。現在も多くの観光客が訪れる名所として親しまれており、フランスの創造性や技術力を象徴しています。",
       "en-IN": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
       "pt-BR": "A Torre Eiffel não nasceu como símbolo romântico. Nasceu como atração de feira e, para muita gente em Paris, era uma ideia de gosto bastante duvidoso. A torre foi construída para ser um dos grandes destaques da Exposição Universal de 1889, realizada no centenário da Revolução Francesa. Gustave Eiffel e sua equipe ergueram uma estrutura de 300 metros de altura, a construção mais alta do mundo na época.",
-      "zh-CN": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。"
+      "zh-CN": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。",
+      "fr-FR": "Paris évoque instantanément les promenades au crépuscule, les quais de la Seine et une élégance célébrée dans le monde entier. Pourtant, derrière cette image romantique se cache une histoire plus nuancée. À la fin du XIXᵉ siècle, la ville accueille l’Exposition universelle commémorant le centenaire de la Révolution française, dans un contexte de profondes transformations urbaines et culturelles."
     },
     "quickFacts": {
       "zh-CN": "如今埃菲尔铁塔高330米；2022年安装一根新的数字广播天线后，塔身增高了6米。"
@@ -745,7 +860,7 @@
       "es-ES": "Un brindis por la cosecha. Región vinícola de Santenay, Costa de Beaune, Borgoña, Francia",
       "pt-BR": "Um brinde à colheita",
       "ja-JP": "収穫期を迎えたブドウ畑",
-      "zh-CN": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国",
+      "zh-CN": "为丰收举杯",
       "en-IN": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France"
     },
     "copyrights": {
@@ -1450,14 +1565,84 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "en-CA": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "pt-BR": "A Andaluzia em mosaico",
+      "en-GB": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "de-DE": "Ein buntes Mosaik aus der Luft. Luftaufnahme von Olvera, Andalusien, Spanien",
+      "fr-FR": "Un patchwork vu du dessus. Vue aérienne d’Olvera, Andalousie, Espagne",
+      "it-IT": "Un mosaico dall'alto",
+      "es-ES": "Un mosaico andaluz. Vista aérea de Olvera, Cádiz, Andalucía, España",
+      "ja-JP": "赤茶色の屋根が映えるアンダルシアの街",
+      "zh-CN": "俯瞰大地拼图",
+      "en-IN": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "en-CA": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "pt-BR": "Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)",
+      "en-GB": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
+      "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)",
+      "it-IT": "Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)",
+      "es-ES": "Vista aérea de Olvera, Cádiz, Andalucía, España (© Marco Bottigelli/Getty Images)",
+      "ja-JP": "オルベラ, スペイン (© Marco Bottigelli/Getty Images)",
+      "zh-CN": "奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)",
+      "en-IN": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture, and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "en-CA": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions.",
+      "en-GB": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "de-DE": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
+      "fr-FR": "L’Andalousie est l’une des régions les plus emblématiques d’Espagne. Entre flamenco, tapas, héritage mauresque et vastes oliveraies, elle séduit par sa richesse culturelle. Au cœur de ce paysage se trouve Olvera, un village entouré de plus de deux millions d’oliviers, qui conserve les traces de plusieurs siècles d’histoire. Son château domine encore les hauteurs, tandis que l’église Notre-Dame de l’Incarnation marque l’horizon. Pour mieux comprendre le passé médiéval et les traditions locales, le centre culturel La Cilla constitue une étape incontournable.",
+      "es-ES": "Olvera, en la sierra de Cádiz (Andalucía), se ve desde muy lejos: un cerro de casas encaladas coronado por un castillo de origen musulmán y por la mole neoclásica de la iglesia de Nuestra Señora de la Encarnación. A 643 metros de altitud, este pueblo blanco fue durante siglos tierra de frontera, y ese pasado se cuenta en La Cilla, el antiguo granero de los duques de Osuna hoy convertido en centro cultural y museo.",
+      "ja-JP": "ここは、スペイン南部アンダルシア州にある町、オルベラです。白い壁と赤や茶色の瓦屋根の家が丘の斜面に連なる光景は、アンダルシアに点在している「白い村（プエブロ・ブランコ）」の一つとして知られています。町は、広大なオリーブ畑に囲まれた丘の上に広がり、古くから戦略的な要地として発展してきました。丘の頂にそびえるムーア人の城塞とエンカルナシオン教会は、オルベラのランドマークであり、イスラム文化とキリスト教文化が交錯した歴史を今に伝えています。",
+      "en-IN": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "it-IT": "Olvera, nella sierra di Cadice (Andalusia, Spagna), si vede da lontanissimo: un colle di case imbiancate a calce sormontato da un castello di origine musulmana e dalla mole neoclassica della chiesa di Nuestra Señora de la Encarnación. A 643 metri di quota, questo borgo bianco è stato per secoli terra di frontiera, e quel passato si racconta a La Cilla, l'antico granaio dei duchi di Osuna oggi diventato centro culturale.",
+      "pt-BR": "Olvera parece ter sido construída em camadas: primeiro vêm as oliveiras, depois as casas brancas, depois a igreja e, lá em cima, o castelo. Estamos na Andaluzia, na Espanha, em uma vila cercada por mais de 2 milhões de oliveiras, onde a paisagem agrícola praticamente sobe a montanha junto com as ruas.",
+      "zh-CN": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。"
+    },
+    "quickFacts": {
+      "zh-CN": "奥尔韦拉的摩尔式城堡建于12世纪末，坐落在海拔约623米的高处。"
+    },
+    "captions": {
+      "en-US": "Aerial view of Olvera, Andalusia, Spain",
+      "en-CA": "Aerial view of Olvera, Andalusia, Spain",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260910_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260917_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Olvera+na+Espanha&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Olvera_EN-US4712443253",
+      "en-CA": "/th?id=OHR.Olvera_EN-CA0142222460",
+      "pt-BR": "/th?id=OHR.Olvera_PT-BR2296737928"
+    }
+  },
+  "ElGolfo": {
+    "name": "ElGolfo",
+    "urlbase": "/th?id=OHR.ElGolfo_EN-GB9192637782",
+    "date": "20260921",
+    "dateFormatted": "September 21, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1473,16 +1658,6 @@
         "code": "it-IT",
         "name": "IT",
         "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
       },
       {
         "code": "ja-JP",
@@ -1501,241 +1676,72 @@
       }
     ],
     "titles": {
-      "en-US": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "en-GB": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "en-CA": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "de-DE": "Ein buntes Mosaik aus der Luft. Luftaufnahme von Olvera, Andalusien, Spanien",
-      "fr-FR": "Un patchwork vu du dessus. Vue aérienne d’Olvera, Andalousie, Espagne",
-      "it-IT": "Un mosaico dall'alto",
-      "es-ES": "Un mosaico andaluz. Vista aérea de Olvera, Cádiz, Andalucía, España",
-      "pt-BR": "A Andaluzia em mosaico",
-      "ja-JP": "赤茶色の屋根が映えるアンダルシアの街",
-      "zh-CN": "俯瞰大地拼图",
-      "en-IN": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain"
-    },
-    "copyrights": {
-      "en-US": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "en-GB": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "en-CA": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
-      "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)",
-      "it-IT": "Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)",
-      "es-ES": "Vista aérea de Olvera, Cádiz, Andalucía, España (© Marco Bottigelli/Getty Images)",
-      "pt-BR": "Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)",
-      "ja-JP": "オルベラ, スペイン (© Marco Bottigelli/Getty Images)",
-      "zh-CN": "奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)",
-      "en-IN": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture, and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "en-GB": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "en-CA": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions.",
-      "de-DE": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
-      "fr-FR": "L’Andalousie est l’une des régions les plus emblématiques d’Espagne. Entre flamenco, tapas, héritage mauresque et vastes oliveraies, elle séduit par sa richesse culturelle. Au cœur de ce paysage se trouve Olvera, un village entouré de plus de deux millions d’oliviers, qui conserve les traces de plusieurs siècles d’histoire. Son château domine encore les hauteurs, tandis que l’église Notre-Dame de l’Incarnation marque l’horizon. Pour mieux comprendre le passé médiéval et les traditions locales, le centre culturel La Cilla constitue une étape incontournable.",
-      "es-ES": "Olvera, en la sierra de Cádiz (Andalucía), se ve desde muy lejos: un cerro de casas encaladas coronado por un castillo de origen musulmán y por la mole neoclásica de la iglesia de Nuestra Señora de la Encarnación. A 643 metros de altitud, este pueblo blanco fue durante siglos tierra de frontera, y ese pasado se cuenta en La Cilla, el antiguo granero de los duques de Osuna hoy convertido en centro cultural y museo.",
-      "ja-JP": "ここは、スペイン南部アンダルシア州にある町、オルベラです。白い壁と赤や茶色の瓦屋根の家が丘の斜面に連なる光景は、アンダルシアに点在している「白い村（プエブロ・ブランコ）」の一つとして知られています。町は、広大なオリーブ畑に囲まれた丘の上に広がり、古くから戦略的な要地として発展してきました。丘の頂にそびえるムーア人の城塞とエンカルナシオン教会は、オルベラのランドマークであり、イスラム文化とキリスト教文化が交錯した歴史を今に伝えています。",
-      "en-IN": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "it-IT": "Olvera, nella sierra di Cadice (Andalusia, Spagna), si vede da lontanissimo: un colle di case imbiancate a calce sormontato da un castello di origine musulmana e dalla mole neoclassica della chiesa di Nuestra Señora de la Encarnación. A 643 metri di quota, questo borgo bianco è stato per secoli terra di frontiera, e quel passato si racconta a La Cilla, l'antico granaio dei duchi di Osuna oggi diventato centro culturale.",
-      "pt-BR": "Olvera parece ter sido construída em camadas: primeiro vêm as oliveiras, depois as casas brancas, depois a igreja e, lá em cima, o castelo. Estamos na Andaluzia, na Espanha, em uma vila cercada por mais de 2 milhões de oliveiras, onde a paisagem agrícola praticamente sobe a montanha junto com as ruas.",
-      "zh-CN": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。"
-    },
-    "quickFacts": {
-      "zh-CN": "奥尔韦拉的摩尔式城堡建于12世纪末，坐落在海拔约623米的高处。"
-    },
-    "captions": {
-      "en-US": "Aerial view of Olvera, Andalusia, Spain",
-      "en-GB": "Aerial view of Olvera, Andalusia, Spain",
-      "en-CA": "Aerial view of Olvera, Andalusia, Spain",
-      "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien",
-      "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne",
-      "it-IT": "",
-      "es-ES": "Vista aérea de Olvera, Cádiz, Andalucía, España",
-      "pt-BR": "",
-      "ja-JP": "赤茶色の屋根が映えるアンダルシアの街",
-      "zh-CN": "",
-      "en-IN": "Aerial view of Olvera, Andalusia, Spain"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260910_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260909_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260917_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Olvera+Informationen&form=hpcapt&filters=HpDate%3a%2220260909_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Olvera+Espagne&form=hpcapt&filters=HpDate%3a%2220260909_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Andalusia+Spagna&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Municipio+de+Olvera&form=hpcapt&filters=HpDate%3a%2220260909_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Olvera+na+Espanha&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%aa%e3%83%ab%e3%83%99%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220260909_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%ae%89%e8%be%be%e5%8d%a2%e8%a5%bf%e4%ba%9a%e5%a4%a7%e5%8c%ba%e5%a5%a5%e5%b0%94%e9%9f%a6%e6%8b%89&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260909_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.Olvera_EN-US4712443253",
-      "en-GB": "/th?id=OHR.Olvera_EN-GB6934313279",
-      "en-CA": "/th?id=OHR.Olvera_EN-CA0142222460",
-      "de-DE": "/th?id=OHR.Olvera_DE-DE7810722479",
-      "fr-FR": "/th?id=OHR.Olvera_FR-FR2163620703",
-      "it-IT": "/th?id=OHR.Olvera_IT-IT3958001884",
-      "es-ES": "/th?id=OHR.Olvera_ES-ES2719648293",
-      "pt-BR": "/th?id=OHR.Olvera_PT-BR2296737928",
-      "ja-JP": "/th?id=OHR.Olvera_JA-JP5093791420",
-      "zh-CN": "/th?id=OHR.Olvera_ZH-CN2727093856",
-      "en-IN": "/th?id=OHR.Olvera_EN-IN7126654941"
-    }
-  },
-  "GabitKeni": {
-    "name": "GabitKeni",
-    "urlbase": "/th?id=OHR.GabitKeni_EN-US4620523183",
-    "date": "20260909",
-    "dateFormatted": "September 09, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "en-US": "Life on India's west coast. Gabit Keni Beach near Ankola, Karnataka, India",
-      "en-CA": "Life on India's west coast. Gabit Keni Beach near Ankola, Karnataka, India",
-      "pt-BR": "Onde a Índia encontra o mar",
-      "ja-JP": "美しい海辺の風景",
-      "en-GB": "Life on India's west coast. Gabit Keni Beach near Ankola, Karnataka, India",
-      "de-DE": "Leben an Indiens Westküste. Gabit-Keni-Strand bei Ankola, Karnataka, Indien",
-      "fr-FR": "La vie sur la côte sud de l’Inde. Plage de Gabit Keni près d’Ankola, Karnataka, Inde",
-      "it-IT": "Sabbia, tranquillità e panorami",
-      "es-ES": "Vida en la costa oeste de la India. Playa Gabit Keni cerca de Ankola, Karnataka, India",
-      "zh-CN": "印度西海岸的生活",
-      "en-IN": "Life on India's west coast. Gabit Keni Beach near Ankola, Karnataka"
-    },
-    "copyrights": {
-      "en-US": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
-      "en-CA": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
-      "pt-BR": "Praia de Gabit Keni, perto de Ankola, Carnataca, Índia (© Amith Nag Photography/Getty Images)",
-      "ja-JP": "ガビット・ケニ・ビーチ, インド (© Amith Nag Photography/Getty Images)",
-      "en-GB": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
-      "de-DE": "Gabit-Keni-Strand bei Ankola, Karnataka, Indien (© Amith Nag Photography/Getty Images)",
-      "fr-FR": "Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)",
-      "it-IT": "Gabit Keni Beach vicino ad Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
-      "es-ES": "Playa Gabit Keni cerca de Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
-      "zh-CN": "安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)",
-      "en-IN": "Gabit Keni Beach near Ankola, Karnataka (© Amith Nag Photography/Getty Images)"
-    },
-    "descs": {
-      "en-US": "When people think of South India, they often picture spice trade routes, classical music, folk dances, and a coastline that has connected India with the world for centuries. Follow that coastline west into Karnataka and you'll reach a quieter stop near Ankola: Gabit Keni Beach. Life here revolves around the Arabian Sea, with fishing boats setting out before dawn and returning with the day's catch.",
-      "en-CA": "When people think of South India, they often picture spice trade routes, classical music, folk dances and a coastline that has connected India with the world for centuries. Follow that coastline west into Karnataka and you'll reach a quieter stop near Ankola: Gabit Keni Beach. Life here revolves around the Arabian Sea, with fishing boats setting out before dawn and returning with the day's catch.",
-      "ja-JP": "アンコラは、インド南西部カルナータカ州のウッタラ・カンナダ県にある海辺の町です。アラビア海に面しており、美しい自然のビーチが多数点在しています。今日の画像に写るガビット・ケニ・ビーチもそのひとつです。このビーチの名前は、地元の漁業コミュニティである「ガビット」に由来しており、ビーチとしてだけでなく、漁業が盛んな地域としても知られています。地元の飲食店では、新鮮な魚介を使った料理が人気です。",
-      "en-GB": "When people think of South India, they often picture spice routes, classical music, folk traditions and a coastline shaped by centuries of maritime life. Follow Karnataka's Arabian Sea coast to the quieter shores of Gabit Keni Beach near Ankola, where fishing remains part of everyday life.",
-      "de-DE": "An der Westküste Indiens, im Bundesstaat Karnataka, liegt der Gabit-Keni-Strand nahe der Stadt Ankola. Der breite Sandstrand öffnet sich zum Arabischen Meer und vermittelt eine ruhige, fast unberührte Atmosphäre. Besonders in den frühen Morgenstunden prägen Fischerboote das Bild, wenn sie hinausfahren und später mit ihrem Fang zurückkehren. Die Nähe zum Meer bestimmt hier seit Generationen den Alltag vieler Menschen.",
-      "fr-FR": "Quand on évoque le sud de l’Inde, viennent souvent à l’esprit les anciennes routes des épices, les mélodies de la musique carnatique et les rivages qui ont relié le sous-continent au monde pendant des siècles. En suivant la côte occidentale du Karnataka jusqu’aux environs d’Ankola, un lieu attire les voyageurs en quête d’authenticité : la plage de Gabit Keni. Ici, le rythme de la vie est dicté par la mer d’Arabie. Avant l’aube, les bateaux de pêche quittent le rivage, perpétuant un savoir-faire profondément enraciné dans le paysage côtier.",
-      "es-ES": "La playa de Gabit Keni, junto a Ankola, en el estado indio de Karnataka, es una de esas paradas discretas del mar de Arabia donde la vida sigue el ritmo de las barcas: salen antes del amanecer y regresan con la captura del día. El arenal debe su nombre a los gabit, comunidad pesquera de la costa de Konkan.",
-      "en-IN": "When people think of South India, they often picture spice trade routes, classical music, folk traditions and a coastline shaped by centuries of maritime life. Follow Karnataka's Arabian Sea coast to the quieter shores of Gabit Keni Beach near Ankola, where fishing remains part of everyday life.",
-      "it-IT": "La spiaggia di Gabit Keni, vicino ad Ankola, nello stato indiano del Karnataka, è una di quelle tappe discrete del Mar Arabico dove tutto segue il ritmo delle barche: escono prima dell'alba e rientrano con il pescato del giorno. Il nome ricorda i gabit, comunità di pescatori della costa del Konkan.",
-      "pt-BR": "Na praia de Gabit Keni, perto de Ankola, na Índia, o Mar da Arábia não fica só fazendo bonito no horizonte. Ele dita horários, movimenta barcos e ajuda a colocar o almoço na mesa. A imagem mostra esta faixa do litoral de Karnataka, onde pescadores da comunidade Gabit, que deu nome à praia, saem cedo para o mar e voltam com o pescado do dia.",
-      "zh-CN": "提到印度南部，人们常会想到香料贸易路线、古典音乐、民间舞蹈，以及数百年来连接印度与世界的海岸线。沿着这条海岸向西进入卡纳塔克邦，便会抵达安科拉附近一处更宁静的停靠点：加比特凯尼海滩。这里的生活围绕阿拉伯海展开，渔船在黎明前出海，载着当天的渔获归来。"
-    },
-    "quickFacts": {
-      "zh-CN": "安科拉主要种植的卡里伊沙德芒果于2023年获得地理标志（GI）认证。"
-    },
-    "captions": {
-      "en-US": "Gabit Keni Beach near Ankola, Karnataka, India",
-      "en-CA": "Gabit Keni Beach near Ankola, Karnataka, India",
-      "pt-BR": "",
-      "ja-JP": "美しい海辺の風景"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Ankola+Karnataka&form=hpcapt&filters=HpDate%3a%2220260909_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Ankola+Karnataka&form=hpcapt&filters=HpDate%3a%2220260909_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Carnataca+na+%c3%8dndia&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=Gabit+Keni+%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260910_1500%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.GabitKeni_EN-US4620523183",
-      "en-CA": "/th?id=OHR.GabitKeni_EN-CA6326584239",
-      "pt-BR": "/th?id=OHR.GabitKeni_PT-BR1706073463",
-      "ja-JP": "/th?id=OHR.GabitKeni_JA-JP3823379916"
-    }
-  },
-  "ElGolfo": {
-    "name": "ElGolfo",
-    "urlbase": "/th?id=OHR.ElGolfo_EN-GB9192637782",
-    "date": "20260921",
-    "dateFormatted": "September 21, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
       "en-GB": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "de-DE": "Vulkanische Kontraste. Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
+      "fr-FR": "Le dialogue entre vagues et cendres. El Golfo, Lanzarote, Îles Canaries, Espagne",
+      "it-IT": "Cenere incontra splash",
+      "ja-JP": "黒い海岸に寄せる白波",
+      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙",
       "en-IN": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "en-US": "Ash meets splash. Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "en-CA": "Ash meets splash. Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "de-DE": "Vulkanische Kontraste. Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
-      "fr-FR": "Le dialogue entre vagues et cendres. Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne",
-      "it-IT": "Cenere incontra splash. Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna",
       "pt-BR": "O legado de um vulcão. Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha",
-      "ja-JP": "黒い海岸に寄せる白波. ランサローテ島, スペイン",
-      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙"
+      "es-ES": "Arena volcánica y olas salvajes. Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España"
     },
     "copyrights": {
       "en-GB": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "de-DE": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
+      "fr-FR": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)",
+      "it-IT": "Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna (© Westend61/Adobe Stock)",
+      "ja-JP": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
+      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)",
       "en-IN": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
       "en-US": "© Westend61/Adobe Stock",
       "en-CA": "© Westend61/Adobe Stock",
-      "de-DE": "© Westend61/Adobe Stock",
-      "fr-FR": "© Westend61/Adobe Stock",
-      "it-IT": "© Westend61/Adobe Stock",
       "pt-BR": "© Westend61/Adobe Stock",
-      "ja-JP": "© Westend61/Adobe Stock",
-      "zh-CN": "© Westend61/Adobe Stock"
+      "es-ES": "© Westend61/Adobe Stock"
     },
     "descs": {
       "en-GB": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages and farmland.",
+      "de-DE": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
+      "fr-FR": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
+      "ja-JP": "黒い海岸に寄せる白波. ランサローテ島, スペイン. ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
       "en-IN": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
       "en-US": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ocher and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages, and farmland.",
       "en-CA": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
-      "de-DE": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
-      "fr-FR": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
       "it-IT": "A El Golfo, sulla costa occidentale di Lanzarote (Isole Canarie, Spagna), la geologia ha perso ogni misura: sabbia nera, falesie striate di ocra e ruggine e l'Atlantico che non smette mai. Il paese è una manciata di case bianche che vivono di pesca e di pesce fresco.",
       "pt-BR": "A ilha de Lanzarote, nas Canárias espanholas, parece ter escolhido cores que não deveriam funcionar juntas: areia negra, mar azul e falésias riscadas de ferrugem e ocre. Mas aqui, quem segura o pincel é a geologia. Milhões de anos de atividade vulcânica moldaram essas terras, e um dos capítulos dessa história é recente: entre 1730 e 1736, dezenas de aberturas vulcânicas entraram em atividade, cobrindo cerca de 200 km² com lava e destruindo campos, estradas e povoados.",
-      "ja-JP": "黒い海岸に寄せる白波. ランサローテ島, スペイン. ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
-      "zh-CN": "在西班牙加那利群岛的兰萨罗特岛，大自然的地质创造力尽情挥洒。赭黄与铁锈色条纹交错的悬崖之下，深色沙滩与大西洋相接，这是延续数百万年的火山活动留下的杰作。这段地质故事中有一章发生在距今并不久远的年代：1730年至1736年间，兰萨罗特岛各处出现了众多火山喷口，熔岩覆盖数十平方英里的土地，掩埋了道路、村庄和农田。"
+      "zh-CN": "在西班牙加那利群岛的兰萨罗特岛，大自然的地质创造力尽情挥洒。赭黄与铁锈色条纹交错的悬崖之下，深色沙滩与大西洋相接，这是延续数百万年的火山活动留下的杰作。这段地质故事中有一章发生在距今并不久远的年代：1730年至1736年间，兰萨罗特岛各处出现了众多火山喷口，熔岩覆盖数十平方英里的土地，掩埋了道路、村庄和农田。",
+      "es-ES": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco."
     },
     "quickFacts": {
       "zh-CN": "兰萨罗特岛与奇尼霍群岛共同构成一座联合国教科文组织世界地质公园，范围涵盖陆地及周边海域。"
     },
     "captions": {
       "en-GB": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "de-DE": "Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
+      "fr-FR": "El Golfo, Lanzarote, Îles Canaries, Espagne",
+      "it-IT": "",
+      "ja-JP": "黒い海岸に寄せる白波",
+      "zh-CN": "",
       "en-IN": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain"
     },
     "copyrightlinks": {
       "en-GB": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260921_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Lanzarote+Espagne&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lanzarote+Spagna&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%ad%e3%83%bc%e3%83%86%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260923_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%85%b0%e8%90%a8%e7%bd%97%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260921_1830%22"
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.ElGolfo_EN-GB9192637782",
+      "de-DE": "/th?id=OHR.ElGolfo_DE-DE2094132875",
+      "fr-FR": "/th?id=OHR.ElGolfo_FR-FR8422872224",
+      "it-IT": "/th?id=OHR.ElGolfo_IT-IT8270823745",
+      "ja-JP": "/th?id=OHR.ElGolfo_JA-JP7674043520",
+      "zh-CN": "/th?id=OHR.ElGolfo_ZH-CN8329995759",
       "en-IN": "/th?id=OHR.ElGolfo_EN-IN8071994539"
     }
   },
@@ -2030,86 +2036,6 @@
       "en-CA": "/th?id=OHR.TIFFRoy_EN-CA6717935809"
     }
   },
-  "TolkienWeek": {
-    "name": "TolkienWeek",
-    "urlbase": "/th?id=OHR.TolkienWeek_DE-DE1744424672",
-    "date": "20260921",
-    "dateFormatted": "September 21, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "de-DE": "Willkommen in Hobbiton. Hobbit-Tag",
-      "fr-FR": "Au-delà de la dernière page. Journée du Hobbit",
-      "it-IT": "Oltre l'ultima pagina",
-      "es-ES": "Donde lo pequeño se hace grande. Decorado de películas de Hobbiton, Matamata, Nueva Zelanda",
-      "en-US": "Beyond the last page. Hobbit house at Hobbiton Movie Set, Matamata, New Zealand",
-      "en-GB": "Beyond the last page. Hobbit house at Hobbiton Movie Set, Matamata, New Zealand",
-      "en-CA": "Beyond the last page. Hobbit house at Hobbiton Movie Set, Matamata, New Zealand",
-      "pt-BR": "Muito além da última página. Vila dos Hobbits em Matamata, Nova Zelândia",
-      "en-IN": "Beyond the last page. Hobbit house at Hobbiton Movie Set, Matamata, New Zealand"
-    },
-    "copyrights": {
-      "de-DE": "Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland (© djr-photography/Shutterstock)",
-      "fr-FR": "Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)",
-      "it-IT": "La Casa di Hobbit presso il Set Cinematografico di Hobbiton, Matamata, Nuova Zelanda (© djr-photography/Shutterstock)",
-      "es-ES": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda (© djr-photography/Shutterstock)",
-      "en-US": "© djr-photography/Shutterstock",
-      "en-GB": "© djr-photography/Shutterstock",
-      "en-CA": "© djr-photography/Shutterstock",
-      "pt-BR": "© djr-photography/Shutterstock",
-      "en-IN": "© djr-photography/Shutterstock"
-    },
-    "descs": {
-      "de-DE": "Heute wird der Hobbit-Tag gefeiert, ein Anlass, der Fans von J. R. R. Tolkien auf der ganzen Welt zusammenbringt. Kaum ein Ort verkörpert die Magie seiner Geschichten so eindrucksvoll wie das Hobbit-Haus am Filmset von Hobbiton in Matamata. Eingebettet in die sanften Hügel Neuseelands wirkt die Kulisse, als wäre sie direkt aus den Seiten eines Fantasyromans in die Wirklichkeit versetzt worden.",
-      "fr-FR": "Dans les collines verdoyantes de Matamata, en Nouvelle-Zélande, un décor de cinéma est devenu un lieu à part entière. Installé sur une ferme ovine encore en activité, Hobbiton est né lorsqu’une équipe de repérage des films « Le Seigneur des anneaux » découvrit, en 1998, un paysage remarquablement proche de la Comté imaginée par Tolkien. Les courbes du relief, les prairies parsemées de moutons et la lumière changeante semblaient déjà raconter une histoire. Des portes rondes, des jardins soignés et des cheminées à volutes ont ensuite achevé la métamorphose.",
-      "es-ES": "Casi todos los lugares célebres los construyó la historia; este lo construyó un relato. El decorado de Hobbiton está en Matamata (Nueva Zelanda), sobre una granja de ovejas que en 1998 llamó la atención de los localizadores de El Señor de los Anillos: las colinas ya parecían la Comarca y solo faltaron puertas redondas, huertos ordenados y chimeneas humeantes.",
-      "en-US": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens, and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
-      "en-GB": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
-      "en-CA": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
-      "it-IT": "Quasi tutti i luoghi celebri li ha costruiti la storia; questo l'ha costruito un racconto. Il set di Hobbiton si trova a Matamata (Nuova Zelanda), in una fattoria di pecore che nel 1998 colpì chi cercava le location per Il Signore degli Anelli: le colline sembravano già la Contea, sono bastate porte rotonde, orti in ordine e comignoli fumanti.",
-      "pt-BR": "Alguns lugares entram para a história. Hobbiton, em Matamata, Nova Zelândia, foi feito para dar vida a uma. Quando produtores de “O Senhor dos Anéis” procuravam locações em 1998, encontraram ali colinas verdes que já pareciam pertencer ao Condado. A equipe acrescentou portas redondas, jardins e chaminés, e o cenário foi reconstruído para os filmes de “O Hobbit”. Uma locação temporária acabou virando atração para fãs do mundo inteiro.",
-      "en-IN": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Hobbit-Tag",
-      "fr-FR": "Journée du Hobbit",
-      "it-IT": "",
-      "es-ES": "Decorado de películas de Hobbiton, Matamata, Nueva Zelanda"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Hobbit-Tag&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+du+Hobbit&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Set+cinematografico+di+Hobbiton&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Hobbiton&form=hpcapt&filters=HpDate%3a%2220260921_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.TolkienWeek_DE-DE1744424672",
-      "fr-FR": "/th?id=OHR.TolkienWeek_FR-FR8060088549",
-      "it-IT": "/th?id=OHR.TolkienWeek_IT-IT7744314580",
-      "es-ES": "/th?id=OHR.TolkienWeek_ES-ES8577009856"
-    }
-  },
   "OktoberfestMunich": {
     "name": "OktoberfestMunich",
     "urlbase": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623",
@@ -2331,6 +2257,38 @@
       "it-IT": "/th?id=OHR.Castelmezzano_IT-IT4140249349"
     }
   },
+  "FiestaMerceBarcelona": {
+    "name": "FiestaMerceBarcelona",
+    "urlbase": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972",
+    "date": "20260923",
+    "dateFormatted": "September 23, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "La ciudad está de fiesta. Fiestas de La Mercè de Barcelona"
+    },
+    "copyrights": {
+      "es-ES": "Vista del Parque Güell en Barcelona, Cataluña, España (© Vershinin/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Hoy Barcelona (Cataluña, España) celebra a su patrona y se echa a la calle: es el día de la Mercè, festivo en la ciudad y punto álgido de una fiesta mayor que desde 1871 despide el verano con un programa desplegado por plazas, calles y playas."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Fiestas de La Mercè de Barcelona"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=La+Merc%c3%a8&form=hpcapt&filters=HpDate%3a%2220260923_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972"
+    }
+  },
   "SanSebastian": {
     "name": "SanSebastian",
     "urlbase": "/th?id=OHR.SanSebastian_ES-ES7080505846",
@@ -2393,6 +2351,38 @@
     },
     "urlbases": {
       "es-ES": "/th?id=OHR.LaVueltaEnd_ES-ES2544902517"
+    }
+  },
+  "SpringTree": {
+    "name": "SpringTree",
+    "urlbase": "/th?id=OHR.SpringTree_PT-BR3107057910",
+    "date": "20260923",
+    "dateFormatted": "September 23, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "A estação em flor"
+    },
+    "copyrights": {
+      "pt-BR": "Ipê-amarelo florido contra o céu azul (© Rogerio Peccioli/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Enquanto muitas árvores ainda parecem indecisas sobre a mudança de estação, o ipê simplesmente larga suas folhas e se cobre de flores. De um dia para o outro, ruas, praças e estradas recebem uma camada extra de saturação. Nada de filtro: é só botânica."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=a+primavera&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.SpringTree_PT-BR3107057910"
     }
   },
   "RedMacaws": {
@@ -2493,6 +2483,70 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.Cosmos2026_JA-JP5810317842"
+    }
+  },
+  "GabitKeni": {
+    "name": "GabitKeni",
+    "urlbase": "/th?id=OHR.GabitKeni_JA-JP3823379916",
+    "date": "20260910",
+    "dateFormatted": "September 10, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "美しい海辺の風景",
+      "en-US": "Life on India's west coast. Gabit Keni Beach near Ankola, Karnataka, India",
+      "en-CA": "Life on India's west coast. Gabit Keni Beach near Ankola, Karnataka, India",
+      "pt-BR": "Onde a Índia encontra o mar",
+      "en-GB": "Life on India's west coast. Gabit Keni Beach near Ankola, Karnataka, India",
+      "de-DE": "Leben an Indiens Westküste. Gabit-Keni-Strand bei Ankola, Karnataka, Indien",
+      "fr-FR": "La vie sur la côte sud de l’Inde. Plage de Gabit Keni près d’Ankola, Karnataka, Inde",
+      "it-IT": "Sabbia, tranquillità e panorami",
+      "es-ES": "Vida en la costa oeste de la India. Playa Gabit Keni cerca de Ankola, Karnataka, India",
+      "zh-CN": "印度西海岸的生活",
+      "en-IN": "Life on India's west coast. Gabit Keni Beach near Ankola, Karnataka"
+    },
+    "copyrights": {
+      "ja-JP": "ガビット・ケニ・ビーチ, インド (© Amith Nag Photography/Getty Images)",
+      "en-US": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+      "en-CA": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+      "pt-BR": "Praia de Gabit Keni, perto de Ankola, Carnataca, Índia (© Amith Nag Photography/Getty Images)",
+      "en-GB": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+      "de-DE": "Gabit-Keni-Strand bei Ankola, Karnataka, Indien (© Amith Nag Photography/Getty Images)",
+      "fr-FR": "Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)",
+      "it-IT": "Gabit Keni Beach vicino ad Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+      "es-ES": "Playa Gabit Keni cerca de Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+      "zh-CN": "安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)",
+      "en-IN": "Gabit Keni Beach near Ankola, Karnataka (© Amith Nag Photography/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "アンコラは、インド南西部カルナータカ州のウッタラ・カンナダ県にある海辺の町です。アラビア海に面しており、美しい自然のビーチが多数点在しています。今日の画像に写るガビット・ケニ・ビーチもそのひとつです。このビーチの名前は、地元の漁業コミュニティである「ガビット」に由来しており、ビーチとしてだけでなく、漁業が盛んな地域としても知られています。地元の飲食店では、新鮮な魚介を使った料理が人気です。",
+      "en-US": "When people think of South India, they often picture spice trade routes, classical music, folk dances, and a coastline that has connected India with the world for centuries. Follow that coastline west into Karnataka and you'll reach a quieter stop near Ankola: Gabit Keni Beach. Life here revolves around the Arabian Sea, with fishing boats setting out before dawn and returning with the day's catch.",
+      "en-CA": "When people think of South India, they often picture spice trade routes, classical music, folk dances and a coastline that has connected India with the world for centuries. Follow that coastline west into Karnataka and you'll reach a quieter stop near Ankola: Gabit Keni Beach. Life here revolves around the Arabian Sea, with fishing boats setting out before dawn and returning with the day's catch.",
+      "en-GB": "When people think of South India, they often picture spice routes, classical music, folk traditions and a coastline shaped by centuries of maritime life. Follow Karnataka's Arabian Sea coast to the quieter shores of Gabit Keni Beach near Ankola, where fishing remains part of everyday life.",
+      "de-DE": "An der Westküste Indiens, im Bundesstaat Karnataka, liegt der Gabit-Keni-Strand nahe der Stadt Ankola. Der breite Sandstrand öffnet sich zum Arabischen Meer und vermittelt eine ruhige, fast unberührte Atmosphäre. Besonders in den frühen Morgenstunden prägen Fischerboote das Bild, wenn sie hinausfahren und später mit ihrem Fang zurückkehren. Die Nähe zum Meer bestimmt hier seit Generationen den Alltag vieler Menschen.",
+      "fr-FR": "Quand on évoque le sud de l’Inde, viennent souvent à l’esprit les anciennes routes des épices, les mélodies de la musique carnatique et les rivages qui ont relié le sous-continent au monde pendant des siècles. En suivant la côte occidentale du Karnataka jusqu’aux environs d’Ankola, un lieu attire les voyageurs en quête d’authenticité : la plage de Gabit Keni. Ici, le rythme de la vie est dicté par la mer d’Arabie. Avant l’aube, les bateaux de pêche quittent le rivage, perpétuant un savoir-faire profondément enraciné dans le paysage côtier.",
+      "es-ES": "La playa de Gabit Keni, junto a Ankola, en el estado indio de Karnataka, es una de esas paradas discretas del mar de Arabia donde la vida sigue el ritmo de las barcas: salen antes del amanecer y regresan con la captura del día. El arenal debe su nombre a los gabit, comunidad pesquera de la costa de Konkan.",
+      "en-IN": "When people think of South India, they often picture spice trade routes, classical music, folk traditions and a coastline shaped by centuries of maritime life. Follow Karnataka's Arabian Sea coast to the quieter shores of Gabit Keni Beach near Ankola, where fishing remains part of everyday life.",
+      "it-IT": "La spiaggia di Gabit Keni, vicino ad Ankola, nello stato indiano del Karnataka, è una di quelle tappe discrete del Mar Arabico dove tutto segue il ritmo delle barche: escono prima dell'alba e rientrano con il pescato del giorno. Il nome ricorda i gabit, comunità di pescatori della costa del Konkan.",
+      "pt-BR": "Na praia de Gabit Keni, perto de Ankola, na Índia, o Mar da Arábia não fica só fazendo bonito no horizonte. Ele dita horários, movimenta barcos e ajuda a colocar o almoço na mesa. A imagem mostra esta faixa do litoral de Karnataka, onde pescadores da comunidade Gabit, que deu nome à praia, saem cedo para o mar e voltam com o pescado do dia.",
+      "zh-CN": "提到印度南部，人们常会想到香料贸易路线、古典音乐、民间舞蹈，以及数百年来连接印度与世界的海岸线。沿着这条海岸向西进入卡纳塔克邦，便会抵达安科拉附近一处更宁静的停靠点：加比特凯尼海滩。这里的生活围绕阿拉伯海展开，渔船在黎明前出海，载着当天的渔获归来。"
+    },
+    "quickFacts": {
+      "zh-CN": "安科拉主要种植的卡里伊沙德芒果于2023年获得地理标志（GI）认证。"
+    },
+    "captions": {
+      "ja-JP": "美しい海辺の風景"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=Gabit+Keni+%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260910_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.GabitKeni_JA-JP3823379916"
     }
   },
   "AutumnEquinoxY26": {
