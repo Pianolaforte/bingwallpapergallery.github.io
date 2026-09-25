@@ -1,4 +1,132 @@
 {
+  "ElGolfo": {
+    "name": "ElGolfo",
+    "urlbase": "/th?id=OHR.ElGolfo_EN-US9261454857",
+    "date": "20260924",
+    "dateFormatted": "September 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "en-GB": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "en-CA": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "de-DE": "Vulkanische Kontraste. Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
+      "fr-FR": "Le dialogue entre vagues et cendres. El Golfo, Lanzarote, Îles Canaries, Espagne",
+      "it-IT": "Cenere incontra splash",
+      "ja-JP": "黒い海岸に寄せる白波",
+      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙",
+      "en-IN": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "pt-BR": "O legado de um vulcão. Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha",
+      "es-ES": "Arena volcánica y olas salvajes. Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "en-GB": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "en-CA": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "de-DE": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
+      "fr-FR": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)",
+      "it-IT": "Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna (© Westend61/Adobe Stock)",
+      "ja-JP": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
+      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)",
+      "en-IN": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "pt-BR": "© Westend61/Adobe Stock",
+      "es-ES": "© Westend61/Adobe Stock"
+    },
+    "descs": {
+      "en-US": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ocher and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages, and farmland.",
+      "en-GB": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages and farmland.",
+      "en-CA": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
+      "de-DE": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
+      "fr-FR": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
+      "ja-JP": "黒い海岸に寄せる白波. ランサローテ島, スペイン. ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
+      "en-IN": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
+      "it-IT": "A El Golfo, sulla costa occidentale di Lanzarote (Isole Canarie, Spagna), la geologia ha perso ogni misura: sabbia nera, falesie striate di ocra e ruggine e l'Atlantico che non smette mai. Il paese è una manciata di case bianche che vivono di pesca e di pesce fresco.",
+      "pt-BR": "A ilha de Lanzarote, nas Canárias espanholas, parece ter escolhido cores que não deveriam funcionar juntas: areia negra, mar azul e falésias riscadas de ferrugem e ocre. Mas aqui, quem segura o pincel é a geologia. Milhões de anos de atividade vulcânica moldaram essas terras, e um dos capítulos dessa história é recente: entre 1730 e 1736, dezenas de aberturas vulcânicas entraram em atividade, cobrindo cerca de 200 km² com lava e destruindo campos, estradas e povoados.",
+      "zh-CN": "在西班牙加那利群岛的兰萨罗特岛，大自然的地质创造力尽情挥洒。赭黄与铁锈色条纹交错的悬崖之下，深色沙滩与大西洋相接，这是延续数百万年的火山活动留下的杰作。这段地质故事中有一章发生在距今并不久远的年代：1730年至1736年间，兰萨罗特岛各处出现了众多火山喷口，熔岩覆盖数十平方英里的土地，掩埋了道路、村庄和农田。",
+      "es-ES": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco."
+    },
+    "quickFacts": {
+      "zh-CN": "兰萨罗特岛与奇尼霍群岛共同构成一座联合国教科文组织世界地质公园，范围涵盖陆地及周边海域。"
+    },
+    "captions": {
+      "en-US": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "en-GB": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "en-CA": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "de-DE": "Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
+      "fr-FR": "El Golfo, Lanzarote, Îles Canaries, Espagne",
+      "it-IT": "",
+      "ja-JP": "黒い海岸に寄せる白波",
+      "zh-CN": "",
+      "en-IN": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260924_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260921_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260924_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Lanzarote+Espagne&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Lanzarote+Spagna&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%ad%e3%83%bc%e3%83%86%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260923_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%85%b0%e8%90%a8%e7%bd%97%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260921_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ElGolfo_EN-US9261454857",
+      "en-GB": "/th?id=OHR.ElGolfo_EN-GB9192637782",
+      "en-CA": "/th?id=OHR.ElGolfo_EN-CA7672858081",
+      "de-DE": "/th?id=OHR.ElGolfo_DE-DE2094132875",
+      "fr-FR": "/th?id=OHR.ElGolfo_FR-FR8422872224",
+      "it-IT": "/th?id=OHR.ElGolfo_IT-IT8270823745",
+      "ja-JP": "/th?id=OHR.ElGolfo_JA-JP7674043520",
+      "zh-CN": "/th?id=OHR.ElGolfo_ZH-CN8329995759",
+      "en-IN": "/th?id=OHR.ElGolfo_EN-IN8071994539"
+    }
+  },
   "TolkienWeek": {
     "name": "TolkienWeek",
     "urlbase": "/th?id=OHR.TolkienWeek_EN-US7313336185",
@@ -41,6 +169,11 @@
         "flag": "es"
       },
       {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
         "code": "en-IN",
         "name": "IN",
         "flag": "in"
@@ -54,8 +187,8 @@
       "fr-FR": "Au-delà de la dernière page. Journée du Hobbit",
       "it-IT": "Oltre l'ultima pagina",
       "es-ES": "Donde lo pequeño se hace grande. Decorado de películas de Hobbiton, Matamata, Nueva Zelanda",
-      "en-IN": "Beyond the last page. Tolkien Week",
-      "pt-BR": "Muito além da última página. Vila dos Hobbits em Matamata, Nova Zelândia"
+      "pt-BR": "Muito além da última página",
+      "en-IN": "Beyond the last page. Tolkien Week"
     },
     "copyrights": {
       "en-US": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
@@ -65,8 +198,8 @@
       "fr-FR": "Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)",
       "it-IT": "La Casa di Hobbit presso il Set Cinematografico di Hobbiton, Matamata, Nuova Zelanda (© djr-photography/Shutterstock)",
       "es-ES": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda (© djr-photography/Shutterstock)",
-      "en-IN": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
-      "pt-BR": "© djr-photography/Shutterstock"
+      "pt-BR": "Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)",
+      "en-IN": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)"
     },
     "descs": {
       "en-US": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens, and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
@@ -88,6 +221,7 @@
       "fr-FR": "Journée du Hobbit",
       "it-IT": "",
       "es-ES": "Decorado de películas de Hobbiton, Matamata, Nueva Zelanda",
+      "pt-BR": "",
       "en-IN": "Tolkien Week"
     },
     "copyrightlinks": {
@@ -98,6 +232,7 @@
       "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+du+Hobbit&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
       "it-IT": "https://www.bing.com/search?q=Set+cinematografico+di+Hobbiton&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Hobbiton&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Semana+Tolkien+e+Dia+Hobbit&form=hpcapt&mkt=pt-br",
       "en-IN": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_1830%22"
     },
     "urlbases": {
@@ -108,6 +243,7 @@
       "fr-FR": "/th?id=OHR.TolkienWeek_FR-FR8060088549",
       "it-IT": "/th?id=OHR.TolkienWeek_IT-IT7744314580",
       "es-ES": "/th?id=OHR.TolkienWeek_ES-ES8577009856",
+      "pt-BR": "/th?id=OHR.TolkienWeek_PT-BR2214990560",
       "en-IN": "/th?id=OHR.TolkienWeek_EN-IN8323924749"
     }
   },
@@ -727,7 +863,7 @@
       "it-IT": "Attraverso il cuore del passo",
       "pt-BR": "Um capítulo aberto da Terra",
       "ja-JP": "緑の丘を縫う道",
-      "zh-CN": "温纳茨山口，峰区国家公园，英格兰",
+      "zh-CN": "穿越山口腹地",
       "en-IN": "Through the heart of the pass. Winnats Pass, Peak District National Park, England"
     },
     "copyrights": {
@@ -748,7 +884,7 @@
       "en-CA": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
       "de-DE": "Im Peak-District-Nationalpark in England schlängelt sich die Straße durch den Winnats Pass, eine eindrucksvolle Kalksteinschlucht nahe dem Dorf Castleton. Steile Felswände ragen zu beiden Seiten empor und prägen eine Landschaft, die über Millionen von Jahren durch natürliche Prozesse geformt wurde. Wer den Pass durchquert, fährt mitten durch eine Kulisse, die von der langen geologischen Geschichte der Region erzählt. Besonders eindrucksvoll wirkt der Ort bei wechselhaftem Wetter, wenn Licht und Schatten über die hellen Felsen wandern.",
       "fr-FR": "Au cœur du Peak District, premier parc national créé au Royaume-Uni, une route sinueuse traverse un paysage façonné il y a plus de 300 millions d’années. À Winnats Pass, les falaises calcaires s’élèvent de part et d’autre de la chaussée, dévoilant les vestiges d’anciennes mers tropicales qui recouvraient autrefois cette partie de l’Angleterre. Le silence des parois rocheuses contraste avec le vent qui s’engouffre dans la gorge et souligne la puissance du temps géologique.",
-      "ja-JP": "緑の丘を縫う道. ウィナッツ・パス, イングランド. ここはイギリスで最初の国立公園であるピーク・ディストリクト国立公園。そして、この石灰岩の断崖に囲まれた曲がりくねった峠道は、ウィナッツ・パス。その周辺には、緑豊かな谷や広々とした丘陵が続き、ハイキングを楽しむことができます。また、地下には洞窟が広がり、旧鉛鉱山の跡も残されているほか、キャッスルトンやベイクウェルといった趣ある町を訪れることもできます。",
+      "ja-JP": "ここはイギリスで最初の国立公園であるピーク・ディストリクト国立公園。そして、この石灰岩の断崖に囲まれた曲がりくねった峠道は、ウィナッツ・パス。その周辺には、緑豊かな谷や広々とした丘陵が続き、ハイキングを楽しむことができます。また、地下には洞窟が広がり、旧鉛鉱山の跡も残されているほか、キャッスルトンやベイクウェルといった趣ある町を訪れることもできます。",
       "en-IN": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
       "it-IT": "La strada che serpeggia nell'immagine attraversa il Winnats Pass, una gola calcarea del Parco Nazionale del Peak District (Inghilterra) scavata in rocce di oltre 300 milioni di anni. Quelle pareti si sono formate sul fondo di un mare tropicale e oggi stringono il passaggio fino a trasformarlo in un imbuto di pietra ed erba, con pendenze che mettono alla prova freni e polmoni.",
       "pt-BR": "O asfalto que atravessa o Winnats Pass, no Peak District, é só a camada mais recente de uma história muito mais antiga. Há mais de 300 milhões de anos, este trecho do norte da Inglaterra fazia parte de um ambiente marinho tropical. Sedimentos acumulados no fundo do oceano deram origem ao calcário que hoje forma os paredões do desfiladeiro.",
@@ -1553,91 +1689,11 @@
       "en-US": "/th?id=OHR.Flight93_EN-US5966783443"
     }
   },
-  "Olvera": {
-    "name": "Olvera",
-    "urlbase": "/th?id=OHR.Olvera_EN-US4712443253",
-    "date": "20260910",
-    "dateFormatted": "September 10, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "en-CA": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "pt-BR": "A Andaluzia em mosaico",
-      "en-GB": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "de-DE": "Ein buntes Mosaik aus der Luft. Luftaufnahme von Olvera, Andalusien, Spanien",
-      "fr-FR": "Un patchwork vu du dessus. Vue aérienne d’Olvera, Andalousie, Espagne",
-      "it-IT": "Un mosaico dall'alto",
-      "es-ES": "Un mosaico andaluz. Vista aérea de Olvera, Cádiz, Andalucía, España",
-      "ja-JP": "赤茶色の屋根が映えるアンダルシアの街",
-      "zh-CN": "俯瞰大地拼图",
-      "en-IN": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain"
-    },
-    "copyrights": {
-      "en-US": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "en-CA": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "pt-BR": "Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)",
-      "en-GB": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
-      "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)",
-      "it-IT": "Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)",
-      "es-ES": "Vista aérea de Olvera, Cádiz, Andalucía, España (© Marco Bottigelli/Getty Images)",
-      "ja-JP": "オルベラ, スペイン (© Marco Bottigelli/Getty Images)",
-      "zh-CN": "奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)",
-      "en-IN": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture, and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "en-CA": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions.",
-      "en-GB": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "de-DE": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
-      "fr-FR": "L’Andalousie est l’une des régions les plus emblématiques d’Espagne. Entre flamenco, tapas, héritage mauresque et vastes oliveraies, elle séduit par sa richesse culturelle. Au cœur de ce paysage se trouve Olvera, un village entouré de plus de deux millions d’oliviers, qui conserve les traces de plusieurs siècles d’histoire. Son château domine encore les hauteurs, tandis que l’église Notre-Dame de l’Incarnation marque l’horizon. Pour mieux comprendre le passé médiéval et les traditions locales, le centre culturel La Cilla constitue une étape incontournable.",
-      "es-ES": "Olvera, en la sierra de Cádiz (Andalucía), se ve desde muy lejos: un cerro de casas encaladas coronado por un castillo de origen musulmán y por la mole neoclásica de la iglesia de Nuestra Señora de la Encarnación. A 643 metros de altitud, este pueblo blanco fue durante siglos tierra de frontera, y ese pasado se cuenta en La Cilla, el antiguo granero de los duques de Osuna hoy convertido en centro cultural y museo.",
-      "ja-JP": "ここは、スペイン南部アンダルシア州にある町、オルベラです。白い壁と赤や茶色の瓦屋根の家が丘の斜面に連なる光景は、アンダルシアに点在している「白い村（プエブロ・ブランコ）」の一つとして知られています。町は、広大なオリーブ畑に囲まれた丘の上に広がり、古くから戦略的な要地として発展してきました。丘の頂にそびえるムーア人の城塞とエンカルナシオン教会は、オルベラのランドマークであり、イスラム文化とキリスト教文化が交錯した歴史を今に伝えています。",
-      "en-IN": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "it-IT": "Olvera, nella sierra di Cadice (Andalusia, Spagna), si vede da lontanissimo: un colle di case imbiancate a calce sormontato da un castello di origine musulmana e dalla mole neoclassica della chiesa di Nuestra Señora de la Encarnación. A 643 metri di quota, questo borgo bianco è stato per secoli terra di frontiera, e quel passato si racconta a La Cilla, l'antico granaio dei duchi di Osuna oggi diventato centro culturale.",
-      "pt-BR": "Olvera parece ter sido construída em camadas: primeiro vêm as oliveiras, depois as casas brancas, depois a igreja e, lá em cima, o castelo. Estamos na Andaluzia, na Espanha, em uma vila cercada por mais de 2 milhões de oliveiras, onde a paisagem agrícola praticamente sobe a montanha junto com as ruas.",
-      "zh-CN": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。"
-    },
-    "quickFacts": {
-      "zh-CN": "奥尔韦拉的摩尔式城堡建于12世纪末，坐落在海拔约623米的高处。"
-    },
-    "captions": {
-      "en-US": "Aerial view of Olvera, Andalusia, Spain",
-      "en-CA": "Aerial view of Olvera, Andalusia, Spain",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260910_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260917_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Olvera+na+Espanha&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.Olvera_EN-US4712443253",
-      "en-CA": "/th?id=OHR.Olvera_EN-CA0142222460",
-      "pt-BR": "/th?id=OHR.Olvera_PT-BR2296737928"
-    }
-  },
-  "ElGolfo": {
-    "name": "ElGolfo",
-    "urlbase": "/th?id=OHR.ElGolfo_EN-GB9192637782",
-    "date": "20260921",
-    "dateFormatted": "September 21, 2026",
+  "MidAutumn2026": {
+    "name": "MidAutumn2026",
+    "urlbase": "/th?id=OHR.MidAutumn2026_EN-GB9443754459",
+    "date": "20260924",
+    "dateFormatted": "September 24, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1660,6 +1716,11 @@
         "flag": "it"
       },
       {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1676,73 +1737,83 @@
       }
     ],
     "titles": {
-      "en-GB": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "de-DE": "Vulkanische Kontraste. Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
-      "fr-FR": "Le dialogue entre vagues et cendres. El Golfo, Lanzarote, Îles Canaries, Espagne",
-      "it-IT": "Cenere incontra splash",
-      "ja-JP": "黒い海岸に寄せる白波",
-      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙",
-      "en-IN": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "en-US": "Ash meets splash. Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "en-CA": "Ash meets splash. Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "pt-BR": "O legado de um vulcão. Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha",
-      "es-ES": "Arena volcánica y olas salvajes. Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España"
+      "en-GB": "When the moon joins the party. Mid-Autumn Festival",
+      "de-DE": "Wenn der Mond mitfeiert. Mondfest",
+      "fr-FR": "Quand la lune est de la partie. Fête de la Mi-Automne",
+      "it-IT": "Quando la luna si unisce alla festa",
+      "es-ES": "Cuando la luna se une a la fiesta. Fiesta del Medio Otoño",
+      "ja-JP": "今日は中秋の名月",
+      "zh-CN": "庆祝中秋节的中国灯笼",
+      "en-IN": "When the moon joins the party. Mid-Autumn Festival",
+      "en-US": "When the moon joins the party. Chinese lanterns for Mid-Autumn Festival celebration",
+      "en-CA": "When the moon joins the party. Chinese lanterns for Mid-Autumn Festival celebration",
+      "pt-BR": "Quando a lua entra na festa. Lanternas chinesas para a celebração do Festival da Lua, Hong Kong, China"
     },
     "copyrights": {
-      "en-GB": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
-      "de-DE": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
-      "fr-FR": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)",
-      "it-IT": "Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna (© Westend61/Adobe Stock)",
-      "ja-JP": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
-      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)",
-      "en-IN": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
-      "en-US": "© Westend61/Adobe Stock",
-      "en-CA": "© Westend61/Adobe Stock",
-      "pt-BR": "© Westend61/Adobe Stock",
-      "es-ES": "© Westend61/Adobe Stock"
+      "en-GB": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
+      "de-DE": "Chinesische Laternen zum Mondfest (© LeeYiuTung/Getty Images)",
+      "fr-FR": "Lanternes chinoises lors de la Fête de la Mi-Automne (© LeeYiuTung/Getty Images)",
+      "it-IT": "Lanterne cinesi per la celebrazione della Festa di metà autunno (© LeeYiuTung/Getty Images)",
+      "es-ES": "Faroles chinos para la celebración de la Fiesta del Medio Otoño (© LeeYiuTung/Getty Images)",
+      "ja-JP": "中秋節用の中国提灯 (© LeeYiuTung/Getty Images)",
+      "zh-CN": "庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)",
+      "en-IN": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
+      "en-US": "© LeeYiuTung/Getty Images",
+      "en-CA": "© LeeYiuTung/Getty Images",
+      "pt-BR": "© LeeYiuTung/Getty Images"
     },
     "descs": {
-      "en-GB": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages and farmland.",
-      "de-DE": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
-      "fr-FR": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
-      "ja-JP": "黒い海岸に寄せる白波. ランサローテ島, スペイン. ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
-      "en-IN": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
-      "en-US": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ocher and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages, and farmland.",
-      "en-CA": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
-      "it-IT": "A El Golfo, sulla costa occidentale di Lanzarote (Isole Canarie, Spagna), la geologia ha perso ogni misura: sabbia nera, falesie striate di ocra e ruggine e l'Atlantico che non smette mai. Il paese è una manciata di case bianche che vivono di pesca e di pesce fresco.",
-      "pt-BR": "A ilha de Lanzarote, nas Canárias espanholas, parece ter escolhido cores que não deveriam funcionar juntas: areia negra, mar azul e falésias riscadas de ferrugem e ocre. Mas aqui, quem segura o pincel é a geologia. Milhões de anos de atividade vulcânica moldaram essas terras, e um dos capítulos dessa história é recente: entre 1730 e 1736, dezenas de aberturas vulcânicas entraram em atividade, cobrindo cerca de 200 km² com lava e destruindo campos, estradas e povoados.",
-      "zh-CN": "在西班牙加那利群岛的兰萨罗特岛，大自然的地质创造力尽情挥洒。赭黄与铁锈色条纹交错的悬崖之下，深色沙滩与大西洋相接，这是延续数百万年的火山活动留下的杰作。这段地质故事中有一章发生在距今并不久远的年代：1730年至1736年间，兰萨罗特岛各处出现了众多火山喷口，熔岩覆盖数十平方英里的土地，掩埋了道路、村庄和农田。",
-      "es-ES": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco."
+      "en-GB": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+      "de-DE": "Das Mondfest, auch als Mittherbstfest bekannt, zählt zu den bedeutendsten traditionellen Feiertagen Chinas. Es wird am fünfzehnten Tag des achten Monats im chinesischen Mondkalender gefeiert und ist eng mit dem Vollmond verbunden. Seine Ursprünge reichen mehr als 3.000 Jahre zurück und gehen auf Rituale zur Verehrung des Mondes während der Zhou-Dynastie zurück. Heute ist das Fest vor allem ein Anlass für Familien, gemeinsam Zeit zu verbringen. Chinesische Laternen gehören dabei zu den bekanntesten Symbolen und verleihen den Feierlichkeiten mit ihrem warmen Licht eine besondere Atmosphäre.",
+      "fr-FR": "Et si la pleine lune était l’invitée d’honneur d’un repas familial ? Voici l’esprit de la Fête de la Mi-Automne, ou Fête de la Lune, célébrée le quinzième jour du huitième mois lunaire. Comptant parmi les grandes traditions chinoises, elle plonge ses racines il y a plus de trois millénaires, jusqu’aux rituels de la dynastie Zhou. À la tombée du soir, les récits de Chang’e, qui aurait bu un élixir d’immortalité avant de rejoindre la lune, continuent de nourrir l’imaginaire collectif.",
+      "es-ES": "Hoy, 25 de septiembre, millones de personas en China y en el resto de Asia oriental celebran la Fiesta del Medio Otoño, la noche en que la luna llena se convierte en invitada de honor. Cae el decimoquinto día del octavo mes lunar, así que la fecha baila cada año.",
+      "ja-JP": "2026 年は、今日 9 月 25 日が中秋の名月。お団子やススキなどをお供えしてお月見を楽しむ日であるとともに、秋の実りに感謝し、翌年の豊穣を祈願する日です。旧暦の 8 月 15 日にあたり、中国の中秋節に由来しています。日本ではお団子が主流ですが、中国では「月餅」という丸いお菓子を食べます。この月餅は、満月をかたどっているとともに、家族の円満や団らんを象徴しており、家族で集まって食べることで、全員の幸せを祈ります。",
+      "en-IN": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+      "en-US": "What if the full moon were the guest of honor at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honoring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+      "en-CA": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+      "it-IT": "Oggi, 25 settembre, milioni di persone in Cina e in tutta l'Asia orientale celebrano la Festa di metà autunno, la notte in cui la luna piena diventa l'ospite d'onore. Cade il quindicesimo giorno dell'ottavo mese lunare, quindi la data si sposta ogni anno sul nostro calendario.",
+      "pt-BR": "Já imaginou se a Lua fosse a convidada de honra do jantar? É essa a ideia do Festival do Meio do Outono, ou Festival da Lua. Com raízes de mais de 3 mil anos, é uma das celebrações mais tradicionais da cultura chinesa. Famílias se reúnem, lanternas iluminam as ruas e entram em cena os bolinhos da Lua, doces recheados cuja forma redonda representa união e completude. Uma lenda curiosa diz que, na dinastia Yuan, mensagens secretas eram escondidas nos bolinhos para organizar uma revolta contra os governantes mongóis.",
+      "zh-CN": "如果满月是你家宴上的贵宾，会是什么情景？这正是中秋节的意蕴，中秋节也被称为月亮节。这个节日在农历八月十五庆祝，是中国文化中最重要的节日之一。它的源头可追溯至3,000多年前周朝时期的祭月仪式。最广为人知的传说讲述了嫦娥服下长生不老药后飞上月宫的故事。"
     },
     "quickFacts": {
-      "zh-CN": "兰萨罗特岛与奇尼霍群岛共同构成一座联合国教科文组织世界地质公园，范围涵盖陆地及周边海域。"
+      "en-US": "A record-breaking mooncake in China once weighed nearly 13 tons and measured over 26 feet wide.",
+      "en-GB": "A record-breaking mooncake in China once weighed nearly 12 tonnes and measured about 8 metres wide.",
+      "en-CA": "A record-breaking mooncake in China once weighed nearly 13 tonnes and measured over 7 metres wide.",
+      "de-DE": "Ein rekordverdächtiger Mondkuchen in China wog einst fast 13 Tonnen und hatte einen Durchmesser von über 8 Metern.",
+      "fr-FR": "En Chine, le plus gros gâteau de la Lune jamais préparé pesait près de 13 tonnes et mesurait près de 8 mètres de large.",
+      "ja-JP": "中国では、月には「玉兎（ぎょくと）」というウサギが住み、不老不死の薬を作っていると伝えられています。",
+      "zh-CN": "中国曾制作出一个破纪录的月饼，重近13吨，直径超过26英尺。",
+      "en-IN": "A record-breaking mooncake in China once weighed nearly 12 tonnes and measured about 8 metres wide."
     },
     "captions": {
-      "en-GB": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "de-DE": "Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
-      "fr-FR": "El Golfo, Lanzarote, Îles Canaries, Espagne",
+      "en-GB": "Mid-Autumn Festival",
+      "de-DE": "Mondfest",
+      "fr-FR": "Fête de la Mi-Automne",
       "it-IT": "",
-      "ja-JP": "黒い海岸に寄せる白波",
+      "es-ES": "Fiesta del Medio Otoño",
+      "ja-JP": "今日は中秋の名月",
       "zh-CN": "",
-      "en-IN": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain"
+      "en-IN": "Mid-Autumn Festival"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260921_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Lanzarote+Espagne&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lanzarote+Spagna&form=hpcapt",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%ad%e3%83%bc%e3%83%86%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260923_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%85%b0%e8%90%a8%e7%bd%97%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260921_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Mid+Autumn+Festival&form=hpcapt&filters=HpDate%3a%2220260924_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Mondfest&form=hpcapt&filters=HpDate%3a%2220260924_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=F%c3%aate+de+la+Mi-Automne&form=hpcapt&filters=HpDate%3a%2220260924_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Festa+di+met%c3%a0+autunno&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=hpcapt&filters=HpDate%3a%2220260924_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%ad%e7%a7%8b%e3%81%ae%e5%90%8d%e6%9c%88&form=hpcapt&filters=HpDate%3a%2220260924_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%ad%e7%a7%8b%e8%8a%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Mid+Autumn+Festival&form=hpcapt&filters=HpDate%3a%2220260924_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.ElGolfo_EN-GB9192637782",
-      "de-DE": "/th?id=OHR.ElGolfo_DE-DE2094132875",
-      "fr-FR": "/th?id=OHR.ElGolfo_FR-FR8422872224",
-      "it-IT": "/th?id=OHR.ElGolfo_IT-IT8270823745",
-      "ja-JP": "/th?id=OHR.ElGolfo_JA-JP7674043520",
-      "zh-CN": "/th?id=OHR.ElGolfo_ZH-CN8329995759",
-      "en-IN": "/th?id=OHR.ElGolfo_EN-IN8071994539"
+      "en-GB": "/th?id=OHR.MidAutumn2026_EN-GB9443754459",
+      "de-DE": "/th?id=OHR.MidAutumn2026_DE-DE3267606088",
+      "fr-FR": "/th?id=OHR.MidAutumn2026_FR-FR8607088238",
+      "it-IT": "/th?id=OHR.MidAutumn2026_IT-IT8365698421",
+      "es-ES": "/th?id=OHR.MidAutumn2026_ES-ES7834121465",
+      "ja-JP": "/th?id=OHR.MidAutumn2026_JA-JP8034446964",
+      "zh-CN": "/th?id=OHR.MidAutumn2026_ZH-CN8947536773",
+      "en-IN": "/th?id=OHR.MidAutumn2026_EN-IN8396341266"
     }
   },
   "RedMacawsFlight": {
@@ -1893,76 +1964,110 @@
       "en-GB": "/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139"
     }
   },
-  "FrenchRivieraVillage": {
-    "name": "FrenchRivieraVillage",
-    "urlbase": "/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823",
-    "date": "20260910",
-    "dateFormatted": "September 10, 2026",
+  "Olvera": {
+    "name": "Olvera",
+    "urlbase": "/th?id=OHR.Olvera_EN-CA0142222460",
+    "date": "20260917",
+    "dateFormatted": "September 17, 2026",
     "markets": [
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "en-US": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "pt-BR": "A Andaluzia em mosaico",
+      "en-GB": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "de-DE": "Ein buntes Mosaik aus der Luft. Luftaufnahme von Olvera, Andalusien, Spanien",
+      "fr-FR": "Un patchwork vu du dessus. Vue aérienne d’Olvera, Andalousie, Espagne",
+      "it-IT": "Un mosaico dall'alto",
+      "es-ES": "Un mosaico andaluz. Vista aérea de Olvera, Cádiz, Andalucía, España",
+      "ja-JP": "赤茶色の屋根が映えるアンダルシアの街",
+      "zh-CN": "俯瞰大地拼图",
+      "en-IN": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain"
+    },
+    "copyrights": {
+      "en-CA": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "en-US": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "pt-BR": "Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)",
+      "en-GB": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
+      "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)",
+      "it-IT": "Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)",
+      "es-ES": "Vista aérea de Olvera, Cádiz, Andalucía, España (© Marco Bottigelli/Getty Images)",
+      "ja-JP": "オルベラ, スペイン (© Marco Bottigelli/Getty Images)",
+      "zh-CN": "奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)",
+      "en-IN": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions.",
+      "en-US": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture, and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "en-GB": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "de-DE": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
+      "fr-FR": "L’Andalousie est l’une des régions les plus emblématiques d’Espagne. Entre flamenco, tapas, héritage mauresque et vastes oliveraies, elle séduit par sa richesse culturelle. Au cœur de ce paysage se trouve Olvera, un village entouré de plus de deux millions d’oliviers, qui conserve les traces de plusieurs siècles d’histoire. Son château domine encore les hauteurs, tandis que l’église Notre-Dame de l’Incarnation marque l’horizon. Pour mieux comprendre le passé médiéval et les traditions locales, le centre culturel La Cilla constitue une étape incontournable.",
+      "es-ES": "Olvera, en la sierra de Cádiz (Andalucía), se ve desde muy lejos: un cerro de casas encaladas coronado por un castillo de origen musulmán y por la mole neoclásica de la iglesia de Nuestra Señora de la Encarnación. A 643 metros de altitud, este pueblo blanco fue durante siglos tierra de frontera, y ese pasado se cuenta en La Cilla, el antiguo granero de los duques de Osuna hoy convertido en centro cultural y museo.",
+      "ja-JP": "ここは、スペイン南部アンダルシア州にある町、オルベラです。白い壁と赤や茶色の瓦屋根の家が丘の斜面に連なる光景は、アンダルシアに点在している「白い村（プエブロ・ブランコ）」の一つとして知られています。町は、広大なオリーブ畑に囲まれた丘の上に広がり、古くから戦略的な要地として発展してきました。丘の頂にそびえるムーア人の城塞とエンカルナシオン教会は、オルベラのランドマークであり、イスラム文化とキリスト教文化が交錯した歴史を今に伝えています。",
+      "en-IN": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "it-IT": "Olvera, nella sierra di Cadice (Andalusia, Spagna), si vede da lontanissimo: un colle di case imbiancate a calce sormontato da un castello di origine musulmana e dalla mole neoclassica della chiesa di Nuestra Señora de la Encarnación. A 643 metri di quota, questo borgo bianco è stato per secoli terra di frontiera, e quel passato si racconta a La Cilla, l'antico granaio dei duchi di Osuna oggi diventato centro culturale.",
+      "pt-BR": "Olvera parece ter sido construída em camadas: primeiro vêm as oliveiras, depois as casas brancas, depois a igreja e, lá em cima, o castelo. Estamos na Andaluzia, na Espanha, em uma vila cercada por mais de 2 milhões de oliveiras, onde a paisagem agrícola praticamente sobe a montanha junto com as ruas.",
+      "zh-CN": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。"
+    },
+    "quickFacts": {
+      "zh-CN": "奥尔韦拉的摩尔式城堡建于12世纪末，坐落在海拔约623米的高处。"
+    },
+    "captions": {
+      "en-CA": "Aerial view of Olvera, Andalusia, Spain"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260917_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.Olvera_EN-CA0142222460"
+    }
+  },
+  "FrenchRivieraVillage": {
+    "name": "FrenchRivieraVillage",
+    "urlbase": "/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252",
+    "date": "20260911",
+    "dateFormatted": "September 11, 2026",
+    "markets": [
       {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
-      "en-GB": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
       "en-CA": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
+      "pt-BR": "Um jardim com vista para o mar",
+      "en-GB": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
       "de-DE": "Wo das Mittelmeer regiert. Villefranche-sur-Mer, Côte d’Azur, Frankreich",
       "fr-FR": "Là où la Méditerranée est reine. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur",
       "es-ES": "Donde huele a mar y flores. Bahía de Villefranche-sur-Mer, Provenza-Alpes-Costa Azul, Francia",
-      "pt-BR": "Um jardim com vista para o mar",
       "zh-CN": "地中海风情尽显",
       "en-IN": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France"
     },
     "copyrights": {
-      "en-GB": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
       "en-CA": "Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)",
+      "pt-BR": "Baía de Villefranche-sur-Mer, Alpes-Maritimes, Provença-Alpes-Côte d'Azur, França (© StockByM/Getty Images)",
+      "en-GB": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
       "de-DE": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
       "fr-FR": "Vue aérienne de la baie de Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur (© StockByM/Getty Images)",
       "es-ES": "La bahía de Villefranche-sur-Mer, Alpes Marítimos, en la región de Provenza-Alpes-Costa Azul, Francia (© StockByM/Getty Images)",
-      "pt-BR": "Baía de Villefranche-sur-Mer, Alpes-Maritimes, Provença-Alpes-Côte d'Azur, França (© StockByM/Getty Images)",
       "zh-CN": "滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)",
       "en-IN": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)"
     },
     "descs": {
-      "en-GB": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
       "en-CA": "In September, the French Riviera is bathed in a softer light, and the Mediterranean landscape takes on fresher tones after the peak of summer. The hills are scented with Aleppo pine, rosemary and wild thyme. In the hinterland, centuries-old olive trees and hilltop villages tell a story shaped by Greek, Roman and Provençal influences.",
+      "en-GB": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
       "de-DE": "Im September zeigt sich die Côte d’Azur von ihrer ruhigeren Seite. Das Licht wirkt weicher, die Sommerhitze lässt nach, und die mediterrane Vegetation gewinnt neue Frische. Zwischen Pinien, Rosmarin und wildem Thymian entfaltet sich eine Landschaft, die seit Jahrhunderten vom Meer geprägt wird. In den Hügeln der Alpes Maritimes erinnern alte Olivenhaine und verstreute Dörfer an die lange Geschichte der Region, die von verschiedenen Kulturen und Traditionen beeinflusst wurde.",
       "fr-FR": "En septembre, la Côte d’Azur se pare d’une lumière plus douce et la végétation méditerranéenne retrouve progressivement son éclat. Les collines embaument des senteurs de pin d’Alep, de romarin et de thym sauvage. Dans l’arrière-pays, les oliviers centenaires et les villages perchés racontent une histoire façonnée par les influences grecques, romaines et provençales.",
       "es-ES": "En septiembre, la bahía de Villefranche-sur-Mer, en la Costa Azul (Francia), baja de revoluciones: la luz se vuelve más suave, el agua sigue templada y el monte huele a pino carrasco, romero y tomillo. Los veleros se deslizan por una rada de aguas inusualmente profundas, encajada entre laderas de casas ocres.",
@@ -1974,66 +2079,16 @@
       "zh-CN": "滨海自由城的圣埃尔姆城堡奉萨伏依公爵埃马努埃莱·菲利贝托之命，于1557年建成，用于加强海岸防御。"
     },
     "captions": {
-      "en-GB": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
       "en-CA": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
-      "de-DE": "Villefranche-sur-Mer, Côte d’Azur, Frankreich",
-      "fr-FR": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur",
-      "es-ES": "Bahía de Villefranche-sur-Mer, Provenza-Alpes-Costa Azul, Francia",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France"
+      "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2300%22",
       "en-CA": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260911_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Villefranche-sur-Mer+na+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e6%bb%a8%e6%b5%b7%e8%87%aa%e7%94%b1%e5%9f%8e&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Villefranche-sur-Mer+na+Fran%c3%a7a&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823",
       "en-CA": "/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252",
-      "de-DE": "/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127",
-      "fr-FR": "/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166",
-      "es-ES": "/th?id=OHR.FrenchRivieraVillage_ES-ES2800644521",
-      "pt-BR": "/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034",
-      "zh-CN": "/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422",
-      "en-IN": "/th?id=OHR.FrenchRivieraVillage_EN-IN6145300439"
-    }
-  },
-  "TIFFRoy": {
-    "name": "TIFFRoy",
-    "urlbase": "/th?id=OHR.TIFFRoy_EN-CA6717935809",
-    "date": "20260910",
-    "dateFormatted": "September 10, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "Plot twist pending. 51st Toronto International Film Festival"
-    },
-    "copyrights": {
-      "en-CA": "The Roy Thomson Hall, Toronto, Ontario (© eskystudio/Shutterstock)"
-    },
-    "descs": {
-      "en-CA": "Ready for eleven days of movie mania? TIFF starts today, and Toronto is slipping into festival mode: coffee in one hand, screening schedule in the other. The event began in 1976 as the Festival of Festivals, giving Canadian audiences access to standout films from around the world. Fifty-one editions later, Roy Thomson Hall, along with other venues, is once again welcoming premieres, filmmakers and crowds hoping to catch the next big conversation before everyone else does."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-CA": "51st Toronto International Film Festival"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Toronto+International+Film+Festival+2026&form=hpcapt&filters=HpDate%3a%2220260910_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.TIFFRoy_EN-CA6717935809"
+      "pt-BR": "/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034"
     }
   },
   "OktoberfestMunich": {
@@ -2223,38 +2278,6 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.BorgoMarinari_IT-IT7423218886"
-    }
-  },
-  "Castelmezzano": {
-    "name": "Castelmezzano",
-    "urlbase": "/th?id=OHR.Castelmezzano_IT-IT4140249349",
-    "date": "20260910",
-    "dateFormatted": "September 10, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "La bellezza dei villaggi"
-    },
-    "copyrights": {
-      "it-IT": "Castelmezzano, provincia di Potenza in Basilicata, Italia (© Sean Pavone/Getty Images)"
-    },
-    "descs": {
-      "it-IT": "Castelmezzano, in provincia di Potenza (Basilicata, Italia), non si vede finché non ci sei dentro: si arriva attraversando una galleria e all'uscita il borgo compare all'improvviso, incastrato tra le guglie di arenaria delle Dolomiti Lucane."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Castelmezzano&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.Castelmezzano_IT-IT4140249349"
     }
   },
   "FiestaMerceBarcelona": {
@@ -2485,6 +2508,104 @@
       "ja-JP": "/th?id=OHR.Cosmos2026_JA-JP5810317842"
     }
   },
+  "AutumnEquinoxY26": {
+    "name": "AutumnEquinoxY26",
+    "urlbase": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091",
+    "date": "20260922",
+    "dateFormatted": "September 22, 2026",
+    "markets": [
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "zh-CN": "地坛公园秋日美景，北京，中国"
+    },
+    "copyrights": {
+      "zh-CN": "地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)"
+    },
+    "descs": {
+      "zh-CN": "金色地毯通常只出现在童话世界里，但在金秋时节的北京，它们却铺展在你的脚下。地坛公园（方泽坛）著名的银杏大道汇聚了200多株历史悠久的银杏树。每当秋风掠过，数以万计的扇形金叶翩翩飘落，将这座古老的皇家坛庙铺垫成一片如梦似幻的金黄海洋。"
+    },
+    "quickFacts": {
+      "zh-CN": "秋分标志着昼夜平分，也预示着老北京最美丽的仲秋金色画卷正式展开。"
+    },
+    "captions": {
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "zh-CN": "https://www.bing.com/search?q=%e7%a7%8b%e5%88%86&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "zh-CN": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091"
+    }
+  },
+  "TIFFRoy": {
+    "name": "TIFFRoy",
+    "urlbase": "/th?id=OHR.TIFFRoy_EN-CA6717935809",
+    "date": "20260910",
+    "dateFormatted": "September 10, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Plot twist pending. 51st Toronto International Film Festival"
+    },
+    "copyrights": {
+      "en-CA": "The Roy Thomson Hall, Toronto, Ontario (© eskystudio/Shutterstock)"
+    },
+    "descs": {
+      "en-CA": "Ready for eleven days of movie mania? TIFF starts today, and Toronto is slipping into festival mode: coffee in one hand, screening schedule in the other. The event began in 1976 as the Festival of Festivals, giving Canadian audiences access to standout films from around the world. Fifty-one editions later, Roy Thomson Hall, along with other venues, is once again welcoming premieres, filmmakers and crowds hoping to catch the next big conversation before everyone else does."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "51st Toronto International Film Festival"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Toronto+International+Film+Festival+2026&form=hpcapt&filters=HpDate%3a%2220260910_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.TIFFRoy_EN-CA6717935809"
+    }
+  },
+  "Castelmezzano": {
+    "name": "Castelmezzano",
+    "urlbase": "/th?id=OHR.Castelmezzano_IT-IT4140249349",
+    "date": "20260910",
+    "dateFormatted": "September 10, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "La bellezza dei villaggi"
+    },
+    "copyrights": {
+      "it-IT": "Castelmezzano, provincia di Potenza in Basilicata, Italia (© Sean Pavone/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Castelmezzano, in provincia di Potenza (Basilicata, Italia), non si vede finché non ci sei dentro: si arriva attraversando una galleria e all'uscita il borgo compare all'improvviso, incastrato tra le guglie di arenaria delle Dolomiti Lucane."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Castelmezzano&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.Castelmezzano_IT-IT4140249349"
+    }
+  },
   "GabitKeni": {
     "name": "GabitKeni",
     "urlbase": "/th?id=OHR.GabitKeni_JA-JP3823379916",
@@ -2547,40 +2668,6 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.GabitKeni_JA-JP3823379916"
-    }
-  },
-  "AutumnEquinoxY26": {
-    "name": "AutumnEquinoxY26",
-    "urlbase": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091",
-    "date": "20260922",
-    "dateFormatted": "September 22, 2026",
-    "markets": [
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      }
-    ],
-    "titles": {
-      "zh-CN": "地坛公园秋日美景，北京，中国"
-    },
-    "copyrights": {
-      "zh-CN": "地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)"
-    },
-    "descs": {
-      "zh-CN": "金色地毯通常只出现在童话世界里，但在金秋时节的北京，它们却铺展在你的脚下。地坛公园（方泽坛）著名的银杏大道汇聚了200多株历史悠久的银杏树。每当秋风掠过，数以万计的扇形金叶翩翩飘落，将这座古老的皇家坛庙铺垫成一片如梦似幻的金黄海洋。"
-    },
-    "quickFacts": {
-      "zh-CN": "秋分标志着昼夜平分，也预示着老北京最美丽的仲秋金色画卷正式展开。"
-    },
-    "captions": {
-      "zh-CN": ""
-    },
-    "copyrightlinks": {
-      "zh-CN": "https://www.bing.com/search?q=%e7%a7%8b%e5%88%86&form=hpcapt&mkt=zh-cn"
-    },
-    "urlbases": {
-      "zh-CN": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091"
     }
   },
   "BeechEngland": {
