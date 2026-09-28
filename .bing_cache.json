@@ -1,4 +1,137 @@
 {
+  "DecoCrab": {
+    "name": "DecoCrab",
+    "urlbase": "/th?id=OHR.DecoCrab_EN-US9587426678",
+    "date": "20260927",
+    "dateFormatted": "September 27, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "en-GB": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "en-CA": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "de-DE": "Nachtgarten der Tiefe. Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
+      "fr-FR": "L’âme des profondeurs. Parc national de Komodo, Indonésie",
+      "it-IT": "Giardino notturno delle profondità",
+      "es-ES": "Jardín nocturno en la profundidad. Cangrejo decorador, Parque Nacional de Komodo, Indonesia",
+      "pt-BR": "Elegância defensiva",
+      "zh-CN": "海笔上的装饰蟹，科莫多国家公园，印度尼西亚",
+      "en-IN": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia"
+    },
+    "copyrights": {
+      "en-US": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "de-DE": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien (© Alex Mustard/Nature Picture Library)",
+      "fr-FR": "Crabe décorateur sur une plume de mer, Parc national de Komodo, Indonésie (© Alex Mustard/Nature Picture Library)",
+      "it-IT": "Granchio decoratore su penna marina, Parco Nazionale di Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "es-ES": "Cangrejo decorador en una pluma marina, Parque Nacional de Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "pt-BR": "Caranguejo-decorador em pena-do-mar, Parque Nacional de Komodo, Indonésia (© Alex Mustard/Nature Picture Library)",
+      "zh-CN": "海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)",
+      "en-IN": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds, and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "en-GB": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "en-CA": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "de-DE": "Im heutigen Bild spielt sich ein stilles Versteckspiel unter Wasser ab. Eine Dekorateurkrabbe sitzt auf einer Seefeder und verschmilzt beinahe mit ihrer Umgebung. Die Aufnahme entstand im Nationalpark Komodo in Indonesien, einem Schutzgebiet, das 1980 eingerichtet wurde und nach dem Komodowaran benannt ist. Zwischen dem Pazifischen und dem Indischen Ozean gelegen, umfasst der Park Inseln, Mangrovenwälder, Seegraswiesen und farbenreiche Korallenriffe. Starke Meeresströmungen fördern hier eine außergewöhnliche Vielfalt an Tieren und Pflanzen.",
+      "fr-FR": "Au cœur des eaux qui entourent le parc national de Komodo, en Indonésie, la vie semble jouer à cache-cache. Créé en 1980 et célèbre pour abriter le dragon de Komodo, ce territoire protégé réunit îles sauvages, mangroves, herbiers marins et récifs coralliens foisonnants. Entre les océans Pacifique et Indien, de puissants courants nourrissent une biodiversité remarquable.",
+      "es-ES": "En los fondos del Parque Nacional de Komodo (Indonesia), un cangrejo decorador se refugia sobre una pluma de mar, ese coral blando que se ancla al sedimento y se despliega como un abanico. La estrategia es sencilla y brillante: la pluma llama la atención y el cangrejo desaparece.",
+      "en-IN": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "it-IT": "Nei fondali del Parco Nazionale di Komodo (Indonesia), un granchio decoratore si nasconde su una penna di mare, il corallo molle che si ancora al sedimento e si apre come un ventaglio. La strategia è semplice e geniale: la penna attira lo sguardo e la sua struttura ramificata spezza la sagoma del granchio, che di fatto scompare.",
+      "pt-BR": "O desafio desta foto parece simples: encontre o caranguejo. Ele está ali, entre os ramos de uma pena-do-mar, um parente dos corais, nas águas do Parque Nacional de Komodo, na Indonésia. O caranguejo-decorador transforma a própria carapaça em um esconderijo móvel: cerdas curvadas funcionam como pequenos ganchos que prendem algas, esponjas e outros materiais ao corpo, quebrando seu contorno diante dos predadores.",
+      "zh-CN": "不妨把这看作一场水下捉迷藏：海笔格外醒目，螃蟹却融入其中。今天的图片拍摄于印度尼西亚科莫多国家公园周边水域。该公园成立于1980年，以世界上现存最大的蜥蜴科莫多巨蜥命名。这片保护区包括岛屿、红树林、海草床和珊瑚礁。公园位于太平洋与印度洋之间，强劲洋流塑造了这里的生态环境，孕育出丰富多样的海洋生物，其中也包括依靠伪装生存的物种。"
+    },
+    "quickFacts": {
+      "zh-CN": "科莫多国家公园于1991年被列入联合国教科文组织《世界遗产名录》。"
+    },
+    "captions": {
+      "en-US": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "de-DE": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
+      "fr-FR": "Parc national de Komodo, Indonésie",
+      "it-IT": "",
+      "es-ES": "Cangrejo decorador, Parque Nacional de Komodo, Indonesia",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Decorator crab on a sea pen, Komodo National Park, Indonesia"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260926_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Nationalpark+Komodo&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Parc+national+de+Komodo+&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+di+Komodo&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+Komodo&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+de+Komodo+na+Indon%c3%a9sia&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e7%a7%91%e8%8e%ab%e5%a4%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260926_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DecoCrab_EN-US9587426678",
+      "en-GB": "/th?id=OHR.DecoCrab_EN-GB9651352105",
+      "en-CA": "/th?id=OHR.DecoCrab_EN-CA9118939695",
+      "de-DE": "/th?id=OHR.DecoCrab_DE-DE3687547943",
+      "fr-FR": "/th?id=OHR.DecoCrab_FR-FR8789802868",
+      "it-IT": "/th?id=OHR.DecoCrab_IT-IT5114188667",
+      "es-ES": "/th?id=OHR.DecoCrab_ES-ES3779382499",
+      "pt-BR": "/th?id=OHR.DecoCrab_PT-BR1863827080",
+      "zh-CN": "/th?id=OHR.DecoCrab_ZH-CN0973306994",
+      "en-IN": "/th?id=OHR.DecoCrab_EN-IN8596521807"
+    }
+  },
   "BearsEars": {
     "name": "BearsEars",
     "urlbase": "/th?id=OHR.BearsEars_EN-US9429791451",
@@ -717,7 +850,7 @@
       "es-ES": "Limpieza facial \"nutri-a-tiva\". Nutria marina, Bahía de Monterey, California, EE. UU.",
       "pt-BR": "A pequena guardiã dos oceanos",
       "ja-JP": "今週はラッコ啓蒙週間",
-      "zh-CN": "正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国",
+      "zh-CN": "皮毛与海洋之间的生命",
       "en-IN": "Life between fur and sea. Sea otter, Monterey Bay, California, United States"
     },
     "copyrights": {
@@ -740,7 +873,7 @@
       "de-DE": "Seeotter verbringen einen großen Teil ihres Lebens im Wasser und widmen viele Stunden täglich der sorgfältigen Fellpflege. In der Monterey Bay im US-Bundesstaat Kalifornien kann man diese geschickten Meeressäuger oft beobachten, wie sie auf dem Rücken treiben und ihr dichtes Fell reinigen. Dabei streifen, kämmen und lockern sie die Haare mit ihren Pfoten, damit Luft zwischen den Fellschichten eingeschlossen bleibt. Dieser natürliche Schutz ist lebenswichtig, denn Seeotter besitzen keine isolierende Fettschicht wie viele andere Meeressäuger.",
       "fr-FR": "Dans les eaux fraîches de la baie de Monterey, en Californie (États-Unis), une loutre de mer flotte paisiblement à la surface, occupée à un rituel essentiel à sa survie : elle nettoie et peigne soigneusement son pelage, le plus dense de tout le règne animal. Cette attention constante lui permet de retenir de minuscules bulles d’air qui l’isolent du froid des eaux du Pacifique. Contrairement aux phoques ou aux baleines, elle ne peut compter sur une épaisse réserve de graisse pour conserver sa chaleur.",
       "es-ES": "Una nutria marina se acicala en la bahía de Monterey, en California (EE. UU.), y no lo hace por presumir. A diferencia de focas y ballenas, apenas tiene grasa aislante: sobrevive gracias al pelaje más denso del reino animal, y solo conserva el calor si lo limpia y lo airea sin descanso, atrapando burbujas que forman una capa impermeable.",
-      "ja-JP": "今週はラッコ啓蒙週間. ラッコ, 米国 カリフォルニア州. 今日の画像は、米国カリフォルニア州のモントレー湾で毛づくろいをするラッコ。アザラシやクジラは、皮下脂肪によって海でも体温を保ちますが、ラッコには皮下脂肪がほとんどありません。その代わり、全身を約 8 億本もの体毛が覆っており、その密な体毛の間に空気の層を作ることで、体温を保っています。かつては毛皮目的の乱獲によって個体数が大きく減少しましたが、保護活動によって徐々に回復しています。",
+      "ja-JP": "今日の画像は、米国カリフォルニア州のモントレー湾で毛づくろいをするラッコ。アザラシやクジラは、皮下脂肪によって海でも体温を保ちますが、ラッコには皮下脂肪がほとんどありません。その代わり、全身を約 8 億本もの体毛が覆っており、その密な体毛の間に空気の層を作ることで、体温を保っています。かつては毛皮目的の乱獲によって個体数が大きく減少しましたが、保護活動によって徐々に回復しています。",
       "en-IN": "Few animals are both expert groomers and guardians of underwater forests. In today's image, a sea otter grooms its fur in Monterey Bay, California—a daily ritual essential to its survival. Sea otters have the densest fur of any animal, with up to one million hairs per square inch. Unlike seals and whales, they have little blubber, so their thick, air-trapping coat provides insulation against the cold Pacific.",
       "it-IT": "Una lontra marina si liscia il pelo nella baia di Monterey, in California (USA), e non lo fa per vanità. A differenza di foche e balene ha pochissimo grasso isolante: sopravvive grazie alla pelliccia più densa del regno animale e trattiene il calore solo se la pulisce e la aera continuamente, intrappolando bollicine d'aria che formano uno strato impermeabile.",
       "pt-BR": "Parece que esta lontra-marinha em Monterey Bay, na Califórnia, está só cuidando do visual… Mas está fazendo a manutenção de um dos seus equipamentos mais importantes. Ao contrário de focas e baleias, ela não conta com uma espessa camada de gordura para conservar o calor. Em compensação, tem a pelagem mais densa de qualquer mamífero. Ao se pentear, espalha óleos naturais e prende ar entre os fios, criando uma barreira contra a água gelada do Pacífico.",
@@ -1510,14 +1643,90 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "en-US": "Where toughness takes root. Field of kochia plants, China",
+      "en-CA": "Where toughness takes root. Field of kochia plants, China",
+      "ja-JP": "緑から紅へと染まる秋景色",
+      "en-GB": "Where toughness takes root. Field of kochia plants, China",
+      "de-DE": "Wo Widerstandskraft Wurzeln schlägt. Feld mit Besen-Radmelden, China",
+      "fr-FR": "Quand la tenacité prend racine. Champ de kochia, Chine",
+      "it-IT": "Dove la durezza radica",
+      "es-ES": "Donde la dureza echa raíces. Campo de plantas de kochia, China",
+      "pt-BR": "Resistência em tons de vermelho",
+      "zh-CN": "坚韧在此扎根",
+      "en-IN": "Where toughness takes root. Field of kochia plants, China"
+    },
+    "copyrights": {
+      "en-US": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+      "en-CA": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+      "ja-JP": "コキア, 中国 (© lingqi xie/Getty Images)",
+      "en-GB": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+      "de-DE": "Feld mit Besen-Radmelden, China (© lingqi xie/Getty Images)",
+      "fr-FR": "Champ de kochia, Chine (© lingqi xie/Getty Images)",
+      "it-IT": "Campo di piante di kochia, Cina (© lingqi xie/Getty Images)",
+      "es-ES": "Campo de plantas de kochia, China (© lingqi xie/Getty Images)",
+      "pt-BR": "Campo de kochia, China (© lingqi xie/Getty Images)",
+      "zh-CN": "地肤田，中国 (© lingqi xie/Getty Images)",
+      "en-IN": "Field of kochia plants, China (© lingqi xie/Getty Images)"
+    },
+    "descs": {
+      "en-US": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils, and low rainfall helped it spread across the Great Plains and much of the American West.",
+      "en-CA": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
+      "ja-JP": "今日の画像は、中国に広がるコキアの風景。日本には、平安時代以前に伝わったとされるユーラシア大陸原産の一年草です。茎を乾燥させてほうきを作っていたことから、和名では「ホウキギ（箒木）」「ホウキグサ（箒草）」と呼ばれています。夏は爽やかなライムグリーン、秋には鮮やかな深紅へと変化しながら、全体が球形から楕円形になります。高温や乾燥、塩分を含む土壌に強く、降水量の少ない地域では家畜の飼料として利用されてきました。その丸い姿が、花言葉「夫婦円満」の由来になったと言われています。",
+      "en-GB": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
+      "de-DE": "Im heutigen Bild breitet sich ein Feld voller Besen-Radmelden in China aus. Die Pflanzen leuchten in kräftigen Rot- und Grüntönen und verwandeln die Landschaft in ein auffälliges Muster. Ursprünglich stammt die Art aus Teilen Eurasiens und ist für ihre Anpassungsfähigkeit bekannt. Sie verträgt Trockenheit, Hitze und nährstoffarme Böden und kann deshalb auch in Regionen gedeihen, in denen andere Pflanzen nur schwer wachsen. Im Laufe des Jahres verändert sich ihre Färbung deutlich. Besonders im Spätsommer und Herbst entstehen die intensiven Farbtöne.",
+      "fr-FR": "Dans l’image du jour, des étendues de kochias dessinent un paysage étonnant, où le vert tendre côtoie des teintes rouge foncé. Originaire de certaines régions d’Eurasie, cette plante est appréciée pour ses qualités ornementales et sa remarquable capacité d’adaptation. Sa résistance à la sécheresse, à la chaleur et aux sols pauvres lui permet de prospérer dans des environnements variés, y compris dans certaines régions méditerranéennes où les étés sont particulièrement secs.",
+      "es-ES": "El campo que parece pintado a brochazos rojos y verdes está en China y lo forma una sola especie: la kochia (Bassia scoparia), que al final del verano cambia el verde por un granate intenso. Cada mata es una planta anual redondeada que en pocos meses supera el metro de altura y produce miles de semillas.",
+      "en-IN": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
+      "it-IT": "Il campo che sembra dipinto a pennellate rosse e verdi si trova in Cina e lo compone una sola specie: la kochia (Bassia scoparia), che a fine estate scambia il verde con un granata intenso. Ogni cespuglio è una pianta annuale tondeggiante che in pochi mesi supera il metro di altezza e produce migliaia di semi.",
+      "pt-BR": "O vermelho desta paisagem na China vem da planta conhecida como kochia, que começa verde e pode terminar o ciclo em tons intensos de vermelho. Mas a transformação cromática é só o começo. A kochia cresce rápido, pode chegar a cerca de 1,5 metro e produz muitas sementes. Quando amadurece e seca, pode se desprender da base e ser levada pelo vento, dispersando sementes pelo caminho.",
+      "zh-CN": "在今天的画面中，中国大地上铺展着绿色与深红色的地肤。地肤原产于欧亚大陆部分地区，19世纪末作为观赏植物和制作扫帚的材料来源被引入美国。它耐旱、耐热、耐盐碱土壤和少雨环境的能力，帮助其扩散至美国大平原及美国西部大部分地区。"
+    },
+    "quickFacts": {
+      "en-US": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach, and quinoa.",
+      "en-GB": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
+      "en-CA": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
+      "de-DE": "Besen-Radmelde gehört zur Familie der Amaranthgewächse und ist botanisch mit Roter Bete, Spinat und Quinoa verwandt.",
+      "fr-FR": "Le kochia appartient à la famille des Amaranthacées, dont il partage les liens botaniques avec la betterave, les épinards et le quinoa.",
+      "zh-CN": "地肤属于苋科，与甜菜、菠菜和藜麦有植物学上的亲缘关系。",
+      "en-IN": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach, and quinoa."
+    },
+    "captions": {
+      "en-US": "Field of kochia plants, China",
+      "en-CA": "Field of kochia plants, China",
+      "ja-JP": "緑から紅へと染まる秋景色"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0400%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b3%e3%82%ad%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260914_1500%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.KochiaChina_EN-US5037126636",
+      "en-CA": "/th?id=OHR.KochiaChina_EN-CA9157667253",
+      "ja-JP": "/th?id=OHR.KochiaChina_JA-JP6121199727"
+    }
+  },
+  "AmberHall": {
+    "name": "AmberHall",
+    "urlbase": "/th?id=OHR.AmberHall_EN-GB9719100676",
+    "date": "20260927",
+    "dateFormatted": "September 27, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1561,277 +1770,79 @@
       }
     ],
     "titles": {
-      "en-US": "Where toughness takes root. Field of kochia plants, China",
-      "en-GB": "Where toughness takes root. Field of kochia plants, China",
-      "en-CA": "Where toughness takes root. Field of kochia plants, China",
-      "de-DE": "Wo Widerstandskraft Wurzeln schlägt. Feld mit Besen-Radmelden, China",
-      "fr-FR": "Quand la tenacité prend racine. Champ de kochia, Chine",
-      "it-IT": "Dove la durezza radica",
-      "es-ES": "Donde la dureza echa raíces. Campo de plantas de kochia, China",
-      "pt-BR": "Resistência em tons de vermelho",
-      "ja-JP": "緑から紅へと染まる秋景色",
-      "zh-CN": "坚韧在此扎根",
-      "en-IN": "Where toughness takes root. Field of kochia plants, China"
+      "en-GB": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "de-DE": "Geschichte mit Aussicht. Fort Amber bei Jaipur, Rajasthan, Indien",
+      "fr-FR": "Vue sur l’histoire. Fort d’Amber près de Jaipur, Rajasthan, Inde",
+      "it-IT": "Storie tra i pilastri",
+      "es-ES": "Los 27 pilares de la historia. Fuerte de Amber cerca de Jaipur, Rajasthan, India",
+      "pt-BR": "Uma vista digna de um marajá",
+      "ja-JP": "優美な柱が並ぶ宮殿",
+      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度",
+      "en-IN": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "en-US": "History with a view. Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India",
+      "en-CA": "History with a view. Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India"
     },
     "copyrights": {
-      "en-US": "Field of kochia plants, China (© lingqi xie/Getty Images)",
-      "en-GB": "Field of kochia plants, China (© lingqi xie/Getty Images)",
-      "en-CA": "Field of kochia plants, China (© lingqi xie/Getty Images)",
-      "de-DE": "Feld mit Besen-Radmelden, China (© lingqi xie/Getty Images)",
-      "fr-FR": "Champ de kochia, Chine (© lingqi xie/Getty Images)",
-      "it-IT": "Campo di piante di kochia, Cina (© lingqi xie/Getty Images)",
-      "es-ES": "Campo de plantas de kochia, China (© lingqi xie/Getty Images)",
-      "pt-BR": "Campo de kochia, China (© lingqi xie/Getty Images)",
-      "ja-JP": "コキア, 中国 (© lingqi xie/Getty Images)",
-      "zh-CN": "地肤田，中国 (© lingqi xie/Getty Images)",
-      "en-IN": "Field of kochia plants, China (© lingqi xie/Getty Images)"
+      "en-GB": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "de-DE": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
+      "fr-FR": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
+      "it-IT": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "es-ES": "Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "pt-BR": "Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)",
+      "ja-JP": "アンベール城, インド (© R.M. Nunes/Getty Images)",
+      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)",
+      "en-IN": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "en-US": "© R.M. Nunes/Getty Images",
+      "en-CA": "© R.M. Nunes/Getty Images"
     },
     "descs": {
-      "en-US": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils, and low rainfall helped it spread across the Great Plains and much of the American West.",
-      "en-GB": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
-      "en-CA": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
-      "de-DE": "Im heutigen Bild breitet sich ein Feld voller Besen-Radmelden in China aus. Die Pflanzen leuchten in kräftigen Rot- und Grüntönen und verwandeln die Landschaft in ein auffälliges Muster. Ursprünglich stammt die Art aus Teilen Eurasiens und ist für ihre Anpassungsfähigkeit bekannt. Sie verträgt Trockenheit, Hitze und nährstoffarme Böden und kann deshalb auch in Regionen gedeihen, in denen andere Pflanzen nur schwer wachsen. Im Laufe des Jahres verändert sich ihre Färbung deutlich. Besonders im Spätsommer und Herbst entstehen die intensiven Farbtöne.",
-      "fr-FR": "Dans l’image du jour, des étendues de kochias dessinent un paysage étonnant, où le vert tendre côtoie des teintes rouge foncé. Originaire de certaines régions d’Eurasie, cette plante est appréciée pour ses qualités ornementales et sa remarquable capacité d’adaptation. Sa résistance à la sécheresse, à la chaleur et aux sols pauvres lui permet de prospérer dans des environnements variés, y compris dans certaines régions méditerranéennes où les étés sont particulièrement secs.",
-      "es-ES": "El campo que parece pintado a brochazos rojos y verdes está en China y lo forma una sola especie: la kochia (Bassia scoparia), que al final del verano cambia el verde por un granate intenso. Cada mata es una planta anual redondeada que en pocos meses supera el metro de altura y produce miles de semillas.",
-      "ja-JP": "今日の画像は、中国に広がるコキアの風景。日本には、平安時代以前に伝わったとされるユーラシア大陸原産の一年草です。茎を乾燥させてほうきを作っていたことから、和名では「ホウキギ（箒木）」「ホウキグサ（箒草）」と呼ばれています。夏は爽やかなライムグリーン、秋には鮮やかな深紅へと変化しながら、全体が球形から楕円形になります。高温や乾燥、塩分を含む土壌に強く、降水量の少ない地域では家畜の飼料として利用されてきました。その丸い姿が、花言葉「夫婦円満」の由来になったと言われています。",
-      "en-IN": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
-      "it-IT": "Il campo che sembra dipinto a pennellate rosse e verdi si trova in Cina e lo compone una sola specie: la kochia (Bassia scoparia), che a fine estate scambia il verde con un granata intenso. Ogni cespuglio è una pianta annuale tondeggiante che in pochi mesi supera il metro di altezza e produce migliaia di semi.",
-      "pt-BR": "O vermelho desta paisagem na China vem da planta conhecida como kochia, que começa verde e pode terminar o ciclo em tons intensos de vermelho. Mas a transformação cromática é só o começo. A kochia cresce rápido, pode chegar a cerca de 1,5 metro e produz muitas sementes. Quando amadurece e seca, pode se desprender da base e ser levada pelo vento, dispersando sementes pelo caminho.",
-      "zh-CN": "在今天的画面中，中国大地上铺展着绿色与深红色的地肤。地肤原产于欧亚大陆部分地区，19世纪末作为观赏植物和制作扫帚的材料来源被引入美国。它耐旱、耐热、耐盐碱土壤和少雨环境的能力，帮助其扩散至美国大平原及美国西部大部分地区。"
+      "en-GB": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "de-DE": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
+      "fr-FR": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
+      "es-ES": "El Fuerte de Amber, junto a Jaipur (Rajastán, India), fue la capital real antes de que existiera la ciudad rosa. Su construcción arrancó en 1592 con Raja Man Singh I y continuó más de un siglo bajo los soberanos kachwaha; en 1727 la corte se mudó a la nueva Jaipur, aunque Amber siguió acogiendo ceremonias.",
+      "ja-JP": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
+      "en-IN": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "en-US": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centered on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "en-CA": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "it-IT": "Il Forte Amber, vicino a Jaipur (Rajasthan, India), è stato la capitale reale prima che esistesse la città rosa. La costruzione partì nel 1592 con Raja Man Singh I e continuò per oltre un secolo con i sovrani kachwaha; nel 1727 la corte si trasferì nella nuova Jaipur, ma Amber restò sede di cerimonie.",
+      "pt-BR": "Hoje estamos no Sattais Katcheri, na região indiana do Rajastão. O nome faz referência às 27 colunas do salão, que fazia parte da estrutura administrativa do Forte de Amber. Aqui, a decoração também conta uma história: elementos da arquitetura rajput convivem com influências mogóis, ao lado de mármore trabalhado, pátios monumentais e o extraordinário Sheesh Mahal, ou Palácio dos Espelhos.",
+      "zh-CN": "大多数初次到访印度拉贾斯坦邦斋浦尔的游客都知道这座城市有“粉红之城”的美誉，但更早的王都以琥珀堡为中心。这个王朝的大部分政治与建筑史正是在那里书写的。琥珀堡的营建历时一个多世纪，始于1592年拉贾·曼·辛格一世统治时期，之后由历代卡奇瓦哈统治者续建；他们统治的王国后来成为斋浦尔土邦。王室于 1727 年迁往新规划的斋浦尔城，但琥珀堡仍继续承担礼仪功能。"
     },
     "quickFacts": {
-      "en-US": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach, and quinoa.",
-      "en-GB": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
-      "en-CA": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
-      "de-DE": "Besen-Radmelde gehört zur Familie der Amaranthgewächse und ist botanisch mit Roter Bete, Spinat und Quinoa verwandt.",
-      "fr-FR": "Le kochia appartient à la famille des Amaranthacées, dont il partage les liens botaniques avec la betterave, les épinards et le quinoa.",
-      "zh-CN": "地肤属于苋科，与甜菜、菠菜和藜麦有植物学上的亲缘关系。",
-      "en-IN": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach, and quinoa."
+      "zh-CN": "琥珀堡是联合国教科文组织世界遗产“拉贾斯坦邦的山地要塞”所包含的六座堡垒之一；该遗产于 2013 年列入《世界遗产名录》。"
     },
     "captions": {
-      "en-US": "Field of kochia plants, China",
-      "en-GB": "Field of kochia plants, China",
-      "en-CA": "Field of kochia plants, China",
-      "de-DE": "Feld mit Besen-Radmelden, China",
-      "fr-FR": "Champ de kochia, Chine",
+      "en-GB": "Amber Fort near Jaipur, Rajasthan, India",
+      "de-DE": "Fort Amber bei Jaipur, Rajasthan, Indien",
+      "fr-FR": "Fort d’Amber près de Jaipur, Rajasthan, Inde",
       "it-IT": "",
-      "es-ES": "Campo de plantas de kochia, China",
+      "es-ES": "Fuerte de Amber cerca de Jaipur, Rajasthan, India",
       "pt-BR": "",
-      "ja-JP": "緑から紅へと染まる秋景色",
+      "ja-JP": "優美な柱が並ぶ宮殿",
       "zh-CN": "",
-      "en-IN": "Field of kochia plants, China"
+      "en-IN": "Amber Fort near Jaipur, Rajasthan, India"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Kochia+plant&form=hpcapt&filters=HpDate%3a%2220260913_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Besen-Radmelde&form=hpcapt&filters=HpDate%3a%2220260913_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=kochia+plante&form=hpcapt&filters=HpDate%3a%2220260913_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Kochia+scoparia&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Bassia+scoparia&form=hpcapt&filters=HpDate%3a%2220260913_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=planta+kochia&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b3%e3%82%ad%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260914_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9c%b0%e8%82%a4&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Kochia+plant&form=hpcapt&filters=HpDate%3a%2220260913_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Fort+Amber+Indien&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=fort+d%e2%80%99Amber+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Forte+Amber+Jaipur&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Fuerte+Amber&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Forte+de+Amber&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%99%e3%83%bc%e3%83%ab%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220260927_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b0%e5%ba%a6%e6%8b%89%e8%b4%be%e6%96%af%e5%9d%a6%e9%82%a6%e6%96%8b%e6%b5%a6%e5%b0%94%e7%90%a5%e7%8f%80%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.KochiaChina_EN-US5037126636",
-      "en-GB": "/th?id=OHR.KochiaChina_EN-GB8041098184",
-      "en-CA": "/th?id=OHR.KochiaChina_EN-CA9157667253",
-      "de-DE": "/th?id=OHR.KochiaChina_DE-DE7299864606",
-      "fr-FR": "/th?id=OHR.KochiaChina_FR-FR3921834032",
-      "it-IT": "/th?id=OHR.KochiaChina_IT-IT4492706565",
-      "es-ES": "/th?id=OHR.KochiaChina_ES-ES5067381880",
-      "pt-BR": "/th?id=OHR.KochiaChina_PT-BR0883558645",
-      "ja-JP": "/th?id=OHR.KochiaChina_JA-JP6121199727",
-      "zh-CN": "/th?id=OHR.KochiaChina_ZH-CN4719995421",
-      "en-IN": "/th?id=OHR.KochiaChina_EN-IN7950718460"
-    }
-  },
-  "MisurinaPeak": {
-    "name": "MisurinaPeak",
-    "urlbase": "/th?id=OHR.MisurinaPeak_EN-US4897144498",
-    "date": "20260913",
-    "dateFormatted": "September 13, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy",
-      "en-CA": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy",
-      "en-GB": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy",
-      "fr-FR": "Un toit au-dessus de l’Italie. Cadini di Misurina, Dolomites, Vénétie, Italie",
-      "it-IT": "La corona d'Italia",
-      "pt-BR": "O recife que subiu de nível",
-      "ja-JP": "雲間にそびえる鋭い峰々",
-      "zh-CN": "高处的珊瑚礁",
-      "en-IN": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy",
-      "de-DE": "Ein Riff über den Wolken. Cadini di Misurina, Dolomiten, Venetien, Italien"
-    },
-    "copyrights": {
-      "en-US": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
-      "en-CA": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
-      "en-GB": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
-      "fr-FR": "Cadini di Misurina, Dolomites, Vénétie, Italie (© Vithun Khamsong/Getty Images)",
-      "it-IT": "Cadini di Misurina, Dolomiti, Veneto, Italia (© Vithun Khamsong/Getty Images)",
-      "pt-BR": "Cadini di Misurina, Dolomitas, Vêneto, Itália (© Vithun Khamsong/Getty Images)",
-      "ja-JP": "カディーニ・ディ・ミズリーナ山塊, イタリア (© Vithun Khamsong/Getty Images)",
-      "zh-CN": "米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)",
-      "en-IN": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
-      "de-DE": "Cadini di Misurina, Dolomiten, Venetien, Italien (© Vithun Khamsong/Getty Images)"
-    },
-    "descs": {
-      "en-US": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading toward nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 9,300 feet at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
-      "en-CA": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading toward nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 2,800 metres at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
-      "en-GB": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading towards nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 2,800 metres at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
-      "fr-FR": "Au lever du soleil, les silhouettes déchiquetées des Cadini di Misurina se détachent sur le ciel du nord-est de l’Italie. De nombreux voyageurs se rendent d’abord aux célèbres Tre Cime di Lavaredo avant de découvrir ces sommets élancés des Dolomites. Culminant à plus de 2 800 mètres, leurs aiguilles rocheuses semblent avoir été sculptées pour impressionner. Pourtant, leur origine réserve une surprise fascinante : elles sont les vestiges d’anciens récifs coralliens.",
-      "ja-JP": "ギザギザとした峰が連なる今日の画像は、イタリア北東部のドロミーティ山脈にあるカディーニ・ディ・ミズリーナ山塊です。岸壁には海洋生物の化石が存在していますが、これは約 2 億 5,000 万年前、この地域が温暖な熱帯の海に覆われていたためです。長い年月の間にプレートの衝突による隆起と侵食が進み、かつて海底だった地層が現在の険しい山並みとして姿を現しました。ユネスコ世界遺産に登録されているドロミーティは、壮大な山岳風景と地球の歴史を伝える場所です。",
-      "en-IN": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading towards nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 2,800 metres at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
-      "de-DE": "Im Herzen der Dolomiten erhebt sich die markante Berggruppe der Cadini di Misurina in Venetien, Italien, mit einer Silhouette, die besonders bei Sonnenaufgang beeindruckt. Viele Wanderer, die auf dem Weg zu den nahen Drei Zinnen unterwegs sind, entdecken hier eine Landschaft, die ihnen lange im Gedächtnis bleibt. Die schroffen Gipfel ragen bis auf mehr als 2.800 Meter Höhe auf und wirken, als seien sie eigens für ein alpines Schauspiel geschaffen worden. Tatsächlich begann ihre Geschichte jedoch nicht in den Bergen, sondern unter dem Meer.",
-      "it-IT": "Alle prime luci le guglie dei Cadini di Misurina, nelle Dolomiti (Italia), sembrano tagliate con le forbici. In molti arrivano in questo angolo del Veneto per le Tre Cime di Lavaredo e finiscono ipnotizzati da questo labirinto di cime, la più alta delle quali, la Cima Cadin di San Lucano, raggiunge più di 2.800 metri.",
-      "pt-BR": "Se você chegasse a Cadini di Misurina há 250 milhões de anos, precisaria de equipamento de mergulho, não de botas de caminhada. As formações que hoje se erguem na região do Vêneto, no nordeste da Itália, nasceram embaixo d’água, onde recifes e sedimentos se acumulavam no fundo de um mar tropical.",
-      "zh-CN": "画面捕捉了意大利东北部威尼托大区米苏里纳群峰日出时的锯齿状天际线。前往附近三峰山的游客，往往本为那条著名路线而来，却发现自己的目光被米苏里纳群峰吸引。作为多洛米蒂山脉的一部分，这些针状山峰最高处超过9,300英尺，仿佛专为营造戏剧效果而雕琢。出人意料的是，它们最初是古老的珊瑚礁。"
-    },
-    "quickFacts": {
-      "zh-CN": "联合国教科文组织的多洛米蒂山脉遗产地由九个组成部分构成，其中有18座海拔超过3000米的山峰。"
-    },
-    "captions": {
-      "en-US": "Cadini di Misurina, Dolomites, Veneto, Italy",
-      "en-CA": "Cadini di Misurina, Dolomites, Veneto, Italy"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt&filters=HpDate%3a%2220260913_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt&filters=HpDate%3a%2220260913_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.MisurinaPeak_EN-US4897144498",
-      "en-CA": "/th?id=OHR.MisurinaPeak_EN-CA8816219114"
-    }
-  },
-  "DecoCrab": {
-    "name": "DecoCrab",
-    "urlbase": "/th?id=OHR.DecoCrab_EN-GB9651352105",
-    "date": "20260926",
-    "dateFormatted": "September 26, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "de-DE": "Nachtgarten der Tiefe. Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
-      "fr-FR": "L’âme des profondeurs. Parc national de Komodo, Indonésie",
-      "it-IT": "Giardino notturno delle profondità",
-      "es-ES": "Jardín nocturno en la profundidad. Cangrejo decorador, Parque Nacional de Komodo, Indonesia",
-      "pt-BR": "Elegância defensiva",
-      "zh-CN": "海笔上的装饰蟹，科莫多国家公园，印度尼西亚",
-      "en-IN": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "en-US": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "en-CA": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia"
-    },
-    "copyrights": {
-      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "de-DE": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien (© Alex Mustard/Nature Picture Library)",
-      "fr-FR": "Crabe décorateur sur une plume de mer, Parc national de Komodo, Indonésie (© Alex Mustard/Nature Picture Library)",
-      "it-IT": "Granchio decoratore su penna marina, Parco Nazionale di Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "es-ES": "Cangrejo decorador en una pluma marina, Parque Nacional de Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "pt-BR": "Caranguejo-decorador em pena-do-mar, Parque Nacional de Komodo, Indonésia (© Alex Mustard/Nature Picture Library)",
-      "zh-CN": "海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)",
-      "en-IN": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "en-US": "© Alex Mustard/Nature Picture Library",
-      "en-CA": "© Alex Mustard/Nature Picture Library"
-    },
-    "descs": {
-      "en-GB": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "de-DE": "Im heutigen Bild spielt sich ein stilles Versteckspiel unter Wasser ab. Eine Dekorateurkrabbe sitzt auf einer Seefeder und verschmilzt beinahe mit ihrer Umgebung. Die Aufnahme entstand im Nationalpark Komodo in Indonesien, einem Schutzgebiet, das 1980 eingerichtet wurde und nach dem Komodowaran benannt ist. Zwischen dem Pazifischen und dem Indischen Ozean gelegen, umfasst der Park Inseln, Mangrovenwälder, Seegraswiesen und farbenreiche Korallenriffe. Starke Meeresströmungen fördern hier eine außergewöhnliche Vielfalt an Tieren und Pflanzen.",
-      "fr-FR": "Au cœur des eaux qui entourent le parc national de Komodo, en Indonésie, la vie semble jouer à cache-cache. Créé en 1980 et célèbre pour abriter le dragon de Komodo, ce territoire protégé réunit îles sauvages, mangroves, herbiers marins et récifs coralliens foisonnants. Entre les océans Pacifique et Indien, de puissants courants nourrissent une biodiversité remarquable.",
-      "es-ES": "En los fondos del Parque Nacional de Komodo (Indonesia), un cangrejo decorador se refugia sobre una pluma de mar, ese coral blando que se ancla al sedimento y se despliega como un abanico. La estrategia es sencilla y brillante: la pluma llama la atención y el cangrejo desaparece.",
-      "en-IN": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "en-US": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds, and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "en-CA": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "it-IT": "Nei fondali del Parco Nazionale di Komodo (Indonesia), un granchio decoratore si nasconde su una penna di mare, il corallo molle che si ancora al sedimento e si apre come un ventaglio. La strategia è semplice e geniale: la penna attira lo sguardo e la sua struttura ramificata spezza la sagoma del granchio, che di fatto scompare.",
-      "pt-BR": "O desafio desta foto parece simples: encontre o caranguejo. Ele está ali, entre os ramos de uma pena-do-mar, um parente dos corais, nas águas do Parque Nacional de Komodo, na Indonésia. O caranguejo-decorador transforma a própria carapaça em um esconderijo móvel: cerdas curvadas funcionam como pequenos ganchos que prendem algas, esponjas e outros materiais ao corpo, quebrando seu contorno diante dos predadores.",
-      "zh-CN": "不妨把这看作一场水下捉迷藏：海笔格外醒目，螃蟹却融入其中。今天的图片拍摄于印度尼西亚科莫多国家公园周边水域。该公园成立于1980年，以世界上现存最大的蜥蜴科莫多巨蜥命名。这片保护区包括岛屿、红树林、海草床和珊瑚礁。公园位于太平洋与印度洋之间，强劲洋流塑造了这里的生态环境，孕育出丰富多样的海洋生物，其中也包括依靠伪装生存的物种。"
-    },
-    "quickFacts": {
-      "zh-CN": "科莫多国家公园于1991年被列入联合国教科文组织《世界遗产名录》。"
-    },
-    "captions": {
-      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "de-DE": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
-      "fr-FR": "Parc national de Komodo, Indonésie",
-      "it-IT": "",
-      "es-ES": "Cangrejo decorador, Parque Nacional de Komodo, Indonesia",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Decorator crab on a sea pen, Komodo National Park, Indonesia"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260926_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Nationalpark+Komodo&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Parc+national+de+Komodo+&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+di+Komodo&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+Komodo&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+de+Komodo+na+Indon%c3%a9sia&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e7%a7%91%e8%8e%ab%e5%a4%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260926_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.DecoCrab_EN-GB9651352105",
-      "de-DE": "/th?id=OHR.DecoCrab_DE-DE3687547943",
-      "fr-FR": "/th?id=OHR.DecoCrab_FR-FR8789802868",
-      "it-IT": "/th?id=OHR.DecoCrab_IT-IT5114188667",
-      "es-ES": "/th?id=OHR.DecoCrab_ES-ES3779382499",
-      "pt-BR": "/th?id=OHR.DecoCrab_PT-BR1863827080",
-      "zh-CN": "/th?id=OHR.DecoCrab_ZH-CN0973306994",
-      "en-IN": "/th?id=OHR.DecoCrab_EN-IN8596521807"
+      "en-GB": "/th?id=OHR.AmberHall_EN-GB9719100676",
+      "de-DE": "/th?id=OHR.AmberHall_DE-DE3888408627",
+      "fr-FR": "/th?id=OHR.AmberHall_FR-FR6136179100",
+      "it-IT": "/th?id=OHR.AmberHall_IT-IT8621021328",
+      "es-ES": "/th?id=OHR.AmberHall_ES-ES8111355480",
+      "pt-BR": "/th?id=OHR.AmberHall_PT-BR1465916376",
+      "ja-JP": "/th?id=OHR.AmberHall_JA-JP9172458689",
+      "zh-CN": "/th?id=OHR.AmberHall_ZH-CN1223127100",
+      "en-IN": "/th?id=OHR.AmberHall_EN-IN8681494262"
     }
   },
   "RedMacawsFlight": {
@@ -2455,40 +2466,6 @@
       "ja-JP": "/th?id=OHR.Japan7Flower2026_JA-JP7430731593"
     }
   },
-  "Cosmos2026": {
-    "name": "Cosmos2026",
-    "urlbase": "/th?id=OHR.Cosmos2026_JA-JP5810317842",
-    "date": "20260913",
-    "dateFormatted": "September 13, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日はコスモスの日"
-    },
-    "copyrights": {
-      "ja-JP": "川辺のコスモス (© iplan/a.collectionRF/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "今日 9 月 14 日はコスモスの日。「愛情」や、「優美」、「謙虚」、「調和」など、コスモスにはさまざまな花言葉があり、ホワイトデーからちょうど半年となるこの日に、恋人や家族にコスモスの花を贈り感謝や愛情を伝える日とされています。「秋桜」とも書かれるコスモスは、秋を代表する花として親しまれています。早咲きや遅咲きなどでいくつかの品種があるものの、一般的には 9 月から 10 月中旬ごろまでが見頃の時期です。"
-    },
-    "quickFacts": {
-      "ja-JP": "コスモスの代表的な花色は、ピンクや白ですが、なかには濃い赤褐色の花を咲かせる品種「チョコレートコスモス」もあります。"
-    },
-    "captions": {
-      "ja-JP": "今日はコスモスの日"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b3%e3%82%b9%e3%83%a2%e3%82%b9%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260913_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.Cosmos2026_JA-JP5810317842"
-    }
-  },
   "AutumnEquinoxY26": {
     "name": "AutumnEquinoxY26",
     "urlbase": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091",
@@ -2521,6 +2498,109 @@
     },
     "urlbases": {
       "zh-CN": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091"
+    }
+  },
+  "MisurinaPeak": {
+    "name": "MisurinaPeak",
+    "urlbase": "/th?id=OHR.MisurinaPeak_EN-US4897144498",
+    "date": "20260913",
+    "dateFormatted": "September 13, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy",
+      "en-CA": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy",
+      "en-GB": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy",
+      "fr-FR": "Un toit au-dessus de l’Italie. Cadini di Misurina, Dolomites, Vénétie, Italie",
+      "it-IT": "La corona d'Italia",
+      "pt-BR": "O recife que subiu de nível",
+      "ja-JP": "雲間にそびえる鋭い峰々",
+      "zh-CN": "高处的珊瑚礁",
+      "en-IN": "A reef above its station. Cadini di Misurina, Dolomites, Veneto, Italy",
+      "de-DE": "Ein Riff über den Wolken. Cadini di Misurina, Dolomiten, Venetien, Italien"
+    },
+    "copyrights": {
+      "en-US": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
+      "en-CA": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
+      "en-GB": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
+      "fr-FR": "Cadini di Misurina, Dolomites, Vénétie, Italie (© Vithun Khamsong/Getty Images)",
+      "it-IT": "Cadini di Misurina, Dolomiti, Veneto, Italia (© Vithun Khamsong/Getty Images)",
+      "pt-BR": "Cadini di Misurina, Dolomitas, Vêneto, Itália (© Vithun Khamsong/Getty Images)",
+      "ja-JP": "カディーニ・ディ・ミズリーナ山塊, イタリア (© Vithun Khamsong/Getty Images)",
+      "zh-CN": "米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)",
+      "en-IN": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
+      "de-DE": "Cadini di Misurina, Dolomiten, Venetien, Italien (© Vithun Khamsong/Getty Images)"
+    },
+    "descs": {
+      "en-US": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading toward nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 9,300 feet at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
+      "en-CA": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading toward nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 2,800 metres at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
+      "en-GB": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading towards nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 2,800 metres at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
+      "fr-FR": "Au lever du soleil, les silhouettes déchiquetées des Cadini di Misurina se détachent sur le ciel du nord-est de l’Italie. De nombreux voyageurs se rendent d’abord aux célèbres Tre Cime di Lavaredo avant de découvrir ces sommets élancés des Dolomites. Culminant à plus de 2 800 mètres, leurs aiguilles rocheuses semblent avoir été sculptées pour impressionner. Pourtant, leur origine réserve une surprise fascinante : elles sont les vestiges d’anciens récifs coralliens.",
+      "ja-JP": "ギザギザとした峰が連なる今日の画像は、イタリア北東部のドロミーティ山脈にあるカディーニ・ディ・ミズリーナ山塊です。岸壁には海洋生物の化石が存在していますが、これは約 2 億 5,000 万年前、この地域が温暖な熱帯の海に覆われていたためです。長い年月の間にプレートの衝突による隆起と侵食が進み、かつて海底だった地層が現在の険しい山並みとして姿を現しました。ユネスコ世界遺産に登録されているドロミーティは、壮大な山岳風景と地球の歴史を伝える場所です。",
+      "en-IN": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading towards nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 2,800 metres at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
+      "de-DE": "Im Herzen der Dolomiten erhebt sich die markante Berggruppe der Cadini di Misurina in Venetien, Italien, mit einer Silhouette, die besonders bei Sonnenaufgang beeindruckt. Viele Wanderer, die auf dem Weg zu den nahen Drei Zinnen unterwegs sind, entdecken hier eine Landschaft, die ihnen lange im Gedächtnis bleibt. Die schroffen Gipfel ragen bis auf mehr als 2.800 Meter Höhe auf und wirken, als seien sie eigens für ein alpines Schauspiel geschaffen worden. Tatsächlich begann ihre Geschichte jedoch nicht in den Bergen, sondern unter dem Meer.",
+      "it-IT": "Alle prime luci le guglie dei Cadini di Misurina, nelle Dolomiti (Italia), sembrano tagliate con le forbici. In molti arrivano in questo angolo del Veneto per le Tre Cime di Lavaredo e finiscono ipnotizzati da questo labirinto di cime, la più alta delle quali, la Cima Cadin di San Lucano, raggiunge più di 2.800 metri.",
+      "pt-BR": "Se você chegasse a Cadini di Misurina há 250 milhões de anos, precisaria de equipamento de mergulho, não de botas de caminhada. As formações que hoje se erguem na região do Vêneto, no nordeste da Itália, nasceram embaixo d’água, onde recifes e sedimentos se acumulavam no fundo de um mar tropical.",
+      "zh-CN": "画面捕捉了意大利东北部威尼托大区米苏里纳群峰日出时的锯齿状天际线。前往附近三峰山的游客，往往本为那条著名路线而来，却发现自己的目光被米苏里纳群峰吸引。作为多洛米蒂山脉的一部分，这些针状山峰最高处超过9,300英尺，仿佛专为营造戏剧效果而雕琢。出人意料的是，它们最初是古老的珊瑚礁。"
+    },
+    "quickFacts": {
+      "zh-CN": "联合国教科文组织的多洛米蒂山脉遗产地由九个组成部分构成，其中有18座海拔超过3000米的山峰。"
+    },
+    "captions": {
+      "en-US": "Cadini di Misurina, Dolomites, Veneto, Italy",
+      "en-CA": "Cadini di Misurina, Dolomites, Veneto, Italy"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt&filters=HpDate%3a%2220260913_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt&filters=HpDate%3a%2220260913_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MisurinaPeak_EN-US4897144498",
+      "en-CA": "/th?id=OHR.MisurinaPeak_EN-CA8816219114"
+    }
+  },
+  "Cosmos2026": {
+    "name": "Cosmos2026",
+    "urlbase": "/th?id=OHR.Cosmos2026_JA-JP5810317842",
+    "date": "20260913",
+    "dateFormatted": "September 13, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日はコスモスの日"
+    },
+    "copyrights": {
+      "ja-JP": "川辺のコスモス (© iplan/a.collectionRF/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日 9 月 14 日はコスモスの日。「愛情」や、「優美」、「謙虚」、「調和」など、コスモスにはさまざまな花言葉があり、ホワイトデーからちょうど半年となるこの日に、恋人や家族にコスモスの花を贈り感謝や愛情を伝える日とされています。「秋桜」とも書かれるコスモスは、秋を代表する花として親しまれています。早咲きや遅咲きなどでいくつかの品種があるものの、一般的には 9 月から 10 月中旬ごろまでが見頃の時期です。"
+    },
+    "quickFacts": {
+      "ja-JP": "コスモスの代表的な花色は、ピンクや白ですが、なかには濃い赤褐色の花を咲かせる品種「チョコレートコスモス」もあります。"
+    },
+    "captions": {
+      "ja-JP": "今日はコスモスの日"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b3%e3%82%b9%e3%83%a2%e3%82%b9%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260913_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Cosmos2026_JA-JP5810317842"
     }
   },
   "SardineBait": {
