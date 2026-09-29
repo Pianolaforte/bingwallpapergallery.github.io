@@ -1,4 +1,148 @@
 {
+  "AmberHall": {
+    "name": "AmberHall",
+    "urlbase": "/th?id=OHR.AmberHall_EN-US9930812541",
+    "date": "20260928",
+    "dateFormatted": "September 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "en-GB": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "en-CA": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "de-DE": "Geschichte mit Aussicht. Fort Amber bei Jaipur, Rajasthan, Indien",
+      "fr-FR": "Vue sur l’histoire. Fort d’Amber près de Jaipur, Rajasthan, Inde",
+      "it-IT": "Storie tra i pilastri",
+      "es-ES": "Los 27 pilares de la historia. Fuerte de Amber cerca de Jaipur, Rajasthan, India",
+      "pt-BR": "Uma vista digna de um marajá",
+      "ja-JP": "優美な柱が並ぶ宮殿",
+      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度",
+      "en-IN": "History with a view. Amber Fort near Jaipur, Rajasthan, India"
+    },
+    "copyrights": {
+      "en-US": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "en-GB": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "en-CA": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "de-DE": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
+      "fr-FR": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
+      "it-IT": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "es-ES": "Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "pt-BR": "Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)",
+      "ja-JP": "アンベール城, インド (© R.M. Nunes/Getty Images)",
+      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)",
+      "en-IN": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centered on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "en-GB": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "en-CA": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "de-DE": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
+      "fr-FR": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
+      "es-ES": "El Fuerte de Amber, junto a Jaipur (Rajastán, India), fue la capital real antes de que existiera la ciudad rosa. Su construcción arrancó en 1592 con Raja Man Singh I y continuó más de un siglo bajo los soberanos kachwaha; en 1727 la corte se mudó a la nueva Jaipur, aunque Amber siguió acogiendo ceremonias.",
+      "ja-JP": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
+      "en-IN": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "it-IT": "Il Forte Amber, vicino a Jaipur (Rajasthan, India), è stato la capitale reale prima che esistesse la città rosa. La costruzione partì nel 1592 con Raja Man Singh I e continuò per oltre un secolo con i sovrani kachwaha; nel 1727 la corte si trasferì nella nuova Jaipur, ma Amber restò sede di cerimonie.",
+      "pt-BR": "Hoje estamos no Sattais Katcheri, na região indiana do Rajastão. O nome faz referência às 27 colunas do salão, que fazia parte da estrutura administrativa do Forte de Amber. Aqui, a decoração também conta uma história: elementos da arquitetura rajput convivem com influências mogóis, ao lado de mármore trabalhado, pátios monumentais e o extraordinário Sheesh Mahal, ou Palácio dos Espelhos.",
+      "zh-CN": "大多数初次到访印度拉贾斯坦邦斋浦尔的游客都知道这座城市有“粉红之城”的美誉，但更早的王都以琥珀堡为中心。这个王朝的大部分政治与建筑史正是在那里书写的。琥珀堡的营建历时一个多世纪，始于1592年拉贾·曼·辛格一世统治时期，之后由历代卡奇瓦哈统治者续建；他们统治的王国后来成为斋浦尔土邦。王室于 1727 年迁往新规划的斋浦尔城，但琥珀堡仍继续承担礼仪功能。"
+    },
+    "quickFacts": {
+      "zh-CN": "琥珀堡是联合国教科文组织世界遗产“拉贾斯坦邦的山地要塞”所包含的六座堡垒之一；该遗产于 2013 年列入《世界遗产名录》。"
+    },
+    "captions": {
+      "en-US": "Amber Fort near Jaipur, Rajasthan, India",
+      "en-GB": "Amber Fort near Jaipur, Rajasthan, India",
+      "en-CA": "Amber Fort near Jaipur, Rajasthan, India",
+      "de-DE": "Fort Amber bei Jaipur, Rajasthan, Indien",
+      "fr-FR": "Fort d’Amber près de Jaipur, Rajasthan, Inde",
+      "it-IT": "",
+      "es-ES": "Fuerte de Amber cerca de Jaipur, Rajasthan, India",
+      "pt-BR": "",
+      "ja-JP": "優美な柱が並ぶ宮殿",
+      "zh-CN": "",
+      "en-IN": "Amber Fort near Jaipur, Rajasthan, India"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Fort+Amber+Indien&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=fort+d%e2%80%99Amber+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Forte+Amber+Jaipur&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Fuerte+Amber&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Forte+de+Amber&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%99%e3%83%bc%e3%83%ab%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220260927_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b0%e5%ba%a6%e6%8b%89%e8%b4%be%e6%96%af%e5%9d%a6%e9%82%a6%e6%96%8b%e6%b5%a6%e5%b0%94%e7%90%a5%e7%8f%80%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AmberHall_EN-US9930812541",
+      "en-GB": "/th?id=OHR.AmberHall_EN-GB9719100676",
+      "en-CA": "/th?id=OHR.AmberHall_EN-CA9553208557",
+      "de-DE": "/th?id=OHR.AmberHall_DE-DE3888408627",
+      "fr-FR": "/th?id=OHR.AmberHall_FR-FR6136179100",
+      "it-IT": "/th?id=OHR.AmberHall_IT-IT8621021328",
+      "es-ES": "/th?id=OHR.AmberHall_ES-ES8111355480",
+      "pt-BR": "/th?id=OHR.AmberHall_PT-BR1465916376",
+      "ja-JP": "/th?id=OHR.AmberHall_JA-JP9172458689",
+      "zh-CN": "/th?id=OHR.AmberHall_ZH-CN1223127100",
+      "en-IN": "/th?id=OHR.AmberHall_EN-IN8681494262"
+    }
+  },
   "DecoCrab": {
     "name": "DecoCrab",
     "urlbase": "/th?id=OHR.DecoCrab_EN-US9587426678",
@@ -705,7 +849,7 @@
       "es-ES": "La estación dorada. Equinoccio de otoño",
       "pt-BR": "O ponto de equilíbrio",
       "ja-JP": "黄金色に染まる秋の森",
-      "zh-CN": "瓜兹曼山口附近的秋日山杨林，犹他州，美国",
+      "zh-CN": "金色时节",
       "en-IN": "The golden season. Autumn equinox"
     },
     "copyrights": {
@@ -1631,97 +1775,11 @@
       "en-US": "/th?id=OHR.FortUnion_EN-US5138724452"
     }
   },
-  "KochiaChina": {
-    "name": "KochiaChina",
-    "urlbase": "/th?id=OHR.KochiaChina_EN-US5037126636",
-    "date": "20260914",
-    "dateFormatted": "September 14, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "en-US": "Where toughness takes root. Field of kochia plants, China",
-      "en-CA": "Where toughness takes root. Field of kochia plants, China",
-      "ja-JP": "緑から紅へと染まる秋景色",
-      "en-GB": "Where toughness takes root. Field of kochia plants, China",
-      "de-DE": "Wo Widerstandskraft Wurzeln schlägt. Feld mit Besen-Radmelden, China",
-      "fr-FR": "Quand la tenacité prend racine. Champ de kochia, Chine",
-      "it-IT": "Dove la durezza radica",
-      "es-ES": "Donde la dureza echa raíces. Campo de plantas de kochia, China",
-      "pt-BR": "Resistência em tons de vermelho",
-      "zh-CN": "坚韧在此扎根",
-      "en-IN": "Where toughness takes root. Field of kochia plants, China"
-    },
-    "copyrights": {
-      "en-US": "Field of kochia plants, China (© lingqi xie/Getty Images)",
-      "en-CA": "Field of kochia plants, China (© lingqi xie/Getty Images)",
-      "ja-JP": "コキア, 中国 (© lingqi xie/Getty Images)",
-      "en-GB": "Field of kochia plants, China (© lingqi xie/Getty Images)",
-      "de-DE": "Feld mit Besen-Radmelden, China (© lingqi xie/Getty Images)",
-      "fr-FR": "Champ de kochia, Chine (© lingqi xie/Getty Images)",
-      "it-IT": "Campo di piante di kochia, Cina (© lingqi xie/Getty Images)",
-      "es-ES": "Campo de plantas de kochia, China (© lingqi xie/Getty Images)",
-      "pt-BR": "Campo de kochia, China (© lingqi xie/Getty Images)",
-      "zh-CN": "地肤田，中国 (© lingqi xie/Getty Images)",
-      "en-IN": "Field of kochia plants, China (© lingqi xie/Getty Images)"
-    },
-    "descs": {
-      "en-US": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils, and low rainfall helped it spread across the Great Plains and much of the American West.",
-      "en-CA": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
-      "ja-JP": "今日の画像は、中国に広がるコキアの風景。日本には、平安時代以前に伝わったとされるユーラシア大陸原産の一年草です。茎を乾燥させてほうきを作っていたことから、和名では「ホウキギ（箒木）」「ホウキグサ（箒草）」と呼ばれています。夏は爽やかなライムグリーン、秋には鮮やかな深紅へと変化しながら、全体が球形から楕円形になります。高温や乾燥、塩分を含む土壌に強く、降水量の少ない地域では家畜の飼料として利用されてきました。その丸い姿が、花言葉「夫婦円満」の由来になったと言われています。",
-      "en-GB": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
-      "de-DE": "Im heutigen Bild breitet sich ein Feld voller Besen-Radmelden in China aus. Die Pflanzen leuchten in kräftigen Rot- und Grüntönen und verwandeln die Landschaft in ein auffälliges Muster. Ursprünglich stammt die Art aus Teilen Eurasiens und ist für ihre Anpassungsfähigkeit bekannt. Sie verträgt Trockenheit, Hitze und nährstoffarme Böden und kann deshalb auch in Regionen gedeihen, in denen andere Pflanzen nur schwer wachsen. Im Laufe des Jahres verändert sich ihre Färbung deutlich. Besonders im Spätsommer und Herbst entstehen die intensiven Farbtöne.",
-      "fr-FR": "Dans l’image du jour, des étendues de kochias dessinent un paysage étonnant, où le vert tendre côtoie des teintes rouge foncé. Originaire de certaines régions d’Eurasie, cette plante est appréciée pour ses qualités ornementales et sa remarquable capacité d’adaptation. Sa résistance à la sécheresse, à la chaleur et aux sols pauvres lui permet de prospérer dans des environnements variés, y compris dans certaines régions méditerranéennes où les étés sont particulièrement secs.",
-      "es-ES": "El campo que parece pintado a brochazos rojos y verdes está en China y lo forma una sola especie: la kochia (Bassia scoparia), que al final del verano cambia el verde por un granate intenso. Cada mata es una planta anual redondeada que en pocos meses supera el metro de altura y produce miles de semillas.",
-      "en-IN": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
-      "it-IT": "Il campo che sembra dipinto a pennellate rosse e verdi si trova in Cina e lo compone una sola specie: la kochia (Bassia scoparia), che a fine estate scambia il verde con un granata intenso. Ogni cespuglio è una pianta annuale tondeggiante che in pochi mesi supera il metro di altezza e produce migliaia di semi.",
-      "pt-BR": "O vermelho desta paisagem na China vem da planta conhecida como kochia, que começa verde e pode terminar o ciclo em tons intensos de vermelho. Mas a transformação cromática é só o começo. A kochia cresce rápido, pode chegar a cerca de 1,5 metro e produz muitas sementes. Quando amadurece e seca, pode se desprender da base e ser levada pelo vento, dispersando sementes pelo caminho.",
-      "zh-CN": "在今天的画面中，中国大地上铺展着绿色与深红色的地肤。地肤原产于欧亚大陆部分地区，19世纪末作为观赏植物和制作扫帚的材料来源被引入美国。它耐旱、耐热、耐盐碱土壤和少雨环境的能力，帮助其扩散至美国大平原及美国西部大部分地区。"
-    },
-    "quickFacts": {
-      "en-US": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach, and quinoa.",
-      "en-GB": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
-      "en-CA": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
-      "de-DE": "Besen-Radmelde gehört zur Familie der Amaranthgewächse und ist botanisch mit Roter Bete, Spinat und Quinoa verwandt.",
-      "fr-FR": "Le kochia appartient à la famille des Amaranthacées, dont il partage les liens botaniques avec la betterave, les épinards et le quinoa.",
-      "zh-CN": "地肤属于苋科，与甜菜、菠菜和藜麦有植物学上的亲缘关系。",
-      "en-IN": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach, and quinoa."
-    },
-    "captions": {
-      "en-US": "Field of kochia plants, China",
-      "en-CA": "Field of kochia plants, China",
-      "ja-JP": "緑から紅へと染まる秋景色"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0400%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b3%e3%82%ad%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260914_1500%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.KochiaChina_EN-US5037126636",
-      "en-CA": "/th?id=OHR.KochiaChina_EN-CA9157667253",
-      "ja-JP": "/th?id=OHR.KochiaChina_JA-JP6121199727"
-    }
-  },
-  "AmberHall": {
-    "name": "AmberHall",
-    "urlbase": "/th?id=OHR.AmberHall_EN-GB9719100676",
-    "date": "20260927",
-    "dateFormatted": "September 27, 2026",
+  "KasilofRiver": {
+    "name": "KasilofRiver",
+    "urlbase": "/th?id=OHR.KasilofRiver_EN-GB9796874794",
+    "date": "20260928",
+    "dateFormatted": "September 28, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1770,195 +1828,79 @@
       }
     ],
     "titles": {
-      "en-GB": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
-      "de-DE": "Geschichte mit Aussicht. Fort Amber bei Jaipur, Rajasthan, Indien",
-      "fr-FR": "Vue sur l’histoire. Fort d’Amber près de Jaipur, Rajasthan, Inde",
-      "it-IT": "Storie tra i pilastri",
-      "es-ES": "Los 27 pilares de la historia. Fuerte de Amber cerca de Jaipur, Rajasthan, India",
-      "pt-BR": "Uma vista digna de um marajá",
-      "ja-JP": "優美な柱が並ぶ宮殿",
-      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度",
-      "en-IN": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
-      "en-US": "History with a view. Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India",
-      "en-CA": "History with a view. Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India"
+      "en-GB": "Born of glaciers. Kasilof River, Alaska, United States",
+      "de-DE": "Aus Gletschern entstanden. Gletschergespeistes Wasser im Kasilof River, Alaska, USA",
+      "fr-FR": "Née des glaciers. Les eaux bleues de la rivière Kasilof, Alaska, États-Unis",
+      "it-IT": "Nato dai ghiacciai",
+      "es-ES": "Nacidos de glaciares. Río Kasilof, Alaska, EE. UU.",
+      "pt-BR": "Uma jornada glacial",
+      "ja-JP": "氷河の恵みをたたえる川",
+      "zh-CN": "卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国",
+      "en-IN": "Born of glaciers. Kasilof River, Alaska, United States",
+      "en-US": "Born of glaciers. The blue, glacier-fed waters of the Kasilof River, Alaska, USA",
+      "en-CA": "Born of glaciers. The blue, glacier-fed waters of the Kasilof River, Alaska, United States"
     },
     "copyrights": {
-      "en-GB": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "de-DE": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
-      "fr-FR": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
-      "it-IT": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "es-ES": "Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "pt-BR": "Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)",
-      "ja-JP": "アンベール城, インド (© R.M. Nunes/Getty Images)",
-      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)",
-      "en-IN": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "en-US": "© R.M. Nunes/Getty Images",
-      "en-CA": "© R.M. Nunes/Getty Images"
+      "en-GB": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
+      "de-DE": "Das blaue, von Gletschern gespeiste Wasser des Kasilof River in Alaska, USA (© jared lloyd/Getty Images)",
+      "fr-FR": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis (© jared lloyd/Getty Images)",
+      "it-IT": "Le acque blu alimentate dai ghiacciai del fiume Kasilof, Alaska, USA (© jared lloyd/Getty Images)",
+      "es-ES": "Las aguas azules alimentadas por glaciares del río Kasilof, Alaska, EE. UU. (© jared lloyd/Getty Images)",
+      "pt-BR": "Rio Kasilof, Península de Kenai, Alasca, Estados Unidos (© jared lloyd/Getty Images)",
+      "ja-JP": "カシロフ川, 米国 アラスカ州 (© jared lloyd/Getty Images)",
+      "zh-CN": "卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)",
+      "en-IN": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
+      "en-US": "© jared lloyd/Getty Images",
+      "en-CA": "© jared lloyd/Getty Images"
     },
     "descs": {
-      "en-GB": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "de-DE": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
-      "fr-FR": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
-      "es-ES": "El Fuerte de Amber, junto a Jaipur (Rajastán, India), fue la capital real antes de que existiera la ciudad rosa. Su construcción arrancó en 1592 con Raja Man Singh I y continuó más de un siglo bajo los soberanos kachwaha; en 1727 la corte se mudó a la nueva Jaipur, aunque Amber siguió acogiendo ceremonias.",
-      "ja-JP": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
-      "en-IN": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "en-US": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centered on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "en-CA": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "it-IT": "Il Forte Amber, vicino a Jaipur (Rajasthan, India), è stato la capitale reale prima che esistesse la città rosa. La costruzione partì nel 1592 con Raja Man Singh I e continuò per oltre un secolo con i sovrani kachwaha; nel 1727 la corte si trasferì nella nuova Jaipur, ma Amber restò sede di cerimonie.",
-      "pt-BR": "Hoje estamos no Sattais Katcheri, na região indiana do Rajastão. O nome faz referência às 27 colunas do salão, que fazia parte da estrutura administrativa do Forte de Amber. Aqui, a decoração também conta uma história: elementos da arquitetura rajput convivem com influências mogóis, ao lado de mármore trabalhado, pátios monumentais e o extraordinário Sheesh Mahal, ou Palácio dos Espelhos.",
-      "zh-CN": "大多数初次到访印度拉贾斯坦邦斋浦尔的游客都知道这座城市有“粉红之城”的美誉，但更早的王都以琥珀堡为中心。这个王朝的大部分政治与建筑史正是在那里书写的。琥珀堡的营建历时一个多世纪，始于1592年拉贾·曼·辛格一世统治时期，之后由历代卡奇瓦哈统治者续建；他们统治的王国后来成为斋浦尔土邦。王室于 1727 年迁往新规划的斋浦尔城，但琥珀堡仍继续承担礼仪功能。"
+      "en-GB": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula in the United States. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 17 miles before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
+      "de-DE": "Der Kasilof River auf der Kenai-Halbinsel im US-Bundesstaat Alaska beeindruckt mit seinem leuchtend blauen Wasser, das aus dem Tustumena Lake stammt. Die auffällige Farbe entsteht durch feinen Gletscherschlamm, der vom Schmelzwasser mitgeführt wird und dem Fluss seinen türkisblauen Ton verleiht. Aus der Luft wirkt der Kasilof wie ein glänzendes Band, das sich durch die weite Landschaft aus Wäldern, Feuchtgebieten und Seen schlängelt. Obwohl er deutlich kürzer ist als der benachbarte Kenai River, zählt er zu den markantesten Gewässern der Region.",
+      "fr-FR": "Vue du ciel, la rivière Kasilof dessine un ruban turquoise à travers la péninsule de Kenai, en Alaska (États-Unis). Cette teinte saisissante provient des fines particules glaciaires transportées depuis le lac Tustumena, l’un des plus vastes lacs d’eau douce de l’État. Sur environ 27 kilomètres avant de rejoindre le Cook Inlet, le cours d’eau traverse un décor façonné par les glaces depuis des millénaires. À chaque méandre, les reflets sur l’eau laiteuse révèlent un paysage où montagnes, forêts boréales et zones humides composent une remarquable mosaïque naturelle.",
+      "es-ES": "Visto desde el aire, el río Kasilof dibuja una cinta turquesa sobre la península Kenai, en Alaska (EE. UU.). Ese color no es un efecto de la luz: procede del limo glaciar en suspensión que baja desde el lago Tustumena, uno de los mayores de agua dulce del estado, alimentado a su vez por un glaciar de los montes Kenai.",
+      "ja-JP": "氷河の恵みをたたえる川. カシロフ川, 米国 アラスカ州. 今日の画像は、米国アラスカ州南部のキナイ半島を流れるカシロフ川。水源であるツツメナ氷河から運ばれる氷河岩粉によって、水の色は鮮やかなミルキーブルーとなっています。川は約 27km にわたって流れ、クック湾へと注ぎ込みます。この川には、サケやマスが豊富に生息し、人気の釣りスポットとして知られています。また、周辺ではキャンプや自然遊歩道の散策も楽しめます。",
+      "en-IN": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula in the United States. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
+      "en-US": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 17 miles before emptying into Cook Inlet, the river is shorter than its famous neighbor, the Kenai, but no less remarkable.",
+      "en-CA": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
+      "it-IT": "Visto dall'alto, il fiume Kasilof disegna un nastro turchese sulla penisola di Kenai, in Alaska (USA). Quel colore non è un gioco di luce: viene dal limo glaciale in sospensione che scende dal lago Tustumena, uno dei più grandi bacini d'acqua dolce dello stato, alimentato a sua volta da un ghiacciaio.",
+      "pt-BR": "Se alguém dissesse que esta água foi tingida de azul, seria fácil acreditar. O rio Kasilof, na Península de Kenai, no Alasca, realmente ganha esse tom turquesa intenso. A explicação, porém, está nas geleiras: partículas microscópicas de rocha, chamadas silte glacial, chegam ao rio vindas do lago Tustumena e permanecem suspensas na água, ajudando a produzir a coloração.",
+      "zh-CN": "从空中俯瞰，卡西洛夫河宛如一条绿松石色的丝带，蜿蜒穿过阿拉斯加州的基奈半岛。鲜艳的蓝色河水源于从图斯图梅纳湖向下游输送的冰川粉砂；该湖是阿拉斯加州最大的淡水湖之一。河流全长约17英里，最终注入库克湾。它虽比著名的邻河基奈河短，却同样不同凡响。"
     },
     "quickFacts": {
-      "zh-CN": "琥珀堡是联合国教科文组织世界遗产“拉贾斯坦邦的山地要塞”所包含的六座堡垒之一；该遗产于 2013 年列入《世界遗产名录》。"
+      "zh-CN": "卡西洛夫河畔的克鲁克德溪州立休闲地在 5 月和 6 月最受欢迎，此时游客可从河岸垂钓帝王鲑。"
     },
     "captions": {
-      "en-GB": "Amber Fort near Jaipur, Rajasthan, India",
-      "de-DE": "Fort Amber bei Jaipur, Rajasthan, Indien",
-      "fr-FR": "Fort d’Amber près de Jaipur, Rajasthan, Inde",
+      "en-GB": "Kasilof River, Alaska, United States",
+      "de-DE": "Gletschergespeistes Wasser im Kasilof River, Alaska, USA",
+      "fr-FR": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis",
       "it-IT": "",
-      "es-ES": "Fuerte de Amber cerca de Jaipur, Rajasthan, India",
+      "es-ES": "Río Kasilof, Alaska, EE. UU.",
       "pt-BR": "",
-      "ja-JP": "優美な柱が並ぶ宮殿",
+      "ja-JP": "氷河の恵みをたたえる川",
       "zh-CN": "",
-      "en-IN": "Amber Fort near Jaipur, Rajasthan, India"
+      "en-IN": "Kasilof River, Alaska, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Fort+Amber+Indien&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=fort+d%e2%80%99Amber+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Forte+Amber+Jaipur&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Fuerte+Amber&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Forte+de+Amber&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%99%e3%83%bc%e3%83%ab%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220260927_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b0%e5%ba%a6%e6%8b%89%e8%b4%be%e6%96%af%e5%9d%a6%e9%82%a6%e6%96%8b%e6%b5%a6%e5%b0%94%e7%90%a5%e7%8f%80%e5%a0%a1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Kasilof+River+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220260928_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=rivi%c3%a8re+Kasilof+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Il+Fiume+Kasilof+Alaska&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=R%c3%ado+Kasilof+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Pen%c3%adnsula+de+Kenai+no+Alasca&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%b7%e3%83%ad%e3%83%95%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220260928_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e5%9b%bd%e9%98%bf%e6%8b%89%e6%96%af%e5%8a%a0%e5%b7%9e%e5%8d%a1%e8%a5%bf%e6%b4%9b%e5%a4%ab%e6%b2%b3&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AmberHall_EN-GB9719100676",
-      "de-DE": "/th?id=OHR.AmberHall_DE-DE3888408627",
-      "fr-FR": "/th?id=OHR.AmberHall_FR-FR6136179100",
-      "it-IT": "/th?id=OHR.AmberHall_IT-IT8621021328",
-      "es-ES": "/th?id=OHR.AmberHall_ES-ES8111355480",
-      "pt-BR": "/th?id=OHR.AmberHall_PT-BR1465916376",
-      "ja-JP": "/th?id=OHR.AmberHall_JA-JP9172458689",
-      "zh-CN": "/th?id=OHR.AmberHall_ZH-CN1223127100",
-      "en-IN": "/th?id=OHR.AmberHall_EN-IN8681494262"
-    }
-  },
-  "RedMacawsFlight": {
-    "name": "RedMacawsFlight",
-    "urlbase": "/th?id=OHR.RedMacawsFlight_EN-GB8204775819",
-    "date": "20260914",
-    "dateFormatted": "September 14, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Survival of the flashiest. Red-and-green macaws",
-      "en-CA": "Survival of the flashiest. Red-and-green macaws",
-      "de-DE": "Das Überleben der Auffälligsten. Grünflügelaras",
-      "fr-FR": "Ça plane pour moi ! Aras chloroptères, Amérique du Sud",
-      "it-IT": "Loquace e appariscente",
-      "es-ES": "Supervivencia de los más llamativos. Guacamayos aliverdes, Brasil",
-      "zh-CN": "最炫者生存",
-      "en-IN": "Survival of the flashiest. Red-and-green macaws"
-    },
-    "copyrights": {
-      "en-GB": "Red-and-green macaws (© markes51/Getty Images)",
-      "en-CA": "Red-and-green macaws (© markes51/Getty Images)",
-      "de-DE": "Grünflügelaras (© markes51/Getty Images)",
-      "fr-FR": "Aras chloroptères, Amérique du Sud (© markes51/Getty Images)",
-      "it-IT": "L'ara dalle ali verdi, Brasile (© markes51/Getty Images)",
-      "es-ES": "Guacamayos aliverdes, Brasil (© markes51/Getty Images)",
-      "zh-CN": "红绿金刚鹦鹉 (© markes51/Getty Images)",
-      "en-IN": "Red-and-green macaws (© markes51/Getty Images)"
-    },
-    "descs": {
-      "en-GB": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
-      "en-CA": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
-      "de-DE": "Mit ihrem leuchtend roten Gefieder, den grünen Flügeln und den blauen Schwungfedern gehören Grünflügelaras zu den auffälligsten Papageien der Welt. Sie leben in den tropischen Regionen Südamerikas, wo sie durch Regenwälder, Galeriewälder und Savannenlandschaften ziehen. Mit einer Körperlänge von bis zu einem Meter zählen sie zu den größten flugfähigen Papageien. Ihr kräftiger Schnabel ermöglicht es ihnen, harte Nüsse und Früchte zu öffnen, die für viele andere Tiere unerreichbar bleiben.",
-      "fr-FR": "Dans les forêts tropicales d’Amérique du Sud, l’ara chloroptère semble défier toute notion de discrétion. Son plumage écarlate, rehaussé d’ailes vertes et de longues rémiges bleues, illumine la canopée. Pourtant, derrière ce spectacle éclatant se cache un rôle essentiel : en consommant fruits et graines puis en les dispersant au fil de ses déplacements, cet oiseau contribue à la régénération de la forêt.",
-      "es-ES": "Los guacamayos aliverdes de la imagen vuelan sobre las selvas de Brasil y no entienden de discreción: rojo encendido, banda verde en el ala, plumas azules en el extremo y una cara blanca surcada por finas líneas de plumas rojas.",
-      "en-IN": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
-      "it-IT": "Le are dalle ali verdi dell'immagine vivono nelle foreste del Brasile e non conoscono la discrezione: rosso acceso, fascia verde sull'ala, penne blu all'estremità e una faccia bianca solcata da sottili linee di piume rosse.",
-      "zh-CN": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。"
-    },
-    "quickFacts": {
-      "en-GB": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
-      "en-CA": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
-      "de-DE": "Große Aras verfügen über eine außergewöhnlich starke Beißkraft, mit der sie selbst besonders harte Nüsse und Samen mühelos knacken können.",
-      "fr-FR": "Le bec des grands aras peut exercer une pression de plusieurs centaines de PSI, bien supérieure à celle d'une morsure humaine moyenne, leur permettant de casser aisément des noix et des graines dures.",
-      "zh-CN": "大型金刚鹦鹉可产生数百磅每平方英寸的咬合压力，远高于普通人类，因而能轻松咬开坚硬的坚果和种子。",
-      "en-IN": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease."
-    },
-    "captions": {
-      "en-GB": "Red-and-green macaws",
-      "en-CA": "Red-and-green macaws",
-      "de-DE": "Grünflügelaras",
-      "fr-FR": "Aras chloroptères, Amérique du Sud",
-      "it-IT": "",
-      "es-ES": "Guacamayos aliverdes, Brasil",
-      "zh-CN": "",
-      "en-IN": "Red-and-green macaws"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Red+and+green+macaw&form=hpcapt&filters=HpDate%3a%2220260914_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Red-and-green+macaw&form=hpcapt&filters=HpDate%3a%2220260915_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Gr%c3%bcnfl%c3%bcgelara&form=hpcapt&filters=HpDate%3a%2220260914_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=ara+chloropt%c3%a8re&form=hpcapt&filters=HpDate%3a%2220260914_2200%22",
-      "it-IT": "https://www.bing.com/search?q=L%27ara+dalle+ali+verdi&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=guacamayo+aliverde&form=hpcapt&filters=HpDate%3a%2220260914_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%ba%a2%e7%bb%bf%e9%87%91%e5%88%9a%e9%b9%a6%e9%b9%89&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Red+and+green+macaw&form=hpcapt&filters=HpDate%3a%2220260914_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.RedMacawsFlight_EN-GB8204775819",
-      "en-CA": "/th?id=OHR.RedMacawsFlight_EN-CA9501790458",
-      "de-DE": "/th?id=OHR.RedMacawsFlight_DE-DE7450519779",
-      "fr-FR": "/th?id=OHR.RedMacawsFlight_FR-FR7707103223",
-      "it-IT": "/th?id=OHR.RedMacawsFlight_IT-IT4575485670",
-      "es-ES": "/th?id=OHR.RedMacawsFlight_ES-ES0325042957",
-      "zh-CN": "/th?id=OHR.RedMacawsFlight_ZH-CN5045822113",
-      "en-IN": "/th?id=OHR.RedMacawsFlight_EN-IN8058515331"
+      "en-GB": "/th?id=OHR.KasilofRiver_EN-GB9796874794",
+      "de-DE": "/th?id=OHR.KasilofRiver_DE-DE4065933153",
+      "fr-FR": "/th?id=OHR.KasilofRiver_FR-FR9609860572",
+      "it-IT": "/th?id=OHR.KasilofRiver_IT-IT8693387372",
+      "es-ES": "/th?id=OHR.KasilofRiver_ES-ES8214443142",
+      "pt-BR": "/th?id=OHR.KasilofRiver_PT-BR1313310893",
+      "ja-JP": "/th?id=OHR.KasilofRiver_JA-JP7219675730",
+      "zh-CN": "/th?id=OHR.KasilofRiver_ZH-CN2394091052",
+      "en-IN": "/th?id=OHR.KasilofRiver_EN-IN8772070314"
     }
   },
   "NiagaraOnt": {
@@ -2055,6 +1997,66 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.Olvera_EN-CA0142222460"
+    }
+  },
+  "RedMacawsFlight": {
+    "name": "RedMacawsFlight",
+    "urlbase": "/th?id=OHR.RedMacawsFlight_EN-CA9501790458",
+    "date": "20260915",
+    "dateFormatted": "September 15, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Survival of the flashiest. Red-and-green macaws",
+      "en-GB": "Survival of the flashiest. Red-and-green macaws",
+      "de-DE": "Das Überleben der Auffälligsten. Grünflügelaras",
+      "fr-FR": "Ça plane pour moi ! Aras chloroptères, Amérique du Sud",
+      "it-IT": "Loquace e appariscente",
+      "es-ES": "Supervivencia de los más llamativos. Guacamayos aliverdes, Brasil",
+      "zh-CN": "最炫者生存",
+      "en-IN": "Survival of the flashiest. Red-and-green macaws"
+    },
+    "copyrights": {
+      "en-CA": "Red-and-green macaws (© markes51/Getty Images)",
+      "en-GB": "Red-and-green macaws (© markes51/Getty Images)",
+      "de-DE": "Grünflügelaras (© markes51/Getty Images)",
+      "fr-FR": "Aras chloroptères, Amérique du Sud (© markes51/Getty Images)",
+      "it-IT": "L'ara dalle ali verdi, Brasile (© markes51/Getty Images)",
+      "es-ES": "Guacamayos aliverdes, Brasil (© markes51/Getty Images)",
+      "zh-CN": "红绿金刚鹦鹉 (© markes51/Getty Images)",
+      "en-IN": "Red-and-green macaws (© markes51/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
+      "en-GB": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
+      "de-DE": "Mit ihrem leuchtend roten Gefieder, den grünen Flügeln und den blauen Schwungfedern gehören Grünflügelaras zu den auffälligsten Papageien der Welt. Sie leben in den tropischen Regionen Südamerikas, wo sie durch Regenwälder, Galeriewälder und Savannenlandschaften ziehen. Mit einer Körperlänge von bis zu einem Meter zählen sie zu den größten flugfähigen Papageien. Ihr kräftiger Schnabel ermöglicht es ihnen, harte Nüsse und Früchte zu öffnen, die für viele andere Tiere unerreichbar bleiben.",
+      "fr-FR": "Dans les forêts tropicales d’Amérique du Sud, l’ara chloroptère semble défier toute notion de discrétion. Son plumage écarlate, rehaussé d’ailes vertes et de longues rémiges bleues, illumine la canopée. Pourtant, derrière ce spectacle éclatant se cache un rôle essentiel : en consommant fruits et graines puis en les dispersant au fil de ses déplacements, cet oiseau contribue à la régénération de la forêt.",
+      "es-ES": "Los guacamayos aliverdes de la imagen vuelan sobre las selvas de Brasil y no entienden de discreción: rojo encendido, banda verde en el ala, plumas azules en el extremo y una cara blanca surcada por finas líneas de plumas rojas.",
+      "en-IN": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
+      "it-IT": "Le are dalle ali verdi dell'immagine vivono nelle foreste del Brasile e non conoscono la discrezione: rosso acceso, fascia verde sull'ala, penne blu all'estremità e una faccia bianca solcata da sottili linee di piume rosse.",
+      "zh-CN": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。"
+    },
+    "quickFacts": {
+      "en-GB": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
+      "en-CA": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
+      "de-DE": "Große Aras verfügen über eine außergewöhnlich starke Beißkraft, mit der sie selbst besonders harte Nüsse und Samen mühelos knacken können.",
+      "fr-FR": "Le bec des grands aras peut exercer une pression de plusieurs centaines de PSI, bien supérieure à celle d'une morsure humaine moyenne, leur permettant de casser aisément des noix et des graines dures.",
+      "zh-CN": "大型金刚鹦鹉可产生数百磅每平方英寸的咬合压力，远高于普通人类，因而能轻松咬开坚硬的坚果和种子。",
+      "en-IN": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease."
+    },
+    "captions": {
+      "en-CA": "Red-and-green macaws"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Red-and-green+macaw&form=hpcapt&filters=HpDate%3a%2220260915_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.RedMacawsFlight_EN-CA9501790458"
     }
   },
   "StarnbergerseeAutumn": {
@@ -2345,61 +2347,6 @@
       "pt-BR": "/th?id=OHR.SpringTree_PT-BR3107057910"
     }
   },
-  "FrenchRivieraVillage": {
-    "name": "FrenchRivieraVillage",
-    "urlbase": "/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034",
-    "date": "20260915",
-    "dateFormatted": "September 15, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Um jardim com vista para o mar",
-      "en-CA": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
-      "en-GB": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
-      "de-DE": "Wo das Mittelmeer regiert. Villefranche-sur-Mer, Côte d’Azur, Frankreich",
-      "fr-FR": "Là où la Méditerranée est reine. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur",
-      "es-ES": "Donde huele a mar y flores. Bahía de Villefranche-sur-Mer, Provenza-Alpes-Costa Azul, Francia",
-      "zh-CN": "地中海风情尽显",
-      "en-IN": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France"
-    },
-    "copyrights": {
-      "pt-BR": "Baía de Villefranche-sur-Mer, Alpes-Maritimes, Provença-Alpes-Côte d'Azur, França (© StockByM/Getty Images)",
-      "en-CA": "Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)",
-      "en-GB": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
-      "de-DE": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
-      "fr-FR": "Vue aérienne de la baie de Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur (© StockByM/Getty Images)",
-      "es-ES": "La bahía de Villefranche-sur-Mer, Alpes Marítimos, en la región de Provenza-Alpes-Costa Azul, Francia (© StockByM/Getty Images)",
-      "zh-CN": "滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)",
-      "en-IN": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "In September, the French Riviera is bathed in a softer light, and the Mediterranean landscape takes on fresher tones after the peak of summer. The hills are scented with Aleppo pine, rosemary and wild thyme. In the hinterland, centuries-old olive trees and hilltop villages tell a story shaped by Greek, Roman and Provençal influences.",
-      "en-GB": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
-      "de-DE": "Im September zeigt sich die Côte d’Azur von ihrer ruhigeren Seite. Das Licht wirkt weicher, die Sommerhitze lässt nach, und die mediterrane Vegetation gewinnt neue Frische. Zwischen Pinien, Rosmarin und wildem Thymian entfaltet sich eine Landschaft, die seit Jahrhunderten vom Meer geprägt wird. In den Hügeln der Alpes Maritimes erinnern alte Olivenhaine und verstreute Dörfer an die lange Geschichte der Region, die von verschiedenen Kulturen und Traditionen beeinflusst wurde.",
-      "fr-FR": "En septembre, la Côte d’Azur se pare d’une lumière plus douce et la végétation méditerranéenne retrouve progressivement son éclat. Les collines embaument des senteurs de pin d’Alep, de romarin et de thym sauvage. Dans l’arrière-pays, les oliviers centenaires et les villages perchés racontent une histoire façonnée par les influences grecques, romaines et provençales.",
-      "es-ES": "En septiembre, la bahía de Villefranche-sur-Mer, en la Costa Azul (Francia), baja de revoluciones: la luz se vuelve más suave, el agua sigue templada y el monte huele a pino carrasco, romero y tomillo. Los veleros se deslizan por una rada de aguas inusualmente profundas, encajada entre laderas de casas ocres.",
-      "en-IN": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
-      "pt-BR": "A Riviera Francesa não guarda toda a graça para o verão. Em setembro, o calor começa a ceder, as colinas recuperam tons de verde e espalham aromas de alecrim, tomilho e pinheiro-de-alepo. No interior, oliveiras centenárias acompanham estradas que sobem até vilarejos moldados por séculos de influências gregas, romanas e provençais.",
-      "zh-CN": "九月，法国里维埃拉沐浴在更柔和的光线中，地中海植被也逐渐恢复生机。山丘间弥漫着阿勒颇松、迷迭香和野百里香的芳香。内陆地区，百年橄榄树和山顶村庄讲述着一个由希腊、罗马和普罗旺斯影响共同塑造的故事。"
-    },
-    "quickFacts": {
-      "zh-CN": "滨海自由城的圣埃尔姆城堡奉萨伏依公爵埃马努埃莱·菲利贝托之命，于1557年建成，用于加强海岸防御。"
-    },
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=Villefranche-sur-Mer+na+Fran%c3%a7a&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034"
-    }
-  },
   "YokohamaBayBridge": {
     "name": "YokohamaBayBridge",
     "urlbase": "/th?id=OHR.YokohamaBayBridge_JA-JP8812921625",
@@ -2498,6 +2445,147 @@
     },
     "urlbases": {
       "zh-CN": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091"
+    }
+  },
+  "KochiaChina": {
+    "name": "KochiaChina",
+    "urlbase": "/th?id=OHR.KochiaChina_EN-US5037126636",
+    "date": "20260914",
+    "dateFormatted": "September 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "en-US": "Where toughness takes root. Field of kochia plants, China",
+      "en-CA": "Where toughness takes root. Field of kochia plants, China",
+      "ja-JP": "緑から紅へと染まる秋景色",
+      "en-GB": "Where toughness takes root. Field of kochia plants, China",
+      "de-DE": "Wo Widerstandskraft Wurzeln schlägt. Feld mit Besen-Radmelden, China",
+      "fr-FR": "Quand la tenacité prend racine. Champ de kochia, Chine",
+      "it-IT": "Dove la durezza radica",
+      "es-ES": "Donde la dureza echa raíces. Campo de plantas de kochia, China",
+      "pt-BR": "Resistência em tons de vermelho",
+      "zh-CN": "坚韧在此扎根",
+      "en-IN": "Where toughness takes root. Field of kochia plants, China"
+    },
+    "copyrights": {
+      "en-US": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+      "en-CA": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+      "ja-JP": "コキア, 中国 (© lingqi xie/Getty Images)",
+      "en-GB": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+      "de-DE": "Feld mit Besen-Radmelden, China (© lingqi xie/Getty Images)",
+      "fr-FR": "Champ de kochia, Chine (© lingqi xie/Getty Images)",
+      "it-IT": "Campo di piante di kochia, Cina (© lingqi xie/Getty Images)",
+      "es-ES": "Campo de plantas de kochia, China (© lingqi xie/Getty Images)",
+      "pt-BR": "Campo de kochia, China (© lingqi xie/Getty Images)",
+      "zh-CN": "地肤田，中国 (© lingqi xie/Getty Images)",
+      "en-IN": "Field of kochia plants, China (© lingqi xie/Getty Images)"
+    },
+    "descs": {
+      "en-US": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils, and low rainfall helped it spread across the Great Plains and much of the American West.",
+      "en-CA": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
+      "ja-JP": "今日の画像は、中国に広がるコキアの風景。日本には、平安時代以前に伝わったとされるユーラシア大陸原産の一年草です。茎を乾燥させてほうきを作っていたことから、和名では「ホウキギ（箒木）」「ホウキグサ（箒草）」と呼ばれています。夏は爽やかなライムグリーン、秋には鮮やかな深紅へと変化しながら、全体が球形から楕円形になります。高温や乾燥、塩分を含む土壌に強く、降水量の少ない地域では家畜の飼料として利用されてきました。その丸い姿が、花言葉「夫婦円満」の由来になったと言われています。",
+      "en-GB": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
+      "de-DE": "Im heutigen Bild breitet sich ein Feld voller Besen-Radmelden in China aus. Die Pflanzen leuchten in kräftigen Rot- und Grüntönen und verwandeln die Landschaft in ein auffälliges Muster. Ursprünglich stammt die Art aus Teilen Eurasiens und ist für ihre Anpassungsfähigkeit bekannt. Sie verträgt Trockenheit, Hitze und nährstoffarme Böden und kann deshalb auch in Regionen gedeihen, in denen andere Pflanzen nur schwer wachsen. Im Laufe des Jahres verändert sich ihre Färbung deutlich. Besonders im Spätsommer und Herbst entstehen die intensiven Farbtöne.",
+      "fr-FR": "Dans l’image du jour, des étendues de kochias dessinent un paysage étonnant, où le vert tendre côtoie des teintes rouge foncé. Originaire de certaines régions d’Eurasie, cette plante est appréciée pour ses qualités ornementales et sa remarquable capacité d’adaptation. Sa résistance à la sécheresse, à la chaleur et aux sols pauvres lui permet de prospérer dans des environnements variés, y compris dans certaines régions méditerranéennes où les étés sont particulièrement secs.",
+      "es-ES": "El campo que parece pintado a brochazos rojos y verdes está en China y lo forma una sola especie: la kochia (Bassia scoparia), que al final del verano cambia el verde por un granate intenso. Cada mata es una planta anual redondeada que en pocos meses supera el metro de altura y produce miles de semillas.",
+      "en-IN": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
+      "it-IT": "Il campo che sembra dipinto a pennellate rosse e verdi si trova in Cina e lo compone una sola specie: la kochia (Bassia scoparia), che a fine estate scambia il verde con un granata intenso. Ogni cespuglio è una pianta annuale tondeggiante che in pochi mesi supera il metro di altezza e produce migliaia di semi.",
+      "pt-BR": "O vermelho desta paisagem na China vem da planta conhecida como kochia, que começa verde e pode terminar o ciclo em tons intensos de vermelho. Mas a transformação cromática é só o começo. A kochia cresce rápido, pode chegar a cerca de 1,5 metro e produz muitas sementes. Quando amadurece e seca, pode se desprender da base e ser levada pelo vento, dispersando sementes pelo caminho.",
+      "zh-CN": "在今天的画面中，中国大地上铺展着绿色与深红色的地肤。地肤原产于欧亚大陆部分地区，19世纪末作为观赏植物和制作扫帚的材料来源被引入美国。它耐旱、耐热、耐盐碱土壤和少雨环境的能力，帮助其扩散至美国大平原及美国西部大部分地区。"
+    },
+    "quickFacts": {
+      "en-US": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach, and quinoa.",
+      "en-GB": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
+      "en-CA": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
+      "de-DE": "Besen-Radmelde gehört zur Familie der Amaranthgewächse und ist botanisch mit Roter Bete, Spinat und Quinoa verwandt.",
+      "fr-FR": "Le kochia appartient à la famille des Amaranthacées, dont il partage les liens botaniques avec la betterave, les épinards et le quinoa.",
+      "zh-CN": "地肤属于苋科，与甜菜、菠菜和藜麦有植物学上的亲缘关系。",
+      "en-IN": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach, and quinoa."
+    },
+    "captions": {
+      "en-US": "Field of kochia plants, China",
+      "en-CA": "Field of kochia plants, China",
+      "ja-JP": "緑から紅へと染まる秋景色"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0400%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b3%e3%82%ad%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260914_1500%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.KochiaChina_EN-US5037126636",
+      "en-CA": "/th?id=OHR.KochiaChina_EN-CA9157667253",
+      "ja-JP": "/th?id=OHR.KochiaChina_JA-JP6121199727"
+    }
+  },
+  "FrenchRivieraVillage": {
+    "name": "FrenchRivieraVillage",
+    "urlbase": "/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034",
+    "date": "20260915",
+    "dateFormatted": "September 15, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Um jardim com vista para o mar",
+      "en-CA": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
+      "en-GB": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
+      "de-DE": "Wo das Mittelmeer regiert. Villefranche-sur-Mer, Côte d’Azur, Frankreich",
+      "fr-FR": "Là où la Méditerranée est reine. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur",
+      "es-ES": "Donde huele a mar y flores. Bahía de Villefranche-sur-Mer, Provenza-Alpes-Costa Azul, Francia",
+      "zh-CN": "地中海风情尽显",
+      "en-IN": "Where the Mediterranean reigns supreme. Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France"
+    },
+    "copyrights": {
+      "pt-BR": "Baía de Villefranche-sur-Mer, Alpes-Maritimes, Provença-Alpes-Côte d'Azur, França (© StockByM/Getty Images)",
+      "en-CA": "Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)",
+      "en-GB": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
+      "de-DE": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
+      "fr-FR": "Vue aérienne de la baie de Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur (© StockByM/Getty Images)",
+      "es-ES": "La bahía de Villefranche-sur-Mer, Alpes Marítimos, en la región de Provenza-Alpes-Costa Azul, Francia (© StockByM/Getty Images)",
+      "zh-CN": "滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)",
+      "en-IN": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "In September, the French Riviera is bathed in a softer light, and the Mediterranean landscape takes on fresher tones after the peak of summer. The hills are scented with Aleppo pine, rosemary and wild thyme. In the hinterland, centuries-old olive trees and hilltop villages tell a story shaped by Greek, Roman and Provençal influences.",
+      "en-GB": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
+      "de-DE": "Im September zeigt sich die Côte d’Azur von ihrer ruhigeren Seite. Das Licht wirkt weicher, die Sommerhitze lässt nach, und die mediterrane Vegetation gewinnt neue Frische. Zwischen Pinien, Rosmarin und wildem Thymian entfaltet sich eine Landschaft, die seit Jahrhunderten vom Meer geprägt wird. In den Hügeln der Alpes Maritimes erinnern alte Olivenhaine und verstreute Dörfer an die lange Geschichte der Region, die von verschiedenen Kulturen und Traditionen beeinflusst wurde.",
+      "fr-FR": "En septembre, la Côte d’Azur se pare d’une lumière plus douce et la végétation méditerranéenne retrouve progressivement son éclat. Les collines embaument des senteurs de pin d’Alep, de romarin et de thym sauvage. Dans l’arrière-pays, les oliviers centenaires et les villages perchés racontent une histoire façonnée par les influences grecques, romaines et provençales.",
+      "es-ES": "En septiembre, la bahía de Villefranche-sur-Mer, en la Costa Azul (Francia), baja de revoluciones: la luz se vuelve más suave, el agua sigue templada y el monte huele a pino carrasco, romero y tomillo. Los veleros se deslizan por una rada de aguas inusualmente profundas, encajada entre laderas de casas ocres.",
+      "en-IN": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
+      "pt-BR": "A Riviera Francesa não guarda toda a graça para o verão. Em setembro, o calor começa a ceder, as colinas recuperam tons de verde e espalham aromas de alecrim, tomilho e pinheiro-de-alepo. No interior, oliveiras centenárias acompanham estradas que sobem até vilarejos moldados por séculos de influências gregas, romanas e provençais.",
+      "zh-CN": "九月，法国里维埃拉沐浴在更柔和的光线中，地中海植被也逐渐恢复生机。山丘间弥漫着阿勒颇松、迷迭香和野百里香的芳香。内陆地区，百年橄榄树和山顶村庄讲述着一个由希腊、罗马和普罗旺斯影响共同塑造的故事。"
+    },
+    "quickFacts": {
+      "zh-CN": "滨海自由城的圣埃尔姆城堡奉萨伏依公爵埃马努埃莱·菲利贝托之命，于1557年建成，用于加强海岸防御。"
+    },
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Villefranche-sur-Mer+na+Fran%c3%a7a&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034"
     }
   },
   "MisurinaPeak": {
