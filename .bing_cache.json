@@ -1,4 +1,82 @@
 {
+  "OlmstedPoint": {
+    "name": "OlmstedPoint",
+    "urlbase": "/th?id=OHR.OlmstedPoint_EN-US0964858045",
+    "date": "20261001",
+    "dateFormatted": "October 01, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "en-US": "Reading time in granite. Yosemite National Park anniversary",
+      "en-CA": "Reading time in granite. Yosemite National Park, California, United States",
+      "it-IT": "Tempo di lettura nel granito",
+      "ja-JP": "夕日に染まるヨセミテの岩峰",
+      "zh-CN": "奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国"
+    },
+    "copyrights": {
+      "en-US": "Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)",
+      "en-CA": "Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)",
+      "it-IT": "Tramonto da Olmsted Point, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/Tandem Stills + Motion)",
+      "ja-JP": "オルムステッド・ポイント, 米国 カリフォルニア州 (© Robb Hirsch/Tandem Stills + Motion)",
+      "zh-CN": "奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)"
+    },
+    "descs": {
+      "en-US": "On October 1, 1890, Yosemite became the nation's third national park. More than a century later, it still feels like a place that operates on geological time rather than human schedules. From Olmsted Point, the overlook in today's image, that timescale is impossible to miss. The smooth granite underfoot was sculpted by glaciers, while scattered boulders known as glacial erratics were carried here by ice and abandoned when it melted.",
+      "en-CA": "In 1890, Yosemite became America's third national park. More than a century later, it still feels like a place that operates on geological time rather than human schedules. From Olmsted Point, the overlook in today's image, that timescale is impossible to miss. The smooth granite underfoot was sculpted by glaciers, while scattered boulders known as glacial erratics were carried here by ice and abandoned when it melted.",
+      "ja-JP": "1890 年 10 月 1 日、ヨセミテは米国で 3 番目の国立公園となりました。そして、今日の画像は公園内にあるビュースポット、「オルムステッド・ポイント」です。この場所からは、ハーフドームの切り立った北側やテナヤ峡谷、テナヤ湖といった公園を代表する名所を見渡すことができます。その名前は、米国の国立公園設立運動に貢献した造園家・フレデリック・ロー・オルムステッドとその息子に由来しています。ヨセミテを代表する絶景スポットであり、数百万年にわたる地殻変動や氷河作用が生み出した大地の歴史を私たちに伝えてくれます。",
+      "it-IT": "Il 1º ottobre 1890 Yosemite diventò il terzo parco nazionale degli Stati Uniti, ma la sua tutela era cominciata prima: nel 1864 Abraham Lincoln aveva firmato la legge che proteggeva la valle e il bosco di sequoie giganti di Mariposa.",
+      "zh-CN": "从这里望去，优胜美地一些最著名的地标也呈现出截然不同的一面。通常所见的半穹顶从优胜美地山谷上方拔地而起，而在这里，它露出陡峭的北壁，让这个熟悉的标志性景观看起来几乎令人感到陌生。远处还有特纳亚峡谷、云歇峰、特纳亚湖，以及记录着数百万年隆升、侵蚀与冰川作用的浅色岩石。奥姆斯特德观景点得名于景观设计师弗雷德里克·劳·奥姆斯特德及其子小弗雷德里克·劳·奥姆斯特德；父子二人的自然保护工作推动了美国国家公园运动的发展。这里提醒着人们：优胜美地不仅景色壮美，还是一片仍在以岩石讲述自身故事的土地。"
+    },
+    "quickFacts": {
+      "zh-CN": "优胜美地国家公园约95%的面积被指定为荒野。"
+    },
+    "captions": {
+      "en-US": "Yosemite National Park anniversary",
+      "en-CA": "Yosemite National Park, California, United States",
+      "it-IT": "",
+      "ja-JP": "夕日に染まるヨセミテの岩峰",
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0400%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+di+Yosemite+California&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%aa%e3%83%ab%e3%83%a0%e3%82%b9%e3%83%86%e3%83%83%e3%83%89%e3%83%bb%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260930_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%bc%98%e8%83%9c%e7%be%8e%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.OlmstedPoint_EN-US0964858045",
+      "en-CA": "/th?id=OHR.OlmstedPoint_EN-CA1947517359",
+      "it-IT": "/th?id=OHR.OlmstedPoint_IT-IT8819239294",
+      "ja-JP": "/th?id=OHR.OlmstedPoint_JA-JP0098463265",
+      "zh-CN": "/th?id=OHR.OlmstedPoint_ZH-CN4182671075"
+    }
+  },
   "BeardReedling": {
     "name": "BeardReedling",
     "urlbase": "/th?id=OHR.BeardReedling_EN-US0124350202",
@@ -742,7 +820,7 @@
       "es-ES": "Cuando la luna se une a la fiesta. Fiesta del Medio Otoño",
       "pt-BR": "Quando a lua entra na festa",
       "ja-JP": "今日は中秋の名月",
-      "zh-CN": "庆祝中秋节的中国灯笼",
+      "zh-CN": "当月亮也来赴会",
       "en-IN": "When the moon joins the party. Mid-Autumn Festival"
     },
     "copyrights": {
@@ -1663,55 +1741,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
-      "en-GB": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
       "en-CA": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
+      "en-GB": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
       "de-DE": "Durch das Herz des Passes. Winnats Pass im Peak-District-Nationalpark, England",
       "fr-FR": "Au cœur du temps. Col de Winnats, Parc national du Peak District, Angleterre",
       "it-IT": "Attraverso il cuore del passo",
@@ -1722,8 +1760,8 @@
     },
     "copyrights": {
       "en-US": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
-      "en-GB": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
       "en-CA": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
+      "en-GB": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
       "de-DE": "Winnats Pass im Peak-District-Nationalpark, England (© Daniel_Kay/Getty Images)",
       "fr-FR": "Col de Winnats, Parc national du Peak District, Angleterre (© Daniel_Kay/Getty Images)",
       "it-IT": "Winnats Pass, Parco Nazionale del Peak District, Inghilterra (© Daniel_Kay/Getty Images)",
@@ -1734,8 +1772,8 @@
     },
     "descs": {
       "en-US": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
-      "en-GB": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
       "en-CA": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "en-GB": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
       "de-DE": "Im Peak-District-Nationalpark in England schlängelt sich die Straße durch den Winnats Pass, eine eindrucksvolle Kalksteinschlucht nahe dem Dorf Castleton. Steile Felswände ragen zu beiden Seiten empor und prägen eine Landschaft, die über Millionen von Jahren durch natürliche Prozesse geformt wurde. Wer den Pass durchquert, fährt mitten durch eine Kulisse, die von der langen geologischen Geschichte der Region erzählt. Besonders eindrucksvoll wirkt der Ort bei wechselhaftem Wetter, wenn Licht und Schatten über die hellen Felsen wandern.",
       "fr-FR": "Au cœur du Peak District, premier parc national créé au Royaume-Uni, une route sinueuse traverse un paysage façonné il y a plus de 300 millions d’années. À Winnats Pass, les falaises calcaires s’élèvent de part et d’autre de la chaussée, dévoilant les vestiges d’anciennes mers tropicales qui recouvraient autrefois cette partie de l’Angleterre. Le silence des parois rocheuses contraste avec le vent qui s’engouffre dans la gorge et souligne la puissance du temps géologique.",
       "ja-JP": "ここはイギリスで最初の国立公園であるピーク・ディストリクト国立公園。そして、この石灰岩の断崖に囲まれた曲がりくねった峠道は、ウィナッツ・パス。その周辺には、緑豊かな谷や広々とした丘陵が続き、ハイキングを楽しむことができます。また、地下には洞窟が広がり、旧鉛鉱山の跡も残されているほか、キャッスルトンやベイクウェルといった趣ある町を訪れることもできます。",
@@ -1749,100 +1787,88 @@
     },
     "captions": {
       "en-US": "Winnats Pass, Peak District National Park, England",
-      "en-GB": "Winnats Pass, Peak District National Park, England",
-      "en-CA": "Winnats Pass, Peak District National Park, England",
-      "de-DE": "Winnats Pass im Peak-District-Nationalpark, England",
-      "fr-FR": "Col de Winnats, Parc national du Peak District, Angleterre",
-      "it-IT": "",
-      "pt-BR": "",
-      "ja-JP": "緑の丘を縫う道",
-      "zh-CN": "",
-      "en-IN": "Winnats Pass, Peak District National Park, England"
+      "en-CA": "Winnats Pass, Peak District National Park, England"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260917_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Peak-District-Nationalpark+England&form=hpcapt&filters=HpDate%3a%2220260917_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=parc+national+de+Peak+District&form=hpcapt&filters=HpDate%3a%2220260917_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Peak+District&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=Peak+District+na+Inglaterra&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a6%e3%82%a3%e3%83%8a%e3%83%83%e3%83%84%e3%83%bb%e3%83%91%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220260917_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b3%b0%e5%8c%ba%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260917_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.WinnatsPassPeak_EN-US6112068451",
-      "en-GB": "/th?id=OHR.WinnatsPassPeak_EN-GB8850951451",
-      "en-CA": "/th?id=OHR.WinnatsPassPeak_EN-CA3554895186",
-      "de-DE": "/th?id=OHR.WinnatsPassPeak_DE-DE1067601127",
-      "fr-FR": "/th?id=OHR.WinnatsPassPeak_FR-FR7611183995",
-      "it-IT": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458",
-      "pt-BR": "/th?id=OHR.WinnatsPassPeak_PT-BR5887935422",
-      "ja-JP": "/th?id=OHR.WinnatsPassPeak_JA-JP5840257609",
-      "zh-CN": "/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412",
-      "en-IN": "/th?id=OHR.WinnatsPassPeak_EN-IN7644884043"
+      "en-CA": "/th?id=OHR.WinnatsPassPeak_EN-CA3554895186"
     }
   },
-  "Santenay": {
-    "name": "Santenay",
-    "urlbase": "/th?id=OHR.Santenay_EN-US5299702509",
-    "date": "20260917",
-    "dateFormatted": "September 17, 2026",
+  "ChattoogaRiver": {
+    "name": "ChattoogaRiver",
+    "urlbase": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216",
+    "date": "20261001",
+    "dateFormatted": "October 01, 2026",
     "markets": [
       {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
       }
     ],
     "titles": {
-      "en-US": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France",
-      "en-GB": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France",
-      "de-DE": "Ein Hoch auf die Ernte. Weinregion Santenay, Côte de Beaune, Burgund, Frankreich",
-      "fr-FR": "Santé ! Santenay, Côte de Beaune, Bourgogne",
-      "it-IT": "Un brindisi al raccolto",
-      "es-ES": "Un brindis por la cosecha. Región vinícola de Santenay, Costa de Beaune, Borgoña, Francia",
-      "pt-BR": "Um brinde à colheita",
-      "ja-JP": "収穫期を迎えたブドウ畑",
-      "zh-CN": "为丰收举杯",
-      "en-IN": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France"
+      "en-GB": "A river worth protecting. Chattooga River, North Carolina, United States",
+      "es-ES": "Aguas bravas entre bosques. Río Chattooga, Carolina del Norte, EE. UU.",
+      "ja-JP": "川面を流れる紅葉",
+      "zh-CN": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国",
+      "en-US": "A river worth protecting. Chattooga River in the Appalachian Mountains, North Carolina",
+      "en-CA": "A river worth protecting. Chattooga River in the Appalachian Mountains, North Carolina, United States"
     },
     "copyrights": {
-      "en-US": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
-      "en-GB": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
-      "de-DE": "Windmühle von Sorine und Weinberge in der Weinregion Santenay, Côte de Beaune, Burgund, Frankreich (© Marco Bottigelli/Getty Images)",
-      "fr-FR": "Le moulin à vent et les vignobles de Sorine, Santenay, Côte de Beaune, Bourgogne (© Marco Bottigelli/Getty Images)",
-      "it-IT": "Mulino a vento e vigneti di Sorine, regione vinicola di Santenay, Côte de Beaune, Borgogna, Francia (© Marco Bottigelli/Getty Images)",
-      "es-ES": "Molino de viento y viñedos de Sorine, región vinícola de Santenay, Costa de Beaune, Borgoña, Francia (© Marco Bottigelli/Getty Images)",
-      "pt-BR": "Moinho de vento de Sorine e vinhedos, região vinícola de Santenay, Côte de Beaune, Borgonha, França (© Marco Bottigelli/Getty Images)",
-      "ja-JP": "サントネー, フランス (© Marco Bottigelli/Getty Images)",
-      "zh-CN": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)",
-      "en-IN": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)"
+      "en-GB": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
+      "es-ES": "Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)",
+      "ja-JP": "チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)",
+      "zh-CN": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)",
+      "en-US": "© mtilghma/Getty Images",
+      "en-CA": "© mtilghma/Getty Images"
     },
     "descs": {
-      "en-US": "Each year, late summer and early fall bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure, and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
-      "en-GB": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
-      "de-DE": "Zwischen den sanften Hügeln der Côte de Beaune in Frankreich erhebt sich die Windmühle von Sorine über den Weinbergen der Weinregion Santenay. Die Landschaft im Süden Burgunds wird von sorgfältig gepflegten Rebreihen geprägt, die sich über die Hänge erstrecken und je nach Jahreszeit in unterschiedlichen Farben leuchten. Von hier aus öffnen sich weite Blicke über eine Kulturlandschaft, die seit Jahrhunderten eng mit dem Weinbau verbunden ist.",
-      "fr-FR": "À la fin de l’été et au début de l’automne, les vendanges réveillent les paysages viticoles français. La date de récolte varie selon les régions, l’ensoleillement et la maturité des raisins. Dans de nombreux domaines, la cueillette reste manuelle : chaque grappe est sélectionnée avec soin pour préserver la qualité des futurs crus.",
-      "es-ES": "El molino de Sorine vigila los viñedos de Santenay, en el extremo sur de la Costa de Beaune, en Borgoña (Francia). Se construyó a principios del siglo XIX y se restauró en 1995, y es el único molino de viento de la zona que todavía funciona: una vez al año vuelve a girar durante una fiesta local.",
-      "ja-JP": "「ヴァンダンジュ」とはフランス語で「収穫」を意味し、毎年夏の終わりから秋にかけて行われる「ブドウの収穫」を指します。地域や天候、ブドウの熟し具合によって微妙に時期は異なるものの、多くの畑では今も人の手で丁寧に収穫が行われています。そして、今日の画像は、ブルゴーニュ地方サントネーで、色づいたブドウ畑の先に佇む「ソリーヌの風車」。19世紀から残るこの風車は、豊かなワイン産地の景観を象徴する存在であり、ブドウの栽培・収穫、そしてワイン作りの歴史を見守り続けています。",
-      "en-IN": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
-      "it-IT": "Il mulino di Sorine veglia sui vigneti di Santenay, all'estremità meridionale della Côte de Beaune, in Borgogna (Francia). Costruito all'inizio dell'Ottocento e restaurato nel 1995, è l'unico mulino a vento della zona ancora funzionante: una volta all'anno torna a girare durante una festa di paese.",
-      "pt-BR": "Muito antes de alguém erguer uma taça de vinho francês, alguém plantou e cuidou das videiras. Depois vieram sol, chuva e meses de espera. Hoje estamos em Santenay, na Borgonha, com o moinho de Sorine, construído no século XIX, ao fundo. Temperatura, insolação e maturação das uvas ajudam a decidir quando cada vinhedo está pronto.",
-      "zh-CN": "每年夏末秋初，法国最令人期待的传统之一——“vendanges”葡萄采摘季——如期而至。采摘时间因葡萄酒产区而异，并取决于天气状况、日照以及果实的成熟度。对许多葡萄园而言，采收仍主要依靠人工，工作人员会仔细挑选一串串葡萄，用于酿造法国一些最负盛名的葡萄酒。"
+      "en-GB": "Few rivers combine wild scenery and whitewater quite like the Chattooga. Rising in the mountains near Cashiers, North Carolina, it winds through Georgia, North Carolina and South Carolina in the United States, dropping nearly half a mile in elevation along its journey. With no dams upstream, its water levels can change quickly after rainfall, adding excitement for rafters and kayakers.",
+      "es-ES": "El río Chattooga baja por los montes Apalaches, en Carolina del Norte (Estados Unidos), y es uno de los tramos de aguas bravas más celebrados del sureste del país. Nace en plena montaña y durante kilómetros marca la frontera entre Georgia, Carolina del Norte y Carolina del Sur, encajonado entre laderas boscosas y escalones de roca.",
+      "ja-JP": "川面を流れる紅葉. チャトゥーガ川, 米国 ノースカロライナ州. ここはチャトゥーガ川。米国ノースカロライナ州のアパラチア山脈を源流とし、サウスカロライナ州とジョージア州の州境を流れる川です。長さは約 92km で、米国南東部で最も長い自由流河川の一つです。美しい景観と豊かな生態系で知られているほか、ラフティングやカヤック、カヌーといったアクティビティを楽しむことができます。",
+      "en-US": "Rivers have long played an important role in life across the United States, supporting communities, wildlife, and industry. President Lyndon B. Johnson signed the Wild and Scenic Rivers Act into law on October 2, 1968. It created a national system to protect rivers and river segments with outstanding scenic, recreational, geologic, fish and wildlife, historic, or cultural values. The Act preserves designated rivers in a free-flowing condition, protects their water quality, and aims to safeguard the qualities that made them worthy of designation.",
+      "en-CA": "Rivers have long played an important role in life across the world, supporting communities, wildlife and industry. Featured in today's image, the Chattooga River runs for about 92 kilometres across Georgia, North Carolina and South Carolina in the United States. Flowing through the Appalachian Mountains, it winds between steep, forested slopes, rocky gorges and cascading rapids before reaching Lake Tugaloo. The river remains one of the Southeast's few major free-flowing rivers and is known for its scenery, whitewater recreation and wildlife.",
+      "zh-CN": "长期以来，河流在美国各地的生活中发挥着重要作用，为社区、野生动物和工业提供支持。1968年10月2日，林登·B·约翰逊总统签署《野生与风景河流法》，使其成为法律。该法建立了一个国家体系，用于保护具有卓越景观、休闲、地质、鱼类和野生动物、历史或文化价值的河流及河段。该法使指定河流保持自由流动状态，保护其水质，并旨在守护使它们值得获此指定的特质。"
     },
     "quickFacts": {
-      "zh-CN": "索林风车是伯恩丘现存最后一座仍可运转的公共风车；这座19世纪风车于1995年得到忠实修复。"
+      "zh-CN": "查图加河在约50英里的流程中平均每英里下降49英尺，最终流入图加卢湖。"
     },
     "captions": {
-      "en-US": "Santenay wine region, Côte de Beaune, Burgundy, France"
+      "en-GB": "Chattooga River, North Carolina, United States",
+      "es-ES": "Río Chattooga, Carolina del Norte, EE. UU.",
+      "ja-JP": "川面を流れる紅葉",
+      "zh-CN": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260917_0700%22"
+      "en-GB": "https://www.bing.com/search?q=Chattooga+River&form=hpcapt&filters=HpDate%3a%2220261001_2300%22",
+      "es-ES": "https://www.bing.com/search?q=Montes+Apalaches&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%81%e3%83%a3%e3%83%88%e3%82%a5%e3%83%bc%e3%82%ac%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220261001_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e5%9b%bd%e9%98%bf%e5%b7%b4%e6%8b%89%e5%a5%91%e4%ba%9a%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.Santenay_EN-US5299702509"
+      "en-GB": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216",
+      "es-ES": "/th?id=OHR.ChattoogaRiver_ES-ES4729549409",
+      "ja-JP": "/th?id=OHR.ChattoogaRiver_JA-JP8558662500",
+      "zh-CN": "/th?id=OHR.ChattoogaRiver_ZH-CN9453791496"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -1909,68 +1935,62 @@
       "en-CA": "/th?id=OHR.NiagaraOnt_EN-CA8662967301"
     }
   },
-  "Olvera": {
-    "name": "Olvera",
-    "urlbase": "/th?id=OHR.Olvera_EN-CA0142222460",
-    "date": "20260917",
-    "dateFormatted": "September 17, 2026",
+  "GrizzlySwim": {
+    "name": "GrizzlySwim",
+    "urlbase": "/th?id=OHR.GrizzlySwim_DE-DE4187515695",
+    "date": "20261001",
+    "dateFormatted": "October 01, 2026",
     "markets": [
       {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       }
     ],
     "titles": {
-      "en-CA": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "en-US": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "pt-BR": "A Andaluzia em mosaico",
-      "en-GB": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
-      "de-DE": "Ein buntes Mosaik aus der Luft. Luftaufnahme von Olvera, Andalusien, Spanien",
-      "fr-FR": "Un patchwork vu du dessus. Vue aérienne d’Olvera, Andalousie, Espagne",
-      "it-IT": "Un mosaico dall'alto",
-      "es-ES": "Un mosaico andaluz. Vista aérea de Olvera, Cádiz, Andalucía, España",
-      "ja-JP": "赤茶色の屋根が映えるアンダルシアの街",
-      "zh-CN": "俯瞰大地拼图",
-      "en-IN": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain"
+      "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA",
+      "en-US": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska",
+      "en-GB": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States",
+      "fr-FR": "Maître des eaux. Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis",
+      "it-IT": "Pesca, mangia, ripeti. Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti",
+      "es-ES": "Pescar, comer y repetir. Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
+      "pt-BR": "O último buffet do ano. Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA",
+      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊",
+      "en-IN": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States"
     },
     "copyrights": {
-      "en-CA": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "en-US": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "pt-BR": "Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)",
-      "en-GB": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
-      "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
-      "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)",
-      "it-IT": "Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)",
-      "es-ES": "Vista aérea de Olvera, Cádiz, Andalucía, España (© Marco Bottigelli/Getty Images)",
-      "ja-JP": "オルベラ, スペイン (© Marco Bottigelli/Getty Images)",
-      "zh-CN": "奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)",
-      "en-IN": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)"
+      "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)",
+      "en-US": "© Danny Green/Nature Picture Library",
+      "en-GB": "© Danny Green/Nature Picture Library",
+      "fr-FR": "© Danny Green/Nature Picture Library",
+      "it-IT": "© Danny Green/Nature Picture Library",
+      "es-ES": "© Danny Green/Nature Picture Library",
+      "pt-BR": "© Danny Green/Nature Picture Library",
+      "zh-CN": "© Danny Green/Nature Picture Library",
+      "en-IN": "© Danny Green/Nature Picture Library"
     },
     "descs": {
-      "en-CA": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions.",
-      "en-US": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture, and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "en-GB": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "de-DE": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
-      "fr-FR": "L’Andalousie est l’une des régions les plus emblématiques d’Espagne. Entre flamenco, tapas, héritage mauresque et vastes oliveraies, elle séduit par sa richesse culturelle. Au cœur de ce paysage se trouve Olvera, un village entouré de plus de deux millions d’oliviers, qui conserve les traces de plusieurs siècles d’histoire. Son château domine encore les hauteurs, tandis que l’église Notre-Dame de l’Incarnation marque l’horizon. Pour mieux comprendre le passé médiéval et les traditions locales, le centre culturel La Cilla constitue une étape incontournable.",
-      "es-ES": "Olvera, en la sierra de Cádiz (Andalucía), se ve desde muy lejos: un cerro de casas encaladas coronado por un castillo de origen musulmán y por la mole neoclásica de la iglesia de Nuestra Señora de la Encarnación. A 643 metros de altitud, este pueblo blanco fue durante siglos tierra de frontera, y ese pasado se cuenta en La Cilla, el antiguo granero de los duques de Osuna hoy convertido en centro cultural y museo.",
-      "ja-JP": "ここは、スペイン南部アンダルシア州にある町、オルベラです。白い壁と赤や茶色の瓦屋根の家が丘の斜面に連なる光景は、アンダルシアに点在している「白い村（プエブロ・ブランコ）」の一つとして知られています。町は、広大なオリーブ畑に囲まれた丘の上に広がり、古くから戦略的な要地として発展してきました。丘の頂にそびえるムーア人の城塞とエンカルナシオン教会は、オルベラのランドマークであり、イスラム文化とキリスト教文化が交錯した歴史を今に伝えています。",
-      "en-IN": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
-      "it-IT": "Olvera, nella sierra di Cadice (Andalusia, Spagna), si vede da lontanissimo: un colle di case imbiancate a calce sormontato da un castello di origine musulmana e dalla mole neoclassica della chiesa di Nuestra Señora de la Encarnación. A 643 metri di quota, questo borgo bianco è stato per secoli terra di frontiera, e quel passato si racconta a La Cilla, l'antico granaio dei duchi di Osuna oggi diventato centro culturale.",
-      "pt-BR": "Olvera parece ter sido construída em camadas: primeiro vêm as oliveiras, depois as casas brancas, depois a igreja e, lá em cima, o castelo. Estamos na Andaluzia, na Espanha, em uma vila cercada por mais de 2 milhões de oliveiras, onde a paisagem agrícola praticamente sobe a montanha junto com as ruas.",
-      "zh-CN": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。"
+      "de-DE": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
+      "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
+      "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
+      "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
+      "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
+      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。",
+      "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink."
     },
     "quickFacts": {
-      "zh-CN": "奥尔韦拉的摩尔式城堡建于12世纪末，坐落在海拔约623米的高处。"
+      "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
     },
     "captions": {
-      "en-CA": "Aerial view of Olvera, Andalusia, Spain"
+      "de-DE": "Braunbär, Lake Clark National Park and Preserve, Alaska, USA"
     },
     "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260917_0400%22"
+      "de-DE": "https://www.bing.com/search?q=Braunb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220261001_2200%22"
     },
     "urlbases": {
-      "en-CA": "/th?id=OHR.Olvera_EN-CA0142222460"
+      "de-DE": "/th?id=OHR.GrizzlySwim_DE-DE4187515695"
     }
   },
   "StarnbergerseeAutumn": {
@@ -2037,6 +2057,40 @@
       "de-DE": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623"
     }
   },
+  "AutumnPeatBog": {
+    "name": "AutumnPeatBog",
+    "urlbase": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172",
+    "date": "20261001",
+    "dateFormatted": "October 01, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "L'automne en tourbière. Végétation automnale sur la tourbière"
+    },
+    "copyrights": {
+      "fr-FR": "Végétation automnale multicolore sur la tourbière (© Utopia_88/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "On parle souvent des forêts pour célébrer les couleurs de l'automne — le hêtre cuivré, le chêne doré, l'érable écarlate. Mais en France, d'autres paysages se parent de teintes tout aussi saisissantes, dans un silence que les sous-bois ne connaissent pas."
+    },
+    "quickFacts": {
+      "fr-FR": "Les tourbières couvrent seulement 3 % de la surface terrestre, mais stockent deux fois plus de carbone que toutes les forêts du monde réunies."
+    },
+    "captions": {
+      "fr-FR": "Végétation automnale sur la tourbière"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=tourbi%c3%a8re+d%c3%a9finition&form=hpcapt&filters=HpDate%3a%2220261001_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172"
+    }
+  },
   "BoriesPoppies": {
     "name": "BoriesPoppies",
     "urlbase": "/th?id=OHR.BoriesPoppies_FR-FR9955316118",
@@ -2101,66 +2155,36 @@
       "fr-FR": "/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727"
     }
   },
-  "OlmstedPoint": {
-    "name": "OlmstedPoint",
-    "urlbase": "/th?id=OHR.OlmstedPoint_IT-IT8819239294",
-    "date": "20260930",
-    "dateFormatted": "September 30, 2026",
+  "PerugiaAqueduct": {
+    "name": "PerugiaAqueduct",
+    "urlbase": "/th?id=OHR.PerugiaAqueduct_IT-IT7918245077",
+    "date": "20261001",
+    "dateFormatted": "October 01, 2026",
     "markets": [
       {
         "code": "it-IT",
         "name": "IT",
         "flag": "it"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
       }
     ],
     "titles": {
-      "it-IT": "Tempo di lettura nel granito",
-      "ja-JP": "夕日に染まるヨセミテの岩峰",
-      "zh-CN": "奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国",
-      "en-US": "Reading time in granite. Sunset from Olmsted Point, Yosemite National Park, California, USA",
-      "en-CA": "Reading time in granite. Sunset from Olmsted Point, Yosemite National Park, California, United States"
+      "it-IT": "Oggi si festeggiano loro"
     },
     "copyrights": {
-      "it-IT": "Tramonto da Olmsted Point, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/Tandem Stills + Motion)",
-      "ja-JP": "オルムステッド・ポイント, 米国 カリフォルニア州 (© Robb Hirsch/Tandem Stills + Motion)",
-      "zh-CN": "奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)",
-      "en-US": "© Robb Hirsch/Tandem Stills + Motion",
-      "en-CA": "© Robb Hirsch/Tandem Stills + Motion"
+      "it-IT": "L'acquedotto medievale di Perugia, Umbria, Italia (© Marco Saracco/Getty Images)"
     },
     "descs": {
-      "ja-JP": "1890 年 10 月 1 日、ヨセミテは米国で 3 番目の国立公園となりました。そして、今日の画像は公園内にあるビュースポット、「オルムステッド・ポイント」です。この場所からは、ハーフドームの切り立った北側やテナヤ峡谷、テナヤ湖といった公園を代表する名所を見渡すことができます。その名前は、米国の国立公園設立運動に貢献した造園家・フレデリック・ロー・オルムステッドとその息子に由来しています。ヨセミテを代表する絶景スポットであり、数百万年にわたる地殻変動や氷河作用が生み出した大地の歴史を私たちに伝えてくれます。",
-      "en-US": "On October 1, 1890, Yosemite became the nation's third national park. More than a century later, it still feels like a place that operates on geological time rather than human schedules. From Olmsted Point, the overlook in today's image, that timescale is impossible to miss. The smooth granite underfoot was sculpted by glaciers, while scattered boulders known as glacial erratics were carried here by ice and abandoned when it melted.",
-      "en-CA": "In 1890, Yosemite became America's third national park. More than a century later, it still feels like a place that operates on geological time rather than human schedules. From Olmsted Point, the overlook in today's image, that timescale is impossible to miss. The smooth granite underfoot was sculpted by glaciers, while scattered boulders known as glacial erratics were carried here by ice and abandoned when it melted.",
-      "it-IT": "Il 1º ottobre 1890 Yosemite diventò il terzo parco nazionale degli Stati Uniti, ma la sua tutela era cominciata prima: nel 1864 Abraham Lincoln aveva firmato la legge che proteggeva la valle e il bosco di sequoie giganti di Mariposa.",
-      "zh-CN": "从这里望去，优胜美地一些最著名的地标也呈现出截然不同的一面。通常所见的半穹顶从优胜美地山谷上方拔地而起，而在这里，它露出陡峭的北壁，让这个熟悉的标志性景观看起来几乎令人感到陌生。远处还有特纳亚峡谷、云歇峰、特纳亚湖，以及记录着数百万年隆升、侵蚀与冰川作用的浅色岩石。奥姆斯特德观景点得名于景观设计师弗雷德里克·劳·奥姆斯特德及其子小弗雷德里克·劳·奥姆斯特德；父子二人的自然保护工作推动了美国国家公园运动的发展。这里提醒着人们：优胜美地不仅景色壮美，还是一片仍在以岩石讲述自身故事的土地。"
+      "it-IT": "Oggi è la Festa dei Nonni, riconosciuta come ricorrenza nazionale da una legge del 2005 e fissata al 2 ottobre, giorno in cui il calendario celebra gli angeli custodi. Un accostamento tutt'altro che casuale, se si pensa al ruolo che i nonni hanno in tante famiglie italiane."
     },
-    "quickFacts": {
-      "zh-CN": "优胜美地国家公园约95%的面积被指定为荒野。"
-    },
+    "quickFacts": {},
     "captions": {
-      "it-IT": "",
-      "ja-JP": "夕日に染まるヨセミテの岩峰",
-      "zh-CN": ""
+      "it-IT": ""
     },
     "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+di+Yosemite+California&form=hpcapt",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%aa%e3%83%ab%e3%83%a0%e3%82%b9%e3%83%86%e3%83%83%e3%83%89%e3%83%bb%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260930_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%bc%98%e8%83%9c%e7%be%8e%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+      "it-IT": "https://www.bing.com/search?q=Acquedotto+medievale+di+Perugia&form=hpcapt"
     },
     "urlbases": {
-      "it-IT": "/th?id=OHR.OlmstedPoint_IT-IT8819239294",
-      "ja-JP": "/th?id=OHR.OlmstedPoint_JA-JP0098463265",
-      "zh-CN": "/th?id=OHR.OlmstedPoint_ZH-CN4182671075"
+      "it-IT": "/th?id=OHR.PerugiaAqueduct_IT-IT7918245077"
     }
   },
   "AutumnTrentino": {
@@ -2259,36 +2283,36 @@
       "es-ES": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972"
     }
   },
-  "SanSebastian": {
-    "name": "SanSebastian",
-    "urlbase": "/th?id=OHR.SanSebastian_ES-ES7080505846",
-    "date": "20260917",
-    "dateFormatted": "September 17, 2026",
+  "Camburiu": {
+    "name": "Camburiu",
+    "urlbase": "/th?id=OHR.Camburiu_PT-BR9036477210",
+    "date": "20261002",
+    "dateFormatted": "October 02, 2026",
     "markets": [
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
       }
     ],
     "titles": {
-      "es-ES": "Una costa de película. Festival Internacional de Cine de San Sebastián"
+      "pt-BR": "Maré de tranquilidade"
     },
     "copyrights": {
-      "es-ES": "San Sebastián, Guipúzcoa, País Vasco, España (© Tichr/Getty Images)"
+      "pt-BR": "Praia de Taquaras no Balneário Camboriú, Santa Catarina (© MaRabelo/Getty Images)"
     },
     "descs": {
-      "es-ES": "Hoy arranca en San Sebastián (Guipúzcoa, País Vasco, España) la 74.ª edición de su Festival Internacional de Cine: nueve días en los que la ciudad cambia el ritmo de las olas por el de las alfombras rojas."
+      "pt-BR": "Balneário Camboriú, em Santa Catarina, passou anos olhando para cima. Arranha-céus se empilham diante do mar, numa disputa permanente por alguns metros extras de horizonte. Mas basta seguir cerca de 8 quilômetros pela Rodovia Interpraias para a paisagem trocar de assunto."
     },
     "quickFacts": {},
     "captions": {
-      "es-ES": "Festival Internacional de Cine de San Sebastián"
+      "pt-BR": ""
     },
     "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Festival+Internacional+de+Cine+de+San+Sebasti%c3%a1n&form=hpcapt&filters=HpDate%3a%2220260917_2200%22"
+      "pt-BR": "https://www.bing.com/search?q=Balneario+Camboriu&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "es-ES": "/th?id=OHR.SanSebastian_ES-ES7080505846"
+      "pt-BR": "/th?id=OHR.Camburiu_PT-BR9036477210"
     }
   },
   "GreenLake": {
@@ -2455,6 +2479,38 @@
       "zh-CN": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091"
     }
   },
+  "GandhiJayanti2026": {
+    "name": "GandhiJayanti2026",
+    "urlbase": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451",
+    "date": "20261001",
+    "dateFormatted": "October 01, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "The man who made peace powerful. Gandhi Jayanti"
+    },
+    "copyrights": {
+      "en-IN": "Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat (© Kandarp Gupta/Alamy)"
+    },
+    "descs": {
+      "en-IN": "Not every freedom fighter carried a weapon. He carried an idea. Gandhi Jayanti marks the birth of Mohandas Karamchand Gandhi, born in Porbandar, India, in 1869. He became a key leader of India's independence movement through satyagraha, his philosophy of truth and non-violent resistance. His 1930 Salt March showed how something as ordinary as salt could become a powerful symbol of protest. His influence eventually reached far beyond India, inspiring movements built around peaceful resistance."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-IN": "Gandhi Jayanti"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Gandhi+Jayanti&form=hpcapt&filters=HpDate%3a%2220261001_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451"
+    }
+  },
   "NathmaljiHaveli2026": {
     "name": "NathmaljiHaveli2026",
     "urlbase": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376",
@@ -2485,6 +2541,163 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "Santenay": {
+    "name": "Santenay",
+    "urlbase": "/th?id=OHR.Santenay_EN-US5299702509",
+    "date": "20260917",
+    "dateFormatted": "September 17, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France",
+      "en-GB": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France",
+      "de-DE": "Ein Hoch auf die Ernte. Weinregion Santenay, Côte de Beaune, Burgund, Frankreich",
+      "fr-FR": "Santé ! Santenay, Côte de Beaune, Bourgogne",
+      "it-IT": "Un brindisi al raccolto",
+      "es-ES": "Un brindis por la cosecha. Región vinícola de Santenay, Costa de Beaune, Borgoña, Francia",
+      "pt-BR": "Um brinde à colheita",
+      "ja-JP": "収穫期を迎えたブドウ畑",
+      "zh-CN": "为丰收举杯",
+      "en-IN": "A toast to the harvest. Santenay wine region, Côte de Beaune, Burgundy, France"
+    },
+    "copyrights": {
+      "en-US": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
+      "en-GB": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
+      "de-DE": "Windmühle von Sorine und Weinberge in der Weinregion Santenay, Côte de Beaune, Burgund, Frankreich (© Marco Bottigelli/Getty Images)",
+      "fr-FR": "Le moulin à vent et les vignobles de Sorine, Santenay, Côte de Beaune, Bourgogne (© Marco Bottigelli/Getty Images)",
+      "it-IT": "Mulino a vento e vigneti di Sorine, regione vinicola di Santenay, Côte de Beaune, Borgogna, Francia (© Marco Bottigelli/Getty Images)",
+      "es-ES": "Molino de viento y viñedos de Sorine, región vinícola de Santenay, Costa de Beaune, Borgoña, Francia (© Marco Bottigelli/Getty Images)",
+      "pt-BR": "Moinho de vento de Sorine e vinhedos, região vinícola de Santenay, Côte de Beaune, Borgonha, França (© Marco Bottigelli/Getty Images)",
+      "ja-JP": "サントネー, フランス (© Marco Bottigelli/Getty Images)",
+      "zh-CN": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)",
+      "en-IN": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Each year, late summer and early fall bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure, and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
+      "en-GB": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
+      "de-DE": "Zwischen den sanften Hügeln der Côte de Beaune in Frankreich erhebt sich die Windmühle von Sorine über den Weinbergen der Weinregion Santenay. Die Landschaft im Süden Burgunds wird von sorgfältig gepflegten Rebreihen geprägt, die sich über die Hänge erstrecken und je nach Jahreszeit in unterschiedlichen Farben leuchten. Von hier aus öffnen sich weite Blicke über eine Kulturlandschaft, die seit Jahrhunderten eng mit dem Weinbau verbunden ist.",
+      "fr-FR": "À la fin de l’été et au début de l’automne, les vendanges réveillent les paysages viticoles français. La date de récolte varie selon les régions, l’ensoleillement et la maturité des raisins. Dans de nombreux domaines, la cueillette reste manuelle : chaque grappe est sélectionnée avec soin pour préserver la qualité des futurs crus.",
+      "es-ES": "El molino de Sorine vigila los viñedos de Santenay, en el extremo sur de la Costa de Beaune, en Borgoña (Francia). Se construyó a principios del siglo XIX y se restauró en 1995, y es el único molino de viento de la zona que todavía funciona: una vez al año vuelve a girar durante una fiesta local.",
+      "ja-JP": "「ヴァンダンジュ」とはフランス語で「収穫」を意味し、毎年夏の終わりから秋にかけて行われる「ブドウの収穫」を指します。地域や天候、ブドウの熟し具合によって微妙に時期は異なるものの、多くの畑では今も人の手で丁寧に収穫が行われています。そして、今日の画像は、ブルゴーニュ地方サントネーで、色づいたブドウ畑の先に佇む「ソリーヌの風車」。19世紀から残るこの風車は、豊かなワイン産地の景観を象徴する存在であり、ブドウの栽培・収穫、そしてワイン作りの歴史を見守り続けています。",
+      "en-IN": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
+      "it-IT": "Il mulino di Sorine veglia sui vigneti di Santenay, all'estremità meridionale della Côte de Beaune, in Borgogna (Francia). Costruito all'inizio dell'Ottocento e restaurato nel 1995, è l'unico mulino a vento della zona ancora funzionante: una volta all'anno torna a girare durante una festa di paese.",
+      "pt-BR": "Muito antes de alguém erguer uma taça de vinho francês, alguém plantou e cuidou das videiras. Depois vieram sol, chuva e meses de espera. Hoje estamos em Santenay, na Borgonha, com o moinho de Sorine, construído no século XIX, ao fundo. Temperatura, insolação e maturação das uvas ajudam a decidir quando cada vinhedo está pronto.",
+      "zh-CN": "每年夏末秋初，法国最令人期待的传统之一——“vendanges”葡萄采摘季——如期而至。采摘时间因葡萄酒产区而异，并取决于天气状况、日照以及果实的成熟度。对许多葡萄园而言，采收仍主要依靠人工，工作人员会仔细挑选一串串葡萄，用于酿造法国一些最负盛名的葡萄酒。"
+    },
+    "quickFacts": {
+      "zh-CN": "索林风车是伯恩丘现存最后一座仍可运转的公共风车；这座19世纪风车于1995年得到忠实修复。"
+    },
+    "captions": {
+      "en-US": "Santenay wine region, Côte de Beaune, Burgundy, France"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260917_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Santenay_EN-US5299702509"
+    }
+  },
+  "Olvera": {
+    "name": "Olvera",
+    "urlbase": "/th?id=OHR.Olvera_EN-CA0142222460",
+    "date": "20260917",
+    "dateFormatted": "September 17, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "en-US": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "pt-BR": "A Andaluzia em mosaico",
+      "en-GB": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain",
+      "de-DE": "Ein buntes Mosaik aus der Luft. Luftaufnahme von Olvera, Andalusien, Spanien",
+      "fr-FR": "Un patchwork vu du dessus. Vue aérienne d’Olvera, Andalousie, Espagne",
+      "it-IT": "Un mosaico dall'alto",
+      "es-ES": "Un mosaico andaluz. Vista aérea de Olvera, Cádiz, Andalucía, España",
+      "ja-JP": "赤茶色の屋根が映えるアンダルシアの街",
+      "zh-CN": "俯瞰大地拼图",
+      "en-IN": "A patchwork from above. Aerial view of Olvera, Andalusia, Spain"
+    },
+    "copyrights": {
+      "en-CA": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "en-US": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "pt-BR": "Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)",
+      "en-GB": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+      "de-DE": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
+      "fr-FR": "Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)",
+      "it-IT": "Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)",
+      "es-ES": "Vista aérea de Olvera, Cádiz, Andalucía, España (© Marco Bottigelli/Getty Images)",
+      "ja-JP": "オルベラ, スペイン (© Marco Bottigelli/Getty Images)",
+      "zh-CN": "奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)",
+      "en-IN": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions.",
+      "en-US": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture, and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "en-GB": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "de-DE": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
+      "fr-FR": "L’Andalousie est l’une des régions les plus emblématiques d’Espagne. Entre flamenco, tapas, héritage mauresque et vastes oliveraies, elle séduit par sa richesse culturelle. Au cœur de ce paysage se trouve Olvera, un village entouré de plus de deux millions d’oliviers, qui conserve les traces de plusieurs siècles d’histoire. Son château domine encore les hauteurs, tandis que l’église Notre-Dame de l’Incarnation marque l’horizon. Pour mieux comprendre le passé médiéval et les traditions locales, le centre culturel La Cilla constitue une étape incontournable.",
+      "es-ES": "Olvera, en la sierra de Cádiz (Andalucía), se ve desde muy lejos: un cerro de casas encaladas coronado por un castillo de origen musulmán y por la mole neoclásica de la iglesia de Nuestra Señora de la Encarnación. A 643 metros de altitud, este pueblo blanco fue durante siglos tierra de frontera, y ese pasado se cuenta en La Cilla, el antiguo granero de los duques de Osuna hoy convertido en centro cultural y museo.",
+      "ja-JP": "ここは、スペイン南部アンダルシア州にある町、オルベラです。白い壁と赤や茶色の瓦屋根の家が丘の斜面に連なる光景は、アンダルシアに点在している「白い村（プエブロ・ブランコ）」の一つとして知られています。町は、広大なオリーブ畑に囲まれた丘の上に広がり、古くから戦略的な要地として発展してきました。丘の頂にそびえるムーア人の城塞とエンカルナシオン教会は、オルベラのランドマークであり、イスラム文化とキリスト教文化が交錯した歴史を今に伝えています。",
+      "en-IN": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Center to discover Olvera's medieval history and traditions.",
+      "it-IT": "Olvera, nella sierra di Cadice (Andalusia, Spagna), si vede da lontanissimo: un colle di case imbiancate a calce sormontato da un castello di origine musulmana e dalla mole neoclassica della chiesa di Nuestra Señora de la Encarnación. A 643 metri di quota, questo borgo bianco è stato per secoli terra di frontiera, e quel passato si racconta a La Cilla, l'antico granaio dei duchi di Osuna oggi diventato centro culturale.",
+      "pt-BR": "Olvera parece ter sido construída em camadas: primeiro vêm as oliveiras, depois as casas brancas, depois a igreja e, lá em cima, o castelo. Estamos na Andaluzia, na Espanha, em uma vila cercada por mais de 2 milhões de oliveiras, onde a paisagem agrícola praticamente sobe a montanha junto com as ruas.",
+      "zh-CN": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。"
+    },
+    "quickFacts": {
+      "zh-CN": "奥尔韦拉的摩尔式城堡建于12世纪末，坐落在海拔约623米的高处。"
+    },
+    "captions": {
+      "en-CA": "Aerial view of Olvera, Andalusia, Spain"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260917_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.Olvera_EN-CA0142222460"
+    }
+  },
+  "SanSebastian": {
+    "name": "SanSebastian",
+    "urlbase": "/th?id=OHR.SanSebastian_ES-ES7080505846",
+    "date": "20260917",
+    "dateFormatted": "September 17, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Una costa de película. Festival Internacional de Cine de San Sebastián"
+    },
+    "copyrights": {
+      "es-ES": "San Sebastián, Guipúzcoa, País Vasco, España (© Tichr/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Hoy arranca en San Sebastián (Guipúzcoa, País Vasco, España) la 74.ª edición de su Festival Internacional de Cine: nueve días en los que la ciudad cambia el ritmo de las olas por el de las alfombras rojas."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Festival Internacional de Cine de San Sebastián"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Festival+Internacional+de+Cine+de+San+Sebasti%c3%a1n&form=hpcapt&filters=HpDate%3a%2220260917_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.SanSebastian_ES-ES7080505846"
     }
   },
   "IcyCubs": {
