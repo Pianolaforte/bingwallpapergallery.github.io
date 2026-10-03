@@ -1,4 +1,93 @@
 {
+  "ChattoogaRiver": {
+    "name": "ChattoogaRiver",
+    "urlbase": "/th?id=OHR.ChattoogaRiver_EN-US5042787453",
+    "date": "20261002",
+    "dateFormatted": "October 02, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "en-US": "A river worth protecting. Wild and Scenic Rivers Act",
+      "en-GB": "A river worth protecting. Chattooga River, North Carolina, United States",
+      "en-CA": "A river worth protecting. Chattooga River in the Appalachian Mountains, North Carolina, USA",
+      "es-ES": "Aguas bravas entre bosques. Río Chattooga, Carolina del Norte, EE. UU.",
+      "ja-JP": "川面を流れる紅葉",
+      "zh-CN": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国"
+    },
+    "copyrights": {
+      "en-US": "Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)",
+      "en-GB": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
+      "en-CA": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
+      "es-ES": "Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)",
+      "ja-JP": "チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)",
+      "zh-CN": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Rivers have long played an important role in life across the United States, supporting communities, wildlife, and industry. President Lyndon B. Johnson signed the Wild and Scenic Rivers Act into law on October 2, 1968. It created a national system to protect rivers and river segments with outstanding scenic, recreational, geologic, fish and wildlife, historic, or cultural values. The Act preserves designated rivers in a free-flowing condition, protects their water quality, and aims to safeguard the qualities that made them worthy of designation.",
+      "en-GB": "Few rivers combine wild scenery and whitewater quite like the Chattooga. Rising in the mountains near Cashiers, North Carolina, it winds through Georgia, North Carolina and South Carolina in the United States, dropping nearly half a mile in elevation along its journey. With no dams upstream, its water levels can change quickly after rainfall, adding excitement for rafters and kayakers.",
+      "en-CA": "Rivers have long played an important role in life across the world, supporting communities, wildlife and industry. Featured in today's image, the Chattooga River runs for about 92 kilometres across Georgia, North Carolina and South Carolina in the United States. Flowing through the Appalachian Mountains, it winds between steep, forested slopes, rocky gorges and cascading rapids before reaching Lake Tugaloo. The river remains one of the Southeast's few major free-flowing rivers and is known for its scenery, whitewater recreation and wildlife.",
+      "es-ES": "El río Chattooga baja por los montes Apalaches, en Carolina del Norte (Estados Unidos), y es uno de los tramos de aguas bravas más celebrados del sureste del país. Nace en plena montaña y durante kilómetros marca la frontera entre Georgia, Carolina del Norte y Carolina del Sur, encajonado entre laderas boscosas y escalones de roca.",
+      "ja-JP": "川面を流れる紅葉. チャトゥーガ川, 米国 ノースカロライナ州. ここはチャトゥーガ川。米国ノースカロライナ州のアパラチア山脈を源流とし、サウスカロライナ州とジョージア州の州境を流れる川です。長さは約 92km で、米国南東部で最も長い自由流河川の一つです。美しい景観と豊かな生態系で知られているほか、ラフティングやカヤック、カヌーといったアクティビティを楽しむことができます。",
+      "zh-CN": "长期以来，河流在美国各地的生活中发挥着重要作用，为社区、野生动物和工业提供支持。1968年10月2日，林登·B·约翰逊总统签署《野生与风景河流法》，使其成为法律。该法建立了一个国家体系，用于保护具有卓越景观、休闲、地质、鱼类和野生动物、历史或文化价值的河流及河段。该法使指定河流保持自由流动状态，保护其水质，并旨在守护使它们值得获此指定的特质。"
+    },
+    "quickFacts": {
+      "zh-CN": "查图加河在约50英里的流程中平均每英里下降49英尺，最终流入图加卢湖。"
+    },
+    "captions": {
+      "en-US": "Wild and Scenic Rivers Act",
+      "en-GB": "Chattooga River, North Carolina, United States",
+      "en-CA": "Chattooga River in the Appalachian Mountains, North Carolina, USA",
+      "es-ES": "Río Chattooga, Carolina del Norte, EE. UU.",
+      "ja-JP": "川面を流れる紅葉",
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Wild+and+Scenic+Rivers+Act&form=hpcapt&filters=HpDate%3a%2220261002_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Chattooga+River&form=hpcapt&filters=HpDate%3a%2220261001_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Chattooga+River&form=hpcapt&filters=HpDate%3a%2220261002_0400%22",
+      "es-ES": "https://www.bing.com/search?q=Montes+Apalaches&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%81%e3%83%a3%e3%83%88%e3%82%a5%e3%83%bc%e3%82%ac%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220261001_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e5%9b%bd%e9%98%bf%e5%b7%b4%e6%8b%89%e5%a5%91%e4%ba%9a%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ChattoogaRiver_EN-US5042787453",
+      "en-GB": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216",
+      "en-CA": "/th?id=OHR.ChattoogaRiver_EN-CA5808971566",
+      "es-ES": "/th?id=OHR.ChattoogaRiver_ES-ES4729549409",
+      "ja-JP": "/th?id=OHR.ChattoogaRiver_JA-JP8558662500",
+      "zh-CN": "/th?id=OHR.ChattoogaRiver_ZH-CN9453791496"
+    }
+  },
   "OlmstedPoint": {
     "name": "OlmstedPoint",
     "urlbase": "/th?id=OHR.OlmstedPoint_EN-US0964858045",
@@ -696,7 +785,7 @@
       "it-IT": "Le storie scritte in tutta la terra",
       "es-ES": "Historias talladas en la tierra. Monumento Nacional Bears Ears, Utah, EE. UU.",
       "ja-JP": "標高約2,000mから見渡す大峡谷",
-      "zh-CN": "熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国",
+      "zh-CN": "写在大地上的故事",
       "en-IN": "The stories written across the land. Bears Ears National Monument, Utah, United States"
     },
     "copyrights": {
@@ -710,10 +799,10 @@
     },
     "descs": {
       "en-US": "The stories written across the land. Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA. What do a bear's ears, a house on fire, and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
-      "en-GB": "The stories written across the land. Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States. What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
+      "en-GB": "What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
       "es-ES": "¿Qué tienen en común unas orejas de oso, una casa en llamas y una carretera de curvas imposibles? Los tres nombres pertenecen a Cedar Mesa y Muley Point, junto al Monumento Nacional Bears Ears, en Utah (EE. UU.).",
       "ja-JP": "ここはシーダーメサ。米国ユタ州にあるベアーズ・イヤーズ国定公園の南部に位置する台地です。標高は約 2,000m で、考古学上の宝庫として知られるグランド・ガルチをはじめ、深い峡谷が数多く存在しています。南側にはミューリー・ポイントと呼ばれる岬があり、ここからサンファン川やバレー・オブ・ザ・ゴッズ、モニュメント・バレー、ナバホ・マウンテンといった素晴らしい景観を一望できます。また、シーダーメサの向こうには 2 つの丘がそびえており、これがクマの耳（ベアーズイヤーズ）に似ていることが、公園の名前の由来となっています。",
-      "en-IN": "The stories written across the land. Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States. What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
+      "en-IN": "What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
       "it-IT": "Che cosa hanno in comune due orecchie d'orso, una casa in fiamme e una strada di curve impossibili? Sono tre tappe dello stesso paesaggio: Cedar Mesa e Muley Point, accanto al Monumento Nazionale Bears Ears, nello Utah (USA).",
       "zh-CN": "熊的耳朵、着火的房屋和遍布急转弯的道路有什么共同之处？它们都是犹他州东南部公共土地故事的一部分。"
     },
@@ -1591,14 +1680,98 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "en-US": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
+      "en-CA": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
+      "de-DE": "Der Klang der Alpen. Alphornbläser in Bayern",
+      "it-IT": "Il suono alpino dell'Oktoberfest",
+      "en-GB": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
+      "fr-FR": "Le son alpin de l’Oktoberfest. Oktoberfest, Allemagne",
+      "es-ES": "El sonido alpino del Oktoberfest. Oktoberfest, Alemania",
+      "pt-BR": "A Baviera em alto e bom som",
+      "ja-JP": "今日はオクトーバーフェストの開幕日",
+      "zh-CN": "慕尼黑啤酒节的阿尔卑斯之声",
+      "en-IN": "The Alpine sound of Oktoberfest. Oktoberfest, Germany"
+    },
+    "copyrights": {
+      "en-US": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
+      "en-CA": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
+      "de-DE": "Alphornbläser in Bayern (© U. J. Alexander/Shutterstock)",
+      "it-IT": "Giocatori di alphorn, Baviera, Germania (© U. J. Alexander/Shutterstock)",
+      "en-GB": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
+      "fr-FR": "Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)",
+      "es-ES": "Músicos tocando la trompa de los Alpes, Waltenhofen, Baviera, Alemania (© U. J. Alexander/Shutterstock)",
+      "pt-BR": "Músicos de trompa alpina, Baviera, Alemanha (© U. J. Alexander/Shutterstock)",
+      "ja-JP": "アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)",
+      "zh-CN": "阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)",
+      "en-IN": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria, and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+      "en-CA": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+      "de-DE": "Wer den Klang des Alphorns hört, fühlt sich sofort in die Alpen versetzt. Das traditionelle Blasinstrument ist seit Jahrhunderten eng mit der Kultur des Alpenraums verbunden und besonders in der Schweiz sowie in Teilen Bayerns und Österreichs verbreitet. Ursprünglich stand es mit der Alpwirtschaft in Verbindung und diente unter anderem dazu, über größere Entfernungen Signale zu übermitteln. Mit einer Länge von rund 3,5 Metern ist das Alphorn für ein Blasinstrument ungewöhnlich groß. Es wird traditionell aus Fichtenholz gefertigt und besitzt weder Ventile noch Klappen. Die Töne entstehen durch die Naturtonreihe und werden durch Atemführung und präzise Kontrolle der Lippen geformt.",
+      "en-GB": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+      "fr-FR": "Alors que l’Oktoberfest ouvre ses portes à Munich, en Bavière (Allemagne), un autre symbole du patrimoine alpin accompagne les visiteurs : le chant profond du cor des Alpes. Bien avant que cette fête n’acquière une renommée mondiale, son écho résonnait déjà entre les sommets de Bavière, d’Autriche et de Suisse, reliant les communautés de montagne à travers les prairies, les forêts d’épicéas et les vallées brumeuses.",
+      "es-ES": "Hoy abre sus puertas el Oktoberfest, pero esta imagen viene de Waltenhofen, en Baviera (Alemania), y suena a algo mucho más antiguo que la fiesta: la trompa de los Alpes.",
+      "ja-JP": "今日 9 月 19 日からオクトーバーフェストが開幕します。ドイツ・バイエルン州では、祭りのにぎわいに欠かせない伝統楽器「アルプホルン」の響きが広がります。全長約 3.5m の木製管楽器で、かつては羊飼いたちが遠く離れた谷や山々の間で連絡を取り合うために使われていました。バルブや指穴はなく、息づかいと唇の動きだけで音を奏でます。祭りや文化イベントで演奏されており、その深く温かな音色はアルプスの風景と調和し、バイエルンならではの歴史や文化を今に伝えています。",
+      "en-IN": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+      "it-IT": "Il suono alpino dell'Oktoberfest. Giocatori di alphorn, Baviera, Germania. L'Oktoberfest è appena cominciato, ma il suono che arriva dalla Baviera (Germania) è più antico della festa: è la voce profonda del corno delle Alpi.",
+      "pt-BR": "Hoje, uma mensagem atravessa continentes em segundos. Mas, por séculos, havia um jeito bem mais barulhento de chamar alguém. A Oktoberfest começa hoje em Munique, Baviera — pouco antes da nossa versão em Blumenau, Santa Catarina, que este ano é de 7 a 25 de outubro. Mas a história sonora da Alemanha começou muito antes da cerveja e das bandas que chegam para a festa.",
+      "zh-CN": "慕尼黑啤酒节于今天开幕，抵达德国巴伐利亚州的游客或许会听到一种甚至比这一著名节日本身更古老的声音：阿尔卑斯长号深沉而浑厚的鸣响。这种传统的阿尔卑斯乐器与巴伐利亚、奥地利和瑞士的文化紧密相连；过去，牧羊人曾用它跨越山谷彼此传递信息。"
+    },
+    "quickFacts": {
+      "en-US": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
+      "en-GB": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
+      "en-CA": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
+      "fr-FR": "L'Oktoberfest a vu le jour en 1810 pour célébrer le mariage du prince héritier de Bavière, Louis, et de la princesse Thérèse.",
+      "zh-CN": "已知最早提及瑞士阿尔卑斯长号的文字记录可追溯至1527年，见于圣乌尔班修道院的账簿。",
+      "en-IN": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
+      "de-DE": "Das Alphorn gilt als Symbol der Schweiz, wurde aber im gesamten Alpenraum als Kommunikationsmittel genutzt."
+    },
+    "captions": {
+      "en-US": "Oktoberfest, Germany",
+      "en-CA": "Oktoberfest, Germany",
+      "de-DE": "Alphornbläser in Bayern",
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260919_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260919_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Alphorn+Instrument&form=hpcapt&filters=HpDate%3a%2220260929_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AlphornBavaria_EN-US6200857270",
+      "en-CA": "/th?id=OHR.AlphornBavaria_EN-CA4386550572",
+      "de-DE": "/th?id=OHR.AlphornBavaria_DE-DE4197541227",
+      "it-IT": "/th?id=OHR.AlphornBavaria_IT-IT7483263500"
+    }
+  },
+  "GrizzlySwim": {
+    "name": "GrizzlySwim",
+    "urlbase": "/th?id=OHR.GrizzlySwim_EN-GB2587469687",
+    "date": "20261002",
+    "dateFormatted": "October 02, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1626,11 +1799,6 @@
         "flag": "br"
       },
       {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -1642,233 +1810,70 @@
       }
     ],
     "titles": {
-      "en-US": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
-      "en-GB": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
-      "en-CA": "The Alpine sound of Oktoberfest. Oktoberfest, Germany",
-      "de-DE": "Der Klang der Alpen. Alphornbläser in Bayern",
-      "fr-FR": "Le son alpin de l’Oktoberfest. Oktoberfest, Allemagne",
-      "it-IT": "Il suono alpino dell'Oktoberfest",
-      "es-ES": "El sonido alpino del Oktoberfest. Oktoberfest, Alemania",
-      "pt-BR": "A Baviera em alto e bom som",
-      "ja-JP": "今日はオクトーバーフェストの開幕日",
-      "zh-CN": "慕尼黑啤酒节的阿尔卑斯之声",
-      "en-IN": "The Alpine sound of Oktoberfest. Oktoberfest, Germany"
+      "en-GB": "Catch, eat, repeat. Brown bear, Alaska, United States",
+      "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA",
+      "fr-FR": "Maître des eaux. Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
+      "it-IT": "Pesca, mangia, ripeti",
+      "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
+      "pt-BR": "O último buffet do ano",
+      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊",
+      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
+      "en-US": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska"
     },
     "copyrights": {
-      "en-US": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
-      "en-GB": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
-      "en-CA": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
-      "de-DE": "Alphornbläser in Bayern (© U. J. Alexander/Shutterstock)",
-      "fr-FR": "Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)",
-      "it-IT": "Giocatori di alphorn, Baviera, Germania (© U. J. Alexander/Shutterstock)",
-      "es-ES": "Músicos tocando la trompa de los Alpes, Waltenhofen, Baviera, Alemania (© U. J. Alexander/Shutterstock)",
-      "pt-BR": "Músicos de trompa alpina, Baviera, Alemanha (© U. J. Alexander/Shutterstock)",
-      "ja-JP": "アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)",
-      "zh-CN": "阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)",
-      "en-IN": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)"
+      "en-GB": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)",
+      "fr-FR": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
+      "it-IT": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)",
+      "es-ES": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
+      "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
+      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
+      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "en-US": "© Danny Green/Nature Picture Library"
     },
     "descs": {
-      "en-US": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria, and Switzerland, where it once helped shepherds communicate across mountain valleys.",
-      "en-GB": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
-      "en-CA": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to the culture of Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
-      "de-DE": "Wer den Klang des Alphorns hört, fühlt sich sofort in die Alpen versetzt. Das traditionelle Blasinstrument ist seit Jahrhunderten eng mit der Kultur des Alpenraums verbunden und besonders in der Schweiz sowie in Teilen Bayerns und Österreichs verbreitet. Ursprünglich stand es mit der Alpwirtschaft in Verbindung und diente unter anderem dazu, über größere Entfernungen Signale zu übermitteln. Mit einer Länge von rund 3,5 Metern ist das Alphorn für ein Blasinstrument ungewöhnlich groß. Es wird traditionell aus Fichtenholz gefertigt und besitzt weder Ventile noch Klappen. Die Töne entstehen durch die Naturtonreihe und werden durch Atemführung und präzise Kontrolle der Lippen geformt.",
-      "fr-FR": "Alors que l’Oktoberfest ouvre ses portes à Munich, en Bavière (Allemagne), un autre symbole du patrimoine alpin accompagne les visiteurs : le chant profond du cor des Alpes. Bien avant que cette fête n’acquière une renommée mondiale, son écho résonnait déjà entre les sommets de Bavière, d’Autriche et de Suisse, reliant les communautés de montagne à travers les prairies, les forêts d’épicéas et les vallées brumeuses.",
-      "es-ES": "Hoy abre sus puertas el Oktoberfest, pero esta imagen viene de Waltenhofen, en Baviera (Alemania), y suena a algo mucho más antiguo que la fiesta: la trompa de los Alpes.",
-      "ja-JP": "今日 9 月 19 日からオクトーバーフェストが開幕します。ドイツ・バイエルン州では、祭りのにぎわいに欠かせない伝統楽器「アルプホルン」の響きが広がります。全長約 3.5m の木製管楽器で、かつては羊飼いたちが遠く離れた谷や山々の間で連絡を取り合うために使われていました。バルブや指穴はなく、息づかいと唇の動きだけで音を奏でます。祭りや文化イベントで演奏されており、その深く温かな音色はアルプスの風景と調和し、バイエルンならではの歴史や文化を今に伝えています。",
-      "en-IN": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
-      "it-IT": "Il suono alpino dell'Oktoberfest. Giocatori di alphorn, Baviera, Germania. L'Oktoberfest è appena cominciato, ma il suono che arriva dalla Baviera (Germania) è più antico della festa: è la voce profonda del corno delle Alpi.",
-      "pt-BR": "Hoje, uma mensagem atravessa continentes em segundos. Mas, por séculos, havia um jeito bem mais barulhento de chamar alguém. A Oktoberfest começa hoje em Munique, Baviera — pouco antes da nossa versão em Blumenau, Santa Catarina, que este ano é de 7 a 25 de outubro. Mas a história sonora da Alemanha começou muito antes da cerveja e das bandas que chegam para a festa.",
-      "zh-CN": "慕尼黑啤酒节于今天开幕，抵达德国巴伐利亚州的游客或许会听到一种甚至比这一著名节日本身更古老的声音：阿尔卑斯长号深沉而浑厚的鸣响。这种传统的阿尔卑斯乐器与巴伐利亚、奥地利和瑞士的文化紧密相连；过去，牧羊人曾用它跨越山谷彼此传递信息。"
+      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "de-DE": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
+      "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
+      "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
+      "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
+      "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
+      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。"
     },
     "quickFacts": {
-      "en-US": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
-      "en-GB": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
-      "en-CA": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
-      "fr-FR": "L'Oktoberfest a vu le jour en 1810 pour célébrer le mariage du prince héritier de Bavière, Louis, et de la princesse Thérèse.",
-      "zh-CN": "已知最早提及瑞士阿尔卑斯长号的文字记录可追溯至1527年，见于圣乌尔班修道院的账簿。",
-      "en-IN": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
-      "de-DE": "Das Alphorn gilt als Symbol der Schweiz, wurde aber im gesamten Alpenraum als Kommunikationsmittel genutzt."
+      "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
     },
     "captions": {
-      "en-US": "Oktoberfest, Germany",
-      "en-GB": "Oktoberfest, Germany",
-      "en-CA": "Oktoberfest, Germany",
-      "de-DE": "Alphornbläser in Bayern",
-      "fr-FR": "Oktoberfest, Allemagne",
+      "en-GB": "Brown bear, Alaska, United States",
+      "de-DE": "Braunbär, Lake Clark National Park and Preserve, Alaska, USA",
+      "fr-FR": "Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
       "it-IT": "",
-      "es-ES": "Oktoberfest, Alemania",
+      "es-ES": "Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
       "pt-BR": "",
-      "ja-JP": "今日はオクトーバーフェストの開幕日",
       "zh-CN": "",
-      "en-IN": "Oktoberfest, Germany"
+      "en-IN": "Brown bear, Alaska, United States"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260919_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260919_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Alphorn+Instrument&form=hpcapt&filters=HpDate%3a%2220260929_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Oktoberfest+na+Alemanha&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%ab%e3%83%97%e3%83%9b%e3%83%ab%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260918_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e5%95%a4%e9%85%92%e8%8a%82&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261002_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Braunb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=ours+brun+animal&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Orso+bruno&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Oso+pardo&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+e+Reserva+do+Lago+Clark+Alasca&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e6%a3%95%e7%86%8a&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261002_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.AlphornBavaria_EN-US6200857270",
-      "en-GB": "/th?id=OHR.AlphornBavaria_EN-GB8912057279",
-      "en-CA": "/th?id=OHR.AlphornBavaria_EN-CA4386550572",
-      "de-DE": "/th?id=OHR.AlphornBavaria_DE-DE4197541227",
-      "fr-FR": "/th?id=OHR.AlphornBavaria_FR-FR7751398658",
-      "it-IT": "/th?id=OHR.AlphornBavaria_IT-IT7483263500",
-      "es-ES": "/th?id=OHR.AlphornBavaria_ES-ES7277929054",
-      "pt-BR": "/th?id=OHR.AlphornBavaria_PT-BR5395210076",
-      "ja-JP": "/th?id=OHR.AlphornBavaria_JA-JP7669654652",
-      "zh-CN": "/th?id=OHR.AlphornBavaria_ZH-CN5896237112",
-      "en-IN": "/th?id=OHR.AlphornBavaria_EN-IN7812928124"
-    }
-  },
-  "WinnatsPassPeak": {
-    "name": "WinnatsPassPeak",
-    "urlbase": "/th?id=OHR.WinnatsPassPeak_EN-US6112068451",
-    "date": "20260918",
-    "dateFormatted": "September 18, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
-      "en-CA": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
-      "en-GB": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
-      "de-DE": "Durch das Herz des Passes. Winnats Pass im Peak-District-Nationalpark, England",
-      "fr-FR": "Au cœur du temps. Col de Winnats, Parc national du Peak District, Angleterre",
-      "it-IT": "Attraverso il cuore del passo",
-      "pt-BR": "Um capítulo aberto da Terra",
-      "ja-JP": "緑の丘を縫う道",
-      "zh-CN": "穿越山口腹地",
-      "en-IN": "Through the heart of the pass. Winnats Pass, Peak District National Park, England"
-    },
-    "copyrights": {
-      "en-US": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
-      "en-CA": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
-      "en-GB": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
-      "de-DE": "Winnats Pass im Peak-District-Nationalpark, England (© Daniel_Kay/Getty Images)",
-      "fr-FR": "Col de Winnats, Parc national du Peak District, Angleterre (© Daniel_Kay/Getty Images)",
-      "it-IT": "Winnats Pass, Parco Nazionale del Peak District, Inghilterra (© Daniel_Kay/Getty Images)",
-      "pt-BR": "Winnats Pass, Parque Nacional Peak District, Inglaterra (© Daniel_Kay/Getty Images)",
-      "ja-JP": "ウィナッツ・パス, イングランド (© Daniel_Kay/Getty Images)",
-      "zh-CN": "温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)",
-      "en-IN": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)"
-    },
-    "descs": {
-      "en-US": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
-      "en-CA": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
-      "en-GB": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
-      "de-DE": "Im Peak-District-Nationalpark in England schlängelt sich die Straße durch den Winnats Pass, eine eindrucksvolle Kalksteinschlucht nahe dem Dorf Castleton. Steile Felswände ragen zu beiden Seiten empor und prägen eine Landschaft, die über Millionen von Jahren durch natürliche Prozesse geformt wurde. Wer den Pass durchquert, fährt mitten durch eine Kulisse, die von der langen geologischen Geschichte der Region erzählt. Besonders eindrucksvoll wirkt der Ort bei wechselhaftem Wetter, wenn Licht und Schatten über die hellen Felsen wandern.",
-      "fr-FR": "Au cœur du Peak District, premier parc national créé au Royaume-Uni, une route sinueuse traverse un paysage façonné il y a plus de 300 millions d’années. À Winnats Pass, les falaises calcaires s’élèvent de part et d’autre de la chaussée, dévoilant les vestiges d’anciennes mers tropicales qui recouvraient autrefois cette partie de l’Angleterre. Le silence des parois rocheuses contraste avec le vent qui s’engouffre dans la gorge et souligne la puissance du temps géologique.",
-      "ja-JP": "ここはイギリスで最初の国立公園であるピーク・ディストリクト国立公園。そして、この石灰岩の断崖に囲まれた曲がりくねった峠道は、ウィナッツ・パス。その周辺には、緑豊かな谷や広々とした丘陵が続き、ハイキングを楽しむことができます。また、地下には洞窟が広がり、旧鉛鉱山の跡も残されているほか、キャッスルトンやベイクウェルといった趣ある町を訪れることもできます。",
-      "en-IN": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
-      "it-IT": "La strada che serpeggia nell'immagine attraversa il Winnats Pass, una gola calcarea del Parco Nazionale del Peak District (Inghilterra) scavata in rocce di oltre 300 milioni di anni. Quelle pareti si sono formate sul fondo di un mare tropicale e oggi stringono il passaggio fino a trasformarlo in un imbuto di pietra ed erba, con pendenze che mettono alla prova freni e polmoni.",
-      "pt-BR": "O asfalto que atravessa o Winnats Pass, no Peak District, é só a camada mais recente de uma história muito mais antiga. Há mais de 300 milhões de anos, este trecho do norte da Inglaterra fazia parte de um ambiente marinho tropical. Sedimentos acumulados no fundo do oceano deram origem ao calcário que hoje forma os paredões do desfiladeiro.",
-      "zh-CN": "在英格兰峰区，一条蜿蜒的长路从已有3亿多年历史的岩石间穿过。如此漫长的地质时间尺度本就令人惊叹，而这条路还穿越了温纳茨山口：这是一道狭窄的石灰岩峡谷，高耸的峭壁展现出远古海洋曾经覆盖英国这一地区的痕迹。"
-    },
-    "quickFacts": {
-      "zh-CN": "温纳茨山口是峰区国家公园内一处壮观的石灰岩峡谷，位于卡斯尔顿附近，两侧峭壁陡峻嶙峋。"
-    },
-    "captions": {
-      "en-US": "Winnats Pass, Peak District National Park, England",
-      "en-CA": "Winnats Pass, Peak District National Park, England"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.WinnatsPassPeak_EN-US6112068451",
-      "en-CA": "/th?id=OHR.WinnatsPassPeak_EN-CA3554895186"
-    }
-  },
-  "ChattoogaRiver": {
-    "name": "ChattoogaRiver",
-    "urlbase": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216",
-    "date": "20261001",
-    "dateFormatted": "October 01, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      }
-    ],
-    "titles": {
-      "en-GB": "A river worth protecting. Chattooga River, North Carolina, United States",
-      "es-ES": "Aguas bravas entre bosques. Río Chattooga, Carolina del Norte, EE. UU.",
-      "ja-JP": "川面を流れる紅葉",
-      "zh-CN": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国",
-      "en-US": "A river worth protecting. Chattooga River in the Appalachian Mountains, North Carolina",
-      "en-CA": "A river worth protecting. Chattooga River in the Appalachian Mountains, North Carolina, United States"
-    },
-    "copyrights": {
-      "en-GB": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
-      "es-ES": "Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)",
-      "ja-JP": "チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)",
-      "zh-CN": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)",
-      "en-US": "© mtilghma/Getty Images",
-      "en-CA": "© mtilghma/Getty Images"
-    },
-    "descs": {
-      "en-GB": "Few rivers combine wild scenery and whitewater quite like the Chattooga. Rising in the mountains near Cashiers, North Carolina, it winds through Georgia, North Carolina and South Carolina in the United States, dropping nearly half a mile in elevation along its journey. With no dams upstream, its water levels can change quickly after rainfall, adding excitement for rafters and kayakers.",
-      "es-ES": "El río Chattooga baja por los montes Apalaches, en Carolina del Norte (Estados Unidos), y es uno de los tramos de aguas bravas más celebrados del sureste del país. Nace en plena montaña y durante kilómetros marca la frontera entre Georgia, Carolina del Norte y Carolina del Sur, encajonado entre laderas boscosas y escalones de roca.",
-      "ja-JP": "川面を流れる紅葉. チャトゥーガ川, 米国 ノースカロライナ州. ここはチャトゥーガ川。米国ノースカロライナ州のアパラチア山脈を源流とし、サウスカロライナ州とジョージア州の州境を流れる川です。長さは約 92km で、米国南東部で最も長い自由流河川の一つです。美しい景観と豊かな生態系で知られているほか、ラフティングやカヤック、カヌーといったアクティビティを楽しむことができます。",
-      "en-US": "Rivers have long played an important role in life across the United States, supporting communities, wildlife, and industry. President Lyndon B. Johnson signed the Wild and Scenic Rivers Act into law on October 2, 1968. It created a national system to protect rivers and river segments with outstanding scenic, recreational, geologic, fish and wildlife, historic, or cultural values. The Act preserves designated rivers in a free-flowing condition, protects their water quality, and aims to safeguard the qualities that made them worthy of designation.",
-      "en-CA": "Rivers have long played an important role in life across the world, supporting communities, wildlife and industry. Featured in today's image, the Chattooga River runs for about 92 kilometres across Georgia, North Carolina and South Carolina in the United States. Flowing through the Appalachian Mountains, it winds between steep, forested slopes, rocky gorges and cascading rapids before reaching Lake Tugaloo. The river remains one of the Southeast's few major free-flowing rivers and is known for its scenery, whitewater recreation and wildlife.",
-      "zh-CN": "长期以来，河流在美国各地的生活中发挥着重要作用，为社区、野生动物和工业提供支持。1968年10月2日，林登·B·约翰逊总统签署《野生与风景河流法》，使其成为法律。该法建立了一个国家体系，用于保护具有卓越景观、休闲、地质、鱼类和野生动物、历史或文化价值的河流及河段。该法使指定河流保持自由流动状态，保护其水质，并旨在守护使它们值得获此指定的特质。"
-    },
-    "quickFacts": {
-      "zh-CN": "查图加河在约50英里的流程中平均每英里下降49英尺，最终流入图加卢湖。"
-    },
-    "captions": {
-      "en-GB": "Chattooga River, North Carolina, United States",
-      "es-ES": "Río Chattooga, Carolina del Norte, EE. UU.",
-      "ja-JP": "川面を流れる紅葉",
-      "zh-CN": ""
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Chattooga+River&form=hpcapt&filters=HpDate%3a%2220261001_2300%22",
-      "es-ES": "https://www.bing.com/search?q=Montes+Apalaches&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%81%e3%83%a3%e3%83%88%e3%82%a5%e3%83%bc%e3%82%ac%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220261001_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e5%9b%bd%e9%98%bf%e5%b7%b4%e6%8b%89%e5%a5%91%e4%ba%9a%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216",
-      "es-ES": "/th?id=OHR.ChattoogaRiver_ES-ES4729549409",
-      "ja-JP": "/th?id=OHR.ChattoogaRiver_JA-JP8558662500",
-      "zh-CN": "/th?id=OHR.ChattoogaRiver_ZH-CN9453791496"
+      "en-GB": "/th?id=OHR.GrizzlySwim_EN-GB2587469687",
+      "de-DE": "/th?id=OHR.GrizzlySwim_DE-DE4187515695",
+      "fr-FR": "/th?id=OHR.GrizzlySwim_FR-FR9368655618",
+      "it-IT": "/th?id=OHR.GrizzlySwim_IT-IT0100605871",
+      "es-ES": "/th?id=OHR.GrizzlySwim_ES-ES2255914104",
+      "pt-BR": "/th?id=OHR.GrizzlySwim_PT-BR4132076191",
+      "zh-CN": "/th?id=OHR.GrizzlySwim_ZH-CN1005455737",
+      "en-IN": "/th?id=OHR.GrizzlySwim_EN-IN7120112042"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -1935,11 +1940,11 @@
       "en-CA": "/th?id=OHR.NiagaraOnt_EN-CA8662967301"
     }
   },
-  "GrizzlySwim": {
-    "name": "GrizzlySwim",
-    "urlbase": "/th?id=OHR.GrizzlySwim_DE-DE4187515695",
-    "date": "20261001",
-    "dateFormatted": "October 01, 2026",
+  "BrandenburgGateFireworks": {
+    "name": "BrandenburgGateFireworks",
+    "urlbase": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528",
+    "date": "20261002",
+    "dateFormatted": "October 02, 2026",
     "markets": [
       {
         "code": "de-DE",
@@ -1948,49 +1953,23 @@
       }
     ],
     "titles": {
-      "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA",
-      "en-US": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska",
-      "en-GB": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States",
-      "fr-FR": "Maître des eaux. Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis",
-      "it-IT": "Pesca, mangia, ripeti. Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti",
-      "es-ES": "Pescar, comer y repetir. Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
-      "pt-BR": "O último buffet do ano. Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA",
-      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊",
-      "en-IN": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States"
+      "de-DE": "Ein Zeichen der Einheit. Tag der Deutschen Einheit"
     },
     "copyrights": {
-      "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)",
-      "en-US": "© Danny Green/Nature Picture Library",
-      "en-GB": "© Danny Green/Nature Picture Library",
-      "fr-FR": "© Danny Green/Nature Picture Library",
-      "it-IT": "© Danny Green/Nature Picture Library",
-      "es-ES": "© Danny Green/Nature Picture Library",
-      "pt-BR": "© Danny Green/Nature Picture Library",
-      "zh-CN": "© Danny Green/Nature Picture Library",
-      "en-IN": "© Danny Green/Nature Picture Library"
+      "de-DE": "Brandenburger Tor, Berlin (© almir1968/Getty Images)"
     },
     "descs": {
-      "de-DE": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
-      "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
-      "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
-      "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
-      "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
-      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。",
-      "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink."
+      "de-DE": "Heute steht Deutschland ganz im Zeichen der Einheit. Der 3. Oktober erinnert an die Wiedervereinigung im Jahr 1990 und an einen historischen Moment, der das Land bis heute prägt. Unser heutiges Bild zeigt die Quadriga auf dem Brandenburger Tor in Berlin vor einem Feuerwerk. Während der deutschen Teilung wurde das Brandenburger Tor zum Sinnbild der Grenze zwischen Ost und West. Jahrzehntelang war der Zugang versperrt, ehe es nach dem Fall der Berliner Mauer erneut zu einem Symbol der Freiheit wurde. Heute steht das Wahrzeichen für Zusammenhalt und ein vereintes Deutschland."
     },
-    "quickFacts": {
-      "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
-    },
+    "quickFacts": {},
     "captions": {
-      "de-DE": "Braunbär, Lake Clark National Park and Preserve, Alaska, USA"
+      "de-DE": "Tag der Deutschen Einheit"
     },
     "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Braunb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220261001_2200%22"
+      "de-DE": "https://www.bing.com/search?q=Tag+der+Deutschen+Einheit&form=hpcapt&filters=HpDate%3a%2220261002_2200%22"
     },
     "urlbases": {
-      "de-DE": "/th?id=OHR.GrizzlySwim_DE-DE4187515695"
+      "de-DE": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528"
     }
   },
   "StarnbergerseeAutumn": {
@@ -2023,38 +2002,6 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754"
-    }
-  },
-  "OktoberfestMunich": {
-    "name": "OktoberfestMunich",
-    "urlbase": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623",
-    "date": "20260918",
-    "dateFormatted": "September 18, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "O’zapft is! Eröffnung des Oktoberfests"
-    },
-    "copyrights": {
-      "de-DE": "Oktoberfest München, Bayern (© FooTToo/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Mit dem traditionellen Ruf „O’zapft is!“ beginnt heute in München das 191. Oktoberfest. Bevor sich die Festzelte füllen, richtet sich der Blick auf einen Moment, der jedes Jahr mit Spannung erwartet wird: den Anstich des ersten Bierfasses im Schottenhamel-Festzelt. Erst mit dem Anstich gilt die Wiesn offiziell als eröffnet. Wie viele Schläge der Münchner Oberbürgermeister dafür benötigt, gehört längst zu den meistbeachteten Details der Eröffnung."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Eröffnung des Oktoberfests"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623"
     }
   },
   "AutumnPeatBog": {
@@ -2219,38 +2166,6 @@
       "it-IT": "/th?id=OHR.AutumnTrentino_IT-IT8118999546"
     }
   },
-  "BorgoMarinari": {
-    "name": "BorgoMarinari",
-    "urlbase": "/th?id=OHR.BorgoMarinari_IT-IT7423218886",
-    "date": "20260918",
-    "dateFormatted": "September 18, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "Porta fortuna, San Gennà"
-    },
-    "copyrights": {
-      "it-IT": "A Borgo Marinari, sul Golfo di Napoli, Campania, Italia (© Siegfried Schnepf/Getty Images)"
-    },
-    "descs": {
-      "it-IT": "Oggi Napoli (Campania, Italia) festeggia san Gennaro, il suo patrono: il 19 settembre è la data più sentita del calendario cittadino, con celebrazioni nel Duomo, bancarelle nei vicoli e una città che resta in strada fino a notte."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Festa+di+San+Gennaro+a+Napoli&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.BorgoMarinari_IT-IT7423218886"
-    }
-  },
   "FiestaMerceBarcelona": {
     "name": "FiestaMerceBarcelona",
     "urlbase": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972",
@@ -2377,6 +2292,40 @@
     },
     "urlbases": {
       "pt-BR": "/th?id=OHR.SpringTree_PT-BR3107057910"
+    }
+  },
+  "AmmoniteFossils": {
+    "name": "AmmoniteFossils",
+    "urlbase": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090",
+    "date": "20261002",
+    "dateFormatted": "October 02, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "古代の海に生息していた動物の化石"
+    },
+    "copyrights": {
+      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。"
+    },
+    "quickFacts": {
+      "ja-JP": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。"
+    },
+    "captions": {
+      "ja-JP": "古代の海に生息していた動物の化石"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a2%e3%83%8a%e3%82%a4%e3%83%88&form=hpcapt&filters=HpDate%3a%2220261002_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090"
     }
   },
   "YokohamaBayBridge": {
@@ -2541,6 +2490,139 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "WinnatsPassPeak": {
+    "name": "WinnatsPassPeak",
+    "urlbase": "/th?id=OHR.WinnatsPassPeak_EN-US6112068451",
+    "date": "20260918",
+    "dateFormatted": "September 18, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
+      "en-CA": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
+      "en-GB": "Through the heart of the pass. Winnats Pass, Peak District National Park, England",
+      "de-DE": "Durch das Herz des Passes. Winnats Pass im Peak-District-Nationalpark, England",
+      "fr-FR": "Au cœur du temps. Col de Winnats, Parc national du Peak District, Angleterre",
+      "it-IT": "Attraverso il cuore del passo",
+      "pt-BR": "Um capítulo aberto da Terra",
+      "ja-JP": "緑の丘を縫う道",
+      "zh-CN": "穿越山口腹地",
+      "en-IN": "Through the heart of the pass. Winnats Pass, Peak District National Park, England"
+    },
+    "copyrights": {
+      "en-US": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
+      "en-CA": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
+      "en-GB": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
+      "de-DE": "Winnats Pass im Peak-District-Nationalpark, England (© Daniel_Kay/Getty Images)",
+      "fr-FR": "Col de Winnats, Parc national du Peak District, Angleterre (© Daniel_Kay/Getty Images)",
+      "it-IT": "Winnats Pass, Parco Nazionale del Peak District, Inghilterra (© Daniel_Kay/Getty Images)",
+      "pt-BR": "Winnats Pass, Parque Nacional Peak District, Inglaterra (© Daniel_Kay/Getty Images)",
+      "ja-JP": "ウィナッツ・パス, イングランド (© Daniel_Kay/Getty Images)",
+      "zh-CN": "温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)",
+      "en-IN": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)"
+    },
+    "descs": {
+      "en-US": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "en-CA": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "en-GB": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "de-DE": "Im Peak-District-Nationalpark in England schlängelt sich die Straße durch den Winnats Pass, eine eindrucksvolle Kalksteinschlucht nahe dem Dorf Castleton. Steile Felswände ragen zu beiden Seiten empor und prägen eine Landschaft, die über Millionen von Jahren durch natürliche Prozesse geformt wurde. Wer den Pass durchquert, fährt mitten durch eine Kulisse, die von der langen geologischen Geschichte der Region erzählt. Besonders eindrucksvoll wirkt der Ort bei wechselhaftem Wetter, wenn Licht und Schatten über die hellen Felsen wandern.",
+      "fr-FR": "Au cœur du Peak District, premier parc national créé au Royaume-Uni, une route sinueuse traverse un paysage façonné il y a plus de 300 millions d’années. À Winnats Pass, les falaises calcaires s’élèvent de part et d’autre de la chaussée, dévoilant les vestiges d’anciennes mers tropicales qui recouvraient autrefois cette partie de l’Angleterre. Le silence des parois rocheuses contraste avec le vent qui s’engouffre dans la gorge et souligne la puissance du temps géologique.",
+      "ja-JP": "ここはイギリスで最初の国立公園であるピーク・ディストリクト国立公園。そして、この石灰岩の断崖に囲まれた曲がりくねった峠道は、ウィナッツ・パス。その周辺には、緑豊かな谷や広々とした丘陵が続き、ハイキングを楽しむことができます。また、地下には洞窟が広がり、旧鉛鉱山の跡も残されているほか、キャッスルトンやベイクウェルといった趣ある町を訪れることもできます。",
+      "en-IN": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+      "it-IT": "La strada che serpeggia nell'immagine attraversa il Winnats Pass, una gola calcarea del Parco Nazionale del Peak District (Inghilterra) scavata in rocce di oltre 300 milioni di anni. Quelle pareti si sono formate sul fondo di un mare tropicale e oggi stringono il passaggio fino a trasformarlo in un imbuto di pietra ed erba, con pendenze che mettono alla prova freni e polmoni.",
+      "pt-BR": "O asfalto que atravessa o Winnats Pass, no Peak District, é só a camada mais recente de uma história muito mais antiga. Há mais de 300 milhões de anos, este trecho do norte da Inglaterra fazia parte de um ambiente marinho tropical. Sedimentos acumulados no fundo do oceano deram origem ao calcário que hoje forma os paredões do desfiladeiro.",
+      "zh-CN": "在英格兰峰区，一条蜿蜒的长路从已有3亿多年历史的岩石间穿过。如此漫长的地质时间尺度本就令人惊叹，而这条路还穿越了温纳茨山口：这是一道狭窄的石灰岩峡谷，高耸的峭壁展现出远古海洋曾经覆盖英国这一地区的痕迹。"
+    },
+    "quickFacts": {
+      "zh-CN": "温纳茨山口是峰区国家公园内一处壮观的石灰岩峡谷，位于卡斯尔顿附近，两侧峭壁陡峻嶙峋。"
+    },
+    "captions": {
+      "en-US": "Winnats Pass, Peak District National Park, England",
+      "en-CA": "Winnats Pass, Peak District National Park, England"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.WinnatsPassPeak_EN-US6112068451",
+      "en-CA": "/th?id=OHR.WinnatsPassPeak_EN-CA3554895186"
+    }
+  },
+  "OktoberfestMunich": {
+    "name": "OktoberfestMunich",
+    "urlbase": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623",
+    "date": "20260918",
+    "dateFormatted": "September 18, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "O’zapft is! Eröffnung des Oktoberfests"
+    },
+    "copyrights": {
+      "de-DE": "Oktoberfest München, Bayern (© FooTToo/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Mit dem traditionellen Ruf „O’zapft is!“ beginnt heute in München das 191. Oktoberfest. Bevor sich die Festzelte füllen, richtet sich der Blick auf einen Moment, der jedes Jahr mit Spannung erwartet wird: den Anstich des ersten Bierfasses im Schottenhamel-Festzelt. Erst mit dem Anstich gilt die Wiesn offiziell als eröffnet. Wie viele Schläge der Münchner Oberbürgermeister dafür benötigt, gehört längst zu den meistbeachteten Details der Eröffnung."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Eröffnung des Oktoberfests"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623"
+    }
+  },
+  "BorgoMarinari": {
+    "name": "BorgoMarinari",
+    "urlbase": "/th?id=OHR.BorgoMarinari_IT-IT7423218886",
+    "date": "20260918",
+    "dateFormatted": "September 18, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Porta fortuna, San Gennà"
+    },
+    "copyrights": {
+      "it-IT": "A Borgo Marinari, sul Golfo di Napoli, Campania, Italia (© Siegfried Schnepf/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Oggi Napoli (Campania, Italia) festeggia san Gennaro, il suo patrono: il 19 settembre è la data più sentita del calendario cittadino, con celebrazioni nel Duomo, bancarelle nei vicoli e una città che resta in strada fino a notte."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Festa+di+San+Gennaro+a+Napoli&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.BorgoMarinari_IT-IT7423218886"
     }
   },
   "Santenay": {
