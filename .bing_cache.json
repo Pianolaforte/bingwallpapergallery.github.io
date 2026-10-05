@@ -1,4 +1,140 @@
 {
+  "ArtemisRocket": {
+    "name": "ArtemisRocket",
+    "urlbase": "/th?id=OHR.ArtemisRocket_EN-US5256990037",
+    "date": "20261004",
+    "dateFormatted": "October 04, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The universe is calling. World Space Week begins",
+      "en-GB": "The universe is calling. World Space Week begins",
+      "en-CA": "The universe is calling. World Space Week begins",
+      "de-DE": "Der Ruf des Universums. Weltraumwoche",
+      "it-IT": "L'universo ci chiama",
+      "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
+      "pt-BR": "Partiu, universo!",
+      "ja-JP": "今日から世界宇宙週間",
+      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日",
+      "en-IN": "The universe is calling. World Space Week begins",
+      "fr-FR": "L'univers nous appelle. Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022"
+    },
+    "copyrights": {
+      "en-US": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-CA": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
+      "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
+      "fr-FR": "© EVA MARIE UZCATEGUI/Getty Images"
+    },
+    "descs": {
+      "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
+      "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
+      "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
+      "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "fr-FR": "L'univers nous appelle. Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022. D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
+      "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
+      "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
+      "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
+    },
+    "quickFacts": {
+      "zh-CN": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
+    },
+    "captions": {
+      "en-US": "World Space Week begins",
+      "en-GB": "World Space Week begins",
+      "en-CA": "World Space Week begins",
+      "de-DE": "Weltraumwoche",
+      "it-IT": "",
+      "es-ES": "Comienza la Semana Mundial del Espacio",
+      "pt-BR": "",
+      "ja-JP": "今日から世界宇宙週間",
+      "zh-CN": "",
+      "en-IN": "World Space Week begins"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0700%22",
+      "en-GB": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_2300%22",
+      "en-CA": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Weltraumwoche&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Settimana+mondiale+dello+spazio&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Semana+Mundial+del+Espacio&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%ae%87%e5%ae%99%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220261003_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e7%a9%ba%e9%97%b4%e5%91%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ArtemisRocket_EN-US5256990037",
+      "en-GB": "/th?id=OHR.ArtemisRocket_EN-GB2659306567",
+      "en-CA": "/th?id=OHR.ArtemisRocket_EN-CA8945669255",
+      "de-DE": "/th?id=OHR.ArtemisRocket_DE-DE4474155042",
+      "it-IT": "/th?id=OHR.ArtemisRocket_IT-IT8266299733",
+      "es-ES": "/th?id=OHR.ArtemisRocket_ES-ES2701886938",
+      "pt-BR": "/th?id=OHR.ArtemisRocket_PT-BR6940961892",
+      "ja-JP": "/th?id=OHR.ArtemisRocket_JA-JP8925094178",
+      "zh-CN": "/th?id=OHR.ArtemisRocket_ZH-CN1768541365",
+      "en-IN": "/th?id=OHR.ArtemisRocket_EN-IN7247754075"
+    }
+  },
   "GrizzlySwim": {
     "name": "GrizzlySwim",
     "urlbase": "/th?id=OHR.GrizzlySwim_EN-US5133524829",
@@ -654,7 +790,7 @@
       "es-ES": "Los 27 pilares de la historia. Fuerte de Amber cerca de Jaipur, Rajasthan, India",
       "pt-BR": "Uma vista digna de um marajá",
       "ja-JP": "優美な柱が並ぶ宮殿",
-      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度",
+      "zh-CN": "可览美景的历史胜地",
       "en-IN": "History with a view. Amber Fort near Jaipur, Rajasthan, India"
     },
     "copyrights": {
@@ -1525,60 +1661,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Life between fur and sea. Sea Otter Awareness Week",
-      "en-GB": "Life between fur and sea. Sea otter, Monterey Bay, California, United States",
       "en-CA": "Life between fur and sea. Sea Otter Awareness Week",
+      "en-GB": "Life between fur and sea. Sea otter, Monterey Bay, California, United States",
       "de-DE": "Leben zwischen Fell und Meer. Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA",
       "fr-FR": "La vie entre mer et fourrure. Loutre de mer, Baie de Monterey, Californie, États-Unis",
       "it-IT": "Vita tra pelliccia e mare",
@@ -1590,8 +1681,8 @@
     },
     "copyrights": {
       "en-US": "Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)",
-      "en-GB": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
       "en-CA": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
+      "en-GB": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
       "de-DE": "Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA (© Suzi Eszterhas/Minden Pictures)",
       "fr-FR": "Loutre de mer peignant son pelage, Baie de Monterey, Californie, États-Unis (© Suzi Eszterhas/Minden Pictures)",
       "it-IT": "Lontra marina, baia di Monterey, California, USA (© Suzi Eszterhas/Minden Pictures)",
@@ -1603,8 +1694,8 @@
     },
     "descs": {
       "en-US": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
-      "en-GB": "Few animals are both expert groomers and guardians of underwater forests. In today's image, a sea otter grooms its fur in Monterey Bay, California—a daily ritual essential to its survival. Sea otters have the densest fur of any animal, with up to one million hairs per square inch. Unlike seals and whales, they have little blubber, so their thick, air-trapping coat provides insulation against the cold Pacific.",
       "en-CA": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
+      "en-GB": "Few animals are both expert groomers and guardians of underwater forests. In today's image, a sea otter grooms its fur in Monterey Bay, California—a daily ritual essential to its survival. Sea otters have the densest fur of any animal, with up to one million hairs per square inch. Unlike seals and whales, they have little blubber, so their thick, air-trapping coat provides insulation against the cold Pacific.",
       "de-DE": "Seeotter verbringen einen großen Teil ihres Lebens im Wasser und widmen viele Stunden täglich der sorgfältigen Fellpflege. In der Monterey Bay im US-Bundesstaat Kalifornien kann man diese geschickten Meeressäuger oft beobachten, wie sie auf dem Rücken treiben und ihr dichtes Fell reinigen. Dabei streifen, kämmen und lockern sie die Haare mit ihren Pfoten, damit Luft zwischen den Fellschichten eingeschlossen bleibt. Dieser natürliche Schutz ist lebenswichtig, denn Seeotter besitzen keine isolierende Fettschicht wie viele andere Meeressäuger.",
       "fr-FR": "Dans les eaux fraîches de la baie de Monterey, en Californie (États-Unis), une loutre de mer flotte paisiblement à la surface, occupée à un rituel essentiel à sa survie : elle nettoie et peigne soigneusement son pelage, le plus dense de tout le règne animal. Cette attention constante lui permet de retenir de minuscules bulles d’air qui l’isolent du froid des eaux du Pacifique. Contrairement aux phoques ou aux baleines, elle ne peut compter sur une épaisse réserve de graisse pour conserver sa chaleur.",
       "es-ES": "Una nutria marina se acicala en la bahía de Monterey, en California (EE. UU.), y no lo hace por presumir. A diferencia de focas y ballenas, apenas tiene grasa aislante: sobrevive gracias al pelaje más denso del reino animal, y solo conserva el calor si lo limpia y lo airea sin descanso, atrapando burbujas que forman una capa impermeable.",
@@ -1619,126 +1710,22 @@
     },
     "captions": {
       "en-US": "Sea Otter Awareness Week",
-      "en-GB": "Sea otter, Monterey Bay, California, United States",
-      "en-CA": "Sea Otter Awareness Week",
-      "de-DE": "Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA",
-      "fr-FR": "Loutre de mer, Baie de Monterey, Californie, États-Unis",
-      "it-IT": "",
-      "es-ES": "Nutria marina, Bahía de Monterey, California, EE. UU.",
-      "pt-BR": "",
-      "ja-JP": "今週はラッコ啓蒙週間",
-      "zh-CN": "",
-      "en-IN": "Sea otter, Monterey Bay, California, United States"
+      "en-CA": "Sea Otter Awareness Week"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=sea+otter+awareness+week&form=hpcapt&filters=HpDate%3a%2220260921_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Sea+otters&form=hpcapt&filters=HpDate%3a%2220260920_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Sea+Otter+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260921_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Seeotter&form=hpcapt&filters=HpDate%3a%2220260920_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=loutre+de+mer&form=hpcapt&filters=HpDate%3a%2220260920_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lontra+marina&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Nutria+marina&form=hpcapt&filters=HpDate%3a%2220260920_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=lontra+marinha&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%83%83%e3%82%b3%e5%95%93%e8%92%99%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220260920_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%b5%b7%e7%8d%ad%e8%ae%a4%e7%9f%a5%e5%91%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Sea+otters&form=hpcapt&filters=HpDate%3a%2220260920_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Sea+Otter+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260921_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.GroomingOtter_EN-US6710084372",
-      "en-GB": "/th?id=OHR.GroomingOtter_EN-GB9079842121",
-      "en-CA": "/th?id=OHR.GroomingOtter_EN-CA5802555233",
-      "de-DE": "/th?id=OHR.GroomingOtter_DE-DE1586162162",
-      "fr-FR": "/th?id=OHR.GroomingOtter_FR-FR7953128169",
-      "it-IT": "/th?id=OHR.GroomingOtter_IT-IT7662965878",
-      "es-ES": "/th?id=OHR.GroomingOtter_ES-ES7483799211",
-      "pt-BR": "/th?id=OHR.GroomingOtter_PT-BR4986034219",
-      "ja-JP": "/th?id=OHR.GroomingOtter_JA-JP7012183872",
-      "zh-CN": "/th?id=OHR.GroomingOtter_ZH-CN6969472572",
-      "en-IN": "/th?id=OHR.GroomingOtter_EN-IN7966484109"
+      "en-CA": "/th?id=OHR.GroomingOtter_EN-CA5802555233"
     }
   },
-  "ParisSunset": {
-    "name": "ParisSunset",
-    "urlbase": "/th?id=OHR.ParisSunset_EN-US6532307523",
-    "date": "20260920",
-    "dateFormatted": "September 20, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "en-US": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
-      "en-CA": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
-      "fr-FR": "Elle nous fait tourner la tête. La tour Eiffel au coucher de soleil, Paris, France",
-      "en-GB": "The tower that won Paris over. Eiffel Tower, Paris, France",
-      "de-DE": "Der Turm, der Paris eroberte. Eiffelturm bei Sonnenuntergang, Paris, Frankreich",
-      "es-ES": "La torre que conquistó París. Torre Eiffel al atardecer, París, Francia",
-      "pt-BR": "De polêmica a cartão-postal",
-      "ja-JP": "夕焼けに染まるエッフェル塔",
-      "zh-CN": "终获巴黎青睐的铁塔",
-      "en-IN": "The tower that won Paris over. Eiffel Tower, Paris, France"
-    },
-    "copyrights": {
-      "en-US": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
-      "en-CA": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
-      "fr-FR": "La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)",
-      "en-GB": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
-      "de-DE": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)",
-      "es-ES": "Torre Eiffel al atardecer, París, Francia (© Alexander Spatari/Getty Images)",
-      "pt-BR": "Torre Eiffel ao pôr do sol, Paris, França (© Alexander Spatari/Getty Images)",
-      "ja-JP": "パリ, フランス (© Alexander Spatari/Getty Images)",
-      "zh-CN": "日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)",
-      "en-IN": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)"
-    },
-    "descs": {
-      "en-US": "No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.",
-      "en-CA": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
-      "fr-FR": "Paris évoque instantanément les promenades au crépuscule, les quais de la Seine et une élégance célébrée dans le monde entier. Pourtant, derrière cette image romantique se cache une histoire plus nuancée. À la fin du XIXᵉ siècle, la ville accueille l’Exposition universelle commémorant le centenaire de la Révolution française, dans un contexte de profondes transformations urbaines et culturelles.",
-      "en-GB": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
-      "de-DE": "Paris gehört zu den Städten, die Menschen auf der ganzen Welt faszinieren. Wenn die Sonne hinter dem Eiffelturm untergeht und den Himmel in warme Farben taucht, zeigt sich die französische Hauptstadt von ihrer besonders stimmungsvollen Seite. Der berühmte Turm erhebt sich über dem Champ de Mars und prägt seit mehr als einem Jahrhundert die Silhouette der Stadt.",
-      "es-ES": "La Torre Eiffel se recorta al atardecer sobre París (Francia), aunque su historia empezó con bastante peor prensa: se levantó como puerta de entrada de la Exposición Universal de 1889, que celebraba el centenario de la Revolución Francesa, y buena parte de la intelectualidad parisina la tachó de adefesio de hierro.",
-      "ja-JP": "ここはフランス最大の都市パリ。そして、中央にそびえるのがエッフェル塔です。フランス革命 100 周年を記念する 1889 年のパリ万国博覧会に合わせて建設されました。塔の名前は、設計者であるギュスターヴ・エッフェルに由来します。完成当初の高さは 300m で、1930 年に米国でクライスラー・ビルディングが建設されるまでは、世界で最も高い建造物でした。現在も多くの観光客が訪れる名所として親しまれており、フランスの創造性や技術力を象徴しています。",
-      "en-IN": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
-      "pt-BR": "A Torre Eiffel não nasceu como símbolo romântico. Nasceu como atração de feira e, para muita gente em Paris, era uma ideia de gosto bastante duvidoso. A torre foi construída para ser um dos grandes destaques da Exposição Universal de 1889, realizada no centenário da Revolução Francesa. Gustave Eiffel e sua equipe ergueram uma estrutura de 300 metros de altura, a construção mais alta do mundo na época.",
-      "zh-CN": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。"
-    },
-    "quickFacts": {
-      "zh-CN": "如今埃菲尔铁塔高330米；2022年安装一根新的数字广播天线后，塔身增高了6米。"
-    },
-    "captions": {
-      "en-US": "Eiffel Tower at sunset, Paris, France",
-      "en-CA": "Eiffel Tower at sunset, Paris, France",
-      "fr-FR": "La tour Eiffel au coucher de soleil, Paris, France"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260920_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260920_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.ParisSunset_EN-US6532307523",
-      "en-CA": "/th?id=OHR.ParisSunset_EN-CA5063473686",
-      "fr-FR": "/th?id=OHR.ParisSunset_FR-FR0051640032"
-    }
-  },
-  "ArtemisRocket": {
-    "name": "ArtemisRocket",
-    "urlbase": "/th?id=OHR.ArtemisRocket_EN-GB2659306567",
-    "date": "20261003",
-    "dateFormatted": "October 03, 2026",
+  "AdelieTeacher": {
+    "name": "AdelieTeacher",
+    "urlbase": "/th?id=OHR.AdelieTeacher_EN-GB2790518533",
+    "date": "20261004",
+    "dateFormatted": "October 04, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1749,6 +1736,11 @@
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
       },
       {
         "code": "it-IT",
@@ -1782,76 +1774,88 @@
       }
     ],
     "titles": {
-      "en-GB": "The universe is calling. World Space Week begins",
-      "de-DE": "Der Ruf des Universums. Weltraumwoche",
-      "it-IT": "L'universo ci chiama",
-      "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
-      "pt-BR": "Partiu, universo!",
-      "ja-JP": "今日から世界宇宙週間",
-      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日",
-      "en-IN": "The universe is calling. World Space Week begins",
-      "en-US": "The universe is calling. Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022",
-      "en-CA": "The universe is calling. Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022",
-      "fr-FR": "L'univers nous appelle. Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022"
+      "en-GB": "Taking the plunge, one lesson at a time. World Teachers' Day",
+      "de-DE": "Lehren der Natur. Tag des Lehrers",
+      "fr-FR": "Plonger dans sa leçon. Journée mondiale des enseignant(e)s",
+      "it-IT": "Un tuffo, una lezione",
+      "es-ES": "Al agua, lección a lección. Día Mundial de los Docentes",
+      "pt-BR": "Mergulho valendo nota",
+      "ja-JP": "海へ飛び込もうとするペンギンたち",
+      "zh-CN": "南极洲的阿德利企鹅",
+      "en-IN": "Slide into adventure. Adélie penguins, Antarctica",
+      "en-US": "Taking the plunge, one lesson at a time. Adélie penguins, Antarctica",
+      "en-CA": "Taking the plunge, one lesson at a time. Adélie penguins, Antarctica"
     },
     "copyrights": {
-      "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
-      "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
-      "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-US": "© EVA MARIE UZCATEGUI/Getty Images",
-      "en-CA": "© EVA MARIE UZCATEGUI/Getty Images",
-      "fr-FR": "© EVA MARIE UZCATEGUI/Getty Images"
+      "en-GB": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "de-DE": "Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)",
+      "fr-FR": "Manchots Adélie, Antarctique (© Otto Plantema/Minden Pictures)",
+      "it-IT": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
+      "es-ES": "Pingüinos de Adelia, Antártida (© Otto Plantema/Minden Pictures)",
+      "pt-BR": "Pinguins-de-adélia, Antártica (© Otto Plantema/Minden Pictures)",
+      "ja-JP": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
+      "zh-CN": "南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)",
+      "en-IN": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "en-US": "© Otto Plantema/Minden Pictures",
+      "en-CA": "© Otto Plantema/Minden Pictures"
     },
     "descs": {
-      "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
-      "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
-      "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
-      "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "fr-FR": "L'univers nous appelle. Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022. D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
-      "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
-      "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
-      "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
+      "en-GB": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "de-DE": "Am 5. Oktober rückt der Tag der Lehrer die Bedeutung von Wissen, Zusammenarbeit und gegenseitiger Unterstützung in den Mittelpunkt. Auch in der Natur finden sich spannende Beispiele dafür, wie Gemeinschaft zum Erfolg beitragen kann. Adeliepinguine leben in großen Kolonien an den Küsten der Antarktis und meistern ihren Alltag in einer Umgebung, die zu den lebensfeindlichsten der Erde zählt. Dabei profitieren sie von ihrem Zusammenhalt und ihrer Fähigkeit, sich an extreme Bedingungen anzupassen.",
+      "fr-FR": "À l'occasion de la Journée mondiale des enseignant(e)s, c'est un drôle de professeur qui prend la parole : le manchot Adélie, haut d'à peine 70 centimètres, debout sur la glace antarctique. Son nom rend hommage à Adèle Dumont d'Urville, épouse de l'explorateur français qui croisa ces oiseaux pour la première fois en 1840.",
+      "es-ES": "¿Qué puede enseñarnos un pingüino de Adelia, un ave de apenas setenta centímetros? Bastante. En el Día Mundial de los Docentes, esta especie de las costas de la Antártida ofrece una lección de ingenio, resistencia y algo de picaresca. Debe su nombre a Adèle, esposa del explorador francés Jules Dumont d'Urville, que dio con la especie durante una expedición en 1840.",
+      "ja-JP": "今日の画像は、南極大陸周辺に生息するアデリーペンギンのグループ。アデリーペンギンは、体長 60 ～ 70cm、体重約 5kg という中型のペンギンです。海中を時速約 14kmで泳ぎ回りながら、餌を捕まえたり、捕食者から逃れたりします。地上の雪原を移動する際は、他のペンギン同様腹ばいになって氷上を滑って移動することがあります。この移動方法は「トボガン」と呼ばれており、北米の先住民が用いていたソリを意味する言葉にちなんで名づけられました。",
+      "en-IN": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. The Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "en-US": "What can a 28-inch-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience, and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "en-CA": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "it-IT": "Che cosa può insegnarci un pinguino di Adelia, un uccello di appena settanta centimetri? Parecchio. Nella Giornata mondiale degli insegnanti, questa specie delle coste antartiche offre una lezione di ingegno, resistenza e un pizzico di furbizia. Deve il suo nome ad Adèle, moglie dell'esploratore francese Jules Dumont d'Urville, che la scoprì durante la spedizione del 1840.",
+      "pt-BR": "O que um pássaro de uns 70 centímetros ensina sobre a vida? Mais do que parece. Ele não usa livros e não passa lição de casa, mas, no Dia Mundial dos Professores, o pinguim-de-adélia ensina que criatividade, persistência e adaptação fazem toda a diferença. Seu nome homenageia Adèle, esposa do explorador francês que liderou a expedição que encontrou a espécie em 1840.",
+      "zh-CN": "一只身高28英寸的鸟能教给我们哪些人生道理？非常多。在世界教师日这一天，阿德利企鹅带来了一份充满足智多谋、坚韧不拔和些许顽皮的课程计划。这一物种分布于南极海岸，以法国探险家儒勒·迪蒙·迪维尔的妻子阿黛尔之名命名；在1840年的一次远征中，人们发现了这些企鹅。"
     },
     "quickFacts": {
-      "zh-CN": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
+      "en-US": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "en-GB": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "en-CA": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "de-DE": "Adeliepinguine haben keine Zähne, sondern scharfe, nach hinten gerichtete Papillen auf Zunge und Gaumen, die ihnen helfen, ihre Beute festzuhalten.",
+      "fr-FR": "Les manchots Adélie n'ont pas de dents, mais possèdent à la place des petites pointes acérées et recourbées vers l'arrière, appelées papilles, sur leur langue et le palais.",
+      "it-IT": "I pinguini di Adelia non hanno denti: su lingua e palato presentano spine affilate rivolte verso l'interno, chiamate papille.",
+      "es-ES": "Los pingüinos de Adelia no tienen dientes: en la lengua y el paladar presentan púas afiladas orientadas hacia atrás, llamadas papilas.",
+      "ja-JP": "ペンギンには歯がありません。",
+      "zh-CN": "阿德利企鹅没有牙齿，但它们的舌头和上腭长有被称为乳突的尖锐倒刺。",
+      "en-IN": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths."
     },
     "captions": {
-      "en-GB": "World Space Week begins",
-      "de-DE": "Weltraumwoche",
+      "en-GB": "World Teachers' Day",
+      "de-DE": "Tag des Lehrers",
+      "fr-FR": "Journée mondiale des enseignant(e)s",
       "it-IT": "",
-      "es-ES": "Comienza la Semana Mundial del Espacio",
+      "es-ES": "Día Mundial de los Docentes",
       "pt-BR": "",
-      "ja-JP": "今日から世界宇宙週間",
+      "ja-JP": "海へ飛び込もうとするペンギンたち",
       "zh-CN": "",
-      "en-IN": "World Space Week begins"
+      "en-IN": "Adélie penguins, Antarctica"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Weltraumwoche&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Settimana+mondiale+dello+spazio&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Semana+Mundial+del+Espacio&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%ae%87%e5%ae%99%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220261003_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e7%a9%ba%e9%97%b4%e5%91%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_1830%22"
+      "en-GB": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Tag+des+Lehrers&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+degli+insegnanti&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Docentes&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=dia+mundial+dos+professores&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%87%e3%83%aa%e3%83%bc%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261004_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%95%99%e5%b8%88%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Adelie+penguins&form=hpcapt&filters=HpDate%3a%2220261004_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.ArtemisRocket_EN-GB2659306567",
-      "de-DE": "/th?id=OHR.ArtemisRocket_DE-DE4474155042",
-      "it-IT": "/th?id=OHR.ArtemisRocket_IT-IT8266299733",
-      "es-ES": "/th?id=OHR.ArtemisRocket_ES-ES2701886938",
-      "pt-BR": "/th?id=OHR.ArtemisRocket_PT-BR6940961892",
-      "ja-JP": "/th?id=OHR.ArtemisRocket_JA-JP8925094178",
-      "zh-CN": "/th?id=OHR.ArtemisRocket_ZH-CN1768541365",
-      "en-IN": "/th?id=OHR.ArtemisRocket_EN-IN7247754075"
+      "en-GB": "/th?id=OHR.AdelieTeacher_EN-GB2790518533",
+      "de-DE": "/th?id=OHR.AdelieTeacher_DE-DE4553591722",
+      "fr-FR": "/th?id=OHR.AdelieTeacher_FR-FR4489383327",
+      "it-IT": "/th?id=OHR.AdelieTeacher_IT-IT0908380283",
+      "es-ES": "/th?id=OHR.AdelieTeacher_ES-ES0045236370",
+      "pt-BR": "/th?id=OHR.AdelieTeacher_PT-BR7440299182",
+      "ja-JP": "/th?id=OHR.AdelieTeacher_JA-JP9090254921",
+      "zh-CN": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679",
+      "en-IN": "/th?id=OHR.AdelieTeacher_EN-IN7367199250"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -2150,6 +2154,67 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172"
+    }
+  },
+  "ParisSunset": {
+    "name": "ParisSunset",
+    "urlbase": "/th?id=OHR.ParisSunset_FR-FR0051640032",
+    "date": "20260930",
+    "dateFormatted": "September 30, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Elle nous fait tourner la tête. La tour Eiffel au coucher de soleil, Paris, France",
+      "en-US": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
+      "en-CA": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
+      "en-GB": "The tower that won Paris over. Eiffel Tower, Paris, France",
+      "de-DE": "Der Turm, der Paris eroberte. Eiffelturm bei Sonnenuntergang, Paris, Frankreich",
+      "es-ES": "La torre que conquistó París. Torre Eiffel al atardecer, París, Francia",
+      "pt-BR": "De polêmica a cartão-postal",
+      "ja-JP": "夕焼けに染まるエッフェル塔",
+      "zh-CN": "终获巴黎青睐的铁塔",
+      "en-IN": "The tower that won Paris over. Eiffel Tower, Paris, France"
+    },
+    "copyrights": {
+      "fr-FR": "La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)",
+      "en-US": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "en-CA": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "en-GB": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "de-DE": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)",
+      "es-ES": "Torre Eiffel al atardecer, París, Francia (© Alexander Spatari/Getty Images)",
+      "pt-BR": "Torre Eiffel ao pôr do sol, Paris, França (© Alexander Spatari/Getty Images)",
+      "ja-JP": "パリ, フランス (© Alexander Spatari/Getty Images)",
+      "zh-CN": "日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)",
+      "en-IN": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Paris évoque instantanément les promenades au crépuscule, les quais de la Seine et une élégance célébrée dans le monde entier. Pourtant, derrière cette image romantique se cache une histoire plus nuancée. À la fin du XIXᵉ siècle, la ville accueille l’Exposition universelle commémorant le centenaire de la Révolution française, dans un contexte de profondes transformations urbaines et culturelles.",
+      "en-US": "No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.",
+      "en-CA": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "en-GB": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "de-DE": "Paris gehört zu den Städten, die Menschen auf der ganzen Welt faszinieren. Wenn die Sonne hinter dem Eiffelturm untergeht und den Himmel in warme Farben taucht, zeigt sich die französische Hauptstadt von ihrer besonders stimmungsvollen Seite. Der berühmte Turm erhebt sich über dem Champ de Mars und prägt seit mehr als einem Jahrhundert die Silhouette der Stadt.",
+      "es-ES": "La Torre Eiffel se recorta al atardecer sobre París (Francia), aunque su historia empezó con bastante peor prensa: se levantó como puerta de entrada de la Exposición Universal de 1889, que celebraba el centenario de la Revolución Francesa, y buena parte de la intelectualidad parisina la tachó de adefesio de hierro.",
+      "ja-JP": "ここはフランス最大の都市パリ。そして、中央にそびえるのがエッフェル塔です。フランス革命 100 周年を記念する 1889 年のパリ万国博覧会に合わせて建設されました。塔の名前は、設計者であるギュスターヴ・エッフェルに由来します。完成当初の高さは 300m で、1930 年に米国でクライスラー・ビルディングが建設されるまでは、世界で最も高い建造物でした。現在も多くの観光客が訪れる名所として親しまれており、フランスの創造性や技術力を象徴しています。",
+      "en-IN": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "pt-BR": "A Torre Eiffel não nasceu como símbolo romântico. Nasceu como atração de feira e, para muita gente em Paris, era uma ideia de gosto bastante duvidoso. A torre foi construída para ser um dos grandes destaques da Exposição Universal de 1889, realizada no centenário da Revolução Francesa. Gustave Eiffel e sua equipe ergueram uma estrutura de 300 metros de altura, a construção mais alta do mundo na época.",
+      "zh-CN": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。"
+    },
+    "quickFacts": {
+      "zh-CN": "如今埃菲尔铁塔高330米；2022年安装一根新的数字广播天线后，塔身增高了6米。"
+    },
+    "captions": {
+      "fr-FR": "La tour Eiffel au coucher de soleil, Paris, France"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.ParisSunset_FR-FR0051640032"
     }
   },
   "BoriesPoppies": {
@@ -3020,7 +3085,8 @@
       "it-IT": "Loquace e appariscente",
       "es-ES": "Supervivencia de los más llamativos. Guacamayos aliverdes, Brasil",
       "zh-CN": "最炫者生存",
-      "en-IN": "Survival of the flashiest. Red-and-green macaws"
+      "en-IN": "Survival of the flashiest. Red-and-green macaws",
+      "ja-JP": "熱帯の森を舞う極彩色の鳥たち. ベニコンゴウインコのペア"
     },
     "copyrights": {
       "en-CA": "Red-and-green macaws (© markes51/Getty Images)",
@@ -3030,7 +3096,8 @@
       "it-IT": "L'ara dalle ali verdi, Brasile (© markes51/Getty Images)",
       "es-ES": "Guacamayos aliverdes, Brasil (© markes51/Getty Images)",
       "zh-CN": "红绿金刚鹦鹉 (© markes51/Getty Images)",
-      "en-IN": "Red-and-green macaws (© markes51/Getty Images)"
+      "en-IN": "Red-and-green macaws (© markes51/Getty Images)",
+      "ja-JP": "© markes51/Getty Images"
     },
     "descs": {
       "en-CA": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
@@ -3040,7 +3107,8 @@
       "es-ES": "Los guacamayos aliverdes de la imagen vuelan sobre las selvas de Brasil y no entienden de discreción: rojo encendido, banda verde en el ala, plumas azules en el extremo y una cara blanca surcada por finas líneas de plumas rojas.",
       "en-IN": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
       "it-IT": "Le are dalle ali verdi dell'immagine vivono nelle foreste del Brasile e non conoscono la discrezione: rosso acceso, fascia verde sull'ala, penne blu all'estremità e una faccia bianca solcata da sottili linee di piume rosse.",
-      "zh-CN": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。"
+      "zh-CN": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。",
+      "ja-JP": "ベニコンゴウインコは、主に南米大陸北部の森林に分布している鳥です。鮮やかな赤い体色に緑や青色の入った美しい翼で知られています。全長は 90 ～ 95cm ほどで、コンゴウインコ類の中でも最大級の大きさを誇ります。また、一夫一婦制の習性があり、ほとんどの場合つがいの関係は一生続くとされています。さらに、鳥類の中でも高い知能をもち、状況によって異なる鳴き声を発するなど、豊かなコミュニケーション能力を備えています。"
     },
     "quickFacts": {
       "en-GB": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
@@ -3048,7 +3116,8 @@
       "de-DE": "Große Aras verfügen über eine außergewöhnlich starke Beißkraft, mit der sie selbst besonders harte Nüsse und Samen mühelos knacken können.",
       "fr-FR": "Le bec des grands aras peut exercer une pression de plusieurs centaines de PSI, bien supérieure à celle d'une morsure humaine moyenne, leur permettant de casser aisément des noix et des graines dures.",
       "zh-CN": "大型金刚鹦鹉可产生数百磅每平方英寸的咬合压力，远高于普通人类，因而能轻松咬开坚硬的坚果和种子。",
-      "en-IN": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease."
+      "en-IN": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
+      "ja-JP": "ベニコンゴウインコは、人間の噛む力を大きく上回る咬合力を持ち、硬いナッツや種子を割ることができます。"
     },
     "captions": {
       "en-CA": "Red-and-green macaws"
