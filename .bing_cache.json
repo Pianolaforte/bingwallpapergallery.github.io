@@ -1,4 +1,157 @@
 {
+  "AdelieTeacher": {
+    "name": "AdelieTeacher",
+    "urlbase": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
+    "date": "20261005",
+    "dateFormatted": "October 05, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Taking the plunge, one lesson at a time. World Teachers' Day",
+      "en-GB": "Taking the plunge, one lesson at a time. World Teachers' Day",
+      "en-CA": "Taking the plunge, one lesson at a time. World Teachers' Day",
+      "de-DE": "Lehren der Natur. Tag des Lehrers",
+      "fr-FR": "Plonger dans sa leçon. Journée mondiale des enseignant(e)s",
+      "it-IT": "Un tuffo, una lezione",
+      "es-ES": "Al agua, lección a lección. Día Mundial de los Docentes",
+      "pt-BR": "Mergulho valendo nota",
+      "ja-JP": "海へ飛び込もうとするペンギンたち",
+      "zh-CN": "南极洲的阿德利企鹅",
+      "en-IN": "Slide into adventure. Adélie penguins, Antarctica"
+    },
+    "copyrights": {
+      "en-US": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "en-GB": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "en-CA": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "de-DE": "Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)",
+      "fr-FR": "Manchots Adélie, Antarctique (© Otto Plantema/Minden Pictures)",
+      "it-IT": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
+      "es-ES": "Pingüinos de Adelia, Antártida (© Otto Plantema/Minden Pictures)",
+      "pt-BR": "Pinguins-de-adélia, Antártica (© Otto Plantema/Minden Pictures)",
+      "ja-JP": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
+      "zh-CN": "南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)",
+      "en-IN": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "What can a 28-inch-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience, and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "en-GB": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "en-CA": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "de-DE": "Am 5. Oktober rückt der Tag der Lehrer die Bedeutung von Wissen, Zusammenarbeit und gegenseitiger Unterstützung in den Mittelpunkt. Auch in der Natur finden sich spannende Beispiele dafür, wie Gemeinschaft zum Erfolg beitragen kann. Adeliepinguine leben in großen Kolonien an den Küsten der Antarktis und meistern ihren Alltag in einer Umgebung, die zu den lebensfeindlichsten der Erde zählt. Dabei profitieren sie von ihrem Zusammenhalt und ihrer Fähigkeit, sich an extreme Bedingungen anzupassen.",
+      "fr-FR": "À l'occasion de la Journée mondiale des enseignant(e)s, c'est un drôle de professeur qui prend la parole : le manchot Adélie, haut d'à peine 70 centimètres, debout sur la glace antarctique. Son nom rend hommage à Adèle Dumont d'Urville, épouse de l'explorateur français qui croisa ces oiseaux pour la première fois en 1840.",
+      "es-ES": "¿Qué puede enseñarnos un pingüino de Adelia, un ave de apenas setenta centímetros? Bastante. En el Día Mundial de los Docentes, esta especie de las costas de la Antártida ofrece una lección de ingenio, resistencia y algo de picaresca. Debe su nombre a Adèle, esposa del explorador francés Jules Dumont d'Urville, que dio con la especie durante una expedición en 1840.",
+      "ja-JP": "今日の画像は、南極大陸周辺に生息するアデリーペンギンのグループ。アデリーペンギンは、体長 60 ～ 70cm、体重約 5kg という中型のペンギンです。海中を時速約 14kmで泳ぎ回りながら、餌を捕まえたり、捕食者から逃れたりします。地上の雪原を移動する際は、他のペンギン同様腹ばいになって氷上を滑って移動することがあります。この移動方法は「トボガン」と呼ばれており、北米の先住民が用いていたソリを意味する言葉にちなんで名づけられました。",
+      "en-IN": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. The Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "it-IT": "Che cosa può insegnarci un pinguino di Adelia, un uccello di appena settanta centimetri? Parecchio. Nella Giornata mondiale degli insegnanti, questa specie delle coste antartiche offre una lezione di ingegno, resistenza e un pizzico di furbizia. Deve il suo nome ad Adèle, moglie dell'esploratore francese Jules Dumont d'Urville, che la scoprì durante la spedizione del 1840.",
+      "pt-BR": "O que um pássaro de uns 70 centímetros ensina sobre a vida? Mais do que parece. Ele não usa livros e não passa lição de casa, mas, no Dia Mundial dos Professores, o pinguim-de-adélia ensina que criatividade, persistência e adaptação fazem toda a diferença. Seu nome homenageia Adèle, esposa do explorador francês que liderou a expedição que encontrou a espécie em 1840.",
+      "zh-CN": "一只身高28英寸的鸟能教给我们哪些人生道理？非常多。在世界教师日这一天，阿德利企鹅带来了一份充满足智多谋、坚韧不拔和些许顽皮的课程计划。这一物种分布于南极海岸，以法国探险家儒勒·迪蒙·迪维尔的妻子阿黛尔之名命名；在1840年的一次远征中，人们发现了这些企鹅。"
+    },
+    "quickFacts": {
+      "en-US": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "en-GB": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "en-CA": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "de-DE": "Adeliepinguine haben keine Zähne, sondern scharfe, nach hinten gerichtete Papillen auf Zunge und Gaumen, die ihnen helfen, ihre Beute festzuhalten.",
+      "fr-FR": "Les manchots Adélie n'ont pas de dents, mais possèdent à la place des petites pointes acérées et recourbées vers l'arrière, appelées papilles, sur leur langue et le palais.",
+      "it-IT": "I pinguini di Adelia non hanno denti: su lingua e palato presentano spine affilate rivolte verso l'interno, chiamate papille.",
+      "es-ES": "Los pingüinos de Adelia no tienen dientes: en la lengua y el paladar presentan púas afiladas orientadas hacia atrás, llamadas papilas.",
+      "ja-JP": "ペンギンには歯がありません。",
+      "zh-CN": "阿德利企鹅没有牙齿，但它们的舌头和上腭长有被称为乳突的尖锐倒刺。",
+      "en-IN": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths."
+    },
+    "captions": {
+      "en-US": "World Teachers' Day",
+      "en-GB": "World Teachers' Day",
+      "en-CA": "World Teachers' Day",
+      "de-DE": "Tag des Lehrers",
+      "fr-FR": "Journée mondiale des enseignant(e)s",
+      "it-IT": "",
+      "es-ES": "Día Mundial de los Docentes",
+      "pt-BR": "",
+      "ja-JP": "海へ飛び込もうとするペンギンたち",
+      "zh-CN": "",
+      "en-IN": "Adélie penguins, Antarctica"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0700%22",
+      "en-GB": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2300%22",
+      "en-CA": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Tag+des+Lehrers&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+degli+insegnanti&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Docentes&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=dia+mundial+dos+professores&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%87%e3%83%aa%e3%83%bc%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261004_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%95%99%e5%b8%88%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Adelie+penguins&form=hpcapt&filters=HpDate%3a%2220261004_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
+      "en-GB": "/th?id=OHR.AdelieTeacher_EN-GB2790518533",
+      "en-CA": "/th?id=OHR.AdelieTeacher_EN-CA9613439676",
+      "de-DE": "/th?id=OHR.AdelieTeacher_DE-DE4553591722",
+      "fr-FR": "/th?id=OHR.AdelieTeacher_FR-FR4489383327",
+      "it-IT": "/th?id=OHR.AdelieTeacher_IT-IT0908380283",
+      "es-ES": "/th?id=OHR.AdelieTeacher_ES-ES0045236370",
+      "pt-BR": "/th?id=OHR.AdelieTeacher_PT-BR7440299182",
+      "ja-JP": "/th?id=OHR.AdelieTeacher_JA-JP9090254921",
+      "zh-CN": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679",
+      "en-IN": "/th?id=OHR.AdelieTeacher_EN-IN7367199250"
+    }
+  },
   "ArtemisRocket": {
     "name": "ArtemisRocket",
     "urlbase": "/th?id=OHR.ArtemisRocket_EN-US5256990037",
@@ -646,7 +799,7 @@
       "es-ES": "Nacidos de glaciares. Río Kasilof, Alaska, EE. UU.",
       "pt-BR": "Uma jornada glacial",
       "ja-JP": "氷河の恵みをたたえる川",
-      "zh-CN": "卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国",
+      "zh-CN": "冰川孕育之河",
       "en-IN": "Born of glaciers. Kasilof River, Alaska, United States"
     },
     "copyrights": {
@@ -669,7 +822,7 @@
       "de-DE": "Der Kasilof River auf der Kenai-Halbinsel im US-Bundesstaat Alaska beeindruckt mit seinem leuchtend blauen Wasser, das aus dem Tustumena Lake stammt. Die auffällige Farbe entsteht durch feinen Gletscherschlamm, der vom Schmelzwasser mitgeführt wird und dem Fluss seinen türkisblauen Ton verleiht. Aus der Luft wirkt der Kasilof wie ein glänzendes Band, das sich durch die weite Landschaft aus Wäldern, Feuchtgebieten und Seen schlängelt. Obwohl er deutlich kürzer ist als der benachbarte Kenai River, zählt er zu den markantesten Gewässern der Region.",
       "fr-FR": "Vue du ciel, la rivière Kasilof dessine un ruban turquoise à travers la péninsule de Kenai, en Alaska (États-Unis). Cette teinte saisissante provient des fines particules glaciaires transportées depuis le lac Tustumena, l’un des plus vastes lacs d’eau douce de l’État. Sur environ 27 kilomètres avant de rejoindre le Cook Inlet, le cours d’eau traverse un décor façonné par les glaces depuis des millénaires. À chaque méandre, les reflets sur l’eau laiteuse révèlent un paysage où montagnes, forêts boréales et zones humides composent une remarquable mosaïque naturelle.",
       "es-ES": "Visto desde el aire, el río Kasilof dibuja una cinta turquesa sobre la península Kenai, en Alaska (EE. UU.). Ese color no es un efecto de la luz: procede del limo glaciar en suspensión que baja desde el lago Tustumena, uno de los mayores de agua dulce del estado, alimentado a su vez por un glaciar de los montes Kenai.",
-      "ja-JP": "氷河の恵みをたたえる川. カシロフ川, 米国 アラスカ州. 今日の画像は、米国アラスカ州南部のキナイ半島を流れるカシロフ川。水源であるツツメナ氷河から運ばれる氷河岩粉によって、水の色は鮮やかなミルキーブルーとなっています。川は約 27km にわたって流れ、クック湾へと注ぎ込みます。この川には、サケやマスが豊富に生息し、人気の釣りスポットとして知られています。また、周辺ではキャンプや自然遊歩道の散策も楽しめます。",
+      "ja-JP": "今日の画像は、米国アラスカ州南部のキナイ半島を流れるカシロフ川。水源であるツツメナ氷河から運ばれる氷河岩粉によって、水の色は鮮やかなミルキーブルーとなっています。川は約 27km にわたって流れ、クック湾へと注ぎ込みます。この川には、サケやマスが豊富に生息し、人気の釣りスポットとして知られています。また、周辺ではキャンプや自然遊歩道の散策も楽しめます。",
       "en-IN": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula in the United States. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
       "it-IT": "Visto dall'alto, il fiume Kasilof disegna un nastro turchese sulla penisola di Kenai, in Alaska (USA). Quel colore non è un gioco di luce: viene dal limo glaciale in sospensione che scende dal lago Tustumena, uno dei più grandi bacini d'acqua dolce dello stato, alimentato a sua volta da un ghiacciaio.",
       "pt-BR": "Se alguém dissesse que esta água foi tingida de azul, seria fácil acreditar. O rio Kasilof, na Península de Kenai, no Alasca, realmente ganha esse tom turquesa intenso. A explicação, porém, está nas geleiras: partículas microscópicas de rocha, chamadas silte glacial, chegam ao rio vindas do lago Tustumena e permanecem suspensas na água, ajudando a produzir a coloração.",
@@ -1258,11 +1411,6 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
@@ -1301,16 +1449,10 @@
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "en-GB": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "en-CA": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "de-DE": "Vulkanische Kontraste. Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
       "fr-FR": "Le dialogue entre vagues et cendres. El Golfo, Lanzarote, Îles Canaries, Espagne",
@@ -1319,11 +1461,11 @@
       "pt-BR": "O legado de um vulcão",
       "ja-JP": "黒い海岸に寄せる白波",
       "zh-CN": "火山灰与浪花相遇",
+      "en-GB": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "en-IN": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain"
     },
     "copyrights": {
       "en-US": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
-      "en-GB": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
       "en-CA": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
       "de-DE": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
       "fr-FR": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)",
@@ -1332,16 +1474,17 @@
       "pt-BR": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha (© Westend61/Adobe Stock)",
       "ja-JP": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
       "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)",
+      "en-GB": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
       "en-IN": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)"
     },
     "descs": {
       "en-US": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ocher and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages, and farmland.",
-      "en-GB": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages and farmland.",
       "en-CA": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
       "de-DE": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
       "fr-FR": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
       "es-ES": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco.",
       "ja-JP": "ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
+      "en-GB": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages and farmland.",
       "en-IN": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
       "it-IT": "A El Golfo, sulla costa occidentale di Lanzarote (Isole Canarie, Spagna), la geologia ha perso ogni misura: sabbia nera, falesie striate di ocra e ruggine e l'Atlantico che non smette mai. Il paese è una manciata di case bianche che vivono di pesca e di pesce fresco.",
       "pt-BR": "A ilha de Lanzarote, nas Canárias espanholas, parece ter escolhido cores que não deveriam funcionar juntas: areia negra, mar azul e falésias riscadas de ferrugem e ocre. Mas aqui, quem segura o pincel é a geologia. Milhões de anos de atividade vulcânica moldaram essas terras, e um dos capítulos dessa história é recente: entre 1730 e 1736, dezenas de aberturas vulcânicas entraram em atividade, cobrindo cerca de 200 km² com lava e destruindo campos, estradas e povoados.",
@@ -1352,7 +1495,6 @@
     },
     "captions": {
       "en-US": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "en-GB": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "en-CA": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "de-DE": "Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
       "fr-FR": "El Golfo, Lanzarote, Îles Canaries, Espagne",
@@ -1360,12 +1502,10 @@
       "es-ES": "El Golfo, Lanzarote, Islas Canarias, España",
       "pt-BR": "",
       "ja-JP": "黒い海岸に寄せる白波",
-      "zh-CN": "",
-      "en-IN": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain"
+      "zh-CN": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260924_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260921_2300%22",
       "en-CA": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260924_0400%22",
       "de-DE": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Lanzarote+Espagne&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
@@ -1373,12 +1513,10 @@
       "es-ES": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260930_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&mkt=pt-br",
       "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%ad%e3%83%bc%e3%83%86%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260923_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%85%b0%e8%90%a8%e7%bd%97%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260921_1830%22"
+      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%85%b0%e8%90%a8%e7%bd%97%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.ElGolfo_EN-US9261454857",
-      "en-GB": "/th?id=OHR.ElGolfo_EN-GB9192637782",
       "en-CA": "/th?id=OHR.ElGolfo_EN-CA7672858081",
       "de-DE": "/th?id=OHR.ElGolfo_DE-DE2094132875",
       "fr-FR": "/th?id=OHR.ElGolfo_FR-FR8422872224",
@@ -1386,8 +1524,7 @@
       "es-ES": "/th?id=OHR.ElGolfo_ES-ES8850772045",
       "pt-BR": "/th?id=OHR.ElGolfo_PT-BR1964322549",
       "ja-JP": "/th?id=OHR.ElGolfo_JA-JP7674043520",
-      "zh-CN": "/th?id=OHR.ElGolfo_ZH-CN8329995759",
-      "en-IN": "/th?id=OHR.ElGolfo_EN-IN8071994539"
+      "zh-CN": "/th?id=OHR.ElGolfo_ZH-CN8329995759"
     }
   },
   "TolkienWeek": {
@@ -1412,26 +1549,6 @@
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
@@ -1446,32 +1563,32 @@
       "en-US": "Beyond the last page. Tolkien Week",
       "en-GB": "Beyond the last page. Tolkien Week",
       "en-CA": "Beyond the last page. Tolkien Week",
+      "pt-BR": "Muito além da última página",
+      "en-IN": "Beyond the last page. Tolkien Week",
       "de-DE": "Willkommen in Hobbiton. Hobbit-Tag",
       "fr-FR": "Au-delà de la dernière page. Journée du Hobbit",
       "it-IT": "Oltre l'ultima pagina",
-      "es-ES": "Donde lo pequeño se hace grande. Decorado de películas de Hobbiton, Matamata, Nueva Zelanda",
-      "pt-BR": "Muito além da última página",
-      "en-IN": "Beyond the last page. Tolkien Week"
+      "es-ES": "Donde lo pequeño se hace grande. Decorado de películas de Hobbiton, Matamata, Nueva Zelanda"
     },
     "copyrights": {
       "en-US": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
       "en-GB": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
       "en-CA": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "pt-BR": "Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)",
+      "en-IN": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
       "de-DE": "Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland (© djr-photography/Shutterstock)",
       "fr-FR": "Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)",
       "it-IT": "La Casa di Hobbit presso il Set Cinematografico di Hobbiton, Matamata, Nuova Zelanda (© djr-photography/Shutterstock)",
-      "es-ES": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda (© djr-photography/Shutterstock)",
-      "pt-BR": "Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)",
-      "en-IN": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)"
+      "es-ES": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda (© djr-photography/Shutterstock)"
     },
     "descs": {
       "en-US": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens, and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
       "en-GB": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
       "en-CA": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
+      "en-IN": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
       "de-DE": "Heute wird der Hobbit-Tag gefeiert, ein Anlass, der Fans von J. R. R. Tolkien auf der ganzen Welt zusammenbringt. Kaum ein Ort verkörpert die Magie seiner Geschichten so eindrucksvoll wie das Hobbit-Haus am Filmset von Hobbiton in Matamata. Eingebettet in die sanften Hügel Neuseelands wirkt die Kulisse, als wäre sie direkt aus den Seiten eines Fantasyromans in die Wirklichkeit versetzt worden.",
       "fr-FR": "Dans les collines verdoyantes de Matamata, en Nouvelle-Zélande, un décor de cinéma est devenu un lieu à part entière. Installé sur une ferme ovine encore en activité, Hobbiton est né lorsqu’une équipe de repérage des films « Le Seigneur des anneaux » découvrit, en 1998, un paysage remarquablement proche de la Comté imaginée par Tolkien. Les courbes du relief, les prairies parsemées de moutons et la lumière changeante semblaient déjà raconter une histoire. Des portes rondes, des jardins soignés et des cheminées à volutes ont ensuite achevé la métamorphose.",
       "es-ES": "Casi todos los lugares célebres los construyó la historia; este lo construyó un relato. El decorado de Hobbiton está en Matamata (Nueva Zelanda), sobre una granja de ovejas que en 1998 llamó la atención de los localizadores de El Señor de los Anillos: las colinas ya parecían la Comarca y solo faltaron puertas redondas, huertos ordenados y chimeneas humeantes.",
-      "en-IN": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
       "it-IT": "Quasi tutti i luoghi celebri li ha costruiti la storia; questo l'ha costruito un racconto. Il set di Hobbiton si trova a Matamata (Nuova Zelanda), in una fattoria di pecore che nel 1998 colpì chi cercava le location per Il Signore degli Anelli: le colline sembravano già la Contea, sono bastate porte rotonde, orti in ordine e comignoli fumanti.",
       "pt-BR": "Alguns lugares entram para a história. Hobbiton, em Matamata, Nova Zelândia, foi feito para dar vida a uma. Quando produtores de “O Senhor dos Anéis” procuravam locações em 1998, encontraram ali colinas verdes que já pareciam pertencer ao Condado. A equipe acrescentou portas redondas, jardins e chaminés, e o cenário foi reconstruído para os filmes de “O Hobbit”. Uma locação temporária acabou virando atração para fãs do mundo inteiro."
     },
@@ -1480,10 +1597,6 @@
       "en-US": "Tolkien Week",
       "en-GB": "Tolkien Week",
       "en-CA": "Tolkien Week",
-      "de-DE": "Hobbit-Tag",
-      "fr-FR": "Journée du Hobbit",
-      "it-IT": "",
-      "es-ES": "Decorado de películas de Hobbiton, Matamata, Nueva Zelanda",
       "pt-BR": "",
       "en-IN": "Tolkien Week"
     },
@@ -1491,10 +1604,6 @@
       "en-US": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0700%22",
       "en-GB": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_2300%22",
       "en-CA": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Hobbit-Tag&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+du+Hobbit&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Set+cinematografico+di+Hobbiton&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Hobbiton&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Semana+Tolkien+e+Dia+Hobbit&form=hpcapt&mkt=pt-br",
       "en-IN": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_1830%22"
     },
@@ -1502,10 +1611,6 @@
       "en-US": "/th?id=OHR.TolkienWeek_EN-US7313336185",
       "en-GB": "/th?id=OHR.TolkienWeek_EN-GB9361035480",
       "en-CA": "/th?id=OHR.TolkienWeek_EN-CA7225706887",
-      "de-DE": "/th?id=OHR.TolkienWeek_DE-DE1744424672",
-      "fr-FR": "/th?id=OHR.TolkienWeek_FR-FR8060088549",
-      "it-IT": "/th?id=OHR.TolkienWeek_IT-IT7744314580",
-      "es-ES": "/th?id=OHR.TolkienWeek_ES-ES8577009856",
       "pt-BR": "/th?id=OHR.TolkienWeek_PT-BR2214990560",
       "en-IN": "/th?id=OHR.TolkienWeek_EN-IN8323924749"
     }
@@ -1527,11 +1632,6 @@
         "flag": "gb"
       },
       {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
@@ -1547,21 +1647,6 @@
         "flag": "es"
       },
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
         "code": "en-IN",
         "name": "IN",
         "flag": "in"
@@ -1570,36 +1655,36 @@
     "titles": {
       "en-US": "The golden season. Autumn equinox",
       "en-GB": "The golden season. Autumn equinox",
-      "en-CA": "The golden season. Autumn equinox",
       "de-DE": "Die goldene Jahreszeit. September-Tagundnachtgleiche",
       "fr-FR": "La saison dorée. Équinoxe d’automne",
       "es-ES": "La estación dorada. Equinoccio de otoño",
+      "en-IN": "The golden season. Autumn equinox",
+      "en-CA": "The golden season. Autumn equinox",
       "pt-BR": "O ponto de equilíbrio",
       "ja-JP": "黄金色に染まる秋の森",
-      "zh-CN": "金色时节",
-      "en-IN": "The golden season. Autumn equinox"
+      "zh-CN": "金色时节"
     },
     "copyrights": {
       "en-US": "Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
       "en-GB": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
-      "en-CA": "Fall aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
       "de-DE": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
       "fr-FR": "Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis (© Danita Delimont/Shutterstock)",
       "es-ES": "Álamos de otoño cerca de Guardsman Pass, Utah, EE. UU. (© Danita Delimont/Shutterstock)",
+      "en-IN": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
+      "en-CA": "Fall aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
       "pt-BR": "Álamos perto do Guardsman Pass, Utah, Estados Unidos (© Danita Delimont/Shutterstock)",
       "ja-JP": "アスペンの森, 米国 ユタ州 (© Danita Delimont/Shutterstock)",
-      "zh-CN": "瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)",
-      "en-IN": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)"
+      "zh-CN": "瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)"
     },
     "descs": {
       "en-US": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey toward winter begins.",
       "en-GB": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
-      "en-CA": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
       "de-DE": "Die September-Tagundnachtgleiche markiert in Deutschland den astronomischen Beginn des Herbstes. An diesem Tag stehen Tag und Nacht nahezu im Gleichgewicht, bevor die Nächte wieder länger werden. Seit Jahrhunderten gilt dieser Zeitpunkt als Wendepunkt im Jahreslauf. Die Natur bereitet sich auf die kalte Jahreszeit vor und vielerorts beginnt die Landschaft ihr herbstliches Farbenspiel.",
       "fr-FR": "Chaque année, vers la fin de septembre, l’équinoxe d’automne marque un subtil basculement dans l’hémisphère Nord. Le Soleil semble alors franchir l’équateur céleste vers le sud et le jour s’accorde presque à la nuit. Cet instant d’équilibre annonce la lente diminution de la lumière et l’approche progressive de l’hiver.",
       "es-ES": "Los álamos temblones tiñen de oro las laderas próximas a Guardsman Pass, en Utah (EE. UU.), justo cuando el hemisferio norte estrena estación. El otoño ha entrado en España esta madrugada, a las 02:05 en hora peninsular, según el Observatorio Astronómico Nacional: el Sol cruza el ecuador celeste rumbo al sur y el día y la noche pasan a durar casi lo mismo.",
-      "ja-JP": "今日の画像は、米国ユタ州ガーズマン・パス付近に広がるアスペンの森です。毎年秋になると、山々を鮮やかな黄金色に染め上げます。アスペンはヤマナラシ類の樹木で、白い樹皮と、わずかな風にも揺れて音を立てる葉で知られています。多くのアスペンは、地下でつながった根から新しい木を伸ばすため、隣接する木々が同じ遺伝情報を持つことがあります。その繁殖方法や成長の速さ、環境への高い適応力により、アスペンは山火事や伐採、地震の後にも素早く森林を再生させてくれる樹木としても知られています。",
       "en-IN": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
+      "en-CA": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
+      "ja-JP": "今日の画像は、米国ユタ州ガーズマン・パス付近に広がるアスペンの森です。毎年秋になると、山々を鮮やかな黄金色に染め上げます。アスペンはヤマナラシ類の樹木で、白い樹皮と、わずかな風にも揺れて音を立てる葉で知られています。多くのアスペンは、地下でつながった根から新しい木を伸ばすため、隣接する木々が同じ遺伝情報を持つことがあります。その繁殖方法や成長の速さ、環境への高い適応力により、アスペンは山火事や伐採、地震の後にも素早く森林を再生させてくれる樹木としても知られています。",
       "pt-BR": "O equinócio é uma espécie de troca de turno planetária. Hoje, o Sol cruza o equador celeste, a linha imaginária que prolonga o equador da Terra pelo céu, rumo ao sul, deixando os dois hemisférios com períodos de luz e escuridão quase equilibrados. A partir daqui, o Hemisfério Sul entra na primavera, com dias cada vez mais longos, enquanto o Norte segue para o outono, com dias mais curtos.",
       "zh-CN": "在犹他州瓜兹曼山口附近，季节的变化以金色写满山坡。为美国西部染上色彩的山杨中，有许多是美洲山杨——北美分布最广的本土树种。眼前看似由一棵棵独立树木组成的森林，往往有着截然不同的真相：许多山杨形成彼此相连的无性系群落，树干从共享的根系网络中长出，并与相邻树干拥有相同的遗传密码。"
     },
@@ -1615,122 +1700,43 @@
     "captions": {
       "en-US": "Autumn equinox",
       "en-GB": "Autumn equinox",
-      "en-CA": "Autumn equinox",
       "de-DE": "September-Tagundnachtgleiche",
       "fr-FR": "Équinoxe d’automne",
       "es-ES": "Equinoccio de otoño",
-      "pt-BR": "",
-      "ja-JP": "黄金色に染まる秋の森",
-      "zh-CN": "",
       "en-IN": "Autumn equinox"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=september+equinox&form=hpcapt&filters=HpDate%3a%2220260922_0700%22",
       "en-GB": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_2300%22",
-      "en-CA": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_0400%22",
       "de-DE": "https://www.bing.com/search?q=September-Tagundnachtgleiche&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
       "fr-FR": "https://www.bing.com/search?q=%c3%a9quinoxe+de+septembre&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
       "es-ES": "https://www.bing.com/search?q=Equinoccio+de+oto%c3%b1o&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=equinocio+setembro&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%82%b9%e3%83%9a%e3%83%b3%e3%81%ae%e6%a3%ae&form=hpcapt&filters=HpDate%3a%2220260921_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%93%9c%e5%85%b9%e6%9b%bc%e5%b1%b1%e5%8f%a3%e9%99%84%e8%bf%91%e7%9a%84%e7%a7%8b%e6%97%a5%e5%b1%b1%e6%9d%a8%e6%9e%97&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_1830%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.FallAspens_EN-US7211031109",
       "en-GB": "/th?id=OHR.FallAspens_EN-GB9268931266",
-      "en-CA": "/th?id=OHR.FallAspens_EN-CA6568286298",
       "de-DE": "/th?id=OHR.FallAspens_DE-DE1894805045",
       "fr-FR": "/th?id=OHR.FallAspens_FR-FR8326000854",
       "es-ES": "/th?id=OHR.FallAspens_ES-ES8557164613",
-      "pt-BR": "/th?id=OHR.FallAspens_PT-BR3565559044",
-      "ja-JP": "/th?id=OHR.FallAspens_JA-JP7201900997",
-      "zh-CN": "/th?id=OHR.FallAspens_ZH-CN7235054933",
       "en-IN": "/th?id=OHR.FallAspens_EN-IN8196194133"
     }
   },
-  "GroomingOtter": {
-    "name": "GroomingOtter",
-    "urlbase": "/th?id=OHR.GroomingOtter_EN-US6710084372",
-    "date": "20260921",
-    "dateFormatted": "September 21, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Life between fur and sea. Sea Otter Awareness Week",
-      "en-CA": "Life between fur and sea. Sea Otter Awareness Week",
-      "en-GB": "Life between fur and sea. Sea otter, Monterey Bay, California, United States",
-      "de-DE": "Leben zwischen Fell und Meer. Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA",
-      "fr-FR": "La vie entre mer et fourrure. Loutre de mer, Baie de Monterey, Californie, États-Unis",
-      "it-IT": "Vita tra pelliccia e mare",
-      "es-ES": "Limpieza facial \"nutri-a-tiva\". Nutria marina, Bahía de Monterey, California, EE. UU.",
-      "pt-BR": "A pequena guardiã dos oceanos",
-      "ja-JP": "今週はラッコ啓蒙週間",
-      "zh-CN": "皮毛与海洋之间的生命",
-      "en-IN": "Life between fur and sea. Sea otter, Monterey Bay, California, United States"
-    },
-    "copyrights": {
-      "en-US": "Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)",
-      "en-CA": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
-      "en-GB": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
-      "de-DE": "Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA (© Suzi Eszterhas/Minden Pictures)",
-      "fr-FR": "Loutre de mer peignant son pelage, Baie de Monterey, Californie, États-Unis (© Suzi Eszterhas/Minden Pictures)",
-      "it-IT": "Lontra marina, baia di Monterey, California, USA (© Suzi Eszterhas/Minden Pictures)",
-      "es-ES": "Nutria marina acicalándose, Bahía de Monterey, California, EE. UU. (© Suzi Eszterhas/Minden Pictures)",
-      "pt-BR": "Lontra-marinha na Baía de Monterey, Califórnia, EUA (© Suzi Eszterhas/Minden Pictures)",
-      "ja-JP": "ラッコ, 米国 カリフォルニア州 (© Suzi Eszterhas/Minden Pictures)",
-      "zh-CN": "正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)",
-      "en-IN": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)"
-    },
-    "descs": {
-      "en-US": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
-      "en-CA": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
-      "en-GB": "Few animals are both expert groomers and guardians of underwater forests. In today's image, a sea otter grooms its fur in Monterey Bay, California—a daily ritual essential to its survival. Sea otters have the densest fur of any animal, with up to one million hairs per square inch. Unlike seals and whales, they have little blubber, so their thick, air-trapping coat provides insulation against the cold Pacific.",
-      "de-DE": "Seeotter verbringen einen großen Teil ihres Lebens im Wasser und widmen viele Stunden täglich der sorgfältigen Fellpflege. In der Monterey Bay im US-Bundesstaat Kalifornien kann man diese geschickten Meeressäuger oft beobachten, wie sie auf dem Rücken treiben und ihr dichtes Fell reinigen. Dabei streifen, kämmen und lockern sie die Haare mit ihren Pfoten, damit Luft zwischen den Fellschichten eingeschlossen bleibt. Dieser natürliche Schutz ist lebenswichtig, denn Seeotter besitzen keine isolierende Fettschicht wie viele andere Meeressäuger.",
-      "fr-FR": "Dans les eaux fraîches de la baie de Monterey, en Californie (États-Unis), une loutre de mer flotte paisiblement à la surface, occupée à un rituel essentiel à sa survie : elle nettoie et peigne soigneusement son pelage, le plus dense de tout le règne animal. Cette attention constante lui permet de retenir de minuscules bulles d’air qui l’isolent du froid des eaux du Pacifique. Contrairement aux phoques ou aux baleines, elle ne peut compter sur une épaisse réserve de graisse pour conserver sa chaleur.",
-      "es-ES": "Una nutria marina se acicala en la bahía de Monterey, en California (EE. UU.), y no lo hace por presumir. A diferencia de focas y ballenas, apenas tiene grasa aislante: sobrevive gracias al pelaje más denso del reino animal, y solo conserva el calor si lo limpia y lo airea sin descanso, atrapando burbujas que forman una capa impermeable.",
-      "ja-JP": "今日の画像は、米国カリフォルニア州のモントレー湾で毛づくろいをするラッコ。アザラシやクジラは、皮下脂肪によって海でも体温を保ちますが、ラッコには皮下脂肪がほとんどありません。その代わり、全身を約 8 億本もの体毛が覆っており、その密な体毛の間に空気の層を作ることで、体温を保っています。かつては毛皮目的の乱獲によって個体数が大きく減少しましたが、保護活動によって徐々に回復しています。",
-      "en-IN": "Few animals are both expert groomers and guardians of underwater forests. In today's image, a sea otter grooms its fur in Monterey Bay, California—a daily ritual essential to its survival. Sea otters have the densest fur of any animal, with up to one million hairs per square inch. Unlike seals and whales, they have little blubber, so their thick, air-trapping coat provides insulation against the cold Pacific.",
-      "it-IT": "Una lontra marina si liscia il pelo nella baia di Monterey, in California (USA), e non lo fa per vanità. A differenza di foche e balene ha pochissimo grasso isolante: sopravvive grazie alla pelliccia più densa del regno animale e trattiene il calore solo se la pulisce e la aera continuamente, intrappolando bollicine d'aria che formano uno strato impermeabile.",
-      "pt-BR": "Parece que esta lontra-marinha em Monterey Bay, na Califórnia, está só cuidando do visual… Mas está fazendo a manutenção de um dos seus equipamentos mais importantes. Ao contrário de focas e baleias, ela não conta com uma espessa camada de gordura para conservar o calor. Em compensação, tem a pelagem mais densa de qualquer mamífero. Ao se pentear, espalha óleos naturais e prende ar entre os fios, criando uma barreira contra a água gelada do Pacífico.",
-      "zh-CN": "很少有动物既能称得上梳理皮毛的高手，又是水下森林的守护者。正因如此，每年9月最后一个完整周举行的海獭认知周鼓励人们进一步了解这些非凡的海洋哺乳动物，以及它们面临的种种挑战。"
-    },
-    "quickFacts": {
-      "zh-CN": "海獭每平方英寸可长有多达100万根毛，因此拥有所有哺乳动物中最浓密的皮毛。"
-    },
-    "captions": {
-      "en-US": "Sea Otter Awareness Week",
-      "en-CA": "Sea Otter Awareness Week"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=sea+otter+awareness+week&form=hpcapt&filters=HpDate%3a%2220260921_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Sea+Otter+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260921_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.GroomingOtter_EN-US6710084372",
-      "en-CA": "/th?id=OHR.GroomingOtter_EN-CA5802555233"
-    }
-  },
-  "AdelieTeacher": {
-    "name": "AdelieTeacher",
-    "urlbase": "/th?id=OHR.AdelieTeacher_EN-GB2790518533",
-    "date": "20261004",
-    "dateFormatted": "October 04, 2026",
+  "DanxiaLandform": {
+    "name": "DanxiaLandform",
+    "urlbase": "/th?id=OHR.DanxiaLandform_EN-GB2873051697",
+    "date": "20261005",
+    "dateFormatted": "October 05, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
       },
       {
         "code": "de-DE",
@@ -1774,88 +1780,82 @@
       }
     ],
     "titles": {
-      "en-GB": "Taking the plunge, one lesson at a time. World Teachers' Day",
-      "de-DE": "Lehren der Natur. Tag des Lehrers",
-      "fr-FR": "Plonger dans sa leçon. Journée mondiale des enseignant(e)s",
-      "it-IT": "Un tuffo, una lezione",
-      "es-ES": "Al agua, lección a lección. Día Mundial de los Docentes",
-      "pt-BR": "Mergulho valendo nota",
-      "ja-JP": "海へ飛び込もうとするペンギンたち",
-      "zh-CN": "南极洲的阿德利企鹅",
-      "en-IN": "Slide into adventure. Adélie penguins, Antarctica",
-      "en-US": "Taking the plunge, one lesson at a time. Adélie penguins, Antarctica",
-      "en-CA": "Taking the plunge, one lesson at a time. Adélie penguins, Antarctica"
+      "en-GB": "Earth's story in stripes. International Geodiversity Day",
+      "en-CA": "Earth's story in stripes. International Geodiversity Day",
+      "de-DE": "Erdgeschichte in bunten Streifen. Zhangye-Danxia-Geopark, Gansu, China",
+      "fr-FR": "La mémoire de la Terre. Journée internationale de la géodiversité",
+      "it-IT": "La Terra a strisce",
+      "es-ES": "La Tierra contada a rayas. Día Internacional de la Geodiversidad",
+      "pt-BR": "Geologia em cores",
+      "ja-JP": "今日は国際ジオダイバーシティデー",
+      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国",
+      "en-IN": "Earth's story in stripes. International Geodiversity Day",
+      "en-US": "Earth's story in stripes. Danxia landform, Zhangye National Geopark, Gansu, China"
     },
     "copyrights": {
-      "en-GB": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
-      "de-DE": "Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)",
-      "fr-FR": "Manchots Adélie, Antarctique (© Otto Plantema/Minden Pictures)",
-      "it-IT": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
-      "es-ES": "Pingüinos de Adelia, Antártida (© Otto Plantema/Minden Pictures)",
-      "pt-BR": "Pinguins-de-adélia, Antártica (© Otto Plantema/Minden Pictures)",
-      "ja-JP": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
-      "zh-CN": "南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)",
-      "en-IN": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
-      "en-US": "© Otto Plantema/Minden Pictures",
-      "en-CA": "© Otto Plantema/Minden Pictures"
+      "en-GB": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "en-CA": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "fr-FR": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
+      "it-IT": "Rilievi Danxia, Geoparco nazionale di Zhangye, Gansu, Cina (© Weiquan Lin/Getty Images)",
+      "es-ES": "Relieve Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
+      "pt-BR": "Formações de Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
+      "ja-JP": "張掖国家地質公園, 中国 (© Weiquan Lin/Getty Images)",
+      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)",
+      "en-IN": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "en-US": "© Weiquan Lin/Getty Images"
     },
     "descs": {
-      "en-GB": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "de-DE": "Am 5. Oktober rückt der Tag der Lehrer die Bedeutung von Wissen, Zusammenarbeit und gegenseitiger Unterstützung in den Mittelpunkt. Auch in der Natur finden sich spannende Beispiele dafür, wie Gemeinschaft zum Erfolg beitragen kann. Adeliepinguine leben in großen Kolonien an den Küsten der Antarktis und meistern ihren Alltag in einer Umgebung, die zu den lebensfeindlichsten der Erde zählt. Dabei profitieren sie von ihrem Zusammenhalt und ihrer Fähigkeit, sich an extreme Bedingungen anzupassen.",
-      "fr-FR": "À l'occasion de la Journée mondiale des enseignant(e)s, c'est un drôle de professeur qui prend la parole : le manchot Adélie, haut d'à peine 70 centimètres, debout sur la glace antarctique. Son nom rend hommage à Adèle Dumont d'Urville, épouse de l'explorateur français qui croisa ces oiseaux pour la première fois en 1840.",
-      "es-ES": "¿Qué puede enseñarnos un pingüino de Adelia, un ave de apenas setenta centímetros? Bastante. En el Día Mundial de los Docentes, esta especie de las costas de la Antártida ofrece una lección de ingenio, resistencia y algo de picaresca. Debe su nombre a Adèle, esposa del explorador francés Jules Dumont d'Urville, que dio con la especie durante una expedición en 1840.",
-      "ja-JP": "今日の画像は、南極大陸周辺に生息するアデリーペンギンのグループ。アデリーペンギンは、体長 60 ～ 70cm、体重約 5kg という中型のペンギンです。海中を時速約 14kmで泳ぎ回りながら、餌を捕まえたり、捕食者から逃れたりします。地上の雪原を移動する際は、他のペンギン同様腹ばいになって氷上を滑って移動することがあります。この移動方法は「トボガン」と呼ばれており、北米の先住民が用いていたソリを意味する言葉にちなんで名づけられました。",
-      "en-IN": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. The Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "en-US": "What can a 28-inch-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience, and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "en-CA": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "it-IT": "Che cosa può insegnarci un pinguino di Adelia, un uccello di appena settanta centimetri? Parecchio. Nella Giornata mondiale degli insegnanti, questa specie delle coste antartiche offre una lezione di ingegno, resistenza e un pizzico di furbizia. Deve il suo nome ad Adèle, moglie dell'esploratore francese Jules Dumont d'Urville, che la scoprì durante la spedizione del 1840.",
-      "pt-BR": "O que um pássaro de uns 70 centímetros ensina sobre a vida? Mais do que parece. Ele não usa livros e não passa lição de casa, mas, no Dia Mundial dos Professores, o pinguim-de-adélia ensina que criatividade, persistência e adaptação fazem toda a diferença. Seu nome homenageia Adèle, esposa do explorador francês que liderou a expedição que encontrou a espécie em 1840.",
-      "zh-CN": "一只身高28英寸的鸟能教给我们哪些人生道理？非常多。在世界教师日这一天，阿德利企鹅带来了一份充满足智多谋、坚韧不拔和些许顽皮的课程计划。这一物种分布于南极海岸，以法国探险家儒勒·迪蒙·迪维尔的妻子阿黛尔之名命名；在1840年的一次远征中，人们发现了这些企鹅。"
+      "en-GB": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "en-CA": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "de-DE": "Im Zhangye-Danxia-Geopark in der chinesischen Provinz Gansu wirken die Hügel und Felsformationen, als wären sie mit Farbe bemalt. Über Millionen von Jahren lagerten sich unterschiedliche Sedimente ab, die durch geologische Prozesse angehoben und freigelegt wurden. So entstanden die auffälligen Schichten in Rot, Orange, Gelb und weiteren Farbtönen, die heute zu den bekanntesten Naturwundern Chinas zählen. Je nach Lichteinfall verändern sich die Farben und verleihen der Landschaft immer wieder ein anderes Erscheinungsbild.",
+      "fr-FR": "Et si une chaîne de montagnes pouvait vous raconter son histoire à travers ses couleurs ? Au parc géologique national de Zhangye, dans la province du Gansu en Chine, c'est exactement ce que font les roches. Des crêtes ondulent à perte de vue, striées de rouge, d'orange, d'ocre et de brun — une palette que nul artiste n'aurait osé inventer.",
+      "es-ES": "En el Geoparque Nacional de Zhangye, en Gansu (China), las montañas cuentan su historia geológica a rayas: las lomas se suceden en bandas rojas, naranjas, amarillas y ocres. Es el relieve Danxia, formado por capas sedimentarias que los movimientos tectónicos levantaron y plegaron, y que la erosión terminó de esculpir en crestas, barrancos y farallones.",
+      "ja-JP": "今日 10 月 6 日は国際ジオダイバーシティデー。鉱物や岩石、土壌など、非生物の自然の多様性について理解を深めることを目的にユネスコ総会が制定しました。そして、今日の画像は中国甘粛省の張掖国家地質公園に広がる丹霞地形です。色鮮やかな地層が重なり、虹のような独特の景観をつくり出しています。こうした色彩には、岩石に含まれる鉄などの鉱物が関係しています。さらに、長い年月にわたる地殻変動や風雨による侵食が加わることで、現在の壮大な地形が形成されました。公園は、地球の歴史と多様な地形の価値が認められ、2020 年にユネスコ世界ジオパークに認定されました。",
+      "en-IN": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "en-US": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown, and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later uplifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies, and peaks.",
+      "it-IT": "Nel Geoparco nazionale di Zhangye, nel Gansu (Cina), le montagne raccontano la propria storia geologica a strisce: le colline si susseguono in bande rosse, arancioni, gialle e ocra. È il rilievo Danxia, formato da strati sedimentari che i movimenti tettonici hanno sollevato e piegato e che l'erosione ha poi scolpito in creste, calanchi e pareti.",
+      "pt-BR": "Como ler a história de uma montanha sem abrir um livro? Na China, basta olhar para o chão. No Geoparque Nacional de Zhangye, na região de Gansu, enormes faixas de vermelho, laranja, amarelo e marrom atravessam o relevo como páginas empilhadas de uma história que leva milhões de anos para ser escrita. Movimentos tectônicos elevaram e dobraram camadas de rochas sedimentares acumuladas, enquanto chuva, vento e outros processos de intemperismo e erosão esculpiram cristas, paredões, ravinas e picos.",
+      "zh-CN": "如果一座山能用一道道条纹向你展示它的地质历史，会是什么样？在中国的张掖国家地质公园，岩石正是如此。红色、橙色、黄色、棕色以及其他大地色调的条带在山脊间绵延起伏。这种壮丽景观被称为丹霞地貌，由地质年代中沉积形成的多层沉积岩塑造而成。后来，构造力使岩石抬升并发生褶皱，而风化和侵蚀则将它们雕琢成山脊、峭壁、沟壑和山峰。"
     },
     "quickFacts": {
-      "en-US": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
-      "en-GB": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
-      "en-CA": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
-      "de-DE": "Adeliepinguine haben keine Zähne, sondern scharfe, nach hinten gerichtete Papillen auf Zunge und Gaumen, die ihnen helfen, ihre Beute festzuhalten.",
-      "fr-FR": "Les manchots Adélie n'ont pas de dents, mais possèdent à la place des petites pointes acérées et recourbées vers l'arrière, appelées papilles, sur leur langue et le palais.",
-      "it-IT": "I pinguini di Adelia non hanno denti: su lingua e palato presentano spine affilate rivolte verso l'interno, chiamate papille.",
-      "es-ES": "Los pingüinos de Adelia no tienen dientes: en la lengua y el paladar presentan púas afiladas orientadas hacia atrás, llamadas papilas.",
-      "ja-JP": "ペンギンには歯がありません。",
-      "zh-CN": "阿德利企鹅没有牙齿，但它们的舌头和上腭长有被称为乳突的尖锐倒刺。",
-      "en-IN": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths."
+      "zh-CN": "张掖地质公园拥有577处文化遗址，展现当地历史及包括裕固族在内的多个族群文化。"
     },
     "captions": {
-      "en-GB": "World Teachers' Day",
-      "de-DE": "Tag des Lehrers",
-      "fr-FR": "Journée mondiale des enseignant(e)s",
+      "en-GB": "International Geodiversity Day",
+      "en-CA": "International Geodiversity Day",
+      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China",
+      "fr-FR": "Journée internationale de la géodiversité",
       "it-IT": "",
-      "es-ES": "Día Mundial de los Docentes",
+      "es-ES": "Día Internacional de la Geodiversidad",
       "pt-BR": "",
-      "ja-JP": "海へ飛び込もうとするペンギンたち",
+      "ja-JP": "今日は国際ジオダイバーシティデー",
       "zh-CN": "",
-      "en-IN": "Adélie penguins, Antarctica"
+      "en-IN": "International Geodiversity Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Tag+des+Lehrers&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+degli+insegnanti&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Docentes&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=dia+mundial+dos+professores&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%87%e3%83%aa%e3%83%bc%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261004_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%95%99%e5%b8%88%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Adelie+penguins&form=hpcapt&filters=HpDate%3a%2220261004_1830%22"
+      "en-GB": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_2300%22",
+      "en-CA": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Zhangye-Danxia-Geopark&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=journ%c3%a9e+internationale+de+la+g%c3%a9odiversit%c3%a9&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+internazionale+della+geodiversit%c3%a0&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+la+Geodiversidad&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Geodiversidade&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%b8%e3%82%aa%e3%83%80%e3%82%a4%e3%83%90%e3%83%bc%e3%82%b7%e3%83%86%e3%82%a3%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220261005_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e5%9c%b0%e8%b4%a8%e5%a4%9a%e6%a0%b7%e6%80%a7%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AdelieTeacher_EN-GB2790518533",
-      "de-DE": "/th?id=OHR.AdelieTeacher_DE-DE4553591722",
-      "fr-FR": "/th?id=OHR.AdelieTeacher_FR-FR4489383327",
-      "it-IT": "/th?id=OHR.AdelieTeacher_IT-IT0908380283",
-      "es-ES": "/th?id=OHR.AdelieTeacher_ES-ES0045236370",
-      "pt-BR": "/th?id=OHR.AdelieTeacher_PT-BR7440299182",
-      "ja-JP": "/th?id=OHR.AdelieTeacher_JA-JP9090254921",
-      "zh-CN": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679",
-      "en-IN": "/th?id=OHR.AdelieTeacher_EN-IN7367199250"
+      "en-GB": "/th?id=OHR.DanxiaLandform_EN-GB2873051697",
+      "en-CA": "/th?id=OHR.DanxiaLandform_EN-CA0294271100",
+      "de-DE": "/th?id=OHR.DanxiaLandform_DE-DE4675912635",
+      "fr-FR": "/th?id=OHR.DanxiaLandform_FR-FR1547265147",
+      "it-IT": "/th?id=OHR.DanxiaLandform_IT-IT8922583550",
+      "es-ES": "/th?id=OHR.DanxiaLandform_ES-ES4557489111",
+      "pt-BR": "/th?id=OHR.DanxiaLandform_PT-BR7632834539",
+      "ja-JP": "/th?id=OHR.DanxiaLandform_JA-JP9811731742",
+      "zh-CN": "/th?id=OHR.DanxiaLandform_ZH-CN2386060246",
+      "en-IN": "/th?id=OHR.DanxiaLandform_EN-IN7469232165"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -2637,6 +2637,78 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "GroomingOtter": {
+    "name": "GroomingOtter",
+    "urlbase": "/th?id=OHR.GroomingOtter_EN-US6710084372",
+    "date": "20260921",
+    "dateFormatted": "September 21, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Life between fur and sea. Sea Otter Awareness Week",
+      "en-CA": "Life between fur and sea. Sea Otter Awareness Week",
+      "en-GB": "Life between fur and sea. Sea otter, Monterey Bay, California, United States",
+      "de-DE": "Leben zwischen Fell und Meer. Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA",
+      "fr-FR": "La vie entre mer et fourrure. Loutre de mer, Baie de Monterey, Californie, États-Unis",
+      "it-IT": "Vita tra pelliccia e mare",
+      "es-ES": "Limpieza facial \"nutri-a-tiva\". Nutria marina, Bahía de Monterey, California, EE. UU.",
+      "pt-BR": "A pequena guardiã dos oceanos",
+      "ja-JP": "今週はラッコ啓蒙週間",
+      "zh-CN": "皮毛与海洋之间的生命",
+      "en-IN": "Life between fur and sea. Sea otter, Monterey Bay, California, United States"
+    },
+    "copyrights": {
+      "en-US": "Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)",
+      "en-CA": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
+      "en-GB": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
+      "de-DE": "Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA (© Suzi Eszterhas/Minden Pictures)",
+      "fr-FR": "Loutre de mer peignant son pelage, Baie de Monterey, Californie, États-Unis (© Suzi Eszterhas/Minden Pictures)",
+      "it-IT": "Lontra marina, baia di Monterey, California, USA (© Suzi Eszterhas/Minden Pictures)",
+      "es-ES": "Nutria marina acicalándose, Bahía de Monterey, California, EE. UU. (© Suzi Eszterhas/Minden Pictures)",
+      "pt-BR": "Lontra-marinha na Baía de Monterey, Califórnia, EUA (© Suzi Eszterhas/Minden Pictures)",
+      "ja-JP": "ラッコ, 米国 カリフォルニア州 (© Suzi Eszterhas/Minden Pictures)",
+      "zh-CN": "正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)",
+      "en-IN": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
+      "en-CA": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
+      "en-GB": "Few animals are both expert groomers and guardians of underwater forests. In today's image, a sea otter grooms its fur in Monterey Bay, California—a daily ritual essential to its survival. Sea otters have the densest fur of any animal, with up to one million hairs per square inch. Unlike seals and whales, they have little blubber, so their thick, air-trapping coat provides insulation against the cold Pacific.",
+      "de-DE": "Seeotter verbringen einen großen Teil ihres Lebens im Wasser und widmen viele Stunden täglich der sorgfältigen Fellpflege. In der Monterey Bay im US-Bundesstaat Kalifornien kann man diese geschickten Meeressäuger oft beobachten, wie sie auf dem Rücken treiben und ihr dichtes Fell reinigen. Dabei streifen, kämmen und lockern sie die Haare mit ihren Pfoten, damit Luft zwischen den Fellschichten eingeschlossen bleibt. Dieser natürliche Schutz ist lebenswichtig, denn Seeotter besitzen keine isolierende Fettschicht wie viele andere Meeressäuger.",
+      "fr-FR": "Dans les eaux fraîches de la baie de Monterey, en Californie (États-Unis), une loutre de mer flotte paisiblement à la surface, occupée à un rituel essentiel à sa survie : elle nettoie et peigne soigneusement son pelage, le plus dense de tout le règne animal. Cette attention constante lui permet de retenir de minuscules bulles d’air qui l’isolent du froid des eaux du Pacifique. Contrairement aux phoques ou aux baleines, elle ne peut compter sur une épaisse réserve de graisse pour conserver sa chaleur.",
+      "es-ES": "Una nutria marina se acicala en la bahía de Monterey, en California (EE. UU.), y no lo hace por presumir. A diferencia de focas y ballenas, apenas tiene grasa aislante: sobrevive gracias al pelaje más denso del reino animal, y solo conserva el calor si lo limpia y lo airea sin descanso, atrapando burbujas que forman una capa impermeable.",
+      "ja-JP": "今日の画像は、米国カリフォルニア州のモントレー湾で毛づくろいをするラッコ。アザラシやクジラは、皮下脂肪によって海でも体温を保ちますが、ラッコには皮下脂肪がほとんどありません。その代わり、全身を約 8 億本もの体毛が覆っており、その密な体毛の間に空気の層を作ることで、体温を保っています。かつては毛皮目的の乱獲によって個体数が大きく減少しましたが、保護活動によって徐々に回復しています。",
+      "en-IN": "Few animals are both expert groomers and guardians of underwater forests. In today's image, a sea otter grooms its fur in Monterey Bay, California—a daily ritual essential to its survival. Sea otters have the densest fur of any animal, with up to one million hairs per square inch. Unlike seals and whales, they have little blubber, so their thick, air-trapping coat provides insulation against the cold Pacific.",
+      "it-IT": "Una lontra marina si liscia il pelo nella baia di Monterey, in California (USA), e non lo fa per vanità. A differenza di foche e balene ha pochissimo grasso isolante: sopravvive grazie alla pelliccia più densa del regno animale e trattiene il calore solo se la pulisce e la aera continuamente, intrappolando bollicine d'aria che formano uno strato impermeabile.",
+      "pt-BR": "Parece que esta lontra-marinha em Monterey Bay, na Califórnia, está só cuidando do visual… Mas está fazendo a manutenção de um dos seus equipamentos mais importantes. Ao contrário de focas e baleias, ela não conta com uma espessa camada de gordura para conservar o calor. Em compensação, tem a pelagem mais densa de qualquer mamífero. Ao se pentear, espalha óleos naturais e prende ar entre os fios, criando uma barreira contra a água gelada do Pacífico.",
+      "zh-CN": "很少有动物既能称得上梳理皮毛的高手，又是水下森林的守护者。正因如此，每年9月最后一个完整周举行的海獭认知周鼓励人们进一步了解这些非凡的海洋哺乳动物，以及它们面临的种种挑战。"
+    },
+    "quickFacts": {
+      "zh-CN": "海獭每平方英寸可长有多达100万根毛，因此拥有所有哺乳动物中最浓密的皮毛。"
+    },
+    "captions": {
+      "en-US": "Sea Otter Awareness Week",
+      "en-CA": "Sea Otter Awareness Week"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=sea+otter+awareness+week&form=hpcapt&filters=HpDate%3a%2220260921_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Sea+Otter+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260921_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.GroomingOtter_EN-US6710084372",
+      "en-CA": "/th?id=OHR.GroomingOtter_EN-CA5802555233"
     }
   },
   "CastelnaudPatrimoine": {
