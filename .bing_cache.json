@@ -1,4 +1,148 @@
 {
+  "DanxiaLandform": {
+    "name": "DanxiaLandform",
+    "urlbase": "/th?id=OHR.DanxiaLandform_EN-US5459628079",
+    "date": "20261006",
+    "dateFormatted": "October 06, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Earth's story in stripes. International Geodiversity Day",
+      "en-GB": "Earth's story in stripes. International Geodiversity Day",
+      "en-CA": "Earth's story in stripes. International Geodiversity Day",
+      "de-DE": "Erdgeschichte in bunten Streifen. Zhangye-Danxia-Geopark, Gansu, China",
+      "fr-FR": "La mémoire de la Terre. Journée internationale de la géodiversité",
+      "it-IT": "La Terra a strisce",
+      "es-ES": "La Tierra contada a rayas. Día Internacional de la Geodiversidad",
+      "pt-BR": "Geologia em cores",
+      "ja-JP": "今日は国際ジオダイバーシティデー",
+      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国",
+      "en-IN": "Earth's story in stripes. International Geodiversity Day"
+    },
+    "copyrights": {
+      "en-US": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "en-GB": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "en-CA": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "fr-FR": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
+      "it-IT": "Rilievi Danxia, Geoparco nazionale di Zhangye, Gansu, Cina (© Weiquan Lin/Getty Images)",
+      "es-ES": "Relieve Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
+      "pt-BR": "Formações de Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
+      "ja-JP": "張掖国家地質公園, 中国 (© Weiquan Lin/Getty Images)",
+      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)",
+      "en-IN": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)"
+    },
+    "descs": {
+      "en-US": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown, and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later uplifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies, and peaks.",
+      "en-GB": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "en-CA": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "de-DE": "Im Zhangye-Danxia-Geopark in der chinesischen Provinz Gansu wirken die Hügel und Felsformationen, als wären sie mit Farbe bemalt. Über Millionen von Jahren lagerten sich unterschiedliche Sedimente ab, die durch geologische Prozesse angehoben und freigelegt wurden. So entstanden die auffälligen Schichten in Rot, Orange, Gelb und weiteren Farbtönen, die heute zu den bekanntesten Naturwundern Chinas zählen. Je nach Lichteinfall verändern sich die Farben und verleihen der Landschaft immer wieder ein anderes Erscheinungsbild.",
+      "fr-FR": "Et si une chaîne de montagnes pouvait vous raconter son histoire à travers ses couleurs ? Au parc géologique national de Zhangye, dans la province du Gansu en Chine, c'est exactement ce que font les roches. Des crêtes ondulent à perte de vue, striées de rouge, d'orange, d'ocre et de brun — une palette que nul artiste n'aurait osé inventer.",
+      "es-ES": "En el Geoparque Nacional de Zhangye, en Gansu (China), las montañas cuentan su historia geológica a rayas: las lomas se suceden en bandas rojas, naranjas, amarillas y ocres. Es el relieve Danxia, formado por capas sedimentarias que los movimientos tectónicos levantaron y plegaron, y que la erosión terminó de esculpir en crestas, barrancos y farallones.",
+      "ja-JP": "今日 10 月 6 日は国際ジオダイバーシティデー。鉱物や岩石、土壌など、非生物の自然の多様性について理解を深めることを目的にユネスコ総会が制定しました。そして、今日の画像は中国甘粛省の張掖国家地質公園に広がる丹霞地形です。色鮮やかな地層が重なり、虹のような独特の景観をつくり出しています。こうした色彩には、岩石に含まれる鉄などの鉱物が関係しています。さらに、長い年月にわたる地殻変動や風雨による侵食が加わることで、現在の壮大な地形が形成されました。公園は、地球の歴史と多様な地形の価値が認められ、2020 年にユネスコ世界ジオパークに認定されました。",
+      "en-IN": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "it-IT": "Nel Geoparco nazionale di Zhangye, nel Gansu (Cina), le montagne raccontano la propria storia geologica a strisce: le colline si susseguono in bande rosse, arancioni, gialle e ocra. È il rilievo Danxia, formato da strati sedimentari che i movimenti tettonici hanno sollevato e piegato e che l'erosione ha poi scolpito in creste, calanchi e pareti.",
+      "pt-BR": "Como ler a história de uma montanha sem abrir um livro? Na China, basta olhar para o chão. No Geoparque Nacional de Zhangye, na região de Gansu, enormes faixas de vermelho, laranja, amarelo e marrom atravessam o relevo como páginas empilhadas de uma história que leva milhões de anos para ser escrita. Movimentos tectônicos elevaram e dobraram camadas de rochas sedimentares acumuladas, enquanto chuva, vento e outros processos de intemperismo e erosão esculpiram cristas, paredões, ravinas e picos.",
+      "zh-CN": "如果一座山能用一道道条纹向你展示它的地质历史，会是什么样？在中国的张掖国家地质公园，岩石正是如此。红色、橙色、黄色、棕色以及其他大地色调的条带在山脊间绵延起伏。这种壮丽景观被称为丹霞地貌，由地质年代中沉积形成的多层沉积岩塑造而成。后来，构造力使岩石抬升并发生褶皱，而风化和侵蚀则将它们雕琢成山脊、峭壁、沟壑和山峰。"
+    },
+    "quickFacts": {
+      "zh-CN": "张掖地质公园拥有577处文化遗址，展现当地历史及包括裕固族在内的多个族群文化。"
+    },
+    "captions": {
+      "en-US": "International Geodiversity Day",
+      "en-GB": "International Geodiversity Day",
+      "en-CA": "International Geodiversity Day",
+      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China",
+      "fr-FR": "Journée internationale de la géodiversité",
+      "it-IT": "",
+      "es-ES": "Día Internacional de la Geodiversidad",
+      "pt-BR": "",
+      "ja-JP": "今日は国際ジオダイバーシティデー",
+      "zh-CN": "",
+      "en-IN": "International Geodiversity Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0700%22",
+      "en-GB": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_2300%22",
+      "en-CA": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Zhangye-Danxia-Geopark&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=journ%c3%a9e+internationale+de+la+g%c3%a9odiversit%c3%a9&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+internazionale+della+geodiversit%c3%a0&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+la+Geodiversidad&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Geodiversidade&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%b8%e3%82%aa%e3%83%80%e3%82%a4%e3%83%90%e3%83%bc%e3%82%b7%e3%83%86%e3%82%a3%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220261005_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e5%9c%b0%e8%b4%a8%e5%a4%9a%e6%a0%b7%e6%80%a7%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DanxiaLandform_EN-US5459628079",
+      "en-GB": "/th?id=OHR.DanxiaLandform_EN-GB2873051697",
+      "en-CA": "/th?id=OHR.DanxiaLandform_EN-CA0294271100",
+      "de-DE": "/th?id=OHR.DanxiaLandform_DE-DE4675912635",
+      "fr-FR": "/th?id=OHR.DanxiaLandform_FR-FR1547265147",
+      "it-IT": "/th?id=OHR.DanxiaLandform_IT-IT8922583550",
+      "es-ES": "/th?id=OHR.DanxiaLandform_ES-ES4557489111",
+      "pt-BR": "/th?id=OHR.DanxiaLandform_PT-BR7632834539",
+      "ja-JP": "/th?id=OHR.DanxiaLandform_JA-JP9811731742",
+      "zh-CN": "/th?id=OHR.DanxiaLandform_ZH-CN2386060246",
+      "en-IN": "/th?id=OHR.DanxiaLandform_EN-IN7469232165"
+    }
+  },
   "AdelieTeacher": {
     "name": "AdelieTeacher",
     "urlbase": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
@@ -649,7 +793,7 @@
       "es-ES": "Un canto inolvidable. Macho de bigotudo, Norfolk, Inglaterra",
       "pt-BR": "Um bigode de respeito",
       "ja-JP": "枯れ草にとまる小鳥",
-      "zh-CN": "雄性文须雀，诺福克郡，英格兰",
+      "zh-CN": "一张令人过目难忘的脸",
       "en-IN": "A face you don't forget. Male bearded reedling, Norfolk, England"
     },
     "copyrights": {
@@ -1615,128 +1759,16 @@
       "en-IN": "/th?id=OHR.TolkienWeek_EN-IN8323924749"
     }
   },
-  "FallAspens": {
-    "name": "FallAspens",
-    "urlbase": "/th?id=OHR.FallAspens_EN-US7211031109",
-    "date": "20260922",
-    "dateFormatted": "September 22, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-US": "The golden season. Autumn equinox",
-      "en-GB": "The golden season. Autumn equinox",
-      "de-DE": "Die goldene Jahreszeit. September-Tagundnachtgleiche",
-      "fr-FR": "La saison dorée. Équinoxe d’automne",
-      "es-ES": "La estación dorada. Equinoccio de otoño",
-      "en-IN": "The golden season. Autumn equinox",
-      "en-CA": "The golden season. Autumn equinox",
-      "pt-BR": "O ponto de equilíbrio",
-      "ja-JP": "黄金色に染まる秋の森",
-      "zh-CN": "金色时节"
-    },
-    "copyrights": {
-      "en-US": "Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
-      "en-GB": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
-      "de-DE": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
-      "fr-FR": "Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis (© Danita Delimont/Shutterstock)",
-      "es-ES": "Álamos de otoño cerca de Guardsman Pass, Utah, EE. UU. (© Danita Delimont/Shutterstock)",
-      "en-IN": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
-      "en-CA": "Fall aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
-      "pt-BR": "Álamos perto do Guardsman Pass, Utah, Estados Unidos (© Danita Delimont/Shutterstock)",
-      "ja-JP": "アスペンの森, 米国 ユタ州 (© Danita Delimont/Shutterstock)",
-      "zh-CN": "瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey toward winter begins.",
-      "en-GB": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
-      "de-DE": "Die September-Tagundnachtgleiche markiert in Deutschland den astronomischen Beginn des Herbstes. An diesem Tag stehen Tag und Nacht nahezu im Gleichgewicht, bevor die Nächte wieder länger werden. Seit Jahrhunderten gilt dieser Zeitpunkt als Wendepunkt im Jahreslauf. Die Natur bereitet sich auf die kalte Jahreszeit vor und vielerorts beginnt die Landschaft ihr herbstliches Farbenspiel.",
-      "fr-FR": "Chaque année, vers la fin de septembre, l’équinoxe d’automne marque un subtil basculement dans l’hémisphère Nord. Le Soleil semble alors franchir l’équateur céleste vers le sud et le jour s’accorde presque à la nuit. Cet instant d’équilibre annonce la lente diminution de la lumière et l’approche progressive de l’hiver.",
-      "es-ES": "Los álamos temblones tiñen de oro las laderas próximas a Guardsman Pass, en Utah (EE. UU.), justo cuando el hemisferio norte estrena estación. El otoño ha entrado en España esta madrugada, a las 02:05 en hora peninsular, según el Observatorio Astronómico Nacional: el Sol cruza el ecuador celeste rumbo al sur y el día y la noche pasan a durar casi lo mismo.",
-      "en-IN": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
-      "en-CA": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
-      "ja-JP": "今日の画像は、米国ユタ州ガーズマン・パス付近に広がるアスペンの森です。毎年秋になると、山々を鮮やかな黄金色に染め上げます。アスペンはヤマナラシ類の樹木で、白い樹皮と、わずかな風にも揺れて音を立てる葉で知られています。多くのアスペンは、地下でつながった根から新しい木を伸ばすため、隣接する木々が同じ遺伝情報を持つことがあります。その繁殖方法や成長の速さ、環境への高い適応力により、アスペンは山火事や伐採、地震の後にも素早く森林を再生させてくれる樹木としても知られています。",
-      "pt-BR": "O equinócio é uma espécie de troca de turno planetária. Hoje, o Sol cruza o equador celeste, a linha imaginária que prolonga o equador da Terra pelo céu, rumo ao sul, deixando os dois hemisférios com períodos de luz e escuridão quase equilibrados. A partir daqui, o Hemisfério Sul entra na primavera, com dias cada vez mais longos, enquanto o Norte segue para o outono, com dias mais curtos.",
-      "zh-CN": "在犹他州瓜兹曼山口附近，季节的变化以金色写满山坡。为美国西部染上色彩的山杨中，有许多是美洲山杨——北美分布最广的本土树种。眼前看似由一棵棵独立树木组成的森林，往往有着截然不同的真相：许多山杨形成彼此相连的无性系群落，树干从共享的根系网络中长出，并与相邻树干拥有相同的遗传密码。"
-    },
-    "quickFacts": {
-      "en-US": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes.",
-      "en-GB": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes.",
-      "en-CA": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes.",
-      "de-DE": "Nur während der Tagundnachtgleichen werden der Nord- und der Südpol gleichzeitig vom Sonnenlicht beleuchtet.",
-      "fr-FR": "Lors des équinoxes, le Soleil se trouve approximativement sur l’horizon aux pôles Nord et Sud.",
-      "zh-CN": "犹他州的“潘多”（Pando）颤杨林被认为是世界上最大且最古老的生物体之一；它由超过40,000棵基因完全相同的树干组成，这些树干通过一个延伸超过100英亩的巨大地下根系紧密相连。",
-      "en-IN": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes."
-    },
-    "captions": {
-      "en-US": "Autumn equinox",
-      "en-GB": "Autumn equinox",
-      "de-DE": "September-Tagundnachtgleiche",
-      "fr-FR": "Équinoxe d’automne",
-      "es-ES": "Equinoccio de otoño",
-      "en-IN": "Autumn equinox"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=september+equinox&form=hpcapt&filters=HpDate%3a%2220260922_0700%22",
-      "en-GB": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_2300%22",
-      "de-DE": "https://www.bing.com/search?q=September-Tagundnachtgleiche&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=%c3%a9quinoxe+de+septembre&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Equinoccio+de+oto%c3%b1o&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
-      "en-IN": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.FallAspens_EN-US7211031109",
-      "en-GB": "/th?id=OHR.FallAspens_EN-GB9268931266",
-      "de-DE": "/th?id=OHR.FallAspens_DE-DE1894805045",
-      "fr-FR": "/th?id=OHR.FallAspens_FR-FR8326000854",
-      "es-ES": "/th?id=OHR.FallAspens_ES-ES8557164613",
-      "en-IN": "/th?id=OHR.FallAspens_EN-IN8196194133"
-    }
-  },
-  "DanxiaLandform": {
-    "name": "DanxiaLandform",
-    "urlbase": "/th?id=OHR.DanxiaLandform_EN-GB2873051697",
-    "date": "20261005",
-    "dateFormatted": "October 05, 2026",
+  "ForestofDean": {
+    "name": "ForestofDean",
+    "urlbase": "/th?id=OHR.ForestofDean_EN-GB3000076093",
+    "date": "20261006",
+    "dateFormatted": "October 06, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
       },
       {
         "code": "de-DE",
@@ -1780,82 +1812,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Earth's story in stripes. International Geodiversity Day",
-      "en-CA": "Earth's story in stripes. International Geodiversity Day",
-      "de-DE": "Erdgeschichte in bunten Streifen. Zhangye-Danxia-Geopark, Gansu, China",
-      "fr-FR": "La mémoire de la Terre. Journée internationale de la géodiversité",
-      "it-IT": "La Terra a strisce",
-      "es-ES": "La Tierra contada a rayas. Día Internacional de la Geodiversidad",
-      "pt-BR": "Geologia em cores",
-      "ja-JP": "今日は国際ジオダイバーシティデー",
-      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国",
-      "en-IN": "Earth's story in stripes. International Geodiversity Day",
-      "en-US": "Earth's story in stripes. Danxia landform, Zhangye National Geopark, Gansu, China"
+      "en-GB": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "de-DE": "Wie im Märchen. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "fr-FR": "La forêt aux mille secrets. Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
+      "it-IT": "Perso? Segui il sentiero",
+      "es-ES": "¿Perdido? Sigue el sendero. Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
+      "pt-BR": "Um labirinto de musgo",
+      "ja-JP": "苔むした森",
+      "zh-CN": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰",
+      "en-IN": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "en-US": "Puzzled? Follow the trail. Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "en-CA": "Puzzled? Follow the trail. Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England"
     },
     "copyrights": {
-      "en-GB": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-      "en-CA": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-      "fr-FR": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
-      "it-IT": "Rilievi Danxia, Geoparco nazionale di Zhangye, Gansu, Cina (© Weiquan Lin/Getty Images)",
-      "es-ES": "Relieve Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
-      "pt-BR": "Formações de Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
-      "ja-JP": "張掖国家地質公園, 中国 (© Weiquan Lin/Getty Images)",
-      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)",
-      "en-IN": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-      "en-US": "© Weiquan Lin/Getty Images"
+      "en-GB": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "de-DE": "Moosbedeckte Felsen im Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "fr-FR": "Roches couvertes de mousse à Puzzlewood, forêt de Dean, Gloucestershire, Angleterre (© Fulcanelli_AOS/Getty Images)",
+      "it-IT": "Rocce coperte di muschio a Puzzlewood, Foresta di Dean, Gloucestershire, Inghilterra (© Fulcanelli_AOS/Getty Images)",
+      "es-ES": "Rocas cubiertas de musgo en Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
+      "pt-BR": "Rochas cobertas de musgo em Puzzlewood, Floresta de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
+      "ja-JP": "パズルウッド, イングランド (© Fulcanelli_AOS/Getty Images)",
+      "zh-CN": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)",
+      "en-IN": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "en-US": "© Fulcanelli_AOS/Getty Images",
+      "en-CA": "© Fulcanelli_AOS/Getty Images"
     },
     "descs": {
-      "en-GB": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
-      "en-CA": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
-      "de-DE": "Im Zhangye-Danxia-Geopark in der chinesischen Provinz Gansu wirken die Hügel und Felsformationen, als wären sie mit Farbe bemalt. Über Millionen von Jahren lagerten sich unterschiedliche Sedimente ab, die durch geologische Prozesse angehoben und freigelegt wurden. So entstanden die auffälligen Schichten in Rot, Orange, Gelb und weiteren Farbtönen, die heute zu den bekanntesten Naturwundern Chinas zählen. Je nach Lichteinfall verändern sich die Farben und verleihen der Landschaft immer wieder ein anderes Erscheinungsbild.",
-      "fr-FR": "Et si une chaîne de montagnes pouvait vous raconter son histoire à travers ses couleurs ? Au parc géologique national de Zhangye, dans la province du Gansu en Chine, c'est exactement ce que font les roches. Des crêtes ondulent à perte de vue, striées de rouge, d'orange, d'ocre et de brun — une palette que nul artiste n'aurait osé inventer.",
-      "es-ES": "En el Geoparque Nacional de Zhangye, en Gansu (China), las montañas cuentan su historia geológica a rayas: las lomas se suceden en bandas rojas, naranjas, amarillas y ocres. Es el relieve Danxia, formado por capas sedimentarias que los movimientos tectónicos levantaron y plegaron, y que la erosión terminó de esculpir en crestas, barrancos y farallones.",
-      "ja-JP": "今日 10 月 6 日は国際ジオダイバーシティデー。鉱物や岩石、土壌など、非生物の自然の多様性について理解を深めることを目的にユネスコ総会が制定しました。そして、今日の画像は中国甘粛省の張掖国家地質公園に広がる丹霞地形です。色鮮やかな地層が重なり、虹のような独特の景観をつくり出しています。こうした色彩には、岩石に含まれる鉄などの鉱物が関係しています。さらに、長い年月にわたる地殻変動や風雨による侵食が加わることで、現在の壮大な地形が形成されました。公園は、地球の歴史と多様な地形の価値が認められ、2020 年にユネスコ世界ジオパークに認定されました。",
-      "en-IN": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
-      "en-US": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown, and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later uplifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies, and peaks.",
-      "it-IT": "Nel Geoparco nazionale di Zhangye, nel Gansu (Cina), le montagne raccontano la propria storia geologica a strisce: le colline si susseguono in bande rosse, arancioni, gialle e ocra. È il rilievo Danxia, formato da strati sedimentari che i movimenti tettonici hanno sollevato e piegato e che l'erosione ha poi scolpito in creste, calanchi e pareti.",
-      "pt-BR": "Como ler a história de uma montanha sem abrir um livro? Na China, basta olhar para o chão. No Geoparque Nacional de Zhangye, na região de Gansu, enormes faixas de vermelho, laranja, amarelo e marrom atravessam o relevo como páginas empilhadas de uma história que leva milhões de anos para ser escrita. Movimentos tectônicos elevaram e dobraram camadas de rochas sedimentares acumuladas, enquanto chuva, vento e outros processos de intemperismo e erosão esculpiram cristas, paredões, ravinas e picos.",
-      "zh-CN": "如果一座山能用一道道条纹向你展示它的地质历史，会是什么样？在中国的张掖国家地质公园，岩石正是如此。红色、橙色、黄色、棕色以及其他大地色调的条带在山脊间绵延起伏。这种壮丽景观被称为丹霞地貌，由地质年代中沉积形成的多层沉积岩塑造而成。后来，构造力使岩石抬升并发生褶皱，而风化和侵蚀则将它们雕琢成山脊、峭壁、沟壑和山峰。"
+      "en-GB": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "de-DE": "Mitten im Forest of Dean bei Coleford in Gloucestershire, England, wirkt Puzzlewood wie eine Welt aus einem Märchen. Verschlungene Pfade führen zwischen knorrigen Bäumen, moosbedeckten Felsen und tiefen Schluchten hindurch. Ungewöhnlich sind die sogenannten Scowles, geologische Formationen im Kalkstein, die durch natürliche Prozesse entstanden und später für den Abbau von Eisenerz genutzt wurden, bereits in der Eisenzeit und bis in die Römerzeit. Für Spannung sorgt ein Fund aus dem Jahr 1848. Damals entdeckten Arbeiter in einem Felshohlraum drei Tongefäße mit mehr als 3000 römischen Münzen.",
+      "fr-FR": "À Puzzlewood, près de Coleford dans la forêt de Dean en Angleterre, les sentiers ne mènent nulle part — et c'est précisément leur charme. Sous une épaisse couverture de mousse, des roches tourmentées surgissent du sol, creusées de ravins et de cavités mystérieuses que les Romains exploitaient déjà pour leur minerai de fer, il y a plus de deux mille ans.",
+      "es-ES": "En Puzzlewood, junto a Coleford, en el Bosque de Dean (Inglaterra), los senderos serpentean entre árboles retorcidos, rocas tapizadas de musgo y gargantas de piedra que hacen dudar en cada curva. Esas formaciones tan raras se llaman scowles: cavidades naturales que quedaron al descubierto con el tiempo y que después se explotaron para extraer hierro, ya en época romana o incluso antes. En 1848, un trabajador encontró más de 3.000 monedas romanas escondidas en vasijas dentro de una grieta.",
+      "ja-JP": "ここはパズルウッド。イングランドのグロスターシャー州にある「ディーンの森」に広がる古代森林地帯です。苔むした岩や「スカウル」と呼ばれる独特の地形で知られています。不規則で迷路状な窪みが特徴のスカウルは、数百万年にわたり、石灰岩にできた地下洞窟が隆起や浸食によって地表に現れることで形成されました。その後、鉄器時代からローマ時代にかけて、鉄鉱石の採掘に利用されたと考えられています。森の中には、約 1.6km の小道が張り巡らされ、奇岩や洞窟、古木が織りなす幻想的な景観が広がります。その神秘的な雰囲気から、「スター・ウォーズ／フォースの覚醒」をはじめ、さまざまな映画のロケ地としても使用されています。",
+      "en-IN": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "en-US": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks, and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "en-CA": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "it-IT": "A Puzzlewood, vicino a Coleford, nella Foresta di Dean (Inghilterra), i sentieri serpeggiano tra alberi contorti, rocce tappezzate di muschio e gole di pietra che fanno perdere l'orientamento a ogni curva. Quelle formazioni così strane si chiamano scowles: cavità naturali affiorate col tempo e poi sfruttate per estrarre ferro, già in epoca romana o forse prima. Nel 1848 un operaio trovò oltre 3.000 monete romane nascoste in alcuni vasi dentro una fenditura.",
+      "pt-BR": "Árvores retorcidas, ravinas de pedra, rochas cobertas de musgo e antigas moedas romanas escondidas. Parece cenário de fantasia, mas Puzzlewood existe de verdade. Na Floresta de Dean, Inglaterra, suas trilhas serpenteiam por um terreno marcado por formações geológicas naturais que incluem cavidades e paredões rochosos. Expostas e transformadas por processos naturais ao longo do tempo, essas formações também foram exploradas em busca de minério de ferro durante o período romano e, possivelmente, antes dele.",
+      "zh-CN": "如果一片森林能让你每转一个弯都捉摸不透，会是什么样？英国格洛斯特郡谜林位于英格兰迪恩森林的科尔福德附近，蜿蜒的小径穿过扭曲的树木、覆满苔藓的岩石和幽深的石质沟壑。这里不同寻常的岩层被称为“斯科尔斯”，是一种天然地质特征，随着时间推移逐渐裸露并发生改变，后来在罗马时期、甚至可能在更早以前被人们开采铁矿石。1848年，一名工人在一个岩洞内的陶罐中发现了3,000多枚罗马时代的钱币，使这片林地变成了一场现实中的寻宝之旅。"
     },
     "quickFacts": {
-      "zh-CN": "张掖地质公园拥有577处文化遗址，展现当地历史及包括裕固族在内的多个族群文化。"
+      "zh-CN": "英国格洛斯特郡谜林位于迪恩森林，是极为罕见的内陆温带雨林生态系统残片。"
     },
     "captions": {
-      "en-GB": "International Geodiversity Day",
-      "en-CA": "International Geodiversity Day",
-      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China",
-      "fr-FR": "Journée internationale de la géodiversité",
+      "en-GB": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "de-DE": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "fr-FR": "Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
       "it-IT": "",
-      "es-ES": "Día Internacional de la Geodiversidad",
+      "es-ES": "Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
       "pt-BR": "",
-      "ja-JP": "今日は国際ジオダイバーシティデー",
+      "ja-JP": "苔むした森",
       "zh-CN": "",
-      "en-IN": "International Geodiversity Day"
+      "en-IN": "Puzzlewood, Forest of Dean, Gloucestershire, England"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_2300%22",
-      "en-CA": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Zhangye-Danxia-Geopark&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=journ%c3%a9e+internationale+de+la+g%c3%a9odiversit%c3%a9&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+internazionale+della+geodiversit%c3%a0&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+la+Geodiversidad&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Geodiversidade&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%b8%e3%82%aa%e3%83%80%e3%82%a4%e3%83%90%e3%83%bc%e3%82%b7%e3%83%86%e3%82%a3%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220261005_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e5%9c%b0%e8%b4%a8%e5%a4%9a%e6%a0%b7%e6%80%a7%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261006_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Puzzlewood+England+Informationen&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Puzzlewood+Angleterre&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Puzzlewood+Foresta+di+Dean&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Puzzlewood+Bosque+de+Dean&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Puzzlewood+na+Inglaterra&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%b3%e3%81%ae%e6%a3%ae%e3%81%ae%e3%83%91%e3%82%ba%e3%83%ab%e3%82%a6%e3%83%83%e3%83%89&form=hpcapt&filters=HpDate%3a%2220261006_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%8b%b1%e5%9b%bd%e6%a0%bc%e6%b4%9b%e6%96%af%e7%89%b9%e9%83%a1%e8%b0%9c%e6%9e%97&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261006_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.DanxiaLandform_EN-GB2873051697",
-      "en-CA": "/th?id=OHR.DanxiaLandform_EN-CA0294271100",
-      "de-DE": "/th?id=OHR.DanxiaLandform_DE-DE4675912635",
-      "fr-FR": "/th?id=OHR.DanxiaLandform_FR-FR1547265147",
-      "it-IT": "/th?id=OHR.DanxiaLandform_IT-IT8922583550",
-      "es-ES": "/th?id=OHR.DanxiaLandform_ES-ES4557489111",
-      "pt-BR": "/th?id=OHR.DanxiaLandform_PT-BR7632834539",
-      "ja-JP": "/th?id=OHR.DanxiaLandform_JA-JP9811731742",
-      "zh-CN": "/th?id=OHR.DanxiaLandform_ZH-CN2386060246",
-      "en-IN": "/th?id=OHR.DanxiaLandform_EN-IN7469232165"
+      "en-GB": "/th?id=OHR.ForestofDean_EN-GB3000076093",
+      "de-DE": "/th?id=OHR.ForestofDean_DE-DE4809664679",
+      "fr-FR": "/th?id=OHR.ForestofDean_FR-FR4745623763",
+      "it-IT": "/th?id=OHR.ForestofDean_IT-IT9133753492",
+      "es-ES": "/th?id=OHR.ForestofDean_ES-ES3526600939",
+      "pt-BR": "/th?id=OHR.ForestofDean_PT-BR7892976998",
+      "ja-JP": "/th?id=OHR.ForestofDean_JA-JP0675230191",
+      "zh-CN": "/th?id=OHR.ForestofDean_ZH-CN2654753621",
+      "en-IN": "/th?id=OHR.ForestofDean_EN-IN7618980046"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -2281,38 +2310,6 @@
       "it-IT": "/th?id=OHR.PerugiaAqueduct_IT-IT7918245077"
     }
   },
-  "AutumnTrentino": {
-    "name": "AutumnTrentino",
-    "urlbase": "/th?id=OHR.AutumnTrentino_IT-IT8118999546",
-    "date": "20260922",
-    "dateFormatted": "September 22, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "I colori della stagione"
-    },
-    "copyrights": {
-      "it-IT": "Chiesa in Val di Funes, Trentino-Alto Adige, Dolomiti, Italia (© DieterMeyrl/Getty Images)"
-    },
-    "descs": {
-      "it-IT": "L'autunno astronomico è cominciato stanotte alle 2:06, ora italiana: il Sole ha attraversato l'equatore celeste diretto a sud, giorno e notte hanno quasi la stessa durata e da adesso la luce inizia a ridursi. Gli equinozi, tra l'altro, sono i soli momenti dell'anno in cui entrambi i poli ricevono luce solare nello stesso istante."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=Equinozio+d%27autunno+2026&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.AutumnTrentino_IT-IT8118999546"
-    }
-  },
   "FiestaMerceBarcelona": {
     "name": "FiestaMerceBarcelona",
     "urlbase": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972",
@@ -2347,7 +2344,7 @@
   },
   "Camburiu": {
     "name": "Camburiu",
-    "urlbase": "/th?id=OHR.Camburiu_PT-BR9036477210",
+    "urlbase": "/th?id=OHR.Camburiu_PT-BR2030410087",
     "date": "20261002",
     "dateFormatted": "October 02, 2026",
     "markets": [
@@ -2374,7 +2371,7 @@
       "pt-BR": "https://www.bing.com/search?q=Balneario+Camboriu&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "pt-BR": "/th?id=OHR.Camburiu_PT-BR9036477210"
+      "pt-BR": "/th?id=OHR.Camburiu_PT-BR2030410087"
     }
   },
   "GreenLake": {
@@ -2409,38 +2406,6 @@
       "pt-BR": "/th?id=OHR.GreenLake_PT-BR0948770849"
     }
   },
-  "SpringTree": {
-    "name": "SpringTree",
-    "urlbase": "/th?id=OHR.SpringTree_PT-BR3107057910",
-    "date": "20260923",
-    "dateFormatted": "September 23, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "A estação em flor"
-    },
-    "copyrights": {
-      "pt-BR": "Ipê-amarelo florido contra o céu azul (© Rogerio Peccioli/Getty Images)"
-    },
-    "descs": {
-      "pt-BR": "Enquanto muitas árvores ainda parecem indecisas sobre a mudança de estação, o ipê simplesmente larga suas folhas e se cobre de flores. De um dia para o outro, ruas, praças e estradas recebem uma camada extra de saturação. Nada de filtro: é só botânica."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=a+primavera&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.SpringTree_PT-BR3107057910"
-    }
-  },
   "AmmoniteFossils": {
     "name": "AmmoniteFossils",
     "urlbase": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090",
@@ -2454,16 +2419,47 @@
       }
     ],
     "titles": {
-      "ja-JP": "古代の海に生息していた動物の化石"
+      "ja-JP": "古代の海に生息していた動物の化石",
+      "en-GB": "Spirals through time. Ammonite fossils from the Jurassic Period",
+      "de-DE": "Spiralen durch die Zeit. Ammonitenfossilien aus der Jurazeit",
+      "fr-FR": "Le temps pris dans la pierre. Fossiles d'ammonites du Jurassique",
+      "it-IT": "Spirali nel tempo. Fossili di ammoniti del Giurassico",
+      "es-ES": "Espirales en el tiempo. Fósiles de amonites del Jurásico",
+      "pt-BR": "O Jurássico mandou lembranças. Fósseis de amonites do período Jurássico",
+      "zh-CN": "侏罗纪时期的菊石化石",
+      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period"
     },
     "copyrights": {
-      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)"
+      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)",
+      "en-GB": "© J Nemchinova/Getty Images",
+      "de-DE": "© J Nemchinova/Getty Images",
+      "fr-FR": "© J Nemchinova/Getty Images",
+      "it-IT": "© J Nemchinova/Getty Images",
+      "es-ES": "© J Nemchinova/Getty Images",
+      "pt-BR": "© J Nemchinova/Getty Images",
+      "zh-CN": "© J Nemchinova/Getty Images",
+      "en-IN": "© J Nemchinova/Getty Images"
     },
     "descs": {
-      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。"
+      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
+      "en-GB": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "de-DE": "Ammoniten gehören zu den faszinierendsten Fossilien der Jurazeit. Die ausgestorbenen Meerestiere entwickelten eine erstaunliche Vielfalt an Formen und Größen. Heute sind ihre versteinerten Schalen wichtige Zeugen einer längst vergangenen Welt. Für die Wissenschaft sind sie besonders wertvoll, da bestimmte Arten als Leitfossilien dienen und dabei helfen, Gesteinsschichten zeitlich einzuordnen.",
+      "fr-FR": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années.",
+      "it-IT": "Le conchiglie avvolte a spirale dell'immagine appartengono ad ammoniti del Giurassico, molluschi marini che popolavano gli oceani quando i dinosauri dominavano le terre emerse. Somigliavano ai nautili di oggi, ma erano parenti più stretti di calamari e polpi, e le loro conchiglie divise in camere hanno prodotto quelle spirali che riconosciamo al primo sguardo.",
+      "es-ES": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
+      "pt-BR": "Como contar a história de um mundo sem testemunhas? Muito antes da escrita, dos mapas ou dos primeiros seres humanos, a Terra já mantinha seus próprios arquivos. Não em papel, mas em pedra. Cada fóssil preserva fragmentos de vidas desaparecidas e ajuda cientistas a reconstruir oceanos, paisagens e criaturas que sumiram há milhões de anos.",
+      "zh-CN": "我们如何知道早在人类出现之前地球是什么样子？化石提供了许多线索。国家化石日旨在赞颂古生物学，以及那些帮助科学家重建过去环境、追溯生命演化并了解数百万年前消失生物的发现。从恐龙到微小的海洋生物，这些过去的遗存保存着早已不复存在的远古世界的一个个瞬间。",
+      "en-IN": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist."
     },
     "quickFacts": {
-      "ja-JP": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。"
+      "ja-JP": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。",
+      "en-GB": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
+      "de-DE": "Ein Fossil muss nicht unbedingt ein Knochen sein. Auch Spuren, Tierbaue, Nester und andere Überreste urzeitlichen Lebens können zu Fossilien werden.",
+      "fr-FR": "Un fossile n'est pas forcément un os. Des empreintes, des terriers, des nids et d'autres traces de vie ancienne peuvent eux aussi devenir des fossiles.",
+      "it-IT": "Un fossile non è per forza un osso: anche impronte, tane, nidi e altre tracce di vita antica possono fossilizzare.",
+      "es-ES": "Un fósil no tiene que ser un hueso: huellas, madrigueras, nidos y otros rastros de vida antigua también pueden fosilizar.",
+      "zh-CN": "化石不一定非得是骨骼。足迹、洞道、巢穴以及古代生命留下的其他痕迹也可以成为化石。",
+      "en-IN": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too."
     },
     "captions": {
       "ja-JP": "古代の海に生息していた動物の化石"
@@ -2505,6 +2501,241 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.YokohamaBayBridge_JA-JP8812921625"
+    }
+  },
+  "GandhiJayanti2026": {
+    "name": "GandhiJayanti2026",
+    "urlbase": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451",
+    "date": "20261001",
+    "dateFormatted": "October 01, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "The man who made peace powerful. Gandhi Jayanti"
+    },
+    "copyrights": {
+      "en-IN": "Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat (© Kandarp Gupta/Alamy)"
+    },
+    "descs": {
+      "en-IN": "Not every freedom fighter carried a weapon. He carried an idea. Gandhi Jayanti marks the birth of Mohandas Karamchand Gandhi, born in Porbandar, India, in 1869. He became a key leader of India's independence movement through satyagraha, his philosophy of truth and non-violent resistance. His 1930 Salt March showed how something as ordinary as salt could become a powerful symbol of protest. His influence eventually reached far beyond India, inspiring movements built around peaceful resistance."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-IN": "Gandhi Jayanti"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Gandhi+Jayanti&form=hpcapt&filters=HpDate%3a%2220261001_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451"
+    }
+  },
+  "NathmaljiHaveli2026": {
+    "name": "NathmaljiHaveli2026",
+    "urlbase": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376",
+    "date": "20260930",
+    "dateFormatted": "September 30, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "Carved from two points of view. Nathmal Ki Haveli, Jaisalmer, Rajasthan"
+    },
+    "copyrights": {
+      "en-IN": "View into the sky from Nathmal Ki Haveli courtyard, Jaisalmer, Rajasthan (© Emad Aljumah/Moment/Getty Images)"
+    },
+    "descs": {
+      "en-IN": "What if two architects worked on the same house but saw it differently? Nathmal Ki Haveli in Jaisalmer offers the answer in carved sandstone. Built in the late 19th century, the haveli is associated with architect brothers Hathi and Lulu, who worked independently on its two sides. They look similar at first, but their fine details differ."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-IN": "Nathmal Ki Haveli, Jaisalmer, Rajasthan"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Jaisalmer+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260930_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "FallAspens": {
+    "name": "FallAspens",
+    "urlbase": "/th?id=OHR.FallAspens_EN-US7211031109",
+    "date": "20260922",
+    "dateFormatted": "September 22, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The golden season. Autumn equinox",
+      "en-GB": "The golden season. Autumn equinox",
+      "de-DE": "Die goldene Jahreszeit. September-Tagundnachtgleiche",
+      "fr-FR": "La saison dorée. Équinoxe d’automne",
+      "es-ES": "La estación dorada. Equinoccio de otoño",
+      "en-IN": "The golden season. Autumn equinox",
+      "en-CA": "The golden season. Autumn equinox",
+      "pt-BR": "O ponto de equilíbrio",
+      "ja-JP": "黄金色に染まる秋の森",
+      "zh-CN": "金色时节"
+    },
+    "copyrights": {
+      "en-US": "Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
+      "en-GB": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
+      "de-DE": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
+      "fr-FR": "Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis (© Danita Delimont/Shutterstock)",
+      "es-ES": "Álamos de otoño cerca de Guardsman Pass, Utah, EE. UU. (© Danita Delimont/Shutterstock)",
+      "en-IN": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
+      "en-CA": "Fall aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
+      "pt-BR": "Álamos perto do Guardsman Pass, Utah, Estados Unidos (© Danita Delimont/Shutterstock)",
+      "ja-JP": "アスペンの森, 米国 ユタ州 (© Danita Delimont/Shutterstock)",
+      "zh-CN": "瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey toward winter begins.",
+      "en-GB": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
+      "de-DE": "Die September-Tagundnachtgleiche markiert in Deutschland den astronomischen Beginn des Herbstes. An diesem Tag stehen Tag und Nacht nahezu im Gleichgewicht, bevor die Nächte wieder länger werden. Seit Jahrhunderten gilt dieser Zeitpunkt als Wendepunkt im Jahreslauf. Die Natur bereitet sich auf die kalte Jahreszeit vor und vielerorts beginnt die Landschaft ihr herbstliches Farbenspiel.",
+      "fr-FR": "Chaque année, vers la fin de septembre, l’équinoxe d’automne marque un subtil basculement dans l’hémisphère Nord. Le Soleil semble alors franchir l’équateur céleste vers le sud et le jour s’accorde presque à la nuit. Cet instant d’équilibre annonce la lente diminution de la lumière et l’approche progressive de l’hiver.",
+      "es-ES": "Los álamos temblones tiñen de oro las laderas próximas a Guardsman Pass, en Utah (EE. UU.), justo cuando el hemisferio norte estrena estación. El otoño ha entrado en España esta madrugada, a las 02:05 en hora peninsular, según el Observatorio Astronómico Nacional: el Sol cruza el ecuador celeste rumbo al sur y el día y la noche pasan a durar casi lo mismo.",
+      "en-IN": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
+      "en-CA": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
+      "ja-JP": "今日の画像は、米国ユタ州ガーズマン・パス付近に広がるアスペンの森です。毎年秋になると、山々を鮮やかな黄金色に染め上げます。アスペンはヤマナラシ類の樹木で、白い樹皮と、わずかな風にも揺れて音を立てる葉で知られています。多くのアスペンは、地下でつながった根から新しい木を伸ばすため、隣接する木々が同じ遺伝情報を持つことがあります。その繁殖方法や成長の速さ、環境への高い適応力により、アスペンは山火事や伐採、地震の後にも素早く森林を再生させてくれる樹木としても知られています。",
+      "pt-BR": "O equinócio é uma espécie de troca de turno planetária. Hoje, o Sol cruza o equador celeste, a linha imaginária que prolonga o equador da Terra pelo céu, rumo ao sul, deixando os dois hemisférios com períodos de luz e escuridão quase equilibrados. A partir daqui, o Hemisfério Sul entra na primavera, com dias cada vez mais longos, enquanto o Norte segue para o outono, com dias mais curtos.",
+      "zh-CN": "在犹他州瓜兹曼山口附近，季节的变化以金色写满山坡。为美国西部染上色彩的山杨中，有许多是美洲山杨——北美分布最广的本土树种。眼前看似由一棵棵独立树木组成的森林，往往有着截然不同的真相：许多山杨形成彼此相连的无性系群落，树干从共享的根系网络中长出，并与相邻树干拥有相同的遗传密码。"
+    },
+    "quickFacts": {
+      "en-US": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes.",
+      "en-GB": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes.",
+      "en-CA": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes.",
+      "de-DE": "Nur während der Tagundnachtgleichen werden der Nord- und der Südpol gleichzeitig vom Sonnenlicht beleuchtet.",
+      "fr-FR": "Lors des équinoxes, le Soleil se trouve approximativement sur l’horizon aux pôles Nord et Sud.",
+      "zh-CN": "犹他州的“潘多”（Pando）颤杨林被认为是世界上最大且最古老的生物体之一；它由超过40,000棵基因完全相同的树干组成，这些树干通过一个延伸超过100英亩的巨大地下根系紧密相连。",
+      "en-IN": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes."
+    },
+    "captions": {
+      "en-US": "Autumn equinox",
+      "en-GB": "Autumn equinox",
+      "de-DE": "September-Tagundnachtgleiche",
+      "fr-FR": "Équinoxe d’automne",
+      "es-ES": "Equinoccio de otoño",
+      "en-IN": "Autumn equinox"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=september+equinox&form=hpcapt&filters=HpDate%3a%2220260922_0700%22",
+      "en-GB": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_2300%22",
+      "de-DE": "https://www.bing.com/search?q=September-Tagundnachtgleiche&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=%c3%a9quinoxe+de+septembre&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Equinoccio+de+oto%c3%b1o&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+      "en-IN": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FallAspens_EN-US7211031109",
+      "en-GB": "/th?id=OHR.FallAspens_EN-GB9268931266",
+      "de-DE": "/th?id=OHR.FallAspens_DE-DE1894805045",
+      "fr-FR": "/th?id=OHR.FallAspens_FR-FR8326000854",
+      "es-ES": "/th?id=OHR.FallAspens_ES-ES8557164613",
+      "en-IN": "/th?id=OHR.FallAspens_EN-IN8196194133"
+    }
+  },
+  "AutumnTrentino": {
+    "name": "AutumnTrentino",
+    "urlbase": "/th?id=OHR.AutumnTrentino_IT-IT8118999546",
+    "date": "20260922",
+    "dateFormatted": "September 22, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "I colori della stagione"
+    },
+    "copyrights": {
+      "it-IT": "Chiesa in Val di Funes, Trentino-Alto Adige, Dolomiti, Italia (© DieterMeyrl/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "L'autunno astronomico è cominciato stanotte alle 2:06, ora italiana: il Sole ha attraversato l'equatore celeste diretto a sud, giorno e notte hanno quasi la stessa durata e da adesso la luce inizia a ridursi. Gli equinozi, tra l'altro, sono i soli momenti dell'anno in cui entrambi i poli ricevono luce solare nello stesso istante."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Equinozio+d%27autunno+2026&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.AutumnTrentino_IT-IT8118999546"
+    }
+  },
+  "SpringTree": {
+    "name": "SpringTree",
+    "urlbase": "/th?id=OHR.SpringTree_PT-BR3107057910",
+    "date": "20260923",
+    "dateFormatted": "September 23, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "A estação em flor"
+    },
+    "copyrights": {
+      "pt-BR": "Ipê-amarelo florido contra o céu azul (© Rogerio Peccioli/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Enquanto muitas árvores ainda parecem indecisas sobre a mudança de estação, o ipê simplesmente larga suas folhas e se cobre de flores. De um dia para o outro, ruas, praças e estradas recebem uma camada extra de saturação. Nada de filtro: é só botânica."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=a+primavera&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.SpringTree_PT-BR3107057910"
     }
   },
   "Japan7Flower2026": {
@@ -2573,70 +2804,6 @@
     },
     "urlbases": {
       "zh-CN": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091"
-    }
-  },
-  "GandhiJayanti2026": {
-    "name": "GandhiJayanti2026",
-    "urlbase": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451",
-    "date": "20261001",
-    "dateFormatted": "October 01, 2026",
-    "markets": [
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-IN": "The man who made peace powerful. Gandhi Jayanti"
-    },
-    "copyrights": {
-      "en-IN": "Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat (© Kandarp Gupta/Alamy)"
-    },
-    "descs": {
-      "en-IN": "Not every freedom fighter carried a weapon. He carried an idea. Gandhi Jayanti marks the birth of Mohandas Karamchand Gandhi, born in Porbandar, India, in 1869. He became a key leader of India's independence movement through satyagraha, his philosophy of truth and non-violent resistance. His 1930 Salt March showed how something as ordinary as salt could become a powerful symbol of protest. His influence eventually reached far beyond India, inspiring movements built around peaceful resistance."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-IN": "Gandhi Jayanti"
-    },
-    "copyrightlinks": {
-      "en-IN": "https://www.bing.com/search?q=Gandhi+Jayanti&form=hpcapt&filters=HpDate%3a%2220261001_1830%22"
-    },
-    "urlbases": {
-      "en-IN": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451"
-    }
-  },
-  "NathmaljiHaveli2026": {
-    "name": "NathmaljiHaveli2026",
-    "urlbase": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376",
-    "date": "20260930",
-    "dateFormatted": "September 30, 2026",
-    "markets": [
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-IN": "Carved from two points of view. Nathmal Ki Haveli, Jaisalmer, Rajasthan"
-    },
-    "copyrights": {
-      "en-IN": "View into the sky from Nathmal Ki Haveli courtyard, Jaisalmer, Rajasthan (© Emad Aljumah/Moment/Getty Images)"
-    },
-    "descs": {
-      "en-IN": "What if two architects worked on the same house but saw it differently? Nathmal Ki Haveli in Jaisalmer offers the answer in carved sandstone. Built in the late 19th century, the haveli is associated with architect brothers Hathi and Lulu, who worked independently on its two sides. They look similar at first, but their fine details differ."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-IN": "Nathmal Ki Haveli, Jaisalmer, Rajasthan"
-    },
-    "copyrightlinks": {
-      "en-IN": "https://www.bing.com/search?q=Jaisalmer+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260930_1830%22"
-    },
-    "urlbases": {
-      "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
     }
   },
   "GroomingOtter": {
