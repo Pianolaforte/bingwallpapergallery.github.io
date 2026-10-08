@@ -1,4 +1,148 @@
 {
+  "ForestofDean": {
+    "name": "ForestofDean",
+    "urlbase": "/th?id=OHR.ForestofDean_EN-US7262962048",
+    "date": "20261007",
+    "dateFormatted": "October 07, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "en-GB": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "en-CA": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "de-DE": "Wie im Märchen. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "fr-FR": "La forêt aux mille secrets. Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
+      "it-IT": "Perso? Segui il sentiero",
+      "es-ES": "¿Perdido? Sigue el sendero. Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
+      "pt-BR": "Um labirinto de musgo",
+      "ja-JP": "苔むした森",
+      "zh-CN": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰",
+      "en-IN": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England"
+    },
+    "copyrights": {
+      "en-US": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "en-GB": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "en-CA": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "de-DE": "Moosbedeckte Felsen im Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "fr-FR": "Roches couvertes de mousse à Puzzlewood, forêt de Dean, Gloucestershire, Angleterre (© Fulcanelli_AOS/Getty Images)",
+      "it-IT": "Rocce coperte di muschio a Puzzlewood, Foresta di Dean, Gloucestershire, Inghilterra (© Fulcanelli_AOS/Getty Images)",
+      "es-ES": "Rocas cubiertas de musgo en Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
+      "pt-BR": "Rochas cobertas de musgo em Puzzlewood, Floresta de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
+      "ja-JP": "パズルウッド, イングランド (© Fulcanelli_AOS/Getty Images)",
+      "zh-CN": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)",
+      "en-IN": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)"
+    },
+    "descs": {
+      "en-US": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks, and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "en-GB": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "en-CA": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "de-DE": "Mitten im Forest of Dean bei Coleford in Gloucestershire, England, wirkt Puzzlewood wie eine Welt aus einem Märchen. Verschlungene Pfade führen zwischen knorrigen Bäumen, moosbedeckten Felsen und tiefen Schluchten hindurch. Ungewöhnlich sind die sogenannten Scowles, geologische Formationen im Kalkstein, die durch natürliche Prozesse entstanden und später für den Abbau von Eisenerz genutzt wurden, bereits in der Eisenzeit und bis in die Römerzeit. Für Spannung sorgt ein Fund aus dem Jahr 1848. Damals entdeckten Arbeiter in einem Felshohlraum drei Tongefäße mit mehr als 3000 römischen Münzen.",
+      "fr-FR": "À Puzzlewood, près de Coleford dans la forêt de Dean en Angleterre, les sentiers ne mènent nulle part — et c'est précisément leur charme. Sous une épaisse couverture de mousse, des roches tourmentées surgissent du sol, creusées de ravins et de cavités mystérieuses que les Romains exploitaient déjà pour leur minerai de fer, il y a plus de deux mille ans.",
+      "es-ES": "En Puzzlewood, junto a Coleford, en el Bosque de Dean (Inglaterra), los senderos serpentean entre árboles retorcidos, rocas tapizadas de musgo y gargantas de piedra que hacen dudar en cada curva. Esas formaciones tan raras se llaman scowles: cavidades naturales que quedaron al descubierto con el tiempo y que después se explotaron para extraer hierro, ya en época romana o incluso antes. En 1848, un trabajador encontró más de 3.000 monedas romanas escondidas en vasijas dentro de una grieta.",
+      "ja-JP": "ここはパズルウッド。イングランドのグロスターシャー州にある「ディーンの森」に広がる古代森林地帯です。苔むした岩や「スカウル」と呼ばれる独特の地形で知られています。不規則で迷路状な窪みが特徴のスカウルは、数百万年にわたり、石灰岩にできた地下洞窟が隆起や浸食によって地表に現れることで形成されました。その後、鉄器時代からローマ時代にかけて、鉄鉱石の採掘に利用されたと考えられています。森の中には、約 1.6km の小道が張り巡らされ、奇岩や洞窟、古木が織りなす幻想的な景観が広がります。その神秘的な雰囲気から、「スター・ウォーズ／フォースの覚醒」をはじめ、さまざまな映画のロケ地としても使用されています。",
+      "en-IN": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "it-IT": "A Puzzlewood, vicino a Coleford, nella Foresta di Dean (Inghilterra), i sentieri serpeggiano tra alberi contorti, rocce tappezzate di muschio e gole di pietra che fanno perdere l'orientamento a ogni curva. Quelle formazioni così strane si chiamano scowles: cavità naturali affiorate col tempo e poi sfruttate per estrarre ferro, già in epoca romana o forse prima. Nel 1848 un operaio trovò oltre 3.000 monete romane nascoste in alcuni vasi dentro una fenditura.",
+      "pt-BR": "Árvores retorcidas, ravinas de pedra, rochas cobertas de musgo e antigas moedas romanas escondidas. Parece cenário de fantasia, mas Puzzlewood existe de verdade. Na Floresta de Dean, Inglaterra, suas trilhas serpenteiam por um terreno marcado por formações geológicas naturais que incluem cavidades e paredões rochosos. Expostas e transformadas por processos naturais ao longo do tempo, essas formações também foram exploradas em busca de minério de ferro durante o período romano e, possivelmente, antes dele.",
+      "zh-CN": "如果一片森林能让你每转一个弯都捉摸不透，会是什么样？英国格洛斯特郡谜林位于英格兰迪恩森林的科尔福德附近，蜿蜒的小径穿过扭曲的树木、覆满苔藓的岩石和幽深的石质沟壑。这里不同寻常的岩层被称为“斯科尔斯”，是一种天然地质特征，随着时间推移逐渐裸露并发生改变，后来在罗马时期、甚至可能在更早以前被人们开采铁矿石。1848年，一名工人在一个岩洞内的陶罐中发现了3,000多枚罗马时代的钱币，使这片林地变成了一场现实中的寻宝之旅。"
+    },
+    "quickFacts": {
+      "zh-CN": "英国格洛斯特郡谜林位于迪恩森林，是极为罕见的内陆温带雨林生态系统残片。"
+    },
+    "captions": {
+      "en-US": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "en-GB": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "en-CA": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "de-DE": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "fr-FR": "Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
+      "it-IT": "",
+      "es-ES": "Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
+      "pt-BR": "",
+      "ja-JP": "苔むした森",
+      "zh-CN": "",
+      "en-IN": "Puzzlewood, Forest of Dean, Gloucestershire, England"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261007_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261006_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261007_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Puzzlewood+England+Informationen&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Puzzlewood+Angleterre&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Puzzlewood+Foresta+di+Dean&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Puzzlewood+Bosque+de+Dean&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Puzzlewood+na+Inglaterra&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%b3%e3%81%ae%e6%a3%ae%e3%81%ae%e3%83%91%e3%82%ba%e3%83%ab%e3%82%a6%e3%83%83%e3%83%89&form=hpcapt&filters=HpDate%3a%2220261006_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%8b%b1%e5%9b%bd%e6%a0%bc%e6%b4%9b%e6%96%af%e7%89%b9%e9%83%a1%e8%b0%9c%e6%9e%97&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261006_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ForestofDean_EN-US7262962048",
+      "en-GB": "/th?id=OHR.ForestofDean_EN-GB3000076093",
+      "en-CA": "/th?id=OHR.ForestofDean_EN-CA1146340293",
+      "de-DE": "/th?id=OHR.ForestofDean_DE-DE4809664679",
+      "fr-FR": "/th?id=OHR.ForestofDean_FR-FR4745623763",
+      "it-IT": "/th?id=OHR.ForestofDean_IT-IT9133753492",
+      "es-ES": "/th?id=OHR.ForestofDean_ES-ES3526600939",
+      "pt-BR": "/th?id=OHR.ForestofDean_PT-BR7892976998",
+      "ja-JP": "/th?id=OHR.ForestofDean_JA-JP0675230191",
+      "zh-CN": "/th?id=OHR.ForestofDean_ZH-CN2654753621",
+      "en-IN": "/th?id=OHR.ForestofDean_EN-IN7618980046"
+    }
+  },
   "DanxiaLandform": {
     "name": "DanxiaLandform",
     "urlbase": "/th?id=OHR.DanxiaLandform_EN-US5459628079",
@@ -493,7 +637,8 @@
       "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
       "pt-BR": "O último buffet do ano",
       "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊",
-      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States"
+      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
+      "en-CA": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States"
     },
     "copyrights": {
       "en-US": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)",
@@ -504,7 +649,8 @@
       "es-ES": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
       "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
       "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
-      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)"
+      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "en-CA": "© Danny Green/Nature Picture Library"
     },
     "descs": {
       "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
@@ -515,7 +661,8 @@
       "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
       "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
       "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
-      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。"
+      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。",
+      "en-CA": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink."
     },
     "quickFacts": {
       "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
@@ -680,7 +827,7 @@
       "en-CA": "Reading time in granite. Yosemite National Park, California, United States",
       "it-IT": "Tempo di lettura nel granito",
       "ja-JP": "夕日に染まるヨセミテの岩峰",
-      "zh-CN": "奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国"
+      "zh-CN": "在花岗岩中读懂时间"
     },
     "copyrights": {
       "en-US": "Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)",
@@ -1560,21 +1707,6 @@
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
@@ -1583,26 +1715,16 @@
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
       }
     ],
     "titles": {
       "en-US": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "en-CA": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "es-ES": "Arena volcánica y olas salvajes. El Golfo, Lanzarote, Islas Canarias, España",
+      "pt-BR": "O legado de um vulcão",
       "de-DE": "Vulkanische Kontraste. Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
       "fr-FR": "Le dialogue entre vagues et cendres. El Golfo, Lanzarote, Îles Canaries, Espagne",
       "it-IT": "Cenere incontra splash",
-      "es-ES": "Arena volcánica y olas salvajes. El Golfo, Lanzarote, Islas Canarias, España",
-      "pt-BR": "O legado de um vulcão",
       "ja-JP": "黒い海岸に寄せる白波",
       "zh-CN": "火山灰与浪花相遇",
       "en-GB": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
@@ -1611,11 +1733,11 @@
     "copyrights": {
       "en-US": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
       "en-CA": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "es-ES": "Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España (© Westend61/Adobe Stock)",
+      "pt-BR": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha (© Westend61/Adobe Stock)",
       "de-DE": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
       "fr-FR": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)",
       "it-IT": "Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna (© Westend61/Adobe Stock)",
-      "es-ES": "Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España (© Westend61/Adobe Stock)",
-      "pt-BR": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha (© Westend61/Adobe Stock)",
       "ja-JP": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
       "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)",
       "en-GB": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
@@ -1624,9 +1746,9 @@
     "descs": {
       "en-US": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ocher and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages, and farmland.",
       "en-CA": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
+      "es-ES": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco.",
       "de-DE": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
       "fr-FR": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
-      "es-ES": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco.",
       "ja-JP": "ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
       "en-GB": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages and farmland.",
       "en-IN": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
@@ -1640,130 +1762,27 @@
     "captions": {
       "en-US": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
       "en-CA": "Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "de-DE": "Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
-      "fr-FR": "El Golfo, Lanzarote, Îles Canaries, Espagne",
-      "it-IT": "",
       "es-ES": "El Golfo, Lanzarote, Islas Canarias, España",
-      "pt-BR": "",
-      "ja-JP": "黒い海岸に寄せる白波",
-      "zh-CN": ""
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260924_0700%22",
       "en-CA": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260924_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Lanzarote+Espagne&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Lanzarote+Spagna&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260930_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%ad%e3%83%bc%e3%83%86%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260923_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%85%b0%e8%90%a8%e7%bd%97%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+      "pt-BR": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.ElGolfo_EN-US9261454857",
       "en-CA": "/th?id=OHR.ElGolfo_EN-CA7672858081",
-      "de-DE": "/th?id=OHR.ElGolfo_DE-DE2094132875",
-      "fr-FR": "/th?id=OHR.ElGolfo_FR-FR8422872224",
-      "it-IT": "/th?id=OHR.ElGolfo_IT-IT8270823745",
       "es-ES": "/th?id=OHR.ElGolfo_ES-ES8850772045",
-      "pt-BR": "/th?id=OHR.ElGolfo_PT-BR1964322549",
-      "ja-JP": "/th?id=OHR.ElGolfo_JA-JP7674043520",
-      "zh-CN": "/th?id=OHR.ElGolfo_ZH-CN8329995759"
+      "pt-BR": "/th?id=OHR.ElGolfo_PT-BR1964322549"
     }
   },
-  "TolkienWeek": {
-    "name": "TolkienWeek",
-    "urlbase": "/th?id=OHR.TolkienWeek_EN-US7313336185",
-    "date": "20260923",
-    "dateFormatted": "September 23, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-US": "Beyond the last page. Tolkien Week",
-      "en-GB": "Beyond the last page. Tolkien Week",
-      "en-CA": "Beyond the last page. Tolkien Week",
-      "pt-BR": "Muito além da última página",
-      "en-IN": "Beyond the last page. Tolkien Week",
-      "de-DE": "Willkommen in Hobbiton. Hobbit-Tag",
-      "fr-FR": "Au-delà de la dernière page. Journée du Hobbit",
-      "it-IT": "Oltre l'ultima pagina",
-      "es-ES": "Donde lo pequeño se hace grande. Decorado de películas de Hobbiton, Matamata, Nueva Zelanda"
-    },
-    "copyrights": {
-      "en-US": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
-      "en-GB": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
-      "en-CA": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
-      "pt-BR": "Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)",
-      "en-IN": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
-      "de-DE": "Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland (© djr-photography/Shutterstock)",
-      "fr-FR": "Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)",
-      "it-IT": "La Casa di Hobbit presso il Set Cinematografico di Hobbiton, Matamata, Nuova Zelanda (© djr-photography/Shutterstock)",
-      "es-ES": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda (© djr-photography/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens, and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
-      "en-GB": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
-      "en-CA": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
-      "en-IN": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
-      "de-DE": "Heute wird der Hobbit-Tag gefeiert, ein Anlass, der Fans von J. R. R. Tolkien auf der ganzen Welt zusammenbringt. Kaum ein Ort verkörpert die Magie seiner Geschichten so eindrucksvoll wie das Hobbit-Haus am Filmset von Hobbiton in Matamata. Eingebettet in die sanften Hügel Neuseelands wirkt die Kulisse, als wäre sie direkt aus den Seiten eines Fantasyromans in die Wirklichkeit versetzt worden.",
-      "fr-FR": "Dans les collines verdoyantes de Matamata, en Nouvelle-Zélande, un décor de cinéma est devenu un lieu à part entière. Installé sur une ferme ovine encore en activité, Hobbiton est né lorsqu’une équipe de repérage des films « Le Seigneur des anneaux » découvrit, en 1998, un paysage remarquablement proche de la Comté imaginée par Tolkien. Les courbes du relief, les prairies parsemées de moutons et la lumière changeante semblaient déjà raconter une histoire. Des portes rondes, des jardins soignés et des cheminées à volutes ont ensuite achevé la métamorphose.",
-      "es-ES": "Casi todos los lugares célebres los construyó la historia; este lo construyó un relato. El decorado de Hobbiton está en Matamata (Nueva Zelanda), sobre una granja de ovejas que en 1998 llamó la atención de los localizadores de El Señor de los Anillos: las colinas ya parecían la Comarca y solo faltaron puertas redondas, huertos ordenados y chimeneas humeantes.",
-      "it-IT": "Quasi tutti i luoghi celebri li ha costruiti la storia; questo l'ha costruito un racconto. Il set di Hobbiton si trova a Matamata (Nuova Zelanda), in una fattoria di pecore che nel 1998 colpì chi cercava le location per Il Signore degli Anelli: le colline sembravano già la Contea, sono bastate porte rotonde, orti in ordine e comignoli fumanti.",
-      "pt-BR": "Alguns lugares entram para a história. Hobbiton, em Matamata, Nova Zelândia, foi feito para dar vida a uma. Quando produtores de “O Senhor dos Anéis” procuravam locações em 1998, encontraram ali colinas verdes que já pareciam pertencer ao Condado. A equipe acrescentou portas redondas, jardins e chaminés, e o cenário foi reconstruído para os filmes de “O Hobbit”. Uma locação temporária acabou virando atração para fãs do mundo inteiro."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-US": "Tolkien Week",
-      "en-GB": "Tolkien Week",
-      "en-CA": "Tolkien Week",
-      "pt-BR": "",
-      "en-IN": "Tolkien Week"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Semana+Tolkien+e+Dia+Hobbit&form=hpcapt&mkt=pt-br",
-      "en-IN": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.TolkienWeek_EN-US7313336185",
-      "en-GB": "/th?id=OHR.TolkienWeek_EN-GB9361035480",
-      "en-CA": "/th?id=OHR.TolkienWeek_EN-CA7225706887",
-      "pt-BR": "/th?id=OHR.TolkienWeek_PT-BR2214990560",
-      "en-IN": "/th?id=OHR.TolkienWeek_EN-IN8323924749"
-    }
-  },
-  "ForestofDean": {
-    "name": "ForestofDean",
-    "urlbase": "/th?id=OHR.ForestofDean_EN-GB3000076093",
-    "date": "20261006",
-    "dateFormatted": "October 06, 2026",
+  "MayotteOctopus": {
+    "name": "MayotteOctopus",
+    "urlbase": "/th?id=OHR.MayotteOctopus_EN-GB3076987688",
+    "date": "20261007",
+    "dateFormatted": "October 07, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1796,11 +1815,6 @@
         "flag": "br"
       },
       {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -1812,79 +1826,73 @@
       }
     ],
     "titles": {
-      "en-GB": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "de-DE": "Wie im Märchen. Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "fr-FR": "La forêt aux mille secrets. Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
-      "it-IT": "Perso? Segui il sentiero",
-      "es-ES": "¿Perdido? Sigue el sendero. Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
-      "pt-BR": "Um labirinto de musgo",
-      "ja-JP": "苔むした森",
-      "zh-CN": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰",
-      "en-IN": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "en-US": "Puzzled? Follow the trail. Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "en-CA": "Puzzled? Follow the trail. Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England"
+      "en-GB": "Now you 'sea' me... World Octopus Day",
+      "de-DE": "Meister der Tarnung. Welttag der Kraken",
+      "fr-FR": "Poulpe fiction. Journée internationale du poulpe",
+      "it-IT": "Ora mi vedi, ora no",
+      "es-ES": "Ahora me ves, ahora no. Día Mundial del Pulpo",
+      "pt-BR": "Oito braços, zero paciência",
+      "zh-CN": "印度洋马约特岛，一只呈防御姿态的章鱼",
+      "en-IN": "Now you 'sea' me... World Octopus Day",
+      "en-US": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean",
+      "en-CA": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean"
     },
     "copyrights": {
-      "en-GB": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-      "de-DE": "Moosbedeckte Felsen im Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-      "fr-FR": "Roches couvertes de mousse à Puzzlewood, forêt de Dean, Gloucestershire, Angleterre (© Fulcanelli_AOS/Getty Images)",
-      "it-IT": "Rocce coperte di muschio a Puzzlewood, Foresta di Dean, Gloucestershire, Inghilterra (© Fulcanelli_AOS/Getty Images)",
-      "es-ES": "Rocas cubiertas de musgo en Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
-      "pt-BR": "Rochas cobertas de musgo em Puzzlewood, Floresta de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
-      "ja-JP": "パズルウッド, イングランド (© Fulcanelli_AOS/Getty Images)",
-      "zh-CN": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)",
-      "en-IN": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-      "en-US": "© Fulcanelli_AOS/Getty Images",
-      "en-CA": "© Fulcanelli_AOS/Getty Images"
+      "en-GB": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
+      "de-DE": "Krake in Abwehrhaltung, Mayotte, Indischer Ozean (© Gabriel Barathieu/Minden Pictures)",
+      "fr-FR": "Poulpe en position défensive, Mayotte, océan Indien (© Gabriel Barathieu/Minden Pictures)",
+      "it-IT": "Polpo in posizione difensiva, Mayotte, Francia, Oceano Indiano (© Gabriel Barathieu/Minden Pictures)",
+      "es-ES": "Pulpo en postura defensiva, Mayotte, Francia, océano Índico (© Gabriel Barathieu/Minden Pictures)",
+      "pt-BR": "Polvo em postura defensiva, Mayotte, Oceano Índico (© Gabriel Barathieu/Minden Pictures)",
+      "zh-CN": "印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)",
+      "en-IN": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
+      "en-US": "© Gabriel Barathieu/Minden Pictures",
+      "en-CA": "© Gabriel Barathieu/Minden Pictures"
     },
     "descs": {
-      "en-GB": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-      "de-DE": "Mitten im Forest of Dean bei Coleford in Gloucestershire, England, wirkt Puzzlewood wie eine Welt aus einem Märchen. Verschlungene Pfade führen zwischen knorrigen Bäumen, moosbedeckten Felsen und tiefen Schluchten hindurch. Ungewöhnlich sind die sogenannten Scowles, geologische Formationen im Kalkstein, die durch natürliche Prozesse entstanden und später für den Abbau von Eisenerz genutzt wurden, bereits in der Eisenzeit und bis in die Römerzeit. Für Spannung sorgt ein Fund aus dem Jahr 1848. Damals entdeckten Arbeiter in einem Felshohlraum drei Tongefäße mit mehr als 3000 römischen Münzen.",
-      "fr-FR": "À Puzzlewood, près de Coleford dans la forêt de Dean en Angleterre, les sentiers ne mènent nulle part — et c'est précisément leur charme. Sous une épaisse couverture de mousse, des roches tourmentées surgissent du sol, creusées de ravins et de cavités mystérieuses que les Romains exploitaient déjà pour leur minerai de fer, il y a plus de deux mille ans.",
-      "es-ES": "En Puzzlewood, junto a Coleford, en el Bosque de Dean (Inglaterra), los senderos serpentean entre árboles retorcidos, rocas tapizadas de musgo y gargantas de piedra que hacen dudar en cada curva. Esas formaciones tan raras se llaman scowles: cavidades naturales que quedaron al descubierto con el tiempo y que después se explotaron para extraer hierro, ya en época romana o incluso antes. En 1848, un trabajador encontró más de 3.000 monedas romanas escondidas en vasijas dentro de una grieta.",
-      "ja-JP": "ここはパズルウッド。イングランドのグロスターシャー州にある「ディーンの森」に広がる古代森林地帯です。苔むした岩や「スカウル」と呼ばれる独特の地形で知られています。不規則で迷路状な窪みが特徴のスカウルは、数百万年にわたり、石灰岩にできた地下洞窟が隆起や浸食によって地表に現れることで形成されました。その後、鉄器時代からローマ時代にかけて、鉄鉱石の採掘に利用されたと考えられています。森の中には、約 1.6km の小道が張り巡らされ、奇岩や洞窟、古木が織りなす幻想的な景観が広がります。その神秘的な雰囲気から、「スター・ウォーズ／フォースの覚醒」をはじめ、さまざまな映画のロケ地としても使用されています。",
-      "en-IN": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-      "en-US": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks, and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-      "en-CA": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-      "it-IT": "A Puzzlewood, vicino a Coleford, nella Foresta di Dean (Inghilterra), i sentieri serpeggiano tra alberi contorti, rocce tappezzate di muschio e gole di pietra che fanno perdere l'orientamento a ogni curva. Quelle formazioni così strane si chiamano scowles: cavità naturali affiorate col tempo e poi sfruttate per estrarre ferro, già in epoca romana o forse prima. Nel 1848 un operaio trovò oltre 3.000 monete romane nascoste in alcuni vasi dentro una fenditura.",
-      "pt-BR": "Árvores retorcidas, ravinas de pedra, rochas cobertas de musgo e antigas moedas romanas escondidas. Parece cenário de fantasia, mas Puzzlewood existe de verdade. Na Floresta de Dean, Inglaterra, suas trilhas serpenteiam por um terreno marcado por formações geológicas naturais que incluem cavidades e paredões rochosos. Expostas e transformadas por processos naturais ao longo do tempo, essas formações também foram exploradas em busca de minério de ferro durante o período romano e, possivelmente, antes dele.",
-      "zh-CN": "如果一片森林能让你每转一个弯都捉摸不透，会是什么样？英国格洛斯特郡谜林位于英格兰迪恩森林的科尔福德附近，蜿蜒的小径穿过扭曲的树木、覆满苔藓的岩石和幽深的石质沟壑。这里不同寻常的岩层被称为“斯科尔斯”，是一种天然地质特征，随着时间推移逐渐裸露并发生改变，后来在罗马时期、甚至可能在更早以前被人们开采铁矿石。1848年，一名工人在一个岩洞内的陶罐中发现了3,000多枚罗马时代的钱币，使这片林地变成了一场现实中的寻宝之旅。"
+      "en-GB": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean. Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
+      "de-DE": "Am 8. Oktober wird der Welttag der Kraken gefeiert. Der Aktionstag lenkt die Aufmerksamkeit auf eine faszinierende Tiergruppe, die für ihre Intelligenz, ihre Anpassungsfähigkeit und ihre erstaunlichen Überlebensstrategien bekannt ist. Kraken leben in nahezu allen Ozeanen der Erde und begeistern Forschende ebenso wie Naturfreunde mit ihrem komplexen Verhalten.",
+      "fr-FR": "Poulpe fiction. Poulpe en position défensive, Mayotte, océan Indien. Au large de Mayotte, archipel français de l'océan Indien, ce poulpe a adopté une posture sans équivoque : ce qui s'approche ferait mieux de rebrousser chemin.",
+      "es-ES": "Frente a las costas de Mayotte (Francia), en el océano Índico, este pulpo ha adoptado una postura defensiva que viene a decir: quien se acerque, que se lo piense mejor. Es una advertencia con estilo, porque en lugar de coraza confía en la transformación.",
+      "en-IN": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean. Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
+      "en-US": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean. Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
+      "en-CA": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean. Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
+      "it-IT": "Davanti alle coste di Mayotte (Francia), nell'Oceano Indiano, questo polpo ha assunto una posizione difensiva che significa più o meno: chi si avvicina, ci pensi due volte. È un avvertimento con stile, perché al posto della corazza punta tutto sulla trasformazione.",
+      "pt-BR": "No litoral de Mayotte, no Oceano Índico, este polvo adota uma postura que parece dizer: “mantenha distância”. Com os braços erguidos e o corpo pronto para reagir, ele exibe uma das muitas estratégias de defesa de um animal que fez da adaptação uma arte.",
+      "zh-CN": "显然有什么东西越界了。在印度洋马约特岛近海，这只章鱼摆出了一副防御姿态，仿佛在说：无论是什么正在靠近，都该重新考虑一下自己的生命选择。"
     },
     "quickFacts": {
-      "zh-CN": "英国格洛斯特郡谜林位于迪恩森林，是极为罕见的内陆温带雨林生态系统残片。"
+      "zh-CN": "章鱼的化学触觉受体由古老的神经递质受体演化而来，并能检测难溶性分子。"
     },
     "captions": {
-      "en-GB": "Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "de-DE": "Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "fr-FR": "Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
+      "en-GB": "World Octopus Day",
+      "de-DE": "Welttag der Kraken",
+      "fr-FR": "Journée internationale du poulpe",
       "it-IT": "",
-      "es-ES": "Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
+      "es-ES": "Día Mundial del Pulpo",
       "pt-BR": "",
-      "ja-JP": "苔むした森",
       "zh-CN": "",
-      "en-IN": "Puzzlewood, Forest of Dean, Gloucestershire, England"
+      "en-IN": "World Octopus Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261006_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Puzzlewood+England+Informationen&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Puzzlewood+Angleterre&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Puzzlewood+Foresta+di+Dean&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Puzzlewood+Bosque+de+Dean&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Puzzlewood+na+Inglaterra&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%b3%e3%81%ae%e6%a3%ae%e3%81%ae%e3%83%91%e3%82%ba%e3%83%ab%e3%82%a6%e3%83%83%e3%83%89&form=hpcapt&filters=HpDate%3a%2220261006_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%8b%b1%e5%9b%bd%e6%a0%bc%e6%b4%9b%e6%96%af%e7%89%b9%e9%83%a1%e8%b0%9c%e6%9e%97&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261006_1830%22"
+      "en-GB": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261007_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Welttag+der+Kraken&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+poulpe&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+del+polpo&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+del+Pulpo&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Polvo&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e7%ab%a0%e9%b1%bc%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261007_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.ForestofDean_EN-GB3000076093",
-      "de-DE": "/th?id=OHR.ForestofDean_DE-DE4809664679",
-      "fr-FR": "/th?id=OHR.ForestofDean_FR-FR4745623763",
-      "it-IT": "/th?id=OHR.ForestofDean_IT-IT9133753492",
-      "es-ES": "/th?id=OHR.ForestofDean_ES-ES3526600939",
-      "pt-BR": "/th?id=OHR.ForestofDean_PT-BR7892976998",
-      "ja-JP": "/th?id=OHR.ForestofDean_JA-JP0675230191",
-      "zh-CN": "/th?id=OHR.ForestofDean_ZH-CN2654753621",
-      "en-IN": "/th?id=OHR.ForestofDean_EN-IN7618980046"
+      "en-GB": "/th?id=OHR.MayotteOctopus_EN-GB3076987688",
+      "de-DE": "/th?id=OHR.MayotteOctopus_DE-DE5307771405",
+      "fr-FR": "/th?id=OHR.MayotteOctopus_FR-FR2063163267",
+      "it-IT": "/th?id=OHR.MayotteOctopus_IT-IT1227542362",
+      "es-ES": "/th?id=OHR.MayotteOctopus_ES-ES3892391318",
+      "pt-BR": "/th?id=OHR.MayotteOctopus_PT-BR8613458745",
+      "zh-CN": "/th?id=OHR.MayotteOctopus_ZH-CN2837659998",
+      "en-IN": "/th?id=OHR.MayotteOctopus_EN-IN7698524475"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -2310,38 +2318,6 @@
       "it-IT": "/th?id=OHR.PerugiaAqueduct_IT-IT7918245077"
     }
   },
-  "FiestaMerceBarcelona": {
-    "name": "FiestaMerceBarcelona",
-    "urlbase": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972",
-    "date": "20260923",
-    "dateFormatted": "September 23, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "La ciudad está de fiesta. Fiestas de La Mercè de Barcelona"
-    },
-    "copyrights": {
-      "es-ES": "Vista del Parque Güell en Barcelona, Cataluña, España (© Vershinin/Getty Images)"
-    },
-    "descs": {
-      "es-ES": "Hoy Barcelona (Cataluña, España) celebra a su patrona y se echa a la calle: es el día de la Mercè, festivo en la ciudad y punto álgido de una fiesta mayor que desde 1871 despide el verano con un programa desplegado por plazas, calles y playas."
-    },
-    "quickFacts": {},
-    "captions": {
-      "es-ES": "Fiestas de La Mercè de Barcelona"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=La+Merc%c3%a8&form=hpcapt&filters=HpDate%3a%2220260923_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972"
-    }
-  },
   "Camburiu": {
     "name": "Camburiu",
     "urlbase": "/th?id=OHR.Camburiu_PT-BR2030410087",
@@ -2406,6 +2382,40 @@
       "pt-BR": "/th?id=OHR.GreenLake_PT-BR0948770849"
     }
   },
+  "Chestnut2026": {
+    "name": "Chestnut2026",
+    "urlbase": "/th?id=OHR.Chestnut2026_JA-JP0900389061",
+    "date": "20261007",
+    "dateFormatted": "October 07, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は寒露"
+    },
+    "copyrights": {
+      "ja-JP": "栗の実 (© y-studio/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日 10 月 8 日は二十四節気の寒露。朝晩の冷え込みが増し、秋の深まりを感じる頃です。秋は「食欲の秋」ともいわれるように、栗やしいたけ、秋サバなどさまざまな食べ物が旬を迎えます。そして画像は、秋の味覚の代表格である栗。栗は、実は定義によって野菜にも果物にも木の実にも分類される食材です。その歴史は古く、縄文時代の遺跡からも見つかっており、太古の昔から私たちの食生活に関わっていました。現在も、栗ご飯や甘露煮のほか、モンブランや渋皮煮などさまざまな料理や菓子に利用され、秋の食卓を彩っています。"
+    },
+    "quickFacts": {
+      "ja-JP": "栗には 100g あたり約 33mg のビタミン C が含まれており、トマトの約 2 倍です。さらに、加熱しても壊れにくいです。"
+    },
+    "captions": {
+      "ja-JP": "今日は寒露"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e5%af%92%e9%9c%b2&form=hpcapt&filters=HpDate%3a%2220261007_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Chestnut2026_JA-JP0900389061"
+    }
+  },
   "AmmoniteFossils": {
     "name": "AmmoniteFossils",
     "urlbase": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090",
@@ -2427,7 +2437,8 @@
       "es-ES": "Espirales en el tiempo. Fósiles de amonites del Jurásico",
       "pt-BR": "O Jurássico mandou lembranças. Fósseis de amonites do período Jurássico",
       "zh-CN": "侏罗纪时期的菊石化石",
-      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period"
+      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period",
+      "en-US": "Spirals through time. Ammonite fossils from the Jurassic Period"
     },
     "copyrights": {
       "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)",
@@ -2438,7 +2449,8 @@
       "es-ES": "© J Nemchinova/Getty Images",
       "pt-BR": "© J Nemchinova/Getty Images",
       "zh-CN": "© J Nemchinova/Getty Images",
-      "en-IN": "© J Nemchinova/Getty Images"
+      "en-IN": "© J Nemchinova/Getty Images",
+      "en-US": "© J Nemchinova/Getty Images"
     },
     "descs": {
       "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
@@ -2449,7 +2461,8 @@
       "es-ES": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
       "pt-BR": "Como contar a história de um mundo sem testemunhas? Muito antes da escrita, dos mapas ou dos primeiros seres humanos, a Terra já mantinha seus próprios arquivos. Não em papel, mas em pedra. Cada fóssil preserva fragmentos de vidas desaparecidas e ajuda cientistas a reconstruir oceanos, paisagens e criaturas que sumiram há milhões de anos.",
       "zh-CN": "我们如何知道早在人类出现之前地球是什么样子？化石提供了许多线索。国家化石日旨在赞颂古生物学，以及那些帮助科学家重建过去环境、追溯生命演化并了解数百万年前消失生物的发现。从恐龙到微小的海洋生物，这些过去的遗存保存着早已不复存在的远古世界的一个个瞬间。",
-      "en-IN": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist."
+      "en-IN": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "en-US": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. National Fossil Day celebrates paleontology and the discoveries that help scientists reconstruct past environments, trace the evolution of life, and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist."
     },
     "quickFacts": {
       "ja-JP": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。",
@@ -2459,7 +2472,8 @@
       "it-IT": "Un fossile non è per forza un osso: anche impronte, tane, nidi e altre tracce di vita antica possono fossilizzare.",
       "es-ES": "Un fósil no tiene que ser un hueso: huellas, madrigueras, nidos y otros rastros de vida antigua también pueden fosilizar.",
       "zh-CN": "化石不一定非得是骨骼。足迹、洞道、巢穴以及古代生命留下的其他痕迹也可以成为化石。",
-      "en-IN": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too."
+      "en-IN": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
+      "en-US": "A fossil doesn't have to be a bone. Tracks, burrows, nests, and other traces of ancient life can become fossils too."
     },
     "captions": {
       "ja-JP": "古代の海に生息していた動物の化石"
@@ -2565,6 +2579,126 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "TolkienWeek": {
+    "name": "TolkienWeek",
+    "urlbase": "/th?id=OHR.TolkienWeek_EN-US7313336185",
+    "date": "20260923",
+    "dateFormatted": "September 23, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Beyond the last page. Tolkien Week",
+      "en-GB": "Beyond the last page. Tolkien Week",
+      "en-CA": "Beyond the last page. Tolkien Week",
+      "pt-BR": "Muito além da última página",
+      "en-IN": "Beyond the last page. Tolkien Week",
+      "de-DE": "Willkommen in Hobbiton. Hobbit-Tag",
+      "fr-FR": "Au-delà de la dernière page. Journée du Hobbit",
+      "it-IT": "Oltre l'ultima pagina",
+      "es-ES": "Donde lo pequeño se hace grande. Decorado de películas de Hobbiton, Matamata, Nueva Zelanda"
+    },
+    "copyrights": {
+      "en-US": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "en-GB": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "en-CA": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "pt-BR": "Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)",
+      "en-IN": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+      "de-DE": "Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland (© djr-photography/Shutterstock)",
+      "fr-FR": "Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)",
+      "it-IT": "La Casa di Hobbit presso il Set Cinematografico di Hobbiton, Matamata, Nuova Zelanda (© djr-photography/Shutterstock)",
+      "es-ES": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda (© djr-photography/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens, and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
+      "en-GB": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
+      "en-CA": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for The Lord of the Rings in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for The Hobbit films and became a destination for those eager to step into Middle-earth.",
+      "en-IN": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
+      "de-DE": "Heute wird der Hobbit-Tag gefeiert, ein Anlass, der Fans von J. R. R. Tolkien auf der ganzen Welt zusammenbringt. Kaum ein Ort verkörpert die Magie seiner Geschichten so eindrucksvoll wie das Hobbit-Haus am Filmset von Hobbiton in Matamata. Eingebettet in die sanften Hügel Neuseelands wirkt die Kulisse, als wäre sie direkt aus den Seiten eines Fantasyromans in die Wirklichkeit versetzt worden.",
+      "fr-FR": "Dans les collines verdoyantes de Matamata, en Nouvelle-Zélande, un décor de cinéma est devenu un lieu à part entière. Installé sur une ferme ovine encore en activité, Hobbiton est né lorsqu’une équipe de repérage des films « Le Seigneur des anneaux » découvrit, en 1998, un paysage remarquablement proche de la Comté imaginée par Tolkien. Les courbes du relief, les prairies parsemées de moutons et la lumière changeante semblaient déjà raconter une histoire. Des portes rondes, des jardins soignés et des cheminées à volutes ont ensuite achevé la métamorphose.",
+      "es-ES": "Casi todos los lugares célebres los construyó la historia; este lo construyó un relato. El decorado de Hobbiton está en Matamata (Nueva Zelanda), sobre una granja de ovejas que en 1998 llamó la atención de los localizadores de El Señor de los Anillos: las colinas ya parecían la Comarca y solo faltaron puertas redondas, huertos ordenados y chimeneas humeantes.",
+      "it-IT": "Quasi tutti i luoghi celebri li ha costruiti la storia; questo l'ha costruito un racconto. Il set di Hobbiton si trova a Matamata (Nuova Zelanda), in una fattoria di pecore che nel 1998 colpì chi cercava le location per Il Signore degli Anelli: le colline sembravano già la Contea, sono bastate porte rotonde, orti in ordine e comignoli fumanti.",
+      "pt-BR": "Alguns lugares entram para a história. Hobbiton, em Matamata, Nova Zelândia, foi feito para dar vida a uma. Quando produtores de “O Senhor dos Anéis” procuravam locações em 1998, encontraram ali colinas verdes que já pareciam pertencer ao Condado. A equipe acrescentou portas redondas, jardins e chaminés, e o cenário foi reconstruído para os filmes de “O Hobbit”. Uma locação temporária acabou virando atração para fãs do mundo inteiro."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Tolkien Week",
+      "en-GB": "Tolkien Week",
+      "en-CA": "Tolkien Week",
+      "pt-BR": "",
+      "en-IN": "Tolkien Week"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Semana+Tolkien+e+Dia+Hobbit&form=hpcapt&mkt=pt-br",
+      "en-IN": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.TolkienWeek_EN-US7313336185",
+      "en-GB": "/th?id=OHR.TolkienWeek_EN-GB9361035480",
+      "en-CA": "/th?id=OHR.TolkienWeek_EN-CA7225706887",
+      "pt-BR": "/th?id=OHR.TolkienWeek_PT-BR2214990560",
+      "en-IN": "/th?id=OHR.TolkienWeek_EN-IN8323924749"
+    }
+  },
+  "FiestaMerceBarcelona": {
+    "name": "FiestaMerceBarcelona",
+    "urlbase": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972",
+    "date": "20260923",
+    "dateFormatted": "September 23, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "La ciudad está de fiesta. Fiestas de La Mercè de Barcelona"
+    },
+    "copyrights": {
+      "es-ES": "Vista del Parque Güell en Barcelona, Cataluña, España (© Vershinin/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "Hoy Barcelona (Cataluña, España) celebra a su patrona y se echa a la calle: es el día de la Mercè, festivo en la ciudad y punto álgido de una fiesta mayor que desde 1871 despide el verano con un programa desplegado por plazas, calles y playas."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Fiestas de La Mercè de Barcelona"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=La+Merc%c3%a8&form=hpcapt&filters=HpDate%3a%2220260923_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972"
     }
   },
   "FallAspens": {
