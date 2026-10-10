@@ -1,4 +1,148 @@
 {
+  "IlesSanguinaires": {
+    "name": "IlesSanguinaires",
+    "urlbase": "/th?id=OHR.IlesSanguinaires_EN-US5801644173",
+    "date": "20261009",
+    "dateFormatted": "October 09, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
+      "en-GB": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
+      "en-CA": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
+      "de-DE": "Korsikas felsige Inseln. Blick auf die Îles Sanguinaires vor Korsika, Frankreich",
+      "fr-FR": "Les îles du bout du monde. Vue des îles Sanguinaires depuis la Corse",
+      "it-IT": "Le sentinelle della Corsica",
+      "es-ES": "Los centinelas de Córcega. Islas Sanguinarias vistas desde Córcega, Francia",
+      "pt-BR": "Um horizonte bem ocupado",
+      "ja-JP": "コルシカ島を彩る美しい夕日",
+      "zh-CN": "桑吉奈尔群岛景观，摄自科西嘉岛，法国",
+      "en-IN": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France"
+    },
+    "copyrights": {
+      "en-US": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
+      "en-GB": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
+      "en-CA": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
+      "de-DE": "Blick auf die Îles Sanguinaires vor Korsika, Frankreich (© Francesco Riccardo Iacomino/Getty Images)",
+      "fr-FR": "Vue des îles Sanguinaires depuis la Corse (© Francesco Riccardo Iacomino/Getty Images)",
+      "it-IT": "Veduta delle isole Sanguinarie dalla Corsica, Francia (© Francesco Riccardo Iacomino/Getty Images)",
+      "es-ES": "Vista de las islas Sanguinarias desde Córcega, Francia (© Francesco Riccardo Iacomino/Getty Images)",
+      "pt-BR": "Vista das Ilhas Sanguinárias a partir da Córsega, França (© Francesco Riccardo Iacomino/Getty Images)",
+      "ja-JP": "サンギネール諸島, フランス (© Francesco Riccardo Iacomino/Getty Images)",
+      "zh-CN": "桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)",
+      "en-IN": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks, and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.2 miles from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves, and salt spray.",
+      "en-GB": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.2 miles from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
+      "en-CA": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.9 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
+      "de-DE": "Die Îles Sanguinaires sind eine kleine Inselgruppe vor der Westküste Korsikas in Frankreich. Am Eingang des Golfs von Ajaccio ragen vier markante Felseninseln aus dem Mittelmeer empor. Von der Küste aus bieten sie ein eindrucksvolles Panorama, das von den kräftigen Farben des Meeres und den dunklen Granitfelsen geprägt wird.",
+      "fr-FR": "À deux kilomètres à peine des côtes corses, les îles Sanguinaires surgissent de la Méditerranée comme une poignée de rochers jetés par quelque titan oublié. Vues depuis une tour de guet historique dominant le golfe d'Ajaccio, elles semblent pourtant appartenir à un autre monde — battu par le vent, sculpté par les vagues et le sel.",
+      "es-ES": "Frente a la costa de Córcega (Francia), las islas Sanguinarias emergen del Mediterráneo como un pequeño archipiélago de cuatro islotes rocosos y escarpados. Vistos desde una antigua torre de vigilancia, custodian la entrada del golfo de Ajaccio, y aunque el más alejado queda a menos de dos kilómetros de tierra firme, el conjunto transmite un aislamiento sorprendente, moldeado por el viento, las olas y el salitre.",
+      "ja-JP": "フランス・コルシカ島の沖合に浮かぶサンギネール諸島。4 つの小さな島で構成された群島で、近隣の街アジャクシオからは、島の荒々しい岩肌と透明度の高い海が織りなす景観を眺めることができます。各島には海鳥や地中海特有の植物が生息しており、その自然環境保護のため、基本的に立ち入れるのは最も大きな島であるメズ・マレ島のみです。メズ・マレ島には、灯台が設置されているほか、遊歩道も整備されており、島の散策を楽しむことができます。",
+      "en-IN": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 2 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
+      "it-IT": "Davanti alla costa della Corsica (Francia), le isole Sanguinarie emergono dal Mediterraneo come un piccolo arcipelago di quattro isolotti rocciosi e scoscesi. Osservate da un'antica torre di guardia, presidiano l'ingresso del Golfo di Ajaccio: il più lontano dista meno di due chilometri dalla terraferma, e nonostante questo il gruppo trasmette un isolamento sorprendente, modellato da vento, onde e salsedine.",
+      "pt-BR": "O Mediterrâneo tem um talento especial para fazer quatro ilhas parecerem um mundo à parte. Na costa da Córsega, França, as Ilhas Sanguinárias ficam na entrada do Golfo de Ajaccio, cercadas por água, falésias, rochas e vegetação que já aprendeu a lidar com vento e sal. A mais distante está a cerca de 2 quilômetros do continente, mas, do alto de uma torre de vigia, a conta parece outra: o arquipélago ganha cara de lugar remoto.",
+      "zh-CN": "桑吉奈尔群岛就在法国科西嘉岛近海，从地中海中拔地而起，是一个由四座崎岖岩石岛屿组成的小型群岛。从一座历史悠久的瞭望塔望去，它们坐落在阿雅克肖湾的入口处。陡峭的悬崖、历经数百年的地标和开阔的海景，世世代代吸引着游客来到这一地区。尽管最远的岛屿距离海岸仅约1.2英里，但这片群岛给人的感觉却出奇地偏远：它四周被开阔水域环绕，并受到风、海浪和盐雾的塑造。"
+    },
+    "quickFacts": {
+      "zh-CN": "建造桑吉奈尔灯塔时，石料必须用驳船运到岛上，再从岩石海岸吊运上去。"
+    },
+    "captions": {
+      "en-US": "View of the Sanguinaires Islands from Corsica, France",
+      "en-GB": "View of the Sanguinaires Islands from Corsica, France",
+      "en-CA": "View of the Sanguinaires Islands from Corsica, France",
+      "de-DE": "Blick auf die Îles Sanguinaires vor Korsika, Frankreich",
+      "fr-FR": "Vue des îles Sanguinaires depuis la Corse",
+      "it-IT": "",
+      "es-ES": "Islas Sanguinarias vistas desde Córcega, Francia",
+      "pt-BR": "",
+      "ja-JP": "コルシカ島を彩る美しい夕日",
+      "zh-CN": "",
+      "en-IN": "View of the Sanguinaires Islands from Corsica, France"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261008_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0400%22",
+      "de-DE": "https://www.bing.com/search?q=%c3%8eles+Sanguinaires+Frankreich&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=archipel+des+Sanguinaires+Corse&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Isole+Sanguinarie&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=islas+Sanguinarias&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Ilhas+Sanguin%c3%a1rias+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%ae%e3%83%8d%e3%83%bc%e3%83%ab%e8%ab%b8%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220261008_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%a7%91%e8%a5%bf%e5%98%89%e5%b2%9b%e6%a1%91%e5%90%89%e5%a5%88%e5%b0%94%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261008_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.IlesSanguinaires_EN-US5801644173",
+      "en-GB": "/th?id=OHR.IlesSanguinaires_EN-GB3151593517",
+      "en-CA": "/th?id=OHR.IlesSanguinaires_EN-CA1335462039",
+      "de-DE": "/th?id=OHR.IlesSanguinaires_DE-DE5457015089",
+      "fr-FR": "/th?id=OHR.IlesSanguinaires_FR-FR5994303029",
+      "it-IT": "/th?id=OHR.IlesSanguinaires_IT-IT9763114016",
+      "es-ES": "/th?id=OHR.IlesSanguinaires_ES-ES4266688471",
+      "pt-BR": "/th?id=OHR.IlesSanguinaires_PT-BR8805004077",
+      "ja-JP": "/th?id=OHR.IlesSanguinaires_JA-JP1377358410",
+      "zh-CN": "/th?id=OHR.IlesSanguinaires_ZH-CN3149346035",
+      "en-IN": "/th?id=OHR.IlesSanguinaires_EN-IN7867200667"
+    }
+  },
   "MayotteOctopus": {
     "name": "MayotteOctopus",
     "urlbase": "/th?id=OHR.MayotteOctopus_EN-US5694987016",
@@ -600,6 +744,11 @@
         "flag": "de"
       },
       {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
         "code": "it-IT",
         "name": "IT",
         "flag": "it"
@@ -635,36 +784,36 @@
       "en-GB": "The universe is calling. World Space Week begins",
       "en-CA": "The universe is calling. World Space Week begins",
       "de-DE": "Der Ruf des Universums. Weltraumwoche",
+      "fr-FR": "L'univers nous appelle. Semaine mondiale de l’espace",
       "it-IT": "L'universo ci chiama",
       "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
       "pt-BR": "Partiu, universo!",
       "ja-JP": "今日から世界宇宙週間",
       "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日",
-      "en-IN": "The universe is calling. World Space Week begins",
-      "fr-FR": "L'univers nous appelle. Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022"
+      "en-IN": "The universe is calling. World Space Week begins"
     },
     "copyrights": {
       "en-US": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
       "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
       "en-CA": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
       "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "fr-FR": "Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
       "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
       "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
       "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
       "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
       "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
-      "fr-FR": "© EVA MARIE UZCATEGUI/Getty Images"
+      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)"
     },
     "descs": {
       "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
       "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
       "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
       "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
+      "fr-FR": "L'univers nous appelle. Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022. D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
       "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
       "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
       "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "fr-FR": "L'univers nous appelle. Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022. D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
       "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
       "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
       "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
@@ -677,6 +826,7 @@
       "en-GB": "World Space Week begins",
       "en-CA": "World Space Week begins",
       "de-DE": "Weltraumwoche",
+      "fr-FR": "Semaine mondiale de l’espace",
       "it-IT": "",
       "es-ES": "Comienza la Semana Mundial del Espacio",
       "pt-BR": "",
@@ -689,6 +839,7 @@
       "en-GB": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_2300%22",
       "en-CA": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0400%22",
       "de-DE": "https://www.bing.com/search?q=Weltraumwoche&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=semaine+mondiale+de+l%27espace&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
       "it-IT": "https://www.bing.com/search?q=Settimana+mondiale+dello+spazio&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Semana+Mundial+del+Espacio&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=hpcapt&mkt=pt-br",
@@ -701,6 +852,7 @@
       "en-GB": "/th?id=OHR.ArtemisRocket_EN-GB2659306567",
       "en-CA": "/th?id=OHR.ArtemisRocket_EN-CA8945669255",
       "de-DE": "/th?id=OHR.ArtemisRocket_DE-DE4474155042",
+      "fr-FR": "/th?id=OHR.ArtemisRocket_FR-FR7987344274",
       "it-IT": "/th?id=OHR.ArtemisRocket_IT-IT8266299733",
       "es-ES": "/th?id=OHR.ArtemisRocket_ES-ES2701886938",
       "pt-BR": "/th?id=OHR.ArtemisRocket_PT-BR6940961892",
@@ -769,7 +921,7 @@
       "it-IT": "Pesca, mangia, ripeti",
       "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
       "pt-BR": "O último buffet do ano",
-      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊",
+      "zh-CN": "捕捉、进食、重复",
       "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
       "en-CA": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States"
     },
@@ -1582,36 +1734,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1645,109 +1767,20 @@
       "zh-CN": "熊耳委员会汇集五个部落民族，共同参与指导这座国家纪念区的管理与保护。"
     },
     "captions": {
-      "en-US": "National Public Lands Day",
-      "en-GB": "Bears Ears National Monument, Utah, United States",
-      "it-IT": "",
-      "es-ES": "Monumento Nacional Bears Ears, Utah, EE. UU.",
-      "ja-JP": "標高約2,000mから見渡す大峡谷",
-      "zh-CN": "",
-      "en-IN": "Bears Ears National Monument, Utah, United States"
+      "en-US": "National Public Lands Day"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Public+Lands+Day&form=hpcapt&filters=HpDate%3a%2220260926_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Bears+Ears+National+Monument&form=hpcapt&filters=HpDate%3a%2220260925_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Monumento+Nazionale+Bears+Ears&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Condado+de+San+Juan+Utah&form=hpcapt&filters=HpDate%3a%2220260925_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%83%bc%e3%83%80%e3%83%bc%e3%83%a1%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260925_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%86%8a%e8%80%b3%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%8c%ba&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Bears+Ears+National+Monument&form=hpcapt&filters=HpDate%3a%2220260925_1830%22"
+      "en-US": "https://www.bing.com/search?q=National+Public+Lands+Day&form=hpcapt&filters=HpDate%3a%2220260926_0700%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.BearsEars_EN-US9429791451",
-      "en-GB": "/th?id=OHR.BearsEars_EN-GB9519047413",
-      "it-IT": "/th?id=OHR.BearsEars_IT-IT8450841263",
-      "es-ES": "/th?id=OHR.BearsEars_ES-ES7934745679",
-      "ja-JP": "/th?id=OHR.BearsEars_JA-JP8214752036",
-      "zh-CN": "/th?id=OHR.BearsEars_ZH-CN0496897450",
-      "en-IN": "/th?id=OHR.BearsEars_EN-IN8507636618"
+      "en-US": "/th?id=OHR.BearsEars_EN-US9429791451"
     }
   },
-  "MidAutumn2026": {
-    "name": "MidAutumn2026",
-    "urlbase": "/th?id=OHR.MidAutumn2026_EN-US9341405351",
-    "date": "20260925",
-    "dateFormatted": "September 25, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "When the moon joins the party. Mid-Autumn Festival",
-      "en-GB": "When the moon joins the party. Mid-Autumn Festival",
-      "en-CA": "When the moon joins the party. Mid-Autumn Festival",
-      "de-DE": "Wenn der Mond mitfeiert. Mondfest",
-      "fr-FR": "Quand la lune est de la partie. Fête de la Mi-Automne",
-      "it-IT": "Quando la luna si unisce alla festa",
-      "es-ES": "Cuando la luna se une a la fiesta. Fiesta del Medio Otoño",
-      "pt-BR": "Quando a lua entra na festa",
-      "ja-JP": "今日は中秋の名月",
-      "zh-CN": "当月亮也来赴会",
-      "en-IN": "When the moon joins the party. Mid-Autumn Festival"
-    },
-    "copyrights": {
-      "en-US": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
-      "en-GB": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
-      "en-CA": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
-      "de-DE": "Chinesische Laternen zum Mondfest (© LeeYiuTung/Getty Images)",
-      "fr-FR": "Lanternes chinoises lors de la Fête de la Mi-Automne (© LeeYiuTung/Getty Images)",
-      "it-IT": "Lanterne cinesi per la celebrazione della Festa di metà autunno (© LeeYiuTung/Getty Images)",
-      "es-ES": "Faroles chinos para la celebración de la Fiesta del Medio Otoño (© LeeYiuTung/Getty Images)",
-      "pt-BR": "Lanternas chinesas para a celebração do Festival da Lua, Hong Kong, China (© LeeYiuTung/Getty Images)",
-      "ja-JP": "中秋節用の中国提灯 (© LeeYiuTung/Getty Images)",
-      "zh-CN": "庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)",
-      "en-IN": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)"
-    },
-    "descs": {
-      "en-US": "What if the full moon were the guest of honor at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honoring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
-      "en-GB": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
-      "en-CA": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
-      "de-DE": "Das Mondfest, auch als Mittherbstfest bekannt, zählt zu den bedeutendsten traditionellen Feiertagen Chinas. Es wird am fünfzehnten Tag des achten Monats im chinesischen Mondkalender gefeiert und ist eng mit dem Vollmond verbunden. Seine Ursprünge reichen mehr als 3.000 Jahre zurück und gehen auf Rituale zur Verehrung des Mondes während der Zhou-Dynastie zurück. Heute ist das Fest vor allem ein Anlass für Familien, gemeinsam Zeit zu verbringen. Chinesische Laternen gehören dabei zu den bekanntesten Symbolen und verleihen den Feierlichkeiten mit ihrem warmen Licht eine besondere Atmosphäre.",
-      "fr-FR": "Et si la pleine lune était l’invitée d’honneur d’un repas familial ? Voici l’esprit de la Fête de la Mi-Automne, ou Fête de la Lune, célébrée le quinzième jour du huitième mois lunaire. Comptant parmi les grandes traditions chinoises, elle plonge ses racines il y a plus de trois millénaires, jusqu’aux rituels de la dynastie Zhou. À la tombée du soir, les récits de Chang’e, qui aurait bu un élixir d’immortalité avant de rejoindre la lune, continuent de nourrir l’imaginaire collectif.",
-      "es-ES": "Hoy, 25 de septiembre, millones de personas en China y en el resto de Asia oriental celebran la Fiesta del Medio Otoño, la noche en que la luna llena se convierte en invitada de honor. Cae el decimoquinto día del octavo mes lunar, así que la fecha baila cada año.",
-      "ja-JP": "2026 年は、今日 9 月 25 日が中秋の名月。お団子やススキなどをお供えしてお月見を楽しむ日であるとともに、秋の実りに感謝し、翌年の豊穣を祈願する日です。旧暦の 8 月 15 日にあたり、中国の中秋節に由来しています。日本ではお団子が主流ですが、中国では「月餅」という丸いお菓子を食べます。この月餅は、満月をかたどっているとともに、家族の円満や団らんを象徴しており、家族で集まって食べることで、全員の幸せを祈ります。",
-      "en-IN": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
-      "it-IT": "Oggi, 25 settembre, milioni di persone in Cina e in tutta l'Asia orientale celebrano la Festa di metà autunno, la notte in cui la luna piena diventa l'ospite d'onore. Cade il quindicesimo giorno dell'ottavo mese lunare, quindi la data si sposta ogni anno sul nostro calendario.",
-      "pt-BR": "Já imaginou se a Lua fosse a convidada de honra do jantar? É essa a ideia do Festival do Meio do Outono, ou Festival da Lua. Com raízes de mais de 3 mil anos, é uma das celebrações mais tradicionais da cultura chinesa. Famílias se reúnem, lanternas iluminam as ruas e entram em cena os bolinhos da Lua, doces recheados cuja forma redonda representa união e completude. Uma lenda curiosa diz que, na dinastia Yuan, mensagens secretas eram escondidas nos bolinhos para organizar uma revolta contra os governantes mongóis.",
-      "zh-CN": "如果满月是你家宴上的贵宾，会是什么情景？这正是中秋节的意蕴，中秋节也被称为月亮节。这个节日在农历八月十五庆祝，是中国文化中最重要的节日之一。它的源头可追溯至3,000多年前周朝时期的祭月仪式。最广为人知的传说讲述了嫦娥服下长生不老药后飞上月宫的故事。"
-    },
-    "quickFacts": {
-      "en-US": "A record-breaking mooncake in China once weighed nearly 13 tons and measured over 26 feet wide.",
-      "en-GB": "A record-breaking mooncake in China once weighed nearly 12 tonnes and measured about 8 metres wide.",
-      "en-CA": "A record-breaking mooncake in China once weighed nearly 13 tonnes and measured over 7 metres wide.",
-      "de-DE": "Ein rekordverdächtiger Mondkuchen in China wog einst fast 13 Tonnen und hatte einen Durchmesser von über 8 Metern.",
-      "fr-FR": "En Chine, le plus gros gâteau de la Lune jamais préparé pesait près de 13 tonnes et mesurait près de 8 mètres de large.",
-      "ja-JP": "中国では、月には「玉兎（ぎょくと）」というウサギが住み、不老不死の薬を作っていると伝えられています。",
-      "zh-CN": "中国曾制作出一个破纪录的月饼，重近13吨，直径超过26英尺。",
-      "en-IN": "A record-breaking mooncake in China once weighed nearly 12 tonnes and measured about 8 metres wide."
-    },
-    "captions": {
-      "en-US": "Mid-Autumn Festival"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Mid+Autumn+Festival&form=hpcapt&filters=HpDate%3a%2220260925_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.MidAutumn2026_EN-US9341405351"
-    }
-  },
-  "IlesSanguinaires": {
-    "name": "IlesSanguinaires",
-    "urlbase": "/th?id=OHR.IlesSanguinaires_EN-GB3151593517",
-    "date": "20261008",
-    "dateFormatted": "October 08, 2026",
+  "CormorantsFlight": {
+    "name": "CormorantsFlight",
+    "urlbase": "/th?id=OHR.CormorantsFlight_EN-GB3315477514",
+    "date": "20261009",
+    "dateFormatted": "October 09, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1755,29 +1788,14 @@
         "flag": "gb"
       },
       {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
         "code": "it-IT",
         "name": "IT",
         "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
       },
       {
         "code": "pt-BR",
@@ -1801,82 +1819,73 @@
       }
     ],
     "titles": {
-      "en-GB": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
-      "en-CA": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
-      "de-DE": "Korsikas felsige Inseln. Blick auf die Îles Sanguinaires vor Korsika, Frankreich",
-      "fr-FR": "Les îles du bout du monde. Vue des îles Sanguinaires depuis la Corse",
-      "it-IT": "Le sentinelle della Corsica",
-      "es-ES": "Los centinelas de Córcega. Islas Sanguinarias vistas desde Córcega, Francia",
-      "pt-BR": "Um horizonte bem ocupado",
-      "ja-JP": "コルシカ島を彩る美しい夕日",
-      "zh-CN": "桑吉奈尔群岛景观，摄自科西嘉岛，法国",
-      "en-IN": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
-      "en-US": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France"
+      "en-GB": "Life along the flyway. World Migratory Bird Day",
+      "de-DE": "Leben entlang der Vogelzugroute. Welttag der Zugvögel",
+      "it-IT": "La vita lungo la rotta",
+      "pt-BR": "O céu também tem estradas?",
+      "ja-JP": "今日は世界渡り鳥の日",
+      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国",
+      "en-IN": "Life along the flyway. World Migratory Bird Day",
+      "en-US": "Life along the flyway. Double-crested cormorants over Monterey Bay, California",
+      "en-CA": "Life along the flyway. Double-crested cormorants over Monterey Bay, California, United States"
     },
     "copyrights": {
-      "en-GB": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
-      "en-CA": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
-      "de-DE": "Blick auf die Îles Sanguinaires vor Korsika, Frankreich (© Francesco Riccardo Iacomino/Getty Images)",
-      "fr-FR": "Vue des îles Sanguinaires depuis la Corse (© Francesco Riccardo Iacomino/Getty Images)",
-      "it-IT": "Veduta delle isole Sanguinarie dalla Corsica, Francia (© Francesco Riccardo Iacomino/Getty Images)",
-      "es-ES": "Vista de las islas Sanguinarias desde Córcega, Francia (© Francesco Riccardo Iacomino/Getty Images)",
-      "pt-BR": "Vista das Ilhas Sanguinárias a partir da Córsega, França (© Francesco Riccardo Iacomino/Getty Images)",
-      "ja-JP": "サンギネール諸島, フランス (© Francesco Riccardo Iacomino/Getty Images)",
-      "zh-CN": "桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)",
-      "en-IN": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
-      "en-US": "© Francesco Riccardo Iacomino/Getty Images"
+      "en-GB": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
+      "de-DE": "Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)",
+      "it-IT": "Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)",
+      "pt-BR": "Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)",
+      "ja-JP": "モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)",
+      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)",
+      "en-IN": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
+      "en-US": "© Hiroya Minakuchi/Minden Pictures",
+      "en-CA": "© Hiroya Minakuchi/Minden Pictures"
     },
     "descs": {
-      "en-GB": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.2 miles from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
-      "en-CA": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.9 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
-      "de-DE": "Die Îles Sanguinaires sind eine kleine Inselgruppe vor der Westküste Korsikas in Frankreich. Am Eingang des Golfs von Ajaccio ragen vier markante Felseninseln aus dem Mittelmeer empor. Von der Küste aus bieten sie ein eindrucksvolles Panorama, das von den kräftigen Farben des Meeres und den dunklen Granitfelsen geprägt wird.",
-      "fr-FR": "À deux kilomètres à peine des côtes corses, les îles Sanguinaires surgissent de la Méditerranée comme une poignée de rochers jetés par quelque titan oublié. Vues depuis une tour de guet historique dominant le golfe d'Ajaccio, elles semblent pourtant appartenir à un autre monde — battu par le vent, sculpté par les vagues et le sel.",
-      "es-ES": "Frente a la costa de Córcega (Francia), las islas Sanguinarias emergen del Mediterráneo como un pequeño archipiélago de cuatro islotes rocosos y escarpados. Vistos desde una antigua torre de vigilancia, custodian la entrada del golfo de Ajaccio, y aunque el más alejado queda a menos de dos kilómetros de tierra firme, el conjunto transmite un aislamiento sorprendente, moldeado por el viento, las olas y el salitre.",
-      "ja-JP": "フランス・コルシカ島の沖合に浮かぶサンギネール諸島。4 つの小さな島で構成された群島で、近隣の街アジャクシオからは、島の荒々しい岩肌と透明度の高い海が織りなす景観を眺めることができます。各島には海鳥や地中海特有の植物が生息しており、その自然環境保護のため、基本的に立ち入れるのは最も大きな島であるメズ・マレ島のみです。メズ・マレ島には、灯台が設置されているほか、遊歩道も整備されており、島の散策を楽しむことができます。",
-      "en-IN": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 2 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
-      "en-US": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks, and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.2 miles from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves, and salt spray.",
-      "it-IT": "Davanti alla costa della Corsica (Francia), le isole Sanguinarie emergono dal Mediterraneo come un piccolo arcipelago di quattro isolotti rocciosi e scoscesi. Osservate da un'antica torre di guardia, presidiano l'ingresso del Golfo di Ajaccio: il più lontano dista meno di due chilometri dalla terraferma, e nonostante questo il gruppo trasmette un isolamento sorprendente, modellato da vento, onde e salsedine.",
-      "pt-BR": "O Mediterrâneo tem um talento especial para fazer quatro ilhas parecerem um mundo à parte. Na costa da Córsega, França, as Ilhas Sanguinárias ficam na entrada do Golfo de Ajaccio, cercadas por água, falésias, rochas e vegetação que já aprendeu a lidar com vento e sal. A mais distante está a cerca de 2 quilômetros do continente, mas, do alto de uma torre de vigia, a conta parece outra: o arquipélago ganha cara de lugar remoto.",
-      "zh-CN": "桑吉奈尔群岛就在法国科西嘉岛近海，从地中海中拔地而起，是一个由四座崎岖岩石岛屿组成的小型群岛。从一座历史悠久的瞭望塔望去，它们坐落在阿雅克肖湾的入口处。陡峭的悬崖、历经数百年的地标和开阔的海景，世世代代吸引着游客来到这一地区。尽管最远的岛屿距离海岸仅约1.2英里，但这片群岛给人的感觉却出奇地偏远：它四周被开阔水域环绕，并受到风、海浪和盐雾的塑造。"
+      "en-GB": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "de-DE": "Am 10. Oktober lenkt der Welttag der Zugvögel die Aufmerksamkeit auf die außergewöhnlichen Reisen wandernder Vogelarten. Jedes Jahr legen Millionen von Vögeln enorme Entfernungen zurück und verbinden dabei Regionen, Länder und Kontinente. Der Aktionstag erinnert daran, wie wichtig sichere Rastplätze, geeignete Brutgebiete und intakte Lebensräume entlang ihrer Zugrouten sind. Zugvögel spielen eine bedeutende Rolle in vielen Ökosystemen und zeigen zugleich, wie eng die Natur weltweit miteinander verknüpft ist. Ihre Wanderungen gehören zu den faszinierendsten Naturschauspielen überhaupt und wecken seit jeher die Neugier von Menschen auf der ganzen Welt.",
+      "ja-JP": "今日 10 月 10 日は世界渡り鳥の日。渡り鳥とその生息地の保全の重要性について普及啓発を行う日です。年に 2  回、5 月と 10 月の第 2 土曜日が対象となっています。毎年異なるテーマが掲げられており、今年のスローガンは「どんな鳥も記録しよう ― あなたの観察が鳥たちの未来を守る」です。そして画像は、米国カリフォルニア州モントレー湾の波の上を飛ぶミミヒメウの群れ。北米に広く分布するこの鳥は順応性が高く、群れによっては、渡りを行わず、一年を通して同じ地域で暮らすこともあります。",
+      "en-IN": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "en-US": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasizing how observations by individuals and communities can contribute to bird research, monitoring, and conservation, helping scientists better understand migration.",
+      "en-CA": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "it-IT": "I cormorani dell'immagine volano quasi a filo d'acqua sopra la baia di Monterey, in California (Stati Uniti), e riassumono bene ciò che si celebra oggi con la Giornata mondiale degli uccelli migratori. Diffusi in gran parte del Nord America, non si comportano tutti allo stesso modo: certe popolazioni si spostano con le stagioni, altre restano tutto l'anno nello stesso posto.",
+      "pt-BR": "Imagine cruzar milhares de quilômetros todos os anos em busca de comida, abrigo ou um lugar para criar os filhotes. É esse deslocamento que o Dia Mundial das Aves Migratórias coloca em foco, evento realizado duas vezes ao ano, no segundo sábado de maio e no segundo sábado de outubro, para acompanhar os diferentes ciclos migratórios dos dois hemisférios. No Brasil, a edição de 2026 acontece em 10 de outubro. O tema, “Cada ave conta: suas observações fazem a diferença!”, reforça que registros de observadores ajudam pesquisadores a acompanhar migrações e mudanças populacionais.",
+      "zh-CN": "世界候鸟日旨在庆祝大自然最壮观的旅程之一。这项全球性活动于每年5月和10月举行，反映世界各地的迁徙模式，并强调保护鸟类赖以生存的栖息地和迁飞路线的重要性。“每一只鸟都很重要——您的观察至关重要！”是2026年的主题，着重说明个人和社区的观察可以如何为鸟类研究、监测和保护贡献力量，帮助科学家更好地了解迁徙。"
     },
     "quickFacts": {
-      "zh-CN": "建造桑吉奈尔灯塔时，石料必须用驳船运到岛上，再从岩石海岸吊运上去。"
+      "en-US": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "en-GB": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "en-CA": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "de-DE": "Der Vogelzug kann viele Formen annehmen: Manche Vögel ziehen nach Norden oder Süden, während andere in andere Höhenlagen oder Lebensräume ziehen.",
+      "it-IT": "La migrazione ha molte forme: alcuni uccelli si spostano a nord o a sud, altri cambiano quota oppure tipo di ambiente.",
+      "zh-CN": "鸟类迁徙可以采取多种形式：有些鸟向北或向南迁徙，而另一些则迁往不同海拔或不同栖息地。",
+      "en-IN": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats."
     },
     "captions": {
-      "en-GB": "View of the Sanguinaires Islands from Corsica, France",
-      "en-CA": "View of the Sanguinaires Islands from Corsica, France",
-      "de-DE": "Blick auf die Îles Sanguinaires vor Korsika, Frankreich",
-      "fr-FR": "Vue des îles Sanguinaires depuis la Corse",
+      "en-GB": "World Migratory Bird Day",
+      "de-DE": "Welttag der Zugvögel",
       "it-IT": "",
-      "es-ES": "Islas Sanguinarias vistas desde Córcega, Francia",
       "pt-BR": "",
-      "ja-JP": "コルシカ島を彩る美しい夕日",
+      "ja-JP": "今日は世界渡り鳥の日",
       "zh-CN": "",
-      "en-IN": "View of the Sanguinaires Islands from Corsica, France"
+      "en-IN": "World Migratory Bird Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261008_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0400%22",
-      "de-DE": "https://www.bing.com/search?q=%c3%8eles+Sanguinaires+Frankreich&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=archipel+des+Sanguinaires+Corse&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Isole+Sanguinarie&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=islas+Sanguinarias&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Ilhas+Sanguin%c3%a1rias+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%ae%e3%83%8d%e3%83%bc%e3%83%ab%e8%ab%b8%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220261008_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%a7%91%e8%a5%bf%e5%98%89%e5%b2%9b%e6%a1%91%e5%90%89%e5%a5%88%e5%b0%94%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261008_1830%22"
+      "en-GB": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261009_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Welttag+der+Zugv%c3%b6gel&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+degli+uccelli+migratori&form=hpcapt",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Aves+Migrat%c3%b3rias&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b8%a1%e3%82%8a%e9%b3%a5%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261009_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%80%99%e9%b8%9f%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261009_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.IlesSanguinaires_EN-GB3151593517",
-      "en-CA": "/th?id=OHR.IlesSanguinaires_EN-CA1335462039",
-      "de-DE": "/th?id=OHR.IlesSanguinaires_DE-DE5457015089",
-      "fr-FR": "/th?id=OHR.IlesSanguinaires_FR-FR5994303029",
-      "it-IT": "/th?id=OHR.IlesSanguinaires_IT-IT9763114016",
-      "es-ES": "/th?id=OHR.IlesSanguinaires_ES-ES4266688471",
-      "pt-BR": "/th?id=OHR.IlesSanguinaires_PT-BR8805004077",
-      "ja-JP": "/th?id=OHR.IlesSanguinaires_JA-JP1377358410",
-      "zh-CN": "/th?id=OHR.IlesSanguinaires_ZH-CN3149346035",
-      "en-IN": "/th?id=OHR.IlesSanguinaires_EN-IN7867200667"
+      "en-GB": "/th?id=OHR.CormorantsFlight_EN-GB3315477514",
+      "de-DE": "/th?id=OHR.CormorantsFlight_DE-DE5717719144",
+      "it-IT": "/th?id=OHR.CormorantsFlight_IT-IT0012209213",
+      "pt-BR": "/th?id=OHR.CormorantsFlight_PT-BR9427423298",
+      "ja-JP": "/th?id=OHR.CormorantsFlight_JA-JP1768857084",
+      "zh-CN": "/th?id=OHR.CormorantsFlight_ZH-CN0770863330",
+      "en-IN": "/th?id=OHR.CormorantsFlight_EN-IN8066576004"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -2079,38 +2088,6 @@
       "de-DE": "/th?id=OHR.AlphornBavaria_DE-DE4197541227"
     }
   },
-  "StarnbergerseeAutumn": {
-    "name": "StarnbergerseeAutumn",
-    "urlbase": "/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754",
-    "date": "20260925",
-    "dateFormatted": "September 25, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Ein ruhiger Augenblick. Luftaufnahme des Starnberger Sees im Herbst, Bayern"
-    },
-    "copyrights": {
-      "de-DE": "Luftaufnahme des Starnberger Sees im Herbst, Bayern (© Mystockimages/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Im Herbst entfaltet der Starnberger See aus der Vogelperspektive eine besondere Wirkung. Die weitläufige Wasserfläche, die herbstlich gefärbten Uferbereiche und die zahlreichen Ortschaften am Seeufer prägen eine der bekanntesten Seenlandschaften Bayerns. Der See liegt südwestlich von München und ist ein beliebtes Ziel für Natur- und Erholungsuchende."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Luftaufnahme des Starnberger Sees im Herbst, Bayern"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Starnberger+See&form=hpcapt&filters=HpDate%3a%2220260925_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754"
-    }
-  },
   "GruesDer": {
     "name": "GruesDer",
     "urlbase": "/th?id=OHR.GruesDer_FR-FR4180166006",
@@ -2238,38 +2215,6 @@
       "fr-FR": "/th?id=OHR.ParisSunset_FR-FR0051640032"
     }
   },
-  "BoriesPoppies": {
-    "name": "BoriesPoppies",
-    "urlbase": "/th?id=OHR.BoriesPoppies_FR-FR9955316118",
-    "date": "20260925",
-    "dateFormatted": "September 25, 2026",
-    "markets": [
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "fr-FR": "Le savoir-faire provençal. Village des Bories, Gordes, Provence-Alpes-Côte d’Azur"
-    },
-    "copyrights": {
-      "fr-FR": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur (© AGUILAR PATRICE/Alamy)"
-    },
-    "descs": {
-      "fr-FR": "Aux premiers jours de l’automne, le Village des Bories se pare d’une lumière dorée qui sublime les pierres sèches du Luberon. Sous un ciel encore lumineux, les chênes verts se mêlent aux premiers feuillages mordorés, tandis que les senteurs de thym et de romarin se fondent dans l’air plus frais de la saison."
-    },
-    "quickFacts": {},
-    "captions": {
-      "fr-FR": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur"
-    },
-    "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=Village+des+Bories&form=hpcapt&filters=HpDate%3a%2220260925_2200%22"
-    },
-    "urlbases": {
-      "fr-FR": "/th?id=OHR.BoriesPoppies_FR-FR9955316118"
-    }
-  },
   "PerugiaAqueduct": {
     "name": "PerugiaAqueduct",
     "urlbase": "/th?id=OHR.PerugiaAqueduct_IT-IT7918245077",
@@ -2302,6 +2247,38 @@
       "it-IT": "/th?id=OHR.PerugiaAqueduct_IT-IT7918245077"
     }
   },
+  "ZaragozaBasilica": {
+    "name": "ZaragozaBasilica",
+    "urlbase": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240",
+    "date": "20261009",
+    "dateFormatted": "October 09, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Hoy: Zara-goza. Fiestas del Pilar"
+    },
+    "copyrights": {
+      "es-ES": "Catedral-Basílica de Nuestra Señora del Pilar, Zaragoza, Aragón, España (© frantic00/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "La Catedral-Basílica de Nuestra Señora del Pilar se asoma al Ebro en Zaragoza (Aragón, España), y hoy arranca a su alrededor la semana grande de la ciudad: el pregón abre unas Fiestas del Pilar que se prolongan hasta el domingo 18 de octubre."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Fiestas del Pilar"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Fiestas+del+Pilar&form=hpcapt&filters=HpDate%3a%2220261009_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240"
+    }
+  },
   "ElGolfo": {
     "name": "ElGolfo",
     "urlbase": "/th?id=OHR.ElGolfo_ES-ES8850772045",
@@ -2312,11 +2289,6 @@
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
       }
     ],
     "titles": {
@@ -2362,16 +2334,13 @@
       "zh-CN": "兰萨罗特岛与奇尼霍群岛共同构成一座联合国教科文组织世界地质公园，范围涵盖陆地及周边海域。"
     },
     "captions": {
-      "es-ES": "El Golfo, Lanzarote, Islas Canarias, España",
-      "pt-BR": ""
+      "es-ES": "El Golfo, Lanzarote, Islas Canarias, España"
     },
     "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260930_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&mkt=pt-br"
+      "es-ES": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
     },
     "urlbases": {
-      "es-ES": "/th?id=OHR.ElGolfo_ES-ES8850772045",
-      "pt-BR": "/th?id=OHR.ElGolfo_PT-BR1964322549"
+      "es-ES": "/th?id=OHR.ElGolfo_ES-ES8850772045"
     }
   },
   "Camburiu": {
@@ -2635,6 +2604,141 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "MidAutumn2026": {
+    "name": "MidAutumn2026",
+    "urlbase": "/th?id=OHR.MidAutumn2026_EN-US9341405351",
+    "date": "20260925",
+    "dateFormatted": "September 25, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "When the moon joins the party. Mid-Autumn Festival",
+      "en-GB": "When the moon joins the party. Mid-Autumn Festival",
+      "en-CA": "When the moon joins the party. Mid-Autumn Festival",
+      "de-DE": "Wenn der Mond mitfeiert. Mondfest",
+      "fr-FR": "Quand la lune est de la partie. Fête de la Mi-Automne",
+      "it-IT": "Quando la luna si unisce alla festa",
+      "es-ES": "Cuando la luna se une a la fiesta. Fiesta del Medio Otoño",
+      "pt-BR": "Quando a lua entra na festa",
+      "ja-JP": "今日は中秋の名月",
+      "zh-CN": "当月亮也来赴会",
+      "en-IN": "When the moon joins the party. Mid-Autumn Festival"
+    },
+    "copyrights": {
+      "en-US": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
+      "en-GB": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
+      "en-CA": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
+      "de-DE": "Chinesische Laternen zum Mondfest (© LeeYiuTung/Getty Images)",
+      "fr-FR": "Lanternes chinoises lors de la Fête de la Mi-Automne (© LeeYiuTung/Getty Images)",
+      "it-IT": "Lanterne cinesi per la celebrazione della Festa di metà autunno (© LeeYiuTung/Getty Images)",
+      "es-ES": "Faroles chinos para la celebración de la Fiesta del Medio Otoño (© LeeYiuTung/Getty Images)",
+      "pt-BR": "Lanternas chinesas para a celebração do Festival da Lua, Hong Kong, China (© LeeYiuTung/Getty Images)",
+      "ja-JP": "中秋節用の中国提灯 (© LeeYiuTung/Getty Images)",
+      "zh-CN": "庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)",
+      "en-IN": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)"
+    },
+    "descs": {
+      "en-US": "What if the full moon were the guest of honor at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honoring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+      "en-GB": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+      "en-CA": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+      "de-DE": "Das Mondfest, auch als Mittherbstfest bekannt, zählt zu den bedeutendsten traditionellen Feiertagen Chinas. Es wird am fünfzehnten Tag des achten Monats im chinesischen Mondkalender gefeiert und ist eng mit dem Vollmond verbunden. Seine Ursprünge reichen mehr als 3.000 Jahre zurück und gehen auf Rituale zur Verehrung des Mondes während der Zhou-Dynastie zurück. Heute ist das Fest vor allem ein Anlass für Familien, gemeinsam Zeit zu verbringen. Chinesische Laternen gehören dabei zu den bekanntesten Symbolen und verleihen den Feierlichkeiten mit ihrem warmen Licht eine besondere Atmosphäre.",
+      "fr-FR": "Et si la pleine lune était l’invitée d’honneur d’un repas familial ? Voici l’esprit de la Fête de la Mi-Automne, ou Fête de la Lune, célébrée le quinzième jour du huitième mois lunaire. Comptant parmi les grandes traditions chinoises, elle plonge ses racines il y a plus de trois millénaires, jusqu’aux rituels de la dynastie Zhou. À la tombée du soir, les récits de Chang’e, qui aurait bu un élixir d’immortalité avant de rejoindre la lune, continuent de nourrir l’imaginaire collectif.",
+      "es-ES": "Hoy, 25 de septiembre, millones de personas en China y en el resto de Asia oriental celebran la Fiesta del Medio Otoño, la noche en que la luna llena se convierte en invitada de honor. Cae el decimoquinto día del octavo mes lunar, así que la fecha baila cada año.",
+      "ja-JP": "2026 年は、今日 9 月 25 日が中秋の名月。お団子やススキなどをお供えしてお月見を楽しむ日であるとともに、秋の実りに感謝し、翌年の豊穣を祈願する日です。旧暦の 8 月 15 日にあたり、中国の中秋節に由来しています。日本ではお団子が主流ですが、中国では「月餅」という丸いお菓子を食べます。この月餅は、満月をかたどっているとともに、家族の円満や団らんを象徴しており、家族で集まって食べることで、全員の幸せを祈ります。",
+      "en-IN": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+      "it-IT": "Oggi, 25 settembre, milioni di persone in Cina e in tutta l'Asia orientale celebrano la Festa di metà autunno, la notte in cui la luna piena diventa l'ospite d'onore. Cade il quindicesimo giorno dell'ottavo mese lunare, quindi la data si sposta ogni anno sul nostro calendario.",
+      "pt-BR": "Já imaginou se a Lua fosse a convidada de honra do jantar? É essa a ideia do Festival do Meio do Outono, ou Festival da Lua. Com raízes de mais de 3 mil anos, é uma das celebrações mais tradicionais da cultura chinesa. Famílias se reúnem, lanternas iluminam as ruas e entram em cena os bolinhos da Lua, doces recheados cuja forma redonda representa união e completude. Uma lenda curiosa diz que, na dinastia Yuan, mensagens secretas eram escondidas nos bolinhos para organizar uma revolta contra os governantes mongóis.",
+      "zh-CN": "如果满月是你家宴上的贵宾，会是什么情景？这正是中秋节的意蕴，中秋节也被称为月亮节。这个节日在农历八月十五庆祝，是中国文化中最重要的节日之一。它的源头可追溯至3,000多年前周朝时期的祭月仪式。最广为人知的传说讲述了嫦娥服下长生不老药后飞上月宫的故事。"
+    },
+    "quickFacts": {
+      "en-US": "A record-breaking mooncake in China once weighed nearly 13 tons and measured over 26 feet wide.",
+      "en-GB": "A record-breaking mooncake in China once weighed nearly 12 tonnes and measured about 8 metres wide.",
+      "en-CA": "A record-breaking mooncake in China once weighed nearly 13 tonnes and measured over 7 metres wide.",
+      "de-DE": "Ein rekordverdächtiger Mondkuchen in China wog einst fast 13 Tonnen und hatte einen Durchmesser von über 8 Metern.",
+      "fr-FR": "En Chine, le plus gros gâteau de la Lune jamais préparé pesait près de 13 tonnes et mesurait près de 8 mètres de large.",
+      "ja-JP": "中国では、月には「玉兎（ぎょくと）」というウサギが住み、不老不死の薬を作っていると伝えられています。",
+      "zh-CN": "中国曾制作出一个破纪录的月饼，重近13吨，直径超过26英尺。",
+      "en-IN": "A record-breaking mooncake in China once weighed nearly 12 tonnes and measured about 8 metres wide."
+    },
+    "captions": {
+      "en-US": "Mid-Autumn Festival"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Mid+Autumn+Festival&form=hpcapt&filters=HpDate%3a%2220260925_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.MidAutumn2026_EN-US9341405351"
+    }
+  },
+  "StarnbergerseeAutumn": {
+    "name": "StarnbergerseeAutumn",
+    "urlbase": "/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754",
+    "date": "20260925",
+    "dateFormatted": "September 25, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Ein ruhiger Augenblick. Luftaufnahme des Starnberger Sees im Herbst, Bayern"
+    },
+    "copyrights": {
+      "de-DE": "Luftaufnahme des Starnberger Sees im Herbst, Bayern (© Mystockimages/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Im Herbst entfaltet der Starnberger See aus der Vogelperspektive eine besondere Wirkung. Die weitläufige Wasserfläche, die herbstlich gefärbten Uferbereiche und die zahlreichen Ortschaften am Seeufer prägen eine der bekanntesten Seenlandschaften Bayerns. Der See liegt südwestlich von München und ist ein beliebtes Ziel für Natur- und Erholungsuchende."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Luftaufnahme des Starnberger Sees im Herbst, Bayern"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Starnberger+See&form=hpcapt&filters=HpDate%3a%2220260925_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754"
+    }
+  },
+  "BoriesPoppies": {
+    "name": "BoriesPoppies",
+    "urlbase": "/th?id=OHR.BoriesPoppies_FR-FR9955316118",
+    "date": "20260925",
+    "dateFormatted": "September 25, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Le savoir-faire provençal. Village des Bories, Gordes, Provence-Alpes-Côte d’Azur"
+    },
+    "copyrights": {
+      "fr-FR": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur (© AGUILAR PATRICE/Alamy)"
+    },
+    "descs": {
+      "fr-FR": "Aux premiers jours de l’automne, le Village des Bories se pare d’une lumière dorée qui sublime les pierres sèches du Luberon. Sous un ciel encore lumineux, les chênes verts se mêlent aux premiers feuillages mordorés, tandis que les senteurs de thym et de romarin se fondent dans l’air plus frais de la saison."
+    },
+    "quickFacts": {},
+    "captions": {
+      "fr-FR": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Village+des+Bories&form=hpcapt&filters=HpDate%3a%2220260925_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.BoriesPoppies_FR-FR9955316118"
     }
   },
   "TolkienWeek": {
