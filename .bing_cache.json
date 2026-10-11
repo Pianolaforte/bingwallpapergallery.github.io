@@ -1,4 +1,132 @@
 {
+  "CormorantsFlight": {
+    "name": "CormorantsFlight",
+    "urlbase": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
+    "date": "20261010",
+    "dateFormatted": "October 10, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Life along the flyway. World Migratory Bird Day",
+      "en-GB": "Life along the flyway. World Migratory Bird Day",
+      "en-CA": "Life along the flyway. World Migratory Bird Day",
+      "de-DE": "Leben entlang der Vogelzugroute. Welttag der Zugvögel",
+      "it-IT": "La vita lungo la rotta",
+      "pt-BR": "O céu também tem estradas?",
+      "ja-JP": "今日は世界渡り鳥の日",
+      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国",
+      "en-IN": "Life along the flyway. World Migratory Bird Day"
+    },
+    "copyrights": {
+      "en-US": "Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)",
+      "en-GB": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
+      "en-CA": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
+      "de-DE": "Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)",
+      "it-IT": "Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)",
+      "pt-BR": "Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)",
+      "ja-JP": "モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)",
+      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)",
+      "en-IN": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasizing how observations by individuals and communities can contribute to bird research, monitoring, and conservation, helping scientists better understand migration.",
+      "en-GB": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "en-CA": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "de-DE": "Am 10. Oktober lenkt der Welttag der Zugvögel die Aufmerksamkeit auf die außergewöhnlichen Reisen wandernder Vogelarten. Jedes Jahr legen Millionen von Vögeln enorme Entfernungen zurück und verbinden dabei Regionen, Länder und Kontinente. Der Aktionstag erinnert daran, wie wichtig sichere Rastplätze, geeignete Brutgebiete und intakte Lebensräume entlang ihrer Zugrouten sind. Zugvögel spielen eine bedeutende Rolle in vielen Ökosystemen und zeigen zugleich, wie eng die Natur weltweit miteinander verknüpft ist. Ihre Wanderungen gehören zu den faszinierendsten Naturschauspielen überhaupt und wecken seit jeher die Neugier von Menschen auf der ganzen Welt.",
+      "ja-JP": "今日 10 月 10 日は世界渡り鳥の日。渡り鳥とその生息地の保全の重要性について普及啓発を行う日です。年に 2  回、5 月と 10 月の第 2 土曜日が対象となっています。毎年異なるテーマが掲げられており、今年のスローガンは「どんな鳥も記録しよう ― あなたの観察が鳥たちの未来を守る」です。そして画像は、米国カリフォルニア州モントレー湾の波の上を飛ぶミミヒメウの群れ。北米に広く分布するこの鳥は順応性が高く、群れによっては、渡りを行わず、一年を通して同じ地域で暮らすこともあります。",
+      "en-IN": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "it-IT": "I cormorani dell'immagine volano quasi a filo d'acqua sopra la baia di Monterey, in California (Stati Uniti), e riassumono bene ciò che si celebra oggi con la Giornata mondiale degli uccelli migratori. Diffusi in gran parte del Nord America, non si comportano tutti allo stesso modo: certe popolazioni si spostano con le stagioni, altre restano tutto l'anno nello stesso posto.",
+      "pt-BR": "Imagine cruzar milhares de quilômetros todos os anos em busca de comida, abrigo ou um lugar para criar os filhotes. É esse deslocamento que o Dia Mundial das Aves Migratórias coloca em foco, evento realizado duas vezes ao ano, no segundo sábado de maio e no segundo sábado de outubro, para acompanhar os diferentes ciclos migratórios dos dois hemisférios. No Brasil, a edição de 2026 acontece em 10 de outubro. O tema, “Cada ave conta: suas observações fazem a diferença!”, reforça que registros de observadores ajudam pesquisadores a acompanhar migrações e mudanças populacionais.",
+      "zh-CN": "世界候鸟日旨在庆祝大自然最壮观的旅程之一。这项全球性活动于每年5月和10月举行，反映世界各地的迁徙模式，并强调保护鸟类赖以生存的栖息地和迁飞路线的重要性。“每一只鸟都很重要——您的观察至关重要！”是2026年的主题，着重说明个人和社区的观察可以如何为鸟类研究、监测和保护贡献力量，帮助科学家更好地了解迁徙。"
+    },
+    "quickFacts": {
+      "en-US": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "en-GB": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "en-CA": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "de-DE": "Der Vogelzug kann viele Formen annehmen: Manche Vögel ziehen nach Norden oder Süden, während andere in andere Höhenlagen oder Lebensräume ziehen.",
+      "it-IT": "La migrazione ha molte forme: alcuni uccelli si spostano a nord o a sud, altri cambiano quota oppure tipo di ambiente.",
+      "zh-CN": "鸟类迁徙可以采取多种形式：有些鸟向北或向南迁徙，而另一些则迁往不同海拔或不同栖息地。",
+      "en-IN": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats."
+    },
+    "captions": {
+      "en-US": "World Migratory Bird Day",
+      "en-GB": "World Migratory Bird Day",
+      "en-CA": "World Migratory Bird Day",
+      "de-DE": "Welttag der Zugvögel",
+      "it-IT": "",
+      "pt-BR": "",
+      "ja-JP": "今日は世界渡り鳥の日",
+      "zh-CN": "",
+      "en-IN": "World Migratory Bird Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0700%22",
+      "en-GB": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261009_2300%22",
+      "en-CA": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Welttag+der+Zugv%c3%b6gel&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+degli+uccelli+migratori&form=hpcapt",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Aves+Migrat%c3%b3rias&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b8%a1%e3%82%8a%e9%b3%a5%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261009_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%80%99%e9%b8%9f%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261009_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
+      "en-GB": "/th?id=OHR.CormorantsFlight_EN-GB3315477514",
+      "en-CA": "/th?id=OHR.CormorantsFlight_EN-CA1602296581",
+      "de-DE": "/th?id=OHR.CormorantsFlight_DE-DE5717719144",
+      "it-IT": "/th?id=OHR.CormorantsFlight_IT-IT0012209213",
+      "pt-BR": "/th?id=OHR.CormorantsFlight_PT-BR9427423298",
+      "ja-JP": "/th?id=OHR.CormorantsFlight_JA-JP1768857084",
+      "zh-CN": "/th?id=OHR.CormorantsFlight_ZH-CN0770863330",
+      "en-IN": "/th?id=OHR.CormorantsFlight_EN-IN8066576004"
+    }
+  },
   "IlesSanguinaires": {
     "name": "IlesSanguinaires",
     "urlbase": "/th?id=OHR.IlesSanguinaires_EN-US5801644173",
@@ -789,7 +917,7 @@
       "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
       "pt-BR": "Partiu, universo!",
       "ja-JP": "今日から世界宇宙週間",
-      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日",
+      "zh-CN": "宇宙在召唤",
       "en-IN": "The universe is calling. World Space Week begins"
     },
     "copyrights": {
@@ -1603,55 +1731,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "en-GB": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
       "en-CA": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "en-GB": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
       "de-DE": "Nachtgarten der Tiefe. Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
       "fr-FR": "L’âme des profondeurs. Parc national de Komodo, Indonésie",
       "it-IT": "Giardino notturno delle profondità",
@@ -1662,8 +1750,8 @@
     },
     "copyrights": {
       "en-US": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
       "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
       "de-DE": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien (© Alex Mustard/Nature Picture Library)",
       "fr-FR": "Crabe décorateur sur une plume de mer, Parc national de Komodo, Indonésie (© Alex Mustard/Nature Picture Library)",
       "it-IT": "Granchio decoratore su penna marina, Parco Nazionale di Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
@@ -1674,8 +1762,8 @@
     },
     "descs": {
       "en-US": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds, and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "en-GB": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
       "en-CA": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "en-GB": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
       "de-DE": "Im heutigen Bild spielt sich ein stilles Versteckspiel unter Wasser ab. Eine Dekorateurkrabbe sitzt auf einer Seefeder und verschmilzt beinahe mit ihrer Umgebung. Die Aufnahme entstand im Nationalpark Komodo in Indonesien, einem Schutzgebiet, das 1980 eingerichtet wurde und nach dem Komodowaran benannt ist. Zwischen dem Pazifischen und dem Indischen Ozean gelegen, umfasst der Park Inseln, Mangrovenwälder, Seegraswiesen und farbenreiche Korallenriffe. Starke Meeresströmungen fördern hier eine außergewöhnliche Vielfalt an Tieren und Pflanzen.",
       "fr-FR": "Au cœur des eaux qui entourent le parc national de Komodo, en Indonésie, la vie semble jouer à cache-cache. Créé en 1980 et célèbre pour abriter le dragon de Komodo, ce territoire protégé réunit îles sauvages, mangroves, herbiers marins et récifs coralliens foisonnants. Entre les océans Pacifique et Indien, de puissants courants nourrissent une biodiversité remarquable.",
       "es-ES": "En los fondos del Parque Nacional de Komodo (Indonesia), un cangrejo decorador se refugia sobre una pluma de mar, ese coral blando que se ancla al sedimento y se despliega como un abanico. La estrategia es sencilla y brillante: la pluma llama la atención y el cangrejo desaparece.",
@@ -1689,98 +1777,22 @@
     },
     "captions": {
       "en-US": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "de-DE": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
-      "fr-FR": "Parc national de Komodo, Indonésie",
-      "it-IT": "",
-      "es-ES": "Cangrejo decorador, Parque Nacional de Komodo, Indonesia",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Decorator crab on a sea pen, Komodo National Park, Indonesia"
+      "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260926_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Nationalpark+Komodo&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Parc+national+de+Komodo+&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+di+Komodo&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+Komodo&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+de+Komodo+na+Indon%c3%a9sia&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e7%a7%91%e8%8e%ab%e5%a4%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260926_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.DecoCrab_EN-US9587426678",
-      "en-GB": "/th?id=OHR.DecoCrab_EN-GB9651352105",
-      "en-CA": "/th?id=OHR.DecoCrab_EN-CA9118939695",
-      "de-DE": "/th?id=OHR.DecoCrab_DE-DE3687547943",
-      "fr-FR": "/th?id=OHR.DecoCrab_FR-FR8789802868",
-      "it-IT": "/th?id=OHR.DecoCrab_IT-IT5114188667",
-      "es-ES": "/th?id=OHR.DecoCrab_ES-ES3779382499",
-      "pt-BR": "/th?id=OHR.DecoCrab_PT-BR1863827080",
-      "zh-CN": "/th?id=OHR.DecoCrab_ZH-CN0973306994",
-      "en-IN": "/th?id=OHR.DecoCrab_EN-IN8596521807"
+      "en-CA": "/th?id=OHR.DecoCrab_EN-CA9118939695"
     }
   },
-  "BearsEars": {
-    "name": "BearsEars",
-    "urlbase": "/th?id=OHR.BearsEars_EN-US9429791451",
-    "date": "20260926",
-    "dateFormatted": "September 26, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "The stories written across the land. National Public Lands Day",
-      "en-GB": "The stories written across the land. Bears Ears National Monument, Utah, United States",
-      "it-IT": "Le storie scritte in tutta la terra",
-      "es-ES": "Historias talladas en la tierra. Monumento Nacional Bears Ears, Utah, EE. UU.",
-      "ja-JP": "標高約2,000mから見渡す大峡谷",
-      "zh-CN": "写在大地上的故事",
-      "en-IN": "The stories written across the land. Bears Ears National Monument, Utah, United States"
-    },
-    "copyrights": {
-      "en-US": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)",
-      "en-GB": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)",
-      "it-IT": "Cedar Mesa e Muley Point vicino al Monumento Nazionale Bears Ears, Utah, USA (© Jeff Clay/Tandem Stills + Motion)",
-      "es-ES": "Cedar Mesa y Muley Point cerca del Monumento Nacional Bears Ears, Utah, EE. UU. (© Jeff Clay/Tandem Stills + Motion)",
-      "ja-JP": "シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)",
-      "zh-CN": "熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)",
-      "en-IN": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)"
-    },
-    "descs": {
-      "en-US": "What do a bear's ears, a house on fire, and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
-      "en-GB": "What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
-      "es-ES": "¿Qué tienen en común unas orejas de oso, una casa en llamas y una carretera de curvas imposibles? Los tres nombres pertenecen a Cedar Mesa y Muley Point, junto al Monumento Nacional Bears Ears, en Utah (EE. UU.).",
-      "ja-JP": "ここはシーダーメサ。米国ユタ州にあるベアーズ・イヤーズ国定公園の南部に位置する台地です。標高は約 2,000m で、考古学上の宝庫として知られるグランド・ガルチをはじめ、深い峡谷が数多く存在しています。南側にはミューリー・ポイントと呼ばれる岬があり、ここからサンファン川やバレー・オブ・ザ・ゴッズ、モニュメント・バレー、ナバホ・マウンテンといった素晴らしい景観を一望できます。また、シーダーメサの向こうには 2 つの丘がそびえており、これがクマの耳（ベアーズイヤーズ）に似ていることが、公園の名前の由来となっています。",
-      "en-IN": "What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
-      "it-IT": "Che cosa hanno in comune due orecchie d'orso, una casa in fiamme e una strada di curve impossibili? Sono tre tappe dello stesso paesaggio: Cedar Mesa e Muley Point, accanto al Monumento Nazionale Bears Ears, nello Utah (USA).",
-      "zh-CN": "熊的耳朵、着火的房屋和遍布急转弯的道路有什么共同之处？它们都是犹他州东南部公共土地故事的一部分。"
-    },
-    "quickFacts": {
-      "zh-CN": "熊耳委员会汇集五个部落民族，共同参与指导这座国家纪念区的管理与保护。"
-    },
-    "captions": {
-      "en-US": "National Public Lands Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Public+Lands+Day&form=hpcapt&filters=HpDate%3a%2220260926_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BearsEars_EN-US9429791451"
-    }
-  },
-  "CormorantsFlight": {
-    "name": "CormorantsFlight",
-    "urlbase": "/th?id=OHR.CormorantsFlight_EN-GB3315477514",
-    "date": "20261009",
-    "dateFormatted": "October 09, 2026",
+  "BabcockSP": {
+    "name": "BabcockSP",
+    "urlbase": "/th?id=OHR.BabcockSP_EN-GB3870597164",
+    "date": "20261010",
+    "dateFormatted": "October 10, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1788,14 +1800,14 @@
         "flag": "gb"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
       },
       {
         "code": "pt-BR",
@@ -1819,73 +1831,67 @@
       }
     ],
     "titles": {
-      "en-GB": "Life along the flyway. World Migratory Bird Day",
-      "de-DE": "Leben entlang der Vogelzugroute. Welttag der Zugvögel",
-      "it-IT": "La vita lungo la rotta",
-      "pt-BR": "O céu também tem estradas?",
-      "ja-JP": "今日は世界渡り鳥の日",
-      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国",
-      "en-IN": "Life along the flyway. World Migratory Bird Day",
-      "en-US": "Life along the flyway. Double-crested cormorants over Monterey Bay, California",
-      "en-CA": "Life along the flyway. Double-crested cormorants over Monterey Bay, California, United States"
+      "en-GB": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States",
+      "fr-FR": "La roue des saisons. Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
+      "es-ES": "Donde el otoño mueve la rueda. Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
+      "pt-BR": "Quando águas passadas movem moinhos",
+      "ja-JP": "紅葉に包まれた水車小屋",
+      "zh-CN": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国",
+      "en-IN": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States",
+      "en-US": "Where autumn turns the wheel. Glade Creek Grist Mill, Babcock State Park, West Virginia",
+      "en-CA": "Where autumn turns the wheel. Glade Creek Grist Mill, Babcock State Park, West Virginia, USA"
     },
     "copyrights": {
-      "en-GB": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
-      "de-DE": "Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)",
-      "it-IT": "Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)",
-      "pt-BR": "Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)",
-      "ja-JP": "モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)",
-      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)",
-      "en-IN": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
-      "en-US": "© Hiroya Minakuchi/Minden Pictures",
-      "en-CA": "© Hiroya Minakuchi/Minden Pictures"
+      "en-GB": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)",
+      "fr-FR": "Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)",
+      "es-ES": "Molino de Glade Creek, Parque Estatal Babcock, Virginia Occidental, EE. UU. (© dszc/Getty Images)",
+      "pt-BR": "Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)",
+      "ja-JP": "グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州 (© dszc/Getty Images)",
+      "zh-CN": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)",
+      "en-IN": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)",
+      "en-US": "© dszc/Getty Images",
+      "en-CA": "© dszc/Getty Images"
     },
     "descs": {
-      "en-GB": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
-      "de-DE": "Am 10. Oktober lenkt der Welttag der Zugvögel die Aufmerksamkeit auf die außergewöhnlichen Reisen wandernder Vogelarten. Jedes Jahr legen Millionen von Vögeln enorme Entfernungen zurück und verbinden dabei Regionen, Länder und Kontinente. Der Aktionstag erinnert daran, wie wichtig sichere Rastplätze, geeignete Brutgebiete und intakte Lebensräume entlang ihrer Zugrouten sind. Zugvögel spielen eine bedeutende Rolle in vielen Ökosystemen und zeigen zugleich, wie eng die Natur weltweit miteinander verknüpft ist. Ihre Wanderungen gehören zu den faszinierendsten Naturschauspielen überhaupt und wecken seit jeher die Neugier von Menschen auf der ganzen Welt.",
-      "ja-JP": "今日 10 月 10 日は世界渡り鳥の日。渡り鳥とその生息地の保全の重要性について普及啓発を行う日です。年に 2  回、5 月と 10 月の第 2 土曜日が対象となっています。毎年異なるテーマが掲げられており、今年のスローガンは「どんな鳥も記録しよう ― あなたの観察が鳥たちの未来を守る」です。そして画像は、米国カリフォルニア州モントレー湾の波の上を飛ぶミミヒメウの群れ。北米に広く分布するこの鳥は順応性が高く、群れによっては、渡りを行わず、一年を通して同じ地域で暮らすこともあります。",
-      "en-IN": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
-      "en-US": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasizing how observations by individuals and communities can contribute to bird research, monitoring, and conservation, helping scientists better understand migration.",
-      "en-CA": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
-      "it-IT": "I cormorani dell'immagine volano quasi a filo d'acqua sopra la baia di Monterey, in California (Stati Uniti), e riassumono bene ciò che si celebra oggi con la Giornata mondiale degli uccelli migratori. Diffusi in gran parte del Nord America, non si comportano tutti allo stesso modo: certe popolazioni si spostano con le stagioni, altre restano tutto l'anno nello stesso posto.",
-      "pt-BR": "Imagine cruzar milhares de quilômetros todos os anos em busca de comida, abrigo ou um lugar para criar os filhotes. É esse deslocamento que o Dia Mundial das Aves Migratórias coloca em foco, evento realizado duas vezes ao ano, no segundo sábado de maio e no segundo sábado de outubro, para acompanhar os diferentes ciclos migratórios dos dois hemisférios. No Brasil, a edição de 2026 acontece em 10 de outubro. O tema, “Cada ave conta: suas observações fazem a diferença!”, reforça que registros de observadores ajudam pesquisadores a acompanhar migrações e mudanças populacionais.",
-      "zh-CN": "世界候鸟日旨在庆祝大自然最壮观的旅程之一。这项全球性活动于每年5月和10月举行，反映世界各地的迁徙模式，并强调保护鸟类赖以生存的栖息地和迁飞路线的重要性。“每一只鸟都很重要——您的观察至关重要！”是2026年的主题，着重说明个人和社区的观察可以如何为鸟类研究、监测和保护贡献力量，帮助科学家更好地了解迁徙。"
+      "en-GB": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "fr-FR": "Dans le parc d'État de Babcock, en Virginie-Occidentale, aux États-Unis, le moulin de Glade Creek se dresse au-dessus des eaux vives, encadré d'un patchwork de rouges, d'oranges et d'or. Il a tout d'un vestige pionnier — et pourtant, il a été construit en 1976.",
+      "es-ES": "Rodeado de un mosaico de rojos, naranjas y dorados, el molino de Glade Creek se alza sobre las aguas rocosas del arroyo que le da nombre, en el Parque Estatal Babcock, en Virginia Occidental (Estados Unidos). Parece una reliquia de la época de los pioneros, pero en realidad es un homenaje muy bien construido a la tradición harinera de los Apalaches.",
+      "ja-JP": "紅葉に包まれた水車小屋. グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州. 今日の画像は、グレイド・クリーク・グリスト・ミル。米国ウェストバージニア州のバブコック州立公園を代表するランドマークです。この製粉所は、かつて近隣にあった製粉所を再現したもので、州内にあった 3 か所の製粉所の部材を組み合わせて、1976 年に造られました。現在も稼働している現役の製粉所であり、かつてウェストバージニア州内に存在した数多の製粉所の歴史を今に伝えています。",
+      "en-IN": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "en-US": "Surrounded by a patchwork of red, orange, and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "en-CA": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "pt-BR": "Enquanto o Brasil avança primavera adentro, as montanhas da Virgínia Ocidental, nos Estados Unidos, seguem na direção oposta. Na imagem de hoje, o moinho de Glade Creek parece cenário de filme de época... mas sua história é bem moderna. Construído em 1976 no Parque Estadual Babcock, ele nasceu de uma ideia engenhosa: juntar peças recuperadas de vários moinhos históricos do estado e transformá-las em uma construção que mantivesse viva a tradição de moagem dos Apalaches.",
+      "zh-CN": "格莱德溪磨坊坐落在西弗吉尼亚州巴布科克州立公园内格莱德溪的岩石水域上方，周围红色、橙色和金色交错。尽管它看起来像是拓荒时代的遗迹，但这座磨坊实际上是为致敬阿巴拉契亚地区的磨坊传统而精心建造的。"
     },
     "quickFacts": {
-      "en-US": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
-      "en-GB": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
-      "en-CA": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
-      "de-DE": "Der Vogelzug kann viele Formen annehmen: Manche Vögel ziehen nach Norden oder Süden, während andere in andere Höhenlagen oder Lebensräume ziehen.",
-      "it-IT": "La migrazione ha molte forme: alcuni uccelli si spostano a nord o a sud, altri cambiano quota oppure tipo di ambiente.",
-      "zh-CN": "鸟类迁徙可以采取多种形式：有些鸟向北或向南迁徙，而另一些则迁往不同海拔或不同栖息地。",
-      "en-IN": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats."
+      "zh-CN": "20世纪30年代，民间资源保护队的海狸营和李营共同参与了巴布科克州立公园的建设。"
     },
     "captions": {
-      "en-GB": "World Migratory Bird Day",
-      "de-DE": "Welttag der Zugvögel",
-      "it-IT": "",
+      "en-GB": "Glade Creek Grist Mill, West Virginia, United States",
+      "fr-FR": "Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
+      "es-ES": "Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
       "pt-BR": "",
-      "ja-JP": "今日は世界渡り鳥の日",
+      "ja-JP": "紅葉に包まれた水車小屋",
       "zh-CN": "",
-      "en-IN": "World Migratory Bird Day"
+      "en-IN": "Glade Creek Grist Mill, West Virginia, United States"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261009_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Welttag+der+Zugv%c3%b6gel&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+degli+uccelli+migratori&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Aves+Migrat%c3%b3rias&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b8%a1%e3%82%8a%e9%b3%a5%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261009_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%80%99%e9%b8%9f%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261009_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261010_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Babcock+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Parque+Estatal+Babcock&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Estadual+Babcock+nos+EUA&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%96%e3%82%b3%e3%83%83%e3%82%af%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261010_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e5%b8%83%e7%a7%91%e5%85%8b%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261010_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.CormorantsFlight_EN-GB3315477514",
-      "de-DE": "/th?id=OHR.CormorantsFlight_DE-DE5717719144",
-      "it-IT": "/th?id=OHR.CormorantsFlight_IT-IT0012209213",
-      "pt-BR": "/th?id=OHR.CormorantsFlight_PT-BR9427423298",
-      "ja-JP": "/th?id=OHR.CormorantsFlight_JA-JP1768857084",
-      "zh-CN": "/th?id=OHR.CormorantsFlight_ZH-CN0770863330",
-      "en-IN": "/th?id=OHR.CormorantsFlight_EN-IN8066576004"
+      "en-GB": "/th?id=OHR.BabcockSP_EN-GB3870597164",
+      "fr-FR": "/th?id=OHR.BabcockSP_FR-FR9462539296",
+      "es-ES": "/th?id=OHR.BabcockSP_ES-ES4865600988",
+      "pt-BR": "/th?id=OHR.BabcockSP_PT-BR9617512928",
+      "ja-JP": "/th?id=OHR.BabcockSP_JA-JP1996620132",
+      "zh-CN": "/th?id=OHR.BabcockSP_ZH-CN5266848536",
+      "en-IN": "/th?id=OHR.BabcockSP_EN-IN8141556742"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -1954,36 +1960,38 @@
       "en-CA": "/th?id=OHR.NuitBToro_EN-CA6592121527"
     }
   },
-  "NiagaraOnt": {
-    "name": "NiagaraOnt",
-    "urlbase": "/th?id=OHR.NiagaraOnt_EN-CA8662967301",
-    "date": "20260926",
-    "dateFormatted": "September 26, 2026",
+  "MouflonAutumn": {
+    "name": "MouflonAutumn",
+    "urlbase": "/th?id=OHR.MouflonAutumn_DE-DE6144771164",
+    "date": "20261010",
+    "dateFormatted": "October 10, 2026",
     "markets": [
       {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       }
     ],
     "titles": {
-      "en-CA": "Niagara's afterparty look. Horseshoe Falls illuminated at night in Niagara Falls, Ontario"
+      "de-DE": "Symbol ursprünglicher Natur. Europäisches Mufflon (Widder) im Herbstwald, Bayern"
     },
     "copyrights": {
-      "en-CA": "Horseshoe Falls illuminated at night in Niagara Falls, Ontario (© Jianmei Wang/E+/Getty Images)"
+      "de-DE": "Europäisches Mufflon (Widder) im Herbstwald, Bayern (© imageBROKER/David & Micha Sheldon/Getty Images)"
     },
     "descs": {
-      "en-CA": "People have been coming to Niagara Falls, on the Canada-US border, for centuries to admire the view. A few, however, decided admiring it from a safe distance was overrated. In 1901, Annie Edson Taylor climbed into a barrel and became the first recorded person to survive going over the Falls. Others followed with their own stunts, although such attempts are now illegal. The Falls have also inspired artists, filmmakers and musicians, with Hollywood giving them a starring role in 'Niagara' (1953), featuring Marilyn Monroe and Joseph Cotten."
+      "de-DE": "Wenn der Herbst die Wälder Bayerns in warme Braun- und Goldtöne taucht, beginnt für viele Wildtiere eine besonders reizvolle Jahreszeit. Zu ihnen gehört das Europäische Mufflon, eine Unterart der Wildschafe mit einer langen Geschichte in Europa. Auf unserem Bild hat sich ein Widder zwischen Laub und Moos niedergelassen. Seine mächtigen, schneckenförmig geschwungenen Hörner machen ihn unverwechselbar. Ursprünglich waren Mufflons vor allem auf Korsika und Sardinien verbreitet, kommen heute jedoch auch in einigen Regionen Mitteleuropas vor. Die Tiere sind aufmerksam, beweglich und hervorragend an das Leben in abwechslungsreichen Landschaften angepasst."
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "de-DE": "Mufflons sind äußerst trittsicher und können sich sicher in steilem und felsigem Gelände bewegen."
+    },
     "captions": {
-      "en-CA": "Horseshoe Falls illuminated at night in Niagara Falls, Ontario"
+      "de-DE": "Europäisches Mufflon (Widder) im Herbstwald, Bayern"
     },
     "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Horseshoe+Falls&form=hpcapt&filters=HpDate%3a%2220260926_0400%22"
+      "de-DE": "https://www.bing.com/search?q=Europ%c3%a4isches+Mufflon&form=hpcapt&filters=HpDate%3a%2220261010_2200%22"
     },
     "urlbases": {
-      "en-CA": "/th?id=OHR.NiagaraOnt_EN-CA8662967301"
+      "de-DE": "/th?id=OHR.MouflonAutumn_DE-DE6144771164"
     }
   },
   "BrandenburgGateFireworks": {
@@ -2213,6 +2221,38 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.ParisSunset_FR-FR0051640032"
+    }
+  },
+  "BarcolanaBoats": {
+    "name": "BarcolanaBoats",
+    "urlbase": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555",
+    "date": "20261010",
+    "dateFormatted": "October 10, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Il golfo si riempie di vele"
+    },
+    "copyrights": {
+      "it-IT": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Il Golfo di Trieste, in Friuli-Venezia Giulia (Italia), oggi si riempie di vele: alle 10.30 un colpo di cannone dà il via alla Barcolana, la regata velica più partecipata del pianeta, che chiude una settimana di prove ed eventi sulle Rive."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=La+Barcolana+di+Trieste&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555"
     }
   },
   "PerugiaAqueduct": {
@@ -2510,38 +2550,6 @@
       "ja-JP": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090"
     }
   },
-  "YokohamaBayBridge": {
-    "name": "YokohamaBayBridge",
-    "urlbase": "/th?id=OHR.YokohamaBayBridge_JA-JP8812921625",
-    "date": "20260926",
-    "dateFormatted": "September 26, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日は横浜ベイブリッジ開通日"
-    },
-    "copyrights": {
-      "ja-JP": "横浜ベイブリッジ, 神奈川県 横浜市 (© Yuga Kurita/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "1989 年の今日、9 月 27 日に、横浜ベイブリッジは開通しました。横浜市の中区と鶴見区を結ぶ全長 860m の橋で、完成当時は日本最長の斜張橋でした。上層部は首都高速湾岸線、下層部は国道 357 号という 2 層構造になっています。美しい夜景スポットとして知られており、近隣の横浜港大さん橋国際客船ターミナルから月と共に撮影された姿は、日本百名月にも選ばれています。また、優れた技術力と美しいデザインが評価され、日本百名橋の一つにも選ばれています。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "今日は横浜ベイブリッジ開通日"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e6%a8%aa%e6%b5%9c%e3%83%99%e3%82%a4%e3%83%96%e3%83%aa%e3%83%83%e3%82%b8%e9%96%8b%e9%80%9a%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260926_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.YokohamaBayBridge_JA-JP8812921625"
-    }
-  },
   "GandhiJayanti2026": {
     "name": "GandhiJayanti2026",
     "urlbase": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451",
@@ -2604,6 +2612,122 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "BearsEars": {
+    "name": "BearsEars",
+    "urlbase": "/th?id=OHR.BearsEars_EN-US9429791451",
+    "date": "20260926",
+    "dateFormatted": "September 26, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "The stories written across the land. National Public Lands Day",
+      "en-GB": "The stories written across the land. Bears Ears National Monument, Utah, United States",
+      "it-IT": "Le storie scritte in tutta la terra",
+      "es-ES": "Historias talladas en la tierra. Monumento Nacional Bears Ears, Utah, EE. UU.",
+      "ja-JP": "標高約2,000mから見渡す大峡谷",
+      "zh-CN": "写在大地上的故事",
+      "en-IN": "The stories written across the land. Bears Ears National Monument, Utah, United States"
+    },
+    "copyrights": {
+      "en-US": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)",
+      "en-GB": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)",
+      "it-IT": "Cedar Mesa e Muley Point vicino al Monumento Nazionale Bears Ears, Utah, USA (© Jeff Clay/Tandem Stills + Motion)",
+      "es-ES": "Cedar Mesa y Muley Point cerca del Monumento Nacional Bears Ears, Utah, EE. UU. (© Jeff Clay/Tandem Stills + Motion)",
+      "ja-JP": "シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)",
+      "zh-CN": "熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)",
+      "en-IN": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)"
+    },
+    "descs": {
+      "en-US": "What do a bear's ears, a house on fire, and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
+      "en-GB": "What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
+      "es-ES": "¿Qué tienen en común unas orejas de oso, una casa en llamas y una carretera de curvas imposibles? Los tres nombres pertenecen a Cedar Mesa y Muley Point, junto al Monumento Nacional Bears Ears, en Utah (EE. UU.).",
+      "ja-JP": "ここはシーダーメサ。米国ユタ州にあるベアーズ・イヤーズ国定公園の南部に位置する台地です。標高は約 2,000m で、考古学上の宝庫として知られるグランド・ガルチをはじめ、深い峡谷が数多く存在しています。南側にはミューリー・ポイントと呼ばれる岬があり、ここからサンファン川やバレー・オブ・ザ・ゴッズ、モニュメント・バレー、ナバホ・マウンテンといった素晴らしい景観を一望できます。また、シーダーメサの向こうには 2 つの丘がそびえており、これがクマの耳（ベアーズイヤーズ）に似ていることが、公園の名前の由来となっています。",
+      "en-IN": "What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
+      "it-IT": "Che cosa hanno in comune due orecchie d'orso, una casa in fiamme e una strada di curve impossibili? Sono tre tappe dello stesso paesaggio: Cedar Mesa e Muley Point, accanto al Monumento Nazionale Bears Ears, nello Utah (USA).",
+      "zh-CN": "熊的耳朵、着火的房屋和遍布急转弯的道路有什么共同之处？它们都是犹他州东南部公共土地故事的一部分。"
+    },
+    "quickFacts": {
+      "zh-CN": "熊耳委员会汇集五个部落民族，共同参与指导这座国家纪念区的管理与保护。"
+    },
+    "captions": {
+      "en-US": "National Public Lands Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Public+Lands+Day&form=hpcapt&filters=HpDate%3a%2220260926_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BearsEars_EN-US9429791451"
+    }
+  },
+  "NiagaraOnt": {
+    "name": "NiagaraOnt",
+    "urlbase": "/th?id=OHR.NiagaraOnt_EN-CA8662967301",
+    "date": "20260926",
+    "dateFormatted": "September 26, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Niagara's afterparty look. Horseshoe Falls illuminated at night in Niagara Falls, Ontario"
+    },
+    "copyrights": {
+      "en-CA": "Horseshoe Falls illuminated at night in Niagara Falls, Ontario (© Jianmei Wang/E+/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "People have been coming to Niagara Falls, on the Canada-US border, for centuries to admire the view. A few, however, decided admiring it from a safe distance was overrated. In 1901, Annie Edson Taylor climbed into a barrel and became the first recorded person to survive going over the Falls. Others followed with their own stunts, although such attempts are now illegal. The Falls have also inspired artists, filmmakers and musicians, with Hollywood giving them a starring role in 'Niagara' (1953), featuring Marilyn Monroe and Joseph Cotten."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "Horseshoe Falls illuminated at night in Niagara Falls, Ontario"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Horseshoe+Falls&form=hpcapt&filters=HpDate%3a%2220260926_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.NiagaraOnt_EN-CA8662967301"
+    }
+  },
+  "YokohamaBayBridge": {
+    "name": "YokohamaBayBridge",
+    "urlbase": "/th?id=OHR.YokohamaBayBridge_JA-JP8812921625",
+    "date": "20260926",
+    "dateFormatted": "September 26, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は横浜ベイブリッジ開通日"
+    },
+    "copyrights": {
+      "ja-JP": "横浜ベイブリッジ, 神奈川県 横浜市 (© Yuga Kurita/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "1989 年の今日、9 月 27 日に、横浜ベイブリッジは開通しました。横浜市の中区と鶴見区を結ぶ全長 860m の橋で、完成当時は日本最長の斜張橋でした。上層部は首都高速湾岸線、下層部は国道 357 号という 2 層構造になっています。美しい夜景スポットとして知られており、近隣の横浜港大さん橋国際客船ターミナルから月と共に撮影された姿は、日本百名月にも選ばれています。また、優れた技術力と美しいデザインが評価され、日本百名橋の一つにも選ばれています。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は横浜ベイブリッジ開通日"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e6%a8%aa%e6%b5%9c%e3%83%99%e3%82%a4%e3%83%96%e3%83%aa%e3%83%83%e3%82%b8%e9%96%8b%e9%80%9a%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260926_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.YokohamaBayBridge_JA-JP8812921625"
     }
   },
   "MidAutumn2026": {
