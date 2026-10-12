@@ -1,4 +1,126 @@
 {
+  "BabcockSP": {
+    "name": "BabcockSP",
+    "urlbase": "/th?id=OHR.BabcockSP_EN-US6068931791",
+    "date": "20261011",
+    "dateFormatted": "October 11, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where autumn turns the wheel. Glade Creek Grist Mill, Babcock State Park, West Virginia",
+      "en-GB": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States",
+      "en-CA": "Where autumn turns the wheel. Glade Creek Grist Mill, Babcock State Park, West Virginia",
+      "fr-FR": "La roue des saisons. Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
+      "es-ES": "Donde el otoño mueve la rueda. Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
+      "pt-BR": "Quando águas passadas movem moinhos",
+      "ja-JP": "紅葉に包まれた水車小屋",
+      "zh-CN": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国",
+      "en-IN": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States"
+    },
+    "copyrights": {
+      "en-US": "Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)",
+      "en-GB": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)",
+      "en-CA": "Glade Creek Grist Mill, Babcock State Park, West Virginia, USA (© dszc/Getty Images)",
+      "fr-FR": "Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)",
+      "es-ES": "Molino de Glade Creek, Parque Estatal Babcock, Virginia Occidental, EE. UU. (© dszc/Getty Images)",
+      "pt-BR": "Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)",
+      "ja-JP": "グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州 (© dszc/Getty Images)",
+      "zh-CN": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)",
+      "en-IN": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Surrounded by a patchwork of red, orange, and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "en-GB": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "en-CA": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "fr-FR": "Dans le parc d'État de Babcock, en Virginie-Occidentale, aux États-Unis, le moulin de Glade Creek se dresse au-dessus des eaux vives, encadré d'un patchwork de rouges, d'oranges et d'or. Il a tout d'un vestige pionnier — et pourtant, il a été construit en 1976.",
+      "es-ES": "Rodeado de un mosaico de rojos, naranjas y dorados, el molino de Glade Creek se alza sobre las aguas rocosas del arroyo que le da nombre, en el Parque Estatal Babcock, en Virginia Occidental (Estados Unidos). Parece una reliquia de la época de los pioneros, pero en realidad es un homenaje muy bien construido a la tradición harinera de los Apalaches.",
+      "ja-JP": "紅葉に包まれた水車小屋. グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州. 今日の画像は、グレイド・クリーク・グリスト・ミル。米国ウェストバージニア州のバブコック州立公園を代表するランドマークです。この製粉所は、かつて近隣にあった製粉所を再現したもので、州内にあった 3 か所の製粉所の部材を組み合わせて、1976 年に造られました。現在も稼働している現役の製粉所であり、かつてウェストバージニア州内に存在した数多の製粉所の歴史を今に伝えています。",
+      "en-IN": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "pt-BR": "Enquanto o Brasil avança primavera adentro, as montanhas da Virgínia Ocidental, nos Estados Unidos, seguem na direção oposta. Na imagem de hoje, o moinho de Glade Creek parece cenário de filme de época... mas sua história é bem moderna. Construído em 1976 no Parque Estadual Babcock, ele nasceu de uma ideia engenhosa: juntar peças recuperadas de vários moinhos históricos do estado e transformá-las em uma construção que mantivesse viva a tradição de moagem dos Apalaches.",
+      "zh-CN": "格莱德溪磨坊坐落在西弗吉尼亚州巴布科克州立公园内格莱德溪的岩石水域上方，周围红色、橙色和金色交错。尽管它看起来像是拓荒时代的遗迹，但这座磨坊实际上是为致敬阿巴拉契亚地区的磨坊传统而精心建造的。"
+    },
+    "quickFacts": {
+      "zh-CN": "20世纪30年代，民间资源保护队的海狸营和李营共同参与了巴布科克州立公园的建设。"
+    },
+    "captions": {
+      "en-US": "Glade Creek Grist Mill, Babcock State Park, West Virginia",
+      "en-GB": "Glade Creek Grist Mill, West Virginia, United States",
+      "en-CA": "Glade Creek Grist Mill, Babcock State Park, West Virginia",
+      "fr-FR": "Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
+      "es-ES": "Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
+      "pt-BR": "",
+      "ja-JP": "紅葉に包まれた水車小屋",
+      "zh-CN": "",
+      "en-IN": "Glade Creek Grist Mill, West Virginia, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261011_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261010_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261011_0400%22",
+      "fr-FR": "https://www.bing.com/search?q=Babcock+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Parque+Estatal+Babcock&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Estadual+Babcock+nos+EUA&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%96%e3%82%b3%e3%83%83%e3%82%af%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261010_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e5%b8%83%e7%a7%91%e5%85%8b%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261010_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BabcockSP_EN-US6068931791",
+      "en-GB": "/th?id=OHR.BabcockSP_EN-GB3870597164",
+      "en-CA": "/th?id=OHR.BabcockSP_EN-CA1944147188",
+      "fr-FR": "/th?id=OHR.BabcockSP_FR-FR9462539296",
+      "es-ES": "/th?id=OHR.BabcockSP_ES-ES4865600988",
+      "pt-BR": "/th?id=OHR.BabcockSP_PT-BR9617512928",
+      "ja-JP": "/th?id=OHR.BabcockSP_JA-JP1996620132",
+      "zh-CN": "/th?id=OHR.BabcockSP_ZH-CN5266848536",
+      "en-IN": "/th?id=OHR.BabcockSP_EN-IN8141556742"
+    }
+  },
   "CormorantsFlight": {
     "name": "CormorantsFlight",
     "urlbase": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
@@ -764,7 +886,7 @@
       "es-ES": "Al agua, lección a lección. Día Mundial de los Docentes",
       "pt-BR": "Mergulho valendo nota",
       "ja-JP": "海へ飛び込もうとするペンギンたち",
-      "zh-CN": "南极洲的阿德利企鹅",
+      "zh-CN": "纵身一跃，一次一课",
       "en-IN": "Slide into adventure. Adélie penguins, Antarctica"
     },
     "copyrights": {
@@ -1587,14 +1709,76 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "en-CA": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "en-GB": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "de-DE": "Geschichte mit Aussicht. Fort Amber bei Jaipur, Rajasthan, Indien",
+      "fr-FR": "Vue sur l’histoire. Fort d’Amber près de Jaipur, Rajasthan, Inde",
+      "it-IT": "Storie tra i pilastri",
+      "es-ES": "Los 27 pilares de la historia. Fuerte de Amber cerca de Jaipur, Rajasthan, India",
+      "pt-BR": "Uma vista digna de um marajá",
+      "ja-JP": "優美な柱が並ぶ宮殿",
+      "zh-CN": "可览美景的历史胜地",
+      "en-IN": "History with a view. Amber Fort near Jaipur, Rajasthan, India"
+    },
+    "copyrights": {
+      "en-US": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "en-CA": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "en-GB": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "de-DE": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
+      "fr-FR": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
+      "it-IT": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "es-ES": "Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "pt-BR": "Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)",
+      "ja-JP": "アンベール城, インド (© R.M. Nunes/Getty Images)",
+      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)",
+      "en-IN": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centered on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "en-CA": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "en-GB": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "de-DE": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
+      "fr-FR": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
+      "es-ES": "El Fuerte de Amber, junto a Jaipur (Rajastán, India), fue la capital real antes de que existiera la ciudad rosa. Su construcción arrancó en 1592 con Raja Man Singh I y continuó más de un siglo bajo los soberanos kachwaha; en 1727 la corte se mudó a la nueva Jaipur, aunque Amber siguió acogiendo ceremonias.",
+      "ja-JP": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
+      "en-IN": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "it-IT": "Il Forte Amber, vicino a Jaipur (Rajasthan, India), è stato la capitale reale prima che esistesse la città rosa. La costruzione partì nel 1592 con Raja Man Singh I e continuò per oltre un secolo con i sovrani kachwaha; nel 1727 la corte si trasferì nella nuova Jaipur, ma Amber restò sede di cerimonie.",
+      "pt-BR": "Hoje estamos no Sattais Katcheri, na região indiana do Rajastão. O nome faz referência às 27 colunas do salão, que fazia parte da estrutura administrativa do Forte de Amber. Aqui, a decoração também conta uma história: elementos da arquitetura rajput convivem com influências mogóis, ao lado de mármore trabalhado, pátios monumentais e o extraordinário Sheesh Mahal, ou Palácio dos Espelhos.",
+      "zh-CN": "大多数初次到访印度拉贾斯坦邦斋浦尔的游客都知道这座城市有“粉红之城”的美誉，但更早的王都以琥珀堡为中心。这个王朝的大部分政治与建筑史正是在那里书写的。琥珀堡的营建历时一个多世纪，始于1592年拉贾·曼·辛格一世统治时期，之后由历代卡奇瓦哈统治者续建；他们统治的王国后来成为斋浦尔土邦。王室于 1727 年迁往新规划的斋浦尔城，但琥珀堡仍继续承担礼仪功能。"
+    },
+    "quickFacts": {
+      "zh-CN": "琥珀堡是联合国教科文组织世界遗产“拉贾斯坦邦的山地要塞”所包含的六座堡垒之一；该遗产于 2013 年列入《世界遗产名录》。"
+    },
+    "captions": {
+      "en-US": "Amber Fort near Jaipur, Rajasthan, India",
+      "en-CA": "Amber Fort near Jaipur, Rajasthan, India"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AmberHall_EN-US9930812541",
+      "en-CA": "/th?id=OHR.AmberHall_EN-CA9553208557"
+    }
+  },
+  "MumblesSwansea2026": {
+    "name": "MumblesSwansea2026",
+    "urlbase": "/th?id=OHR.MumblesSwansea2026_EN-GB4411542970",
+    "date": "20261011",
+    "dateFormatted": "October 11, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1612,21 +1796,6 @@
         "flag": "it"
       },
       {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -1638,260 +1807,55 @@
       }
     ],
     "titles": {
-      "en-US": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
-      "en-GB": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
-      "en-CA": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
-      "de-DE": "Geschichte mit Aussicht. Fort Amber bei Jaipur, Rajasthan, Indien",
-      "fr-FR": "Vue sur l’histoire. Fort d’Amber près de Jaipur, Rajasthan, Inde",
-      "it-IT": "Storie tra i pilastri",
-      "es-ES": "Los 27 pilares de la historia. Fuerte de Amber cerca de Jaipur, Rajasthan, India",
-      "pt-BR": "Uma vista digna de um marajá",
-      "ja-JP": "優美な柱が並ぶ宮殿",
-      "zh-CN": "可览美景的历史胜地",
-      "en-IN": "History with a view. Amber Fort near Jaipur, Rajasthan, India"
+      "en-GB": "Pier-ing into the past. Mumbles Pier, Swansea, Wales",
+      "de-DE": "Ein Pier voller Geschichte. Mumbles Pier, Swansea, Wales",
+      "fr-FR": "Entre rails et marées. Jetée de Mumbles, Pays de Galles",
+      "it-IT": "Un molo sulla baia",
+      "zh-CN": "曼布尔斯码头，斯旺西，威尔士",
+      "en-IN": "Pier-ing into the past. Mumbles Pier, Swansea, Wales"
     },
     "copyrights": {
-      "en-US": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "en-GB": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "en-CA": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "de-DE": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
-      "fr-FR": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
-      "it-IT": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "es-ES": "Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "pt-BR": "Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)",
-      "ja-JP": "アンベール城, インド (© R.M. Nunes/Getty Images)",
-      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)",
-      "en-IN": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
+      "en-GB": "Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)",
+      "de-DE": "Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)",
+      "fr-FR": "Jetée de Mumbles, Swansea, Pays de Galles (© Helen Hotson/Shutterstock)",
+      "it-IT": "Il pontile di Mumbles, Swansea, Galles (© Helen Hotson/Shutterstock)",
+      "zh-CN": "曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)",
+      "en-IN": "Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)"
     },
     "descs": {
-      "en-US": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centered on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "en-GB": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "en-CA": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "de-DE": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
-      "fr-FR": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
-      "es-ES": "El Fuerte de Amber, junto a Jaipur (Rajastán, India), fue la capital real antes de que existiera la ciudad rosa. Su construcción arrancó en 1592 con Raja Man Singh I y continuó más de un siglo bajo los soberanos kachwaha; en 1727 la corte se mudó a la nueva Jaipur, aunque Amber siguió acogiendo ceremonias.",
-      "ja-JP": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
-      "en-IN": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "it-IT": "Il Forte Amber, vicino a Jaipur (Rajasthan, India), è stato la capitale reale prima che esistesse la città rosa. La costruzione partì nel 1592 con Raja Man Singh I e continuò per oltre un secolo con i sovrani kachwaha; nel 1727 la corte si trasferì nella nuova Jaipur, ma Amber restò sede di cerimonie.",
-      "pt-BR": "Hoje estamos no Sattais Katcheri, na região indiana do Rajastão. O nome faz referência às 27 colunas do salão, que fazia parte da estrutura administrativa do Forte de Amber. Aqui, a decoração também conta uma história: elementos da arquitetura rajput convivem com influências mogóis, ao lado de mármore trabalhado, pátios monumentais e o extraordinário Sheesh Mahal, ou Palácio dos Espelhos.",
-      "zh-CN": "大多数初次到访印度拉贾斯坦邦斋浦尔的游客都知道这座城市有“粉红之城”的美誉，但更早的王都以琥珀堡为中心。这个王朝的大部分政治与建筑史正是在那里书写的。琥珀堡的营建历时一个多世纪，始于1592年拉贾·曼·辛格一世统治时期，之后由历代卡奇瓦哈统治者续建；他们统治的王国后来成为斋浦尔土邦。王室于 1727 年迁往新规划的斋浦尔城，但琥珀堡仍继续承担礼仪功能。"
+      "en-GB": "What do you get when a railway, a lifeboat station and a seaside day out meet at the water's edge? Mumbles Pier. Stretching 255 metres into Swansea Bay, this Victorian landmark opened on 10 May 1898 and has been part of the Welsh coast ever since.",
+      "de-DE": "Was haben eine historische Eisenbahn, eine Seenotrettungsstation und ein Ausflug ans Meer gemeinsam? Am Mumbles Pier treffen sie alle aufeinander. Der 255 Meter lange Pier ragt in die Swansea Bay und wurde am 10. Mai 1898 eröffnet. Seitdem prägt er die Küste von Wales. Einst war er die westliche Endstation der Swansea and Mumbles Railway, deren Ursprünge auf den weltweit ersten regelmäßigen Personenverkehr auf Schienen zurückgehen. Heute ist die Bahn verschwunden, doch der denkmalgeschützte Pier erinnert weiterhin an diese besondere Vergangenheit.",
+      "fr-FR": "En 1807, une locomotive à vapeur tirait des wagons le long de la baie de Swansea, au Pays de Galles — c'était le tout premier service ferroviaire régulier de passagers au monde. Ce chemin de fer légendaire, la Swansea and Mumbles Railway, avait pour terminus occidental la jetée de Mumbles, inaugurée le 10 mai 1898 et qui s'avance encore aujourd'hui sur 255 mètres dans la mer.",
+      "en-IN": "What do you get when a railway, a lifeboat station and a seaside day out meet at the water's edge? Mumbles Pier. Stretching 255 metres into Swansea Bay, this Victorian landmark opened on 10 May 1898 and has been part of the Welsh coast ever since.",
+      "it-IT": "Il pontile di Mumbles si allunga sul mare a Swansea, in Galles, ed è una di quelle strutture vittoriane in ferro che raccontano un'epoca intera. Inaugurato nel 1898 e lungo circa 255 metri, fu costruito per attirare i turisti al capolinea di una ferrovia che detiene un piccolo record mondiale: la linea Swansea-Mumbles trasportò passeggeri paganti già dal 1807, trainata da cavalli, e chiuse solo nel 1960.",
+      "zh-CN": "当铁路、救生艇站和海滨一日游在水边相遇，会得到什么？答案是曼布尔斯码头。这座维多利亚时代的地标向斯旺西湾延伸255米，于1898年5月10日开放，自此一直是威尔士海岸的一部分。"
     },
     "quickFacts": {
-      "zh-CN": "琥珀堡是联合国教科文组织世界遗产“拉贾斯坦邦的山地要塞”所包含的六座堡垒之一；该遗产于 2013 年列入《世界遗产名录》。"
+      "zh-CN": "曼布尔斯铁路曾在车厢上安装风帆，短暂试验以风力驱动车辆，但这项尝试并未持续多久。"
     },
     "captions": {
-      "en-US": "Amber Fort near Jaipur, Rajasthan, India",
-      "en-GB": "Amber Fort near Jaipur, Rajasthan, India",
-      "en-CA": "Amber Fort near Jaipur, Rajasthan, India",
-      "de-DE": "Fort Amber bei Jaipur, Rajasthan, Indien",
-      "fr-FR": "Fort d’Amber près de Jaipur, Rajasthan, Inde",
+      "en-GB": "Mumbles Pier, Swansea, Wales",
+      "de-DE": "Mumbles Pier, Swansea, Wales",
+      "fr-FR": "Jetée de Mumbles, Pays de Galles",
       "it-IT": "",
-      "es-ES": "Fuerte de Amber cerca de Jaipur, Rajasthan, India",
-      "pt-BR": "",
-      "ja-JP": "優美な柱が並ぶ宮殿",
       "zh-CN": "",
-      "en-IN": "Amber Fort near Jaipur, Rajasthan, India"
+      "en-IN": "Mumbles Pier, Swansea, Wales"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Fort+Amber+Indien&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=fort+d%e2%80%99Amber+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Forte+Amber+Jaipur&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Fuerte+Amber&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Forte+de+Amber&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%99%e3%83%bc%e3%83%ab%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220260927_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8d%b0%e5%ba%a6%e6%8b%89%e8%b4%be%e6%96%af%e5%9d%a6%e9%82%a6%e6%96%8b%e6%b5%a6%e5%b0%94%e7%90%a5%e7%8f%80%e5%a0%a1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Mumbles+Pier+Wales&form=hpcapt&filters=HpDate%3a%2220261011_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Mumbles+Pier+Informationen&form=hpcapt&filters=HpDate%3a%2220261011_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Jet%c3%a9e+de+Mumbles+Pays+de+Galles&form=hpcapt&filters=HpDate%3a%2220261011_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Galles&form=hpcapt",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e6%9b%bc%e5%b8%83%e5%b0%94%e6%96%af%e7%a0%81%e5%a4%b4&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Mumbles+Pier+Wales&form=hpcapt&filters=HpDate%3a%2220261011_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.AmberHall_EN-US9930812541",
-      "en-GB": "/th?id=OHR.AmberHall_EN-GB9719100676",
-      "en-CA": "/th?id=OHR.AmberHall_EN-CA9553208557",
-      "de-DE": "/th?id=OHR.AmberHall_DE-DE3888408627",
-      "fr-FR": "/th?id=OHR.AmberHall_FR-FR6136179100",
-      "it-IT": "/th?id=OHR.AmberHall_IT-IT8621021328",
-      "es-ES": "/th?id=OHR.AmberHall_ES-ES8111355480",
-      "pt-BR": "/th?id=OHR.AmberHall_PT-BR1465916376",
-      "ja-JP": "/th?id=OHR.AmberHall_JA-JP9172458689",
-      "zh-CN": "/th?id=OHR.AmberHall_ZH-CN1223127100",
-      "en-IN": "/th?id=OHR.AmberHall_EN-IN8681494262"
-    }
-  },
-  "DecoCrab": {
-    "name": "DecoCrab",
-    "urlbase": "/th?id=OHR.DecoCrab_EN-US9587426678",
-    "date": "20260927",
-    "dateFormatted": "September 27, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "en-CA": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "en-GB": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "de-DE": "Nachtgarten der Tiefe. Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
-      "fr-FR": "L’âme des profondeurs. Parc national de Komodo, Indonésie",
-      "it-IT": "Giardino notturno delle profondità",
-      "es-ES": "Jardín nocturno en la profundidad. Cangrejo decorador, Parque Nacional de Komodo, Indonesia",
-      "pt-BR": "Elegância defensiva",
-      "zh-CN": "深海夜花园",
-      "en-IN": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia"
-    },
-    "copyrights": {
-      "en-US": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "de-DE": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien (© Alex Mustard/Nature Picture Library)",
-      "fr-FR": "Crabe décorateur sur une plume de mer, Parc national de Komodo, Indonésie (© Alex Mustard/Nature Picture Library)",
-      "it-IT": "Granchio decoratore su penna marina, Parco Nazionale di Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "es-ES": "Cangrejo decorador en una pluma marina, Parque Nacional de Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
-      "pt-BR": "Caranguejo-decorador em pena-do-mar, Parque Nacional de Komodo, Indonésia (© Alex Mustard/Nature Picture Library)",
-      "zh-CN": "海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)",
-      "en-IN": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)"
-    },
-    "descs": {
-      "en-US": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds, and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "en-CA": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "en-GB": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "de-DE": "Im heutigen Bild spielt sich ein stilles Versteckspiel unter Wasser ab. Eine Dekorateurkrabbe sitzt auf einer Seefeder und verschmilzt beinahe mit ihrer Umgebung. Die Aufnahme entstand im Nationalpark Komodo in Indonesien, einem Schutzgebiet, das 1980 eingerichtet wurde und nach dem Komodowaran benannt ist. Zwischen dem Pazifischen und dem Indischen Ozean gelegen, umfasst der Park Inseln, Mangrovenwälder, Seegraswiesen und farbenreiche Korallenriffe. Starke Meeresströmungen fördern hier eine außergewöhnliche Vielfalt an Tieren und Pflanzen.",
-      "fr-FR": "Au cœur des eaux qui entourent le parc national de Komodo, en Indonésie, la vie semble jouer à cache-cache. Créé en 1980 et célèbre pour abriter le dragon de Komodo, ce territoire protégé réunit îles sauvages, mangroves, herbiers marins et récifs coralliens foisonnants. Entre les océans Pacifique et Indien, de puissants courants nourrissent une biodiversité remarquable.",
-      "es-ES": "En los fondos del Parque Nacional de Komodo (Indonesia), un cangrejo decorador se refugia sobre una pluma de mar, ese coral blando que se ancla al sedimento y se despliega como un abanico. La estrategia es sencilla y brillante: la pluma llama la atención y el cangrejo desaparece.",
-      "en-IN": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-      "it-IT": "Nei fondali del Parco Nazionale di Komodo (Indonesia), un granchio decoratore si nasconde su una penna di mare, il corallo molle che si ancora al sedimento e si apre come un ventaglio. La strategia è semplice e geniale: la penna attira lo sguardo e la sua struttura ramificata spezza la sagoma del granchio, che di fatto scompare.",
-      "pt-BR": "O desafio desta foto parece simples: encontre o caranguejo. Ele está ali, entre os ramos de uma pena-do-mar, um parente dos corais, nas águas do Parque Nacional de Komodo, na Indonésia. O caranguejo-decorador transforma a própria carapaça em um esconderijo móvel: cerdas curvadas funcionam como pequenos ganchos que prendem algas, esponjas e outros materiais ao corpo, quebrando seu contorno diante dos predadores.",
-      "zh-CN": "不妨把这看作一场水下捉迷藏：海笔格外醒目，螃蟹却融入其中。今天的图片拍摄于印度尼西亚科莫多国家公园周边水域。该公园成立于1980年，以世界上现存最大的蜥蜴科莫多巨蜥命名。这片保护区包括岛屿、红树林、海草床和珊瑚礁。公园位于太平洋与印度洋之间，强劲洋流塑造了这里的生态环境，孕育出丰富多样的海洋生物，其中也包括依靠伪装生存的物种。"
-    },
-    "quickFacts": {
-      "zh-CN": "科莫多国家公园于1991年被列入联合国教科文组织《世界遗产名录》。"
-    },
-    "captions": {
-      "en-US": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
-      "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.DecoCrab_EN-US9587426678",
-      "en-CA": "/th?id=OHR.DecoCrab_EN-CA9118939695"
-    }
-  },
-  "BabcockSP": {
-    "name": "BabcockSP",
-    "urlbase": "/th?id=OHR.BabcockSP_EN-GB3870597164",
-    "date": "20261010",
-    "dateFormatted": "October 10, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States",
-      "fr-FR": "La roue des saisons. Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
-      "es-ES": "Donde el otoño mueve la rueda. Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
-      "pt-BR": "Quando águas passadas movem moinhos",
-      "ja-JP": "紅葉に包まれた水車小屋",
-      "zh-CN": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国",
-      "en-IN": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States",
-      "en-US": "Where autumn turns the wheel. Glade Creek Grist Mill, Babcock State Park, West Virginia",
-      "en-CA": "Where autumn turns the wheel. Glade Creek Grist Mill, Babcock State Park, West Virginia, USA"
-    },
-    "copyrights": {
-      "en-GB": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)",
-      "fr-FR": "Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)",
-      "es-ES": "Molino de Glade Creek, Parque Estatal Babcock, Virginia Occidental, EE. UU. (© dszc/Getty Images)",
-      "pt-BR": "Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)",
-      "ja-JP": "グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州 (© dszc/Getty Images)",
-      "zh-CN": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)",
-      "en-IN": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)",
-      "en-US": "© dszc/Getty Images",
-      "en-CA": "© dszc/Getty Images"
-    },
-    "descs": {
-      "en-GB": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
-      "fr-FR": "Dans le parc d'État de Babcock, en Virginie-Occidentale, aux États-Unis, le moulin de Glade Creek se dresse au-dessus des eaux vives, encadré d'un patchwork de rouges, d'oranges et d'or. Il a tout d'un vestige pionnier — et pourtant, il a été construit en 1976.",
-      "es-ES": "Rodeado de un mosaico de rojos, naranjas y dorados, el molino de Glade Creek se alza sobre las aguas rocosas del arroyo que le da nombre, en el Parque Estatal Babcock, en Virginia Occidental (Estados Unidos). Parece una reliquia de la época de los pioneros, pero en realidad es un homenaje muy bien construido a la tradición harinera de los Apalaches.",
-      "ja-JP": "紅葉に包まれた水車小屋. グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州. 今日の画像は、グレイド・クリーク・グリスト・ミル。米国ウェストバージニア州のバブコック州立公園を代表するランドマークです。この製粉所は、かつて近隣にあった製粉所を再現したもので、州内にあった 3 か所の製粉所の部材を組み合わせて、1976 年に造られました。現在も稼働している現役の製粉所であり、かつてウェストバージニア州内に存在した数多の製粉所の歴史を今に伝えています。",
-      "en-IN": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
-      "en-US": "Surrounded by a patchwork of red, orange, and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
-      "en-CA": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
-      "pt-BR": "Enquanto o Brasil avança primavera adentro, as montanhas da Virgínia Ocidental, nos Estados Unidos, seguem na direção oposta. Na imagem de hoje, o moinho de Glade Creek parece cenário de filme de época... mas sua história é bem moderna. Construído em 1976 no Parque Estadual Babcock, ele nasceu de uma ideia engenhosa: juntar peças recuperadas de vários moinhos históricos do estado e transformá-las em uma construção que mantivesse viva a tradição de moagem dos Apalaches.",
-      "zh-CN": "格莱德溪磨坊坐落在西弗吉尼亚州巴布科克州立公园内格莱德溪的岩石水域上方，周围红色、橙色和金色交错。尽管它看起来像是拓荒时代的遗迹，但这座磨坊实际上是为致敬阿巴拉契亚地区的磨坊传统而精心建造的。"
-    },
-    "quickFacts": {
-      "zh-CN": "20世纪30年代，民间资源保护队的海狸营和李营共同参与了巴布科克州立公园的建设。"
-    },
-    "captions": {
-      "en-GB": "Glade Creek Grist Mill, West Virginia, United States",
-      "fr-FR": "Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
-      "es-ES": "Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
-      "pt-BR": "",
-      "ja-JP": "紅葉に包まれた水車小屋",
-      "zh-CN": "",
-      "en-IN": "Glade Creek Grist Mill, West Virginia, United States"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261010_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Babcock+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Parque+Estatal+Babcock&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Estadual+Babcock+nos+EUA&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%96%e3%82%b3%e3%83%83%e3%82%af%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261010_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e5%b8%83%e7%a7%91%e5%85%8b%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261010_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.BabcockSP_EN-GB3870597164",
-      "fr-FR": "/th?id=OHR.BabcockSP_FR-FR9462539296",
-      "es-ES": "/th?id=OHR.BabcockSP_ES-ES4865600988",
-      "pt-BR": "/th?id=OHR.BabcockSP_PT-BR9617512928",
-      "ja-JP": "/th?id=OHR.BabcockSP_JA-JP1996620132",
-      "zh-CN": "/th?id=OHR.BabcockSP_ZH-CN5266848536",
-      "en-IN": "/th?id=OHR.BabcockSP_EN-IN8141556742"
+      "en-GB": "/th?id=OHR.MumblesSwansea2026_EN-GB4411542970",
+      "de-DE": "/th?id=OHR.MumblesSwansea2026_DE-DE6402348082",
+      "fr-FR": "/th?id=OHR.MumblesSwansea2026_FR-FR6666496816",
+      "it-IT": "/th?id=OHR.MumblesSwansea2026_IT-IT0315747519",
+      "zh-CN": "/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039",
+      "en-IN": "/th?id=OHR.MumblesSwansea2026_EN-IN8292362227"
     }
   },
   "BlackHistoryMonthUK2026": {
@@ -2287,6 +2251,38 @@
       "it-IT": "/th?id=OHR.PerugiaAqueduct_IT-IT7918245077"
     }
   },
+  "PatrullaAguila": {
+    "name": "PatrullaAguila",
+    "urlbase": "/th?id=OHR.PatrullaAguila_ES-ES5090687481",
+    "date": "20261011",
+    "dateFormatted": "October 11, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Los colores de la hispanidad. Fiesta Nacional de España"
+    },
+    "copyrights": {
+      "es-ES": "La Patrulla Águila sobrevuela durante el Desfile Militar del Día Nacional, Madrid, España (© Carlos Alvarez/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "La Patrulla Águila sobrevuela Madrid (España) dejando en el cielo el rojo y el amarillo de la bandera: durante cuatro décadas fue la imagen más esperada del desfile de la Fiesta Nacional, la jornada que se celebra cada 12 de octubre y que una ley fijó en esa fecha en 1987."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Fiesta Nacional de España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Fiesta+Nacional+de+Espa%c3%b1a&form=hpcapt&filters=HpDate%3a%2220261011_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.PatrullaAguila_ES-ES5090687481"
+    }
+  },
   "ZaragozaBasilica": {
     "name": "ZaragozaBasilica",
     "urlbase": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240",
@@ -2383,6 +2379,38 @@
       "es-ES": "/th?id=OHR.ElGolfo_ES-ES8850772045"
     }
   },
+  "KidsDay": {
+    "name": "KidsDay",
+    "urlbase": "/th?id=OHR.KidsDay_PT-BR1347488359",
+    "date": "20261012",
+    "dateFormatted": "October 12, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Um mundo de miriti"
+    },
+    "copyrights": {
+      "pt-BR": "Brinquedos tradicionais de miriti expostos durante o Círio de Nazaré em Belém, Pará (© Ricardo Lima/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Barcos que não precisam de rio, pássaros que não precisam de céu e aviões que partem de qualquer lugar. Em Belém, brinquedos de miriti transformam a infância numa pequena frota de aventuras. Feitos com a madeira leve do miritizeiro e pintados em cores vibrantes, eles surgem como peixes, bonecos, animais, embarcações e cenas do cotidiano e ganham destaque durante o Círio de Nazaré. Segundo relatos locais, esses brinquedos acompanham a festa desde sua primeira procissão, em 1793, muitos deles carregados por promesseiros como agradecimento por graças alcançadas."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=dia+criancas&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.KidsDay_PT-BR1347488359"
+    }
+  },
   "Camburiu": {
     "name": "Camburiu",
     "urlbase": "/th?id=OHR.Camburiu_PT-BR2030410087",
@@ -2445,6 +2473,70 @@
     },
     "urlbases": {
       "pt-BR": "/th?id=OHR.GreenLake_PT-BR0948770849"
+    }
+  },
+  "RedMacawsFlight": {
+    "name": "RedMacawsFlight",
+    "urlbase": "/th?id=OHR.RedMacawsFlight_JA-JP3781300138",
+    "date": "20261011",
+    "dateFormatted": "October 11, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "熱帯の森を舞う極彩色の鳥たち",
+      "en-CA": "Survival of the flashiest. Red-and-green macaws",
+      "en-GB": "Survival of the flashiest. Red-and-green macaws",
+      "de-DE": "Das Überleben der Auffälligsten. Grünflügelaras",
+      "fr-FR": "Ça plane pour moi ! Aras chloroptères, Amérique du Sud",
+      "it-IT": "Loquace e appariscente",
+      "es-ES": "Supervivencia de los más llamativos. Guacamayos aliverdes, Brasil",
+      "zh-CN": "最炫者生存",
+      "en-IN": "Survival of the flashiest. Red-and-green macaws"
+    },
+    "copyrights": {
+      "ja-JP": "ベニコンゴウインコのペア (© markes51/Getty Images)",
+      "en-CA": "Red-and-green macaws (© markes51/Getty Images)",
+      "en-GB": "Red-and-green macaws (© markes51/Getty Images)",
+      "de-DE": "Grünflügelaras (© markes51/Getty Images)",
+      "fr-FR": "Aras chloroptères, Amérique du Sud (© markes51/Getty Images)",
+      "it-IT": "L'ara dalle ali verdi, Brasile (© markes51/Getty Images)",
+      "es-ES": "Guacamayos aliverdes, Brasil (© markes51/Getty Images)",
+      "zh-CN": "红绿金刚鹦鹉 (© markes51/Getty Images)",
+      "en-IN": "Red-and-green macaws (© markes51/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "ベニコンゴウインコは、主に南米大陸北部の森林に分布している鳥です。鮮やかな赤い体色に緑や青色の入った美しい翼で知られています。全長は 90 ～ 95cm ほどで、コンゴウインコ類の中でも最大級の大きさを誇ります。また、一夫一婦制の習性があり、ほとんどの場合つがいの関係は一生続くとされています。さらに、鳥類の中でも高い知能をもち、状況によって異なる鳴き声を発するなど、豊かなコミュニケーション能力を備えています。",
+      "en-CA": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
+      "en-GB": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
+      "de-DE": "Mit ihrem leuchtend roten Gefieder, den grünen Flügeln und den blauen Schwungfedern gehören Grünflügelaras zu den auffälligsten Papageien der Welt. Sie leben in den tropischen Regionen Südamerikas, wo sie durch Regenwälder, Galeriewälder und Savannenlandschaften ziehen. Mit einer Körperlänge von bis zu einem Meter zählen sie zu den größten flugfähigen Papageien. Ihr kräftiger Schnabel ermöglicht es ihnen, harte Nüsse und Früchte zu öffnen, die für viele andere Tiere unerreichbar bleiben.",
+      "fr-FR": "Dans les forêts tropicales d’Amérique du Sud, l’ara chloroptère semble défier toute notion de discrétion. Son plumage écarlate, rehaussé d’ailes vertes et de longues rémiges bleues, illumine la canopée. Pourtant, derrière ce spectacle éclatant se cache un rôle essentiel : en consommant fruits et graines puis en les dispersant au fil de ses déplacements, cet oiseau contribue à la régénération de la forêt.",
+      "es-ES": "Los guacamayos aliverdes de la imagen vuelan sobre las selvas de Brasil y no entienden de discreción: rojo encendido, banda verde en el ala, plumas azules en el extremo y una cara blanca surcada por finas líneas de plumas rojas.",
+      "en-IN": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
+      "it-IT": "Le are dalle ali verdi dell'immagine vivono nelle foreste del Brasile e non conoscono la discrezione: rosso acceso, fascia verde sull'ala, penne blu all'estremità e una faccia bianca solcata da sottili linee di piume rosse.",
+      "zh-CN": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。"
+    },
+    "quickFacts": {
+      "en-GB": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
+      "en-CA": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
+      "de-DE": "Große Aras verfügen über eine außergewöhnlich starke Beißkraft, mit der sie selbst besonders harte Nüsse und Samen mühelos knacken können.",
+      "fr-FR": "Le bec des grands aras peut exercer une pression de plusieurs centaines de PSI, bien supérieure à celle d'une morsure humaine moyenne, leur permettant de casser aisément des noix et des graines dures.",
+      "zh-CN": "大型金刚鹦鹉可产生数百磅每平方英寸的咬合压力，远高于普通人类，因而能轻松咬开坚硬的坚果和种子。",
+      "en-IN": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
+      "ja-JP": "ベニコンゴウインコは、人間の噛む力を大きく上回る咬合力を持ち、硬いナッツや種子を割ることができます。"
+    },
+    "captions": {
+      "ja-JP": "熱帯の森を舞う極彩色の鳥たち"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%99%e3%83%8b%e3%82%b3%e3%83%b3%e3%82%b4%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b3&form=hpcapt&filters=HpDate%3a%2220261011_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.RedMacawsFlight_JA-JP3781300138"
     }
   },
   "Chestnut2026": {
@@ -2612,6 +2704,75 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "DecoCrab": {
+    "name": "DecoCrab",
+    "urlbase": "/th?id=OHR.DecoCrab_EN-US9587426678",
+    "date": "20260927",
+    "dateFormatted": "September 27, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "en-CA": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "en-GB": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "de-DE": "Nachtgarten der Tiefe. Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
+      "fr-FR": "L’âme des profondeurs. Parc national de Komodo, Indonésie",
+      "it-IT": "Giardino notturno delle profondità",
+      "es-ES": "Jardín nocturno en la profundidad. Cangrejo decorador, Parque Nacional de Komodo, Indonesia",
+      "pt-BR": "Elegância defensiva",
+      "zh-CN": "深海夜花园",
+      "en-IN": "Night garden of the deep. Decorator crab on a sea pen, Komodo National Park, Indonesia"
+    },
+    "copyrights": {
+      "en-US": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "en-GB": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "de-DE": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien (© Alex Mustard/Nature Picture Library)",
+      "fr-FR": "Crabe décorateur sur une plume de mer, Parc national de Komodo, Indonésie (© Alex Mustard/Nature Picture Library)",
+      "it-IT": "Granchio decoratore su penna marina, Parco Nazionale di Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "es-ES": "Cangrejo decorador en una pluma marina, Parque Nacional de Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
+      "pt-BR": "Caranguejo-decorador em pena-do-mar, Parque Nacional de Komodo, Indonésia (© Alex Mustard/Nature Picture Library)",
+      "zh-CN": "海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)",
+      "en-IN": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds, and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "en-CA": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "en-GB": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "de-DE": "Im heutigen Bild spielt sich ein stilles Versteckspiel unter Wasser ab. Eine Dekorateurkrabbe sitzt auf einer Seefeder und verschmilzt beinahe mit ihrer Umgebung. Die Aufnahme entstand im Nationalpark Komodo in Indonesien, einem Schutzgebiet, das 1980 eingerichtet wurde und nach dem Komodowaran benannt ist. Zwischen dem Pazifischen und dem Indischen Ozean gelegen, umfasst der Park Inseln, Mangrovenwälder, Seegraswiesen und farbenreiche Korallenriffe. Starke Meeresströmungen fördern hier eine außergewöhnliche Vielfalt an Tieren und Pflanzen.",
+      "fr-FR": "Au cœur des eaux qui entourent le parc national de Komodo, en Indonésie, la vie semble jouer à cache-cache. Créé en 1980 et célèbre pour abriter le dragon de Komodo, ce territoire protégé réunit îles sauvages, mangroves, herbiers marins et récifs coralliens foisonnants. Entre les océans Pacifique et Indien, de puissants courants nourrissent une biodiversité remarquable.",
+      "es-ES": "En los fondos del Parque Nacional de Komodo (Indonesia), un cangrejo decorador se refugia sobre una pluma de mar, ese coral blando que se ancla al sedimento y se despliega como un abanico. La estrategia es sencilla y brillante: la pluma llama la atención y el cangrejo desaparece.",
+      "en-IN": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+      "it-IT": "Nei fondali del Parco Nazionale di Komodo (Indonesia), un granchio decoratore si nasconde su una penna di mare, il corallo molle che si ancora al sedimento e si apre come un ventaglio. La strategia è semplice e geniale: la penna attira lo sguardo e la sua struttura ramificata spezza la sagoma del granchio, che di fatto scompare.",
+      "pt-BR": "O desafio desta foto parece simples: encontre o caranguejo. Ele está ali, entre os ramos de uma pena-do-mar, um parente dos corais, nas águas do Parque Nacional de Komodo, na Indonésia. O caranguejo-decorador transforma a própria carapaça em um esconderijo móvel: cerdas curvadas funcionam como pequenos ganchos que prendem algas, esponjas e outros materiais ao corpo, quebrando seu contorno diante dos predadores.",
+      "zh-CN": "不妨把这看作一场水下捉迷藏：海笔格外醒目，螃蟹却融入其中。今天的图片拍摄于印度尼西亚科莫多国家公园周边水域。该公园成立于1980年，以世界上现存最大的蜥蜴科莫多巨蜥命名。这片保护区包括岛屿、红树林、海草床和珊瑚礁。公园位于太平洋与印度洋之间，强劲洋流塑造了这里的生态环境，孕育出丰富多样的海洋生物，其中也包括依靠伪装生存的物种。"
+    },
+    "quickFacts": {
+      "zh-CN": "科莫多国家公园于1991年被列入联合国教科文组织《世界遗产名录》。"
+    },
+    "captions": {
+      "en-US": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
+      "en-CA": "Decorator crab on a sea pen, Komodo National Park, Indonesia"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DecoCrab_EN-US9587426678",
+      "en-CA": "/th?id=OHR.DecoCrab_EN-CA9118939695"
     }
   },
   "BearsEars": {
@@ -3720,70 +3881,6 @@
     },
     "urlbases": {
       "en-US": "/th?id=OHR.FortUnion_EN-US5138724452"
-    }
-  },
-  "RedMacawsFlight": {
-    "name": "RedMacawsFlight",
-    "urlbase": "/th?id=OHR.RedMacawsFlight_EN-CA9501790458",
-    "date": "20260915",
-    "dateFormatted": "September 15, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "Survival of the flashiest. Red-and-green macaws",
-      "en-GB": "Survival of the flashiest. Red-and-green macaws",
-      "de-DE": "Das Überleben der Auffälligsten. Grünflügelaras",
-      "fr-FR": "Ça plane pour moi ! Aras chloroptères, Amérique du Sud",
-      "it-IT": "Loquace e appariscente",
-      "es-ES": "Supervivencia de los más llamativos. Guacamayos aliverdes, Brasil",
-      "zh-CN": "最炫者生存",
-      "en-IN": "Survival of the flashiest. Red-and-green macaws",
-      "ja-JP": "熱帯の森を舞う極彩色の鳥たち. ベニコンゴウインコのペア"
-    },
-    "copyrights": {
-      "en-CA": "Red-and-green macaws (© markes51/Getty Images)",
-      "en-GB": "Red-and-green macaws (© markes51/Getty Images)",
-      "de-DE": "Grünflügelaras (© markes51/Getty Images)",
-      "fr-FR": "Aras chloroptères, Amérique du Sud (© markes51/Getty Images)",
-      "it-IT": "L'ara dalle ali verdi, Brasile (© markes51/Getty Images)",
-      "es-ES": "Guacamayos aliverdes, Brasil (© markes51/Getty Images)",
-      "zh-CN": "红绿金刚鹦鹉 (© markes51/Getty Images)",
-      "en-IN": "Red-and-green macaws (© markes51/Getty Images)",
-      "ja-JP": "© markes51/Getty Images"
-    },
-    "descs": {
-      "en-CA": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
-      "en-GB": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
-      "de-DE": "Mit ihrem leuchtend roten Gefieder, den grünen Flügeln und den blauen Schwungfedern gehören Grünflügelaras zu den auffälligsten Papageien der Welt. Sie leben in den tropischen Regionen Südamerikas, wo sie durch Regenwälder, Galeriewälder und Savannenlandschaften ziehen. Mit einer Körperlänge von bis zu einem Meter zählen sie zu den größten flugfähigen Papageien. Ihr kräftiger Schnabel ermöglicht es ihnen, harte Nüsse und Früchte zu öffnen, die für viele andere Tiere unerreichbar bleiben.",
-      "fr-FR": "Dans les forêts tropicales d’Amérique du Sud, l’ara chloroptère semble défier toute notion de discrétion. Son plumage écarlate, rehaussé d’ailes vertes et de longues rémiges bleues, illumine la canopée. Pourtant, derrière ce spectacle éclatant se cache un rôle essentiel : en consommant fruits et graines puis en les dispersant au fil de ses déplacements, cet oiseau contribue à la régénération de la forêt.",
-      "es-ES": "Los guacamayos aliverdes de la imagen vuelan sobre las selvas de Brasil y no entienden de discreción: rojo encendido, banda verde en el ala, plumas azules en el extremo y una cara blanca surcada por finas líneas de plumas rojas.",
-      "en-IN": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
-      "it-IT": "Le are dalle ali verdi dell'immagine vivono nelle foreste del Brasile e non conoscono la discrezione: rosso acceso, fascia verde sull'ala, penne blu all'estremità e una faccia bianca solcata da sottili linee di piume rosse.",
-      "zh-CN": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。",
-      "ja-JP": "ベニコンゴウインコは、主に南米大陸北部の森林に分布している鳥です。鮮やかな赤い体色に緑や青色の入った美しい翼で知られています。全長は 90 ～ 95cm ほどで、コンゴウインコ類の中でも最大級の大きさを誇ります。また、一夫一婦制の習性があり、ほとんどの場合つがいの関係は一生続くとされています。さらに、鳥類の中でも高い知能をもち、状況によって異なる鳴き声を発するなど、豊かなコミュニケーション能力を備えています。"
-    },
-    "quickFacts": {
-      "en-GB": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
-      "en-CA": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
-      "de-DE": "Große Aras verfügen über eine außergewöhnlich starke Beißkraft, mit der sie selbst besonders harte Nüsse und Samen mühelos knacken können.",
-      "fr-FR": "Le bec des grands aras peut exercer une pression de plusieurs centaines de PSI, bien supérieure à celle d'une morsure humaine moyenne, leur permettant de casser aisément des noix et des graines dures.",
-      "zh-CN": "大型金刚鹦鹉可产生数百磅每平方英寸的咬合压力，远高于普通人类，因而能轻松咬开坚硬的坚果和种子。",
-      "en-IN": "Large macaws can exert bite pressures of several hundred PSI, far greater than the average human bite, allowing them to crack tough nuts and seeds with ease.",
-      "ja-JP": "ベニコンゴウインコは、人間の噛む力を大きく上回る咬合力を持ち、硬いナッツや種子を割ることができます。"
-    },
-    "captions": {
-      "en-CA": "Red-and-green macaws"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Red-and-green+macaw&form=hpcapt&filters=HpDate%3a%2220260915_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.RedMacawsFlight_EN-CA9501790458"
     }
   },
   "KochiaChina": {
