@@ -1,4 +1,36 @@
 {
+  "WhiteHouse": {
+    "name": "WhiteHouse",
+    "urlbase": "/th?id=OHR.WhiteHouse_EN-US6161912809",
+    "date": "20261012",
+    "dateFormatted": "October 12, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "A landscape of living history. Indigenous Peoples' Day"
+    },
+    "copyrights": {
+      "en-US": "White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "Indigenous Peoples' Day honors the histories, cultures, and enduring contributions of Indigenous peoples across the United States. Observed by many communities on the second Monday in October, the day also invites reflection on the hardships Native peoples have faced and celebrates the resilience of Tribal Nations, whose languages, traditions, and knowledge continue to shape the country today."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Indigenous Peoples' Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Indigenous+Peoples%27+Day+US&form=hpcapt&filters=HpDate%3a%2220261012_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.WhiteHouse_EN-US6161912809"
+    }
+  },
   "BabcockSP": {
     "name": "BabcockSP",
     "urlbase": "/th?id=OHR.BabcockSP_EN-US6068931791",
@@ -742,7 +774,7 @@
       "es-ES": "La Tierra contada a rayas. Día Internacional de la Geodiversidad",
       "pt-BR": "Geologia em cores",
       "ja-JP": "今日は国際ジオダイバーシティデー",
-      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国",
+      "zh-CN": "条纹中的地球故事",
       "en-IN": "Earth's story in stripes. International Geodiversity Day"
     },
     "copyrights": {
@@ -1563,7 +1595,66 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
+      }
+    ],
+    "titles": {
+      "en-US": "Born of glaciers. The blue, glacier-fed waters of the Kasilof River, Alaska",
+      "en-GB": "Born of glaciers. Kasilof River, Alaska, United States",
+      "en-CA": "Born of glaciers. The blue, glacier-fed waters of the Kasilof River, Alaska, USA",
+      "de-DE": "Aus Gletschern entstanden. Gletschergespeistes Wasser im Kasilof River, Alaska, USA",
+      "fr-FR": "Née des glaciers. Les eaux bleues de la rivière Kasilof, Alaska, États-Unis",
+      "it-IT": "Nato dai ghiacciai",
+      "es-ES": "Nacidos de glaciares. Río Kasilof, Alaska, EE. UU.",
+      "pt-BR": "Uma jornada glacial",
+      "ja-JP": "氷河の恵みをたたえる川",
+      "zh-CN": "冰川孕育之河",
+      "en-IN": "Born of glaciers. Kasilof River, Alaska, United States"
+    },
+    "copyrights": {
+      "en-US": "The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)",
+      "en-GB": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
+      "en-CA": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
+      "de-DE": "Das blaue, von Gletschern gespeiste Wasser des Kasilof River in Alaska, USA (© jared lloyd/Getty Images)",
+      "fr-FR": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis (© jared lloyd/Getty Images)",
+      "it-IT": "Le acque blu alimentate dai ghiacciai del fiume Kasilof, Alaska, USA (© jared lloyd/Getty Images)",
+      "es-ES": "Las aguas azules alimentadas por glaciares del río Kasilof, Alaska, EE. UU. (© jared lloyd/Getty Images)",
+      "pt-BR": "Rio Kasilof, Península de Kenai, Alasca, Estados Unidos (© jared lloyd/Getty Images)",
+      "ja-JP": "カシロフ川, 米国 アラスカ州 (© jared lloyd/Getty Images)",
+      "zh-CN": "卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)",
+      "en-IN": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 17 miles before emptying into Cook Inlet, the river is shorter than its famous neighbor, the Kenai, but no less remarkable.",
+      "en-GB": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula in the United States. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 17 miles before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
+      "en-CA": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
+      "de-DE": "Der Kasilof River auf der Kenai-Halbinsel im US-Bundesstaat Alaska beeindruckt mit seinem leuchtend blauen Wasser, das aus dem Tustumena Lake stammt. Die auffällige Farbe entsteht durch feinen Gletscherschlamm, der vom Schmelzwasser mitgeführt wird und dem Fluss seinen türkisblauen Ton verleiht. Aus der Luft wirkt der Kasilof wie ein glänzendes Band, das sich durch die weite Landschaft aus Wäldern, Feuchtgebieten und Seen schlängelt. Obwohl er deutlich kürzer ist als der benachbarte Kenai River, zählt er zu den markantesten Gewässern der Region.",
+      "fr-FR": "Vue du ciel, la rivière Kasilof dessine un ruban turquoise à travers la péninsule de Kenai, en Alaska (États-Unis). Cette teinte saisissante provient des fines particules glaciaires transportées depuis le lac Tustumena, l’un des plus vastes lacs d’eau douce de l’État. Sur environ 27 kilomètres avant de rejoindre le Cook Inlet, le cours d’eau traverse un décor façonné par les glaces depuis des millénaires. À chaque méandre, les reflets sur l’eau laiteuse révèlent un paysage où montagnes, forêts boréales et zones humides composent une remarquable mosaïque naturelle.",
+      "es-ES": "Visto desde el aire, el río Kasilof dibuja una cinta turquesa sobre la península Kenai, en Alaska (EE. UU.). Ese color no es un efecto de la luz: procede del limo glaciar en suspensión que baja desde el lago Tustumena, uno de los mayores de agua dulce del estado, alimentado a su vez por un glaciar de los montes Kenai.",
+      "ja-JP": "今日の画像は、米国アラスカ州南部のキナイ半島を流れるカシロフ川。水源であるツツメナ氷河から運ばれる氷河岩粉によって、水の色は鮮やかなミルキーブルーとなっています。川は約 27km にわたって流れ、クック湾へと注ぎ込みます。この川には、サケやマスが豊富に生息し、人気の釣りスポットとして知られています。また、周辺ではキャンプや自然遊歩道の散策も楽しめます。",
+      "en-IN": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula in the United States. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
+      "it-IT": "Visto dall'alto, il fiume Kasilof disegna un nastro turchese sulla penisola di Kenai, in Alaska (USA). Quel colore non è un gioco di luce: viene dal limo glaciale in sospensione che scende dal lago Tustumena, uno dei più grandi bacini d'acqua dolce dello stato, alimentato a sua volta da un ghiacciaio.",
+      "pt-BR": "Se alguém dissesse que esta água foi tingida de azul, seria fácil acreditar. O rio Kasilof, na Península de Kenai, no Alasca, realmente ganha esse tom turquesa intenso. A explicação, porém, está nas geleiras: partículas microscópicas de rocha, chamadas silte glacial, chegam ao rio vindas do lago Tustumena e permanecem suspensas na água, ajudando a produzir a coloração.",
+      "zh-CN": "从空中俯瞰，卡西洛夫河宛如一条绿松石色的丝带，蜿蜒穿过阿拉斯加州的基奈半岛。鲜艳的蓝色河水源于从图斯图梅纳湖向下游输送的冰川粉砂；该湖是阿拉斯加州最大的淡水湖之一。河流全长约17英里，最终注入库克湾。它虽比著名的邻河基奈河短，却同样不同凡响。"
+    },
+    "quickFacts": {
+      "zh-CN": "卡西洛夫河畔的克鲁克德溪州立休闲地在 5 月和 6 月最受欢迎，此时游客可从河岸垂钓帝王鲑。"
+    },
+    "captions": {
+      "en-US": "The blue, glacier-fed waters of the Kasilof River, Alaska"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260929_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.KasilofRiver_EN-US0047556055"
+    }
+  },
+  "PlitviceAutumn": {
+    "name": "PlitviceAutumn",
+    "urlbase": "/th?id=OHR.PlitviceAutumn_EN-GB4470740504",
+    "date": "20261012",
+    "dateFormatted": "October 12, 2026",
+    "markets": [
       {
         "code": "en-GB",
         "name": "UK",
@@ -1616,157 +1707,82 @@
       }
     ],
     "titles": {
-      "en-US": "Born of glaciers. The blue, glacier-fed waters of the Kasilof River, Alaska",
-      "en-GB": "Born of glaciers. Kasilof River, Alaska, United States",
-      "en-CA": "Born of glaciers. The blue, glacier-fed waters of the Kasilof River, Alaska, USA",
-      "de-DE": "Aus Gletschern entstanden. Gletschergespeistes Wasser im Kasilof River, Alaska, USA",
-      "fr-FR": "Née des glaciers. Les eaux bleues de la rivière Kasilof, Alaska, États-Unis",
-      "it-IT": "Nato dai ghiacciai",
-      "es-ES": "Nacidos de glaciares. Río Kasilof, Alaska, EE. UU.",
-      "pt-BR": "Uma jornada glacial",
-      "ja-JP": "氷河の恵みをたたえる川",
-      "zh-CN": "冰川孕育之河",
-      "en-IN": "Born of glaciers. Kasilof River, Alaska, United States"
+      "en-GB": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "en-CA": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "de-DE": "Eine Symphonie in Blau und Grün. Nationalpark Plitvicer Seen, Kroatien",
+      "fr-FR": "Variations en bleu et vert. Parc national des lacs de Plitvice, Croatie",
+      "it-IT": "Sinfonia in blu e verde",
+      "es-ES": "Sinfonía en azul y verde. Parque Nacional de los Lagos de Plitvice, Croacia",
+      "pt-BR": "A sinfonia das cachoeiras",
+      "ja-JP": "紅葉に彩られた湖と滝",
+      "zh-CN": "普利特维采湖群国家公园，克罗地亚",
+      "en-IN": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "en-US": "A symphony in blue and green. Plitvice Lakes National Park, Croatia"
     },
     "copyrights": {
-      "en-US": "The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)",
-      "en-GB": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
-      "en-CA": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
-      "de-DE": "Das blaue, von Gletschern gespeiste Wasser des Kasilof River in Alaska, USA (© jared lloyd/Getty Images)",
-      "fr-FR": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis (© jared lloyd/Getty Images)",
-      "it-IT": "Le acque blu alimentate dai ghiacciai del fiume Kasilof, Alaska, USA (© jared lloyd/Getty Images)",
-      "es-ES": "Las aguas azules alimentadas por glaciares del río Kasilof, Alaska, EE. UU. (© jared lloyd/Getty Images)",
-      "pt-BR": "Rio Kasilof, Península de Kenai, Alasca, Estados Unidos (© jared lloyd/Getty Images)",
-      "ja-JP": "カシロフ川, 米国 アラスカ州 (© jared lloyd/Getty Images)",
-      "zh-CN": "卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)",
-      "en-IN": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)"
+      "en-GB": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "en-CA": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "de-DE": "Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)",
+      "fr-FR": "Parc national des lacs de Plitvice, Croatie (© Jan Wlodarczyk/Alamy)",
+      "it-IT": "Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)",
+      "es-ES": "Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)",
+      "pt-BR": "Parque Nacional dos Lagos de Plitvice, Croácia (© Jan Wlodarczyk/Alamy)",
+      "ja-JP": "プリトヴィツェ湖群国立公園, クロアチア (© Jan Wlodarczyk/Alamy)",
+      "zh-CN": "普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)",
+      "en-IN": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "en-US": "© Jan Wlodarczyk/Alamy"
     },
     "descs": {
-      "en-US": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 17 miles before emptying into Cook Inlet, the river is shorter than its famous neighbor, the Kenai, but no less remarkable.",
-      "en-GB": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula in the United States. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 17 miles before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
-      "en-CA": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
-      "de-DE": "Der Kasilof River auf der Kenai-Halbinsel im US-Bundesstaat Alaska beeindruckt mit seinem leuchtend blauen Wasser, das aus dem Tustumena Lake stammt. Die auffällige Farbe entsteht durch feinen Gletscherschlamm, der vom Schmelzwasser mitgeführt wird und dem Fluss seinen türkisblauen Ton verleiht. Aus der Luft wirkt der Kasilof wie ein glänzendes Band, das sich durch die weite Landschaft aus Wäldern, Feuchtgebieten und Seen schlängelt. Obwohl er deutlich kürzer ist als der benachbarte Kenai River, zählt er zu den markantesten Gewässern der Region.",
-      "fr-FR": "Vue du ciel, la rivière Kasilof dessine un ruban turquoise à travers la péninsule de Kenai, en Alaska (États-Unis). Cette teinte saisissante provient des fines particules glaciaires transportées depuis le lac Tustumena, l’un des plus vastes lacs d’eau douce de l’État. Sur environ 27 kilomètres avant de rejoindre le Cook Inlet, le cours d’eau traverse un décor façonné par les glaces depuis des millénaires. À chaque méandre, les reflets sur l’eau laiteuse révèlent un paysage où montagnes, forêts boréales et zones humides composent une remarquable mosaïque naturelle.",
-      "es-ES": "Visto desde el aire, el río Kasilof dibuja una cinta turquesa sobre la península Kenai, en Alaska (EE. UU.). Ese color no es un efecto de la luz: procede del limo glaciar en suspensión que baja desde el lago Tustumena, uno de los mayores de agua dulce del estado, alimentado a su vez por un glaciar de los montes Kenai.",
-      "ja-JP": "今日の画像は、米国アラスカ州南部のキナイ半島を流れるカシロフ川。水源であるツツメナ氷河から運ばれる氷河岩粉によって、水の色は鮮やかなミルキーブルーとなっています。川は約 27km にわたって流れ、クック湾へと注ぎ込みます。この川には、サケやマスが豊富に生息し、人気の釣りスポットとして知られています。また、周辺ではキャンプや自然遊歩道の散策も楽しめます。",
-      "en-IN": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula in the United States. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
-      "it-IT": "Visto dall'alto, il fiume Kasilof disegna un nastro turchese sulla penisola di Kenai, in Alaska (USA). Quel colore non è un gioco di luce: viene dal limo glaciale in sospensione che scende dal lago Tustumena, uno dei più grandi bacini d'acqua dolce dello stato, alimentato a sua volta da un ghiacciaio.",
-      "pt-BR": "Se alguém dissesse que esta água foi tingida de azul, seria fácil acreditar. O rio Kasilof, na Península de Kenai, no Alasca, realmente ganha esse tom turquesa intenso. A explicação, porém, está nas geleiras: partículas microscópicas de rocha, chamadas silte glacial, chegam ao rio vindas do lago Tustumena e permanecem suspensas na água, ajudando a produzir a coloração.",
-      "zh-CN": "从空中俯瞰，卡西洛夫河宛如一条绿松石色的丝带，蜿蜒穿过阿拉斯加州的基奈半岛。鲜艳的蓝色河水源于从图斯图梅纳湖向下游输送的冰川粉砂；该湖是阿拉斯加州最大的淡水湖之一。河流全长约17英里，最终注入库克湾。它虽比著名的邻河基奈河短，却同样不同凡响。"
+      "en-GB": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "en-CA": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "de-DE": "Im Nationalpark Plitvicer Seen scheint Wasser allgegenwärtig zu sein. Sechzehn terrassenförmig angeordnete Seen sind durch zahlreiche Wasserfälle, Bäche und Kaskaden miteinander verbunden und schlängeln sich durch bewaldete Kalksteinschluchten. Je nach Mineralgehalt, Sonneneinstrahlung und Spiegelungen schimmert das Wasser in immer neuen Farbtönen von Smaragdgrün bis Tiefblau. Der 1949 gegründete Nationalpark ist der älteste und größte Kroatiens. Besonders charakteristisch sind seine natürlichen Tuffbarrieren, die durch die Ablagerung von Kalziumkarbonat entstehen. Dieser Prozess setzt sich bis heute fort und verändert die Seen und Wasserfälle stetig.",
+      "fr-FR": "Au cœur de la Croatie, le parc national des Lacs de Plitvice semble sorti d'un rêve. Seize lacs en terrasses se succèdent, reliés par un labyrinthe de cascades, de ruisseaux et de chutes d'eau qui serpentent entre des canyons calcaires boisés. La couleur de l'eau — émeraude, turquoise, bleu profond — change selon la lumière, les minéraux dissous et le reflet des arbres. Aucune photo ne la restitue vraiment.",
+      "es-ES": "En el Parque Nacional de los Lagos de Plitvice, en Croacia, el agua parece estar en todas partes. Dieciséis lagos escalonados se enlazan mediante cascadas, arroyos y saltos que atraviesan cañones calizos cubiertos de bosque, y su color cambia del verde esmeralda al azul intenso según los minerales, la luz y los reflejos. Declarado en 1949, es el parque nacional más antiguo y más grande del país.",
+      "ja-JP": "ここはクロアチア中部に位置するプリトヴィツェ湖群国立公園。高低差のある 16 の湖と、それを繋ぐ 92 の滝や瀑布という壮大な景観が特徴です。湖水は、含まれるミネラルの組成や太陽光の反射によって、エメラルドグリーンから深い青までさまざまな色合いを見せます。園内には木製の遊歩道が整備されており、滝が流れ落ちる様子や澄んだ湖面、木々に囲まれた岸辺などを間近に眺めることができます。こうした圧倒的な自然美と豊かな生態系が評価され、1979年にユネスコ世界遺産に登録されました。",
+      "en-IN": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "en-US": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams, and cascades that wind through forested limestone canyons. The constantly changing colors of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight, and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "it-IT": "Nel Parco nazionale dei laghi di Plitvice, in Croazia, l'acqua sembra essere davvero ovunque. Sedici laghi a gradoni si collegano attraverso cascate, ruscelli e salti che attraversano canyon calcarei coperti di foresta, e il colore passa dal verde smeraldo al blu profondo a seconda dei minerali, della luce e dei riflessi. Istituito nel 1949, è il parco nazionale più antico e più grande del Paese.",
+      "pt-BR": "Em Plitvice, na Croácia, a água nunca descansa em seu projeto de paisagismo. Dezesseis lagos em diferentes níveis são ligados por cachoeiras, riachos e pequenas quedas-d’água que atravessam cânions cobertos pela floresta. Os tons variam do verde-esmeralda ao azul profundo, influenciados pelos minerais dissolvidos, pela luz e pelos reflexos que mudam o tempo todo.",
+      "zh-CN": "在克罗地亚的普利特维采湖群国家公园，水似乎无处不在。十六个阶梯状湖泊由瀑布、溪流和层叠而下的水流组成的网络连接起来，蜿蜒穿过森林覆盖的石灰岩峡谷。湖水的颜色不断变化，从翠绿到深蓝不等，这是由矿物质、阳光和不断变化的倒影共同造就的。普利特维采湖群国家公园成立于1949年，是克罗地亚历史最悠久、面积最大的国家公园。这里以石灰华屏障闻名，这种天然石灰岩构造是富含矿物质的水在数百年间沉积碳酸钙形成的。这些屏障仍在继续生长和变化，逐渐改变着公园内的瀑布和湖泊。"
     },
     "quickFacts": {
-      "zh-CN": "卡西洛夫河畔的克鲁克德溪州立休闲地在 5 月和 6 月最受欢迎，此时游客可从河岸垂钓帝王鲑。"
+      "zh-CN": "普利特维采拥有84公顷的山毛榉和冷杉原始林，也是棕熊、灰狼和猞猁的家园。"
     },
     "captions": {
-      "en-US": "The blue, glacier-fed waters of the Kasilof River, Alaska",
-      "en-GB": "Kasilof River, Alaska, United States",
-      "en-CA": "The blue, glacier-fed waters of the Kasilof River, Alaska, USA",
-      "de-DE": "Gletschergespeistes Wasser im Kasilof River, Alaska, USA",
-      "fr-FR": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis",
+      "en-GB": "Plitvice Lakes National Park, Croatia",
+      "en-CA": "Plitvice Lakes National Park, Croatia",
+      "de-DE": "Nationalpark Plitvicer Seen, Kroatien",
+      "fr-FR": "Parc national des lacs de Plitvice, Croatie",
       "it-IT": "",
-      "es-ES": "Río Kasilof, Alaska, EE. UU.",
+      "es-ES": "Parque Nacional de los Lagos de Plitvice, Croacia",
       "pt-BR": "",
-      "ja-JP": "氷河の恵みをたたえる川",
+      "ja-JP": "紅葉に彩られた湖と滝",
       "zh-CN": "",
-      "en-IN": "Kasilof River, Alaska, United States"
+      "en-IN": "Plitvice Lakes National Park, Croatia"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260929_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260929_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Kasilof+River+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220260928_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=rivi%c3%a8re+Kasilof+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Il+Fiume+Kasilof+Alaska&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=R%c3%ado+Kasilof+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Pen%c3%adnsula+de+Kenai+no+Alasca&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%82%b7%e3%83%ad%e3%83%95%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220260928_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e5%9b%bd%e9%98%bf%e6%8b%89%e6%96%af%e5%8a%a0%e5%b7%9e%e5%8d%a1%e8%a5%bf%e6%b4%9b%e5%a4%ab%e6%b2%b3&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261012_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Nationalpark+Plitvicer+Seen+Kroatien&form=hpcapt&filters=HpDate%3a%2220261012_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Parc+national+lacs+de+Plitvice&form=hpcapt&filters=HpDate%3a%2220261012_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+dei+laghi+di+Plitvice&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+los+Lagos+de+Plitvice&form=hpcapt&filters=HpDate%3a%2220261012_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+dos+Lagos+de+Plitvice&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%97%e3%83%aa%e3%83%88%e3%83%b4%e3%82%a3%e3%83%84%e3%82%a7%e6%b9%96%e7%be%a4%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261012_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%99%ae%e5%88%a9%e7%89%b9%e7%bb%b4%e9%87%87%e6%b9%96%e7%be%a4%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261012_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.KasilofRiver_EN-US0047556055",
-      "en-GB": "/th?id=OHR.KasilofRiver_EN-GB9796874794",
-      "en-CA": "/th?id=OHR.KasilofRiver_EN-CA0207893749",
-      "de-DE": "/th?id=OHR.KasilofRiver_DE-DE4065933153",
-      "fr-FR": "/th?id=OHR.KasilofRiver_FR-FR9609860572",
-      "it-IT": "/th?id=OHR.KasilofRiver_IT-IT8693387372",
-      "es-ES": "/th?id=OHR.KasilofRiver_ES-ES8214443142",
-      "pt-BR": "/th?id=OHR.KasilofRiver_PT-BR1313310893",
-      "ja-JP": "/th?id=OHR.KasilofRiver_JA-JP7219675730",
-      "zh-CN": "/th?id=OHR.KasilofRiver_ZH-CN2394091052",
-      "en-IN": "/th?id=OHR.KasilofRiver_EN-IN8772070314"
-    }
-  },
-  "AmberHall": {
-    "name": "AmberHall",
-    "urlbase": "/th?id=OHR.AmberHall_EN-US9930812541",
-    "date": "20260928",
-    "dateFormatted": "September 28, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
-      "en-CA": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
-      "en-GB": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
-      "de-DE": "Geschichte mit Aussicht. Fort Amber bei Jaipur, Rajasthan, Indien",
-      "fr-FR": "Vue sur l’histoire. Fort d’Amber près de Jaipur, Rajasthan, Inde",
-      "it-IT": "Storie tra i pilastri",
-      "es-ES": "Los 27 pilares de la historia. Fuerte de Amber cerca de Jaipur, Rajasthan, India",
-      "pt-BR": "Uma vista digna de um marajá",
-      "ja-JP": "優美な柱が並ぶ宮殿",
-      "zh-CN": "可览美景的历史胜地",
-      "en-IN": "History with a view. Amber Fort near Jaipur, Rajasthan, India"
-    },
-    "copyrights": {
-      "en-US": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "en-CA": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "en-GB": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "de-DE": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
-      "fr-FR": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
-      "it-IT": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "es-ES": "Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-      "pt-BR": "Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)",
-      "ja-JP": "アンベール城, インド (© R.M. Nunes/Getty Images)",
-      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)",
-      "en-IN": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centered on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "en-CA": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "en-GB": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "de-DE": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
-      "fr-FR": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
-      "es-ES": "El Fuerte de Amber, junto a Jaipur (Rajastán, India), fue la capital real antes de que existiera la ciudad rosa. Su construcción arrancó en 1592 con Raja Man Singh I y continuó más de un siglo bajo los soberanos kachwaha; en 1727 la corte se mudó a la nueva Jaipur, aunque Amber siguió acogiendo ceremonias.",
-      "ja-JP": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
-      "en-IN": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
-      "it-IT": "Il Forte Amber, vicino a Jaipur (Rajasthan, India), è stato la capitale reale prima che esistesse la città rosa. La costruzione partì nel 1592 con Raja Man Singh I e continuò per oltre un secolo con i sovrani kachwaha; nel 1727 la corte si trasferì nella nuova Jaipur, ma Amber restò sede di cerimonie.",
-      "pt-BR": "Hoje estamos no Sattais Katcheri, na região indiana do Rajastão. O nome faz referência às 27 colunas do salão, que fazia parte da estrutura administrativa do Forte de Amber. Aqui, a decoração também conta uma história: elementos da arquitetura rajput convivem com influências mogóis, ao lado de mármore trabalhado, pátios monumentais e o extraordinário Sheesh Mahal, ou Palácio dos Espelhos.",
-      "zh-CN": "大多数初次到访印度拉贾斯坦邦斋浦尔的游客都知道这座城市有“粉红之城”的美誉，但更早的王都以琥珀堡为中心。这个王朝的大部分政治与建筑史正是在那里书写的。琥珀堡的营建历时一个多世纪，始于1592年拉贾·曼·辛格一世统治时期，之后由历代卡奇瓦哈统治者续建；他们统治的王国后来成为斋浦尔土邦。王室于 1727 年迁往新规划的斋浦尔城，但琥珀堡仍继续承担礼仪功能。"
-    },
-    "quickFacts": {
-      "zh-CN": "琥珀堡是联合国教科文组织世界遗产“拉贾斯坦邦的山地要塞”所包含的六座堡垒之一；该遗产于 2013 年列入《世界遗产名录》。"
-    },
-    "captions": {
-      "en-US": "Amber Fort near Jaipur, Rajasthan, India",
-      "en-CA": "Amber Fort near Jaipur, Rajasthan, India"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.AmberHall_EN-US9930812541",
-      "en-CA": "/th?id=OHR.AmberHall_EN-CA9553208557"
+      "en-GB": "/th?id=OHR.PlitviceAutumn_EN-GB4470740504",
+      "en-CA": "/th?id=OHR.PlitviceAutumn_EN-CA2443117103",
+      "de-DE": "/th?id=OHR.PlitviceAutumn_DE-DE7625110895",
+      "fr-FR": "/th?id=OHR.PlitviceAutumn_FR-FR7127723381",
+      "it-IT": "/th?id=OHR.PlitviceAutumn_IT-IT0543699035",
+      "es-ES": "/th?id=OHR.PlitviceAutumn_ES-ES5332185237",
+      "pt-BR": "/th?id=OHR.PlitviceAutumn_PT-BR4568960471",
+      "ja-JP": "/th?id=OHR.PlitviceAutumn_JA-JP3930294400",
+      "zh-CN": "/th?id=OHR.PlitviceAutumn_ZH-CN5646237897",
+      "en-IN": "/th?id=OHR.PlitviceAutumn_EN-IN8498813927"
     }
   },
   "MumblesSwansea2026": {
@@ -1888,6 +1904,40 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434"
+    }
+  },
+  "HeartLakeTG": {
+    "name": "HeartLakeTG",
+    "urlbase": "/th?id=OHR.HeartLakeTG_EN-CA2157233427",
+    "date": "20261012",
+    "dateFormatted": "October 12, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Hearts filled with gratitude. Thanksgiving Day"
+    },
+    "copyrights": {
+      "en-CA": "Baker Lake near East Bolton, Quebec (© SEBASTIEN ST-JEAN/Contributor/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Pull up a chair, pass the pie and make some room for gratitude. Thanksgiving in Canada has a story that goes back much further than the holiday table. This holiday is rooted in harvest traditions, with people gathering to give thanks. Its history is not tied to one single event, although an early celebration is associated with English explorer Martin Frobisher. In 1578, after his expedition made a safe passage across the Atlantic and reached what is now Nunavut, Frobisher held a celebratory feast. Over time, Thanksgiving evolved into a national holiday centred on the harvest and spending time with loved ones."
+    },
+    "quickFacts": {
+      "en-CA": "Thanksgiving has been observed on the second Monday in October throughout Canada since 1957."
+    },
+    "captions": {
+      "en-CA": "Thanksgiving Day"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Canadian+Thanksgiving&form=hpcapt&filters=HpDate%3a%2220261012_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.HeartLakeTG_EN-CA2157233427"
     }
   },
   "NuitBToro": {
@@ -2704,6 +2754,78 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376"
+    }
+  },
+  "AmberHall": {
+    "name": "AmberHall",
+    "urlbase": "/th?id=OHR.AmberHall_EN-US9930812541",
+    "date": "20260928",
+    "dateFormatted": "September 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "en-CA": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "en-GB": "History with a view. Amber Fort near Jaipur, Rajasthan, India",
+      "de-DE": "Geschichte mit Aussicht. Fort Amber bei Jaipur, Rajasthan, Indien",
+      "fr-FR": "Vue sur l’histoire. Fort d’Amber près de Jaipur, Rajasthan, Inde",
+      "it-IT": "Storie tra i pilastri",
+      "es-ES": "Los 27 pilares de la historia. Fuerte de Amber cerca de Jaipur, Rajasthan, India",
+      "pt-BR": "Uma vista digna de um marajá",
+      "ja-JP": "優美な柱が並ぶ宮殿",
+      "zh-CN": "可览美景的历史胜地",
+      "en-IN": "History with a view. Amber Fort near Jaipur, Rajasthan, India"
+    },
+    "copyrights": {
+      "en-US": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "en-CA": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "en-GB": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "de-DE": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
+      "fr-FR": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
+      "it-IT": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "es-ES": "Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+      "pt-BR": "Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)",
+      "ja-JP": "アンベール城, インド (© R.M. Nunes/Getty Images)",
+      "zh-CN": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)",
+      "en-IN": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centered on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "en-CA": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "en-GB": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "de-DE": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
+      "fr-FR": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
+      "es-ES": "El Fuerte de Amber, junto a Jaipur (Rajastán, India), fue la capital real antes de que existiera la ciudad rosa. Su construcción arrancó en 1592 con Raja Man Singh I y continuó más de un siglo bajo los soberanos kachwaha; en 1727 la corte se mudó a la nueva Jaipur, aunque Amber siguió acogiendo ceremonias.",
+      "ja-JP": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
+      "en-IN": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+      "it-IT": "Il Forte Amber, vicino a Jaipur (Rajasthan, India), è stato la capitale reale prima che esistesse la città rosa. La costruzione partì nel 1592 con Raja Man Singh I e continuò per oltre un secolo con i sovrani kachwaha; nel 1727 la corte si trasferì nella nuova Jaipur, ma Amber restò sede di cerimonie.",
+      "pt-BR": "Hoje estamos no Sattais Katcheri, na região indiana do Rajastão. O nome faz referência às 27 colunas do salão, que fazia parte da estrutura administrativa do Forte de Amber. Aqui, a decoração também conta uma história: elementos da arquitetura rajput convivem com influências mogóis, ao lado de mármore trabalhado, pátios monumentais e o extraordinário Sheesh Mahal, ou Palácio dos Espelhos.",
+      "zh-CN": "大多数初次到访印度拉贾斯坦邦斋浦尔的游客都知道这座城市有“粉红之城”的美誉，但更早的王都以琥珀堡为中心。这个王朝的大部分政治与建筑史正是在那里书写的。琥珀堡的营建历时一个多世纪，始于1592年拉贾·曼·辛格一世统治时期，之后由历代卡奇瓦哈统治者续建；他们统治的王国后来成为斋浦尔土邦。王室于 1727 年迁往新规划的斋浦尔城，但琥珀堡仍继续承担礼仪功能。"
+    },
+    "quickFacts": {
+      "zh-CN": "琥珀堡是联合国教科文组织世界遗产“拉贾斯坦邦的山地要塞”所包含的六座堡垒之一；该遗产于 2013 年列入《世界遗产名录》。"
+    },
+    "captions": {
+      "en-US": "Amber Fort near Jaipur, Rajasthan, India",
+      "en-CA": "Amber Fort near Jaipur, Rajasthan, India"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AmberHall_EN-US9930812541",
+      "en-CA": "/th?id=OHR.AmberHall_EN-CA9553208557"
     }
   },
   "DecoCrab": {
