@@ -1,4 +1,145 @@
 {
+  "AmmoniteFossils": {
+    "name": "AmmoniteFossils",
+    "urlbase": "/th?id=OHR.AmmoniteFossils_EN-US6354038755",
+    "date": "20261014",
+    "dateFormatted": "October 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Spirals through time. National Fossil Day",
+      "en-GB": "Spirals through time. Ammonite fossils from the Jurassic Period",
+      "de-DE": "Spiralen durch die Zeit. Ammonitenfossilien aus der Jurazeit",
+      "fr-FR": "Le temps pris dans la pierre. Fossiles d'ammonites du Jurassique",
+      "it-IT": "Spirali nel tempo",
+      "es-ES": "Espirales en el tiempo. Fósiles de amonites del Jurásico",
+      "pt-BR": "O Jurássico mandou lembranças",
+      "ja-JP": "古代の海に生息していた動物の化石",
+      "zh-CN": "侏罗纪时期的菊石化石",
+      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period"
+    },
+    "copyrights": {
+      "en-US": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+      "en-GB": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+      "de-DE": "Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)",
+      "fr-FR": "Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)",
+      "it-IT": "Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)",
+      "es-ES": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
+      "pt-BR": "Fósseis de amonites do período Jurássico (© J Nemchinova/Getty Images)",
+      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)",
+      "zh-CN": "侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)",
+      "en-IN": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)"
+    },
+    "descs": {
+      "en-US": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. National Fossil Day celebrates paleontology and the discoveries that help scientists reconstruct past environments, trace the evolution of life, and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "en-GB": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "de-DE": "Ammoniten gehören zu den faszinierendsten Fossilien der Jurazeit. Die ausgestorbenen Meerestiere entwickelten eine erstaunliche Vielfalt an Formen und Größen. Heute sind ihre versteinerten Schalen wichtige Zeugen einer längst vergangenen Welt. Für die Wissenschaft sind sie besonders wertvoll, da bestimmte Arten als Leitfossilien dienen und dabei helfen, Gesteinsschichten zeitlich einzuordnen.",
+      "fr-FR": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années.",
+      "es-ES": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
+      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
+      "en-IN": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "it-IT": "Le conchiglie avvolte a spirale dell'immagine appartengono ad ammoniti del Giurassico, molluschi marini che popolavano gli oceani quando i dinosauri dominavano le terre emerse. Somigliavano ai nautili di oggi, ma erano parenti più stretti di calamari e polpi, e le loro conchiglie divise in camere hanno prodotto quelle spirali che riconosciamo al primo sguardo.",
+      "pt-BR": "Como contar a história de um mundo sem testemunhas? Muito antes da escrita, dos mapas ou dos primeiros seres humanos, a Terra já mantinha seus próprios arquivos. Não em papel, mas em pedra. Cada fóssil preserva fragmentos de vidas desaparecidas e ajuda cientistas a reconstruir oceanos, paisagens e criaturas que sumiram há milhões de anos.",
+      "zh-CN": "我们如何知道早在人类出现之前地球是什么样子？化石提供了许多线索。国家化石日旨在赞颂古生物学，以及那些帮助科学家重建过去环境、追溯生命演化并了解数百万年前消失生物的发现。从恐龙到微小的海洋生物，这些过去的遗存保存着早已不复存在的远古世界的一个个瞬间。"
+    },
+    "quickFacts": {
+      "ja-JP": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。",
+      "en-GB": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
+      "de-DE": "Ein Fossil muss nicht unbedingt ein Knochen sein. Auch Spuren, Tierbaue, Nester und andere Überreste urzeitlichen Lebens können zu Fossilien werden.",
+      "fr-FR": "Un fossile n'est pas forcément un os. Des empreintes, des terriers, des nids et d'autres traces de vie ancienne peuvent eux aussi devenir des fossiles.",
+      "it-IT": "Un fossile non è per forza un osso: anche impronte, tane, nidi e altre tracce di vita antica possono fossilizzare.",
+      "es-ES": "Un fósil no tiene que ser un hueso: huellas, madrigueras, nidos y otros rastros de vida antigua también pueden fosilizar.",
+      "zh-CN": "化石不一定非得是骨骼。足迹、洞道、巢穴以及古代生命留下的其他痕迹也可以成为化石。",
+      "en-IN": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
+      "en-US": "A fossil doesn't have to be a bone. Tracks, burrows, nests, and other traces of ancient life can become fossils too."
+    },
+    "captions": {
+      "en-US": "National Fossil Day",
+      "en-GB": "Ammonite fossils from the Jurassic Period",
+      "de-DE": "Ammonitenfossilien aus der Jurazeit",
+      "fr-FR": "Fossiles d'ammonites du Jurassique",
+      "it-IT": "",
+      "es-ES": "Fósiles de amonites del Jurásico",
+      "pt-BR": "",
+      "ja-JP": "古代の海に生息していた動物の化石",
+      "zh-CN": "",
+      "en-IN": "Ammonite fossils from the Jurassic Period"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Fossil+Day&form=hpcapt&filters=HpDate%3a%2220261014_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate%3a%2220261013_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Fossilien&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=le+Jurassique&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Fossili+di+ammoniti&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=F%c3%b3siles+de+amonites&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=amonites&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a2%e3%83%8a%e3%82%a4%e3%83%88&form=hpcapt&filters=HpDate%3a%2220261002_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e5%ae%b6%e5%8c%96%e7%9f%b3%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate%3a%2220261013_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AmmoniteFossils_EN-US6354038755",
+      "en-GB": "/th?id=OHR.AmmoniteFossils_EN-GB4546470412",
+      "de-DE": "/th?id=OHR.AmmoniteFossils_DE-DE6773160072",
+      "fr-FR": "/th?id=OHR.AmmoniteFossils_FR-FR7395830779",
+      "it-IT": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844",
+      "es-ES": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890",
+      "pt-BR": "/th?id=OHR.AmmoniteFossils_PT-BR4750235603",
+      "ja-JP": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090",
+      "zh-CN": "/th?id=OHR.AmmoniteFossils_ZH-CN5825251327",
+      "en-IN": "/th?id=OHR.AmmoniteFossils_EN-IN8565946131"
+    }
+  },
   "PlitviceAutumn": {
     "name": "PlitviceAutumn",
     "urlbase": "/th?id=OHR.PlitviceAutumn_EN-US6255909048",
@@ -635,7 +776,7 @@
       "it-IT": "Ora mi vedi, ora no",
       "es-ES": "Ahora me ves, ahora no. Día Mundial del Pulpo",
       "pt-BR": "Oito braços, zero paciência",
-      "zh-CN": "印度洋马约特岛，一只呈防御姿态的章鱼",
+      "zh-CN": "现在你“海”能看见我……",
       "en-IN": "Now you 'sea' me... World Octopus Day"
     },
     "copyrights": {
@@ -652,12 +793,12 @@
     },
     "descs": {
       "en-US": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean. Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
-      "en-GB": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean. Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
+      "en-GB": "Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
       "en-CA": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean. Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
       "de-DE": "Am 8. Oktober wird der Welttag der Kraken gefeiert. Der Aktionstag lenkt die Aufmerksamkeit auf eine faszinierende Tiergruppe, die für ihre Intelligenz, ihre Anpassungsfähigkeit und ihre erstaunlichen Überlebensstrategien bekannt ist. Kraken leben in nahezu allen Ozeanen der Erde und begeistern Forschende ebenso wie Naturfreunde mit ihrem komplexen Verhalten.",
-      "fr-FR": "Poulpe fiction. Poulpe en position défensive, Mayotte, océan Indien. Au large de Mayotte, archipel français de l'océan Indien, ce poulpe a adopté une posture sans équivoque : ce qui s'approche ferait mieux de rebrousser chemin.",
+      "fr-FR": "Au large de Mayotte, archipel français de l'océan Indien, ce poulpe a adopté une posture sans équivoque : ce qui s'approche ferait mieux de rebrousser chemin.",
       "es-ES": "Frente a las costas de Mayotte (Francia), en el océano Índico, este pulpo ha adoptado una postura defensiva que viene a decir: quien se acerque, que se lo piense mejor. Es una advertencia con estilo, porque en lugar de coraza confía en la transformación.",
-      "en-IN": "Now you 'sea' me... Octopus in defensive posture, Mayotte, Indian Ocean. Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
+      "en-IN": "Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
       "it-IT": "Davanti alle coste di Mayotte (Francia), nell'Oceano Indiano, questo polpo ha assunto una posizione difensiva che significa più o meno: chi si avvicina, ci pensi due volte. È un avvertimento con stile, perché al posto della corazza punta tutto sulla trasformazione.",
       "pt-BR": "No litoral de Mayotte, no Oceano Índico, este polvo adota uma postura que parece dizer: “mantenha distância”. Com os braços erguidos e o corpo pronto para reagir, ele exibe uma das muitas estratégias de defesa de um animal que fez da adaptação uma arte.",
       "zh-CN": "显然有什么东西越界了。在印度洋马约特岛近海，这只章鱼摆出了一副防御姿态，仿佛在说：无论是什么正在靠近，都该重新考虑一下自己的生命选择。"
@@ -1304,6 +1445,11 @@
         "flag": "gb"
       },
       {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
@@ -1342,38 +1488,38 @@
     "titles": {
       "en-US": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska",
       "en-GB": "Catch, eat, repeat. Brown bear, Alaska, United States",
+      "en-CA": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
       "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA",
       "fr-FR": "Maître des eaux. Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
       "it-IT": "Pesca, mangia, ripeti",
       "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
       "pt-BR": "O último buffet do ano",
       "zh-CN": "捕捉、进食、重复",
-      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
-      "en-CA": "Catch, eat, repeat. Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States"
+      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States"
     },
     "copyrights": {
       "en-US": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)",
       "en-GB": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "en-CA": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
       "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)",
       "fr-FR": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
       "it-IT": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)",
       "es-ES": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
       "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
       "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
-      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
-      "en-CA": "© Danny Green/Nature Picture Library"
+      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)"
     },
     "descs": {
       "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
       "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "en-CA": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
       "de-DE": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
       "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
       "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
       "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
       "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
       "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
-      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。",
-      "en-CA": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink."
+      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。"
     },
     "quickFacts": {
       "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
@@ -1381,6 +1527,7 @@
     "captions": {
       "en-US": "Brown bear in Lake Clark National Park and Preserve, Alaska",
       "en-GB": "Brown bear, Alaska, United States",
+      "en-CA": "Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
       "de-DE": "Braunbär, Lake Clark National Park and Preserve, Alaska, USA",
       "fr-FR": "Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
       "it-IT": "",
@@ -1392,6 +1539,7 @@
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220261003_0700%22",
       "en-GB": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261002_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261014_0400%22",
       "de-DE": "https://www.bing.com/search?q=Braunb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
       "fr-FR": "https://www.bing.com/search?q=ours+brun+animal&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
       "it-IT": "https://www.bing.com/search?q=Orso+bruno&form=hpcapt",
@@ -1403,6 +1551,7 @@
     "urlbases": {
       "en-US": "/th?id=OHR.GrizzlySwim_EN-US5133524829",
       "en-GB": "/th?id=OHR.GrizzlySwim_EN-GB2587469687",
+      "en-CA": "/th?id=OHR.GrizzlySwim_EN-CA2710630781",
       "de-DE": "/th?id=OHR.GrizzlySwim_DE-DE4187515695",
       "fr-FR": "/th?id=OHR.GrizzlySwim_FR-FR9368655618",
       "it-IT": "/th?id=OHR.GrizzlySwim_IT-IT0100605871",
@@ -1516,21 +1665,6 @@
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
       }
     ],
     "titles": {
@@ -1559,117 +1693,22 @@
     },
     "captions": {
       "en-US": "Yosemite National Park anniversary",
-      "en-CA": "Yosemite National Park, California, United States",
-      "it-IT": "",
-      "ja-JP": "夕日に染まるヨセミテの岩峰",
-      "zh-CN": ""
+      "en-CA": "Yosemite National Park, California, United States"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0400%22",
-      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+di+Yosemite+California&form=hpcapt",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%aa%e3%83%ab%e3%83%a0%e3%82%b9%e3%83%86%e3%83%83%e3%83%89%e3%83%bb%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260930_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%bc%98%e8%83%9c%e7%be%8e%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+      "en-CA": "https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.OlmstedPoint_EN-US0964858045",
-      "en-CA": "/th?id=OHR.OlmstedPoint_EN-CA1947517359",
-      "it-IT": "/th?id=OHR.OlmstedPoint_IT-IT8819239294",
-      "ja-JP": "/th?id=OHR.OlmstedPoint_JA-JP0098463265",
-      "zh-CN": "/th?id=OHR.OlmstedPoint_ZH-CN4182671075"
+      "en-CA": "/th?id=OHR.OlmstedPoint_EN-CA1947517359"
     }
   },
-  "BeardReedling": {
-    "name": "BeardReedling",
-    "urlbase": "/th?id=OHR.BeardReedling_EN-US0124350202",
-    "date": "20260930",
-    "dateFormatted": "September 30, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "en-US": "A face you don't forget. Male bearded reedling, Norfolk, England",
-      "en-CA": "A face you don't forget. Male bearded reedling, Norfolk, England",
-      "de-DE": "Natur mit Charakter. Bartmeisenmännchen, Norfolk, England",
-      "en-GB": "A face you don't forget. Male bearded reedling, Norfolk, England",
-      "fr-FR": "Une drôle de petite tête. Panure à moustaches mâle, Norfolk, Angleterre",
-      "it-IT": "Un volto che non si dimentica mai",
-      "es-ES": "Un canto inolvidable. Macho de bigotudo, Norfolk, Inglaterra",
-      "pt-BR": "Um bigode de respeito",
-      "ja-JP": "枯れ草にとまる小鳥",
-      "zh-CN": "一张令人过目难忘的脸",
-      "en-IN": "A face you don't forget. Male bearded reedling, Norfolk, England"
-    },
-    "copyrights": {
-      "en-US": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
-      "en-CA": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
-      "de-DE": "Bartmeisenmännchen, Norfolk, England (© Andrew Sproule/Shutterstock)",
-      "en-GB": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
-      "fr-FR": "Panure à moustaches mâle, Norfolk, Angleterre (© Andrew Sproule/Shutterstock)",
-      "it-IT": "Maschio di basettino, Norfolk, Inghilterra (© Andrew Sproule/Shutterstock)",
-      "es-ES": "Macho de bigotudo, Norfolk, Inglaterra (© Andrew Sproule/Shutterstock)",
-      "pt-BR": "Chapim-de-bigodes em Norfolk, Inglaterra (© Andrew Sproule/Shutterstock)",
-      "ja-JP": "ヒゲガラ, イングランド (© Andrew Sproule/Shutterstock)",
-      "zh-CN": "雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)",
-      "en-IN": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-gray head, a bright orange bill, and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores, and reed beds.",
-      "en-CA": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-grey head, a bright orange bill and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores and reed beds.",
-      "de-DE": "Bartmeisenmännchen fallen sofort durch ihr unverwechselbares Erscheinungsbild auf. Die markanten schwarzen Bartstreifen auf dem graublauen Kopf verleihen ihnen einen fast gezeichneten Ausdruck und machen sie leicht erkennbar. Das hier fotografierte Männchen wurde in Norfolk an der Ostküste Englands aufgenommen. In den ausgedehnten Schilfbeständen der Region finden die Vögel geschützte Brutplätze und reichlich Nahrung. Oft bewegen sie sich geschickt an dünnen Halmen entlang und zeigen dabei eine bemerkenswerte Balance. Besonders im Winter lassen sie sich häufiger beobachten, wenn kleine Gruppen gemeinsam durch die Vegetation ziehen.",
-      "en-GB": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-grey head, a bright orange bill and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores and reed beds.",
-      "fr-FR": "Dans les roselières du Norfolk, à l’est de l’Angleterre, un petit éclat de couleur attire parfois le regard avant de disparaître entre les tiges frémissantes. Le mâle de la panure à moustaches, avec sa tête bleu gris pâle, son bec orange vif et ses marques noires caractéristiques, semble avoir été peint pour se distinguer. Pourtant, cet oiseau discret passe l’essentiel de sa vie à l’abri des regards, au cœur des marais, des berges lacustres et des vastes étendues de roseaux qui façonnent ces paysages humides.",
-      "es-ES": "Sujeto a un tallo en Norfolk (Inglaterra), el macho de bigotudo luce cabeza gris azulada, pico naranja y esas dos manchas negras que le dan nombre, más parecidas a unas patillas que a un bigote. Vive escondido en los carrizales, y casi siempre lo delata su reclamo metálico antes que su figura.",
-      "ja-JP": "今日の画像は、イングランド・ノーフォークで撮影されたオスのヒゲガラ。イギリスやヨーロッパに分布するスズメ目の鳥で、主に河川や湖沼などの湿地帯に生息しています。春から夏にかけては昆虫を、秋から冬にかけてはヨシやスゲの種子を主に食べ、ほとんど渡りをせずに同じ生息地で暮らします。オスは頭部の羽毛が灰色で、くちばしの基部から下方へ伸びるひげ状の黒斑があり、その特徴が名前の由来となっています。メスの頭部の羽毛は淡褐色で、オスのような黒斑はありません。",
-      "en-IN": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-grey head, a bright orange bill and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores and reed beds.",
-      "it-IT": "In equilibrio su uno stelo sottile a Norfolk (Inghilterra), il maschio di basettino mostra testa grigio-azzurra, becco arancione e quelle due macchie nere che gli danno il nome: più basette che baffi. Grande come una cincia, vive nascosto nei canneti, e di solito lo tradisce il richiamo metallico prima della sagoma.",
-      "pt-BR": "Uma haste balança, o vento sopra e ele continua firme. O chapim-de-bigodes parece ter instalado um pequeno sistema de suspensão nas patas. O macho da imagem, fotografado em Norfolk, Inglaterra, exibe cabeça azul-acinzentada, bico laranja e as manchas pretas que deram origem ao nome da espécie.",
-      "zh-CN": "在英格兰诺福克郡，一只雄性文须雀稳稳地立在纤细的茎秆上。今天图片中的它有着浅蓝灰色的头部、亮橙色的喙，以及令这个物种得名的黑色面部斑纹，格外引人注目。尽管外表醒目，这种小鸟一生中的大部分时间却藏身于沼泽、湖岸和芦苇荡茂密的湿地植被中。"
-    },
-    "quickFacts": {
-      "en-US": "Bearded reedlings are found across much of Europe and Asia, from Britain's wetlands to reed beds stretching across Central and East Asia.",
-      "en-GB": "Bearded reedlings are found across much of Europe and Asia, from Britain's wetlands to reed beds stretching across Central and East Asia.",
-      "en-CA": "Bearded reedlings are found across much of Europe and Asia, from Britain's wetlands to reed beds stretching across Central and East Asia.",
-      "de-DE": "Bartmeisen sind in weiten Teilen Europas und Asiens verbreitet. Ihr Lebensraum reicht von den Feuchtgebieten Großbritanniens bis zu den Schilfgebieten Zentral- und Ostasiens.",
-      "fr-FR": "Les panures à moustaches sont présentes sur une grande partie de l'Europe et de l'Asie, depuis les zones humides de Grande-Bretagne jusqu'aux roselières d'Asie centrale et orientale.",
-      "zh-CN": "文须雀广泛分布于欧洲和亚洲，从英国的湿地一直延伸到中亚和东亚的芦苇荡。",
-      "en-IN": "Bearded reedlings are found across much of Europe and Asia, from Britain's wetlands to reed beds stretching across Central and East Asia."
-    },
-    "captions": {
-      "en-US": "Male bearded reedling, Norfolk, England",
-      "en-CA": "Male bearded reedling, Norfolk, England",
-      "de-DE": "Bartmeisenmännchen, Norfolk, England"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260930_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260930_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Bartmeise&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BeardReedling_EN-US0124350202",
-      "en-CA": "/th?id=OHR.BeardReedling_EN-CA1270469815",
-      "de-DE": "/th?id=OHR.BeardReedling_DE-DE4310310403"
-    }
-  },
-  "AmmoniteFossils": {
-    "name": "AmmoniteFossils",
-    "urlbase": "/th?id=OHR.AmmoniteFossils_EN-GB4546470412",
-    "date": "20261013",
-    "dateFormatted": "October 13, 2026",
+  "WroclawPoland": {
+    "name": "WroclawPoland",
+    "urlbase": "/th?id=OHR.WroclawPoland_EN-GB4702725574",
+    "date": "20261014",
+    "dateFormatted": "October 14, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1697,11 +1736,6 @@
         "flag": "es"
       },
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
         "code": "ja-JP",
         "name": "JP",
         "flag": "jp"
@@ -1718,84 +1752,76 @@
       }
     ],
     "titles": {
-      "en-GB": "Spirals through time. Ammonite fossils from the Jurassic Period",
-      "de-DE": "Spiralen durch die Zeit. Ammonitenfossilien aus der Jurazeit",
-      "fr-FR": "Le temps pris dans la pierre. Fossiles d'ammonites du Jurassique",
-      "it-IT": "Spirali nel tempo",
-      "es-ES": "Espirales en el tiempo. Fósiles de amonites del Jurásico",
-      "pt-BR": "O Jurássico mandou lembranças",
-      "ja-JP": "古代の海に生息していた動物の化石",
-      "zh-CN": "侏罗纪时期的菊石化石",
-      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period",
-      "en-US": "Spirals through time. Ammonite fossils from the Jurassic Period"
+      "en-GB": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
+      "de-DE": "Brücken, Dächer und Dämmerung. Blick auf den Breslauer Marktplatz, Breslau, Polen",
+      "fr-FR": "La ville aux cent ponts. Place du marché de Wrocław, Pologne",
+      "it-IT": "Ponti, tetti e crepuscolo",
+      "es-ES": "Puentes, tejados y crepúsculo. Puente de las Brujas y plaza del Mercado, Breslavia, Polonia",
+      "ja-JP": "黄金色に輝く旧市街",
+      "zh-CN": "弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰",
+      "en-IN": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
+      "en-US": "Bridges, rooftops, and twilight. View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland",
+      "en-CA": "Bridges, rooftops and twilight. View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland",
+      "pt-BR": "O brilho de Wrocław. Vista da Praça do Mercado de Wrocław a partir da Ponte das Bruxas, Wrocław, Polônia"
     },
     "copyrights": {
-      "en-GB": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
-      "de-DE": "Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)",
-      "fr-FR": "Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)",
-      "it-IT": "Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)",
-      "es-ES": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
-      "pt-BR": "Fósseis de amonites do período Jurássico (© J Nemchinova/Getty Images)",
-      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)",
-      "zh-CN": "侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)",
-      "en-IN": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
-      "en-US": "© J Nemchinova/Getty Images"
+      "en-GB": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+      "de-DE": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)",
+      "fr-FR": "Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)",
+      "it-IT": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
+      "es-ES": "Vista de la plaza del Mercado de Breslavia desde el Puente de las Brujas, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
+      "ja-JP": "ヴロツワフ, ポーランド (© Piotr Mitelski/Shutterstock)",
+      "zh-CN": "弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)",
+      "en-IN": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+      "en-US": "© Piotr Mitelski/Shutterstock",
+      "en-CA": "© Piotr Mitelski/Shutterstock",
+      "pt-BR": "© Piotr Mitelski/Shutterstock"
     },
     "descs": {
-      "en-GB": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
-      "de-DE": "Ammoniten gehören zu den faszinierendsten Fossilien der Jurazeit. Die ausgestorbenen Meerestiere entwickelten eine erstaunliche Vielfalt an Formen und Größen. Heute sind ihre versteinerten Schalen wichtige Zeugen einer längst vergangenen Welt. Für die Wissenschaft sind sie besonders wertvoll, da bestimmte Arten als Leitfossilien dienen und dabei helfen, Gesteinsschichten zeitlich einzuordnen.",
-      "fr-FR": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années.",
-      "es-ES": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
-      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
-      "en-IN": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
-      "it-IT": "Le conchiglie avvolte a spirale dell'immagine appartengono ad ammoniti del Giurassico, molluschi marini che popolavano gli oceani quando i dinosauri dominavano le terre emerse. Somigliavano ai nautili di oggi, ma erano parenti più stretti di calamari e polpi, e le loro conchiglie divise in camere hanno prodotto quelle spirali che riconosciamo al primo sguardo.",
-      "pt-BR": "Como contar a história de um mundo sem testemunhas? Muito antes da escrita, dos mapas ou dos primeiros seres humanos, a Terra já mantinha seus próprios arquivos. Não em papel, mas em pedra. Cada fóssil preserva fragmentos de vidas desaparecidas e ajuda cientistas a reconstruir oceanos, paisagens e criaturas que sumiram há milhões de anos.",
-      "zh-CN": "我们如何知道早在人类出现之前地球是什么样子？化石提供了许多线索。国家化石日旨在赞颂古生物学，以及那些帮助科学家重建过去环境、追溯生命演化并了解数百万年前消失生物的发现。从恐龙到微小的海洋生物，这些过去的遗存保存着早已不复存在的远古世界的一个个瞬间。",
-      "en-US": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. National Fossil Day celebrates paleontology and the discoveries that help scientists reconstruct past environments, trace the evolution of life, and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist."
+      "en-GB": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+      "de-DE": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
+      "fr-FR": "Quand le crépuscule enveloppe Wrocław, la lumière dorée se répand sur les toits, les flèches d'église et l'une des plus belles places historiques d'Europe centrale. Cette ville du sud-ouest de la Pologne s'étend sur un archipel d'îles reliées par plus de cent ponts, mêlant architecture médiévale et vie contemporaine animée.",
+      "es-ES": "Cuando cae la tarde sobre Breslavia (Polonia), la luz dorada se derrama por los tejados, las torres de las iglesias y uno de los centros históricos más llamativos de Europa central. La ciudad se reparte entre islas y canales unidos por más de 100 puentes, y combina arquitectura medieval con una vida urbana muy animada. Su corazón es el Rynek, la plaza del Mercado nacida en el siglo XIII, presidida por el ayuntamiento viejo, de estilo gótico.",
+      "ja-JP": "夕暮れ時になると、ヴロツワフの歴史ある街並みが黄金色の光に包まれます。ポーランド南西部に位置するこの都市は、同国で最も古い都市の一つです。100 以上の橋で結ばれた水の都として知られ、中世の面影と現代の活気が調和しています。中心部には、13 世紀に開かれたリネク広場と旧市庁舎があり、多くの人でにぎわいます。画像は、聖マリア・マグダレーナ教会の「魔女の橋」から望んだ眺めです。旧市街や広場を一望でき、やわらかな灯りに照らされた街の幻想的な美しさを楽しむことができます。",
+      "en-IN": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+      "en-US": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers, and one of Central Europe's most striking historic centers. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognizable landmarks.",
+      "en-CA": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+      "it-IT": "Quando la sera scende su Breslavia (Polonia), la luce dorata si posa sui tetti, sulle torri delle chiese e su uno dei centri storici più sorprendenti dell'Europa centrale. La città si distribuisce tra isole e canali collegati da oltre 100 ponti, e mescola architettura medievale a una vita urbana molto vivace. Il suo cuore è il Rynek, la piazza del Mercato nata nel Duecento, dominata dal vecchio municipio gotico.",
+      "pt-BR": "Se uma cidade pudesse ser descrita como um quebra-cabeça, Wrocław (também chamada Breslávia) já viria com peças extras. Espalhada por ilhas e cortada por canais e rios, a cidade polonesa é atravessada por mais de 100 pontes. No centro está a Rynek, a enorme Praça do Mercado criada no século XIII, cercada por fachadas coloridas e pela antiga Prefeitura gótica.",
+      "zh-CN": "暮色降临弗罗茨瓦夫，金色光芒洒满屋顶、教堂塔楼和中欧最引人注目的历史中心之一。这座位于波兰西南部的城市横跨多座岛屿和水道，由100多座桥梁连接，将中世纪建筑与充满活力的现代生活融为一体。城市中心是热闹的雷内克(Rynek)集市广场，该广场建于13世纪，哥特式老市政厅便坐落于此，它是弗罗茨瓦夫最易辨认的地标之一。"
     },
     "quickFacts": {
-      "ja-JP": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。",
-      "en-GB": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
-      "de-DE": "Ein Fossil muss nicht unbedingt ein Knochen sein. Auch Spuren, Tierbaue, Nester und andere Überreste urzeitlichen Lebens können zu Fossilien werden.",
-      "fr-FR": "Un fossile n'est pas forcément un os. Des empreintes, des terriers, des nids et d'autres traces de vie ancienne peuvent eux aussi devenir des fossiles.",
-      "it-IT": "Un fossile non è per forza un osso: anche impronte, tane, nidi e altre tracce di vita antica possono fossilizzare.",
-      "es-ES": "Un fósil no tiene que ser un hueso: huellas, madrigueras, nidos y otros rastros de vida antigua también pueden fosilizar.",
-      "zh-CN": "化石不一定非得是骨骼。足迹、洞道、巢穴以及古代生命留下的其他痕迹也可以成为化石。",
-      "en-IN": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
-      "en-US": "A fossil doesn't have to be a bone. Tracks, burrows, nests, and other traces of ancient life can become fossils too."
+      "zh-CN": "弗罗茨瓦夫百年厅于1913年建成时，拥有当时世界上最大的钢筋混凝土穹顶。"
     },
     "captions": {
-      "en-GB": "Ammonite fossils from the Jurassic Period",
-      "de-DE": "Ammonitenfossilien aus der Jurazeit",
-      "fr-FR": "Fossiles d'ammonites du Jurassique",
+      "en-GB": "Market Square from the Witches' Bridge, Wroclaw, Poland",
+      "de-DE": "Blick auf den Breslauer Marktplatz, Breslau, Polen",
+      "fr-FR": "Place du marché de Wrocław, Pologne",
       "it-IT": "",
-      "es-ES": "Fósiles de amonites del Jurásico",
-      "pt-BR": "",
-      "ja-JP": "古代の海に生息していた動物の化石",
+      "es-ES": "Puente de las Brujas y plaza del Mercado, Breslavia, Polonia",
+      "ja-JP": "黄金色に輝く旧市街",
       "zh-CN": "",
-      "en-IN": "Ammonite fossils from the Jurassic Period"
+      "en-IN": "Market Square from the Witches' Bridge, Wroclaw, Poland"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate%3a%2220261013_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Fossilien&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=le+Jurassique&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Fossili+di+ammoniti&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=F%c3%b3siles+de+amonites&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=amonites&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a2%e3%83%8a%e3%82%a4%e3%83%88&form=hpcapt&filters=HpDate%3a%2220261002_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e5%ae%b6%e5%8c%96%e7%9f%b3%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate%3a%2220261013_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261014_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Breslau&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Breslavia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Breslavia&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%b4%e3%83%ad%e3%83%84%e3%83%af%e3%83%95&form=hpcapt&filters=HpDate%3a%2220261014_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%bc%97%e7%bd%97%e8%8c%a8%e7%93%a6%e5%a4%ab&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261014_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AmmoniteFossils_EN-GB4546470412",
-      "de-DE": "/th?id=OHR.AmmoniteFossils_DE-DE6773160072",
-      "fr-FR": "/th?id=OHR.AmmoniteFossils_FR-FR7395830779",
-      "it-IT": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844",
-      "es-ES": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890",
-      "pt-BR": "/th?id=OHR.AmmoniteFossils_PT-BR4750235603",
-      "ja-JP": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090",
-      "zh-CN": "/th?id=OHR.AmmoniteFossils_ZH-CN5825251327",
-      "en-IN": "/th?id=OHR.AmmoniteFossils_EN-IN8565946131"
+      "en-GB": "/th?id=OHR.WroclawPoland_EN-GB4702725574",
+      "de-DE": "/th?id=OHR.WroclawPoland_DE-DE7177247783",
+      "fr-FR": "/th?id=OHR.WroclawPoland_FR-FR0061683282",
+      "it-IT": "/th?id=OHR.WroclawPoland_IT-IT1033829565",
+      "es-ES": "/th?id=OHR.WroclawPoland_ES-ES6249915839",
+      "ja-JP": "/th?id=OHR.WroclawPoland_JA-JP4298283472",
+      "zh-CN": "/th?id=OHR.WroclawPoland_ZH-CN6042428292",
+      "en-IN": "/th?id=OHR.WroclawPoland_EN-IN8643220357"
     }
   },
   "MumblesSwansea2026": {
@@ -1885,38 +1911,6 @@
       "it-IT": "/th?id=OHR.MumblesSwansea2026_IT-IT0315747519",
       "zh-CN": "/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039",
       "en-IN": "/th?id=OHR.MumblesSwansea2026_EN-IN8292362227"
-    }
-  },
-  "BlackHistoryMonthUK2026": {
-    "name": "BlackHistoryMonthUK2026",
-    "urlbase": "/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434",
-    "date": "20260930",
-    "dateFormatted": "September 30, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      }
-    ],
-    "titles": {
-      "en-GB": "A place in the picture. Black History Month"
-    },
-    "copyrights": {
-      "en-GB": "Panorama of Parliament Square and Nelson Mandela memorial, London (© ansharphoto/Shutterstock)"
-    },
-    "descs": {
-      "en-GB": "What happens when a man once left out of the picture becomes part of its most important frame? Look to London's Parliament Square, where Nelson Mandela stands among monuments to political giants. Sculpted by Ian Walters and unveiled in 2007, the bronze statue has a remarkable connection to Mandela's history. In 1962, Mandela and Oliver Tambo visited Parliament Square and noticed that no Black person was represented among its monuments. Decades later, Mandela took his place there."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-GB": "Black History Month"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Black+History+Month+UK&form=hpcapt&filters=HpDate%3a%2220260930_2300%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434"
     }
   },
   "HeartLakeTG": {
@@ -2119,67 +2113,6 @@
       "fr-FR": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172"
     }
   },
-  "ParisSunset": {
-    "name": "ParisSunset",
-    "urlbase": "/th?id=OHR.ParisSunset_FR-FR0051640032",
-    "date": "20260930",
-    "dateFormatted": "September 30, 2026",
-    "markets": [
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "fr-FR": "Elle nous fait tourner la tête. La tour Eiffel au coucher de soleil, Paris, France",
-      "en-US": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
-      "en-CA": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
-      "en-GB": "The tower that won Paris over. Eiffel Tower, Paris, France",
-      "de-DE": "Der Turm, der Paris eroberte. Eiffelturm bei Sonnenuntergang, Paris, Frankreich",
-      "es-ES": "La torre que conquistó París. Torre Eiffel al atardecer, París, Francia",
-      "pt-BR": "De polêmica a cartão-postal",
-      "ja-JP": "夕焼けに染まるエッフェル塔",
-      "zh-CN": "终获巴黎青睐的铁塔",
-      "en-IN": "The tower that won Paris over. Eiffel Tower, Paris, France"
-    },
-    "copyrights": {
-      "fr-FR": "La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)",
-      "en-US": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
-      "en-CA": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
-      "en-GB": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
-      "de-DE": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)",
-      "es-ES": "Torre Eiffel al atardecer, París, Francia (© Alexander Spatari/Getty Images)",
-      "pt-BR": "Torre Eiffel ao pôr do sol, Paris, França (© Alexander Spatari/Getty Images)",
-      "ja-JP": "パリ, フランス (© Alexander Spatari/Getty Images)",
-      "zh-CN": "日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)",
-      "en-IN": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)"
-    },
-    "descs": {
-      "fr-FR": "Paris évoque instantanément les promenades au crépuscule, les quais de la Seine et une élégance célébrée dans le monde entier. Pourtant, derrière cette image romantique se cache une histoire plus nuancée. À la fin du XIXᵉ siècle, la ville accueille l’Exposition universelle commémorant le centenaire de la Révolution française, dans un contexte de profondes transformations urbaines et culturelles.",
-      "en-US": "No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.",
-      "en-CA": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
-      "en-GB": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
-      "de-DE": "Paris gehört zu den Städten, die Menschen auf der ganzen Welt faszinieren. Wenn die Sonne hinter dem Eiffelturm untergeht und den Himmel in warme Farben taucht, zeigt sich die französische Hauptstadt von ihrer besonders stimmungsvollen Seite. Der berühmte Turm erhebt sich über dem Champ de Mars und prägt seit mehr als einem Jahrhundert die Silhouette der Stadt.",
-      "es-ES": "La Torre Eiffel se recorta al atardecer sobre París (Francia), aunque su historia empezó con bastante peor prensa: se levantó como puerta de entrada de la Exposición Universal de 1889, que celebraba el centenario de la Revolución Francesa, y buena parte de la intelectualidad parisina la tachó de adefesio de hierro.",
-      "ja-JP": "ここはフランス最大の都市パリ。そして、中央にそびえるのがエッフェル塔です。フランス革命 100 周年を記念する 1889 年のパリ万国博覧会に合わせて建設されました。塔の名前は、設計者であるギュスターヴ・エッフェルに由来します。完成当初の高さは 300m で、1930 年に米国でクライスラー・ビルディングが建設されるまでは、世界で最も高い建造物でした。現在も多くの観光客が訪れる名所として親しまれており、フランスの創造性や技術力を象徴しています。",
-      "en-IN": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
-      "pt-BR": "A Torre Eiffel não nasceu como símbolo romântico. Nasceu como atração de feira e, para muita gente em Paris, era uma ideia de gosto bastante duvidoso. A torre foi construída para ser um dos grandes destaques da Exposição Universal de 1889, realizada no centenário da Revolução Francesa. Gustave Eiffel e sua equipe ergueram uma estrutura de 300 metros de altura, a construção mais alta do mundo na época.",
-      "zh-CN": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。"
-    },
-    "quickFacts": {
-      "zh-CN": "如今埃菲尔铁塔高330米；2022年安装一根新的数字广播天线后，塔身增高了6米。"
-    },
-    "captions": {
-      "fr-FR": "La tour Eiffel au coucher de soleil, Paris, France"
-    },
-    "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
-    },
-    "urlbases": {
-      "fr-FR": "/th?id=OHR.ParisSunset_FR-FR0051640032"
-    }
-  },
   "BarcolanaBoats": {
     "name": "BarcolanaBoats",
     "urlbase": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555",
@@ -2306,70 +2239,6 @@
     },
     "urlbases": {
       "es-ES": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240"
-    }
-  },
-  "ElGolfo": {
-    "name": "ElGolfo",
-    "urlbase": "/th?id=OHR.ElGolfo_ES-ES8850772045",
-    "date": "20260930",
-    "dateFormatted": "September 30, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "Arena volcánica y olas salvajes. El Golfo, Lanzarote, Islas Canarias, España",
-      "pt-BR": "O legado de um vulcão",
-      "en-US": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "en-CA": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "de-DE": "Vulkanische Kontraste. Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
-      "fr-FR": "Le dialogue entre vagues et cendres. El Golfo, Lanzarote, Îles Canaries, Espagne",
-      "it-IT": "Cenere incontra splash",
-      "ja-JP": "黒い海岸に寄せる白波",
-      "zh-CN": "火山灰与浪花相遇",
-      "en-GB": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
-      "en-IN": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain"
-    },
-    "copyrights": {
-      "es-ES": "Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España (© Westend61/Adobe Stock)",
-      "pt-BR": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha (© Westend61/Adobe Stock)",
-      "en-US": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
-      "en-CA": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
-      "de-DE": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
-      "fr-FR": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)",
-      "it-IT": "Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna (© Westend61/Adobe Stock)",
-      "ja-JP": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
-      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)",
-      "en-GB": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
-      "en-IN": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)"
-    },
-    "descs": {
-      "es-ES": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco.",
-      "en-US": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ocher and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages, and farmland.",
-      "en-CA": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
-      "de-DE": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
-      "fr-FR": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
-      "ja-JP": "ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
-      "en-GB": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages and farmland.",
-      "en-IN": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
-      "it-IT": "A El Golfo, sulla costa occidentale di Lanzarote (Isole Canarie, Spagna), la geologia ha perso ogni misura: sabbia nera, falesie striate di ocra e ruggine e l'Atlantico che non smette mai. Il paese è una manciata di case bianche che vivono di pesca e di pesce fresco.",
-      "pt-BR": "A ilha de Lanzarote, nas Canárias espanholas, parece ter escolhido cores que não deveriam funcionar juntas: areia negra, mar azul e falésias riscadas de ferrugem e ocre. Mas aqui, quem segura o pincel é a geologia. Milhões de anos de atividade vulcânica moldaram essas terras, e um dos capítulos dessa história é recente: entre 1730 e 1736, dezenas de aberturas vulcânicas entraram em atividade, cobrindo cerca de 200 km² com lava e destruindo campos, estradas e povoados.",
-      "zh-CN": "在西班牙加那利群岛的兰萨罗特岛，大自然的地质创造力尽情挥洒。赭黄与铁锈色条纹交错的悬崖之下，深色沙滩与大西洋相接，这是延续数百万年的火山活动留下的杰作。这段地质故事中有一章发生在距今并不久远的年代：1730年至1736年间，兰萨罗特岛各处出现了众多火山喷口，熔岩覆盖数十平方英里的土地，掩埋了道路、村庄和农田。"
-    },
-    "quickFacts": {
-      "zh-CN": "兰萨罗特岛与奇尼霍群岛共同构成一座联合国教科文组织世界地质公园，范围涵盖陆地及周边海域。"
-    },
-    "captions": {
-      "es-ES": "El Golfo, Lanzarote, Islas Canarias, España"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.ElGolfo_ES-ES8850772045"
     }
   },
   "KidsDay": {
@@ -2628,6 +2497,249 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451"
+    }
+  },
+  "BeardReedling": {
+    "name": "BeardReedling",
+    "urlbase": "/th?id=OHR.BeardReedling_EN-US0124350202",
+    "date": "20260930",
+    "dateFormatted": "September 30, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "en-US": "A face you don't forget. Male bearded reedling, Norfolk, England",
+      "en-CA": "A face you don't forget. Male bearded reedling, Norfolk, England",
+      "de-DE": "Natur mit Charakter. Bartmeisenmännchen, Norfolk, England",
+      "en-GB": "A face you don't forget. Male bearded reedling, Norfolk, England",
+      "fr-FR": "Une drôle de petite tête. Panure à moustaches mâle, Norfolk, Angleterre",
+      "it-IT": "Un volto che non si dimentica mai",
+      "es-ES": "Un canto inolvidable. Macho de bigotudo, Norfolk, Inglaterra",
+      "pt-BR": "Um bigode de respeito",
+      "ja-JP": "枯れ草にとまる小鳥",
+      "zh-CN": "一张令人过目难忘的脸",
+      "en-IN": "A face you don't forget. Male bearded reedling, Norfolk, England"
+    },
+    "copyrights": {
+      "en-US": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
+      "en-CA": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
+      "de-DE": "Bartmeisenmännchen, Norfolk, England (© Andrew Sproule/Shutterstock)",
+      "en-GB": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
+      "fr-FR": "Panure à moustaches mâle, Norfolk, Angleterre (© Andrew Sproule/Shutterstock)",
+      "it-IT": "Maschio di basettino, Norfolk, Inghilterra (© Andrew Sproule/Shutterstock)",
+      "es-ES": "Macho de bigotudo, Norfolk, Inglaterra (© Andrew Sproule/Shutterstock)",
+      "pt-BR": "Chapim-de-bigodes em Norfolk, Inglaterra (© Andrew Sproule/Shutterstock)",
+      "ja-JP": "ヒゲガラ, イングランド (© Andrew Sproule/Shutterstock)",
+      "zh-CN": "雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)",
+      "en-IN": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-gray head, a bright orange bill, and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores, and reed beds.",
+      "en-CA": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-grey head, a bright orange bill and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores and reed beds.",
+      "de-DE": "Bartmeisenmännchen fallen sofort durch ihr unverwechselbares Erscheinungsbild auf. Die markanten schwarzen Bartstreifen auf dem graublauen Kopf verleihen ihnen einen fast gezeichneten Ausdruck und machen sie leicht erkennbar. Das hier fotografierte Männchen wurde in Norfolk an der Ostküste Englands aufgenommen. In den ausgedehnten Schilfbeständen der Region finden die Vögel geschützte Brutplätze und reichlich Nahrung. Oft bewegen sie sich geschickt an dünnen Halmen entlang und zeigen dabei eine bemerkenswerte Balance. Besonders im Winter lassen sie sich häufiger beobachten, wenn kleine Gruppen gemeinsam durch die Vegetation ziehen.",
+      "en-GB": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-grey head, a bright orange bill and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores and reed beds.",
+      "fr-FR": "Dans les roselières du Norfolk, à l’est de l’Angleterre, un petit éclat de couleur attire parfois le regard avant de disparaître entre les tiges frémissantes. Le mâle de la panure à moustaches, avec sa tête bleu gris pâle, son bec orange vif et ses marques noires caractéristiques, semble avoir été peint pour se distinguer. Pourtant, cet oiseau discret passe l’essentiel de sa vie à l’abri des regards, au cœur des marais, des berges lacustres et des vastes étendues de roseaux qui façonnent ces paysages humides.",
+      "es-ES": "Sujeto a un tallo en Norfolk (Inglaterra), el macho de bigotudo luce cabeza gris azulada, pico naranja y esas dos manchas negras que le dan nombre, más parecidas a unas patillas que a un bigote. Vive escondido en los carrizales, y casi siempre lo delata su reclamo metálico antes que su figura.",
+      "ja-JP": "今日の画像は、イングランド・ノーフォークで撮影されたオスのヒゲガラ。イギリスやヨーロッパに分布するスズメ目の鳥で、主に河川や湖沼などの湿地帯に生息しています。春から夏にかけては昆虫を、秋から冬にかけてはヨシやスゲの種子を主に食べ、ほとんど渡りをせずに同じ生息地で暮らします。オスは頭部の羽毛が灰色で、くちばしの基部から下方へ伸びるひげ状の黒斑があり、その特徴が名前の由来となっています。メスの頭部の羽毛は淡褐色で、オスのような黒斑はありません。",
+      "en-IN": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-grey head, a bright orange bill and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores and reed beds.",
+      "it-IT": "In equilibrio su uno stelo sottile a Norfolk (Inghilterra), il maschio di basettino mostra testa grigio-azzurra, becco arancione e quelle due macchie nere che gli danno il nome: più basette che baffi. Grande come una cincia, vive nascosto nei canneti, e di solito lo tradisce il richiamo metallico prima della sagoma.",
+      "pt-BR": "Uma haste balança, o vento sopra e ele continua firme. O chapim-de-bigodes parece ter instalado um pequeno sistema de suspensão nas patas. O macho da imagem, fotografado em Norfolk, Inglaterra, exibe cabeça azul-acinzentada, bico laranja e as manchas pretas que deram origem ao nome da espécie.",
+      "zh-CN": "在英格兰诺福克郡，一只雄性文须雀稳稳地立在纤细的茎秆上。今天图片中的它有着浅蓝灰色的头部、亮橙色的喙，以及令这个物种得名的黑色面部斑纹，格外引人注目。尽管外表醒目，这种小鸟一生中的大部分时间却藏身于沼泽、湖岸和芦苇荡茂密的湿地植被中。"
+    },
+    "quickFacts": {
+      "en-US": "Bearded reedlings are found across much of Europe and Asia, from Britain's wetlands to reed beds stretching across Central and East Asia.",
+      "en-GB": "Bearded reedlings are found across much of Europe and Asia, from Britain's wetlands to reed beds stretching across Central and East Asia.",
+      "en-CA": "Bearded reedlings are found across much of Europe and Asia, from Britain's wetlands to reed beds stretching across Central and East Asia.",
+      "de-DE": "Bartmeisen sind in weiten Teilen Europas und Asiens verbreitet. Ihr Lebensraum reicht von den Feuchtgebieten Großbritanniens bis zu den Schilfgebieten Zentral- und Ostasiens.",
+      "fr-FR": "Les panures à moustaches sont présentes sur une grande partie de l'Europe et de l'Asie, depuis les zones humides de Grande-Bretagne jusqu'aux roselières d'Asie centrale et orientale.",
+      "zh-CN": "文须雀广泛分布于欧洲和亚洲，从英国的湿地一直延伸到中亚和东亚的芦苇荡。",
+      "en-IN": "Bearded reedlings are found across much of Europe and Asia, from Britain's wetlands to reed beds stretching across Central and East Asia."
+    },
+    "captions": {
+      "en-US": "Male bearded reedling, Norfolk, England",
+      "en-CA": "Male bearded reedling, Norfolk, England",
+      "de-DE": "Bartmeisenmännchen, Norfolk, England"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260930_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260930_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Bartmeise&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BeardReedling_EN-US0124350202",
+      "en-CA": "/th?id=OHR.BeardReedling_EN-CA1270469815",
+      "de-DE": "/th?id=OHR.BeardReedling_DE-DE4310310403"
+    }
+  },
+  "BlackHistoryMonthUK2026": {
+    "name": "BlackHistoryMonthUK2026",
+    "urlbase": "/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434",
+    "date": "20260930",
+    "dateFormatted": "September 30, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "A place in the picture. Black History Month"
+    },
+    "copyrights": {
+      "en-GB": "Panorama of Parliament Square and Nelson Mandela memorial, London (© ansharphoto/Shutterstock)"
+    },
+    "descs": {
+      "en-GB": "What happens when a man once left out of the picture becomes part of its most important frame? Look to London's Parliament Square, where Nelson Mandela stands among monuments to political giants. Sculpted by Ian Walters and unveiled in 2007, the bronze statue has a remarkable connection to Mandela's history. In 1962, Mandela and Oliver Tambo visited Parliament Square and noticed that no Black person was represented among its monuments. Decades later, Mandela took his place there."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "Black History Month"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Black+History+Month+UK&form=hpcapt&filters=HpDate%3a%2220260930_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434"
+    }
+  },
+  "ParisSunset": {
+    "name": "ParisSunset",
+    "urlbase": "/th?id=OHR.ParisSunset_FR-FR0051640032",
+    "date": "20260930",
+    "dateFormatted": "September 30, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Elle nous fait tourner la tête. La tour Eiffel au coucher de soleil, Paris, France",
+      "en-US": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
+      "en-CA": "The tower that won Paris over. Eiffel Tower at sunset, Paris, France",
+      "en-GB": "The tower that won Paris over. Eiffel Tower, Paris, France",
+      "de-DE": "Der Turm, der Paris eroberte. Eiffelturm bei Sonnenuntergang, Paris, Frankreich",
+      "es-ES": "La torre que conquistó París. Torre Eiffel al atardecer, París, Francia",
+      "pt-BR": "De polêmica a cartão-postal",
+      "ja-JP": "夕焼けに染まるエッフェル塔",
+      "zh-CN": "终获巴黎青睐的铁塔",
+      "en-IN": "The tower that won Paris over. Eiffel Tower, Paris, France"
+    },
+    "copyrights": {
+      "fr-FR": "La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)",
+      "en-US": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "en-CA": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "en-GB": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+      "de-DE": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)",
+      "es-ES": "Torre Eiffel al atardecer, París, Francia (© Alexander Spatari/Getty Images)",
+      "pt-BR": "Torre Eiffel ao pôr do sol, Paris, França (© Alexander Spatari/Getty Images)",
+      "ja-JP": "パリ, フランス (© Alexander Spatari/Getty Images)",
+      "zh-CN": "日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)",
+      "en-IN": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Paris évoque instantanément les promenades au crépuscule, les quais de la Seine et une élégance célébrée dans le monde entier. Pourtant, derrière cette image romantique se cache une histoire plus nuancée. À la fin du XIXᵉ siècle, la ville accueille l’Exposition universelle commémorant le centenaire de la Révolution française, dans un contexte de profondes transformations urbaines et culturelles.",
+      "en-US": "No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.",
+      "en-CA": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "en-GB": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "de-DE": "Paris gehört zu den Städten, die Menschen auf der ganzen Welt faszinieren. Wenn die Sonne hinter dem Eiffelturm untergeht und den Himmel in warme Farben taucht, zeigt sich die französische Hauptstadt von ihrer besonders stimmungsvollen Seite. Der berühmte Turm erhebt sich über dem Champ de Mars und prägt seit mehr als einem Jahrhundert die Silhouette der Stadt.",
+      "es-ES": "La Torre Eiffel se recorta al atardecer sobre París (Francia), aunque su historia empezó con bastante peor prensa: se levantó como puerta de entrada de la Exposición Universal de 1889, que celebraba el centenario de la Revolución Francesa, y buena parte de la intelectualidad parisina la tachó de adefesio de hierro.",
+      "ja-JP": "ここはフランス最大の都市パリ。そして、中央にそびえるのがエッフェル塔です。フランス革命 100 周年を記念する 1889 年のパリ万国博覧会に合わせて建設されました。塔の名前は、設計者であるギュスターヴ・エッフェルに由来します。完成当初の高さは 300m で、1930 年に米国でクライスラー・ビルディングが建設されるまでは、世界で最も高い建造物でした。現在も多くの観光客が訪れる名所として親しまれており、フランスの創造性や技術力を象徴しています。",
+      "en-IN": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+      "pt-BR": "A Torre Eiffel não nasceu como símbolo romântico. Nasceu como atração de feira e, para muita gente em Paris, era uma ideia de gosto bastante duvidoso. A torre foi construída para ser um dos grandes destaques da Exposição Universal de 1889, realizada no centenário da Revolução Francesa. Gustave Eiffel e sua equipe ergueram uma estrutura de 300 metros de altura, a construção mais alta do mundo na época.",
+      "zh-CN": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。"
+    },
+    "quickFacts": {
+      "zh-CN": "如今埃菲尔铁塔高330米；2022年安装一根新的数字广播天线后，塔身增高了6米。"
+    },
+    "captions": {
+      "fr-FR": "La tour Eiffel au coucher de soleil, Paris, France"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.ParisSunset_FR-FR0051640032"
+    }
+  },
+  "ElGolfo": {
+    "name": "ElGolfo",
+    "urlbase": "/th?id=OHR.ElGolfo_ES-ES8850772045",
+    "date": "20260930",
+    "dateFormatted": "September 30, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Arena volcánica y olas salvajes. El Golfo, Lanzarote, Islas Canarias, España",
+      "pt-BR": "O legado de um vulcão",
+      "en-US": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "en-CA": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "de-DE": "Vulkanische Kontraste. Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
+      "fr-FR": "Le dialogue entre vagues et cendres. El Golfo, Lanzarote, Îles Canaries, Espagne",
+      "it-IT": "Cenere incontra splash",
+      "ja-JP": "黒い海岸に寄せる白波",
+      "zh-CN": "火山灰与浪花相遇",
+      "en-GB": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+      "en-IN": "Ash meets splash. Black lava beach, El Golfo, Lanzarote, Canary Islands, Spain"
+    },
+    "copyrights": {
+      "es-ES": "Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España (© Westend61/Adobe Stock)",
+      "pt-BR": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha (© Westend61/Adobe Stock)",
+      "en-US": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "en-CA": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "de-DE": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
+      "fr-FR": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)",
+      "it-IT": "Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna (© Westend61/Adobe Stock)",
+      "ja-JP": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
+      "zh-CN": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)",
+      "en-GB": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+      "en-IN": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)"
+    },
+    "descs": {
+      "es-ES": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco.",
+      "en-US": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ocher and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages, and farmland.",
+      "en-CA": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
+      "de-DE": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
+      "fr-FR": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
+      "ja-JP": "ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
+      "en-GB": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square miles and burying roads, villages and farmland.",
+      "en-IN": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
+      "it-IT": "A El Golfo, sulla costa occidentale di Lanzarote (Isole Canarie, Spagna), la geologia ha perso ogni misura: sabbia nera, falesie striate di ocra e ruggine e l'Atlantico che non smette mai. Il paese è una manciata di case bianche che vivono di pesca e di pesce fresco.",
+      "pt-BR": "A ilha de Lanzarote, nas Canárias espanholas, parece ter escolhido cores que não deveriam funcionar juntas: areia negra, mar azul e falésias riscadas de ferrugem e ocre. Mas aqui, quem segura o pincel é a geologia. Milhões de anos de atividade vulcânica moldaram essas terras, e um dos capítulos dessa história é recente: entre 1730 e 1736, dezenas de aberturas vulcânicas entraram em atividade, cobrindo cerca de 200 km² com lava e destruindo campos, estradas e povoados.",
+      "zh-CN": "在西班牙加那利群岛的兰萨罗特岛，大自然的地质创造力尽情挥洒。赭黄与铁锈色条纹交错的悬崖之下，深色沙滩与大西洋相接，这是延续数百万年的火山活动留下的杰作。这段地质故事中有一章发生在距今并不久远的年代：1730年至1736年间，兰萨罗特岛各处出现了众多火山喷口，熔岩覆盖数十平方英里的土地，掩埋了道路、村庄和农田。"
+    },
+    "quickFacts": {
+      "zh-CN": "兰萨罗特岛与奇尼霍群岛共同构成一座联合国教科文组织世界地质公园，范围涵盖陆地及周边海域。"
+    },
+    "captions": {
+      "es-ES": "El Golfo, Lanzarote, Islas Canarias, España"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.ElGolfo_ES-ES8850772045"
     }
   },
   "NathmaljiHaveli2026": {
