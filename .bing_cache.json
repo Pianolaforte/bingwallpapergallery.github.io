@@ -1,4 +1,115 @@
 {
+  "SneffelsAutumn": {
+    "name": "SneffelsAutumn",
+    "urlbase": "/th?id=OHR.SneffelsAutumn_EN-US3953128777",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
+      "en-GB": "'Peak' into Colorado. Mount Sneffels, Colorado, United States",
+      "fr-FR": "En haut du Colorado. Le mont Sneffels dans les montagnes San Juan, États-Unis",
+      "it-IT": "Oro e neve in Colorado",
+      "es-ES": "Oro y nieve en Colorado. Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
+      "ja-JP": "黄金色の森の先にそびえる山",
+      "zh-CN": "斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国",
+      "en-IN": "'Peak' into Colorado. Mount Sneffels, Colorado, United States"
+    },
+    "copyrights": {
+      "en-US": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
+      "en-GB": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
+      "fr-FR": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis (© lightphoto/Getty Images)",
+      "it-IT": "Monte Sneffels, San Juan Mountains, vicino a Ridgway, Colorado, USA (© lightphoto/Getty Images)",
+      "es-ES": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
+      "ja-JP": "スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)",
+      "zh-CN": "斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)",
+      "en-IN": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 14,150 feet in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray, and Telluride. It sits within the 16,587-acre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+      "en-GB": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+      "fr-FR": "Certains sommets se méritent avant de dévoiler leur panorama. Le mont Sneffels, lui, concentre son ultime défi dans les dernières centaines de mètres. Culminant à 4 313 mètres dans les monts San Juan, au Colorado (États-Unis), ce géant domine les paysages de Ridgway, Ouray et Telluride. Il s’élève au cœur des 6 713 hectares de la Mount Sneffels Wilderness, territoire protégé depuis 1980. Plusieurs itinéraires permettent de l’approcher, notamment par Yankee Boy Basin ou depuis le secteur des Blue Lakes.",
+      "es-ES": "El monte Sneffels se alza sobre las montañas San Juan, cerca de Ridgway, en Colorado (Estados Unidos), y supera los 4.300 metros de altitud. Pertenece al club de los llamados «catorcemiles», los picos que rebasan los 14.000 pies (4.270 m), y en octubre protagoniza uno de los espectáculos más buscados del oeste americano: las laderas se llenan de álamos temblones dorados justo cuando la nieve empieza a asentarse en las cumbres.",
+      "ja-JP": "今日の画像は、米国コロラド州南西部、サンファン山地にそびえるスネフェル山。標高約 4,300m を誇るロッキー山脈の名峰です。コロラド州には標高 14,000 フィート（約 4,267m ）以上の山が 58 座あり、これらは総称して「フォーティーナーズ (Fourteeners) 」と呼ばれています。スネフェル山はその中でも特に人気が高く、その美しい山容から、写真の被写体としても人気があります。秋には山麓に黄金色のアスペン林が広がり、雪をいただいた山頂との美しいコントラストが訪れる人々を魅了します。",
+      "en-IN": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+      "it-IT": "Il monte Sneffels si alza sulle San Juan Mountains, vicino a Ridgway, in Colorado (Stati Uniti), e supera i 4.300 metri di quota. Fa parte del club dei cosiddetti «quattordicimila», le cime che oltrepassano i 14.000 piedi (4270 metri), e in ottobre regala uno degli spettacoli più cercati dell'ovest americano: i versanti si riempiono di pioppi tremuli dorati proprio quando la neve inizia a fermarsi sulle vette.",
+      "zh-CN": "有些山会让你付出一番努力才能欣赏到美景，而攀登斯奈费尔斯山，最考验人的则是最后几百英尺。它高耸于科罗拉多州的圣胡安山脉，海拔14,150英尺，是一座“十四峰”，在里奇韦、乌雷和特柳赖德一带十分醒目。它坐落在占地16,587英亩的斯奈费尔斯山荒野区内，这片保护区于1980年获指定。徒步者可以从多条路线登山，包括经扬基博伊盆地和蓝湖群地区的路线。"
+    },
+    "quickFacts": {
+      "zh-CN": "根据美国联邦荒野管理规定，斯奈费尔斯山荒野区通常禁止机动车辆和机械运输工具进入。"
+    },
+    "captions": {
+      "en-US": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
+      "en-GB": "Mount Sneffels, Colorado, United States",
+      "fr-FR": "Le mont Sneffels dans les montagnes San Juan, États-Unis",
+      "it-IT": "",
+      "es-ES": "Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
+      "ja-JP": "黄金色の森の先にそびえる山",
+      "zh-CN": "",
+      "en-IN": "Mount Sneffels, Colorado, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261016_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Mont+Sneffels+Colorado+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Monte+Sneffels&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Monte+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b9%e3%83%8d%e3%83%95%e3%82%a7%e3%83%ab%e5%b1%b1+%e3%82%b3%e3%83%ad%e3%83%a9%e3%83%89%e5%b7%9e&form=hpcapt&filters=HpDate%3a%2220261015_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%96%af%e5%a5%88%e8%b4%b9%e5%b0%94%e6%96%af%e5%b1%b1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SneffelsAutumn_EN-US3953128777",
+      "en-GB": "/th?id=OHR.SneffelsAutumn_EN-GB4713580034",
+      "fr-FR": "/th?id=OHR.SneffelsAutumn_FR-FR3895133232",
+      "it-IT": "/th?id=OHR.SneffelsAutumn_IT-IT1945499761",
+      "es-ES": "/th?id=OHR.SneffelsAutumn_ES-ES3631909168",
+      "ja-JP": "/th?id=OHR.SneffelsAutumn_JA-JP1327078827",
+      "zh-CN": "/th?id=OHR.SneffelsAutumn_ZH-CN3002661429",
+      "en-IN": "/th?id=OHR.SneffelsAutumn_EN-IN6402134522"
+    }
+  },
   "WroclawPoland": {
     "name": "WroclawPoland",
     "urlbase": "/th?id=OHR.WroclawPoland_EN-US7757698922",
@@ -185,11 +296,6 @@
         "flag": "br"
       },
       {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -208,9 +314,9 @@
       "it-IT": "Spirali nel tempo",
       "es-ES": "Espirales en el tiempo. Fósiles de amonites del Jurásico",
       "pt-BR": "O Jurássico mandou lembranças",
-      "ja-JP": "古代の海に生息していた動物の化石",
       "zh-CN": "侏罗纪时期的菊石化石",
-      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period"
+      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period",
+      "ja-JP": "古代の海に生息していた動物の化石"
     },
     "copyrights": {
       "en-US": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
@@ -220,9 +326,9 @@
       "it-IT": "Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)",
       "es-ES": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
       "pt-BR": "Fósseis de amonites do período Jurássico (© J Nemchinova/Getty Images)",
-      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)",
       "zh-CN": "侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)",
-      "en-IN": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)"
+      "en-IN": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)"
     },
     "descs": {
       "en-US": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. National Fossil Day celebrates paleontology and the discoveries that help scientists reconstruct past environments, trace the evolution of life, and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
@@ -230,8 +336,8 @@
       "de-DE": "Ammoniten gehören zu den faszinierendsten Fossilien der Jurazeit. Die ausgestorbenen Meerestiere entwickelten eine erstaunliche Vielfalt an Formen und Größen. Heute sind ihre versteinerten Schalen wichtige Zeugen einer längst vergangenen Welt. Für die Wissenschaft sind sie besonders wertvoll, da bestimmte Arten als Leitfossilien dienen und dabei helfen, Gesteinsschichten zeitlich einzuordnen.",
       "fr-FR": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années.",
       "es-ES": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
-      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
       "en-IN": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
       "it-IT": "Le conchiglie avvolte a spirale dell'immagine appartengono ad ammoniti del Giurassico, molluschi marini che popolavano gli oceani quando i dinosauri dominavano le terre emerse. Somigliavano ai nautili di oggi, ma erano parenti più stretti di calamari e polpi, e le loro conchiglie divise in camere hanno prodotto quelle spirali che riconosciamo al primo sguardo.",
       "pt-BR": "Como contar a história de um mundo sem testemunhas? Muito antes da escrita, dos mapas ou dos primeiros seres humanos, a Terra já mantinha seus próprios arquivos. Não em papel, mas em pedra. Cada fóssil preserva fragmentos de vidas desaparecidas e ajuda cientistas a reconstruir oceanos, paisagens e criaturas que sumiram há milhões de anos.",
       "zh-CN": "我们如何知道早在人类出现之前地球是什么样子？化石提供了许多线索。国家化石日旨在赞颂古生物学，以及那些帮助科学家重建过去环境、追溯生命演化并了解数百万年前消失生物的发现。从恐龙到微小的海洋生物，这些过去的遗存保存着早已不复存在的远古世界的一个个瞬间。"
@@ -255,7 +361,6 @@
       "it-IT": "",
       "es-ES": "Fósiles de amonites del Jurásico",
       "pt-BR": "",
-      "ja-JP": "古代の海に生息していた動物の化石",
       "zh-CN": "",
       "en-IN": "Ammonite fossils from the Jurassic Period"
     },
@@ -267,7 +372,6 @@
       "it-IT": "https://www.bing.com/search?q=Fossili+di+ammoniti&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=F%c3%b3siles+de+amonites&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
       "pt-BR": "https://www.bing.com/search?q=amonites&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a2%e3%83%8a%e3%82%a4%e3%83%88&form=hpcapt&filters=HpDate%3a%2220261002_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e5%ae%b6%e5%8c%96%e7%9f%b3%e6%97%a5&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate%3a%2220261013_1830%22"
     },
@@ -279,7 +383,6 @@
       "it-IT": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844",
       "es-ES": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890",
       "pt-BR": "/th?id=OHR.AmmoniteFossils_PT-BR4750235603",
-      "ja-JP": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090",
       "zh-CN": "/th?id=OHR.AmmoniteFossils_ZH-CN5825251327",
       "en-IN": "/th?id=OHR.AmmoniteFossils_EN-IN8565946131"
     }
@@ -642,7 +745,7 @@
       "it-IT": "La vita lungo la rotta",
       "pt-BR": "O céu também tem estradas?",
       "ja-JP": "今日は世界渡り鳥の日",
-      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国",
+      "zh-CN": "迁飞路线上的生命",
       "en-IN": "Life along the flyway. World Migratory Bird Day"
     },
     "copyrights": {
@@ -1521,7 +1624,7 @@
       "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
       "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
       "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
-      "fr-FR": "L'univers nous appelle. Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022. D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
+      "fr-FR": "D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
       "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
       "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
       "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
@@ -1584,74 +1687,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska",
-      "en-GB": "Catch, eat, repeat. Brown bear, Alaska, United States",
       "en-CA": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
+      "pt-BR": "O último buffet do ano",
+      "en-GB": "Catch, eat, repeat. Brown bear, Alaska, United States",
       "fr-FR": "Maître des eaux. Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
       "it-IT": "Pesca, mangia, ripeti",
       "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
-      "pt-BR": "O último buffet do ano",
       "zh-CN": "捕捉、进食、重复",
       "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
       "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA"
     },
     "copyrights": {
       "en-US": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)",
-      "en-GB": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
       "en-CA": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
+      "en-GB": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
       "fr-FR": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
       "it-IT": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)",
       "es-ES": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
-      "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
       "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
       "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
       "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)"
     },
     "descs": {
       "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
       "en-CA": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
       "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
       "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
       "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
@@ -1665,100 +1738,25 @@
     },
     "captions": {
       "en-US": "Brown bear in Lake Clark National Park and Preserve, Alaska",
-      "en-GB": "Brown bear, Alaska, United States",
       "en-CA": "Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
-      "fr-FR": "Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
-      "it-IT": "",
-      "es-ES": "Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Brown bear, Alaska, United States"
+      "pt-BR": ""
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220261003_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261002_2300%22",
       "en-CA": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261014_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=ours+brun+animal&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Orso+bruno&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Oso+pardo&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+e+Reserva+do+Lago+Clark+Alasca&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e6%a3%95%e7%86%8a&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261002_1830%22"
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+e+Reserva+do+Lago+Clark+Alasca&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.GrizzlySwim_EN-US5133524829",
-      "en-GB": "/th?id=OHR.GrizzlySwim_EN-GB2587469687",
       "en-CA": "/th?id=OHR.GrizzlySwim_EN-CA2710630781",
-      "fr-FR": "/th?id=OHR.GrizzlySwim_FR-FR9368655618",
-      "it-IT": "/th?id=OHR.GrizzlySwim_IT-IT0100605871",
-      "es-ES": "/th?id=OHR.GrizzlySwim_ES-ES2255914104",
-      "pt-BR": "/th?id=OHR.GrizzlySwim_PT-BR4132076191",
-      "zh-CN": "/th?id=OHR.GrizzlySwim_ZH-CN1005455737",
-      "en-IN": "/th?id=OHR.GrizzlySwim_EN-IN7120112042"
+      "pt-BR": "/th?id=OHR.GrizzlySwim_PT-BR4132076191"
     }
   },
-  "ChattoogaRiver": {
-    "name": "ChattoogaRiver",
-    "urlbase": "/th?id=OHR.ChattoogaRiver_EN-US5042787453",
-    "date": "20261002",
-    "dateFormatted": "October 02, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "A river worth protecting. Wild and Scenic Rivers Act",
-      "en-CA": "A river worth protecting. Chattooga River in the Appalachian Mountains, North Carolina, USA",
-      "en-GB": "A river worth protecting. Chattooga River, North Carolina, United States",
-      "es-ES": "Aguas bravas entre bosques. Río Chattooga, Carolina del Norte, EE. UU.",
-      "ja-JP": "川面を流れる紅葉",
-      "zh-CN": "一条值得保护的河流"
-    },
-    "copyrights": {
-      "en-US": "Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)",
-      "en-CA": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
-      "en-GB": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
-      "es-ES": "Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)",
-      "ja-JP": "チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)",
-      "zh-CN": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Rivers have long played an important role in life across the United States, supporting communities, wildlife, and industry. President Lyndon B. Johnson signed the Wild and Scenic Rivers Act into law on October 2, 1968. It created a national system to protect rivers and river segments with outstanding scenic, recreational, geologic, fish and wildlife, historic, or cultural values. The Act preserves designated rivers in a free-flowing condition, protects their water quality, and aims to safeguard the qualities that made them worthy of designation.",
-      "en-CA": "Rivers have long played an important role in life across the world, supporting communities, wildlife and industry. Featured in today's image, the Chattooga River runs for about 92 kilometres across Georgia, North Carolina and South Carolina in the United States. Flowing through the Appalachian Mountains, it winds between steep, forested slopes, rocky gorges and cascading rapids before reaching Lake Tugaloo. The river remains one of the Southeast's few major free-flowing rivers and is known for its scenery, whitewater recreation and wildlife.",
-      "en-GB": "Few rivers combine wild scenery and whitewater quite like the Chattooga. Rising in the mountains near Cashiers, North Carolina, it winds through Georgia, North Carolina and South Carolina in the United States, dropping nearly half a mile in elevation along its journey. With no dams upstream, its water levels can change quickly after rainfall, adding excitement for rafters and kayakers.",
-      "es-ES": "El río Chattooga baja por los montes Apalaches, en Carolina del Norte (Estados Unidos), y es uno de los tramos de aguas bravas más celebrados del sureste del país. Nace en plena montaña y durante kilómetros marca la frontera entre Georgia, Carolina del Norte y Carolina del Sur, encajonado entre laderas boscosas y escalones de roca.",
-      "ja-JP": "ここはチャトゥーガ川。米国ノースカロライナ州のアパラチア山脈を源流とし、サウスカロライナ州とジョージア州の州境を流れる川です。長さは約 92km で、米国南東部で最も長い自由流河川の一つです。美しい景観と豊かな生態系で知られているほか、ラフティングやカヤック、カヌーといったアクティビティを楽しむことができます。",
-      "zh-CN": "长期以来，河流在美国各地的生活中发挥着重要作用，为社区、野生动物和工业提供支持。1968年10月2日，林登·B·约翰逊总统签署《野生与风景河流法》，使其成为法律。该法建立了一个国家体系，用于保护具有卓越景观、休闲、地质、鱼类和野生动物、历史或文化价值的河流及河段。该法使指定河流保持自由流动状态，保护其水质，并旨在守护使它们值得获此指定的特质。"
-    },
-    "quickFacts": {
-      "zh-CN": "查图加河在约50英里的流程中平均每英里下降49英尺，最终流入图加卢湖。"
-    },
-    "captions": {
-      "en-US": "Wild and Scenic Rivers Act",
-      "en-CA": "Chattooga River in the Appalachian Mountains, North Carolina, USA"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Wild+and+Scenic+Rivers+Act&form=hpcapt&filters=HpDate%3a%2220261002_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Chattooga+River&form=hpcapt&filters=HpDate%3a%2220261002_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.ChattoogaRiver_EN-US5042787453",
-      "en-CA": "/th?id=OHR.ChattoogaRiver_EN-CA5808971566"
-    }
-  },
-  "SneffelsAutumn": {
-    "name": "SneffelsAutumn",
-    "urlbase": "/th?id=OHR.SneffelsAutumn_EN-GB4713580034",
-    "date": "20261015",
-    "dateFormatted": "October 15, 2026",
+  "ChauvetPaintingsFrance": {
+    "name": "ChauvetPaintingsFrance",
+    "urlbase": "/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1766,9 +1764,9 @@
         "flag": "gb"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       },
       {
         "code": "it-IT",
@@ -1779,11 +1777,6 @@
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
       },
       {
         "code": "zh-CN",
@@ -1797,64 +1790,71 @@
       }
     ],
     "titles": {
-      "en-GB": "'Peak' into Colorado. Mount Sneffels, Colorado, United States",
-      "fr-FR": "En haut du Colorado. Le mont Sneffels dans les montagnes San Juan, États-Unis",
-      "it-IT": "Oro e neve in Colorado",
-      "es-ES": "Oro y nieve en Colorado. Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
-      "ja-JP": "黄金色の森の先にそびえる山",
-      "zh-CN": "斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国",
-      "en-IN": "'Peak' into Colorado. Mount Sneffels, Colorado, United States",
-      "en-US": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado"
+      "en-GB": "The past, unearthed. International Archaeology Day",
+      "de-DE": "Die Vergangenheit ans Licht gebracht. Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
+      "it-IT": "Arte di 36.000 anni fa",
+      "es-ES": "Arte de hace 36.000 años. Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
+      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国",
+      "en-IN": "The past, unearthed. International Archaeology Day",
+      "en-US": "The past, unearthed. Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France",
+      "en-CA": "The past, unearthed. Life-size replica of Chauvet Cave art in Vallon-Pont-d'Arc, France",
+      "pt-BR": "O passado deixou sua assinatura. Réplica em tamanho real das pinturas rupestres da Caverna de Chauvet, Vallon-Pont-d'Arc, França"
     },
     "copyrights": {
-      "en-GB": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
-      "fr-FR": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis (© lightphoto/Getty Images)",
-      "it-IT": "Monte Sneffels, San Juan Mountains, vicino a Ridgway, Colorado, USA (© lightphoto/Getty Images)",
-      "es-ES": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
-      "ja-JP": "スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)",
-      "zh-CN": "斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)",
-      "en-IN": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
-      "en-US": "© lightphoto/Getty Images"
+      "en-GB": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "de-DE": "Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)",
+      "it-IT": "Riproduzione a grandezza naturale delle pitture della grotta di Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+      "es-ES": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)",
+      "en-IN": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "en-US": "© Audrey Poree/Alamy",
+      "en-CA": "© Audrey Poree/Alamy",
+      "pt-BR": "© Audrey Poree/Alamy"
     },
     "descs": {
-      "en-GB": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-      "fr-FR": "Certains sommets se méritent avant de dévoiler leur panorama. Le mont Sneffels, lui, concentre son ultime défi dans les dernières centaines de mètres. Culminant à 4 313 mètres dans les monts San Juan, au Colorado (États-Unis), ce géant domine les paysages de Ridgway, Ouray et Telluride. Il s’élève au cœur des 6 713 hectares de la Mount Sneffels Wilderness, territoire protégé depuis 1980. Plusieurs itinéraires permettent de l’approcher, notamment par Yankee Boy Basin ou depuis le secteur des Blue Lakes.",
-      "es-ES": "El monte Sneffels se alza sobre las montañas San Juan, cerca de Ridgway, en Colorado (Estados Unidos), y supera los 4.300 metros de altitud. Pertenece al club de los llamados «catorcemiles», los picos que rebasan los 14.000 pies (4.270 m), y en octubre protagoniza uno de los espectáculos más buscados del oeste americano: las laderas se llenan de álamos temblones dorados justo cuando la nieve empieza a asentarse en las cumbres.",
-      "ja-JP": "今日の画像は、米国コロラド州南西部、サンファン山地にそびえるスネフェル山。標高約 4,300m を誇るロッキー山脈の名峰です。コロラド州には標高 14,000 フィート（約 4,267m ）以上の山が 58 座あり、これらは総称して「フォーティーナーズ (Fourteeners) 」と呼ばれています。スネフェル山はその中でも特に人気が高く、その美しい山容から、写真の被写体としても人気があります。秋には山麓に黄金色のアスペン林が広がり、雪をいただいた山頂との美しいコントラストが訪れる人々を魅了します。",
-      "en-IN": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-      "en-US": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 14,150 feet in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray, and Telluride. It sits within the 16,587-acre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-      "it-IT": "Il monte Sneffels si alza sulle San Juan Mountains, vicino a Ridgway, in Colorado (Stati Uniti), e supera i 4.300 metri di quota. Fa parte del club dei cosiddetti «quattordicimila», le cime che oltrepassano i 14.000 piedi (4270 metri), e in ottobre regala uno degli spettacoli più cercati dell'ovest americano: i versanti si riempiono di pioppi tremuli dorati proprio quando la neve inizia a fermarsi sulle vette.",
-      "zh-CN": "有些山会让你付出一番努力才能欣赏到美景，而攀登斯奈费尔斯山，最考验人的则是最后几百英尺。它高耸于科罗拉多州的圣胡安山脉，海拔14,150英尺，是一座“十四峰”，在里奇韦、乌雷和特柳赖德一带十分醒目。它坐落在占地16,587英亩的斯奈费尔斯山荒野区内，这片保护区于1980年获指定。徒步者可以从多条路线登山，包括经扬基博伊盆地和蓝湖群地区的路线。"
+      "en-GB": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "de-DE": "Die Chauvet-Höhle bei Vallon-Pont-d’Arc in Südfrankreich zählt zu den bedeutendsten Fundstätten prähistorischer Höhlenkunst. An ihren Wänden finden sich mehr als 1000 Zeichnungen, vor allem eindrucksvolle Darstellungen von Tieren wie Löwen, Nashörnern, Pferden und Mammuts. Die außergewöhnlich gut erhaltenen Kunstwerke geben faszinierende Einblicke in die kreative Welt der Menschen der Altsteinzeit. Um die empfindlichen Originale zu schützen, wurde in der Nähe eine lebensgroße Nachbildung geschaffen, in der Besucher die Höhlenmalereien in einer möglichst authentischen Umgebung erleben können.",
+      "es-ES": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público.",
+      "en-IN": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "en-US": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organized by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programs, site visits, simulated digs, and hands-on activities.",
+      "en-CA": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "it-IT": "Questi cavalli, leoni e rinoceronti sono stati dipinti circa 36.000 anni fa nella grotta di Chauvet, a Vallon-Pont-d'Arc (Francia), ma quello che vedi è una copia. La grotta originale, scoperta nel 1994, è rimasta sigillata per millenni e conserva oltre 400 pitture e incisioni: per proteggerla dai danni che provoca la presenza umana non è mai stata aperta al pubblico.",
+      "pt-BR": "Imagine encontrar uma caverna e descobrir que alguém preencheu suas paredes com mamutes, rinocerontes e bisões há milhares de anos. Foi assim que a Caverna de Chauvet, no sul da França, entrou para a história. Descoberta em 1994, ela guarda mais de mil desenhos e gravuras, alguns com cerca de 36 mil anos.",
+      "zh-CN": "有些发现始于一把铲子，另一些则始于洞穴墙壁上的一幅图画。国际考古日既颂扬抽丝剥茧般的考古工作，也重视支撑发现的证据。这项年度活动由美国考古学会主办，始于2011年；随着参与范围扩展至全球，活动于2013年更名为“国际考古日”。如今，它通过讲座、博物馆项目、遗址参观、模拟发掘和动手实践活动，让公众更加贴近考古学。"
     },
     "quickFacts": {
-      "zh-CN": "根据美国联邦荒野管理规定，斯奈费尔斯山荒野区通常禁止机动车辆和机械运输工具进入。"
+      "en-US": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "en-GB": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "en-CA": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "de-DE": "In der Chauvet-Höhle sind die Fußabdrücke eines prähistorischen Jugendlichen erhalten geblieben, der vor etwa 30.000 Jahren barfuß durch ihre Gänge lief.",
+      "it-IT": "La grotta conserva le impronte di un adolescente preistorico che camminò a piedi nudi lungo i suoi passaggi circa 30.000 anni fa.",
+      "es-ES": "La cueva conserva las huellas de un adolescente prehistórico que caminó descalzo por sus pasadizos hace unos 30.000 años.",
+      "zh-CN": "肖维岩洞保存着一名史前青少年的足迹，大约3万年前，这名青少年曾赤脚走过洞内通道。",
+      "en-IN": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago."
     },
     "captions": {
-      "en-GB": "Mount Sneffels, Colorado, United States",
-      "fr-FR": "Le mont Sneffels dans les montagnes San Juan, États-Unis",
+      "en-GB": "International Archaeology Day",
+      "de-DE": "Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
       "it-IT": "",
-      "es-ES": "Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
-      "ja-JP": "黄金色の森の先にそびえる山",
+      "es-ES": "Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
       "zh-CN": "",
-      "en-IN": "Mount Sneffels, Colorado, United States"
+      "en-IN": "International Archaeology Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Mont+Sneffels+Colorado+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Monte+Sneffels&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Monte+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b9%e3%83%8d%e3%83%95%e3%82%a7%e3%83%ab%e5%b1%b1+%e3%82%b3%e3%83%ad%e3%83%a9%e3%83%89%e5%b7%9e&form=hpcapt&filters=HpDate%3a%2220261015_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%96%af%e5%a5%88%e8%b4%b9%e5%b0%94%e6%96%af%e5%b1%b1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_1830%22"
+      "en-GB": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261016_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Chauvet-H%c3%b6hle&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
+      "it-IT": "https://www.bing.com/search?q=grotta+di+Chauvet&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=cueva+de+Chauvet&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e8%80%83%e5%8f%a4%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261016_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.SneffelsAutumn_EN-GB4713580034",
-      "fr-FR": "/th?id=OHR.SneffelsAutumn_FR-FR3895133232",
-      "it-IT": "/th?id=OHR.SneffelsAutumn_IT-IT1945499761",
-      "es-ES": "/th?id=OHR.SneffelsAutumn_ES-ES3631909168",
-      "ja-JP": "/th?id=OHR.SneffelsAutumn_JA-JP1327078827",
-      "zh-CN": "/th?id=OHR.SneffelsAutumn_ZH-CN3002661429",
-      "en-IN": "/th?id=OHR.SneffelsAutumn_EN-IN6402134522"
+      "en-GB": "/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874",
+      "de-DE": "/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746",
+      "it-IT": "/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809",
+      "es-ES": "/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224",
+      "zh-CN": "/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955",
+      "en-IN": "/th?id=OHR.ChauvetPaintingsFrance_EN-IN6496493041"
     }
   },
   "MumblesSwansea2026": {
@@ -1944,6 +1944,38 @@
       "it-IT": "/th?id=OHR.MumblesSwansea2026_IT-IT0315747519",
       "zh-CN": "/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039",
       "en-IN": "/th?id=OHR.MumblesSwansea2026_EN-IN8292362227"
+    }
+  },
+  "MaligneFest": {
+    "name": "MaligneFest",
+    "urlbase": "/th?id=OHR.MaligneFest_EN-CA6755477171",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Under a blanket of stars. Jasper Dark Sky Festival is here"
+    },
+    "copyrights": {
+      "en-CA": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-CA": "Jasper Dark Sky Festival is here"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Jasper+Dark+Sky+Festival&form=hpcapt&filters=HpDate%3a%2220261016_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.MaligneFest_EN-CA6755477171"
     }
   },
   "HeartLakeTG": {
@@ -2080,36 +2112,38 @@
       "de-DE": "/th?id=OHR.MouflonAutumn_DE-DE6144771164"
     }
   },
-  "BrandenburgGateFireworks": {
-    "name": "BrandenburgGateFireworks",
-    "urlbase": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528",
-    "date": "20261002",
-    "dateFormatted": "October 02, 2026",
+  "SmilingSquirrel": {
+    "name": "SmilingSquirrel",
+    "urlbase": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
     "markets": [
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
       }
     ],
     "titles": {
-      "de-DE": "Ein Zeichen der Einheit. Tag der Deutschen Einheit"
+      "fr-FR": "Le jardinier des bois. Écureuil roux"
     },
     "copyrights": {
-      "de-DE": "Brandenburger Tor, Berlin (© almir1968/Getty Images)"
+      "fr-FR": "Écureuil roux (© Cédric GUERE/Getty Images)"
     },
     "descs": {
-      "de-DE": "Heute steht Deutschland ganz im Zeichen der Einheit. Der 3. Oktober erinnert an die Wiedervereinigung im Jahr 1990 und an einen historischen Moment, der das Land bis heute prägt. Unser heutiges Bild zeigt die Quadriga auf dem Brandenburger Tor in Berlin vor einem Feuerwerk. Während der deutschen Teilung wurde das Brandenburger Tor zum Sinnbild der Grenze zwischen Ost und West. Jahrzehntelang war der Zugang versperrt, ehe es nach dem Fall der Berliner Mauer erneut zu einem Symbol der Freiheit wurde. Heute steht das Wahrzeichen für Zusammenhalt und ein vereintes Deutschland."
+      "fr-FR": "Le jardinier des bois. Écureuil roux. Sur l’image du jour, un écureuil semble nous adresser un sourire malicieux. Une expression irrésistible, parfaitement assortie à l’effervescence de l’automne."
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "fr-FR": "Le pelage de l’écureuil roux peut beaucoup varier, allant du roux orangé au brun très foncé, voire presque noir."
+    },
     "captions": {
-      "de-DE": "Tag der Deutschen Einheit"
+      "fr-FR": "Écureuil roux"
     },
     "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Tag+der+Deutschen+Einheit&form=hpcapt&filters=HpDate%3a%2220261002_2200%22"
+      "fr-FR": "https://www.bing.com/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261016_2200%22"
     },
     "urlbases": {
-      "de-DE": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528"
+      "fr-FR": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584"
     }
   },
   "GruesDer": {
@@ -2240,6 +2274,38 @@
       "es-ES": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240"
     }
   },
+  "Veadeiros": {
+    "name": "Veadeiros",
+    "urlbase": "/th?id=OHR.Veadeiros_PT-BR0644976929",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Correntes criativas"
+    },
+    "copyrights": {
+      "pt-BR": "Chapada dos Veadeiros, Goiás (© Roberto Kenji/Shutterstock)"
+    },
+    "descs": {
+      "pt-BR": "Se alguém dissesse que esta imagem mostra uma obra de arte abstrata, seria fácil acreditar. Mas o artista aqui é menos convencional: água corrente, toneladas de rocha e muito, muito tempo. No Parque Nacional da Chapada dos Veadeiros, em Goiás, a natureza passou milhões de anos esculpindo cânions e fendas que parecem desafiar a lógica da pedra. Gota após gota, corrente após corrente, a água desgasta a rocha e redesenha a paisagem, alimentando rios de águas cristalinas e cachoeiras que despencam por antigos paredões."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Chapada+dos+Veadeiros&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Veadeiros_PT-BR0644976929"
+    }
+  },
   "KidsDay": {
     "name": "KidsDay",
     "urlbase": "/th?id=OHR.KidsDay_PT-BR1347488359",
@@ -2272,36 +2338,36 @@
       "pt-BR": "/th?id=OHR.KidsDay_PT-BR1347488359"
     }
   },
-  "Camburiu": {
-    "name": "Camburiu",
-    "urlbase": "/th?id=OHR.Camburiu_PT-BR2030410087",
-    "date": "20261002",
-    "dateFormatted": "October 02, 2026",
+  "Persimmons2026": {
+    "name": "Persimmons2026",
+    "urlbase": "/th?id=OHR.Persimmons2026_JA-JP2192858733",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
     "markets": [
       {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
       }
     ],
     "titles": {
-      "pt-BR": "Maré de tranquilidade"
+      "ja-JP": "秋の風に揺れる干し柿"
     },
     "copyrights": {
-      "pt-BR": "Praia de Taquaras no Balneário Camboriú, Santa Catarina (© MaRabelo/Getty Images)"
+      "ja-JP": "ずらりと並ぶ干し柿, 長野県 妻籠宿 (© wayfarer2020/Shutterstock)"
     },
     "descs": {
-      "pt-BR": "Balneário Camboriú, em Santa Catarina, passou anos olhando para cima. Arranha-céus se empilham diante do mar, numa disputa permanente por alguns metros extras de horizonte. Mas basta seguir cerca de 8 quilômetros pela Rodovia Interpraias para a paisagem trocar de assunto."
+      "ja-JP": "柿は、秋を代表する果物のひとつです。生で食べるほか、干し柿などに加工して古くから親しまれてきました。そして画像は、長野県の妻籠宿で見られる干し柿の様子。秋から冬にかけて、鮮やかな柿の色が歴史ある街並みを彩ります。干し柿は、主に渋柿の皮をむいて乾燥させた伝統的な保存食です。干すことで渋みが感じられなくなり、水分が減ることで甘みが凝縮されます。作り方は地域や種類によって異なり、乾燥の途中や仕上げの段階で柿をもむなど、さまざまな工夫が受け継がれています。独特の食感と濃厚な甘みを楽しめる、秋から冬ならではの味覚です。"
     },
     "quickFacts": {},
     "captions": {
-      "pt-BR": ""
+      "ja-JP": "秋の風に揺れる干し柿"
     },
     "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=Balneario+Camboriu&form=hpcapt&mkt=pt-br"
+      "ja-JP": "https://www.bing.com/search?q=%e5%b9%b2%e3%81%97%e6%9f%bf&form=hpcapt&filters=HpDate%3a%2220261016_1500%22"
     },
     "urlbases": {
-      "pt-BR": "/th?id=OHR.Camburiu_PT-BR2030410087"
+      "ja-JP": "/th?id=OHR.Persimmons2026_JA-JP2192858733"
     }
   },
   "RailwayDay2026": {
@@ -2432,6 +2498,127 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.Chestnut2026_JA-JP0900389061"
+    }
+  },
+  "ChattoogaRiver": {
+    "name": "ChattoogaRiver",
+    "urlbase": "/th?id=OHR.ChattoogaRiver_EN-US5042787453",
+    "date": "20261002",
+    "dateFormatted": "October 02, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "A river worth protecting. Wild and Scenic Rivers Act",
+      "en-CA": "A river worth protecting. Chattooga River in the Appalachian Mountains, North Carolina, USA",
+      "en-GB": "A river worth protecting. Chattooga River, North Carolina, United States",
+      "es-ES": "Aguas bravas entre bosques. Río Chattooga, Carolina del Norte, EE. UU.",
+      "ja-JP": "川面を流れる紅葉",
+      "zh-CN": "一条值得保护的河流"
+    },
+    "copyrights": {
+      "en-US": "Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)",
+      "en-CA": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
+      "en-GB": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
+      "es-ES": "Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)",
+      "ja-JP": "チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)",
+      "zh-CN": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Rivers have long played an important role in life across the United States, supporting communities, wildlife, and industry. President Lyndon B. Johnson signed the Wild and Scenic Rivers Act into law on October 2, 1968. It created a national system to protect rivers and river segments with outstanding scenic, recreational, geologic, fish and wildlife, historic, or cultural values. The Act preserves designated rivers in a free-flowing condition, protects their water quality, and aims to safeguard the qualities that made them worthy of designation.",
+      "en-CA": "Rivers have long played an important role in life across the world, supporting communities, wildlife and industry. Featured in today's image, the Chattooga River runs for about 92 kilometres across Georgia, North Carolina and South Carolina in the United States. Flowing through the Appalachian Mountains, it winds between steep, forested slopes, rocky gorges and cascading rapids before reaching Lake Tugaloo. The river remains one of the Southeast's few major free-flowing rivers and is known for its scenery, whitewater recreation and wildlife.",
+      "en-GB": "Few rivers combine wild scenery and whitewater quite like the Chattooga. Rising in the mountains near Cashiers, North Carolina, it winds through Georgia, North Carolina and South Carolina in the United States, dropping nearly half a mile in elevation along its journey. With no dams upstream, its water levels can change quickly after rainfall, adding excitement for rafters and kayakers.",
+      "es-ES": "El río Chattooga baja por los montes Apalaches, en Carolina del Norte (Estados Unidos), y es uno de los tramos de aguas bravas más celebrados del sureste del país. Nace en plena montaña y durante kilómetros marca la frontera entre Georgia, Carolina del Norte y Carolina del Sur, encajonado entre laderas boscosas y escalones de roca.",
+      "ja-JP": "ここはチャトゥーガ川。米国ノースカロライナ州のアパラチア山脈を源流とし、サウスカロライナ州とジョージア州の州境を流れる川です。長さは約 92km で、米国南東部で最も長い自由流河川の一つです。美しい景観と豊かな生態系で知られているほか、ラフティングやカヤック、カヌーといったアクティビティを楽しむことができます。",
+      "zh-CN": "长期以来，河流在美国各地的生活中发挥着重要作用，为社区、野生动物和工业提供支持。1968年10月2日，林登·B·约翰逊总统签署《野生与风景河流法》，使其成为法律。该法建立了一个国家体系，用于保护具有卓越景观、休闲、地质、鱼类和野生动物、历史或文化价值的河流及河段。该法使指定河流保持自由流动状态，保护其水质，并旨在守护使它们值得获此指定的特质。"
+    },
+    "quickFacts": {
+      "zh-CN": "查图加河在约50英里的流程中平均每英里下降49英尺，最终流入图加卢湖。"
+    },
+    "captions": {
+      "en-US": "Wild and Scenic Rivers Act",
+      "en-CA": "Chattooga River in the Appalachian Mountains, North Carolina, USA"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Wild+and+Scenic+Rivers+Act&form=hpcapt&filters=HpDate%3a%2220261002_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Chattooga+River&form=hpcapt&filters=HpDate%3a%2220261002_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ChattoogaRiver_EN-US5042787453",
+      "en-CA": "/th?id=OHR.ChattoogaRiver_EN-CA5808971566"
+    }
+  },
+  "BrandenburgGateFireworks": {
+    "name": "BrandenburgGateFireworks",
+    "urlbase": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528",
+    "date": "20261002",
+    "dateFormatted": "October 02, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Ein Zeichen der Einheit. Tag der Deutschen Einheit"
+    },
+    "copyrights": {
+      "de-DE": "Brandenburger Tor, Berlin (© almir1968/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Heute steht Deutschland ganz im Zeichen der Einheit. Der 3. Oktober erinnert an die Wiedervereinigung im Jahr 1990 und an einen historischen Moment, der das Land bis heute prägt. Unser heutiges Bild zeigt die Quadriga auf dem Brandenburger Tor in Berlin vor einem Feuerwerk. Während der deutschen Teilung wurde das Brandenburger Tor zum Sinnbild der Grenze zwischen Ost und West. Jahrzehntelang war der Zugang versperrt, ehe es nach dem Fall der Berliner Mauer erneut zu einem Symbol der Freiheit wurde. Heute steht das Wahrzeichen für Zusammenhalt und ein vereintes Deutschland."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Tag der Deutschen Einheit"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Tag+der+Deutschen+Einheit&form=hpcapt&filters=HpDate%3a%2220261002_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528"
+    }
+  },
+  "Camburiu": {
+    "name": "Camburiu",
+    "urlbase": "/th?id=OHR.Camburiu_PT-BR2030410087",
+    "date": "20261002",
+    "dateFormatted": "October 02, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Maré de tranquilidade"
+    },
+    "copyrights": {
+      "pt-BR": "Praia de Taquaras no Balneário Camboriú, Santa Catarina (© MaRabelo/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Balneário Camboriú, em Santa Catarina, passou anos olhando para cima. Arranha-céus se empilham diante do mar, numa disputa permanente por alguns metros extras de horizonte. Mas basta seguir cerca de 8 quilômetros pela Rodovia Interpraias para a paisagem trocar de assunto."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Balneario+Camboriu&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Camburiu_PT-BR2030410087"
     }
   },
   "OlmstedPoint": {
