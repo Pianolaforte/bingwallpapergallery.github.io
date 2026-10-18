@@ -1,4 +1,133 @@
 {
+  "ChauvetPaintingsFrance": {
+    "name": "ChauvetPaintingsFrance",
+    "urlbase": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
+    "date": "20261017",
+    "dateFormatted": "October 17, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The past, unearthed. International Archaeology Day",
+      "en-GB": "The past, unearthed. International Archaeology Day",
+      "en-CA": "The past, unearthed. International Archaeology Day",
+      "de-DE": "Die Vergangenheit ans Licht gebracht. Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
+      "it-IT": "Arte di 36.000 anni fa",
+      "es-ES": "Arte de hace 36.000 años. Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
+      "pt-BR": "O passado deixou sua assinatura",
+      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国",
+      "en-IN": "The past, unearthed. International Archaeology Day"
+    },
+    "copyrights": {
+      "en-US": "Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "en-GB": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "en-CA": "Life-size replica of Chauvet Cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "de-DE": "Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)",
+      "it-IT": "Riproduzione a grandezza naturale delle pitture della grotta di Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+      "es-ES": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+      "pt-BR": "Réplica em tamanho real das pinturas rupestres da Caverna de Chauvet, Vallon-Pont-d'Arc, França (© Audrey Poree/Alamy)",
+      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)",
+      "en-IN": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)"
+    },
+    "descs": {
+      "en-US": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organized by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programs, site visits, simulated digs, and hands-on activities.",
+      "en-GB": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "en-CA": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "de-DE": "Die Chauvet-Höhle bei Vallon-Pont-d’Arc in Südfrankreich zählt zu den bedeutendsten Fundstätten prähistorischer Höhlenkunst. An ihren Wänden finden sich mehr als 1000 Zeichnungen, vor allem eindrucksvolle Darstellungen von Tieren wie Löwen, Nashörnern, Pferden und Mammuts. Die außergewöhnlich gut erhaltenen Kunstwerke geben faszinierende Einblicke in die kreative Welt der Menschen der Altsteinzeit. Um die empfindlichen Originale zu schützen, wurde in der Nähe eine lebensgroße Nachbildung geschaffen, in der Besucher die Höhlenmalereien in einer möglichst authentischen Umgebung erleben können.",
+      "es-ES": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público.",
+      "en-IN": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "it-IT": "Questi cavalli, leoni e rinoceronti sono stati dipinti circa 36.000 anni fa nella grotta di Chauvet, a Vallon-Pont-d'Arc (Francia), ma quello che vedi è una copia. La grotta originale, scoperta nel 1994, è rimasta sigillata per millenni e conserva oltre 400 pitture e incisioni: per proteggerla dai danni che provoca la presenza umana non è mai stata aperta al pubblico.",
+      "pt-BR": "Imagine encontrar uma caverna e descobrir que alguém preencheu suas paredes com mamutes, rinocerontes e bisões há milhares de anos. Foi assim que a Caverna de Chauvet, no sul da França, entrou para a história. Descoberta em 1994, ela guarda mais de mil desenhos e gravuras, alguns com cerca de 36 mil anos.",
+      "zh-CN": "有些发现始于一把铲子，另一些则始于洞穴墙壁上的一幅图画。国际考古日既颂扬抽丝剥茧般的考古工作，也重视支撑发现的证据。这项年度活动由美国考古学会主办，始于2011年；随着参与范围扩展至全球，活动于2013年更名为“国际考古日”。如今，它通过讲座、博物馆项目、遗址参观、模拟发掘和动手实践活动，让公众更加贴近考古学。"
+    },
+    "quickFacts": {
+      "en-US": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "en-GB": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "en-CA": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "de-DE": "In der Chauvet-Höhle sind die Fußabdrücke eines prähistorischen Jugendlichen erhalten geblieben, der vor etwa 30.000 Jahren barfuß durch ihre Gänge lief.",
+      "it-IT": "La grotta conserva le impronte di un adolescente preistorico che camminò a piedi nudi lungo i suoi passaggi circa 30.000 anni fa.",
+      "es-ES": "La cueva conserva las huellas de un adolescente prehistórico que caminó descalzo por sus pasadizos hace unos 30.000 años.",
+      "zh-CN": "肖维岩洞保存着一名史前青少年的足迹，大约3万年前，这名青少年曾赤脚走过洞内通道。",
+      "en-IN": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago."
+    },
+    "captions": {
+      "en-US": "International Archaeology Day",
+      "en-GB": "International Archaeology Day",
+      "en-CA": "International Archaeology Day",
+      "de-DE": "Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
+      "it-IT": "",
+      "es-ES": "Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "International Archaeology Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0700%22",
+      "en-GB": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261016_2300%22",
+      "en-CA": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Chauvet-H%c3%b6hle&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
+      "it-IT": "https://www.bing.com/search?q=grotta+di+Chauvet&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=cueva+de+Chauvet&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Caverna+de+Chauvet&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e8%80%83%e5%8f%a4%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261016_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
+      "en-GB": "/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874",
+      "en-CA": "/th?id=OHR.ChauvetPaintingsFrance_EN-CA7438357428",
+      "de-DE": "/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746",
+      "it-IT": "/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809",
+      "es-ES": "/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224",
+      "pt-BR": "/th?id=OHR.ChauvetPaintingsFrance_PT-BR7808142972",
+      "zh-CN": "/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955",
+      "en-IN": "/th?id=OHR.ChauvetPaintingsFrance_EN-IN6496493041"
+    }
+  },
   "SneffelsAutumn": {
     "name": "SneffelsAutumn",
     "urlbase": "/th?id=OHR.SneffelsAutumn_EN-US3953128777",
@@ -623,7 +752,7 @@
       "es-ES": "Donde el otoño mueve la rueda. Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
       "pt-BR": "Quando águas passadas movem moinhos",
       "ja-JP": "紅葉に包まれた水車小屋",
-      "zh-CN": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国",
+      "zh-CN": "秋色中转动的水轮",
       "en-IN": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States"
     },
     "copyrights": {
@@ -643,7 +772,7 @@
       "en-CA": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
       "fr-FR": "Dans le parc d'État de Babcock, en Virginie-Occidentale, aux États-Unis, le moulin de Glade Creek se dresse au-dessus des eaux vives, encadré d'un patchwork de rouges, d'oranges et d'or. Il a tout d'un vestige pionnier — et pourtant, il a été construit en 1976.",
       "es-ES": "Rodeado de un mosaico de rojos, naranjas y dorados, el molino de Glade Creek se alza sobre las aguas rocosas del arroyo que le da nombre, en el Parque Estatal Babcock, en Virginia Occidental (Estados Unidos). Parece una reliquia de la época de los pioneros, pero en realidad es un homenaje muy bien construido a la tradición harinera de los Apalaches.",
-      "ja-JP": "紅葉に包まれた水車小屋. グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州. 今日の画像は、グレイド・クリーク・グリスト・ミル。米国ウェストバージニア州のバブコック州立公園を代表するランドマークです。この製粉所は、かつて近隣にあった製粉所を再現したもので、州内にあった 3 か所の製粉所の部材を組み合わせて、1976 年に造られました。現在も稼働している現役の製粉所であり、かつてウェストバージニア州内に存在した数多の製粉所の歴史を今に伝えています。",
+      "ja-JP": "今日の画像は、グレイド・クリーク・グリスト・ミル。米国ウェストバージニア州のバブコック州立公園を代表するランドマークです。この製粉所は、かつて近隣にあった製粉所を再現したもので、州内にあった 3 か所の製粉所の部材を組み合わせて、1976 年に造られました。現在も稼働している現役の製粉所であり、かつてウェストバージニア州内に存在した数多の製粉所の歴史を今に伝えています。",
       "en-IN": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
       "pt-BR": "Enquanto o Brasil avança primavera adentro, as montanhas da Virgínia Ocidental, nos Estados Unidos, seguem na direção oposta. Na imagem de hoje, o moinho de Glade Creek parece cenário de filme de época... mas sua história é bem moderna. Construído em 1976 no Parque Estadual Babcock, ele nasceu de uma ideia engenhosa: juntar peças recuperadas de vários moinhos históricos do estado e transformá-las em uma construção que mantivesse viva a tradição de moagem dos Apalaches.",
       "zh-CN": "格莱德溪磨坊坐落在西弗吉尼亚州巴布科克州立公园内格莱德溪的岩石水域上方，周围红色、橙色和金色交错。尽管它看起来像是拓荒时代的遗迹，但这座磨坊实际上是为致敬阿巴拉契亚地区的磨坊传统而精心建造的。"
@@ -1543,14 +1672,92 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "The universe is calling. World Space Week begins",
+      "en-CA": "The universe is calling. World Space Week begins",
+      "fr-FR": "L'univers nous appelle. Semaine mondiale de l’espace",
+      "pt-BR": "Partiu, universo!",
+      "en-GB": "The universe is calling. World Space Week begins",
+      "de-DE": "Der Ruf des Universums. Weltraumwoche",
+      "it-IT": "L'universo ci chiama",
+      "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
+      "ja-JP": "今日から世界宇宙週間",
+      "zh-CN": "宇宙在召唤",
+      "en-IN": "The universe is calling. World Space Week begins"
+    },
+    "copyrights": {
+      "en-US": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-CA": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "fr-FR": "Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
+      "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)"
+    },
+    "descs": {
+      "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "fr-FR": "D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
+      "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
+      "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
+      "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
+      "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
+      "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
+      "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
+    },
+    "quickFacts": {
+      "zh-CN": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
+    },
+    "captions": {
+      "en-US": "World Space Week begins",
+      "en-CA": "World Space Week begins",
+      "fr-FR": "Semaine mondiale de l’espace",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0400%22",
+      "fr-FR": "https://www.bing.com/search?q=semaine+mondiale+de+l%27espace&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ArtemisRocket_EN-US5256990037",
+      "en-CA": "/th?id=OHR.ArtemisRocket_EN-CA8945669255",
+      "fr-FR": "/th?id=OHR.ArtemisRocket_FR-FR7987344274",
+      "pt-BR": "/th?id=OHR.ArtemisRocket_PT-BR6940961892"
+    }
+  },
+  "DolbadarnWales": {
+    "name": "DolbadarnWales",
+    "urlbase": "/th?id=OHR.DolbadarnWales_EN-GB4918405829",
+    "date": "20261017",
+    "dateFormatted": "October 17, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1563,19 +1770,9 @@
         "flag": "fr"
       },
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
       },
       {
         "code": "ja-JP",
@@ -1594,267 +1791,70 @@
       }
     ],
     "titles": {
-      "en-US": "The universe is calling. World Space Week begins",
-      "en-GB": "The universe is calling. World Space Week begins",
-      "en-CA": "The universe is calling. World Space Week begins",
-      "de-DE": "Der Ruf des Universums. Weltraumwoche",
-      "fr-FR": "L'univers nous appelle. Semaine mondiale de l’espace",
-      "it-IT": "L'universo ci chiama",
-      "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
-      "pt-BR": "Partiu, universo!",
-      "ja-JP": "今日から世界宇宙週間",
-      "zh-CN": "宇宙在召唤",
-      "en-IN": "The universe is calling. World Space Week begins"
+      "en-GB": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "de-DE": "75 und voller Leben. Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
+      "fr-FR": "75 ans et rayonnant. Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
+      "es-ES": "La torre de los príncipes. Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
+      "ja-JP": "丘の上に佇む城跡",
+      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士",
+      "en-IN": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-US": "75 and thriving. Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales",
+      "en-CA": "75 and thriving. Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales",
+      "pt-BR": "Onde o tempo perde altitude. Castelo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), País de Gales"
     },
     "copyrights": {
-      "en-US": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-CA": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "fr-FR": "Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
-      "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)"
+      "en-GB": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "de-DE": "Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "fr-FR": "Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles (© joe daniel price/Getty Images)",
+      "es-ES": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales (© joe daniel price/Getty Images)",
+      "ja-JP": "ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)",
+      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)",
+      "en-IN": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "en-US": "© joe daniel price/Getty Images",
+      "en-CA": "© joe daniel price/Getty Images",
+      "pt-BR": "© joe daniel price/Getty Images"
     },
     "descs": {
-      "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
-      "fr-FR": "D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
-      "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
-      "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
-      "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
-      "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
-      "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
+      "en-GB": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen. Seit seiner Ausweisung im Jahr 1951 schützt er auf rund 2.130 Quadratkilometern eine außergewöhnlich vielfältige Landschaft. Neun Gebirgszüge, etwa 119 Kilometer Küste, Moore, heimische Wälder und weitläufige Hochlandgebiete prägen die Region. Mit 1.085 Metern ist der Yr Wyddfa der höchste Berg des Parks. Auch die Gipfel der Carneddau und Glyderau sowie der Cadair Idris im Süden gehören zu dieser eindrucksvollen Bergwelt. Zahlreiche geschützte Gebiete bieten zudem wertvolle Lebensräume für Tiere und Pflanzen.",
+      "fr-FR": "Si les parcs tenaient un journal d’anniversaire, celui d’Eryri (Snowdonia) aurait 75 ans d’histoire à raconter. Désigné parc national en 1951, ce territoire gallois s’étend sur environ 2 130 km² : neuf chaînes de montagnes, près de 119 km de côtes, des tourbières, des bois indigènes et de vastes terres d’altitude. À 1 085 mètres d’altitude s’élève Yr Wyddfa, son sommet emblématique, entouré des reliefs des Carneddau et des Glyderau, tandis que Cadair Idris domine le sud. Cette mosaïque d’habitats abrite 17 réserves naturelles nationales et 56 sites d’intérêt scientifique particulier.",
+      "es-ES": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
+      "ja-JP": "エリリ国立公園（旧スノードニア国立公園）は、面積約 2,130km² を誇るウェールズ最大の国立公園です。1951 年の今日、10 月 18 日に国立公園に指定されました。公園内には、ウェールズ最高峰のイール・ウィドファ（旧スノードン山）がそびえるなど、雄大な山岳風景が広がっています。そして画像は、公園内にあるドルバダーン城。13 世紀に築かれたウェールズを代表する城のひとつで、特徴的な円塔が美しい景観の中にたたずんでいます。",
+      "en-IN": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across more than 2,100 square kilometres, with nine mountain ranges, about 120 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "en-US": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline, and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 3,500 feet, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "en-CA": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 2,130 square kilometres, with nine mountain ranges, 119 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,050 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "pt-BR": "Hoje tem parabéns no País de Gales: o Parque Nacional de Eryri completa 75 anos. Eryri é o nome galês oficial; Snowdonia, o antigo nome em inglês. Criado em 1951, o parque não perdeu tempo para impressionar. São mais de 2 mil km² de montanhas, turfeiras, bosques nativos e litoral, reunindo nove cadeias montanhosas e mais de cem quilômetros de costa. No topo da conversa está Yr Wyddfa, com mais de mil metros de altitude. Por perto vêm os maciços de Carneddau e Glyderau; ao sul, Cadair Idris também faz questão de aparecer.",
+      "zh-CN": "如果公园也能写生日手记，威尔士斯诺登尼亚国家公园一定有许多精彩故事可讲。今天是这座公园成立75周年，纪念它于1951年获指定为国家公园。斯诺登尼亚占地823平方英里，拥有九条山脉和74英里海岸线，栖息地类型从泥炭地、原生林地到高地景观不一而足。斯诺登山海拔超过3,500英尺，是斯诺登尼亚的最高点。附近的卡内道山脉和格利德赖山脉群峰耸立，卡代尔伊德里斯山则矗立在南部。这些受保护的景观为野生动物提供了栖息地，其中包括17处国家级自然保护区和56处特殊科学价值地点。"
     },
     "quickFacts": {
-      "zh-CN": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
+      "zh-CN": "2015年，斯诺登尼亚被认定为国际暗夜保护区，以表彰其卓越的夜空质量和限制光污染的努力。"
     },
     "captions": {
-      "en-US": "World Space Week begins",
-      "en-GB": "World Space Week begins",
-      "en-CA": "World Space Week begins",
-      "de-DE": "Weltraumwoche",
-      "fr-FR": "Semaine mondiale de l’espace",
-      "it-IT": "",
-      "es-ES": "Comienza la Semana Mundial del Espacio",
-      "pt-BR": "",
-      "ja-JP": "今日から世界宇宙週間",
+      "en-GB": "Eryri National Park (Snowdonia) in Wales turns 75",
+      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
+      "fr-FR": "Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
+      "es-ES": "Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
+      "ja-JP": "丘の上に佇む城跡",
       "zh-CN": "",
-      "en-IN": "World Space Week begins"
+      "en-IN": "Eryri National Park (Snowdonia) in Wales turns 75"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0700%22",
-      "en-GB": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_2300%22",
-      "en-CA": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Weltraumwoche&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=semaine+mondiale+de+l%27espace&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Settimana+mondiale+dello+spazio&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Semana+Mundial+del+Espacio&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%ae%87%e5%ae%99%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220261003_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e7%a9%ba%e9%97%b4%e5%91%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Eryri-Nationalpark+Informationen&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=parc+Eryri+Pays+de+Galles&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Castillo+de+Dolbadarn&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%83%aa%e3%83%aa%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261017_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e6%96%af%e8%af%ba%e7%99%bb%e5%b0%bc%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.ArtemisRocket_EN-US5256990037",
-      "en-GB": "/th?id=OHR.ArtemisRocket_EN-GB2659306567",
-      "en-CA": "/th?id=OHR.ArtemisRocket_EN-CA8945669255",
-      "de-DE": "/th?id=OHR.ArtemisRocket_DE-DE4474155042",
-      "fr-FR": "/th?id=OHR.ArtemisRocket_FR-FR7987344274",
-      "it-IT": "/th?id=OHR.ArtemisRocket_IT-IT8266299733",
-      "es-ES": "/th?id=OHR.ArtemisRocket_ES-ES2701886938",
-      "pt-BR": "/th?id=OHR.ArtemisRocket_PT-BR6940961892",
-      "ja-JP": "/th?id=OHR.ArtemisRocket_JA-JP8925094178",
-      "zh-CN": "/th?id=OHR.ArtemisRocket_ZH-CN1768541365",
-      "en-IN": "/th?id=OHR.ArtemisRocket_EN-IN7247754075"
-    }
-  },
-  "GrizzlySwim": {
-    "name": "GrizzlySwim",
-    "urlbase": "/th?id=OHR.GrizzlySwim_EN-US5133524829",
-    "date": "20261003",
-    "dateFormatted": "October 03, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska",
-      "en-CA": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
-      "pt-BR": "O último buffet do ano",
-      "en-GB": "Catch, eat, repeat. Brown bear, Alaska, United States",
-      "fr-FR": "Maître des eaux. Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
-      "it-IT": "Pesca, mangia, ripeti",
-      "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
-      "zh-CN": "捕捉、进食、重复",
-      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
-      "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA"
-    },
-    "copyrights": {
-      "en-US": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)",
-      "en-CA": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
-      "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
-      "en-GB": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
-      "fr-FR": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
-      "it-IT": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)",
-      "es-ES": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
-      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
-      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
-      "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)"
-    },
-    "descs": {
-      "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "en-CA": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
-      "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
-      "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "de-DE": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
-      "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
-      "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
-      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。"
-    },
-    "quickFacts": {
-      "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
-    },
-    "captions": {
-      "en-US": "Brown bear in Lake Clark National Park and Preserve, Alaska",
-      "en-CA": "Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220261003_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261014_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+e+Reserva+do+Lago+Clark+Alasca&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.GrizzlySwim_EN-US5133524829",
-      "en-CA": "/th?id=OHR.GrizzlySwim_EN-CA2710630781",
-      "pt-BR": "/th?id=OHR.GrizzlySwim_PT-BR4132076191"
-    }
-  },
-  "ChauvetPaintingsFrance": {
-    "name": "ChauvetPaintingsFrance",
-    "urlbase": "/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874",
-    "date": "20261016",
-    "dateFormatted": "October 16, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "The past, unearthed. International Archaeology Day",
-      "de-DE": "Die Vergangenheit ans Licht gebracht. Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
-      "it-IT": "Arte di 36.000 anni fa",
-      "es-ES": "Arte de hace 36.000 años. Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
-      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国",
-      "en-IN": "The past, unearthed. International Archaeology Day",
-      "en-US": "The past, unearthed. Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France",
-      "en-CA": "The past, unearthed. Life-size replica of Chauvet Cave art in Vallon-Pont-d'Arc, France",
-      "pt-BR": "O passado deixou sua assinatura. Réplica em tamanho real das pinturas rupestres da Caverna de Chauvet, Vallon-Pont-d'Arc, França"
-    },
-    "copyrights": {
-      "en-GB": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
-      "de-DE": "Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)",
-      "it-IT": "Riproduzione a grandezza naturale delle pitture della grotta di Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
-      "es-ES": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
-      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)",
-      "en-IN": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
-      "en-US": "© Audrey Poree/Alamy",
-      "en-CA": "© Audrey Poree/Alamy",
-      "pt-BR": "© Audrey Poree/Alamy"
-    },
-    "descs": {
-      "en-GB": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
-      "de-DE": "Die Chauvet-Höhle bei Vallon-Pont-d’Arc in Südfrankreich zählt zu den bedeutendsten Fundstätten prähistorischer Höhlenkunst. An ihren Wänden finden sich mehr als 1000 Zeichnungen, vor allem eindrucksvolle Darstellungen von Tieren wie Löwen, Nashörnern, Pferden und Mammuts. Die außergewöhnlich gut erhaltenen Kunstwerke geben faszinierende Einblicke in die kreative Welt der Menschen der Altsteinzeit. Um die empfindlichen Originale zu schützen, wurde in der Nähe eine lebensgroße Nachbildung geschaffen, in der Besucher die Höhlenmalereien in einer möglichst authentischen Umgebung erleben können.",
-      "es-ES": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público.",
-      "en-IN": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
-      "en-US": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organized by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programs, site visits, simulated digs, and hands-on activities.",
-      "en-CA": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
-      "it-IT": "Questi cavalli, leoni e rinoceronti sono stati dipinti circa 36.000 anni fa nella grotta di Chauvet, a Vallon-Pont-d'Arc (Francia), ma quello che vedi è una copia. La grotta originale, scoperta nel 1994, è rimasta sigillata per millenni e conserva oltre 400 pitture e incisioni: per proteggerla dai danni che provoca la presenza umana non è mai stata aperta al pubblico.",
-      "pt-BR": "Imagine encontrar uma caverna e descobrir que alguém preencheu suas paredes com mamutes, rinocerontes e bisões há milhares de anos. Foi assim que a Caverna de Chauvet, no sul da França, entrou para a história. Descoberta em 1994, ela guarda mais de mil desenhos e gravuras, alguns com cerca de 36 mil anos.",
-      "zh-CN": "有些发现始于一把铲子，另一些则始于洞穴墙壁上的一幅图画。国际考古日既颂扬抽丝剥茧般的考古工作，也重视支撑发现的证据。这项年度活动由美国考古学会主办，始于2011年；随着参与范围扩展至全球，活动于2013年更名为“国际考古日”。如今，它通过讲座、博物馆项目、遗址参观、模拟发掘和动手实践活动，让公众更加贴近考古学。"
-    },
-    "quickFacts": {
-      "en-US": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
-      "en-GB": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
-      "en-CA": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
-      "de-DE": "In der Chauvet-Höhle sind die Fußabdrücke eines prähistorischen Jugendlichen erhalten geblieben, der vor etwa 30.000 Jahren barfuß durch ihre Gänge lief.",
-      "it-IT": "La grotta conserva le impronte di un adolescente preistorico che camminò a piedi nudi lungo i suoi passaggi circa 30.000 anni fa.",
-      "es-ES": "La cueva conserva las huellas de un adolescente prehistórico que caminó descalzo por sus pasadizos hace unos 30.000 años.",
-      "zh-CN": "肖维岩洞保存着一名史前青少年的足迹，大约3万年前，这名青少年曾赤脚走过洞内通道。",
-      "en-IN": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago."
-    },
-    "captions": {
-      "en-GB": "International Archaeology Day",
-      "de-DE": "Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
-      "it-IT": "",
-      "es-ES": "Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
-      "zh-CN": "",
-      "en-IN": "International Archaeology Day"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261016_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Chauvet-H%c3%b6hle&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
-      "it-IT": "https://www.bing.com/search?q=grotta+di+Chauvet&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=cueva+de+Chauvet&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e8%80%83%e5%8f%a4%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261016_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874",
-      "de-DE": "/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746",
-      "it-IT": "/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809",
-      "es-ES": "/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224",
-      "zh-CN": "/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955",
-      "en-IN": "/th?id=OHR.ChauvetPaintingsFrance_EN-IN6496493041"
+      "en-GB": "/th?id=OHR.DolbadarnWales_EN-GB4918405829",
+      "de-DE": "/th?id=OHR.DolbadarnWales_DE-DE0565954250",
+      "fr-FR": "/th?id=OHR.DolbadarnWales_FR-FR3604957648",
+      "es-ES": "/th?id=OHR.DolbadarnWales_ES-ES3329263701",
+      "ja-JP": "/th?id=OHR.DolbadarnWales_JA-JP2361140889",
+      "zh-CN": "/th?id=OHR.DolbadarnWales_ZH-CN3649667806",
+      "en-IN": "/th?id=OHR.DolbadarnWales_EN-IN6584156399"
     }
   },
   "MumblesSwansea2026": {
@@ -1959,15 +1959,26 @@
       }
     ],
     "titles": {
-      "en-CA": "Under a blanket of stars. Jasper Dark Sky Festival is here"
+      "en-CA": "Under a blanket of stars. Jasper Dark Sky Festival is here",
+      "de-DE": "Wo Gipfel auf Stille treffen. Maligne Lake, Jasper-Nationalpark, Alberta, Kanada",
+      "fr-FR": "Des étoiles plein les yeux. Lac Maligne, Parc national Jasper, Alberta, Canada",
+      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大"
     },
     "copyrights": {
-      "en-CA": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)"
+      "en-CA": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)",
+      "de-DE": "© Andrey Popov/Getty Images",
+      "fr-FR": "© Andrey Popov/Getty Images",
+      "zh-CN": "© Andrey Popov/Getty Images"
     },
     "descs": {
-      "en-CA": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it."
+      "en-CA": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it.",
+      "de-DE": "Türkisfarbenes Wasser, schroffe Berggipfel und dichte Wälder prägen das Bild des Maligne Lake im Jasper-Nationalpark. Der von Gletschern gespeiste See erstreckt sich über rund 22 Kilometer durch die kanadischen Rocky Mountains. Sein Wasser bleibt selbst an warmen Sommertagen ausgesprochen kalt. Wanderwege eröffnen unterschiedliche Perspektiven auf die umliegende Bergwelt, während sich vom Kanu aus die lange, weitgehend unberührte Uferlandschaft entdecken lässt.",
+      "fr-FR": "Quand la nuit enveloppe le parc national de Jasper, en Alberta (Canada), les montagnes changent de décor. Désigné réserve de ciel étoilé en 2011, ce territoire de plus de 11 000 km² limite la pollution lumineuse afin de préserver l’obscurité. Étoiles, planètes et Voie lactée composent alors un spectacle saisissant au-dessus des sommets. Puis l’aube se lève et ramène doucement le regard vers la terre.",
+      "zh-CN": "夜幕降临加拿大艾伯塔省的贾斯珀国家公园时，群山便有了全新的背景。该公园于2011年被指定为暗夜天空保护区，面积超过11,000平方千米，并采取了减少光污染的措施。在这里，繁星、行星和银河系联袂上演天幕奇观，让游客不由得仰望天空。晨光到来后，视线又从头顶的天空转向脚下的景致。"
     },
-    "quickFacts": {},
+    "quickFacts": {
+      "zh-CN": "据加拿大公园管理局介绍，精灵岛距玛琳湖北岸14公里，只能乘船抵达。"
+    },
     "captions": {
       "en-CA": "Jasper Dark Sky Festival is here"
     },
@@ -1976,6 +1987,67 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.MaligneFest_EN-CA6755477171"
+    }
+  },
+  "GrizzlySwim": {
+    "name": "GrizzlySwim",
+    "urlbase": "/th?id=OHR.GrizzlySwim_EN-CA2710630781",
+    "date": "20261014",
+    "dateFormatted": "October 14, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
+      "en-US": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska",
+      "pt-BR": "O último buffet do ano",
+      "en-GB": "Catch, eat, repeat. Brown bear, Alaska, United States",
+      "fr-FR": "Maître des eaux. Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
+      "it-IT": "Pesca, mangia, ripeti",
+      "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
+      "zh-CN": "捕捉、进食、重复",
+      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
+      "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA"
+    },
+    "copyrights": {
+      "en-CA": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "en-US": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)",
+      "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
+      "en-GB": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "fr-FR": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
+      "it-IT": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)",
+      "es-ES": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
+      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
+      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)"
+    },
+    "descs": {
+      "en-CA": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
+      "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
+      "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "de-DE": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
+      "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
+      "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
+      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。"
+    },
+    "quickFacts": {
+      "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
+    },
+    "captions": {
+      "en-CA": "Brown bear in Lake Clark National Park and Preserve, Alaska, USA"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261014_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.GrizzlySwim_EN-CA2710630781"
     }
   },
   "HeartLakeTG": {
@@ -2010,40 +2082,6 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.HeartLakeTG_EN-CA2157233427"
-    }
-  },
-  "NuitBToro": {
-    "name": "NuitBToro",
-    "urlbase": "/th?id=OHR.NuitBToro_EN-CA6592121527",
-    "date": "20261003",
-    "dateFormatted": "October 03, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "The midnight art marathon. 20th Nuit Blanche Toronto"
-    },
-    "copyrights": {
-      "en-CA": "Toronto City Hall illuminated at night (© EB Adventure Photography/Shutterstock)"
-    },
-    "descs": {
-      "en-CA": "Toronto has a rather unusual plan for tonight: keep the city awake and fill it with art. Nuit Blanche is returning for its 20th anniversary, turning public spaces and cultural venues into an all-night exhibition. The festival began in 2006, inspired by the overnight Nuit Blanche concept that originated in Paris in 2002. Since then, Toronto has presented almost 1,800 installations by about 6,350 artists."
-    },
-    "quickFacts": {
-      "en-CA": "'Nuit Blanche' means 'white night' in French, referring to an all-night cultural event."
-    },
-    "captions": {
-      "en-CA": "20th Nuit Blanche Toronto"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Nuit+Blanche&form=hpcapt&filters=HpDate%3a%2220261003_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.NuitBToro_EN-CA6592121527"
     }
   },
   "AndechsAbbey": {
@@ -2146,36 +2184,36 @@
       "fr-FR": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584"
     }
   },
-  "GruesDer": {
-    "name": "GruesDer",
-    "urlbase": "/th?id=OHR.GruesDer_FR-FR4180166006",
-    "date": "20261003",
-    "dateFormatted": "October 03, 2026",
+  "ValdiFunesDolomite": {
+    "name": "ValdiFunesDolomite",
+    "urlbase": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672",
+    "date": "20261017",
+    "dateFormatted": "October 17, 2026",
     "markets": [
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
       }
     ],
     "titles": {
-      "fr-FR": "L’aube des grues. EuroBirdwatch"
+      "it-IT": "Il segreto delle Dolomiti"
     },
     "copyrights": {
-      "fr-FR": "Grues cendrées en vol à l'aube, lac du Der, France (© Christophe Lehenaff/Getty Images)"
+      "it-IT": "La Val di Funes, Bolzano, Trentino-Alto Adige, Italia (© Achim Thomae/Getty Images)"
     },
     "descs": {
-      "fr-FR": "Chaque premier week-end d'octobre, l'EuroBirdwatch invite toute l'Europe à lever les yeux. Créé en 1993 par BirdLife International et coordonné en France par la LPO, cet événement célèbre la migration à travers sorties de terrain, points d'observation et animations ouvertes à tous."
+      "it-IT": "La Val di Funes, in provincia di Bolzano (Trentino-Alto Adige, Italia), è una di quelle valli che si nascondono bene: si stacca dalla Valle Isarco attraverso una gola strettissima e si apre solo dopo, per ventiquattro chilometri di prati, boschi e masi appesi ai versanti."
     },
     "quickFacts": {},
     "captions": {
-      "fr-FR": "EuroBirdwatch"
+      "it-IT": ""
     },
     "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=journ%c3%a9es+europ%c3%a9ennes+de+la+migration&form=hpcapt&filters=HpDate%3a%2220261003_2200%22"
+      "it-IT": "https://www.bing.com/search?q=La+Val+di+Funes&form=hpcapt"
     },
     "urlbases": {
-      "fr-FR": "/th?id=OHR.GruesDer_FR-FR4180166006"
+      "it-IT": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672"
     }
   },
   "BarcolanaBoats": {
@@ -2498,6 +2536,72 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.Chestnut2026_JA-JP0900389061"
+    }
+  },
+  "NuitBToro": {
+    "name": "NuitBToro",
+    "urlbase": "/th?id=OHR.NuitBToro_EN-CA6592121527",
+    "date": "20261003",
+    "dateFormatted": "October 03, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "The midnight art marathon. 20th Nuit Blanche Toronto"
+    },
+    "copyrights": {
+      "en-CA": "Toronto City Hall illuminated at night (© EB Adventure Photography/Shutterstock)"
+    },
+    "descs": {
+      "en-CA": "Toronto has a rather unusual plan for tonight: keep the city awake and fill it with art. Nuit Blanche is returning for its 20th anniversary, turning public spaces and cultural venues into an all-night exhibition. The festival began in 2006, inspired by the overnight Nuit Blanche concept that originated in Paris in 2002. Since then, Toronto has presented almost 1,800 installations by about 6,350 artists."
+    },
+    "quickFacts": {
+      "en-CA": "'Nuit Blanche' means 'white night' in French, referring to an all-night cultural event."
+    },
+    "captions": {
+      "en-CA": "20th Nuit Blanche Toronto"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Nuit+Blanche&form=hpcapt&filters=HpDate%3a%2220261003_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.NuitBToro_EN-CA6592121527"
+    }
+  },
+  "GruesDer": {
+    "name": "GruesDer",
+    "urlbase": "/th?id=OHR.GruesDer_FR-FR4180166006",
+    "date": "20261003",
+    "dateFormatted": "October 03, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "L’aube des grues. EuroBirdwatch"
+    },
+    "copyrights": {
+      "fr-FR": "Grues cendrées en vol à l'aube, lac du Der, France (© Christophe Lehenaff/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Chaque premier week-end d'octobre, l'EuroBirdwatch invite toute l'Europe à lever les yeux. Créé en 1993 par BirdLife International et coordonné en France par la LPO, cet événement célèbre la migration à travers sorties de terrain, points d'observation et animations ouvertes à tous."
+    },
+    "quickFacts": {},
+    "captions": {
+      "fr-FR": "EuroBirdwatch"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=journ%c3%a9es+europ%c3%a9ennes+de+la+migration&form=hpcapt&filters=HpDate%3a%2220261003_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.GruesDer_FR-FR4180166006"
     }
   },
   "ChattoogaRiver": {
