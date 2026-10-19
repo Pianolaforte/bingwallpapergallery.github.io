@@ -1,4 +1,137 @@
 {
+  "DolbadarnWales": {
+    "name": "DolbadarnWales",
+    "urlbase": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
+    "date": "20261018",
+    "dateFormatted": "October 18, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-GB": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-CA": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "de-DE": "75 und voller Leben. Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
+      "fr-FR": "75 ans et rayonnant. Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
+      "es-ES": "La torre de los príncipes. Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
+      "pt-BR": "Onde o tempo perde altitude",
+      "ja-JP": "丘の上に佇む城跡",
+      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士",
+      "en-IN": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75"
+    },
+    "copyrights": {
+      "en-US": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "en-GB": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "en-CA": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "de-DE": "Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "fr-FR": "Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles (© joe daniel price/Getty Images)",
+      "es-ES": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales (© joe daniel price/Getty Images)",
+      "pt-BR": "Castelo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), País de Gales (© joe daniel price/Getty Images)",
+      "ja-JP": "ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)",
+      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)",
+      "en-IN": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)"
+    },
+    "descs": {
+      "en-US": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline, and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 3,500 feet, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "en-GB": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "en-CA": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 2,130 square kilometres, with nine mountain ranges, 119 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,050 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen. Seit seiner Ausweisung im Jahr 1951 schützt er auf rund 2.130 Quadratkilometern eine außergewöhnlich vielfältige Landschaft. Neun Gebirgszüge, etwa 119 Kilometer Küste, Moore, heimische Wälder und weitläufige Hochlandgebiete prägen die Region. Mit 1.085 Metern ist der Yr Wyddfa der höchste Berg des Parks. Auch die Gipfel der Carneddau und Glyderau sowie der Cadair Idris im Süden gehören zu dieser eindrucksvollen Bergwelt. Zahlreiche geschützte Gebiete bieten zudem wertvolle Lebensräume für Tiere und Pflanzen.",
+      "fr-FR": "Si les parcs tenaient un journal d’anniversaire, celui d’Eryri (Snowdonia) aurait 75 ans d’histoire à raconter. Désigné parc national en 1951, ce territoire gallois s’étend sur environ 2 130 km² : neuf chaînes de montagnes, près de 119 km de côtes, des tourbières, des bois indigènes et de vastes terres d’altitude. À 1 085 mètres d’altitude s’élève Yr Wyddfa, son sommet emblématique, entouré des reliefs des Carneddau et des Glyderau, tandis que Cadair Idris domine le sud. Cette mosaïque d’habitats abrite 17 réserves naturelles nationales et 56 sites d’intérêt scientifique particulier.",
+      "es-ES": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
+      "ja-JP": "エリリ国立公園（旧スノードニア国立公園）は、面積約 2,130km² を誇るウェールズ最大の国立公園です。1951 年の今日、10 月 18 日に国立公園に指定されました。公園内には、ウェールズ最高峰のイール・ウィドファ（旧スノードン山）がそびえるなど、雄大な山岳風景が広がっています。そして画像は、公園内にあるドルバダーン城。13 世紀に築かれたウェールズを代表する城のひとつで、特徴的な円塔が美しい景観の中にたたずんでいます。",
+      "en-IN": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across more than 2,100 square kilometres, with nine mountain ranges, about 120 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "pt-BR": "Hoje tem parabéns no País de Gales: o Parque Nacional de Eryri completa 75 anos. Eryri é o nome galês oficial; Snowdonia, o antigo nome em inglês. Criado em 1951, o parque não perdeu tempo para impressionar. São mais de 2 mil km² de montanhas, turfeiras, bosques nativos e litoral, reunindo nove cadeias montanhosas e mais de cem quilômetros de costa. No topo da conversa está Yr Wyddfa, com mais de mil metros de altitude. Por perto vêm os maciços de Carneddau e Glyderau; ao sul, Cadair Idris também faz questão de aparecer.",
+      "zh-CN": "如果公园也能写生日手记，威尔士斯诺登尼亚国家公园一定有许多精彩故事可讲。今天是这座公园成立75周年，纪念它于1951年获指定为国家公园。斯诺登尼亚占地823平方英里，拥有九条山脉和74英里海岸线，栖息地类型从泥炭地、原生林地到高地景观不一而足。斯诺登山海拔超过3,500英尺，是斯诺登尼亚的最高点。附近的卡内道山脉和格利德赖山脉群峰耸立，卡代尔伊德里斯山则矗立在南部。这些受保护的景观为野生动物提供了栖息地，其中包括17处国家级自然保护区和56处特殊科学价值地点。"
+    },
+    "quickFacts": {
+      "zh-CN": "2015年，斯诺登尼亚被认定为国际暗夜保护区，以表彰其卓越的夜空质量和限制光污染的努力。"
+    },
+    "captions": {
+      "en-US": "Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-GB": "Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-CA": "Eryri National Park (Snowdonia) in Wales turns 75",
+      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
+      "fr-FR": "Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
+      "es-ES": "Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
+      "pt-BR": "",
+      "ja-JP": "丘の上に佇む城跡",
+      "zh-CN": "",
+      "en-IN": "Eryri National Park (Snowdonia) in Wales turns 75"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Eryri-Nationalpark+Informationen&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=parc+Eryri+Pays+de+Galles&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
+      "es-ES": "https://www.bing.com/search?q=Castillo+de+Dolbadarn&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+de+Eryri+Snowdonia+Pais+de+Gales&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%83%aa%e3%83%aa%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261017_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e6%96%af%e8%af%ba%e7%99%bb%e5%b0%bc%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
+      "en-GB": "/th?id=OHR.DolbadarnWales_EN-GB4918405829",
+      "en-CA": "/th?id=OHR.DolbadarnWales_EN-CA7756366430",
+      "de-DE": "/th?id=OHR.DolbadarnWales_DE-DE0565954250",
+      "fr-FR": "/th?id=OHR.DolbadarnWales_FR-FR3604957648",
+      "es-ES": "/th?id=OHR.DolbadarnWales_ES-ES3329263701",
+      "pt-BR": "/th?id=OHR.DolbadarnWales_PT-BR0887027747",
+      "ja-JP": "/th?id=OHR.DolbadarnWales_JA-JP2361140889",
+      "zh-CN": "/th?id=OHR.DolbadarnWales_ZH-CN3649667806",
+      "en-IN": "/th?id=OHR.DolbadarnWales_EN-IN6584156399"
+    }
+  },
   "ChauvetPaintingsFrance": {
     "name": "ChauvetPaintingsFrance",
     "urlbase": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
@@ -183,7 +316,8 @@
       "es-ES": "Oro y nieve en Colorado. Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
       "ja-JP": "黄金色の森の先にそびえる山",
       "zh-CN": "斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国",
-      "en-IN": "'Peak' into Colorado. Mount Sneffels, Colorado, United States"
+      "en-IN": "'Peak' into Colorado. Mount Sneffels, Colorado, United States",
+      "en-CA": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States"
     },
     "copyrights": {
       "en-US": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
@@ -193,7 +327,8 @@
       "es-ES": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
       "ja-JP": "スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)",
       "zh-CN": "斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)",
-      "en-IN": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)"
+      "en-IN": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
+      "en-CA": "© lightphoto/Getty Images"
     },
     "descs": {
       "en-US": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 14,150 feet in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray, and Telluride. It sits within the 16,587-acre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
@@ -203,7 +338,8 @@
       "ja-JP": "今日の画像は、米国コロラド州南西部、サンファン山地にそびえるスネフェル山。標高約 4,300m を誇るロッキー山脈の名峰です。コロラド州には標高 14,000 フィート（約 4,267m ）以上の山が 58 座あり、これらは総称して「フォーティーナーズ (Fourteeners) 」と呼ばれています。スネフェル山はその中でも特に人気が高く、その美しい山容から、写真の被写体としても人気があります。秋には山麓に黄金色のアスペン林が広がり、雪をいただいた山頂との美しいコントラストが訪れる人々を魅了します。",
       "en-IN": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
       "it-IT": "Il monte Sneffels si alza sulle San Juan Mountains, vicino a Ridgway, in Colorado (Stati Uniti), e supera i 4.300 metri di quota. Fa parte del club dei cosiddetti «quattordicimila», le cime che oltrepassano i 14.000 piedi (4270 metri), e in ottobre regala uno degli spettacoli più cercati dell'ovest americano: i versanti si riempiono di pioppi tremuli dorati proprio quando la neve inizia a fermarsi sulle vette.",
-      "zh-CN": "有些山会让你付出一番努力才能欣赏到美景，而攀登斯奈费尔斯山，最考验人的则是最后几百英尺。它高耸于科罗拉多州的圣胡安山脉，海拔14,150英尺，是一座“十四峰”，在里奇韦、乌雷和特柳赖德一带十分醒目。它坐落在占地16,587英亩的斯奈费尔斯山荒野区内，这片保护区于1980年获指定。徒步者可以从多条路线登山，包括经扬基博伊盆地和蓝湖群地区的路线。"
+      "zh-CN": "有些山会让你付出一番努力才能欣赏到美景，而攀登斯奈费尔斯山，最考验人的则是最后几百英尺。它高耸于科罗拉多州的圣胡安山脉，海拔14,150英尺，是一座“十四峰”，在里奇韦、乌雷和特柳赖德一带十分醒目。它坐落在占地16,587英亩的斯奈费尔斯山荒野区内，这片保护区于1980年获指定。徒步者可以从多条路线登山，包括经扬基博伊盆地和蓝湖群地区的路线。",
+      "en-CA": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred metres. Rising to 4,310 metres in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 67-square-kilometre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area."
     },
     "quickFacts": {
       "zh-CN": "根据美国联邦荒野管理规定，斯奈费尔斯山荒野区通常禁止机动车辆和机械运输工具进入。"
@@ -1519,86 +1655,46 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Taking the plunge, one lesson at a time. World Teachers' Day",
-      "en-GB": "Taking the plunge, one lesson at a time. World Teachers' Day",
       "en-CA": "Taking the plunge, one lesson at a time. World Teachers' Day",
+      "pt-BR": "Mergulho valendo nota",
+      "en-GB": "Taking the plunge, one lesson at a time. World Teachers' Day",
       "de-DE": "Lehren der Natur. Tag des Lehrers",
       "fr-FR": "Plonger dans sa leçon. Journée mondiale des enseignant(e)s",
       "it-IT": "Un tuffo, una lezione",
       "es-ES": "Al agua, lección a lección. Día Mundial de los Docentes",
-      "pt-BR": "Mergulho valendo nota",
       "ja-JP": "海へ飛び込もうとするペンギンたち",
       "zh-CN": "纵身一跃，一次一课",
       "en-IN": "Slide into adventure. Adélie penguins, Antarctica"
     },
     "copyrights": {
       "en-US": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
-      "en-GB": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
       "en-CA": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "pt-BR": "Pinguins-de-adélia, Antártica (© Otto Plantema/Minden Pictures)",
+      "en-GB": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
       "de-DE": "Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)",
       "fr-FR": "Manchots Adélie, Antarctique (© Otto Plantema/Minden Pictures)",
       "it-IT": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
       "es-ES": "Pingüinos de Adelia, Antártida (© Otto Plantema/Minden Pictures)",
-      "pt-BR": "Pinguins-de-adélia, Antártica (© Otto Plantema/Minden Pictures)",
       "ja-JP": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
       "zh-CN": "南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)",
       "en-IN": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)"
     },
     "descs": {
       "en-US": "What can a 28-inch-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience, and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "en-GB": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
       "en-CA": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "en-GB": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
       "de-DE": "Am 5. Oktober rückt der Tag der Lehrer die Bedeutung von Wissen, Zusammenarbeit und gegenseitiger Unterstützung in den Mittelpunkt. Auch in der Natur finden sich spannende Beispiele dafür, wie Gemeinschaft zum Erfolg beitragen kann. Adeliepinguine leben in großen Kolonien an den Küsten der Antarktis und meistern ihren Alltag in einer Umgebung, die zu den lebensfeindlichsten der Erde zählt. Dabei profitieren sie von ihrem Zusammenhalt und ihrer Fähigkeit, sich an extreme Bedingungen anzupassen.",
       "fr-FR": "À l'occasion de la Journée mondiale des enseignant(e)s, c'est un drôle de professeur qui prend la parole : le manchot Adélie, haut d'à peine 70 centimètres, debout sur la glace antarctique. Son nom rend hommage à Adèle Dumont d'Urville, épouse de l'explorateur français qui croisa ces oiseaux pour la première fois en 1840.",
       "es-ES": "¿Qué puede enseñarnos un pingüino de Adelia, un ave de apenas setenta centímetros? Bastante. En el Día Mundial de los Docentes, esta especie de las costas de la Antártida ofrece una lección de ingenio, resistencia y algo de picaresca. Debe su nombre a Adèle, esposa del explorador francés Jules Dumont d'Urville, que dio con la especie durante una expedición en 1840.",
@@ -1622,137 +1718,25 @@
     },
     "captions": {
       "en-US": "World Teachers' Day",
-      "en-GB": "World Teachers' Day",
       "en-CA": "World Teachers' Day",
-      "de-DE": "Tag des Lehrers",
-      "fr-FR": "Journée mondiale des enseignant(e)s",
-      "it-IT": "",
-      "es-ES": "Día Mundial de los Docentes",
-      "pt-BR": "",
-      "ja-JP": "海へ飛び込もうとするペンギンたち",
-      "zh-CN": "",
-      "en-IN": "Adélie penguins, Antarctica"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0700%22",
-      "en-GB": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2300%22",
-      "en-CA": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Tag+des+Lehrers&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+degli+insegnanti&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+los+Docentes&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=dia+mundial+dos+professores&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%87%e3%83%aa%e3%83%bc%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261004_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%95%99%e5%b8%88%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Adelie+penguins&form=hpcapt&filters=HpDate%3a%2220261004_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
-      "en-GB": "/th?id=OHR.AdelieTeacher_EN-GB2790518533",
-      "en-CA": "/th?id=OHR.AdelieTeacher_EN-CA9613439676",
-      "de-DE": "/th?id=OHR.AdelieTeacher_DE-DE4553591722",
-      "fr-FR": "/th?id=OHR.AdelieTeacher_FR-FR4489383327",
-      "it-IT": "/th?id=OHR.AdelieTeacher_IT-IT0908380283",
-      "es-ES": "/th?id=OHR.AdelieTeacher_ES-ES0045236370",
-      "pt-BR": "/th?id=OHR.AdelieTeacher_PT-BR7440299182",
-      "ja-JP": "/th?id=OHR.AdelieTeacher_JA-JP9090254921",
-      "zh-CN": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679",
-      "en-IN": "/th?id=OHR.AdelieTeacher_EN-IN7367199250"
-    }
-  },
-  "ArtemisRocket": {
-    "name": "ArtemisRocket",
-    "urlbase": "/th?id=OHR.ArtemisRocket_EN-US5256990037",
-    "date": "20261004",
-    "dateFormatted": "October 04, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "The universe is calling. World Space Week begins",
-      "en-CA": "The universe is calling. World Space Week begins",
-      "fr-FR": "L'univers nous appelle. Semaine mondiale de l’espace",
-      "pt-BR": "Partiu, universo!",
-      "en-GB": "The universe is calling. World Space Week begins",
-      "de-DE": "Der Ruf des Universums. Weltraumwoche",
-      "it-IT": "L'universo ci chiama",
-      "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
-      "ja-JP": "今日から世界宇宙週間",
-      "zh-CN": "宇宙在召唤",
-      "en-IN": "The universe is calling. World Space Week begins"
-    },
-    "copyrights": {
-      "en-US": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-CA": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "fr-FR": "Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
-      "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)"
-    },
-    "descs": {
-      "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "fr-FR": "D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
-      "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
-      "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
-      "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
-      "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
-      "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
-      "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
-    },
-    "quickFacts": {
-      "zh-CN": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
-    },
-    "captions": {
-      "en-US": "World Space Week begins",
-      "en-CA": "World Space Week begins",
-      "fr-FR": "Semaine mondiale de l’espace",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0700%22",
-      "en-CA": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=semaine+mondiale+de+l%27espace&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=dia+mundial+dos+professores&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.ArtemisRocket_EN-US5256990037",
-      "en-CA": "/th?id=OHR.ArtemisRocket_EN-CA8945669255",
-      "fr-FR": "/th?id=OHR.ArtemisRocket_FR-FR7987344274",
-      "pt-BR": "/th?id=OHR.ArtemisRocket_PT-BR6940961892"
+      "en-US": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
+      "en-CA": "/th?id=OHR.AdelieTeacher_EN-CA9613439676",
+      "pt-BR": "/th?id=OHR.AdelieTeacher_PT-BR7440299182"
     }
   },
-  "DolbadarnWales": {
-    "name": "DolbadarnWales",
-    "urlbase": "/th?id=OHR.DolbadarnWales_EN-GB4918405829",
-    "date": "20261017",
-    "dateFormatted": "October 17, 2026",
+  "VeniceSunrise": {
+    "name": "VeniceSunrise",
+    "urlbase": "/th?id=OHR.VeniceSunrise_EN-GB5027785704",
+    "date": "20261018",
+    "dateFormatted": "October 18, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1770,6 +1754,11 @@
         "flag": "fr"
       },
       {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
@@ -1783,78 +1772,76 @@
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
-      "en-GB": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
-      "de-DE": "75 und voller Leben. Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
-      "fr-FR": "75 ans et rayonnant. Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
-      "es-ES": "La torre de los príncipes. Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
-      "ja-JP": "丘の上に佇む城跡",
-      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士",
-      "en-IN": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
-      "en-US": "75 and thriving. Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales",
-      "en-CA": "75 and thriving. Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales",
-      "pt-BR": "Onde o tempo perde altitude. Castelo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), País de Gales"
+      "en-GB": "The road that runs on water. Grand Canal in Venice, Italy",
+      "de-DE": "Die Straße, die übers Wasser führt. Canal Grande in Venedig, Italien",
+      "fr-FR": "Des routes qui éclaboussent. Le Grand Canal à Venise, Italie",
+      "it-IT": "L'alba sull'acqua",
+      "es-ES": "Amanecer sobre el agua. Amanecer sobre el Gran Canal, Venecia, Italia",
+      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
+      "zh-CN": "大运河，威尼斯，意大利",
+      "en-US": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-CA": "The road that runs on water. Grand Canal in Venice, Italy",
+      "pt-BR": "Quando a água vira caminho. Grande Canal de Veneza, Itália",
+      "en-IN": "The road that runs on water. Grand Canal in Venice, Italy"
     },
     "copyrights": {
-      "en-GB": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
-      "de-DE": "Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)",
-      "fr-FR": "Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles (© joe daniel price/Getty Images)",
-      "es-ES": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales (© joe daniel price/Getty Images)",
-      "ja-JP": "ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)",
-      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)",
-      "en-IN": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
-      "en-US": "© joe daniel price/Getty Images",
-      "en-CA": "© joe daniel price/Getty Images",
-      "pt-BR": "© joe daniel price/Getty Images"
+      "en-GB": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "de-DE": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
+      "fr-FR": "Le Grand Canal à Venise, Italie (© Juan Romero/Cavan Images)",
+      "it-IT": "Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)",
+      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia (© Juan Romero/Cavan Images)",
+      "ja-JP": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
+      "zh-CN": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)",
+      "en-US": "© Juan Romero/Cavan Images",
+      "en-CA": "© Juan Romero/Cavan Images",
+      "pt-BR": "© Juan Romero/Cavan Images",
+      "en-IN": "© Juan Romero/Cavan Images"
     },
     "descs": {
-      "en-GB": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen. Seit seiner Ausweisung im Jahr 1951 schützt er auf rund 2.130 Quadratkilometern eine außergewöhnlich vielfältige Landschaft. Neun Gebirgszüge, etwa 119 Kilometer Küste, Moore, heimische Wälder und weitläufige Hochlandgebiete prägen die Region. Mit 1.085 Metern ist der Yr Wyddfa der höchste Berg des Parks. Auch die Gipfel der Carneddau und Glyderau sowie der Cadair Idris im Süden gehören zu dieser eindrucksvollen Bergwelt. Zahlreiche geschützte Gebiete bieten zudem wertvolle Lebensräume für Tiere und Pflanzen.",
-      "fr-FR": "Si les parcs tenaient un journal d’anniversaire, celui d’Eryri (Snowdonia) aurait 75 ans d’histoire à raconter. Désigné parc national en 1951, ce territoire gallois s’étend sur environ 2 130 km² : neuf chaînes de montagnes, près de 119 km de côtes, des tourbières, des bois indigènes et de vastes terres d’altitude. À 1 085 mètres d’altitude s’élève Yr Wyddfa, son sommet emblématique, entouré des reliefs des Carneddau et des Glyderau, tandis que Cadair Idris domine le sud. Cette mosaïque d’habitats abrite 17 réserves naturelles nationales et 56 sites d’intérêt scientifique particulier.",
-      "es-ES": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
-      "ja-JP": "エリリ国立公園（旧スノードニア国立公園）は、面積約 2,130km² を誇るウェールズ最大の国立公園です。1951 年の今日、10 月 18 日に国立公園に指定されました。公園内には、ウェールズ最高峰のイール・ウィドファ（旧スノードン山）がそびえるなど、雄大な山岳風景が広がっています。そして画像は、公園内にあるドルバダーン城。13 世紀に築かれたウェールズを代表する城のひとつで、特徴的な円塔が美しい景観の中にたたずんでいます。",
-      "en-IN": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across more than 2,100 square kilometres, with nine mountain ranges, about 120 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "en-US": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline, and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 3,500 feet, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "en-CA": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 2,130 square kilometres, with nine mountain ranges, 119 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,050 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "pt-BR": "Hoje tem parabéns no País de Gales: o Parque Nacional de Eryri completa 75 anos. Eryri é o nome galês oficial; Snowdonia, o antigo nome em inglês. Criado em 1951, o parque não perdeu tempo para impressionar. São mais de 2 mil km² de montanhas, turfeiras, bosques nativos e litoral, reunindo nove cadeias montanhosas e mais de cem quilômetros de costa. No topo da conversa está Yr Wyddfa, com mais de mil metros de altitude. Por perto vêm os maciços de Carneddau e Glyderau; ao sul, Cadair Idris também faz questão de aparecer.",
-      "zh-CN": "如果公园也能写生日手记，威尔士斯诺登尼亚国家公园一定有许多精彩故事可讲。今天是这座公园成立75周年，纪念它于1951年获指定为国家公园。斯诺登尼亚占地823平方英里，拥有九条山脉和74英里海岸线，栖息地类型从泥炭地、原生林地到高地景观不一而足。斯诺登山海拔超过3,500英尺，是斯诺登尼亚的最高点。附近的卡内道山脉和格利德赖山脉群峰耸立，卡代尔伊德里斯山则矗立在南部。这些受保护的景观为野生动物提供了栖息地，其中包括17处国家级自然保护区和56处特殊科学价值地点。"
+      "en-GB": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "de-DE": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
+      "fr-FR": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
+      "es-ES": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
+      "ja-JP": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
+      "en-US": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-CA": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.8-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "it-IT": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
+      "pt-BR": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
+      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。",
+      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon."
     },
     "quickFacts": {
-      "zh-CN": "2015年，斯诺登尼亚被认定为国际暗夜保护区，以表彰其卓越的夜空质量和限制光污染的努力。"
+      "zh-CN": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
     },
     "captions": {
-      "en-GB": "Eryri National Park (Snowdonia) in Wales turns 75",
-      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
-      "fr-FR": "Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
-      "es-ES": "Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
-      "ja-JP": "丘の上に佇む城跡",
-      "zh-CN": "",
-      "en-IN": "Eryri National Park (Snowdonia) in Wales turns 75"
+      "en-GB": "Grand Canal in Venice, Italy",
+      "de-DE": "Canal Grande in Venedig, Italien",
+      "fr-FR": "Le Grand Canal à Venise, Italie",
+      "it-IT": "",
+      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia",
+      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
+      "zh-CN": ""
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Eryri-Nationalpark+Informationen&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=parc+Eryri+Pays+de+Galles&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Castillo+de+Dolbadarn&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%83%aa%e3%83%aa%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261017_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e6%96%af%e8%af%ba%e7%99%bb%e5%b0%bc%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261018_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Canal+Grande&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Grand+Canal+Venise&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Canal+Grande+Venezia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Venecia&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%87&form=hpcapt&filters=HpDate%3a%2220261018_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%a4%a7%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.DolbadarnWales_EN-GB4918405829",
-      "de-DE": "/th?id=OHR.DolbadarnWales_DE-DE0565954250",
-      "fr-FR": "/th?id=OHR.DolbadarnWales_FR-FR3604957648",
-      "es-ES": "/th?id=OHR.DolbadarnWales_ES-ES3329263701",
-      "ja-JP": "/th?id=OHR.DolbadarnWales_JA-JP2361140889",
-      "zh-CN": "/th?id=OHR.DolbadarnWales_ZH-CN3649667806",
-      "en-IN": "/th?id=OHR.DolbadarnWales_EN-IN6584156399"
+      "en-GB": "/th?id=OHR.VeniceSunrise_EN-GB5027785704",
+      "de-DE": "/th?id=OHR.VeniceSunrise_DE-DE1204445748",
+      "fr-FR": "/th?id=OHR.VeniceSunrise_FR-FR4230208455",
+      "it-IT": "/th?id=OHR.VeniceSunrise_IT-IT2943629456",
+      "es-ES": "/th?id=OHR.VeniceSunrise_ES-ES2930999770",
+      "ja-JP": "/th?id=OHR.VeniceSunrise_JA-JP2535499489",
+      "zh-CN": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339"
     }
   },
   "MumblesSwansea2026": {
@@ -1899,7 +1886,7 @@
       "de-DE": "Ein Pier voller Geschichte. Mumbles Pier, Swansea, Wales",
       "fr-FR": "Entre rails et marées. Jetée de Mumbles, Pays de Galles",
       "it-IT": "Un molo sulla baia",
-      "zh-CN": "曼布尔斯码头，斯旺西，威尔士",
+      "zh-CN": "从铁轨到潮汐",
       "en-IN": "Pier-ing into the past. Mumbles Pier, Swansea, Wales"
     },
     "copyrights": {
@@ -1962,19 +1949,22 @@
       "en-CA": "Under a blanket of stars. Jasper Dark Sky Festival is here",
       "de-DE": "Wo Gipfel auf Stille treffen. Maligne Lake, Jasper-Nationalpark, Alberta, Kanada",
       "fr-FR": "Des étoiles plein les yeux. Lac Maligne, Parc national Jasper, Alberta, Canada",
-      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大"
+      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大",
+      "pt-BR": "Um cenário que dispensa moldura. Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá"
     },
     "copyrights": {
       "en-CA": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)",
       "de-DE": "© Andrey Popov/Getty Images",
       "fr-FR": "© Andrey Popov/Getty Images",
-      "zh-CN": "© Andrey Popov/Getty Images"
+      "zh-CN": "© Andrey Popov/Getty Images",
+      "pt-BR": "© Andrey Popov/Getty Images"
     },
     "descs": {
       "en-CA": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it.",
       "de-DE": "Türkisfarbenes Wasser, schroffe Berggipfel und dichte Wälder prägen das Bild des Maligne Lake im Jasper-Nationalpark. Der von Gletschern gespeiste See erstreckt sich über rund 22 Kilometer durch die kanadischen Rocky Mountains. Sein Wasser bleibt selbst an warmen Sommertagen ausgesprochen kalt. Wanderwege eröffnen unterschiedliche Perspektiven auf die umliegende Bergwelt, während sich vom Kanu aus die lange, weitgehend unberührte Uferlandschaft entdecken lässt.",
       "fr-FR": "Quand la nuit enveloppe le parc national de Jasper, en Alberta (Canada), les montagnes changent de décor. Désigné réserve de ciel étoilé en 2011, ce territoire de plus de 11 000 km² limite la pollution lumineuse afin de préserver l’obscurité. Étoiles, planètes et Voie lactée composent alors un spectacle saisissant au-dessus des sommets. Puis l’aube se lève et ramène doucement le regard vers la terre.",
-      "zh-CN": "夜幕降临加拿大艾伯塔省的贾斯珀国家公园时，群山便有了全新的背景。该公园于2011年被指定为暗夜天空保护区，面积超过11,000平方千米，并采取了减少光污染的措施。在这里，繁星、行星和银河系联袂上演天幕奇观，让游客不由得仰望天空。晨光到来后，视线又从头顶的天空转向脚下的景致。"
+      "zh-CN": "夜幕降临加拿大艾伯塔省的贾斯珀国家公园时，群山便有了全新的背景。该公园于2011年被指定为暗夜天空保护区，面积超过11,000平方千米，并采取了减少光污染的措施。在这里，繁星、行星和银河系联袂上演天幕奇观，让游客不由得仰望天空。晨光到来后，视线又从头顶的天空转向脚下的景致。",
+      "pt-BR": "O Parque Nacional de Jasper, em Alberta, Canadá, trabalha em turnos: de dia, grandes mamíferos dominam as montanhas; à noite, o céu entra em cena. Reconhecido como Reserva de Céu Escuro em 2011, o parque ocupa mais de 11 mil km² e adota medidas para reduzir a poluição luminosa. Com pouca interferência das luzes artificiais, estrelas, planetas e a Via Láctea ganham condições privilegiadas para aparecer."
     },
     "quickFacts": {
       "zh-CN": "据加拿大公园管理局介绍，精灵岛距玛琳湖北岸14公里，只能乘船抵达。"
@@ -2182,6 +2172,70 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584"
+    }
+  },
+  "ArtemisRocket": {
+    "name": "ArtemisRocket",
+    "urlbase": "/th?id=OHR.ArtemisRocket_FR-FR7987344274",
+    "date": "20261009",
+    "dateFormatted": "October 09, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "L'univers nous appelle. Semaine mondiale de l’espace",
+      "en-US": "The universe is calling. World Space Week begins",
+      "en-CA": "The universe is calling. World Space Week begins",
+      "pt-BR": "Partiu, universo!",
+      "en-GB": "The universe is calling. World Space Week begins",
+      "de-DE": "Der Ruf des Universums. Weltraumwoche",
+      "it-IT": "L'universo ci chiama",
+      "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
+      "ja-JP": "今日から世界宇宙週間",
+      "zh-CN": "宇宙在召唤",
+      "en-IN": "The universe is calling. World Space Week begins"
+    },
+    "copyrights": {
+      "fr-FR": "Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-US": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-CA": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
+      "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
+      "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
+      "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
+      "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
+      "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
+      "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
+      "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
+    },
+    "quickFacts": {
+      "zh-CN": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
+    },
+    "captions": {
+      "fr-FR": "Semaine mondiale de l’espace"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=semaine+mondiale+de+l%27espace&form=hpcapt&filters=HpDate%3a%2220261009_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.ArtemisRocket_FR-FR7987344274"
     }
   },
   "ValdiFunesDolomite": {
@@ -2536,6 +2590,40 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.Chestnut2026_JA-JP0900389061"
+    }
+  },
+  "MahaNavami2026": {
+    "name": "MahaNavami2026",
+    "urlbase": "/th?id=OHR.MahaNavami2026_EN-IN6653933239",
+    "date": "20261018",
+    "dateFormatted": "October 18, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "When Shakti rises. Maha Navami"
+    },
+    "copyrights": {
+      "en-IN": "Goddess Durga idol in a pandal (© shouvik mondal/iStock/Getty Images)"
+    },
+    "descs": {
+      "en-IN": "Nine days of devotion, nine forms of Durga and one powerful finale—Maha Navami brings Navratri to its most intense stretch. Observed on the ninth day, it celebrates Goddess Durga's victory over the buffalo demon Mahishasura, earning her the name Mahishasuramardini, or slayer of Mahishasura. The day is also dedicated to Maa Siddhidatri, the ninth form of Navadurga, who is associated with spiritual powers and blessings."
+    },
+    "quickFacts": {
+      "en-IN": "A 41.5-metre-tall Durga Puja pandal, modelled on Vrindavan's Chandrodaya Temple, earned a Guinness World Records title as the tallest pandal ever built."
+    },
+    "captions": {
+      "en-IN": "Maha Navami"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Maha+Navami&form=hpcapt&filters=HpDate%3a%2220261018_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
     }
   },
   "NuitBToro": {
