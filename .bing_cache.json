@@ -1,4 +1,140 @@
 {
+  "VeniceSunrise": {
+    "name": "VeniceSunrise",
+    "urlbase": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
+    "date": "20261019",
+    "dateFormatted": "October 19, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      }
+    ],
+    "titles": {
+      "en-US": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-GB": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-CA": "The road that runs on water. Grand Canal in Venice, Italy",
+      "de-DE": "Die Straße, die übers Wasser führt. Canal Grande in Venedig, Italien",
+      "fr-FR": "Des routes qui éclaboussent. Le Grand Canal à Venise, Italie",
+      "it-IT": "L'alba sull'acqua",
+      "es-ES": "Amanecer sobre el agua. Amanecer sobre el Gran Canal, Venecia, Italia",
+      "pt-BR": "Quando a água vira caminho",
+      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
+      "zh-CN": "大运河，威尼斯，意大利",
+      "en-IN": "The road that runs on water. Grand Canal in Venice, Italy"
+    },
+    "copyrights": {
+      "en-US": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "en-GB": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "en-CA": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "de-DE": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
+      "fr-FR": "Le Grand Canal à Venise, Italie (© Juan Romero/Cavan Images)",
+      "it-IT": "Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)",
+      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia (© Juan Romero/Cavan Images)",
+      "pt-BR": "Grande Canal de Veneza, Itália (© Juan Romero/Cavan Images)",
+      "ja-JP": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
+      "zh-CN": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)",
+      "en-IN": "© Juan Romero/Cavan Images"
+    },
+    "descs": {
+      "en-US": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-GB": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-CA": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.8-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "de-DE": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
+      "fr-FR": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
+      "es-ES": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
+      "ja-JP": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
+      "it-IT": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
+      "pt-BR": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
+      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。",
+      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon."
+    },
+    "quickFacts": {
+      "zh-CN": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
+    },
+    "captions": {
+      "en-US": "Grand Canal in Venice, Italy",
+      "en-GB": "Grand Canal in Venice, Italy",
+      "en-CA": "Grand Canal in Venice, Italy",
+      "de-DE": "Canal Grande in Venedig, Italien",
+      "fr-FR": "Le Grand Canal à Venise, Italie",
+      "it-IT": "",
+      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia",
+      "pt-BR": "",
+      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
+      "zh-CN": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261018_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Canal+Grande&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Grand+Canal+Venise&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Canal+Grande+Venezia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Venecia&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Grande+Canal+de+Veneza&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%87&form=hpcapt&filters=HpDate%3a%2220261018_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%a4%a7%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
+      "en-GB": "/th?id=OHR.VeniceSunrise_EN-GB5027785704",
+      "en-CA": "/th?id=OHR.VeniceSunrise_EN-CA8133659672",
+      "de-DE": "/th?id=OHR.VeniceSunrise_DE-DE1204445748",
+      "fr-FR": "/th?id=OHR.VeniceSunrise_FR-FR4230208455",
+      "it-IT": "/th?id=OHR.VeniceSunrise_IT-IT2943629456",
+      "es-ES": "/th?id=OHR.VeniceSunrise_ES-ES2930999770",
+      "pt-BR": "/th?id=OHR.VeniceSunrise_PT-BR8365610239",
+      "ja-JP": "/th?id=OHR.VeniceSunrise_JA-JP2535499489",
+      "zh-CN": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339"
+    }
+  },
   "DolbadarnWales": {
     "name": "DolbadarnWales",
     "urlbase": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
@@ -724,7 +860,7 @@
       "es-ES": "Sinfonía en azul y verde. Parque Nacional de los Lagos de Plitvice, Croacia",
       "pt-BR": "A sinfonia das cachoeiras",
       "ja-JP": "紅葉に彩られた湖と滝",
-      "zh-CN": "普利特维采湖群国家公园，克罗地亚",
+      "zh-CN": "蓝与绿的交响曲",
       "en-IN": "A symphony in blue and green. Plitvice Lakes National Park, Croatia"
     },
     "copyrights": {
@@ -1511,14 +1647,84 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Earth's story in stripes. International Geodiversity Day",
+      "en-CA": "Earth's story in stripes. International Geodiversity Day",
+      "pt-BR": "Geologia em cores",
+      "en-GB": "Earth's story in stripes. International Geodiversity Day",
+      "de-DE": "Erdgeschichte in bunten Streifen. Zhangye-Danxia-Geopark, Gansu, China",
+      "fr-FR": "La mémoire de la Terre. Journée internationale de la géodiversité",
+      "it-IT": "La Terra a strisce",
+      "es-ES": "La Tierra contada a rayas. Día Internacional de la Geodiversidad",
+      "ja-JP": "今日は国際ジオダイバーシティデー",
+      "zh-CN": "条纹中的地球故事",
+      "en-IN": "Earth's story in stripes. International Geodiversity Day"
+    },
+    "copyrights": {
+      "en-US": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "en-CA": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "pt-BR": "Formações de Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
+      "en-GB": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+      "fr-FR": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
+      "it-IT": "Rilievi Danxia, Geoparco nazionale di Zhangye, Gansu, Cina (© Weiquan Lin/Getty Images)",
+      "es-ES": "Relieve Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
+      "ja-JP": "張掖国家地質公園, 中国 (© Weiquan Lin/Getty Images)",
+      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)",
+      "en-IN": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)"
+    },
+    "descs": {
+      "en-US": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown, and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later uplifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies, and peaks.",
+      "en-CA": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "en-GB": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "de-DE": "Im Zhangye-Danxia-Geopark in der chinesischen Provinz Gansu wirken die Hügel und Felsformationen, als wären sie mit Farbe bemalt. Über Millionen von Jahren lagerten sich unterschiedliche Sedimente ab, die durch geologische Prozesse angehoben und freigelegt wurden. So entstanden die auffälligen Schichten in Rot, Orange, Gelb und weiteren Farbtönen, die heute zu den bekanntesten Naturwundern Chinas zählen. Je nach Lichteinfall verändern sich die Farben und verleihen der Landschaft immer wieder ein anderes Erscheinungsbild.",
+      "fr-FR": "Et si une chaîne de montagnes pouvait vous raconter son histoire à travers ses couleurs ? Au parc géologique national de Zhangye, dans la province du Gansu en Chine, c'est exactement ce que font les roches. Des crêtes ondulent à perte de vue, striées de rouge, d'orange, d'ocre et de brun — une palette que nul artiste n'aurait osé inventer.",
+      "es-ES": "En el Geoparque Nacional de Zhangye, en Gansu (China), las montañas cuentan su historia geológica a rayas: las lomas se suceden en bandas rojas, naranjas, amarillas y ocres. Es el relieve Danxia, formado por capas sedimentarias que los movimientos tectónicos levantaron y plegaron, y que la erosión terminó de esculpir en crestas, barrancos y farallones.",
+      "ja-JP": "今日 10 月 6 日は国際ジオダイバーシティデー。鉱物や岩石、土壌など、非生物の自然の多様性について理解を深めることを目的にユネスコ総会が制定しました。そして、今日の画像は中国甘粛省の張掖国家地質公園に広がる丹霞地形です。色鮮やかな地層が重なり、虹のような独特の景観をつくり出しています。こうした色彩には、岩石に含まれる鉄などの鉱物が関係しています。さらに、長い年月にわたる地殻変動や風雨による侵食が加わることで、現在の壮大な地形が形成されました。公園は、地球の歴史と多様な地形の価値が認められ、2020 年にユネスコ世界ジオパークに認定されました。",
+      "en-IN": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+      "it-IT": "Nel Geoparco nazionale di Zhangye, nel Gansu (Cina), le montagne raccontano la propria storia geologica a strisce: le colline si susseguono in bande rosse, arancioni, gialle e ocra. È il rilievo Danxia, formato da strati sedimentari che i movimenti tettonici hanno sollevato e piegato e che l'erosione ha poi scolpito in creste, calanchi e pareti.",
+      "pt-BR": "Como ler a história de uma montanha sem abrir um livro? Na China, basta olhar para o chão. No Geoparque Nacional de Zhangye, na região de Gansu, enormes faixas de vermelho, laranja, amarelo e marrom atravessam o relevo como páginas empilhadas de uma história que leva milhões de anos para ser escrita. Movimentos tectônicos elevaram e dobraram camadas de rochas sedimentares acumuladas, enquanto chuva, vento e outros processos de intemperismo e erosão esculpiram cristas, paredões, ravinas e picos.",
+      "zh-CN": "如果一座山能用一道道条纹向你展示它的地质历史，会是什么样？在中国的张掖国家地质公园，岩石正是如此。红色、橙色、黄色、棕色以及其他大地色调的条带在山脊间绵延起伏。这种壮丽景观被称为丹霞地貌，由地质年代中沉积形成的多层沉积岩塑造而成。后来，构造力使岩石抬升并发生褶皱，而风化和侵蚀则将它们雕琢成山脊、峭壁、沟壑和山峰。"
+    },
+    "quickFacts": {
+      "zh-CN": "张掖地质公园拥有577处文化遗址，展现当地历史及包括裕固族在内的多个族群文化。"
+    },
+    "captions": {
+      "en-US": "International Geodiversity Day",
+      "en-CA": "International Geodiversity Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0700%22",
+      "en-CA": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Geodiversidade&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DanxiaLandform_EN-US5459628079",
+      "en-CA": "/th?id=OHR.DanxiaLandform_EN-CA0294271100",
+      "pt-BR": "/th?id=OHR.DanxiaLandform_PT-BR7632834539"
+    }
+  },
+  "BrownSloth": {
+    "name": "BrownSloth",
+    "urlbase": "/th?id=OHR.BrownSloth_EN-GB5100181368",
+    "date": "20261019",
+    "dateFormatted": "October 19, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1539,11 +1745,6 @@
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
       },
       {
         "code": "ja-JP",
@@ -1562,286 +1763,76 @@
       }
     ],
     "titles": {
-      "en-US": "Earth's story in stripes. International Geodiversity Day",
-      "en-GB": "Earth's story in stripes. International Geodiversity Day",
-      "en-CA": "Earth's story in stripes. International Geodiversity Day",
-      "de-DE": "Erdgeschichte in bunten Streifen. Zhangye-Danxia-Geopark, Gansu, China",
-      "fr-FR": "La mémoire de la Terre. Journée internationale de la géodiversité",
-      "it-IT": "La Terra a strisce",
-      "es-ES": "La Tierra contada a rayas. Día Internacional de la Geodiversidad",
-      "pt-BR": "Geologia em cores",
-      "ja-JP": "今日は国際ジオダイバーシティデー",
-      "zh-CN": "条纹中的地球故事",
-      "en-IN": "Earth's story in stripes. International Geodiversity Day"
+      "en-GB": "Life in the slow lane. International Sloth Day",
+      "de-DE": "Immer mit der Ruhe. Internationaler Tag des Faultiers",
+      "fr-FR": "La vie au ralenti. Journée internationale du paresseux",
+      "it-IT": "La lentezza come strategia",
+      "es-ES": "La lentitud como estrategia. Día Internacional del Perezoso",
+      "ja-JP": "木の枝にぶら下がるナマケモノ",
+      "zh-CN": "褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加",
+      "en-IN": "Life in the slow lane. International Sloth Day",
+      "en-US": "Life in the slow lane. Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica",
+      "en-CA": "Life in the slow lane. Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica",
+      "pt-BR": "Devagar se vai ao longe. Preguiça-comum em Puerto Viejo de Talamanca, Costa Rica"
     },
     "copyrights": {
-      "en-US": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-      "en-GB": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-      "en-CA": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-      "fr-FR": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
-      "it-IT": "Rilievi Danxia, Geoparco nazionale di Zhangye, Gansu, Cina (© Weiquan Lin/Getty Images)",
-      "es-ES": "Relieve Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
-      "pt-BR": "Formações de Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
-      "ja-JP": "張掖国家地質公園, 中国 (© Weiquan Lin/Getty Images)",
-      "zh-CN": "丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)",
-      "en-IN": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)"
+      "en-GB": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "de-DE": "Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "fr-FR": "Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "it-IT": "Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "es-ES": "Perezoso de tres dedos de garganta marrón joven, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "ja-JP": "木の枝にぶら下がるナマケモノ, コスタリカ (© Suzi Eszterhas/Minden Pictures)",
+      "zh-CN": "褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)",
+      "en-IN": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "en-US": "© Suzi Eszterhas/Minden Pictures",
+      "en-CA": "© Suzi Eszterhas/Minden Pictures",
+      "pt-BR": "© Suzi Eszterhas/Minden Pictures"
     },
     "descs": {
-      "en-US": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown, and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later uplifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies, and peaks.",
-      "en-GB": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
-      "en-CA": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
-      "de-DE": "Im Zhangye-Danxia-Geopark in der chinesischen Provinz Gansu wirken die Hügel und Felsformationen, als wären sie mit Farbe bemalt. Über Millionen von Jahren lagerten sich unterschiedliche Sedimente ab, die durch geologische Prozesse angehoben und freigelegt wurden. So entstanden die auffälligen Schichten in Rot, Orange, Gelb und weiteren Farbtönen, die heute zu den bekanntesten Naturwundern Chinas zählen. Je nach Lichteinfall verändern sich die Farben und verleihen der Landschaft immer wieder ein anderes Erscheinungsbild.",
-      "fr-FR": "Et si une chaîne de montagnes pouvait vous raconter son histoire à travers ses couleurs ? Au parc géologique national de Zhangye, dans la province du Gansu en Chine, c'est exactement ce que font les roches. Des crêtes ondulent à perte de vue, striées de rouge, d'orange, d'ocre et de brun — une palette que nul artiste n'aurait osé inventer.",
-      "es-ES": "En el Geoparque Nacional de Zhangye, en Gansu (China), las montañas cuentan su historia geológica a rayas: las lomas se suceden en bandas rojas, naranjas, amarillas y ocres. Es el relieve Danxia, formado por capas sedimentarias que los movimientos tectónicos levantaron y plegaron, y que la erosión terminó de esculpir en crestas, barrancos y farallones.",
-      "ja-JP": "今日 10 月 6 日は国際ジオダイバーシティデー。鉱物や岩石、土壌など、非生物の自然の多様性について理解を深めることを目的にユネスコ総会が制定しました。そして、今日の画像は中国甘粛省の張掖国家地質公園に広がる丹霞地形です。色鮮やかな地層が重なり、虹のような独特の景観をつくり出しています。こうした色彩には、岩石に含まれる鉄などの鉱物が関係しています。さらに、長い年月にわたる地殻変動や風雨による侵食が加わることで、現在の壮大な地形が形成されました。公園は、地球の歴史と多様な地形の価値が認められ、2020 年にユネスコ世界ジオパークに認定されました。",
-      "en-IN": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
-      "it-IT": "Nel Geoparco nazionale di Zhangye, nel Gansu (Cina), le montagne raccontano la propria storia geologica a strisce: le colline si susseguono in bande rosse, arancioni, gialle e ocra. È il rilievo Danxia, formato da strati sedimentari che i movimenti tettonici hanno sollevato e piegato e che l'erosione ha poi scolpito in creste, calanchi e pareti.",
-      "pt-BR": "Como ler a história de uma montanha sem abrir um livro? Na China, basta olhar para o chão. No Geoparque Nacional de Zhangye, na região de Gansu, enormes faixas de vermelho, laranja, amarelo e marrom atravessam o relevo como páginas empilhadas de uma história que leva milhões de anos para ser escrita. Movimentos tectônicos elevaram e dobraram camadas de rochas sedimentares acumuladas, enquanto chuva, vento e outros processos de intemperismo e erosão esculpiram cristas, paredões, ravinas e picos.",
-      "zh-CN": "如果一座山能用一道道条纹向你展示它的地质历史，会是什么样？在中国的张掖国家地质公园，岩石正是如此。红色、橙色、黄色、棕色以及其他大地色调的条带在山脊间绵延起伏。这种壮丽景观被称为丹霞地貌，由地质年代中沉积形成的多层沉积岩塑造而成。后来，构造力使岩石抬升并发生褶皱，而风化和侵蚀则将它们雕琢成山脊、峭壁、沟壑和山峰。"
+      "en-GB": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+      "de-DE": "Am 20. Oktober ist Internationaler Tag des Faultiers. Das Braunkehl-Faultier aus den tropischen Wäldern Mittel- und Südamerikas zeigt eindrucksvoll, dass ein langsames Leben durchaus Vorteile haben kann. Auch rund um Puerto Viejo de Talamanca in Costa Rica findet es in den Baumkronen einen passenden Lebensraum.",
+      "fr-FR": "Lentement mais sûrement… Le paresseux à gorge brune semble bien avoir renoncé à toute idée de course. À l’occasion de la Journée internationale du paresseux, ce mammifère à trois doigts nous souffle une autre façon d’avancer : économiser son énergie, s’accrocher et savourer le temps.",
+      "es-ES": "Este perezoso de tres dedos, fotografiado en Puerto Viejo de Talamanca (Costa Rica), no es un animal perezoso: es un animal eficiente. Su dieta se basa en hojas, un alimento pobre en energía y difícil de digerir, así que ha resuelto el problema por el otro extremo, gastando lo mínimo. Se mueve despacio, duerme mucho y digiere durante días.",
+      "ja-JP": "今日の画像は、ゆったりとした動作が特徴のナマケモノ。中南米の森林に生息し、生活のほとんどを樹上で過ごします。地上での動きはとても遅いものの、実は泳ぐのが得意という特徴があり、地上よりも数倍速く動くことが可能です。また、毛に藻が生えることがあるものの、その緑色が天敵から身を隠す保護色の役割を果たします。さらに、その毛には「ナマケモノガ」と呼ばれる蛾の仲間など、さまざまな生物も暮らしており、独自の「微小生態系」が形成されています。",
+      "en-IN": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+      "en-US": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on, and take your time.",
+      "en-CA": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+      "it-IT": "Questo bradipo tridattilo, fotografato a Puerto Viejo de Talamanca (Costa Rica), non è un animale pigro: è un animale efficiente. La sua dieta si basa sulle foglie, un alimento povero di energia e difficile da digerire, così ha risolto il problema dall'altro capo, spendendo il minimo indispensabile. Si muove piano, dorme molto e digerisce per giorni.",
+      "pt-BR": "Quem disse que a vida precisa ser corrida? Segundo a preguiça, o segredo é se pendurar, economizar energia e deixar a pressa para os outros. No Dia Internacional da Preguiça, em 20 de outubro, vale conhecer a engenharia por trás desse estilo de vida deliberadamente lento.",
+      "zh-CN": "稳扎稳打才能赢得比赛——而褐喉三趾树懒似乎很乐意彻底放弃比赛。在国际树懒日，这种三趾哺乳动物为生存之道带来了另一番启示：保存能量，牢牢抓住，慢慢来。"
     },
     "quickFacts": {
-      "zh-CN": "张掖地质公园拥有577处文化遗址，展现当地历史及包括裕固族在内的多个族群文化。"
+      "zh-CN": "褐喉三趾树懒每天可能睡15至18小时，通常只在夜间短暂活动。"
     },
     "captions": {
-      "en-US": "International Geodiversity Day",
-      "en-GB": "International Geodiversity Day",
-      "en-CA": "International Geodiversity Day",
-      "de-DE": "Zhangye-Danxia-Geopark, Gansu, China",
-      "fr-FR": "Journée internationale de la géodiversité",
+      "en-GB": "International Sloth Day",
+      "de-DE": "Internationaler Tag des Faultiers",
+      "fr-FR": "Journée internationale du paresseux",
       "it-IT": "",
-      "es-ES": "Día Internacional de la Geodiversidad",
-      "pt-BR": "",
-      "ja-JP": "今日は国際ジオダイバーシティデー",
+      "es-ES": "Día Internacional del Perezoso",
+      "ja-JP": "木の枝にぶら下がるナマケモノ",
       "zh-CN": "",
-      "en-IN": "International Geodiversity Day"
+      "en-IN": "International Sloth Day"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0700%22",
-      "en-GB": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_2300%22",
-      "en-CA": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Zhangye-Danxia-Geopark&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=journ%c3%a9e+internationale+de+la+g%c3%a9odiversit%c3%a9&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+internazionale+della+geodiversit%c3%a0&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Internacional+de+la+Geodiversidad&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Geodiversidade&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%b8%e3%82%aa%e3%83%80%e3%82%a4%e3%83%90%e3%83%bc%e3%82%b7%e3%83%86%e3%82%a3%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220261005_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e5%9c%b0%e8%b4%a8%e5%a4%9a%e6%a0%b7%e6%80%a7%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_1830%22"
+      "en-GB": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261019_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Faultiers&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+paresseux&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
+      "it-IT": "https://www.bing.com/search?q=bradipo+tridattilo&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Perezoso+de+tres+dedos&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e4%bb%8a%e6%97%a5%e3%81%af%e5%9b%bd%e9%9a%9b%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%a2%e3%83%8e%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261019_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%a0%91%e6%87%92%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261019_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.DanxiaLandform_EN-US5459628079",
-      "en-GB": "/th?id=OHR.DanxiaLandform_EN-GB2873051697",
-      "en-CA": "/th?id=OHR.DanxiaLandform_EN-CA0294271100",
-      "de-DE": "/th?id=OHR.DanxiaLandform_DE-DE4675912635",
-      "fr-FR": "/th?id=OHR.DanxiaLandform_FR-FR1547265147",
-      "it-IT": "/th?id=OHR.DanxiaLandform_IT-IT8922583550",
-      "es-ES": "/th?id=OHR.DanxiaLandform_ES-ES4557489111",
-      "pt-BR": "/th?id=OHR.DanxiaLandform_PT-BR7632834539",
-      "ja-JP": "/th?id=OHR.DanxiaLandform_JA-JP9811731742",
-      "zh-CN": "/th?id=OHR.DanxiaLandform_ZH-CN2386060246",
-      "en-IN": "/th?id=OHR.DanxiaLandform_EN-IN7469232165"
-    }
-  },
-  "AdelieTeacher": {
-    "name": "AdelieTeacher",
-    "urlbase": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
-    "date": "20261005",
-    "dateFormatted": "October 05, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Taking the plunge, one lesson at a time. World Teachers' Day",
-      "en-CA": "Taking the plunge, one lesson at a time. World Teachers' Day",
-      "pt-BR": "Mergulho valendo nota",
-      "en-GB": "Taking the plunge, one lesson at a time. World Teachers' Day",
-      "de-DE": "Lehren der Natur. Tag des Lehrers",
-      "fr-FR": "Plonger dans sa leçon. Journée mondiale des enseignant(e)s",
-      "it-IT": "Un tuffo, una lezione",
-      "es-ES": "Al agua, lección a lección. Día Mundial de los Docentes",
-      "ja-JP": "海へ飛び込もうとするペンギンたち",
-      "zh-CN": "纵身一跃，一次一课",
-      "en-IN": "Slide into adventure. Adélie penguins, Antarctica"
-    },
-    "copyrights": {
-      "en-US": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
-      "en-CA": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
-      "pt-BR": "Pinguins-de-adélia, Antártica (© Otto Plantema/Minden Pictures)",
-      "en-GB": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
-      "de-DE": "Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)",
-      "fr-FR": "Manchots Adélie, Antarctique (© Otto Plantema/Minden Pictures)",
-      "it-IT": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
-      "es-ES": "Pingüinos de Adelia, Antártida (© Otto Plantema/Minden Pictures)",
-      "ja-JP": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
-      "zh-CN": "南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)",
-      "en-IN": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)"
-    },
-    "descs": {
-      "en-US": "What can a 28-inch-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience, and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "en-CA": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "en-GB": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "de-DE": "Am 5. Oktober rückt der Tag der Lehrer die Bedeutung von Wissen, Zusammenarbeit und gegenseitiger Unterstützung in den Mittelpunkt. Auch in der Natur finden sich spannende Beispiele dafür, wie Gemeinschaft zum Erfolg beitragen kann. Adeliepinguine leben in großen Kolonien an den Küsten der Antarktis und meistern ihren Alltag in einer Umgebung, die zu den lebensfeindlichsten der Erde zählt. Dabei profitieren sie von ihrem Zusammenhalt und ihrer Fähigkeit, sich an extreme Bedingungen anzupassen.",
-      "fr-FR": "À l'occasion de la Journée mondiale des enseignant(e)s, c'est un drôle de professeur qui prend la parole : le manchot Adélie, haut d'à peine 70 centimètres, debout sur la glace antarctique. Son nom rend hommage à Adèle Dumont d'Urville, épouse de l'explorateur français qui croisa ces oiseaux pour la première fois en 1840.",
-      "es-ES": "¿Qué puede enseñarnos un pingüino de Adelia, un ave de apenas setenta centímetros? Bastante. En el Día Mundial de los Docentes, esta especie de las costas de la Antártida ofrece una lección de ingenio, resistencia y algo de picaresca. Debe su nombre a Adèle, esposa del explorador francés Jules Dumont d'Urville, que dio con la especie durante una expedición en 1840.",
-      "ja-JP": "今日の画像は、南極大陸周辺に生息するアデリーペンギンのグループ。アデリーペンギンは、体長 60 ～ 70cm、体重約 5kg という中型のペンギンです。海中を時速約 14kmで泳ぎ回りながら、餌を捕まえたり、捕食者から逃れたりします。地上の雪原を移動する際は、他のペンギン同様腹ばいになって氷上を滑って移動することがあります。この移動方法は「トボガン」と呼ばれており、北米の先住民が用いていたソリを意味する言葉にちなんで名づけられました。",
-      "en-IN": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. The Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
-      "it-IT": "Che cosa può insegnarci un pinguino di Adelia, un uccello di appena settanta centimetri? Parecchio. Nella Giornata mondiale degli insegnanti, questa specie delle coste antartiche offre una lezione di ingegno, resistenza e un pizzico di furbizia. Deve il suo nome ad Adèle, moglie dell'esploratore francese Jules Dumont d'Urville, che la scoprì durante la spedizione del 1840.",
-      "pt-BR": "O que um pássaro de uns 70 centímetros ensina sobre a vida? Mais do que parece. Ele não usa livros e não passa lição de casa, mas, no Dia Mundial dos Professores, o pinguim-de-adélia ensina que criatividade, persistência e adaptação fazem toda a diferença. Seu nome homenageia Adèle, esposa do explorador francês que liderou a expedição que encontrou a espécie em 1840.",
-      "zh-CN": "一只身高28英寸的鸟能教给我们哪些人生道理？非常多。在世界教师日这一天，阿德利企鹅带来了一份充满足智多谋、坚韧不拔和些许顽皮的课程计划。这一物种分布于南极海岸，以法国探险家儒勒·迪蒙·迪维尔的妻子阿黛尔之名命名；在1840年的一次远征中，人们发现了这些企鹅。"
-    },
-    "quickFacts": {
-      "en-US": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
-      "en-GB": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
-      "en-CA": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
-      "de-DE": "Adeliepinguine haben keine Zähne, sondern scharfe, nach hinten gerichtete Papillen auf Zunge und Gaumen, die ihnen helfen, ihre Beute festzuhalten.",
-      "fr-FR": "Les manchots Adélie n'ont pas de dents, mais possèdent à la place des petites pointes acérées et recourbées vers l'arrière, appelées papilles, sur leur langue et le palais.",
-      "it-IT": "I pinguini di Adelia non hanno denti: su lingua e palato presentano spine affilate rivolte verso l'interno, chiamate papille.",
-      "es-ES": "Los pingüinos de Adelia no tienen dientes: en la lengua y el paladar presentan púas afiladas orientadas hacia atrás, llamadas papilas.",
-      "ja-JP": "ペンギンには歯がありません。",
-      "zh-CN": "阿德利企鹅没有牙齿，但它们的舌头和上腭长有被称为乳突的尖锐倒刺。",
-      "en-IN": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths."
-    },
-    "captions": {
-      "en-US": "World Teachers' Day",
-      "en-CA": "World Teachers' Day",
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0700%22",
-      "en-CA": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=dia+mundial+dos+professores&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
-      "en-CA": "/th?id=OHR.AdelieTeacher_EN-CA9613439676",
-      "pt-BR": "/th?id=OHR.AdelieTeacher_PT-BR7440299182"
-    }
-  },
-  "VeniceSunrise": {
-    "name": "VeniceSunrise",
-    "urlbase": "/th?id=OHR.VeniceSunrise_EN-GB5027785704",
-    "date": "20261018",
-    "dateFormatted": "October 18, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      }
-    ],
-    "titles": {
-      "en-GB": "The road that runs on water. Grand Canal in Venice, Italy",
-      "de-DE": "Die Straße, die übers Wasser führt. Canal Grande in Venedig, Italien",
-      "fr-FR": "Des routes qui éclaboussent. Le Grand Canal à Venise, Italie",
-      "it-IT": "L'alba sull'acqua",
-      "es-ES": "Amanecer sobre el agua. Amanecer sobre el Gran Canal, Venecia, Italia",
-      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
-      "zh-CN": "大运河，威尼斯，意大利",
-      "en-US": "The road that runs on water. Grand Canal in Venice, Italy",
-      "en-CA": "The road that runs on water. Grand Canal in Venice, Italy",
-      "pt-BR": "Quando a água vira caminho. Grande Canal de Veneza, Itália",
-      "en-IN": "The road that runs on water. Grand Canal in Venice, Italy"
-    },
-    "copyrights": {
-      "en-GB": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
-      "de-DE": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
-      "fr-FR": "Le Grand Canal à Venise, Italie (© Juan Romero/Cavan Images)",
-      "it-IT": "Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)",
-      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia (© Juan Romero/Cavan Images)",
-      "ja-JP": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
-      "zh-CN": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)",
-      "en-US": "© Juan Romero/Cavan Images",
-      "en-CA": "© Juan Romero/Cavan Images",
-      "pt-BR": "© Juan Romero/Cavan Images",
-      "en-IN": "© Juan Romero/Cavan Images"
-    },
-    "descs": {
-      "en-GB": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "de-DE": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
-      "fr-FR": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
-      "es-ES": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
-      "ja-JP": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
-      "en-US": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "en-CA": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.8-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "it-IT": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
-      "pt-BR": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
-      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。",
-      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon."
-    },
-    "quickFacts": {
-      "zh-CN": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
-    },
-    "captions": {
-      "en-GB": "Grand Canal in Venice, Italy",
-      "de-DE": "Canal Grande in Venedig, Italien",
-      "fr-FR": "Le Grand Canal à Venise, Italie",
-      "it-IT": "",
-      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia",
-      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
-      "zh-CN": ""
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261018_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Canal+Grande&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Grand+Canal+Venise&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Canal+Grande+Venezia&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Venecia&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%87&form=hpcapt&filters=HpDate%3a%2220261018_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%a4%a7%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.VeniceSunrise_EN-GB5027785704",
-      "de-DE": "/th?id=OHR.VeniceSunrise_DE-DE1204445748",
-      "fr-FR": "/th?id=OHR.VeniceSunrise_FR-FR4230208455",
-      "it-IT": "/th?id=OHR.VeniceSunrise_IT-IT2943629456",
-      "es-ES": "/th?id=OHR.VeniceSunrise_ES-ES2930999770",
-      "ja-JP": "/th?id=OHR.VeniceSunrise_JA-JP2535499489",
-      "zh-CN": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339"
+      "en-GB": "/th?id=OHR.BrownSloth_EN-GB5100181368",
+      "de-DE": "/th?id=OHR.BrownSloth_DE-DE1394372620",
+      "fr-FR": "/th?id=OHR.BrownSloth_FR-FR7781895704",
+      "it-IT": "/th?id=OHR.BrownSloth_IT-IT3225849910",
+      "es-ES": "/th?id=OHR.BrownSloth_ES-ES6810824751",
+      "ja-JP": "/th?id=OHR.BrownSloth_JA-JP2697515435",
+      "zh-CN": "/th?id=OHR.BrownSloth_ZH-CN5776383136",
+      "en-IN": "/th?id=OHR.BrownSloth_EN-IN7427775510"
     }
   },
   "MumblesSwansea2026": {
@@ -2624,6 +2615,95 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "AdelieTeacher": {
+    "name": "AdelieTeacher",
+    "urlbase": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
+    "date": "20261005",
+    "dateFormatted": "October 05, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Taking the plunge, one lesson at a time. World Teachers' Day",
+      "en-CA": "Taking the plunge, one lesson at a time. World Teachers' Day",
+      "pt-BR": "Mergulho valendo nota",
+      "en-GB": "Taking the plunge, one lesson at a time. World Teachers' Day",
+      "de-DE": "Lehren der Natur. Tag des Lehrers",
+      "fr-FR": "Plonger dans sa leçon. Journée mondiale des enseignant(e)s",
+      "it-IT": "Un tuffo, una lezione",
+      "es-ES": "Al agua, lección a lección. Día Mundial de los Docentes",
+      "ja-JP": "海へ飛び込もうとするペンギンたち",
+      "zh-CN": "纵身一跃，一次一课",
+      "en-IN": "Slide into adventure. Adélie penguins, Antarctica"
+    },
+    "copyrights": {
+      "en-US": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "en-CA": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "pt-BR": "Pinguins-de-adélia, Antártica (© Otto Plantema/Minden Pictures)",
+      "en-GB": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+      "de-DE": "Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)",
+      "fr-FR": "Manchots Adélie, Antarctique (© Otto Plantema/Minden Pictures)",
+      "it-IT": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
+      "es-ES": "Pingüinos de Adelia, Antártida (© Otto Plantema/Minden Pictures)",
+      "ja-JP": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
+      "zh-CN": "南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)",
+      "en-IN": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "What can a 28-inch-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience, and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "en-CA": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "en-GB": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "de-DE": "Am 5. Oktober rückt der Tag der Lehrer die Bedeutung von Wissen, Zusammenarbeit und gegenseitiger Unterstützung in den Mittelpunkt. Auch in der Natur finden sich spannende Beispiele dafür, wie Gemeinschaft zum Erfolg beitragen kann. Adeliepinguine leben in großen Kolonien an den Küsten der Antarktis und meistern ihren Alltag in einer Umgebung, die zu den lebensfeindlichsten der Erde zählt. Dabei profitieren sie von ihrem Zusammenhalt und ihrer Fähigkeit, sich an extreme Bedingungen anzupassen.",
+      "fr-FR": "À l'occasion de la Journée mondiale des enseignant(e)s, c'est un drôle de professeur qui prend la parole : le manchot Adélie, haut d'à peine 70 centimètres, debout sur la glace antarctique. Son nom rend hommage à Adèle Dumont d'Urville, épouse de l'explorateur français qui croisa ces oiseaux pour la première fois en 1840.",
+      "es-ES": "¿Qué puede enseñarnos un pingüino de Adelia, un ave de apenas setenta centímetros? Bastante. En el Día Mundial de los Docentes, esta especie de las costas de la Antártida ofrece una lección de ingenio, resistencia y algo de picaresca. Debe su nombre a Adèle, esposa del explorador francés Jules Dumont d'Urville, que dio con la especie durante una expedición en 1840.",
+      "ja-JP": "今日の画像は、南極大陸周辺に生息するアデリーペンギンのグループ。アデリーペンギンは、体長 60 ～ 70cm、体重約 5kg という中型のペンギンです。海中を時速約 14kmで泳ぎ回りながら、餌を捕まえたり、捕食者から逃れたりします。地上の雪原を移動する際は、他のペンギン同様腹ばいになって氷上を滑って移動することがあります。この移動方法は「トボガン」と呼ばれており、北米の先住民が用いていたソリを意味する言葉にちなんで名づけられました。",
+      "en-IN": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. The Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+      "it-IT": "Che cosa può insegnarci un pinguino di Adelia, un uccello di appena settanta centimetri? Parecchio. Nella Giornata mondiale degli insegnanti, questa specie delle coste antartiche offre una lezione di ingegno, resistenza e un pizzico di furbizia. Deve il suo nome ad Adèle, moglie dell'esploratore francese Jules Dumont d'Urville, che la scoprì durante la spedizione del 1840.",
+      "pt-BR": "O que um pássaro de uns 70 centímetros ensina sobre a vida? Mais do que parece. Ele não usa livros e não passa lição de casa, mas, no Dia Mundial dos Professores, o pinguim-de-adélia ensina que criatividade, persistência e adaptação fazem toda a diferença. Seu nome homenageia Adèle, esposa do explorador francês que liderou a expedição que encontrou a espécie em 1840.",
+      "zh-CN": "一只身高28英寸的鸟能教给我们哪些人生道理？非常多。在世界教师日这一天，阿德利企鹅带来了一份充满足智多谋、坚韧不拔和些许顽皮的课程计划。这一物种分布于南极海岸，以法国探险家儒勒·迪蒙·迪维尔的妻子阿黛尔之名命名；在1840年的一次远征中，人们发现了这些企鹅。"
+    },
+    "quickFacts": {
+      "en-US": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "en-GB": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "en-CA": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+      "de-DE": "Adeliepinguine haben keine Zähne, sondern scharfe, nach hinten gerichtete Papillen auf Zunge und Gaumen, die ihnen helfen, ihre Beute festzuhalten.",
+      "fr-FR": "Les manchots Adélie n'ont pas de dents, mais possèdent à la place des petites pointes acérées et recourbées vers l'arrière, appelées papilles, sur leur langue et le palais.",
+      "it-IT": "I pinguini di Adelia non hanno denti: su lingua e palato presentano spine affilate rivolte verso l'interno, chiamate papille.",
+      "es-ES": "Los pingüinos de Adelia no tienen dientes: en la lengua y el paladar presentan púas afiladas orientadas hacia atrás, llamadas papilas.",
+      "ja-JP": "ペンギンには歯がありません。",
+      "zh-CN": "阿德利企鹅没有牙齿，但它们的舌头和上腭长有被称为乳突的尖锐倒刺。",
+      "en-IN": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths."
+    },
+    "captions": {
+      "en-US": "World Teachers' Day",
+      "en-CA": "World Teachers' Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=dia+mundial+dos+professores&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
+      "en-CA": "/th?id=OHR.AdelieTeacher_EN-CA9613439676",
+      "pt-BR": "/th?id=OHR.AdelieTeacher_PT-BR7440299182"
     }
   },
   "NuitBToro": {
