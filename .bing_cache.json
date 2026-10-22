@@ -1,4 +1,148 @@
 {
+  "VietnamBridge": {
+    "name": "VietnamBridge",
+    "urlbase": "/th?id=OHR.VietnamBridge_EN-US6907946681",
+    "date": "20261021",
+    "dateFormatted": "October 21, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
+      "en-GB": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
+      "en-CA": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
+      "de-DE": "Über den Fluss fliegen. Nguyen-Hoang-Brücke, Huế, Vietnam",
+      "fr-FR": "Vol au-dessus de la rivière. Pont Nguyen Hoang, Hué, Vietnam",
+      "it-IT": "Un ponte appena nato",
+      "es-ES": "Un puente recién estrenado. Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam",
+      "pt-BR": "O voo que virou ponte",
+      "ja-JP": "ライトアップされたアーチ橋",
+      "zh-CN": "香江上的阮潢桥，顺化，越南",
+      "en-IN": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam"
+    },
+    "copyrights": {
+      "en-US": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+      "en-GB": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+      "en-CA": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+      "de-DE": "Nguyen-Hoang-Brücke über den Parfümfluss, Huế, Vietnam (© VU PHAM VAN/Getty Images)",
+      "fr-FR": "Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images)",
+      "it-IT": "Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+      "es-ES": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+      "pt-BR": "Ponte Nguyen Hoang sobre o Rio Perfume, Hue, Vietnã (© VU PHAM VAN/Getty Images)",
+      "ja-JP": "グエン・ホアン橋, ベトナム (© VU PHAM VAN/Getty Images)",
+      "zh-CN": "香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)",
+      "en-IN": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
+      "en-GB": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on 26 March 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
+      "en-CA": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
+      "de-DE": "Die Nguyen-Hoang-Brücke schafft im Stadtbild von Huế, Vietnam, eine moderne Verbindung zwischen Vergangenheit und Gegenwart. Seit dem 26. März 2025 führt sie über den Parfümfluss und verbindet zeitgemäße Ingenieurskunst mit der Geschichte der ehemaligen Kaiserstadt. Ihr Entwurf trägt den Namen „Der Kranich mit Blick auf Thien Mu“ und ist von einer lokalen Legende sowie der nahe gelegenen Thien-Mu-Pagode inspiriert. Die Stahlbögen erinnern an die ausgebreiteten Flügel eines Kranichs, während die V-förmigen Pfeiler friedlich am Fluss versammelte Vögel darstellen.",
+      "fr-FR": "À Hué, au Vietnam, passé et avenir se rejoignent au-dessus de la rivière des Parfums. Ouvert à la circulation le 26 mars 2025, le pont Nguyen Hoang redessine l’horizon de la ville. Son concept, « La grue tournée vers Thien Mu », s’inspire d’une légende locale et de la célèbre pagode voisine.",
+      "es-ES": "El puente Nguyễn Hoàng cruza el río de los Perfumes en Hue (Vietnam), y es una incorporación muy reciente al paisaje: se abrió al tráfico en marzo de 2025. Mide 380 metros de largo y más de 40 de ancho, y su diseño es obra del finlandés Antti Karjalainen, especialista en puentes.",
+      "ja-JP": "今日の画像は、ベトナム・フエ市の香水川に架かるグエン・ホアン橋。全長約 380m の近代的なアーチ橋で、フー・スアン区とトゥアン・ホア区を結んでいます。2025 年 3 月 26 日に開通したもので、自動車用の車線と歩道が整備されています。地域の重要な交通インフラであり、フエの文化を取り入れたデザインが特徴です。橋の照明は王宮の天蓋をイメージしてデザインされており、伝統と現代建築が調和した美しい景観を演出しています。",
+      "en-IN": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on 26 March 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
+      "it-IT": "Il ponte Nguyễn Hoàng attraversa il fiume dei Profumi a Hue, in Vietnam, ed è un'aggiunta molto recente al paesaggio: è stato aperto al traffico nel marzo del 2025. Misura 380 metri di lunghezza e 43 di larghezza, e il suo progetto è uscito da un concorso internazionale vinto da un architetto finlandese.",
+      "pt-BR": "Em Hue, no Vietnã, esta ponte faz mais do que ligar margens. Ela transforma uma lenda em paisagem. Em 1601, o governante Nguyen Hoang ouviu a história de uma mulher misteriosa que teria aparecido às margens do rio Perfume anunciando que um grande líder construiria ali um templo budista. Ele levou o recado a sério e mandou erguer o Pagode Thien Mu, que ainda hoje domina a paisagem.",
+      "zh-CN": "阮潢桥弥合了新旧之间的距离，为顺化的天际线增添了一道崭新的纽带。这座横跨越南香江的现代钢拱地标于2025年3月26日通车。其设计名为“鹤望天姥”，灵感源自当地传说和附近的天姥寺。"
+    },
+    "quickFacts": {
+      "zh-CN": "阮黄桥长约380米、宽43米，设有六条机动车道和两条人行步道。"
+    },
+    "captions": {
+      "en-US": "Nguyen Hoang Bridge, Hue, Vietnam",
+      "en-GB": "Nguyen Hoang Bridge, Hue, Vietnam",
+      "en-CA": "Nguyen Hoang Bridge, Hue, Vietnam",
+      "de-DE": "Nguyen-Hoang-Brücke, Huế, Vietnam",
+      "fr-FR": "Pont Nguyen Hoang, Hué, Vietnam",
+      "it-IT": "",
+      "es-ES": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam",
+      "pt-BR": "",
+      "ja-JP": "ライトアップされたアーチ橋",
+      "zh-CN": "",
+      "en-IN": "Nguyen Hoang Bridge, Hue, Vietnam"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261021_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261021_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Hu%e1%ba%bf&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Hu%c3%a9+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
+      "it-IT": "https://www.bing.com/search?q=fiume+dei+Profumi+Hue&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Hue%2c+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=hue+no+vietna&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b0%e3%82%a8%e3%83%b3%e3%83%bb%e3%83%9b%e3%82%a2%e3%83%b3%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220261020_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%b6%8a%e5%8d%97%e9%a1%ba%e5%8c%96%e5%b8%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.VietnamBridge_EN-US6907946681",
+      "en-GB": "/th?id=OHR.VietnamBridge_EN-GB5180652549",
+      "en-CA": "/th?id=OHR.VietnamBridge_EN-CA8865714729",
+      "de-DE": "/th?id=OHR.VietnamBridge_DE-DE1735618070",
+      "fr-FR": "/th?id=OHR.VietnamBridge_FR-FR7991423921",
+      "it-IT": "/th?id=OHR.VietnamBridge_IT-IT3479546401",
+      "es-ES": "/th?id=OHR.VietnamBridge_ES-ES2577546493",
+      "pt-BR": "/th?id=OHR.VietnamBridge_PT-BR8870725479",
+      "ja-JP": "/th?id=OHR.VietnamBridge_JA-JP2833280767",
+      "zh-CN": "/th?id=OHR.VietnamBridge_ZH-CN6134321119",
+      "en-IN": "/th?id=OHR.VietnamBridge_EN-IN7535392593"
+    }
+  },
   "BrownSloth": {
     "name": "BrownSloth",
     "urlbase": "/th?id=OHR.BrownSloth_EN-US6816754257",
@@ -727,7 +871,7 @@
       "es-ES": "Puentes, tejados y crepúsculo. Puente de las Brujas y plaza del Mercado, Breslavia, Polonia",
       "pt-BR": "O brilho de Wrocław",
       "ja-JP": "黄金色に輝く旧市街",
-      "zh-CN": "弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰",
+      "zh-CN": "桥梁、屋顶与暮色",
       "en-IN": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland"
     },
     "copyrights": {
@@ -1514,79 +1658,44 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Now you 'sea' me... World Octopus Day",
-      "en-GB": "Now you 'sea' me... World Octopus Day",
       "en-CA": "Now you 'sea' me... World Octopus Day",
+      "pt-BR": "Oito braços, zero paciência",
+      "en-GB": "Now you 'sea' me... World Octopus Day",
       "de-DE": "Meister der Tarnung. Welttag der Kraken",
       "fr-FR": "Poulpe fiction. Journée internationale du poulpe",
       "it-IT": "Ora mi vedi, ora no",
       "es-ES": "Ahora me ves, ahora no. Día Mundial del Pulpo",
-      "pt-BR": "Oito braços, zero paciência",
       "zh-CN": "现在你“海”能看见我……",
       "en-IN": "Now you 'sea' me... World Octopus Day"
     },
     "copyrights": {
       "en-US": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
-      "en-GB": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
       "en-CA": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
+      "pt-BR": "Polvo em postura defensiva, Mayotte, Oceano Índico (© Gabriel Barathieu/Minden Pictures)",
+      "en-GB": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
       "de-DE": "Krake in Abwehrhaltung, Mayotte, Indischer Ozean (© Gabriel Barathieu/Minden Pictures)",
       "fr-FR": "Poulpe en position défensive, Mayotte, océan Indien (© Gabriel Barathieu/Minden Pictures)",
       "it-IT": "Polpo in posizione difensiva, Mayotte, Francia, Oceano Indiano (© Gabriel Barathieu/Minden Pictures)",
       "es-ES": "Pulpo en postura defensiva, Mayotte, Francia, océano Índico (© Gabriel Barathieu/Minden Pictures)",
-      "pt-BR": "Polvo em postura defensiva, Mayotte, Oceano Índico (© Gabriel Barathieu/Minden Pictures)",
       "zh-CN": "印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)",
       "en-IN": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)"
     },
     "descs": {
       "en-US": "Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
-      "en-GB": "Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
       "en-CA": "Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
+      "en-GB": "Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
       "de-DE": "Am 8. Oktober wird der Welttag der Kraken gefeiert. Der Aktionstag lenkt die Aufmerksamkeit auf eine faszinierende Tiergruppe, die für ihre Intelligenz, ihre Anpassungsfähigkeit und ihre erstaunlichen Überlebensstrategien bekannt ist. Kraken leben in nahezu allen Ozeanen der Erde und begeistern Forschende ebenso wie Naturfreunde mit ihrem komplexen Verhalten.",
       "fr-FR": "Au large de Mayotte, archipel français de l'océan Indien, ce poulpe a adopté une posture sans équivoque : ce qui s'approche ferait mieux de rebrousser chemin.",
       "es-ES": "Frente a las costas de Mayotte (Francia), en el océano Índico, este pulpo ha adoptado una postura defensiva que viene a decir: quien se acerque, que se lo piense mejor. Es una advertencia con estilo, porque en lugar de coraza confía en la transformación.",
@@ -1600,126 +1709,25 @@
     },
     "captions": {
       "en-US": "World Octopus Day",
-      "en-GB": "World Octopus Day",
       "en-CA": "World Octopus Day",
-      "de-DE": "Welttag der Kraken",
-      "fr-FR": "Journée internationale du poulpe",
-      "it-IT": "",
-      "es-ES": "Día Mundial del Pulpo",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "World Octopus Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261008_0700%22",
-      "en-GB": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261007_2300%22",
-      "en-CA": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261008_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Welttag+der+Kraken&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+poulpe&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+del+polpo&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+del+Pulpo&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Polvo&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e7%ab%a0%e9%b1%bc%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261007_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.MayotteOctopus_EN-US5694987016",
-      "en-GB": "/th?id=OHR.MayotteOctopus_EN-GB3076987688",
-      "en-CA": "/th?id=OHR.MayotteOctopus_EN-CA1051460797",
-      "de-DE": "/th?id=OHR.MayotteOctopus_DE-DE5307771405",
-      "fr-FR": "/th?id=OHR.MayotteOctopus_FR-FR2063163267",
-      "it-IT": "/th?id=OHR.MayotteOctopus_IT-IT1227542362",
-      "es-ES": "/th?id=OHR.MayotteOctopus_ES-ES3892391318",
-      "pt-BR": "/th?id=OHR.MayotteOctopus_PT-BR8613458745",
-      "zh-CN": "/th?id=OHR.MayotteOctopus_ZH-CN2837659998",
-      "en-IN": "/th?id=OHR.MayotteOctopus_EN-IN7698524475"
-    }
-  },
-  "ForestofDean": {
-    "name": "ForestofDean",
-    "urlbase": "/th?id=OHR.ForestofDean_EN-US7262962048",
-    "date": "20261007",
-    "dateFormatted": "October 07, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "en-CA": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "pt-BR": "Um labirinto de musgo",
-      "en-GB": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "de-DE": "Wie im Märchen. Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "fr-FR": "La forêt aux mille secrets. Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
-      "it-IT": "Perso? Segui il sentiero",
-      "es-ES": "¿Perdido? Sigue el sendero. Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
-      "ja-JP": "苔むした森",
-      "zh-CN": "迷惑不解？沿着小径走",
-      "en-IN": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England"
-    },
-    "copyrights": {
-      "en-US": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-      "en-CA": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-      "pt-BR": "Rochas cobertas de musgo em Puzzlewood, Floresta de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
-      "en-GB": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-      "de-DE": "Moosbedeckte Felsen im Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-      "fr-FR": "Roches couvertes de mousse à Puzzlewood, forêt de Dean, Gloucestershire, Angleterre (© Fulcanelli_AOS/Getty Images)",
-      "it-IT": "Rocce coperte di muschio a Puzzlewood, Foresta di Dean, Gloucestershire, Inghilterra (© Fulcanelli_AOS/Getty Images)",
-      "es-ES": "Rocas cubiertas de musgo en Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
-      "ja-JP": "パズルウッド, イングランド (© Fulcanelli_AOS/Getty Images)",
-      "zh-CN": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)",
-      "en-IN": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)"
-    },
-    "descs": {
-      "en-US": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks, and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-      "en-CA": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-      "en-GB": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-      "de-DE": "Mitten im Forest of Dean bei Coleford in Gloucestershire, England, wirkt Puzzlewood wie eine Welt aus einem Märchen. Verschlungene Pfade führen zwischen knorrigen Bäumen, moosbedeckten Felsen und tiefen Schluchten hindurch. Ungewöhnlich sind die sogenannten Scowles, geologische Formationen im Kalkstein, die durch natürliche Prozesse entstanden und später für den Abbau von Eisenerz genutzt wurden, bereits in der Eisenzeit und bis in die Römerzeit. Für Spannung sorgt ein Fund aus dem Jahr 1848. Damals entdeckten Arbeiter in einem Felshohlraum drei Tongefäße mit mehr als 3000 römischen Münzen.",
-      "fr-FR": "À Puzzlewood, près de Coleford dans la forêt de Dean en Angleterre, les sentiers ne mènent nulle part — et c'est précisément leur charme. Sous une épaisse couverture de mousse, des roches tourmentées surgissent du sol, creusées de ravins et de cavités mystérieuses que les Romains exploitaient déjà pour leur minerai de fer, il y a plus de deux mille ans.",
-      "es-ES": "En Puzzlewood, junto a Coleford, en el Bosque de Dean (Inglaterra), los senderos serpentean entre árboles retorcidos, rocas tapizadas de musgo y gargantas de piedra que hacen dudar en cada curva. Esas formaciones tan raras se llaman scowles: cavidades naturales que quedaron al descubierto con el tiempo y que después se explotaron para extraer hierro, ya en época romana o incluso antes. En 1848, un trabajador encontró más de 3.000 monedas romanas escondidas en vasijas dentro de una grieta.",
-      "ja-JP": "ここはパズルウッド。イングランドのグロスターシャー州にある「ディーンの森」に広がる古代森林地帯です。苔むした岩や「スカウル」と呼ばれる独特の地形で知られています。不規則で迷路状な窪みが特徴のスカウルは、数百万年にわたり、石灰岩にできた地下洞窟が隆起や浸食によって地表に現れることで形成されました。その後、鉄器時代からローマ時代にかけて、鉄鉱石の採掘に利用されたと考えられています。森の中には、約 1.6km の小道が張り巡らされ、奇岩や洞窟、古木が織りなす幻想的な景観が広がります。その神秘的な雰囲気から、「スター・ウォーズ／フォースの覚醒」をはじめ、さまざまな映画のロケ地としても使用されています。",
-      "en-IN": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-      "it-IT": "A Puzzlewood, vicino a Coleford, nella Foresta di Dean (Inghilterra), i sentieri serpeggiano tra alberi contorti, rocce tappezzate di muschio e gole di pietra che fanno perdere l'orientamento a ogni curva. Quelle formazioni così strane si chiamano scowles: cavità naturali affiorate col tempo e poi sfruttate per estrarre ferro, già in epoca romana o forse prima. Nel 1848 un operaio trovò oltre 3.000 monete romane nascoste in alcuni vasi dentro una fenditura.",
-      "pt-BR": "Árvores retorcidas, ravinas de pedra, rochas cobertas de musgo e antigas moedas romanas escondidas. Parece cenário de fantasia, mas Puzzlewood existe de verdade. Na Floresta de Dean, Inglaterra, suas trilhas serpenteiam por um terreno marcado por formações geológicas naturais que incluem cavidades e paredões rochosos. Expostas e transformadas por processos naturais ao longo do tempo, essas formações também foram exploradas em busca de minério de ferro durante o período romano e, possivelmente, antes dele.",
-      "zh-CN": "如果一片森林能让你每转一个弯都捉摸不透，会是什么样？英国格洛斯特郡谜林位于英格兰迪恩森林的科尔福德附近，蜿蜒的小径穿过扭曲的树木、覆满苔藓的岩石和幽深的石质沟壑。这里不同寻常的岩层被称为“斯科尔斯”，是一种天然地质特征，随着时间推移逐渐裸露并发生改变，后来在罗马时期、甚至可能在更早以前被人们开采铁矿石。1848年，一名工人在一个岩洞内的陶罐中发现了3,000多枚罗马时代的钱币，使这片林地变成了一场现实中的寻宝之旅。"
-    },
-    "quickFacts": {
-      "zh-CN": "英国格洛斯特郡谜林位于迪恩森林，是极为罕见的内陆温带雨林生态系统残片。"
-    },
-    "captions": {
-      "en-US": "Puzzlewood, Forest of Dean, Gloucestershire, England",
-      "en-CA": "Puzzlewood, Forest of Dean, Gloucestershire, England",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261007_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261007_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Puzzlewood+na+Inglaterra&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261008_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261008_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Polvo&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.ForestofDean_EN-US7262962048",
-      "en-CA": "/th?id=OHR.ForestofDean_EN-CA1146340293",
-      "pt-BR": "/th?id=OHR.ForestofDean_PT-BR7892976998"
+      "en-US": "/th?id=OHR.MayotteOctopus_EN-US5694987016",
+      "en-CA": "/th?id=OHR.MayotteOctopus_EN-CA1051460797",
+      "pt-BR": "/th?id=OHR.MayotteOctopus_PT-BR8613458745"
     }
   },
-  "VietnamBridge": {
-    "name": "VietnamBridge",
-    "urlbase": "/th?id=OHR.VietnamBridge_EN-GB5180652549",
-    "date": "20261020",
-    "dateFormatted": "October 20, 2026",
+  "NaejangsanNP": {
+    "name": "NaejangsanNP",
+    "urlbase": "/th?id=OHR.NaejangsanNP_EN-GB5252582759",
+    "date": "20261021",
+    "dateFormatted": "October 21, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1740,11 +1748,6 @@
         "code": "it-IT",
         "name": "IT",
         "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
       },
       {
         "code": "ja-JP",
@@ -1763,76 +1766,70 @@
       }
     ],
     "titles": {
-      "en-GB": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
-      "de-DE": "Über den Fluss fliegen. Nguyen-Hoang-Brücke, Huế, Vietnam",
-      "fr-FR": "Vol au-dessus de la rivière. Pont Nguyen Hoang, Hué, Vietnam",
-      "it-IT": "Un ponte appena nato",
-      "es-ES": "Un puente recién estrenado. Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam",
-      "ja-JP": "ライトアップされたアーチ橋",
-      "zh-CN": "香江上的阮潢桥，顺化，越南",
-      "en-IN": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
-      "en-US": "Winging it over the river. Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam",
-      "en-CA": "Winging it over the river. Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam",
-      "pt-BR": "O voo que virou ponte. Ponte Nguyen Hoang sobre o Rio Perfume, Hue, Vietnã"
+      "en-GB": "Still waters, vivid colours. Autumn in Naejangsan National Park, South Korea",
+      "de-DE": "Stille Wasser, leuchtende Farben. Herbst im Naejangsan-Nationalpark, Südkorea",
+      "fr-FR": "Eaux paisibles, teintes flamboyantes. Parc national de Naejangsan, Corée du Sud",
+      "it-IT": "I colori di Naejangsan",
+      "ja-JP": "紅葉に彩られた東屋",
+      "zh-CN": "内藏山国立公园的秋景，韩国",
+      "en-IN": "Still waters, vivid colours. Autumn in Naejangsan National Park, South Korea",
+      "en-US": "Still waters, vivid colors. Autumn in Naejangsan National Park, South Korea",
+      "en-CA": "Still waters, vivid colours. Fall in Naejangsan National Park, South Korea",
+      "pt-BR": "A Coreia pintada de outono. Outono no Parque Nacional Naejangsan, Coreia do Sul"
     },
     "copyrights": {
-      "en-GB": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
-      "de-DE": "Nguyen-Hoang-Brücke über den Parfümfluss, Huế, Vietnam (© VU PHAM VAN/Getty Images)",
-      "fr-FR": "Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images)",
-      "it-IT": "Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
-      "es-ES": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
-      "ja-JP": "グエン・ホアン橋, ベトナム (© VU PHAM VAN/Getty Images)",
-      "zh-CN": "香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)",
-      "en-IN": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
-      "en-US": "© VU PHAM VAN/Getty Images",
-      "en-CA": "© VU PHAM VAN/Getty Images",
-      "pt-BR": "© VU PHAM VAN/Getty Images"
+      "en-GB": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
+      "de-DE": "Herbst im Naejangsan-Nationalpark, Südkorea (© Twenty47studio/Getty Images)",
+      "fr-FR": "Le parc national de Naejangsan en automne, Corée du Sud (© Twenty47studio/Getty Images)",
+      "it-IT": "Autunno nel Parco nazionale di Naejangsan, Corea del Sud (© Twenty47studio/Getty Images)",
+      "ja-JP": "内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images)",
+      "zh-CN": "内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)",
+      "en-IN": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
+      "en-US": "© Twenty47studio/Getty Images",
+      "en-CA": "© Twenty47studio/Getty Images",
+      "pt-BR": "© Twenty47studio/Getty Images"
     },
     "descs": {
-      "en-GB": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on 26 March 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
-      "de-DE": "Die Nguyen-Hoang-Brücke schafft im Stadtbild von Huế, Vietnam, eine moderne Verbindung zwischen Vergangenheit und Gegenwart. Seit dem 26. März 2025 führt sie über den Parfümfluss und verbindet zeitgemäße Ingenieurskunst mit der Geschichte der ehemaligen Kaiserstadt. Ihr Entwurf trägt den Namen „Der Kranich mit Blick auf Thien Mu“ und ist von einer lokalen Legende sowie der nahe gelegenen Thien-Mu-Pagode inspiriert. Die Stahlbögen erinnern an die ausgebreiteten Flügel eines Kranichs, während die V-förmigen Pfeiler friedlich am Fluss versammelte Vögel darstellen.",
-      "fr-FR": "À Hué, au Vietnam, passé et avenir se rejoignent au-dessus de la rivière des Parfums. Ouvert à la circulation le 26 mars 2025, le pont Nguyen Hoang redessine l’horizon de la ville. Son concept, « La grue tournée vers Thien Mu », s’inspire d’une légende locale et de la célèbre pagode voisine.",
-      "es-ES": "El puente Nguyễn Hoàng cruza el río de los Perfumes en Hue (Vietnam), y es una incorporación muy reciente al paisaje: se abrió al tráfico en marzo de 2025. Mide 380 metros de largo y más de 40 de ancho, y su diseño es obra del finlandés Antti Karjalainen, especialista en puentes.",
-      "ja-JP": "今日の画像は、ベトナム・フエ市の香水川に架かるグエン・ホアン橋。全長約 380m の近代的なアーチ橋で、フー・スアン区とトゥアン・ホア区を結んでいます。2025 年 3 月 26 日に開通したもので、自動車用の車線と歩道が整備されています。地域の重要な交通インフラであり、フエの文化を取り入れたデザインが特徴です。橋の照明は王宮の天蓋をイメージしてデザインされており、伝統と現代建築が調和した美しい景観を演出しています。",
-      "en-IN": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on 26 March 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
-      "en-US": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
-      "en-CA": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
-      "it-IT": "Il ponte Nguyễn Hoàng attraversa il fiume dei Profumi a Hue, in Vietnam, ed è un'aggiunta molto recente al paesaggio: è stato aperto al traffico nel marzo del 2025. Misura 380 metri di lunghezza e 43 di larghezza, e il suo progetto è uscito da un concorso internazionale vinto da un architetto finlandese.",
-      "pt-BR": "Em Hue, no Vietnã, esta ponte faz mais do que ligar margens. Ela transforma uma lenda em paisagem. Em 1601, o governante Nguyen Hoang ouviu a história de uma mulher misteriosa que teria aparecido às margens do rio Perfume anunciando que um grande líder construiria ali um templo budista. Ele levou o recado a sério e mandou erguer o Pagode Thien Mu, que ainda hoje domina a paisagem.",
-      "zh-CN": "阮潢桥弥合了新旧之间的距离，为顺化的天际线增添了一道崭新的纽带。这座横跨越南香江的现代钢拱地标于2025年3月26日通车。其设计名为“鹤望天姥”，灵感源自当地传说和附近的天姥寺。"
+      "en-GB": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for autumn scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "de-DE": "Ein Herbst wie aus dem Bilderbuch: Im Naejangsan-Nationalpark leuchten die Berghänge in kräftigem Rot, Orange, Gelb und Gold. Der im Südwesten Südkoreas gelegene Park ist vor allem für seine spektakulären Ahornfarben bekannt. Kein Wunder, dass er zu den beliebtesten Reisezielen des Landes zu dieser Jahreszeit zählt. Sein Name bedeutet „viele Geheimnisse in den Bergen“ und passt gut zur abwechslungsreichen Umgebung.",
+      "fr-FR": "Peu d’endroits en Corée du Sud incarnent l’automne avec autant d’éclat que le parc national de Naejangsan. Dans le sud-ouest du pays, ses montagnes se parent de rouge écarlate, d’orange et d’or, portées par des érables flamboyants. Son nom, qui évoque les « nombreux secrets de la montagne », semble inviter à découvrir ses paysages changeants.",
+      "ja-JP": "ここは韓国南西部に位置する内蔵山（ネジャンサン）国立公園です。内蔵山は「内蔵九峰」と呼ばれる 9 つの峰からなり、その最高峰は標高 763m の神仙峰（シンソンボン）です。公園は韓国を代表する紅葉の名所として知られ、秋には山々が鮮やかに色づきます。「内蔵山」という名前には、「山の中に尽きることのない宝が隠されている」という意味が込められています。画像は、公園を象徴する風景のひとつとして親しまれている東屋、羽化亭（ウファジョン）です。",
+      "en-IN": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for autumn scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "en-US": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow, and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colors, making it one of Korea's premier destinations for fall scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "en-CA": "Few places in South Korea capture the magic of fall quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for fall scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "it-IT": "Pochi luoghi della Corea del Sud raccontano l'autunno come il Parco nazionale di Naejangsan, nel sud-ovest del Paese, dove i versanti si accendono di scarlatto, arancione, giallo e oro. Il merito è degli aceri: il parco ne riunisce tredici varietà e il suo fogliame lo ha reso una delle mete autunnali più amate del Paese.",
+      "pt-BR": "Prepare o celular: Naejangsan, na Coreia do Sul, é o tipo de lugar que faz o outono parecer ter contratado uma equipe de cenografia. No sudoeste do país, o Parque Nacional Naejangsan fica famoso pelas folhas dos bordos, que mudam para tons intensos de vermelho, laranja, amarelo e dourado. O próprio nome da montanha significa algo como “inúmeras coisas escondidas”, em referência à quantidade de paisagens reunidas entre seus vales e encostas.",
+      "zh-CN": "在韩国，很少有地方能像内藏山国立公园一样尽显秋日的魔力，这里的山坡闪耀着猩红、橙色、黄色和金色的绚丽光彩。公园位于韩国西南部，尤以鲜艳的枫叶色彩闻名，是韩国首屈一指的赏秋胜地之一。其名称意为“山中藏有许多秘密”，体现了这一地区丰富多样的景观。"
     },
     "quickFacts": {
-      "zh-CN": "阮黄桥长约380米、宽43米，设有六条机动车道和两条人行步道。"
+      "zh-CN": "内藏山于1971年获指定，成为韩国第八座国家公园，其山地景观由此受到国家公园制度保护。"
     },
     "captions": {
-      "en-GB": "Nguyen Hoang Bridge, Hue, Vietnam",
-      "de-DE": "Nguyen-Hoang-Brücke, Huế, Vietnam",
-      "fr-FR": "Pont Nguyen Hoang, Hué, Vietnam",
+      "en-GB": "Autumn in Naejangsan National Park, South Korea",
+      "de-DE": "Herbst im Naejangsan-Nationalpark, Südkorea",
+      "fr-FR": "Parc national de Naejangsan, Corée du Sud",
       "it-IT": "",
-      "es-ES": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam",
-      "ja-JP": "ライトアップされたアーチ橋",
+      "ja-JP": "紅葉に彩られた東屋",
       "zh-CN": "",
-      "en-IN": "Nguyen Hoang Bridge, Hue, Vietnam"
+      "en-IN": "Autumn in Naejangsan National Park, South Korea"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Hu%e1%ba%bf&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Hu%c3%a9+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
-      "it-IT": "https://www.bing.com/search?q=fiume+dei+Profumi+Hue&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Hue%2c+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b0%e3%82%a8%e3%83%b3%e3%83%bb%e3%83%9b%e3%82%a2%e3%83%b3%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220261020_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%b6%8a%e5%8d%97%e9%a1%ba%e5%8c%96%e5%b8%82&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261021_2300%22",
+      "de-DE": "https://www.bing.com/search?q=Naejangsan-Nationalpark&form=hpcapt&filters=HpDate%3a%2220261021_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=parc+national+de+Naejangsan&form=hpcapt&filters=HpDate%3a%2220261021_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+di+Naejangsan&form=hpcapt",
+      "ja-JP": "https://www.bing.com/search?q=%e5%86%85%e8%94%b5%e5%b1%b1%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261021_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%86%85%e8%97%8f%e5%b1%b1%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261021_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.VietnamBridge_EN-GB5180652549",
-      "de-DE": "/th?id=OHR.VietnamBridge_DE-DE1735618070",
-      "fr-FR": "/th?id=OHR.VietnamBridge_FR-FR7991423921",
-      "it-IT": "/th?id=OHR.VietnamBridge_IT-IT3479546401",
-      "es-ES": "/th?id=OHR.VietnamBridge_ES-ES2577546493",
-      "ja-JP": "/th?id=OHR.VietnamBridge_JA-JP2833280767",
-      "zh-CN": "/th?id=OHR.VietnamBridge_ZH-CN6134321119",
-      "en-IN": "/th?id=OHR.VietnamBridge_EN-IN7535392593"
+      "en-GB": "/th?id=OHR.NaejangsanNP_EN-GB5252582759",
+      "de-DE": "/th?id=OHR.NaejangsanNP_DE-DE1873468197",
+      "fr-FR": "/th?id=OHR.NaejangsanNP_FR-FR8219456677",
+      "it-IT": "/th?id=OHR.NaejangsanNP_IT-IT3718795886",
+      "ja-JP": "/th?id=OHR.NaejangsanNP_JA-JP7092803320",
+      "zh-CN": "/th?id=OHR.NaejangsanNP_ZH-CN6538893004",
+      "en-IN": "/th?id=OHR.NaejangsanNP_EN-IN7823705566"
     }
   },
   "MumblesSwansea2026": {
@@ -2293,6 +2290,38 @@
       "it-IT": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555"
     }
   },
+  "CordobaPatios": {
+    "name": "CordobaPatios",
+    "urlbase": "/th?id=OHR.CordobaPatios_ES-ES7294783560",
+    "date": "20261021",
+    "dateFormatted": "October 21, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Córdoba en flor. Festival Internacional de las Flores de Córdoba"
+    },
+    "copyrights": {
+      "es-ES": "Patio interior tradicional cordobés, Córdoba, Andalucía, España (© Martinez Studio/ShutterStock)"
+    },
+    "descs": {
+      "es-ES": "Córdoba (Andalucía, España) guarda su tesoro puertas adentro: patios encalados, macetas colgadas, una fuente y sombra fresca en el centro de la casa. Un modelo heredado de las casas romanas y andalusíes, tan arraigado que la Fiesta de los Patios es Patrimonio Cultural Inmaterial de la Unesco desde 2012."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Festival Internacional de las Flores de Córdoba"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Festival+Internacional+de+las+Flores+de+C%c3%b3rdoba&form=hpcapt&filters=HpDate%3a%2220261021_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.CordobaPatios_ES-ES7294783560"
+    }
+  },
   "PatrullaAguila": {
     "name": "PatrullaAguila",
     "urlbase": "/th?id=OHR.PatrullaAguila_ES-ES5090687481",
@@ -2549,40 +2578,6 @@
       "ja-JP": "/th?id=OHR.RedMacawsFlight_JA-JP3781300138"
     }
   },
-  "Chestnut2026": {
-    "name": "Chestnut2026",
-    "urlbase": "/th?id=OHR.Chestnut2026_JA-JP0900389061",
-    "date": "20261007",
-    "dateFormatted": "October 07, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日は寒露"
-    },
-    "copyrights": {
-      "ja-JP": "栗の実 (© y-studio/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "今日 10 月 8 日は二十四節気の寒露。朝晩の冷え込みが増し、秋の深まりを感じる頃です。秋は「食欲の秋」ともいわれるように、栗やしいたけ、秋サバなどさまざまな食べ物が旬を迎えます。そして画像は、秋の味覚の代表格である栗。栗は、実は定義によって野菜にも果物にも木の実にも分類される食材です。その歴史は古く、縄文時代の遺跡からも見つかっており、太古の昔から私たちの食生活に関わっていました。現在も、栗ご飯や甘露煮のほか、モンブランや渋皮煮などさまざまな料理や菓子に利用され、秋の食卓を彩っています。"
-    },
-    "quickFacts": {
-      "ja-JP": "栗には 100g あたり約 33mg のビタミン C が含まれており、トマトの約 2 倍です。さらに、加熱しても壊れにくいです。"
-    },
-    "captions": {
-      "ja-JP": "今日は寒露"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e5%af%92%e9%9c%b2&form=hpcapt&filters=HpDate%3a%2220261007_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.Chestnut2026_JA-JP0900389061"
-    }
-  },
   "MahaNavami2026": {
     "name": "MahaNavami2026",
     "urlbase": "/th?id=OHR.MahaNavami2026_EN-IN6653933239",
@@ -2615,6 +2610,120 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "ForestofDean": {
+    "name": "ForestofDean",
+    "urlbase": "/th?id=OHR.ForestofDean_EN-US7262962048",
+    "date": "20261007",
+    "dateFormatted": "October 07, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "en-CA": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "pt-BR": "Um labirinto de musgo",
+      "en-GB": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "de-DE": "Wie im Märchen. Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "fr-FR": "La forêt aux mille secrets. Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
+      "it-IT": "Perso? Segui il sentiero",
+      "es-ES": "¿Perdido? Sigue el sendero. Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
+      "ja-JP": "苔むした森",
+      "zh-CN": "迷惑不解？沿着小径走",
+      "en-IN": "Puzzled? Follow the trail. Puzzlewood, Forest of Dean, Gloucestershire, England"
+    },
+    "copyrights": {
+      "en-US": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "en-CA": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "pt-BR": "Rochas cobertas de musgo em Puzzlewood, Floresta de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
+      "en-GB": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "de-DE": "Moosbedeckte Felsen im Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+      "fr-FR": "Roches couvertes de mousse à Puzzlewood, forêt de Dean, Gloucestershire, Angleterre (© Fulcanelli_AOS/Getty Images)",
+      "it-IT": "Rocce coperte di muschio a Puzzlewood, Foresta di Dean, Gloucestershire, Inghilterra (© Fulcanelli_AOS/Getty Images)",
+      "es-ES": "Rocas cubiertas de musgo en Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
+      "ja-JP": "パズルウッド, イングランド (© Fulcanelli_AOS/Getty Images)",
+      "zh-CN": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)",
+      "en-IN": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)"
+    },
+    "descs": {
+      "en-US": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks, and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "en-CA": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "en-GB": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "de-DE": "Mitten im Forest of Dean bei Coleford in Gloucestershire, England, wirkt Puzzlewood wie eine Welt aus einem Märchen. Verschlungene Pfade führen zwischen knorrigen Bäumen, moosbedeckten Felsen und tiefen Schluchten hindurch. Ungewöhnlich sind die sogenannten Scowles, geologische Formationen im Kalkstein, die durch natürliche Prozesse entstanden und später für den Abbau von Eisenerz genutzt wurden, bereits in der Eisenzeit und bis in die Römerzeit. Für Spannung sorgt ein Fund aus dem Jahr 1848. Damals entdeckten Arbeiter in einem Felshohlraum drei Tongefäße mit mehr als 3000 römischen Münzen.",
+      "fr-FR": "À Puzzlewood, près de Coleford dans la forêt de Dean en Angleterre, les sentiers ne mènent nulle part — et c'est précisément leur charme. Sous une épaisse couverture de mousse, des roches tourmentées surgissent du sol, creusées de ravins et de cavités mystérieuses que les Romains exploitaient déjà pour leur minerai de fer, il y a plus de deux mille ans.",
+      "es-ES": "En Puzzlewood, junto a Coleford, en el Bosque de Dean (Inglaterra), los senderos serpentean entre árboles retorcidos, rocas tapizadas de musgo y gargantas de piedra que hacen dudar en cada curva. Esas formaciones tan raras se llaman scowles: cavidades naturales que quedaron al descubierto con el tiempo y que después se explotaron para extraer hierro, ya en época romana o incluso antes. En 1848, un trabajador encontró más de 3.000 monedas romanas escondidas en vasijas dentro de una grieta.",
+      "ja-JP": "ここはパズルウッド。イングランドのグロスターシャー州にある「ディーンの森」に広がる古代森林地帯です。苔むした岩や「スカウル」と呼ばれる独特の地形で知られています。不規則で迷路状な窪みが特徴のスカウルは、数百万年にわたり、石灰岩にできた地下洞窟が隆起や浸食によって地表に現れることで形成されました。その後、鉄器時代からローマ時代にかけて、鉄鉱石の採掘に利用されたと考えられています。森の中には、約 1.6km の小道が張り巡らされ、奇岩や洞窟、古木が織りなす幻想的な景観が広がります。その神秘的な雰囲気から、「スター・ウォーズ／フォースの覚醒」をはじめ、さまざまな映画のロケ地としても使用されています。",
+      "en-IN": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+      "it-IT": "A Puzzlewood, vicino a Coleford, nella Foresta di Dean (Inghilterra), i sentieri serpeggiano tra alberi contorti, rocce tappezzate di muschio e gole di pietra che fanno perdere l'orientamento a ogni curva. Quelle formazioni così strane si chiamano scowles: cavità naturali affiorate col tempo e poi sfruttate per estrarre ferro, già in epoca romana o forse prima. Nel 1848 un operaio trovò oltre 3.000 monete romane nascoste in alcuni vasi dentro una fenditura.",
+      "pt-BR": "Árvores retorcidas, ravinas de pedra, rochas cobertas de musgo e antigas moedas romanas escondidas. Parece cenário de fantasia, mas Puzzlewood existe de verdade. Na Floresta de Dean, Inglaterra, suas trilhas serpenteiam por um terreno marcado por formações geológicas naturais que incluem cavidades e paredões rochosos. Expostas e transformadas por processos naturais ao longo do tempo, essas formações também foram exploradas em busca de minério de ferro durante o período romano e, possivelmente, antes dele.",
+      "zh-CN": "如果一片森林能让你每转一个弯都捉摸不透，会是什么样？英国格洛斯特郡谜林位于英格兰迪恩森林的科尔福德附近，蜿蜒的小径穿过扭曲的树木、覆满苔藓的岩石和幽深的石质沟壑。这里不同寻常的岩层被称为“斯科尔斯”，是一种天然地质特征，随着时间推移逐渐裸露并发生改变，后来在罗马时期、甚至可能在更早以前被人们开采铁矿石。1848年，一名工人在一个岩洞内的陶罐中发现了3,000多枚罗马时代的钱币，使这片林地变成了一场现实中的寻宝之旅。"
+    },
+    "quickFacts": {
+      "zh-CN": "英国格洛斯特郡谜林位于迪恩森林，是极为罕见的内陆温带雨林生态系统残片。"
+    },
+    "captions": {
+      "en-US": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "en-CA": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261007_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261007_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Puzzlewood+na+Inglaterra&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ForestofDean_EN-US7262962048",
+      "en-CA": "/th?id=OHR.ForestofDean_EN-CA1146340293",
+      "pt-BR": "/th?id=OHR.ForestofDean_PT-BR7892976998"
+    }
+  },
+  "Chestnut2026": {
+    "name": "Chestnut2026",
+    "urlbase": "/th?id=OHR.Chestnut2026_JA-JP0900389061",
+    "date": "20261007",
+    "dateFormatted": "October 07, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は寒露"
+    },
+    "copyrights": {
+      "ja-JP": "栗の実 (© y-studio/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日 10 月 8 日は二十四節気の寒露。朝晩の冷え込みが増し、秋の深まりを感じる頃です。秋は「食欲の秋」ともいわれるように、栗やしいたけ、秋サバなどさまざまな食べ物が旬を迎えます。そして画像は、秋の味覚の代表格である栗。栗は、実は定義によって野菜にも果物にも木の実にも分類される食材です。その歴史は古く、縄文時代の遺跡からも見つかっており、太古の昔から私たちの食生活に関わっていました。現在も、栗ご飯や甘露煮のほか、モンブランや渋皮煮などさまざまな料理や菓子に利用され、秋の食卓を彩っています。"
+    },
+    "quickFacts": {
+      "ja-JP": "栗には 100g あたり約 33mg のビタミン C が含まれており、トマトの約 2 倍です。さらに、加熱しても壊れにくいです。"
+    },
+    "captions": {
+      "ja-JP": "今日は寒露"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e5%af%92%e9%9c%b2&form=hpcapt&filters=HpDate%3a%2220261007_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Chestnut2026_JA-JP0900389061"
     }
   },
   "DanxiaLandform": {
