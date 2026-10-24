@@ -1,4 +1,136 @@
 {
+  "YellowstoneWolves": {
+    "name": "YellowstoneWolves",
+    "urlbase": "/th?id=OHR.YellowstoneWolves_EN-US7105521535",
+    "date": "20261023",
+    "dateFormatted": "October 23, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Partners in the wild. Wolf Awareness Week",
+      "en-GB": "Partners in the wild. Wolf Awareness Week",
+      "en-CA": "Partners in the wild. Wolf Awareness Week",
+      "de-DE": "Partner in freier Wildbahn. Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
+      "it-IT": "La vita nel branco",
+      "es-ES": "La vida en manada. Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+      "pt-BR": "Lobo solitário? Nada disso",
+      "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国",
+      "en-IN": "Partners in the wild. Wolf Awareness Week",
+      "ja-JP": "冬の大地を進むオオカミたち. ハイイロオオカミ, 米国 ワイオミング州"
+    },
+    "copyrights": {
+      "en-US": "Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)",
+      "en-GB": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
+      "en-CA": "Two grey wolves Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
+      "de-DE": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
+      "it-IT": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
+      "es-ES": "Dos lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© John Morrison/Getty Images)",
+      "pt-BR": "Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA (© John Morrison/Getty Images)",
+      "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)",
+      "en-IN": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
+      "ja-JP": "© John Morrison/Getty Images"
+    },
+    "descs": {
+      "en-US": "Two gray wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+      "en-GB": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+      "en-CA": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+      "de-DE": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft.",
+      "es-ES": "Dos lobos grises cruzan el matorral del Parque Nacional de Yellowstone, en Wyoming (Estados Unidos), donde viven algunas de las manadas mejor estudiadas del mundo. Y esa palabra, manada, describe en realidad una familia: un grupo emparentado que caza en equipo, defiende su territorio y saca adelante a las crías del año. Su pelaje denso les permite aguantar inviernos extremos, y su oído y su olfato los convierten en cazadores extraordinarios.",
+      "en-IN": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+      "it-IT": "Due lupi grigi attraversano la boscaglia del Parco nazionale di Yellowstone, nel Wyoming (Stati Uniti), dove vivono alcuni dei branchi più studiati al mondo. E quella parola, branco, descrive in realtà una famiglia: un gruppo di parenti che caccia in squadra, difende il territorio e alleva insieme i cuccioli dell'anno.",
+      "pt-BR": "Quem vê esses dois lobos‑cinzentos no Parque Nacional de Yellowstone talvez nem imagine que seus antepassados foram expulsos dali. Nos Estados Unidos, a perseguição aos grandes predadores levou à eliminação dos lobos na região no início do século XX. Então, em 1995, eles começaram a voltar, reintroduzidos como parte de um dos mais conhecidos projetos de conservação do mundo.",
+      "ja-JP": "今日の画像は、米国ワイオミング州のイエローストーン国立公園内を歩く 2 頭のハイイロオオカミです。ユーラシア大陸と北米に広く生息しており、分厚い毛皮によって厳しい冬の寒さにも耐えることができます。家族単位の群れ（パック）で生活し、協力して狩りや子育て、縄張りの防衛を行います。20 世紀初頭に、イエローストーン国立公園からは一度姿を消しましたが、1995 年に再導入が開始されました。現在公園は、野生のハイイロオオカミを観察できる世界有数の場所として知られています。",
+      "zh-CN": "两只灰狼穿行在怀俄明州黄石国家公园的山艾灌丛中，这里生活着北美洲一些最受密切关注的狼群。厚实的皮毛帮助它们抵御严冬，敏锐的感官则使它们成为技艺高超的猎手和交流者。"
+    },
+    "quickFacts": {
+      "en-US": "Gray wolves can communicate through howls, body language, scent marking, and a range of vocalizations, including barks, whines, and growls.",
+      "en-GB": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls.",
+      "en-CA": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls.",
+      "de-DE": "Wölfe können durch Heulen, Körpersprache, Duftmarkierungen und eine Reihe von Lautäußerungen kommunizieren, darunter Bellen, Winseln und Knurren.",
+      "it-IT": "I lupi grigi comunicano con ululati, linguaggio del corpo, marcature odorose e un repertorio di suoni che comprende latrati, guaiti e ringhi.",
+      "es-ES": "Los lobos grises se comunican con aullidos, lenguaje corporal, marcas de olor y un repertorio de sonidos que incluye ladridos, gemidos y gruñidos.",
+      "zh-CN": "灰狼可以通过嚎叫、肢体语言、气味标记以及多种发声方式进行交流，包括吠叫、呜咽和低吼。",
+      "en-IN": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls."
+    },
+    "captions": {
+      "en-US": "Wolf Awareness Week",
+      "en-GB": "Wolf Awareness Week",
+      "en-CA": "Wolf Awareness Week",
+      "de-DE": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
+      "it-IT": "",
+      "es-ES": "Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+      "pt-BR": "",
+      "zh-CN": "",
+      "en-IN": "Wolf Awareness Week"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261022_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Wolf+Tier&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
+      "it-IT": "https://www.bing.com/search?q=parco+nazionale+di+yellowstone&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+Yellowstone&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=lobo+cinzento&form=hpcapt&mkt=pt-br",
+      "zh-CN": "https://www.bing.com/search?q=%e7%81%b0%e7%8b%bc&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261022_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.YellowstoneWolves_EN-US7105521535",
+      "en-GB": "/th?id=OHR.YellowstoneWolves_EN-GB5342942021",
+      "en-CA": "/th?id=OHR.YellowstoneWolves_EN-CA9692259331",
+      "de-DE": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752",
+      "it-IT": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116",
+      "es-ES": "/th?id=OHR.YellowstoneWolves_ES-ES1877782674",
+      "pt-BR": "/th?id=OHR.YellowstoneWolves_PT-BR5538259597",
+      "zh-CN": "/th?id=OHR.YellowstoneWolves_ZH-CN6767268961",
+      "en-IN": "/th?id=OHR.YellowstoneWolves_EN-IN7964007510"
+    }
+  },
   "NaejangsanNP": {
     "name": "NaejangsanNP",
     "urlbase": "/th?id=OHR.NaejangsanNP_EN-US7010419904",
@@ -749,7 +881,7 @@
       "it-IT": "Arte di 36.000 anni fa",
       "es-ES": "Arte de hace 36.000 años. Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
       "pt-BR": "O passado deixou sua assinatura",
-      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国",
+      "zh-CN": "发掘尘封的过去",
       "en-IN": "The past, unearthed. International Archaeology Day"
     },
     "copyrights": {
@@ -1519,72 +1651,42 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Life along the flyway. World Migratory Bird Day",
-      "en-GB": "Life along the flyway. World Migratory Bird Day",
       "en-CA": "Life along the flyway. World Migratory Bird Day",
+      "pt-BR": "O céu também tem estradas?",
+      "en-GB": "Life along the flyway. World Migratory Bird Day",
       "de-DE": "Leben entlang der Vogelzugroute. Welttag der Zugvögel",
       "it-IT": "La vita lungo la rotta",
-      "pt-BR": "O céu também tem estradas?",
       "ja-JP": "今日は世界渡り鳥の日",
       "zh-CN": "迁飞路线上的生命",
       "en-IN": "Life along the flyway. World Migratory Bird Day"
     },
     "copyrights": {
       "en-US": "Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)",
-      "en-GB": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
       "en-CA": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
+      "pt-BR": "Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)",
+      "en-GB": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
       "de-DE": "Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)",
       "it-IT": "Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)",
-      "pt-BR": "Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)",
       "ja-JP": "モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)",
       "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)",
       "en-IN": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)"
     },
     "descs": {
       "en-US": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasizing how observations by individuals and communities can contribute to bird research, monitoring, and conservation, helping scientists better understand migration.",
-      "en-GB": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
       "en-CA": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "en-GB": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
       "de-DE": "Am 10. Oktober lenkt der Welttag der Zugvögel die Aufmerksamkeit auf die außergewöhnlichen Reisen wandernder Vogelarten. Jedes Jahr legen Millionen von Vögeln enorme Entfernungen zurück und verbinden dabei Regionen, Länder und Kontinente. Der Aktionstag erinnert daran, wie wichtig sichere Rastplätze, geeignete Brutgebiete und intakte Lebensräume entlang ihrer Zugrouten sind. Zugvögel spielen eine bedeutende Rolle in vielen Ökosystemen und zeigen zugleich, wie eng die Natur weltweit miteinander verknüpft ist. Ihre Wanderungen gehören zu den faszinierendsten Naturschauspielen überhaupt und wecken seit jeher die Neugier von Menschen auf der ganzen Welt.",
       "ja-JP": "今日 10 月 10 日は世界渡り鳥の日。渡り鳥とその生息地の保全の重要性について普及啓発を行う日です。年に 2  回、5 月と 10 月の第 2 土曜日が対象となっています。毎年異なるテーマが掲げられており、今年のスローガンは「どんな鳥も記録しよう ― あなたの観察が鳥たちの未来を守る」です。そして画像は、米国カリフォルニア州モントレー湾の波の上を飛ぶミミヒメウの群れ。北米に広く分布するこの鳥は順応性が高く、群れによっては、渡りを行わず、一年を通して同じ地域で暮らすこともあります。",
       "en-IN": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
@@ -1603,123 +1705,25 @@
     },
     "captions": {
       "en-US": "World Migratory Bird Day",
-      "en-GB": "World Migratory Bird Day",
       "en-CA": "World Migratory Bird Day",
-      "de-DE": "Welttag der Zugvögel",
-      "it-IT": "",
-      "pt-BR": "",
-      "ja-JP": "今日は世界渡り鳥の日",
-      "zh-CN": "",
-      "en-IN": "World Migratory Bird Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0700%22",
-      "en-GB": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261009_2300%22",
-      "en-CA": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Welttag+der+Zugv%c3%b6gel&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Giornata+mondiale+degli+uccelli+migratori&form=hpcapt",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Aves+Migrat%c3%b3rias&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b8%a1%e3%82%8a%e9%b3%a5%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261009_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%80%99%e9%b8%9f%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261009_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
-      "en-GB": "/th?id=OHR.CormorantsFlight_EN-GB3315477514",
-      "en-CA": "/th?id=OHR.CormorantsFlight_EN-CA1602296581",
-      "de-DE": "/th?id=OHR.CormorantsFlight_DE-DE5717719144",
-      "it-IT": "/th?id=OHR.CormorantsFlight_IT-IT0012209213",
-      "pt-BR": "/th?id=OHR.CormorantsFlight_PT-BR9427423298",
-      "ja-JP": "/th?id=OHR.CormorantsFlight_JA-JP1768857084",
-      "zh-CN": "/th?id=OHR.CormorantsFlight_ZH-CN0770863330",
-      "en-IN": "/th?id=OHR.CormorantsFlight_EN-IN8066576004"
-    }
-  },
-  "IlesSanguinaires": {
-    "name": "IlesSanguinaires",
-    "urlbase": "/th?id=OHR.IlesSanguinaires_EN-US5801644173",
-    "date": "20261009",
-    "dateFormatted": "October 09, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
-      "en-CA": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
-      "pt-BR": "Um horizonte bem ocupado",
-      "en-GB": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
-      "de-DE": "Korsikas felsige Inseln. Blick auf die Îles Sanguinaires vor Korsika, Frankreich",
-      "fr-FR": "Les îles du bout du monde. Vue des îles Sanguinaires depuis la Corse",
-      "it-IT": "Le sentinelle della Corsica",
-      "es-ES": "Los centinelas de Córcega. Islas Sanguinarias vistas desde Córcega, Francia",
-      "ja-JP": "コルシカ島を彩る美しい夕日",
-      "zh-CN": "科西嘉岛的岩石前哨",
-      "en-IN": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France"
-    },
-    "copyrights": {
-      "en-US": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
-      "en-CA": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
-      "pt-BR": "Vista das Ilhas Sanguinárias a partir da Córsega, França (© Francesco Riccardo Iacomino/Getty Images)",
-      "en-GB": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
-      "de-DE": "Blick auf die Îles Sanguinaires vor Korsika, Frankreich (© Francesco Riccardo Iacomino/Getty Images)",
-      "fr-FR": "Vue des îles Sanguinaires depuis la Corse (© Francesco Riccardo Iacomino/Getty Images)",
-      "it-IT": "Veduta delle isole Sanguinarie dalla Corsica, Francia (© Francesco Riccardo Iacomino/Getty Images)",
-      "es-ES": "Vista de las islas Sanguinarias desde Córcega, Francia (© Francesco Riccardo Iacomino/Getty Images)",
-      "ja-JP": "サンギネール諸島, フランス (© Francesco Riccardo Iacomino/Getty Images)",
-      "zh-CN": "桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)",
-      "en-IN": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks, and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.2 miles from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves, and salt spray.",
-      "en-CA": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.9 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
-      "en-GB": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.2 miles from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
-      "de-DE": "Die Îles Sanguinaires sind eine kleine Inselgruppe vor der Westküste Korsikas in Frankreich. Am Eingang des Golfs von Ajaccio ragen vier markante Felseninseln aus dem Mittelmeer empor. Von der Küste aus bieten sie ein eindrucksvolles Panorama, das von den kräftigen Farben des Meeres und den dunklen Granitfelsen geprägt wird.",
-      "fr-FR": "À deux kilomètres à peine des côtes corses, les îles Sanguinaires surgissent de la Méditerranée comme une poignée de rochers jetés par quelque titan oublié. Vues depuis une tour de guet historique dominant le golfe d'Ajaccio, elles semblent pourtant appartenir à un autre monde — battu par le vent, sculpté par les vagues et le sel.",
-      "es-ES": "Frente a la costa de Córcega (Francia), las islas Sanguinarias emergen del Mediterráneo como un pequeño archipiélago de cuatro islotes rocosos y escarpados. Vistos desde una antigua torre de vigilancia, custodian la entrada del golfo de Ajaccio, y aunque el más alejado queda a menos de dos kilómetros de tierra firme, el conjunto transmite un aislamiento sorprendente, moldeado por el viento, las olas y el salitre.",
-      "ja-JP": "フランス・コルシカ島の沖合に浮かぶサンギネール諸島。4 つの小さな島で構成された群島で、近隣の街アジャクシオからは、島の荒々しい岩肌と透明度の高い海が織りなす景観を眺めることができます。各島には海鳥や地中海特有の植物が生息しており、その自然環境保護のため、基本的に立ち入れるのは最も大きな島であるメズ・マレ島のみです。メズ・マレ島には、灯台が設置されているほか、遊歩道も整備されており、島の散策を楽しむことができます。",
-      "en-IN": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 2 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
-      "it-IT": "Davanti alla costa della Corsica (Francia), le isole Sanguinarie emergono dal Mediterraneo come un piccolo arcipelago di quattro isolotti rocciosi e scoscesi. Osservate da un'antica torre di guardia, presidiano l'ingresso del Golfo di Ajaccio: il più lontano dista meno di due chilometri dalla terraferma, e nonostante questo il gruppo trasmette un isolamento sorprendente, modellato da vento, onde e salsedine.",
-      "pt-BR": "O Mediterrâneo tem um talento especial para fazer quatro ilhas parecerem um mundo à parte. Na costa da Córsega, França, as Ilhas Sanguinárias ficam na entrada do Golfo de Ajaccio, cercadas por água, falésias, rochas e vegetação que já aprendeu a lidar com vento e sal. A mais distante está a cerca de 2 quilômetros do continente, mas, do alto de uma torre de vigia, a conta parece outra: o arquipélago ganha cara de lugar remoto.",
-      "zh-CN": "桑吉奈尔群岛就在法国科西嘉岛近海，从地中海中拔地而起，是一个由四座崎岖岩石岛屿组成的小型群岛。从一座历史悠久的瞭望塔望去，它们坐落在阿雅克肖湾的入口处。陡峭的悬崖、历经数百年的地标和开阔的海景，世世代代吸引着游客来到这一地区。尽管最远的岛屿距离海岸仅约1.2英里，但这片群岛给人的感觉却出奇地偏远：它四周被开阔水域环绕，并受到风、海浪和盐雾的塑造。"
-    },
-    "quickFacts": {
-      "zh-CN": "建造桑吉奈尔灯塔时，石料必须用驳船运到岛上，再从岩石海岸吊运上去。"
-    },
-    "captions": {
-      "en-US": "View of the Sanguinaires Islands from Corsica, France",
-      "en-CA": "View of the Sanguinaires Islands from Corsica, France",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Ilhas+Sanguin%c3%a1rias+Fran%c3%a7a&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Aves+Migrat%c3%b3rias&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.IlesSanguinaires_EN-US5801644173",
-      "en-CA": "/th?id=OHR.IlesSanguinaires_EN-CA1335462039",
-      "pt-BR": "/th?id=OHR.IlesSanguinaires_PT-BR8805004077"
+      "en-US": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
+      "en-CA": "/th?id=OHR.CormorantsFlight_EN-CA1602296581",
+      "pt-BR": "/th?id=OHR.CormorantsFlight_PT-BR9427423298"
     }
   },
-  "YellowstoneWolves": {
-    "name": "YellowstoneWolves",
-    "urlbase": "/th?id=OHR.YellowstoneWolves_EN-GB5342942021",
-    "date": "20261022",
-    "dateFormatted": "October 22, 2026",
+  "PortugueseLibrary": {
+    "name": "PortugueseLibrary",
+    "urlbase": "/th?id=OHR.PortugueseLibrary_EN-GB5432733315",
+    "date": "20261023",
+    "dateFormatted": "October 23, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1727,9 +1731,9 @@
         "flag": "gb"
       },
       {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
       },
       {
         "code": "it-IT",
@@ -1740,6 +1744,11 @@
         "code": "es-ES",
         "name": "ES",
         "flag": "es"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
       },
       {
         "code": "zh-CN",
@@ -1753,74 +1762,70 @@
       }
     ],
     "titles": {
-      "en-GB": "Partners in the wild. Wolf Awareness Week",
-      "de-DE": "Partner in freier Wildbahn. Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
-      "it-IT": "La vita nel branco",
-      "es-ES": "La vida en manada. Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
-      "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国",
-      "en-IN": "Partners in the wild. Wolf Awareness Week",
-      "en-US": "Partners in the wild. Two gray wolves, Yellowstone National Park, Wyoming",
-      "en-CA": "Partners in the wild. Two grey wolves Yellowstone National Park, Wyoming, United States",
-      "pt-BR": "Lobo solitário? Nada disso. Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA",
-      "ja-JP": "冬の大地を進むオオカミたち. ハイイロオオカミ, 米国 ワイオミング州"
+      "en-GB": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "fr-FR": "De quoi en perdre ses mots. Cabinet royal portugais de lecture, Rio de Janeiro, Brésil",
+      "it-IT": "Una cattedrale di libri",
+      "es-ES": "Una catedral de libros. Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
+      "ja-JP": "図書館の天窓から差し込む自然光",
+      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西",
+      "en-IN": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-US": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-CA": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "pt-BR": "A biblioteca mais teatral do Rio. Real Gabinete Português de Leitura, Rio de Janeiro"
     },
     "copyrights": {
-      "en-GB": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
-      "de-DE": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
-      "it-IT": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
-      "es-ES": "Dos lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© John Morrison/Getty Images)",
-      "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)",
-      "en-IN": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
-      "en-US": "© John Morrison/Getty Images",
-      "en-CA": "© John Morrison/Getty Images",
-      "pt-BR": "© John Morrison/Getty Images",
-      "ja-JP": "© John Morrison/Getty Images"
+      "en-GB": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+      "fr-FR": "Cabinet royal portugais de lecture, Rio de Janeiro, Brésil (© Antonio Salaverry/Shutterstock)",
+      "it-IT": "Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)",
+      "es-ES": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil (© Antonio Salaverry/Shutterstock)",
+      "ja-JP": "王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)",
+      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)",
+      "en-IN": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+      "en-US": "© Antonio Salaverry/Shutterstock",
+      "en-CA": "© Antonio Salaverry/Shutterstock",
+      "pt-BR": "© Antonio Salaverry/Shutterstock"
     },
     "descs": {
-      "en-GB": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
-      "de-DE": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft.",
-      "es-ES": "Dos lobos grises cruzan el matorral del Parque Nacional de Yellowstone, en Wyoming (Estados Unidos), donde viven algunas de las manadas mejor estudiadas del mundo. Y esa palabra, manada, describe en realidad una familia: un grupo emparentado que caza en equipo, defiende su territorio y saca adelante a las crías del año. Su pelaje denso les permite aguantar inviernos extremos, y su oído y su olfato los convierten en cazadores extraordinarios.",
-      "en-IN": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
-      "en-US": "Two gray wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
-      "en-CA": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
-      "it-IT": "Due lupi grigi attraversano la boscaglia del Parco nazionale di Yellowstone, nel Wyoming (Stati Uniti), dove vivono alcuni dei branchi più studiati al mondo. E quella parola, branco, descrive in realtà una famiglia: un gruppo di parenti che caccia in squadra, difende il territorio e alleva insieme i cuccioli dell'anno.",
-      "pt-BR": "Quem vê esses dois lobos‑cinzentos no Parque Nacional de Yellowstone talvez nem imagine que seus antepassados foram expulsos dali. Nos Estados Unidos, a perseguição aos grandes predadores levou à eliminação dos lobos na região no início do século XX. Então, em 1995, eles começaram a voltar, reintroduzidos como parte de um dos mais conhecidos projetos de conservação do mundo.",
-      "ja-JP": "今日の画像は、米国ワイオミング州のイエローストーン国立公園内を歩く 2 頭のハイイロオオカミです。ユーラシア大陸と北米に広く生息しており、分厚い毛皮によって厳しい冬の寒さにも耐えることができます。家族単位の群れ（パック）で生活し、協力して狩りや子育て、縄張りの防衛を行います。20 世紀初頭に、イエローストーン国立公園からは一度姿を消しましたが、1995 年に再導入が開始されました。現在公園は、野生のハイイロオオカミを観察できる世界有数の場所として知られています。",
-      "zh-CN": "两只灰狼穿行在怀俄明州黄石国家公园的山艾灌丛中，这里生活着北美洲一些最受密切关注的狼群。厚实的皮毛帮助它们抵御严冬，敏锐的感官则使它们成为技艺高超的猎手和交流者。"
+      "en-GB": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "fr-FR": "Aujourd’hui, nous pénétrons dans le Cabinet royal portugais de lecture, à Rio de Janeiro (Brésil), où le simple geste d’ouvrir un livre prend des dimensions monumentales. Fondée en 1837 par 43 immigrants portugais, seulement quinze ans après l’indépendance du Brésil, l’institution s’installe plus tard dans cet édifice, achevé près d’un demi-siècle après sa fondation. Dans la majestueuse salle de lecture, les rayonnages s’élèvent à plus de 21 mètres, sous une imposante verrière qui transforme la lumière du jour en élément d’architecture.",
+      "es-ES": "El Real Gabinete Portugués de Lectura, en Río de Janeiro (Brasil), es una de esas bibliotecas que se visitan con la boca abierta. Tres alturas de estanterías de madera oscura cubren las paredes de suelo a techo, cargadas de volúmenes encuadernados, y desde arriba una gran claraboya de vidrio de colores deja caer la luz sobre la sala de lectura.",
+      "ja-JP": "ここはブラジルのリオデジャネイロにある王立ポルトガル図書館。ブラジルがポルトガルから独立した後、ポルトガルの言語と文化の保存・振興を目的として 1837 年に設立されました。約 35 万冊の蔵書を有し、ポルトガル国外では最大級のポルトガル語文献コレクションを誇ります。広大な閲覧室には、20m 以上の高さを誇る巨大な本棚が設置され、ステンドグラスの天窓や、アーミラリー天球儀で美しく装飾されています。設立から2世紀近くが経った今も、ブラジルとポルトガルの文化的な結びつきを伝え続けています。",
+      "en-IN": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "en-US": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 70 feet around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "en-CA": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "it-IT": "Il Real Gabinete Portoghese di Lettura, a Rio de Janeiro (Brasile), è una di quelle biblioteche che si visitano a bocca aperta. Tre livelli di scaffali in legno scuro coprono le pareti da terra al soffitto, carichi di volumi rilegati, e dall'alto un grande lucernario di vetri colorati lascia cadere la luce sulla sala di lettura.",
+      "pt-BR": "O endereço é carioca, mas a fachada fez check-in na Europa antes de chegar aqui. O Real Gabinete Português de Leitura nasceu em 1837, 15 anos depois da Independência do Brasil, quando 43 imigrantes portugueses criaram uma instituição dedicada aos livros. Sua fachada foi esculpida em Lisboa, transportada de navio pelo Atlântico e montada no Rio de Janeiro.",
+      "zh-CN": "今天，我们走进巴西里约热内卢的皇家葡萄牙语阅览室。在这里，翻开一本书这一朴素举动，被赋予了宏伟的建筑抱负。巴西独立仅15年后，43名葡萄牙移民于1837年创办了这家机构；约半个世纪后，机构最终迁入眼前这座以华丽的新曼努埃尔式建成的建筑。书架环绕宽阔的阅览大厅，高逾70英尺；大厅上方覆盖着一扇巨型彩绘玻璃天窗，让自然光也成为设计的一部分。"
     },
     "quickFacts": {
-      "en-US": "Gray wolves can communicate through howls, body language, scent marking, and a range of vocalizations, including barks, whines, and growls.",
-      "en-GB": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls.",
-      "en-CA": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls.",
-      "de-DE": "Wölfe können durch Heulen, Körpersprache, Duftmarkierungen und eine Reihe von Lautäußerungen kommunizieren, darunter Bellen, Winseln und Knurren.",
-      "it-IT": "I lupi grigi comunicano con ululati, linguaggio del corpo, marcature odorose e un repertorio di suoni che comprende latrati, guaiti e ringhi.",
-      "es-ES": "Los lobos grises se comunican con aullidos, lenguaje corporal, marcas de olor y un repertorio de sonidos que incluye ladridos, gemidos y gruñidos.",
-      "zh-CN": "灰狼可以通过嚎叫、肢体语言、气味标记以及多种发声方式进行交流，包括吠叫、呜咽和低吼。",
-      "en-IN": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls."
+      "zh-CN": "据场馆官网介绍，皇家葡萄牙语阅览室工作日10时至17时免费开放参观。"
     },
     "captions": {
-      "en-GB": "Wolf Awareness Week",
-      "de-DE": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
+      "en-GB": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "fr-FR": "Cabinet royal portugais de lecture, Rio de Janeiro, Brésil",
       "it-IT": "",
-      "es-ES": "Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+      "es-ES": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
+      "ja-JP": "図書館の天窓から差し込む自然光",
       "zh-CN": "",
-      "en-IN": "Wolf Awareness Week"
+      "en-IN": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261022_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Wolf+Tier&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
-      "it-IT": "https://www.bing.com/search?q=parco+nazionale+di+yellowstone&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+Yellowstone&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%81%b0%e7%8b%bc&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261022_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261023_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Cabinet+royal+portugais+de+lecture+Br%c3%a9sil&form=hpcapt&filters=HpDate%3a%2220261023_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Real+Gabinete+Portoghese+di+Lettura&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Real+Gabinete+Portugu%c3%a9s+de+Lectura&form=hpcapt&filters=HpDate%3a%2220261023_2200%22",
+      "ja-JP": "https://www.bing.com/search?q=%e7%8e%8b%e7%ab%8b%e3%83%9d%e3%83%ab%e3%83%88%e3%82%ac%e3%83%ab%e5%9b%b3%e6%9b%b8%e9%a4%a8&form=hpcapt&filters=HpDate%3a%2220261023_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%9a%87%e5%ae%b6%e8%91%a1%e8%90%84%e7%89%99%e8%af%ad%e9%98%85%e8%a7%88%e5%ae%a4&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261023_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.YellowstoneWolves_EN-GB5342942021",
-      "de-DE": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752",
-      "it-IT": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116",
-      "es-ES": "/th?id=OHR.YellowstoneWolves_ES-ES1877782674",
-      "zh-CN": "/th?id=OHR.YellowstoneWolves_ZH-CN6767268961",
-      "en-IN": "/th?id=OHR.YellowstoneWolves_EN-IN7964007510"
+      "en-GB": "/th?id=OHR.PortugueseLibrary_EN-GB5432733315",
+      "fr-FR": "/th?id=OHR.PortugueseLibrary_FR-FR9364310812",
+      "it-IT": "/th?id=OHR.PortugueseLibrary_IT-IT4308985837",
+      "es-ES": "/th?id=OHR.PortugueseLibrary_ES-ES7866547666",
+      "ja-JP": "/th?id=OHR.PortugueseLibrary_JA-JP3230226750",
+      "zh-CN": "/th?id=OHR.PortugueseLibrary_ZH-CN7096893027",
+      "en-IN": "/th?id=OHR.PortugueseLibrary_EN-IN8235557432"
     }
   },
   "MumblesSwansea2026": {
@@ -2053,6 +2058,38 @@
       "en-CA": "/th?id=OHR.HeartLakeTG_EN-CA2157233427"
     }
   },
+  "BerlinLibrary": {
+    "name": "BerlinLibrary",
+    "urlbase": "/th?id=OHR.BerlinLibrary_DE-DE5145605761",
+    "date": "20261023",
+    "dateFormatted": "October 23, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Architektur des Wissens. Tag der Bibliotheken"
+    },
+    "copyrights": {
+      "de-DE": "Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Am heutigen Tag der Bibliotheken dreht sich alles um Bücher, Wissen und die Orte, die beides zugänglich machen. Seit 1995 macht der bundesweite Aktionstag am 24. Oktober auf die Bedeutung von Bibliotheken als Kultur- und Bildungseinrichtungen aufmerksam. Ins Leben gerufen wurde er von der Deutschen Literaturkonferenz unter der Schirmherrschaft des damaligen Bundespräsidenten Richard von Weizsäcker. Auch 2026 beteiligen sich Bibliotheken in ganz Deutschland mit analogen und digitalen Aktionen und Veranstaltungen. Lesungen, Ausstellungen und Führungen laden dazu ein, ihre vielfältigen Angebote neu zu entdecken."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Tag der Bibliotheken"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Tag+der+Bibliotheken&form=hpcapt&filters=HpDate%3a%2220261023_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.BerlinLibrary_DE-DE5145605761"
+    }
+  },
   "AndechsAbbey": {
     "name": "AndechsAbbey",
     "urlbase": "/th?id=OHR.AndechsAbbey_DE-DE4997798666",
@@ -2172,7 +2209,7 @@
       "fr-FR": "Écureuil roux (© Cédric GUERE/Getty Images)"
     },
     "descs": {
-      "fr-FR": "Le jardinier des bois. Écureuil roux. Sur l’image du jour, un écureuil semble nous adresser un sourire malicieux. Une expression irrésistible, parfaitement assortie à l’effervescence de l’automne."
+      "fr-FR": "Sur l’image du jour, un écureuil semble nous adresser un sourire malicieux. Une expression irrésistible, parfaitement assortie à l’effervescence de l’automne."
     },
     "quickFacts": {
       "fr-FR": "Le pelage de l’écureuil roux peut beaucoup varier, allant du roux orangé au brun très foncé, voire presque noir."
@@ -2185,70 +2222,6 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584"
-    }
-  },
-  "ArtemisRocket": {
-    "name": "ArtemisRocket",
-    "urlbase": "/th?id=OHR.ArtemisRocket_FR-FR7987344274",
-    "date": "20261009",
-    "dateFormatted": "October 09, 2026",
-    "markets": [
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "fr-FR": "L'univers nous appelle. Semaine mondiale de l’espace",
-      "en-US": "The universe is calling. World Space Week begins",
-      "en-CA": "The universe is calling. World Space Week begins",
-      "pt-BR": "Partiu, universo!",
-      "en-GB": "The universe is calling. World Space Week begins",
-      "de-DE": "Der Ruf des Universums. Weltraumwoche",
-      "it-IT": "L'universo ci chiama",
-      "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
-      "ja-JP": "今日から世界宇宙週間",
-      "zh-CN": "宇宙在召唤",
-      "en-IN": "The universe is calling. World Space Week begins"
-    },
-    "copyrights": {
-      "fr-FR": "Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-US": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-CA": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
-      "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
-      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)"
-    },
-    "descs": {
-      "fr-FR": "D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
-      "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
-      "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
-      "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
-      "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
-      "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
-      "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
-      "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
-    },
-    "quickFacts": {
-      "zh-CN": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
-    },
-    "captions": {
-      "fr-FR": "Semaine mondiale de l’espace"
-    },
-    "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=semaine+mondiale+de+l%27espace&form=hpcapt&filters=HpDate%3a%2220261009_2200%22"
-    },
-    "urlbases": {
-      "fr-FR": "/th?id=OHR.ArtemisRocket_FR-FR7987344274"
     }
   },
   "ValdiFunesDolomite": {
@@ -2377,38 +2350,6 @@
     },
     "urlbases": {
       "es-ES": "/th?id=OHR.PatrullaAguila_ES-ES5090687481"
-    }
-  },
-  "ZaragozaBasilica": {
-    "name": "ZaragozaBasilica",
-    "urlbase": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240",
-    "date": "20261009",
-    "dateFormatted": "October 09, 2026",
-    "markets": [
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      }
-    ],
-    "titles": {
-      "es-ES": "Hoy: Zara-goza. Fiestas del Pilar"
-    },
-    "copyrights": {
-      "es-ES": "Catedral-Basílica de Nuestra Señora del Pilar, Zaragoza, Aragón, España (© frantic00/Getty Images)"
-    },
-    "descs": {
-      "es-ES": "La Catedral-Basílica de Nuestra Señora del Pilar se asoma al Ebro en Zaragoza (Aragón, España), y hoy arranca a su alrededor la semana grande de la ciudad: el pregón abre unas Fiestas del Pilar que se prolongan hasta el domingo 18 de octubre."
-    },
-    "quickFacts": {},
-    "captions": {
-      "es-ES": "Fiestas del Pilar"
-    },
-    "copyrightlinks": {
-      "es-ES": "https://www.bing.com/search?q=Fiestas+del+Pilar&form=hpcapt&filters=HpDate%3a%2220261009_2200%22"
-    },
-    "urlbases": {
-      "es-ES": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240"
     }
   },
   "Veadeiros": {
@@ -2667,6 +2608,182 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "IlesSanguinaires": {
+    "name": "IlesSanguinaires",
+    "urlbase": "/th?id=OHR.IlesSanguinaires_EN-US5801644173",
+    "date": "20261009",
+    "dateFormatted": "October 09, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
+      "en-CA": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
+      "pt-BR": "Um horizonte bem ocupado",
+      "en-GB": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France",
+      "de-DE": "Korsikas felsige Inseln. Blick auf die Îles Sanguinaires vor Korsika, Frankreich",
+      "fr-FR": "Les îles du bout du monde. Vue des îles Sanguinaires depuis la Corse",
+      "it-IT": "Le sentinelle della Corsica",
+      "es-ES": "Los centinelas de Córcega. Islas Sanguinarias vistas desde Córcega, Francia",
+      "ja-JP": "コルシカ島を彩る美しい夕日",
+      "zh-CN": "科西嘉岛的岩石前哨",
+      "en-IN": "Corsica's rocky outposts. View of the Sanguinaires Islands from Corsica, France"
+    },
+    "copyrights": {
+      "en-US": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
+      "en-CA": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
+      "pt-BR": "Vista das Ilhas Sanguinárias a partir da Córsega, França (© Francesco Riccardo Iacomino/Getty Images)",
+      "en-GB": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
+      "de-DE": "Blick auf die Îles Sanguinaires vor Korsika, Frankreich (© Francesco Riccardo Iacomino/Getty Images)",
+      "fr-FR": "Vue des îles Sanguinaires depuis la Corse (© Francesco Riccardo Iacomino/Getty Images)",
+      "it-IT": "Veduta delle isole Sanguinarie dalla Corsica, Francia (© Francesco Riccardo Iacomino/Getty Images)",
+      "es-ES": "Vista de las islas Sanguinarias desde Córcega, Francia (© Francesco Riccardo Iacomino/Getty Images)",
+      "ja-JP": "サンギネール諸島, フランス (© Francesco Riccardo Iacomino/Getty Images)",
+      "zh-CN": "桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)",
+      "en-IN": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks, and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.2 miles from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves, and salt spray.",
+      "en-CA": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.9 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
+      "en-GB": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.2 miles from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
+      "de-DE": "Die Îles Sanguinaires sind eine kleine Inselgruppe vor der Westküste Korsikas in Frankreich. Am Eingang des Golfs von Ajaccio ragen vier markante Felseninseln aus dem Mittelmeer empor. Von der Küste aus bieten sie ein eindrucksvolles Panorama, das von den kräftigen Farben des Meeres und den dunklen Granitfelsen geprägt wird.",
+      "fr-FR": "À deux kilomètres à peine des côtes corses, les îles Sanguinaires surgissent de la Méditerranée comme une poignée de rochers jetés par quelque titan oublié. Vues depuis une tour de guet historique dominant le golfe d'Ajaccio, elles semblent pourtant appartenir à un autre monde — battu par le vent, sculpté par les vagues et le sel.",
+      "es-ES": "Frente a la costa de Córcega (Francia), las islas Sanguinarias emergen del Mediterráneo como un pequeño archipiélago de cuatro islotes rocosos y escarpados. Vistos desde una antigua torre de vigilancia, custodian la entrada del golfo de Ajaccio, y aunque el más alejado queda a menos de dos kilómetros de tierra firme, el conjunto transmite un aislamiento sorprendente, moldeado por el viento, las olas y el salitre.",
+      "ja-JP": "フランス・コルシカ島の沖合に浮かぶサンギネール諸島。4 つの小さな島で構成された群島で、近隣の街アジャクシオからは、島の荒々しい岩肌と透明度の高い海が織りなす景観を眺めることができます。各島には海鳥や地中海特有の植物が生息しており、その自然環境保護のため、基本的に立ち入れるのは最も大きな島であるメズ・マレ島のみです。メズ・マレ島には、灯台が設置されているほか、遊歩道も整備されており、島の散策を楽しむことができます。",
+      "en-IN": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 2 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
+      "it-IT": "Davanti alla costa della Corsica (Francia), le isole Sanguinarie emergono dal Mediterraneo come un piccolo arcipelago di quattro isolotti rocciosi e scoscesi. Osservate da un'antica torre di guardia, presidiano l'ingresso del Golfo di Ajaccio: il più lontano dista meno di due chilometri dalla terraferma, e nonostante questo il gruppo trasmette un isolamento sorprendente, modellato da vento, onde e salsedine.",
+      "pt-BR": "O Mediterrâneo tem um talento especial para fazer quatro ilhas parecerem um mundo à parte. Na costa da Córsega, França, as Ilhas Sanguinárias ficam na entrada do Golfo de Ajaccio, cercadas por água, falésias, rochas e vegetação que já aprendeu a lidar com vento e sal. A mais distante está a cerca de 2 quilômetros do continente, mas, do alto de uma torre de vigia, a conta parece outra: o arquipélago ganha cara de lugar remoto.",
+      "zh-CN": "桑吉奈尔群岛就在法国科西嘉岛近海，从地中海中拔地而起，是一个由四座崎岖岩石岛屿组成的小型群岛。从一座历史悠久的瞭望塔望去，它们坐落在阿雅克肖湾的入口处。陡峭的悬崖、历经数百年的地标和开阔的海景，世世代代吸引着游客来到这一地区。尽管最远的岛屿距离海岸仅约1.2英里，但这片群岛给人的感觉却出奇地偏远：它四周被开阔水域环绕，并受到风、海浪和盐雾的塑造。"
+    },
+    "quickFacts": {
+      "zh-CN": "建造桑吉奈尔灯塔时，石料必须用驳船运到岛上，再从岩石海岸吊运上去。"
+    },
+    "captions": {
+      "en-US": "View of the Sanguinaires Islands from Corsica, France",
+      "en-CA": "View of the Sanguinaires Islands from Corsica, France",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Ilhas+Sanguin%c3%a1rias+Fran%c3%a7a&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.IlesSanguinaires_EN-US5801644173",
+      "en-CA": "/th?id=OHR.IlesSanguinaires_EN-CA1335462039",
+      "pt-BR": "/th?id=OHR.IlesSanguinaires_PT-BR8805004077"
+    }
+  },
+  "ArtemisRocket": {
+    "name": "ArtemisRocket",
+    "urlbase": "/th?id=OHR.ArtemisRocket_FR-FR7987344274",
+    "date": "20261009",
+    "dateFormatted": "October 09, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "L'univers nous appelle. Semaine mondiale de l’espace",
+      "en-US": "The universe is calling. World Space Week begins",
+      "en-CA": "The universe is calling. World Space Week begins",
+      "pt-BR": "Partiu, universo!",
+      "en-GB": "The universe is calling. World Space Week begins",
+      "de-DE": "Der Ruf des Universums. Weltraumwoche",
+      "it-IT": "L'universo ci chiama",
+      "es-ES": "El universo llama. Comienza la Semana Mundial del Espacio",
+      "ja-JP": "今日から世界宇宙週間",
+      "zh-CN": "宇宙在召唤",
+      "en-IN": "The universe is calling. World Space Week begins"
+    },
+    "copyrights": {
+      "fr-FR": "Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-US": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-CA": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "pt-BR": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-GB": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
+      "de-DE": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "it-IT": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "es-ES": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "ja-JP": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "zh-CN": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
+      "en-IN": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
+      "en-US": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip, and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "en-CA": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every October 4–10, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on October 4, 1957, and the entry into force of the Outer Space Treaty on October 10, 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "en-GB": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "de-DE": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
+      "es-ES": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
+      "ja-JP": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
+      "en-IN": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+      "it-IT": "Il razzo dell'immagine attende al Launch Complex 39B del Kennedy Space Center, in Florida (Stati Uniti), pronto per una missione con un compito insolito: dimostrare di poter raggiungere la Luna e tornare senza nessuno a bordo.",
+      "pt-BR": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
+      "zh-CN": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。"
+    },
+    "quickFacts": {
+      "zh-CN": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
+    },
+    "captions": {
+      "fr-FR": "Semaine mondiale de l’espace"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=semaine+mondiale+de+l%27espace&form=hpcapt&filters=HpDate%3a%2220261009_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.ArtemisRocket_FR-FR7987344274"
+    }
+  },
+  "ZaragozaBasilica": {
+    "name": "ZaragozaBasilica",
+    "urlbase": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240",
+    "date": "20261009",
+    "dateFormatted": "October 09, 2026",
+    "markets": [
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      }
+    ],
+    "titles": {
+      "es-ES": "Hoy: Zara-goza. Fiestas del Pilar"
+    },
+    "copyrights": {
+      "es-ES": "Catedral-Basílica de Nuestra Señora del Pilar, Zaragoza, Aragón, España (© frantic00/Getty Images)"
+    },
+    "descs": {
+      "es-ES": "La Catedral-Basílica de Nuestra Señora del Pilar se asoma al Ebro en Zaragoza (Aragón, España), y hoy arranca a su alrededor la semana grande de la ciudad: el pregón abre unas Fiestas del Pilar que se prolongan hasta el domingo 18 de octubre."
+    },
+    "quickFacts": {},
+    "captions": {
+      "es-ES": "Fiestas del Pilar"
+    },
+    "copyrightlinks": {
+      "es-ES": "https://www.bing.com/search?q=Fiestas+del+Pilar&form=hpcapt&filters=HpDate%3a%2220261009_2200%22"
+    },
+    "urlbases": {
+      "es-ES": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240"
     }
   },
   "MayotteOctopus": {
