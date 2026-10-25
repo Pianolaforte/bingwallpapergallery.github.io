@@ -1,4 +1,137 @@
 {
+  "PortugueseLibrary": {
+    "name": "PortugueseLibrary",
+    "urlbase": "/th?id=OHR.PortugueseLibrary_EN-US7519268149",
+    "date": "20261024",
+    "dateFormatted": "October 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-GB": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-CA": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "fr-FR": "De quoi en perdre ses mots. Cabinet royal portugais de lecture, Rio de Janeiro, Brésil",
+      "it-IT": "Una cattedrale di libri",
+      "es-ES": "Una catedral de libros. Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
+      "pt-BR": "A biblioteca mais teatral do Rio",
+      "ja-JP": "図書館の天窓から差し込む自然光",
+      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西",
+      "en-IN": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
+    },
+    "copyrights": {
+      "en-US": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+      "en-GB": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+      "en-CA": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+      "fr-FR": "Cabinet royal portugais de lecture, Rio de Janeiro, Brésil (© Antonio Salaverry/Shutterstock)",
+      "it-IT": "Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)",
+      "es-ES": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil (© Antonio Salaverry/Shutterstock)",
+      "pt-BR": "Real Gabinete Português de Leitura, Rio de Janeiro (© Antonio Salaverry/Shutterstock)",
+      "ja-JP": "王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)",
+      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)",
+      "en-IN": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 70 feet around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "en-GB": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "en-CA": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "fr-FR": "Aujourd’hui, nous pénétrons dans le Cabinet royal portugais de lecture, à Rio de Janeiro (Brésil), où le simple geste d’ouvrir un livre prend des dimensions monumentales. Fondée en 1837 par 43 immigrants portugais, seulement quinze ans après l’indépendance du Brésil, l’institution s’installe plus tard dans cet édifice, achevé près d’un demi-siècle après sa fondation. Dans la majestueuse salle de lecture, les rayonnages s’élèvent à plus de 21 mètres, sous une imposante verrière qui transforme la lumière du jour en élément d’architecture.",
+      "es-ES": "El Real Gabinete Portugués de Lectura, en Río de Janeiro (Brasil), es una de esas bibliotecas que se visitan con la boca abierta. Tres alturas de estanterías de madera oscura cubren las paredes de suelo a techo, cargadas de volúmenes encuadernados, y desde arriba una gran claraboya de vidrio de colores deja caer la luz sobre la sala de lectura.",
+      "ja-JP": "ここはブラジルのリオデジャネイロにある王立ポルトガル図書館。ブラジルがポルトガルから独立した後、ポルトガルの言語と文化の保存・振興を目的として 1837 年に設立されました。約 35 万冊の蔵書を有し、ポルトガル国外では最大級のポルトガル語文献コレクションを誇ります。広大な閲覧室には、20m 以上の高さを誇る巨大な本棚が設置され、ステンドグラスの天窓や、アーミラリー天球儀で美しく装飾されています。設立から2世紀近くが経った今も、ブラジルとポルトガルの文化的な結びつきを伝え続けています。",
+      "en-IN": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "it-IT": "Il Real Gabinete Portoghese di Lettura, a Rio de Janeiro (Brasile), è una di quelle biblioteche che si visitano a bocca aperta. Tre livelli di scaffali in legno scuro coprono le pareti da terra al soffitto, carichi di volumi rilegati, e dall'alto un grande lucernario di vetri colorati lascia cadere la luce sulla sala di lettura.",
+      "pt-BR": "O endereço é carioca, mas a fachada fez check-in na Europa antes de chegar aqui. O Real Gabinete Português de Leitura nasceu em 1837, 15 anos depois da Independência do Brasil, quando 43 imigrantes portugueses criaram uma instituição dedicada aos livros. Sua fachada foi esculpida em Lisboa, transportada de navio pelo Atlântico e montada no Rio de Janeiro.",
+      "zh-CN": "今天，我们走进巴西里约热内卢的皇家葡萄牙语阅览室。在这里，翻开一本书这一朴素举动，被赋予了宏伟的建筑抱负。巴西独立仅15年后，43名葡萄牙移民于1837年创办了这家机构；约半个世纪后，机构最终迁入眼前这座以华丽的新曼努埃尔式建成的建筑。书架环绕宽阔的阅览大厅，高逾70英尺；大厅上方覆盖着一扇巨型彩绘玻璃天窗，让自然光也成为设计的一部分。"
+    },
+    "quickFacts": {
+      "zh-CN": "据场馆官网介绍，皇家葡萄牙语阅览室工作日10时至17时免费开放参观。"
+    },
+    "captions": {
+      "en-US": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-GB": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-CA": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "fr-FR": "Cabinet royal portugais de lecture, Rio de Janeiro, Brésil",
+      "it-IT": "",
+      "es-ES": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
+      "pt-BR": "",
+      "ja-JP": "図書館の天窓から差し込む自然光",
+      "zh-CN": "",
+      "en-IN": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261024_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261023_2300%22",
+      "en-CA": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261024_0400%22",
+      "fr-FR": "https://www.bing.com/search?q=Cabinet+royal+portugais+de+lecture+Br%c3%a9sil&form=hpcapt&filters=HpDate%3a%2220261023_2200%22",
+      "it-IT": "https://www.bing.com/search?q=Real+Gabinete+Portoghese+di+Lettura&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Real+Gabinete+Portugu%c3%a9s+de+Lectura&form=hpcapt&filters=HpDate%3a%2220261023_2200%22",
+      "pt-BR": "https://www.bing.com/search?q=Real+Gabinete+Portugues+de+Leitura&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e7%8e%8b%e7%ab%8b%e3%83%9d%e3%83%ab%e3%83%88%e3%82%ac%e3%83%ab%e5%9b%b3%e6%9b%b8%e9%a4%a8&form=hpcapt&filters=HpDate%3a%2220261023_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%9a%87%e5%ae%b6%e8%91%a1%e8%90%84%e7%89%99%e8%af%ad%e9%98%85%e8%a7%88%e5%ae%a4&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261023_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PortugueseLibrary_EN-US7519268149",
+      "en-GB": "/th?id=OHR.PortugueseLibrary_EN-GB5432733315",
+      "en-CA": "/th?id=OHR.PortugueseLibrary_EN-CA0206045106",
+      "fr-FR": "/th?id=OHR.PortugueseLibrary_FR-FR9364310812",
+      "it-IT": "/th?id=OHR.PortugueseLibrary_IT-IT4308985837",
+      "es-ES": "/th?id=OHR.PortugueseLibrary_ES-ES7866547666",
+      "pt-BR": "/th?id=OHR.PortugueseLibrary_PT-BR6869331212",
+      "ja-JP": "/th?id=OHR.PortugueseLibrary_JA-JP3230226750",
+      "zh-CN": "/th?id=OHR.PortugueseLibrary_ZH-CN7096893027",
+      "en-IN": "/th?id=OHR.PortugueseLibrary_EN-IN8235557432"
+    }
+  },
   "YellowstoneWolves": {
     "name": "YellowstoneWolves",
     "urlbase": "/th?id=OHR.YellowstoneWolves_EN-US7105521535",
@@ -41,6 +174,11 @@
         "flag": "br"
       },
       {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
@@ -59,9 +197,9 @@
       "it-IT": "La vita nel branco",
       "es-ES": "La vida en manada. Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
       "pt-BR": "Lobo solitário? Nada disso",
+      "ja-JP": "冬の大地を進むオオカミたち",
       "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国",
-      "en-IN": "Partners in the wild. Wolf Awareness Week",
-      "ja-JP": "冬の大地を進むオオカミたち. ハイイロオオカミ, 米国 ワイオミング州"
+      "en-IN": "Partners in the wild. Wolf Awareness Week"
     },
     "copyrights": {
       "en-US": "Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)",
@@ -71,9 +209,9 @@
       "it-IT": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
       "es-ES": "Dos lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© John Morrison/Getty Images)",
       "pt-BR": "Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA (© John Morrison/Getty Images)",
+      "ja-JP": "ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images)",
       "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)",
-      "en-IN": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
-      "ja-JP": "© John Morrison/Getty Images"
+      "en-IN": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)"
     },
     "descs": {
       "en-US": "Two gray wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
@@ -81,10 +219,10 @@
       "en-CA": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
       "de-DE": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft.",
       "es-ES": "Dos lobos grises cruzan el matorral del Parque Nacional de Yellowstone, en Wyoming (Estados Unidos), donde viven algunas de las manadas mejor estudiadas del mundo. Y esa palabra, manada, describe en realidad una familia: un grupo emparentado que caza en equipo, defiende su territorio y saca adelante a las crías del año. Su pelaje denso les permite aguantar inviernos extremos, y su oído y su olfato los convierten en cazadores extraordinarios.",
+      "ja-JP": "今日の画像は、米国ワイオミング州のイエローストーン国立公園内を歩く 2 頭のハイイロオオカミです。ユーラシア大陸と北米に広く生息しており、分厚い毛皮によって厳しい冬の寒さにも耐えることができます。家族単位の群れ（パック）で生活し、協力して狩りや子育て、縄張りの防衛を行います。20 世紀初頭に、イエローストーン国立公園からは一度姿を消しましたが、1995 年に再導入が開始されました。現在公園は、野生のハイイロオオカミを観察できる世界有数の場所として知られています。",
       "en-IN": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
       "it-IT": "Due lupi grigi attraversano la boscaglia del Parco nazionale di Yellowstone, nel Wyoming (Stati Uniti), dove vivono alcuni dei branchi più studiati al mondo. E quella parola, branco, descrive in realtà una famiglia: un gruppo di parenti che caccia in squadra, difende il territorio e alleva insieme i cuccioli dell'anno.",
       "pt-BR": "Quem vê esses dois lobos‑cinzentos no Parque Nacional de Yellowstone talvez nem imagine que seus antepassados foram expulsos dali. Nos Estados Unidos, a perseguição aos grandes predadores levou à eliminação dos lobos na região no início do século XX. Então, em 1995, eles começaram a voltar, reintroduzidos como parte de um dos mais conhecidos projetos de conservação do mundo.",
-      "ja-JP": "今日の画像は、米国ワイオミング州のイエローストーン国立公園内を歩く 2 頭のハイイロオオカミです。ユーラシア大陸と北米に広く生息しており、分厚い毛皮によって厳しい冬の寒さにも耐えることができます。家族単位の群れ（パック）で生活し、協力して狩りや子育て、縄張りの防衛を行います。20 世紀初頭に、イエローストーン国立公園からは一度姿を消しましたが、1995 年に再導入が開始されました。現在公園は、野生のハイイロオオカミを観察できる世界有数の場所として知られています。",
       "zh-CN": "两只灰狼穿行在怀俄明州黄石国家公园的山艾灌丛中，这里生活着北美洲一些最受密切关注的狼群。厚实的皮毛帮助它们抵御严冬，敏锐的感官则使它们成为技艺高超的猎手和交流者。"
     },
     "quickFacts": {
@@ -105,6 +243,7 @@
       "it-IT": "",
       "es-ES": "Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
       "pt-BR": "",
+      "ja-JP": "冬の大地を進むオオカミたち",
       "zh-CN": "",
       "en-IN": "Wolf Awareness Week"
     },
@@ -116,6 +255,7 @@
       "it-IT": "https://www.bing.com/search?q=parco+nazionale+di+yellowstone&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+Yellowstone&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
       "pt-BR": "https://www.bing.com/search?q=lobo+cinzento&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%82%a4%e3%82%a4%e3%83%ad%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220261024_1500%22",
       "zh-CN": "https://www.bing.com/search?q=%e7%81%b0%e7%8b%bc&form=hpcapt&mkt=zh-cn",
       "en-IN": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261022_1830%22"
     },
@@ -127,6 +267,7 @@
       "it-IT": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116",
       "es-ES": "/th?id=OHR.YellowstoneWolves_ES-ES1877782674",
       "pt-BR": "/th?id=OHR.YellowstoneWolves_PT-BR5538259597",
+      "ja-JP": "/th?id=OHR.YellowstoneWolves_JA-JP3378091323",
       "zh-CN": "/th?id=OHR.YellowstoneWolves_ZH-CN6767268961",
       "en-IN": "/th?id=OHR.YellowstoneWolves_EN-IN7964007510"
     }
@@ -607,6 +748,11 @@
         "code": "zh-CN",
         "name": "CN",
         "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
       }
     ],
     "titles": {
@@ -633,7 +779,7 @@
       "pt-BR": "Grande Canal de Veneza, Itália (© Juan Romero/Cavan Images)",
       "ja-JP": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
       "zh-CN": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)",
-      "en-IN": "© Juan Romero/Cavan Images"
+      "en-IN": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)"
     },
     "descs": {
       "en-US": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
@@ -643,10 +789,10 @@
       "fr-FR": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
       "es-ES": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
       "ja-JP": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
+      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
       "it-IT": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
       "pt-BR": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
-      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。",
-      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon."
+      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。"
     },
     "quickFacts": {
       "zh-CN": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
@@ -661,7 +807,8 @@
       "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia",
       "pt-BR": "",
       "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
-      "zh-CN": ""
+      "zh-CN": "",
+      "en-IN": "Grand Canal in Venice, Italy"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0700%22",
@@ -673,7 +820,8 @@
       "es-ES": "https://www.bing.com/search?q=Venecia&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Grande+Canal+de+Veneza&form=hpcapt&mkt=pt-br",
       "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%87&form=hpcapt&filters=HpDate%3a%2220261018_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%a4%a7%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn"
+      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%a4%a7%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261024_1830%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
@@ -685,7 +833,8 @@
       "es-ES": "/th?id=OHR.VeniceSunrise_ES-ES2930999770",
       "pt-BR": "/th?id=OHR.VeniceSunrise_PT-BR8365610239",
       "ja-JP": "/th?id=OHR.VeniceSunrise_JA-JP2535499489",
-      "zh-CN": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339"
+      "zh-CN": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339",
+      "en-IN": "/th?id=OHR.VeniceSunrise_EN-IN8305689376"
     }
   },
   "DolbadarnWales": {
@@ -754,7 +903,7 @@
       "es-ES": "La torre de los príncipes. Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
       "pt-BR": "Onde o tempo perde altitude",
       "ja-JP": "丘の上に佇む城跡",
-      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士",
+      "zh-CN": "75载，风华正茂",
       "en-IN": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75"
     },
     "copyrights": {
@@ -1529,72 +1678,42 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
         "code": "pt-BR",
         "name": "BR",
         "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Where autumn turns the wheel. Glade Creek Grist Mill, Babcock State Park, West Virginia",
-      "en-GB": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States",
       "en-CA": "Where autumn turns the wheel. Glade Creek Grist Mill, Babcock State Park, West Virginia",
+      "pt-BR": "Quando águas passadas movem moinhos",
+      "en-GB": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States",
       "fr-FR": "La roue des saisons. Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
       "es-ES": "Donde el otoño mueve la rueda. Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
-      "pt-BR": "Quando águas passadas movem moinhos",
       "ja-JP": "紅葉に包まれた水車小屋",
       "zh-CN": "秋色中转动的水轮",
       "en-IN": "Where autumn turns the wheel. Glade Creek Grist Mill, West Virginia, United States"
     },
     "copyrights": {
       "en-US": "Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)",
-      "en-GB": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)",
       "en-CA": "Glade Creek Grist Mill, Babcock State Park, West Virginia, USA (© dszc/Getty Images)",
+      "pt-BR": "Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)",
+      "en-GB": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)",
       "fr-FR": "Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)",
       "es-ES": "Molino de Glade Creek, Parque Estatal Babcock, Virginia Occidental, EE. UU. (© dszc/Getty Images)",
-      "pt-BR": "Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)",
       "ja-JP": "グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州 (© dszc/Getty Images)",
       "zh-CN": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)",
       "en-IN": "Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)"
     },
     "descs": {
       "en-US": "Surrounded by a patchwork of red, orange, and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
-      "en-GB": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
       "en-CA": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
+      "en-GB": "Surrounded by a patchwork of red, orange and gold, Glade Creek Grist Mill stands above the rocky waters of Glade Creek in West Virginia's Babcock State Park, United States. Although it looks like a relic from the pioneer era, the mill is actually a carefully crafted tribute to Appalachia's milling heritage.",
       "fr-FR": "Dans le parc d'État de Babcock, en Virginie-Occidentale, aux États-Unis, le moulin de Glade Creek se dresse au-dessus des eaux vives, encadré d'un patchwork de rouges, d'oranges et d'or. Il a tout d'un vestige pionnier — et pourtant, il a été construit en 1976.",
       "es-ES": "Rodeado de un mosaico de rojos, naranjas y dorados, el molino de Glade Creek se alza sobre las aguas rocosas del arroyo que le da nombre, en el Parque Estatal Babcock, en Virginia Occidental (Estados Unidos). Parece una reliquia de la época de los pioneros, pero en realidad es un homenaje muy bien construido a la tradición harinera de los Apalaches.",
       "ja-JP": "今日の画像は、グレイド・クリーク・グリスト・ミル。米国ウェストバージニア州のバブコック州立公園を代表するランドマークです。この製粉所は、かつて近隣にあった製粉所を再現したもので、州内にあった 3 か所の製粉所の部材を組み合わせて、1976 年に造られました。現在も稼働している現役の製粉所であり、かつてウェストバージニア州内に存在した数多の製粉所の歴史を今に伝えています。",
@@ -1607,225 +1726,50 @@
     },
     "captions": {
       "en-US": "Glade Creek Grist Mill, Babcock State Park, West Virginia",
-      "en-GB": "Glade Creek Grist Mill, West Virginia, United States",
       "en-CA": "Glade Creek Grist Mill, Babcock State Park, West Virginia",
-      "fr-FR": "Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
-      "es-ES": "Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
-      "pt-BR": "",
-      "ja-JP": "紅葉に包まれた水車小屋",
-      "zh-CN": "",
-      "en-IN": "Glade Creek Grist Mill, West Virginia, United States"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261011_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261010_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261011_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=Babcock+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Parque+Estatal+Babcock&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Estadual+Babcock+nos+EUA&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%90%e3%83%96%e3%82%b3%e3%83%83%e3%82%af%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261010_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e5%b8%83%e7%a7%91%e5%85%8b%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261010_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BabcockSP_EN-US6068931791",
-      "en-GB": "/th?id=OHR.BabcockSP_EN-GB3870597164",
-      "en-CA": "/th?id=OHR.BabcockSP_EN-CA1944147188",
-      "fr-FR": "/th?id=OHR.BabcockSP_FR-FR9462539296",
-      "es-ES": "/th?id=OHR.BabcockSP_ES-ES4865600988",
-      "pt-BR": "/th?id=OHR.BabcockSP_PT-BR9617512928",
-      "ja-JP": "/th?id=OHR.BabcockSP_JA-JP1996620132",
-      "zh-CN": "/th?id=OHR.BabcockSP_ZH-CN5266848536",
-      "en-IN": "/th?id=OHR.BabcockSP_EN-IN8141556742"
-    }
-  },
-  "CormorantsFlight": {
-    "name": "CormorantsFlight",
-    "urlbase": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
-    "date": "20261010",
-    "dateFormatted": "October 10, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "en-US": "Life along the flyway. World Migratory Bird Day",
-      "en-CA": "Life along the flyway. World Migratory Bird Day",
-      "pt-BR": "O céu também tem estradas?",
-      "en-GB": "Life along the flyway. World Migratory Bird Day",
-      "de-DE": "Leben entlang der Vogelzugroute. Welttag der Zugvögel",
-      "it-IT": "La vita lungo la rotta",
-      "ja-JP": "今日は世界渡り鳥の日",
-      "zh-CN": "迁飞路线上的生命",
-      "en-IN": "Life along the flyway. World Migratory Bird Day"
-    },
-    "copyrights": {
-      "en-US": "Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)",
-      "en-CA": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
-      "pt-BR": "Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)",
-      "en-GB": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
-      "de-DE": "Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)",
-      "it-IT": "Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)",
-      "ja-JP": "モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)",
-      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)",
-      "en-IN": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)"
-    },
-    "descs": {
-      "en-US": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasizing how observations by individuals and communities can contribute to bird research, monitoring, and conservation, helping scientists better understand migration.",
-      "en-CA": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
-      "en-GB": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
-      "de-DE": "Am 10. Oktober lenkt der Welttag der Zugvögel die Aufmerksamkeit auf die außergewöhnlichen Reisen wandernder Vogelarten. Jedes Jahr legen Millionen von Vögeln enorme Entfernungen zurück und verbinden dabei Regionen, Länder und Kontinente. Der Aktionstag erinnert daran, wie wichtig sichere Rastplätze, geeignete Brutgebiete und intakte Lebensräume entlang ihrer Zugrouten sind. Zugvögel spielen eine bedeutende Rolle in vielen Ökosystemen und zeigen zugleich, wie eng die Natur weltweit miteinander verknüpft ist. Ihre Wanderungen gehören zu den faszinierendsten Naturschauspielen überhaupt und wecken seit jeher die Neugier von Menschen auf der ganzen Welt.",
-      "ja-JP": "今日 10 月 10 日は世界渡り鳥の日。渡り鳥とその生息地の保全の重要性について普及啓発を行う日です。年に 2  回、5 月と 10 月の第 2 土曜日が対象となっています。毎年異なるテーマが掲げられており、今年のスローガンは「どんな鳥も記録しよう ― あなたの観察が鳥たちの未来を守る」です。そして画像は、米国カリフォルニア州モントレー湾の波の上を飛ぶミミヒメウの群れ。北米に広く分布するこの鳥は順応性が高く、群れによっては、渡りを行わず、一年を通して同じ地域で暮らすこともあります。",
-      "en-IN": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
-      "it-IT": "I cormorani dell'immagine volano quasi a filo d'acqua sopra la baia di Monterey, in California (Stati Uniti), e riassumono bene ciò che si celebra oggi con la Giornata mondiale degli uccelli migratori. Diffusi in gran parte del Nord America, non si comportano tutti allo stesso modo: certe popolazioni si spostano con le stagioni, altre restano tutto l'anno nello stesso posto.",
-      "pt-BR": "Imagine cruzar milhares de quilômetros todos os anos em busca de comida, abrigo ou um lugar para criar os filhotes. É esse deslocamento que o Dia Mundial das Aves Migratórias coloca em foco, evento realizado duas vezes ao ano, no segundo sábado de maio e no segundo sábado de outubro, para acompanhar os diferentes ciclos migratórios dos dois hemisférios. No Brasil, a edição de 2026 acontece em 10 de outubro. O tema, “Cada ave conta: suas observações fazem a diferença!”, reforça que registros de observadores ajudam pesquisadores a acompanhar migrações e mudanças populacionais.",
-      "zh-CN": "世界候鸟日旨在庆祝大自然最壮观的旅程之一。这项全球性活动于每年5月和10月举行，反映世界各地的迁徙模式，并强调保护鸟类赖以生存的栖息地和迁飞路线的重要性。“每一只鸟都很重要——您的观察至关重要！”是2026年的主题，着重说明个人和社区的观察可以如何为鸟类研究、监测和保护贡献力量，帮助科学家更好地了解迁徙。"
-    },
-    "quickFacts": {
-      "en-US": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
-      "en-GB": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
-      "en-CA": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
-      "de-DE": "Der Vogelzug kann viele Formen annehmen: Manche Vögel ziehen nach Norden oder Süden, während andere in andere Höhenlagen oder Lebensräume ziehen.",
-      "it-IT": "La migrazione ha molte forme: alcuni uccelli si spostano a nord o a sud, altri cambiano quota oppure tipo di ambiente.",
-      "zh-CN": "鸟类迁徙可以采取多种形式：有些鸟向北或向南迁徙，而另一些则迁往不同海拔或不同栖息地。",
-      "en-IN": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats."
-    },
-    "captions": {
-      "en-US": "World Migratory Bird Day",
-      "en-CA": "World Migratory Bird Day",
       "pt-BR": ""
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0700%22",
-      "en-CA": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0400%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Aves+Migrat%c3%b3rias&form=hpcapt&mkt=pt-br"
+      "en-US": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261011_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261011_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Estadual+Babcock+nos+EUA&form=hpcapt&mkt=pt-br"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
-      "en-CA": "/th?id=OHR.CormorantsFlight_EN-CA1602296581",
-      "pt-BR": "/th?id=OHR.CormorantsFlight_PT-BR9427423298"
+      "en-US": "/th?id=OHR.BabcockSP_EN-US6068931791",
+      "en-CA": "/th?id=OHR.BabcockSP_EN-CA1944147188",
+      "pt-BR": "/th?id=OHR.BabcockSP_PT-BR9617512928"
     }
   },
-  "PortugueseLibrary": {
-    "name": "PortugueseLibrary",
-    "urlbase": "/th?id=OHR.PortugueseLibrary_EN-GB5432733315",
-    "date": "20261023",
-    "dateFormatted": "October 23, 2026",
+  "BSTEnds2026": {
+    "name": "BSTEnds2026",
+    "urlbase": "/th?id=OHR.BSTEnds2026_EN-GB5502884225",
+    "date": "20261024",
+    "dateFormatted": "October 24, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
-      "en-GB": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "fr-FR": "De quoi en perdre ses mots. Cabinet royal portugais de lecture, Rio de Janeiro, Brésil",
-      "it-IT": "Una cattedrale di libri",
-      "es-ES": "Una catedral de libros. Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
-      "ja-JP": "図書館の天窓から差し込む自然光",
-      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西",
-      "en-IN": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "en-US": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "en-CA": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "pt-BR": "A biblioteca mais teatral do Rio. Real Gabinete Português de Leitura, Rio de Janeiro"
+      "en-GB": "The clock strikes back. British Summer Time ends"
     },
     "copyrights": {
-      "en-GB": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
-      "fr-FR": "Cabinet royal portugais de lecture, Rio de Janeiro, Brésil (© Antonio Salaverry/Shutterstock)",
-      "it-IT": "Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)",
-      "es-ES": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil (© Antonio Salaverry/Shutterstock)",
-      "ja-JP": "王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)",
-      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)",
-      "en-IN": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
-      "en-US": "© Antonio Salaverry/Shutterstock",
-      "en-CA": "© Antonio Salaverry/Shutterstock",
-      "pt-BR": "© Antonio Salaverry/Shutterstock"
+      "en-GB": "The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)"
     },
     "descs": {
-      "en-GB": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-      "fr-FR": "Aujourd’hui, nous pénétrons dans le Cabinet royal portugais de lecture, à Rio de Janeiro (Brésil), où le simple geste d’ouvrir un livre prend des dimensions monumentales. Fondée en 1837 par 43 immigrants portugais, seulement quinze ans après l’indépendance du Brésil, l’institution s’installe plus tard dans cet édifice, achevé près d’un demi-siècle après sa fondation. Dans la majestueuse salle de lecture, les rayonnages s’élèvent à plus de 21 mètres, sous une imposante verrière qui transforme la lumière du jour en élément d’architecture.",
-      "es-ES": "El Real Gabinete Portugués de Lectura, en Río de Janeiro (Brasil), es una de esas bibliotecas que se visitan con la boca abierta. Tres alturas de estanterías de madera oscura cubren las paredes de suelo a techo, cargadas de volúmenes encuadernados, y desde arriba una gran claraboya de vidrio de colores deja caer la luz sobre la sala de lectura.",
-      "ja-JP": "ここはブラジルのリオデジャネイロにある王立ポルトガル図書館。ブラジルがポルトガルから独立した後、ポルトガルの言語と文化の保存・振興を目的として 1837 年に設立されました。約 35 万冊の蔵書を有し、ポルトガル国外では最大級のポルトガル語文献コレクションを誇ります。広大な閲覧室には、20m 以上の高さを誇る巨大な本棚が設置され、ステンドグラスの天窓や、アーミラリー天球儀で美しく装飾されています。設立から2世紀近くが経った今も、ブラジルとポルトガルの文化的な結びつきを伝え続けています。",
-      "en-IN": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-      "en-US": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 70 feet around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-      "en-CA": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-      "it-IT": "Il Real Gabinete Portoghese di Lettura, a Rio de Janeiro (Brasile), è una di quelle biblioteche che si visitano a bocca aperta. Tre livelli di scaffali in legno scuro coprono le pareti da terra al soffitto, carichi di volumi rilegati, e dall'alto un grande lucernario di vetri colorati lascia cadere la luce sulla sala di lettura.",
-      "pt-BR": "O endereço é carioca, mas a fachada fez check-in na Europa antes de chegar aqui. O Real Gabinete Português de Leitura nasceu em 1837, 15 anos depois da Independência do Brasil, quando 43 imigrantes portugueses criaram uma instituição dedicada aos livros. Sua fachada foi esculpida em Lisboa, transportada de navio pelo Atlântico e montada no Rio de Janeiro.",
-      "zh-CN": "今天，我们走进巴西里约热内卢的皇家葡萄牙语阅览室。在这里，翻开一本书这一朴素举动，被赋予了宏伟的建筑抱负。巴西独立仅15年后，43名葡萄牙移民于1837年创办了这家机构；约半个世纪后，机构最终迁入眼前这座以华丽的新曼努埃尔式建成的建筑。书架环绕宽阔的阅览大厅，高逾70英尺；大厅上方覆盖着一扇巨型彩绘玻璃天窗，让自然光也成为设计的一部分。"
+      "en-GB": "Ready to turn back time? Britain does it every autumn, no time machine required. Today, British Summer Time (BST) ends as clocks go back one hour from 2 am BST to 1 am GMT, giving you an extra hour in bed."
     },
-    "quickFacts": {
-      "zh-CN": "据场馆官网介绍，皇家葡萄牙语阅览室工作日10时至17时免费开放参观。"
-    },
+    "quickFacts": {},
     "captions": {
-      "en-GB": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "fr-FR": "Cabinet royal portugais de lecture, Rio de Janeiro, Brésil",
-      "it-IT": "",
-      "es-ES": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
-      "ja-JP": "図書館の天窓から差し込む自然光",
-      "zh-CN": "",
-      "en-IN": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
+      "en-GB": "British Summer Time ends"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261023_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Cabinet+royal+portugais+de+lecture+Br%c3%a9sil&form=hpcapt&filters=HpDate%3a%2220261023_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Real+Gabinete+Portoghese+di+Lettura&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Real+Gabinete+Portugu%c3%a9s+de+Lectura&form=hpcapt&filters=HpDate%3a%2220261023_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e7%8e%8b%e7%ab%8b%e3%83%9d%e3%83%ab%e3%83%88%e3%82%ac%e3%83%ab%e5%9b%b3%e6%9b%b8%e9%a4%a8&form=hpcapt&filters=HpDate%3a%2220261023_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%9a%87%e5%ae%b6%e8%91%a1%e8%90%84%e7%89%99%e8%af%ad%e9%98%85%e8%a7%88%e5%ae%a4&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261023_1830%22"
+      "en-GB": "https://www.bing.com/search?q=British+Summer+Time&form=hpcapt&filters=HpDate%3a%2220261024_2300%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.PortugueseLibrary_EN-GB5432733315",
-      "fr-FR": "/th?id=OHR.PortugueseLibrary_FR-FR9364310812",
-      "it-IT": "/th?id=OHR.PortugueseLibrary_IT-IT4308985837",
-      "es-ES": "/th?id=OHR.PortugueseLibrary_ES-ES7866547666",
-      "ja-JP": "/th?id=OHR.PortugueseLibrary_JA-JP3230226750",
-      "zh-CN": "/th?id=OHR.PortugueseLibrary_ZH-CN7096893027",
-      "en-IN": "/th?id=OHR.PortugueseLibrary_EN-IN8235557432"
+      "en-GB": "/th?id=OHR.BSTEnds2026_EN-GB5502884225"
     }
   },
   "MumblesSwansea2026": {
@@ -1927,6 +1871,21 @@
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
       }
     ],
     "titles": {
@@ -1938,9 +1897,9 @@
     },
     "copyrights": {
       "en-CA": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)",
-      "de-DE": "© Andrey Popov/Getty Images",
-      "fr-FR": "© Andrey Popov/Getty Images",
-      "zh-CN": "© Andrey Popov/Getty Images",
+      "de-DE": "Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images)",
+      "fr-FR": "Lac Maligne, Parc national Jasper, Alberta, Canada (© Andrey Popov/Getty Images)",
+      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)",
       "pt-BR": "© Andrey Popov/Getty Images"
     },
     "descs": {
@@ -1954,13 +1913,22 @@
       "zh-CN": "据加拿大公园管理局介绍，精灵岛距玛琳湖北岸14公里，只能乘船抵达。"
     },
     "captions": {
-      "en-CA": "Jasper Dark Sky Festival is here"
+      "en-CA": "Jasper Dark Sky Festival is here",
+      "de-DE": "Maligne Lake, Jasper-Nationalpark, Alberta, Kanada",
+      "fr-FR": "Lac Maligne, Parc national Jasper, Alberta, Canada",
+      "zh-CN": ""
     },
     "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Jasper+Dark+Sky+Festival&form=hpcapt&filters=HpDate%3a%2220261016_0400%22"
+      "en-CA": "https://www.bing.com/search?q=Jasper+Dark+Sky+Festival&form=hpcapt&filters=HpDate%3a%2220261016_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Jasper-Nationalpark+Kanada&form=hpcapt&filters=HpDate%3a%2220261024_2200%22",
+      "fr-FR": "https://www.bing.com/search?q=Lac+Maligne&form=hpcapt&filters=HpDate%3a%2220261024_2200%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%8e%9b%e7%90%b3%e6%b9%96&form=hpcapt&mkt=zh-cn"
     },
     "urlbases": {
-      "en-CA": "/th?id=OHR.MaligneFest_EN-CA6755477171"
+      "en-CA": "/th?id=OHR.MaligneFest_EN-CA6755477171",
+      "de-DE": "/th?id=OHR.MaligneFest_DE-DE5179640958",
+      "fr-FR": "/th?id=OHR.MaligneFest_FR-FR5795515025",
+      "zh-CN": "/th?id=OHR.MaligneFest_ZH-CN8343066766"
     }
   },
   "GrizzlySwim": {
@@ -2122,40 +2090,6 @@
       "de-DE": "/th?id=OHR.AndechsAbbey_DE-DE4997798666"
     }
   },
-  "MouflonAutumn": {
-    "name": "MouflonAutumn",
-    "urlbase": "/th?id=OHR.MouflonAutumn_DE-DE6144771164",
-    "date": "20261010",
-    "dateFormatted": "October 10, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Symbol ursprünglicher Natur. Europäisches Mufflon (Widder) im Herbstwald, Bayern"
-    },
-    "copyrights": {
-      "de-DE": "Europäisches Mufflon (Widder) im Herbstwald, Bayern (© imageBROKER/David & Micha Sheldon/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Wenn der Herbst die Wälder Bayerns in warme Braun- und Goldtöne taucht, beginnt für viele Wildtiere eine besonders reizvolle Jahreszeit. Zu ihnen gehört das Europäische Mufflon, eine Unterart der Wildschafe mit einer langen Geschichte in Europa. Auf unserem Bild hat sich ein Widder zwischen Laub und Moos niedergelassen. Seine mächtigen, schneckenförmig geschwungenen Hörner machen ihn unverwechselbar. Ursprünglich waren Mufflons vor allem auf Korsika und Sardinien verbreitet, kommen heute jedoch auch in einigen Regionen Mitteleuropas vor. Die Tiere sind aufmerksam, beweglich und hervorragend an das Leben in abwechslungsreichen Landschaften angepasst."
-    },
-    "quickFacts": {
-      "de-DE": "Mufflons sind äußerst trittsicher und können sich sicher in steilem und felsigem Gelände bewegen."
-    },
-    "captions": {
-      "de-DE": "Europäisches Mufflon (Widder) im Herbstwald, Bayern"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Europ%c3%a4isches+Mufflon&form=hpcapt&filters=HpDate%3a%2220261010_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.MouflonAutumn_DE-DE6144771164"
-    }
-  },
   "ReimsChampagne": {
     "name": "ReimsChampagne",
     "urlbase": "/th?id=OHR.ReimsChampagne_FR-FR6230244152",
@@ -2224,6 +2158,38 @@
       "fr-FR": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584"
     }
   },
+  "CarbonaraRomeMarket": {
+    "name": "CarbonaraRomeMarket",
+    "urlbase": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754",
+    "date": "20261024",
+    "dateFormatted": "October 24, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Cinema, piazze e pasta"
+    },
+    "copyrights": {
+      "it-IT": "Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Largo dei Librari, a due passi dal mercato di Campo de' Fiori, è uno degli angoli più fotogenici di Roma (Italia): una piazzetta trapezoidale chiusa dalla facciata tardobarocca della chiesa di Santa Barbara. Il nome arriva dai librai, ai quali papa Clemente VIII affidò la chiesa nel 1601, e le fondamenta poggiano sui resti del teatro di Pompeo. Sconsacrata nell'Ottocento e restaurata negli anni Novanta, oggi ospita concerti e attività culturali."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=Festa+del+Cinema+di+Roma&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754"
+    }
+  },
   "ValdiFunesDolomite": {
     "name": "ValdiFunesDolomite",
     "urlbase": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672",
@@ -2256,36 +2222,36 @@
       "it-IT": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672"
     }
   },
-  "BarcolanaBoats": {
-    "name": "BarcolanaBoats",
-    "urlbase": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555",
-    "date": "20261010",
-    "dateFormatted": "October 10, 2026",
+  "GernikaPaisVasco": {
+    "name": "GernikaPaisVasco",
+    "urlbase": "/th?id=OHR.GernikaPaisVasco_ES-ES5108223011",
+    "date": "20261024",
+    "dateFormatted": "October 24, 2026",
     "markets": [
       {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
       }
     ],
     "titles": {
-      "it-IT": "Il golfo si riempie di vele"
+      "es-ES": "Las puertas al cielo. Iglesia de Santa María, Gernika-Lumo, País Vasco, España"
     },
     "copyrights": {
-      "it-IT": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)"
+      "es-ES": "Entrada a la Iglesia de Santa María, Gernika-Lumo, Vizcaya, País Vasco, España (© tichr/ShutterStock)"
     },
     "descs": {
-      "it-IT": "Il Golfo di Trieste, in Friuli-Venezia Giulia (Italia), oggi si riempie di vele: alle 10.30 un colpo di cannone dà il via alla Barcolana, la regata velica più partecipata del pianeta, che chiude una settimana di prove ed eventi sulle Rive."
+      "es-ES": "La portada gótica de la imagen pertenece a la iglesia de Santa María, en Gernika-Lumo (Vizcaya, País Vasco, España), el edificio más antiguo de la villa. Se empezó a mediados del siglo XV y las obras se alargaron dos siglos, de ahí su mezcla de estilos: arco ojival en la puerta y un interior renacentista de planta de salón, con las bóvedas cerradas hacia 1660."
     },
     "quickFacts": {},
     "captions": {
-      "it-IT": ""
+      "es-ES": "Iglesia de Santa María, Gernika-Lumo, País Vasco, España"
     },
     "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=La+Barcolana+di+Trieste&form=hpcapt"
+      "es-ES": "https://www.bing.com/search?q=Iglesia+de+Santa+Mar%c3%ada+Gernika-Lumo&form=hpcapt&filters=HpDate%3a%2220261024_2200%22"
     },
     "urlbases": {
-      "it-IT": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555"
+      "es-ES": "/th?id=OHR.GernikaPaisVasco_ES-ES5108223011"
     }
   },
   "CordobaPatios": {
@@ -2608,6 +2574,152 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "CormorantsFlight": {
+    "name": "CormorantsFlight",
+    "urlbase": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
+    "date": "20261010",
+    "dateFormatted": "October 10, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "en-US": "Life along the flyway. World Migratory Bird Day",
+      "en-CA": "Life along the flyway. World Migratory Bird Day",
+      "pt-BR": "O céu também tem estradas?",
+      "en-GB": "Life along the flyway. World Migratory Bird Day",
+      "de-DE": "Leben entlang der Vogelzugroute. Welttag der Zugvögel",
+      "it-IT": "La vita lungo la rotta",
+      "ja-JP": "今日は世界渡り鳥の日",
+      "zh-CN": "迁飞路线上的生命",
+      "en-IN": "Life along the flyway. World Migratory Bird Day"
+    },
+    "copyrights": {
+      "en-US": "Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)",
+      "en-CA": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
+      "pt-BR": "Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)",
+      "en-GB": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
+      "de-DE": "Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)",
+      "it-IT": "Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)",
+      "ja-JP": "モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)",
+      "zh-CN": "蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)",
+      "en-IN": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasizing how observations by individuals and communities can contribute to bird research, monitoring, and conservation, helping scientists better understand migration.",
+      "en-CA": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "en-GB": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "de-DE": "Am 10. Oktober lenkt der Welttag der Zugvögel die Aufmerksamkeit auf die außergewöhnlichen Reisen wandernder Vogelarten. Jedes Jahr legen Millionen von Vögeln enorme Entfernungen zurück und verbinden dabei Regionen, Länder und Kontinente. Der Aktionstag erinnert daran, wie wichtig sichere Rastplätze, geeignete Brutgebiete und intakte Lebensräume entlang ihrer Zugrouten sind. Zugvögel spielen eine bedeutende Rolle in vielen Ökosystemen und zeigen zugleich, wie eng die Natur weltweit miteinander verknüpft ist. Ihre Wanderungen gehören zu den faszinierendsten Naturschauspielen überhaupt und wecken seit jeher die Neugier von Menschen auf der ganzen Welt.",
+      "ja-JP": "今日 10 月 10 日は世界渡り鳥の日。渡り鳥とその生息地の保全の重要性について普及啓発を行う日です。年に 2  回、5 月と 10 月の第 2 土曜日が対象となっています。毎年異なるテーマが掲げられており、今年のスローガンは「どんな鳥も記録しよう ― あなたの観察が鳥たちの未来を守る」です。そして画像は、米国カリフォルニア州モントレー湾の波の上を飛ぶミミヒメウの群れ。北米に広く分布するこの鳥は順応性が高く、群れによっては、渡りを行わず、一年を通して同じ地域で暮らすこともあります。",
+      "en-IN": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration.",
+      "it-IT": "I cormorani dell'immagine volano quasi a filo d'acqua sopra la baia di Monterey, in California (Stati Uniti), e riassumono bene ciò che si celebra oggi con la Giornata mondiale degli uccelli migratori. Diffusi in gran parte del Nord America, non si comportano tutti allo stesso modo: certe popolazioni si spostano con le stagioni, altre restano tutto l'anno nello stesso posto.",
+      "pt-BR": "Imagine cruzar milhares de quilômetros todos os anos em busca de comida, abrigo ou um lugar para criar os filhotes. É esse deslocamento que o Dia Mundial das Aves Migratórias coloca em foco, evento realizado duas vezes ao ano, no segundo sábado de maio e no segundo sábado de outubro, para acompanhar os diferentes ciclos migratórios dos dois hemisférios. No Brasil, a edição de 2026 acontece em 10 de outubro. O tema, “Cada ave conta: suas observações fazem a diferença!”, reforça que registros de observadores ajudam pesquisadores a acompanhar migrações e mudanças populacionais.",
+      "zh-CN": "世界候鸟日旨在庆祝大自然最壮观的旅程之一。这项全球性活动于每年5月和10月举行，反映世界各地的迁徙模式，并强调保护鸟类赖以生存的栖息地和迁飞路线的重要性。“每一只鸟都很重要——您的观察至关重要！”是2026年的主题，着重说明个人和社区的观察可以如何为鸟类研究、监测和保护贡献力量，帮助科学家更好地了解迁徙。"
+    },
+    "quickFacts": {
+      "en-US": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "en-GB": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "en-CA": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats.",
+      "de-DE": "Der Vogelzug kann viele Formen annehmen: Manche Vögel ziehen nach Norden oder Süden, während andere in andere Höhenlagen oder Lebensräume ziehen.",
+      "it-IT": "La migrazione ha molte forme: alcuni uccelli si spostano a nord o a sud, altri cambiano quota oppure tipo di ambiente.",
+      "zh-CN": "鸟类迁徙可以采取多种形式：有些鸟向北或向南迁徙，而另一些则迁往不同海拔或不同栖息地。",
+      "en-IN": "Bird migration can take many forms: some birds travel north or south, while others move to different elevations or habitats."
+    },
+    "captions": {
+      "en-US": "World Migratory Bird Day",
+      "en-CA": "World Migratory Bird Day",
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0700%22",
+      "en-CA": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0400%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+das+Aves+Migrat%c3%b3rias&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.CormorantsFlight_EN-US5972403355",
+      "en-CA": "/th?id=OHR.CormorantsFlight_EN-CA1602296581",
+      "pt-BR": "/th?id=OHR.CormorantsFlight_PT-BR9427423298"
+    }
+  },
+  "MouflonAutumn": {
+    "name": "MouflonAutumn",
+    "urlbase": "/th?id=OHR.MouflonAutumn_DE-DE6144771164",
+    "date": "20261010",
+    "dateFormatted": "October 10, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Symbol ursprünglicher Natur. Europäisches Mufflon (Widder) im Herbstwald, Bayern"
+    },
+    "copyrights": {
+      "de-DE": "Europäisches Mufflon (Widder) im Herbstwald, Bayern (© imageBROKER/David & Micha Sheldon/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Wenn der Herbst die Wälder Bayerns in warme Braun- und Goldtöne taucht, beginnt für viele Wildtiere eine besonders reizvolle Jahreszeit. Zu ihnen gehört das Europäische Mufflon, eine Unterart der Wildschafe mit einer langen Geschichte in Europa. Auf unserem Bild hat sich ein Widder zwischen Laub und Moos niedergelassen. Seine mächtigen, schneckenförmig geschwungenen Hörner machen ihn unverwechselbar. Ursprünglich waren Mufflons vor allem auf Korsika und Sardinien verbreitet, kommen heute jedoch auch in einigen Regionen Mitteleuropas vor. Die Tiere sind aufmerksam, beweglich und hervorragend an das Leben in abwechslungsreichen Landschaften angepasst."
+    },
+    "quickFacts": {
+      "de-DE": "Mufflons sind äußerst trittsicher und können sich sicher in steilem und felsigem Gelände bewegen."
+    },
+    "captions": {
+      "de-DE": "Europäisches Mufflon (Widder) im Herbstwald, Bayern"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Europ%c3%a4isches+Mufflon&form=hpcapt&filters=HpDate%3a%2220261010_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.MouflonAutumn_DE-DE6144771164"
+    }
+  },
+  "BarcolanaBoats": {
+    "name": "BarcolanaBoats",
+    "urlbase": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555",
+    "date": "20261010",
+    "dateFormatted": "October 10, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Il golfo si riempie di vele"
+    },
+    "copyrights": {
+      "it-IT": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "Il Golfo di Trieste, in Friuli-Venezia Giulia (Italia), oggi si riempie di vele: alle 10.30 un colpo di cannone dà il via alla Barcolana, la regata velica più partecipata del pianeta, che chiude una settimana di prove ed eventi sulle Rive."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=La+Barcolana+di+Trieste&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555"
     }
   },
   "IlesSanguinaires": {
