@@ -1,4 +1,36 @@
 {
+  "HangingBat": {
+    "name": "HangingBat",
+    "urlbase": "/th?id=OHR.HangingBat_EN-US7714746725",
+    "date": "20261026",
+    "dateFormatted": "October 26, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Hanging in there. Bat Week"
+    },
+    "copyrights": {
+      "en-US": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Bat Week shines a spotlight on some of the world's most important and often misunderstood mammals. Observed each October, the event celebrates the vital role bats play in healthy ecosystems across the globe. As pollinators, seed dispersers, and natural pest controllers, they support forests, farms, and food supplies. Some can consume thousands of insects in a single night, helping reduce the need for pesticides. With more than 1,500 species found worldwide, bats are the only mammals capable of sustained flight, making them one of nature's most impressive success stories."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Bat Week"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Bat+Week&form=hpcapt&filters=HpDate%3a%2220261026_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HangingBat_EN-US7714746725"
+    }
+  },
   "SitovoWaterfall": {
     "name": "SitovoWaterfall",
     "urlbase": "/th?id=OHR.SitovoWaterfall_EN-US7626867890",
@@ -14,6 +46,11 @@
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
       },
       {
         "code": "de-DE",
@@ -54,36 +91,36 @@
     "titles": {
       "en-US": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
       "en-GB": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
+      "en-CA": "Nature's fall soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
       "de-DE": "Der Klang des Herbstes. Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien",
       "fr-FR": "Le son de l’automne. Une cascade en Automne près de Sitovo, Bulgarie",
       "it-IT": "Acqua, pietra e mistero",
       "es-ES": "Agua, piedra y misterio. Cascadas otoñales cerca de Sitovo, Plovdiv, Bulgaria",
       "ja-JP": "紅葉の中を流れ落ちる滝",
       "zh-CN": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚",
-      "en-IN": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
-      "en-CA": "Nature's fall soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria"
+      "en-IN": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria"
     },
     "copyrights": {
       "en-US": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
       "en-GB": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+      "en-CA": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
       "de-DE": "Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images)",
       "fr-FR": "Une cascade en Automne près de Sitovo, Oblast de Plovdiv, Bulgarie (© Nadya85/Getty Images)",
       "it-IT": "Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images)",
       "es-ES": "Cascadas otoñales cerca de Sitovo, provincia de Plovdiv, Bulgaria (© Nadya85/Getty Images)",
       "ja-JP": "シトヴォ滝, ブルガリア (© Nadya85/Getty Images)",
       "zh-CN": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images)",
-      "en-IN": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
-      "en-CA": "© Nadya85/Getty Images"
+      "en-IN": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)"
     },
     "descs": {
       "en-US": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
       "en-GB": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
+      "en-CA": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
       "de-DE": "Ein Steinbogen, rauschendes Wasser und leuchtendes Herbstlaub: Der Sitovo-Wasserfall in den westlichen Rhodopen Bulgariens scheint wie für eine Märchenszene geschaffen. Nahe dem Dorf Sitovo, südwestlich von Plowdiw, fällt das Wasser unter einer alten Steinbrücke hindurch. Moosbewachsene Felsen und Kiefern bringen kräftiges Grün in die herbstliche Landschaft, während gefallene Blätter das Ufer bedecken oder durch die kleinen Becken treiben. Nach Regen und während der Schneeschmelze im Frühjahr führt der Wasserfall besonders viel Wasser und sein Rauschen erfüllt den umliegenden Wald.",
       "fr-FR": "Dans les Rhodopes occidentales, en Bulgarie, l’automne enveloppe la cascade de Sitovo d’une lumière douce. Près du village de Sitovo, au sud-ouest de Plovdiv, l’eau bondit sous un vieux pont de pierre dont l’arche encadre la cascade comme une scène de conte. Mousses, pins et feuillages mêlent leurs verts aux teintes rousses, tandis que les feuilles mortes s’accumulent sur les berges ou dérivent dans les vasques. Après les pluies et lors de la fonte printanière des neiges, le torrent s’anime et sa rumeur emplit la forêt.",
       "es-ES": "En la parte occidental de los montes Ródope, en Bulgaria, las hojas otoñales se acumulan junto a las aguas turbulentas de la cascada de Sitovo. Cerca del pueblo de Sitovo, al suroeste de Plovdiv, las cataratas caen en cascada sobre salientes rocosos bajo un puente de piedra, cuyo arco enmarca la cascada como una escena sacada de un cuento de hadas.",
       "ja-JP": "今日の画像は、ブルガリア南部のロドピ山脈を流れるシトヴォ滝です。色づいた木々と流れ落ちる滝の組み合わせが、絵画のような美しさを演出します。この自然風景に加え、歴史もこの地域の魅力です。近くのシトヴォ村にはロドピ山脈の伝統的な家屋が残っているほか、近隣には石に刻まれた「シトヴォの碑文」があります。1928 年に初めて記録されたこの碑文は、現在も解読されておらず、その起源や意味はいまだ謎に包まれています。",
       "en-IN": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
-      "en-CA": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
       "it-IT": "Nella parte occidentale dei Monti Rodopi, in Bulgaria, le foglie autunnali si raccolgono lungo le acque impetuose della cascata di Sitovo. Nei pressi del villaggio di Sitovo, a sud-ovest di Plovdiv, le cascate si gettano su sporgenze rocciose sotto un antico ponte di pietra, il cui arco incornicia la cascata come in una scena da libro di fiabe.",
       "zh-CN": "在保加利亚的西罗多彼山脉，秋叶汇聚在奔腾的西托沃瀑布旁。瀑布位于普罗夫迪夫西南方向的西托沃村附近，从一座古老石桥下倾泻而下；桥拱如画框般圈住飞瀑，宛若童话书中的场景。覆满苔藓的石头和松树为秋日景观添上层层绿意，落叶则堆积在水边，或漂过一汪汪水潭。雨后和春季融雪期间，瀑布尤其奔涌欢腾，湍急水声回荡在周围的林地间。"
     },
@@ -93,6 +130,7 @@
     "captions": {
       "en-US": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
       "en-GB": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
+      "en-CA": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
       "de-DE": "Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien",
       "fr-FR": "Une cascade en Automne près de Sitovo, Bulgarie",
       "it-IT": "",
@@ -104,6 +142,7 @@
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261025_0700%22",
       "en-GB": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261026_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261026_0400%22",
       "de-DE": "https://www.bing.com/search?q=Sitowo+Plowdiw+Bulgarien&form=hpcapt&filters=HpDate%3a%2220261025_2300%22",
       "fr-FR": "https://www.bing.com/search?q=village+de+Sitovo+Bulgarie&form=hpcapt&filters=HpDate%3a%2220261025_2300%22",
       "it-IT": "https://www.bing.com/search?q=Sitovo+provincia+di+Plovdiv&form=hpcapt",
@@ -115,6 +154,7 @@
     "urlbases": {
       "en-US": "/th?id=OHR.SitovoWaterfall_EN-US7626867890",
       "en-GB": "/th?id=OHR.SitovoWaterfall_EN-GB5626792550",
+      "en-CA": "/th?id=OHR.SitovoWaterfall_EN-CA2117878012",
       "de-DE": "/th?id=OHR.SitovoWaterfall_DE-DE2533514641",
       "fr-FR": "/th?id=OHR.SitovoWaterfall_FR-FR3730397148",
       "it-IT": "/th?id=OHR.SitovoWaterfall_IT-IT4859902057",
@@ -746,7 +786,7 @@
       "es-ES": "La lentitud como estrategia. Día Internacional del Perezoso",
       "pt-BR": "Devagar se vai ao longe",
       "ja-JP": "木の枝にぶら下がるナマケモノ",
-      "zh-CN": "褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加",
+      "zh-CN": "慢节奏生活",
       "en-IN": "Life in the slow lane. International Sloth Day"
     },
     "copyrights": {
@@ -1635,14 +1675,76 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "en-CA": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "en-GB": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "de-DE": "Eine Symphonie in Blau und Grün. Nationalpark Plitvicer Seen, Kroatien",
+      "fr-FR": "Variations en bleu et vert. Parc national des lacs de Plitvice, Croatie",
+      "it-IT": "Sinfonia in blu e verde",
+      "es-ES": "Sinfonía en azul y verde. Parque Nacional de los Lagos de Plitvice, Croacia",
+      "pt-BR": "A sinfonia das cachoeiras",
+      "ja-JP": "紅葉に彩られた湖と滝",
+      "zh-CN": "蓝与绿的交响曲",
+      "en-IN": "A symphony in blue and green. Plitvice Lakes National Park, Croatia"
+    },
+    "copyrights": {
+      "en-US": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "en-CA": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "en-GB": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "de-DE": "Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)",
+      "fr-FR": "Parc national des lacs de Plitvice, Croatie (© Jan Wlodarczyk/Alamy)",
+      "it-IT": "Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)",
+      "es-ES": "Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)",
+      "pt-BR": "Parque Nacional dos Lagos de Plitvice, Croácia (© Jan Wlodarczyk/Alamy)",
+      "ja-JP": "プリトヴィツェ湖群国立公園, クロアチア (© Jan Wlodarczyk/Alamy)",
+      "zh-CN": "普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)",
+      "en-IN": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)"
+    },
+    "descs": {
+      "en-US": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams, and cascades that wind through forested limestone canyons. The constantly changing colors of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight, and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "en-CA": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "en-GB": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "de-DE": "Im Nationalpark Plitvicer Seen scheint Wasser allgegenwärtig zu sein. Sechzehn terrassenförmig angeordnete Seen sind durch zahlreiche Wasserfälle, Bäche und Kaskaden miteinander verbunden und schlängeln sich durch bewaldete Kalksteinschluchten. Je nach Mineralgehalt, Sonneneinstrahlung und Spiegelungen schimmert das Wasser in immer neuen Farbtönen von Smaragdgrün bis Tiefblau. Der 1949 gegründete Nationalpark ist der älteste und größte Kroatiens. Besonders charakteristisch sind seine natürlichen Tuffbarrieren, die durch die Ablagerung von Kalziumkarbonat entstehen. Dieser Prozess setzt sich bis heute fort und verändert die Seen und Wasserfälle stetig.",
+      "fr-FR": "Au cœur de la Croatie, le parc national des Lacs de Plitvice semble sorti d'un rêve. Seize lacs en terrasses se succèdent, reliés par un labyrinthe de cascades, de ruisseaux et de chutes d'eau qui serpentent entre des canyons calcaires boisés. La couleur de l'eau — émeraude, turquoise, bleu profond — change selon la lumière, les minéraux dissous et le reflet des arbres. Aucune photo ne la restitue vraiment.",
+      "es-ES": "En el Parque Nacional de los Lagos de Plitvice, en Croacia, el agua parece estar en todas partes. Dieciséis lagos escalonados se enlazan mediante cascadas, arroyos y saltos que atraviesan cañones calizos cubiertos de bosque, y su color cambia del verde esmeralda al azul intenso según los minerales, la luz y los reflejos. Declarado en 1949, es el parque nacional más antiguo y más grande del país.",
+      "ja-JP": "ここはクロアチア中部に位置するプリトヴィツェ湖群国立公園。高低差のある 16 の湖と、それを繋ぐ 92 の滝や瀑布という壮大な景観が特徴です。湖水は、含まれるミネラルの組成や太陽光の反射によって、エメラルドグリーンから深い青までさまざまな色合いを見せます。園内には木製の遊歩道が整備されており、滝が流れ落ちる様子や澄んだ湖面、木々に囲まれた岸辺などを間近に眺めることができます。こうした圧倒的な自然美と豊かな生態系が評価され、1979年にユネスコ世界遺産に登録されました。",
+      "en-IN": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "it-IT": "Nel Parco nazionale dei laghi di Plitvice, in Croazia, l'acqua sembra essere davvero ovunque. Sedici laghi a gradoni si collegano attraverso cascate, ruscelli e salti che attraversano canyon calcarei coperti di foresta, e il colore passa dal verde smeraldo al blu profondo a seconda dei minerali, della luce e dei riflessi. Istituito nel 1949, è il parco nazionale più antico e più grande del Paese.",
+      "pt-BR": "Em Plitvice, na Croácia, a água nunca descansa em seu projeto de paisagismo. Dezesseis lagos em diferentes níveis são ligados por cachoeiras, riachos e pequenas quedas-d’água que atravessam cânions cobertos pela floresta. Os tons variam do verde-esmeralda ao azul profundo, influenciados pelos minerais dissolvidos, pela luz e pelos reflexos que mudam o tempo todo.",
+      "zh-CN": "在克罗地亚的普利特维采湖群国家公园，水似乎无处不在。十六个阶梯状湖泊由瀑布、溪流和层叠而下的水流组成的网络连接起来，蜿蜒穿过森林覆盖的石灰岩峡谷。湖水的颜色不断变化，从翠绿到深蓝不等，这是由矿物质、阳光和不断变化的倒影共同造就的。普利特维采湖群国家公园成立于1949年，是克罗地亚历史最悠久、面积最大的国家公园。这里以石灰华屏障闻名，这种天然石灰岩构造是富含矿物质的水在数百年间沉积碳酸钙形成的。这些屏障仍在继续生长和变化，逐渐改变着公园内的瀑布和湖泊。"
+    },
+    "quickFacts": {
+      "zh-CN": "普利特维采拥有84公顷的山毛榉和冷杉原始林，也是棕熊、灰狼和猞猁的家园。"
+    },
+    "captions": {
+      "en-US": "Plitvice Lakes National Park, Croatia",
+      "en-CA": "Plitvice Lakes National Park, Croatia"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PlitviceAutumn_EN-US6255909048",
+      "en-CA": "/th?id=OHR.PlitviceAutumn_EN-CA2443117103"
+    }
+  },
+  "PondCypress": {
+    "name": "PondCypress",
+    "urlbase": "/th?id=OHR.PondCypress_EN-GB5711949030",
+    "date": "20261027",
+    "dateFormatted": "October 27, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1686,117 +1788,87 @@
       }
     ],
     "titles": {
-      "en-US": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
-      "en-GB": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
-      "en-CA": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
-      "de-DE": "Eine Symphonie in Blau und Grün. Nationalpark Plitvicer Seen, Kroatien",
-      "fr-FR": "Variations en bleu et vert. Parc national des lacs de Plitvice, Croatie",
-      "it-IT": "Sinfonia in blu e verde",
-      "es-ES": "Sinfonía en azul y verde. Parque Nacional de los Lagos de Plitvice, Croacia",
-      "pt-BR": "A sinfonia das cachoeiras",
-      "ja-JP": "紅葉に彩られた湖と滝",
-      "zh-CN": "蓝与绿的交响曲",
-      "en-IN": "A symphony in blue and green. Plitvice Lakes National Park, Croatia"
+      "en-GB": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States",
+      "de-DE": "Goldener Spiegel der Natur. Teichzypressen in herbstlicher Färbung, Georgia, USA",
+      "fr-FR": "Le reflet doré de la nature. Cyprès des étangs, Géorgie, États-Unis",
+      "it-IT": "Riflessi dorati",
+      "es-ES": "Reflejos dorados. Cipreses de estanque con color otoñal, Georgia, EE. UU.",
+      "pt-BR": "Um espelho com raízes",
+      "ja-JP": "水面に映る秋の森",
+      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国",
+      "en-IN": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States",
+      "en-US": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia, USA",
+      "en-CA": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia, United States"
     },
     "copyrights": {
-      "en-US": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
-      "en-GB": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
-      "en-CA": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
-      "de-DE": "Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)",
-      "fr-FR": "Parc national des lacs de Plitvice, Croatie (© Jan Wlodarczyk/Alamy)",
-      "it-IT": "Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)",
-      "es-ES": "Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)",
-      "pt-BR": "Parque Nacional dos Lagos de Plitvice, Croácia (© Jan Wlodarczyk/Alamy)",
-      "ja-JP": "プリトヴィツェ湖群国立公園, クロアチア (© Jan Wlodarczyk/Alamy)",
-      "zh-CN": "普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)",
-      "en-IN": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)"
+      "en-GB": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
+      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images)",
+      "fr-FR": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
+      "it-IT": "Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images)",
+      "es-ES": "Bosque de cipreses de estanque, Georgia, EE. UU. (© Chris Moore/Getty Images)",
+      "pt-BR": "Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)",
+      "ja-JP": "ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)",
+      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)",
+      "en-IN": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
+      "en-US": "© Chris Moore/Getty Images",
+      "en-CA": "© Chris Moore/Getty Images"
     },
     "descs": {
-      "en-US": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams, and cascades that wind through forested limestone canyons. The constantly changing colors of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight, and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
-      "en-GB": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
-      "en-CA": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
-      "de-DE": "Im Nationalpark Plitvicer Seen scheint Wasser allgegenwärtig zu sein. Sechzehn terrassenförmig angeordnete Seen sind durch zahlreiche Wasserfälle, Bäche und Kaskaden miteinander verbunden und schlängeln sich durch bewaldete Kalksteinschluchten. Je nach Mineralgehalt, Sonneneinstrahlung und Spiegelungen schimmert das Wasser in immer neuen Farbtönen von Smaragdgrün bis Tiefblau. Der 1949 gegründete Nationalpark ist der älteste und größte Kroatiens. Besonders charakteristisch sind seine natürlichen Tuffbarrieren, die durch die Ablagerung von Kalziumkarbonat entstehen. Dieser Prozess setzt sich bis heute fort und verändert die Seen und Wasserfälle stetig.",
-      "fr-FR": "Au cœur de la Croatie, le parc national des Lacs de Plitvice semble sorti d'un rêve. Seize lacs en terrasses se succèdent, reliés par un labyrinthe de cascades, de ruisseaux et de chutes d'eau qui serpentent entre des canyons calcaires boisés. La couleur de l'eau — émeraude, turquoise, bleu profond — change selon la lumière, les minéraux dissous et le reflet des arbres. Aucune photo ne la restitue vraiment.",
-      "es-ES": "En el Parque Nacional de los Lagos de Plitvice, en Croacia, el agua parece estar en todas partes. Dieciséis lagos escalonados se enlazan mediante cascadas, arroyos y saltos que atraviesan cañones calizos cubiertos de bosque, y su color cambia del verde esmeralda al azul intenso según los minerales, la luz y los reflejos. Declarado en 1949, es el parque nacional más antiguo y más grande del país.",
-      "ja-JP": "ここはクロアチア中部に位置するプリトヴィツェ湖群国立公園。高低差のある 16 の湖と、それを繋ぐ 92 の滝や瀑布という壮大な景観が特徴です。湖水は、含まれるミネラルの組成や太陽光の反射によって、エメラルドグリーンから深い青までさまざまな色合いを見せます。園内には木製の遊歩道が整備されており、滝が流れ落ちる様子や澄んだ湖面、木々に囲まれた岸辺などを間近に眺めることができます。こうした圧倒的な自然美と豊かな生態系が評価され、1979年にユネスコ世界遺産に登録されました。",
-      "en-IN": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
-      "it-IT": "Nel Parco nazionale dei laghi di Plitvice, in Croazia, l'acqua sembra essere davvero ovunque. Sedici laghi a gradoni si collegano attraverso cascate, ruscelli e salti che attraversano canyon calcarei coperti di foresta, e il colore passa dal verde smeraldo al blu profondo a seconda dei minerali, della luce e dei riflessi. Istituito nel 1949, è il parco nazionale più antico e più grande del Paese.",
-      "pt-BR": "Em Plitvice, na Croácia, a água nunca descansa em seu projeto de paisagismo. Dezesseis lagos em diferentes níveis são ligados por cachoeiras, riachos e pequenas quedas-d’água que atravessam cânions cobertos pela floresta. Os tons variam do verde-esmeralda ao azul profundo, influenciados pelos minerais dissolvidos, pela luz e pelos reflexos que mudam o tempo todo.",
-      "zh-CN": "在克罗地亚的普利特维采湖群国家公园，水似乎无处不在。十六个阶梯状湖泊由瀑布、溪流和层叠而下的水流组成的网络连接起来，蜿蜒穿过森林覆盖的石灰岩峡谷。湖水的颜色不断变化，从翠绿到深蓝不等，这是由矿物质、阳光和不断变化的倒影共同造就的。普利特维采湖群国家公园成立于1949年，是克罗地亚历史最悠久、面积最大的国家公园。这里以石灰华屏障闻名，这种天然石灰岩构造是富含矿物质的水在数百年间沉积碳酸钙形成的。这些屏障仍在继续生长和变化，逐渐改变着公园内的瀑布和湖泊。"
+      "en-GB": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "de-DE": "Goldenes Licht, stilles Wasser und Zypressen, die sich nahezu perfekt darin spiegeln. Diese Szenerie wirkt wie gemalt. Die Teichzypresse ist im Südosten der USA heimisch und gedeiht vor allem in flachen Teichen, Senken und Feuchtgebieten. Diese Aufnahme entstand im US-Bundesstaat Georgia, wo die Bäume unter anderem im Okefenokee-Sumpf zu finden sind. Anders als die meisten Nadelbäume wirft die Teichzypresse im Herbst ihr nadelartiges Laub ab. Zuvor färbt es sich in warme Gelb-, Kupfer- und Orangebrauntöne. Die Art ist eng mit der weiter verbreiteten Sumpfzypresse verwandt, bleibt jedoch meist kleiner und bevorzugt stehende oder flache Gewässer.",
+      "fr-FR": "Se reflétant dans une eau paisible sous la lumière dorée du couchant, ce bosquet de cyprès des étangs compose un saisissant tableau de couleurs et de symétrie. Originaire du sud-est des États-Unis, cet arbre affectionne les mares peu profondes, les dépressions humides et les zones marécageuses. En Géorgie (États-Unis), où cette image a été capturée, il peuple notamment le célèbre marais d’Okefenokee et d’autres terres basses gorgées d’eau.",
+      "es-ES": "Reflejado en un agua sin una onda y encendido por la última luz del día, este bosquete de cipreses de estanque compone una escena de simetría casi perfecta. La especie es propia del sureste de Estados Unidos y esta imagen se tomó en Georgia, donde crece en lugares como el gran pantano de Okefenokee y otros humedales de tierras bajas.",
+      "ja-JP": "水面に映る秋の森. ポンドサイプレス, 米国 ジョージア州. 今日の画像は、米国ジョージア州で見られるポンドサイプレス。ヒノキ科、ヌマスギ属の樹木で、細い葉が小枝に沿うようにつくのが特徴です。秋から冬にかけて球果が成熟します。水辺では「膝根（しっこん）」と呼ばれる根の突起を形成することがあり、米国南東部の池や沼地などの湿地に分布しています。こうした湿地林は、さまざまな生物の重要な生息地となっています。",
+      "en-IN": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "en-US": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of color and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions, and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "en-CA": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "it-IT": "Riflesso in un'acqua senza una piega e illuminato dall'ultima luce del giorno, questo boschetto di cipressi compone una scena di simmetria quasi perfetta. La specie è tipica del sud-est degli Stati Uniti e l'immagine è stata scattata in Georgia, dove cresce in luoghi come la grande palude di Okefenokee e altre zone umide di pianura.",
+      "pt-BR": "Olhando esta paisagem, dá para jurar que o outono resolveu trocar as montanhas por um pântano. Quase. O cenário está na Geórgia, nos Estados Unidos, onde o cipreste-dos-pântanos forma extensos bosques em águas rasas e terrenos encharcados.",
+      "zh-CN": "这片池杉林倒映在平静的水面上，在落日余晖中熠熠生辉，呈现出色彩与对称之美，令人叹为观止。池杉原产于美国东南部，通常生长在浅水池塘、洼地和湿地生境中。这张照片拍摄于乔治亚州，当地的奥克弗诺基沼泽及其他低洼湿地中均可见这些树木。"
     },
     "quickFacts": {
-      "zh-CN": "普利特维采拥有84公顷的山毛榉和冷杉原始林，也是棕熊、灰狼和猞猁的家园。"
+      "en-US": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "en-GB": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "en-CA": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "de-DE": "Teichzypressen können sogenannte Atemknie entwickeln, knollenartige Wurzelstrukturen, die rund um den Baum aus dem Wasser oder Boden herausragen.",
+      "fr-FR": "Le cyprès des étangs peut développer des racines noueuses, appelées « genoux », qui émergent de l'eau ou du sol autour de l'arbre.",
+      "it-IT": "Il cipresso delle paludi sviluppa radici nodose chiamate «ginocchia», che emergono dall'acqua o dal terreno attorno all'albero.",
+      "es-ES": "El ciprés de estanque desarrolla raíces nudosas conocidas como «rodillas», que emergen del agua o del suelo alrededor del árbol.",
+      "zh-CN": "池杉会长出被称为“膝根”的瘤状根部结构，高出树木周围的水面或土壤。",
+      "en-IN": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree."
     },
     "captions": {
-      "en-US": "Plitvice Lakes National Park, Croatia",
-      "en-GB": "Plitvice Lakes National Park, Croatia",
-      "en-CA": "Plitvice Lakes National Park, Croatia",
-      "de-DE": "Nationalpark Plitvicer Seen, Kroatien",
-      "fr-FR": "Parc national des lacs de Plitvice, Croatie",
+      "en-GB": "A grove of pond cypress trees, Georgia, United States",
+      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA",
+      "fr-FR": "Cyprès des étangs, Géorgie, États-Unis",
       "it-IT": "",
-      "es-ES": "Parque Nacional de los Lagos de Plitvice, Croacia",
+      "es-ES": "Cipreses de estanque con color otoñal, Georgia, EE. UU.",
       "pt-BR": "",
-      "ja-JP": "紅葉に彩られた湖と滝",
+      "ja-JP": "水面に映る秋の森",
       "zh-CN": "",
-      "en-IN": "Plitvice Lakes National Park, Croatia"
+      "en-IN": "A grove of pond cypress trees, Georgia, United States"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261012_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Nationalpark+Plitvicer+Seen+Kroatien&form=hpcapt&filters=HpDate%3a%2220261012_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Parc+national+lacs+de+Plitvice&form=hpcapt&filters=HpDate%3a%2220261012_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Parco+nazionale+dei+laghi+di+Plitvice&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+los+Lagos+de+Plitvice&form=hpcapt&filters=HpDate%3a%2220261012_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+dos+Lagos+de+Plitvice&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%97%e3%83%aa%e3%83%88%e3%83%b4%e3%82%a3%e3%83%84%e3%82%a7%e6%b9%96%e7%be%a4%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261012_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%99%ae%e5%88%a9%e7%89%b9%e7%bb%b4%e9%87%87%e6%b9%96%e7%be%a4%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261012_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Sumpfzypressen&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=cypr%c3%a8s+des+%c3%a9tangs&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+      "it-IT": "https://www.bing.com/search?q=cipressi+delle+paludi&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=cipres+estanque&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=cipreste+dos+pantanos&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%9d%e3%83%b3%e3%83%89%e3%82%b5%e3%82%a4%e3%83%97%e3%83%ac%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261026_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b1%a0%e6%9d%89&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261026_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.PlitviceAutumn_EN-US6255909048",
-      "en-GB": "/th?id=OHR.PlitviceAutumn_EN-GB4470740504",
-      "en-CA": "/th?id=OHR.PlitviceAutumn_EN-CA2443117103",
-      "de-DE": "/th?id=OHR.PlitviceAutumn_DE-DE7625110895",
-      "fr-FR": "/th?id=OHR.PlitviceAutumn_FR-FR7127723381",
-      "it-IT": "/th?id=OHR.PlitviceAutumn_IT-IT0543699035",
-      "es-ES": "/th?id=OHR.PlitviceAutumn_ES-ES5332185237",
-      "pt-BR": "/th?id=OHR.PlitviceAutumn_PT-BR4568960471",
-      "ja-JP": "/th?id=OHR.PlitviceAutumn_JA-JP3930294400",
-      "zh-CN": "/th?id=OHR.PlitviceAutumn_ZH-CN5646237897",
-      "en-IN": "/th?id=OHR.PlitviceAutumn_EN-IN8498813927"
-    }
-  },
-  "WhiteHouse": {
-    "name": "WhiteHouse",
-    "urlbase": "/th?id=OHR.WhiteHouse_EN-US6161912809",
-    "date": "20261012",
-    "dateFormatted": "October 12, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "A landscape of living history. Indigenous Peoples' Day"
-    },
-    "copyrights": {
-      "en-US": "White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)"
-    },
-    "descs": {
-      "en-US": "Indigenous Peoples' Day honors the histories, cultures, and enduring contributions of Indigenous peoples across the United States. Observed by many communities on the second Monday in October, the day also invites reflection on the hardships Native peoples have faced and celebrates the resilience of Tribal Nations, whose languages, traditions, and knowledge continue to shape the country today."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-US": "Indigenous Peoples' Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Indigenous+Peoples%27+Day+US&form=hpcapt&filters=HpDate%3a%2220261012_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.WhiteHouse_EN-US6161912809"
+      "en-GB": "/th?id=OHR.PondCypress_EN-GB5711949030",
+      "de-DE": "/th?id=OHR.PondCypress_DE-DE2656375905",
+      "fr-FR": "/th?id=OHR.PondCypress_FR-FR3578297716",
+      "it-IT": "/th?id=OHR.PondCypress_IT-IT6320902214",
+      "es-ES": "/th?id=OHR.PondCypress_ES-ES1413599118",
+      "pt-BR": "/th?id=OHR.PondCypress_PT-BR8608067056",
+      "ja-JP": "/th?id=OHR.PondCypress_JA-JP5777656593",
+      "zh-CN": "/th?id=OHR.PondCypress_ZH-CN9472607734",
+      "en-IN": "/th?id=OHR.PondCypress_EN-IN8944704657"
     }
   },
   "BSTEnds2026": {
@@ -1968,40 +2040,6 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.GrizzlySwim_EN-CA2710630781"
-    }
-  },
-  "HeartLakeTG": {
-    "name": "HeartLakeTG",
-    "urlbase": "/th?id=OHR.HeartLakeTG_EN-CA2157233427",
-    "date": "20261012",
-    "dateFormatted": "October 12, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "Hearts filled with gratitude. Thanksgiving Day"
-    },
-    "copyrights": {
-      "en-CA": "Baker Lake near East Bolton, Quebec (© SEBASTIEN ST-JEAN/Contributor/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "Pull up a chair, pass the pie and make some room for gratitude. Thanksgiving in Canada has a story that goes back much further than the holiday table. This holiday is rooted in harvest traditions, with people gathering to give thanks. Its history is not tied to one single event, although an early celebration is associated with English explorer Martin Frobisher. In 1578, after his expedition made a safe passage across the Atlantic and reached what is now Nunavut, Frobisher held a celebratory feast. Over time, Thanksgiving evolved into a national holiday centred on the harvest and spending time with loved ones."
-    },
-    "quickFacts": {
-      "en-CA": "Thanksgiving has been observed on the second Monday in October throughout Canada since 1957."
-    },
-    "captions": {
-      "en-CA": "Thanksgiving Day"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Canadian+Thanksgiving&form=hpcapt&filters=HpDate%3a%2220261012_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.HeartLakeTG_EN-CA2157233427"
     }
   },
   "BerlinLibrary": {
@@ -2264,6 +2302,38 @@
       "es-ES": "/th?id=OHR.CordobaPatios_ES-ES7294783560"
     }
   },
+  "Nazare": {
+    "name": "Nazare",
+    "urlbase": "/th?id=OHR.Nazare_PT-BR0405066219",
+    "date": "20261026",
+    "dateFormatted": "October 26, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "A fé depois da festa"
+    },
+    "copyrights": {
+      "pt-BR": "Basílica Santuário de Nossa Senhora de Nazaré, Belém, Pará (© filipefrazao/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Belém, no Pará, pode até guardar as fitas e devolver as ruas ao trânsito. Mas convencer o Círio de Nazaré a ir embora é outra história. Romarias, brinquedos de miriti, almoços em família e reencontros têm seu auge no segundo domingo de outubro, quando mais de dois milhões ocupam as ruas. Não à toa, o Círio virou Patrimônio Cultural do Brasil pelo IPHAN em 2004 e Patrimônio Cultural Imaterial da Humanidade pela UNESCO em 2013."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Cirio+Nazare&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Nazare_PT-BR0405066219"
+    }
+  },
   "Veadeiros": {
     "name": "Veadeiros",
     "urlbase": "/th?id=OHR.Veadeiros_PT-BR0644976929",
@@ -2294,38 +2364,6 @@
     },
     "urlbases": {
       "pt-BR": "/th?id=OHR.Veadeiros_PT-BR0644976929"
-    }
-  },
-  "KidsDay": {
-    "name": "KidsDay",
-    "urlbase": "/th?id=OHR.KidsDay_PT-BR1347488359",
-    "date": "20261012",
-    "dateFormatted": "October 12, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Um mundo de miriti"
-    },
-    "copyrights": {
-      "pt-BR": "Brinquedos tradicionais de miriti expostos durante o Círio de Nazaré em Belém, Pará (© Ricardo Lima/Getty Images)"
-    },
-    "descs": {
-      "pt-BR": "Barcos que não precisam de rio, pássaros que não precisam de céu e aviões que partem de qualquer lugar. Em Belém, brinquedos de miriti transformam a infância numa pequena frota de aventuras. Feitos com a madeira leve do miritizeiro e pintados em cores vibrantes, eles surgem como peixes, bonecos, animais, embarcações e cenas do cotidiano e ganham destaque durante o Círio de Nazaré. Segundo relatos locais, esses brinquedos acompanham a festa desde sua primeira procissão, em 1793, muitos deles carregados por promesseiros como agradecimento por graças alcançadas."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=dia+criancas&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.KidsDay_PT-BR1347488359"
     }
   },
   "TsutanumaMomiji2026": {
@@ -2456,6 +2494,104 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "WhiteHouse": {
+    "name": "WhiteHouse",
+    "urlbase": "/th?id=OHR.WhiteHouse_EN-US6161912809",
+    "date": "20261012",
+    "dateFormatted": "October 12, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "A landscape of living history. Indigenous Peoples' Day"
+    },
+    "copyrights": {
+      "en-US": "White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "Indigenous Peoples' Day honors the histories, cultures, and enduring contributions of Indigenous peoples across the United States. Observed by many communities on the second Monday in October, the day also invites reflection on the hardships Native peoples have faced and celebrates the resilience of Tribal Nations, whose languages, traditions, and knowledge continue to shape the country today."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Indigenous Peoples' Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Indigenous+Peoples%27+Day+US&form=hpcapt&filters=HpDate%3a%2220261012_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.WhiteHouse_EN-US6161912809"
+    }
+  },
+  "HeartLakeTG": {
+    "name": "HeartLakeTG",
+    "urlbase": "/th?id=OHR.HeartLakeTG_EN-CA2157233427",
+    "date": "20261012",
+    "dateFormatted": "October 12, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Hearts filled with gratitude. Thanksgiving Day"
+    },
+    "copyrights": {
+      "en-CA": "Baker Lake near East Bolton, Quebec (© SEBASTIEN ST-JEAN/Contributor/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Pull up a chair, pass the pie and make some room for gratitude. Thanksgiving in Canada has a story that goes back much further than the holiday table. This holiday is rooted in harvest traditions, with people gathering to give thanks. Its history is not tied to one single event, although an early celebration is associated with English explorer Martin Frobisher. In 1578, after his expedition made a safe passage across the Atlantic and reached what is now Nunavut, Frobisher held a celebratory feast. Over time, Thanksgiving evolved into a national holiday centred on the harvest and spending time with loved ones."
+    },
+    "quickFacts": {
+      "en-CA": "Thanksgiving has been observed on the second Monday in October throughout Canada since 1957."
+    },
+    "captions": {
+      "en-CA": "Thanksgiving Day"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Canadian+Thanksgiving&form=hpcapt&filters=HpDate%3a%2220261012_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.HeartLakeTG_EN-CA2157233427"
+    }
+  },
+  "KidsDay": {
+    "name": "KidsDay",
+    "urlbase": "/th?id=OHR.KidsDay_PT-BR1347488359",
+    "date": "20261012",
+    "dateFormatted": "October 12, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Um mundo de miriti"
+    },
+    "copyrights": {
+      "pt-BR": "Brinquedos tradicionais de miriti expostos durante o Círio de Nazaré em Belém, Pará (© Ricardo Lima/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Barcos que não precisam de rio, pássaros que não precisam de céu e aviões que partem de qualquer lugar. Em Belém, brinquedos de miriti transformam a infância numa pequena frota de aventuras. Feitos com a madeira leve do miritizeiro e pintados em cores vibrantes, eles surgem como peixes, bonecos, animais, embarcações e cenas do cotidiano e ganham destaque durante o Círio de Nazaré. Segundo relatos locais, esses brinquedos acompanham a festa desde sua primeira procissão, em 1793, muitos deles carregados por promesseiros como agradecimento por graças alcançadas."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=dia+criancas&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.KidsDay_PT-BR1347488359"
     }
   },
   "BabcockSP": {
