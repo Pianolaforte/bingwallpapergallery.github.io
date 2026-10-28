@@ -1,4 +1,156 @@
 {
+  "PondCypress": {
+    "name": "PondCypress",
+    "urlbase": "/th?id=OHR.PondCypress_EN-US0123444779",
+    "date": "20261027",
+    "dateFormatted": "October 27, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia",
+      "en-GB": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States",
+      "en-CA": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia, USA",
+      "de-DE": "Goldener Spiegel der Natur. Teichzypressen in herbstlicher Färbung, Georgia, USA",
+      "fr-FR": "Le reflet doré de la nature. Cyprès des étangs, Géorgie, États-Unis",
+      "it-IT": "Riflessi dorati",
+      "es-ES": "Reflejos dorados. Cipreses de estanque con color otoñal, Georgia, EE. UU.",
+      "pt-BR": "Um espelho com raízes",
+      "ja-JP": "水面に映る秋の森",
+      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国",
+      "en-IN": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States"
+    },
+    "copyrights": {
+      "en-US": "A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)",
+      "en-GB": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
+      "en-CA": "A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images)",
+      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images)",
+      "fr-FR": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
+      "it-IT": "Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images)",
+      "es-ES": "Bosque de cipreses de estanque, Georgia, EE. UU. (© Chris Moore/Getty Images)",
+      "pt-BR": "Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)",
+      "ja-JP": "ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)",
+      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)",
+      "en-IN": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of color and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions, and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "en-GB": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "en-CA": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "de-DE": "Goldenes Licht, stilles Wasser und Zypressen, die sich nahezu perfekt darin spiegeln. Diese Szenerie wirkt wie gemalt. Die Teichzypresse ist im Südosten der USA heimisch und gedeiht vor allem in flachen Teichen, Senken und Feuchtgebieten. Diese Aufnahme entstand im US-Bundesstaat Georgia, wo die Bäume unter anderem im Okefenokee-Sumpf zu finden sind. Anders als die meisten Nadelbäume wirft die Teichzypresse im Herbst ihr nadelartiges Laub ab. Zuvor färbt es sich in warme Gelb-, Kupfer- und Orangebrauntöne. Die Art ist eng mit der weiter verbreiteten Sumpfzypresse verwandt, bleibt jedoch meist kleiner und bevorzugt stehende oder flache Gewässer.",
+      "fr-FR": "Se reflétant dans une eau paisible sous la lumière dorée du couchant, ce bosquet de cyprès des étangs compose un saisissant tableau de couleurs et de symétrie. Originaire du sud-est des États-Unis, cet arbre affectionne les mares peu profondes, les dépressions humides et les zones marécageuses. En Géorgie (États-Unis), où cette image a été capturée, il peuple notamment le célèbre marais d’Okefenokee et d’autres terres basses gorgées d’eau.",
+      "es-ES": "Reflejado en un agua sin una onda y encendido por la última luz del día, este bosquete de cipreses de estanque compone una escena de simetría casi perfecta. La especie es propia del sureste de Estados Unidos y esta imagen se tomó en Georgia, donde crece en lugares como el gran pantano de Okefenokee y otros humedales de tierras bajas.",
+      "ja-JP": "水面に映る秋の森. ポンドサイプレス, 米国 ジョージア州. 今日の画像は、米国ジョージア州で見られるポンドサイプレス。ヒノキ科、ヌマスギ属の樹木で、細い葉が小枝に沿うようにつくのが特徴です。秋から冬にかけて球果が成熟します。水辺では「膝根（しっこん）」と呼ばれる根の突起を形成することがあり、米国南東部の池や沼地などの湿地に分布しています。こうした湿地林は、さまざまな生物の重要な生息地となっています。",
+      "en-IN": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "it-IT": "Riflesso in un'acqua senza una piega e illuminato dall'ultima luce del giorno, questo boschetto di cipressi compone una scena di simmetria quasi perfetta. La specie è tipica del sud-est degli Stati Uniti e l'immagine è stata scattata in Georgia, dove cresce in luoghi come la grande palude di Okefenokee e altre zone umide di pianura.",
+      "pt-BR": "Olhando esta paisagem, dá para jurar que o outono resolveu trocar as montanhas por um pântano. Quase. O cenário está na Geórgia, nos Estados Unidos, onde o cipreste-dos-pântanos forma extensos bosques em águas rasas e terrenos encharcados.",
+      "zh-CN": "这片池杉林倒映在平静的水面上，在落日余晖中熠熠生辉，呈现出色彩与对称之美，令人叹为观止。池杉原产于美国东南部，通常生长在浅水池塘、洼地和湿地生境中。这张照片拍摄于乔治亚州，当地的奥克弗诺基沼泽及其他低洼湿地中均可见这些树木。"
+    },
+    "quickFacts": {
+      "en-US": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "en-GB": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "en-CA": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "de-DE": "Teichzypressen können sogenannte Atemknie entwickeln, knollenartige Wurzelstrukturen, die rund um den Baum aus dem Wasser oder Boden herausragen.",
+      "fr-FR": "Le cyprès des étangs peut développer des racines noueuses, appelées « genoux », qui émergent de l'eau ou du sol autour de l'arbre.",
+      "it-IT": "Il cipresso delle paludi sviluppa radici nodose chiamate «ginocchia», che emergono dall'acqua o dal terreno attorno all'albero.",
+      "es-ES": "El ciprés de estanque desarrolla raíces nudosas conocidas como «rodillas», que emergen del agua o del suelo alrededor del árbol.",
+      "zh-CN": "池杉会长出被称为“膝根”的瘤状根部结构，高出树木周围的水面或土壤。",
+      "en-IN": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree."
+    },
+    "captions": {
+      "en-US": "A grove of pond cypress trees with fall foliage, Georgia",
+      "en-GB": "A grove of pond cypress trees, Georgia, United States",
+      "en-CA": "A grove of pond cypress trees with fall foliage, Georgia, USA",
+      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA",
+      "fr-FR": "Cyprès des étangs, Géorgie, États-Unis",
+      "it-IT": "",
+      "es-ES": "Cipreses de estanque con color otoñal, Georgia, EE. UU.",
+      "pt-BR": "",
+      "ja-JP": "水面に映る秋の森",
+      "zh-CN": "",
+      "en-IN": "A grove of pond cypress trees, Georgia, United States"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Sumpfzypressen&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=cypr%c3%a8s+des+%c3%a9tangs&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+      "it-IT": "https://www.bing.com/search?q=cipressi+delle+paludi&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=cipres+estanque&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=cipreste+dos+pantanos&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%9d%e3%83%b3%e3%83%89%e3%82%b5%e3%82%a4%e3%83%97%e3%83%ac%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261026_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b1%a0%e6%9d%89&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261026_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PondCypress_EN-US0123444779",
+      "en-GB": "/th?id=OHR.PondCypress_EN-GB5711949030",
+      "en-CA": "/th?id=OHR.PondCypress_EN-CA4795569261",
+      "de-DE": "/th?id=OHR.PondCypress_DE-DE2656375905",
+      "fr-FR": "/th?id=OHR.PondCypress_FR-FR3578297716",
+      "it-IT": "/th?id=OHR.PondCypress_IT-IT6320902214",
+      "es-ES": "/th?id=OHR.PondCypress_ES-ES1413599118",
+      "pt-BR": "/th?id=OHR.PondCypress_PT-BR8608067056",
+      "ja-JP": "/th?id=OHR.PondCypress_JA-JP5777656593",
+      "zh-CN": "/th?id=OHR.PondCypress_ZH-CN9472607734",
+      "en-IN": "/th?id=OHR.PondCypress_EN-IN8944704657"
+    }
+  },
   "HangingBat": {
     "name": "HangingBat",
     "urlbase": "/th?id=OHR.HangingBat_EN-US7714746725",
@@ -642,7 +794,7 @@
       "es-ES": "Un puente recién estrenado. Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam",
       "pt-BR": "O voo que virou ponte",
       "ja-JP": "ライトアップされたアーチ橋",
-      "zh-CN": "香江上的阮潢桥，顺化，越南",
+      "zh-CN": "飞掠河面",
       "en-IN": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam"
     },
     "copyrights": {
@@ -1540,46 +1692,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1630,116 +1742,20 @@
       "en-US": "A fossil doesn't have to be a bone. Tracks, burrows, nests, and other traces of ancient life can become fossils too."
     },
     "captions": {
-      "en-US": "National Fossil Day",
-      "en-GB": "Ammonite fossils from the Jurassic Period",
-      "de-DE": "Ammonitenfossilien aus der Jurazeit",
-      "fr-FR": "Fossiles d'ammonites du Jurassique",
-      "it-IT": "",
-      "es-ES": "Fósiles de amonites del Jurásico",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "Ammonite fossils from the Jurassic Period"
+      "en-US": "National Fossil Day"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Fossil+Day&form=hpcapt&filters=HpDate%3a%2220261014_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate%3a%2220261013_2300%22",
-      "de-DE": "https://www.bing.com/search?q=Fossilien&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=le+Jurassique&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Fossili+di+ammoniti&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=F%c3%b3siles+de+amonites&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=amonites&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e5%ae%b6%e5%8c%96%e7%9f%b3%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate%3a%2220261013_1830%22"
+      "en-US": "https://www.bing.com/search?q=National+Fossil+Day&form=hpcapt&filters=HpDate%3a%2220261014_0700%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.AmmoniteFossils_EN-US6354038755",
-      "en-GB": "/th?id=OHR.AmmoniteFossils_EN-GB4546470412",
-      "de-DE": "/th?id=OHR.AmmoniteFossils_DE-DE6773160072",
-      "fr-FR": "/th?id=OHR.AmmoniteFossils_FR-FR7395830779",
-      "it-IT": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844",
-      "es-ES": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890",
-      "pt-BR": "/th?id=OHR.AmmoniteFossils_PT-BR4750235603",
-      "zh-CN": "/th?id=OHR.AmmoniteFossils_ZH-CN5825251327",
-      "en-IN": "/th?id=OHR.AmmoniteFossils_EN-IN8565946131"
+      "en-US": "/th?id=OHR.AmmoniteFossils_EN-US6354038755"
     }
   },
-  "PlitviceAutumn": {
-    "name": "PlitviceAutumn",
-    "urlbase": "/th?id=OHR.PlitviceAutumn_EN-US6255909048",
-    "date": "20261013",
-    "dateFormatted": "October 13, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
-      "en-CA": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
-      "en-GB": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
-      "de-DE": "Eine Symphonie in Blau und Grün. Nationalpark Plitvicer Seen, Kroatien",
-      "fr-FR": "Variations en bleu et vert. Parc national des lacs de Plitvice, Croatie",
-      "it-IT": "Sinfonia in blu e verde",
-      "es-ES": "Sinfonía en azul y verde. Parque Nacional de los Lagos de Plitvice, Croacia",
-      "pt-BR": "A sinfonia das cachoeiras",
-      "ja-JP": "紅葉に彩られた湖と滝",
-      "zh-CN": "蓝与绿的交响曲",
-      "en-IN": "A symphony in blue and green. Plitvice Lakes National Park, Croatia"
-    },
-    "copyrights": {
-      "en-US": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
-      "en-CA": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
-      "en-GB": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
-      "de-DE": "Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)",
-      "fr-FR": "Parc national des lacs de Plitvice, Croatie (© Jan Wlodarczyk/Alamy)",
-      "it-IT": "Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)",
-      "es-ES": "Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)",
-      "pt-BR": "Parque Nacional dos Lagos de Plitvice, Croácia (© Jan Wlodarczyk/Alamy)",
-      "ja-JP": "プリトヴィツェ湖群国立公園, クロアチア (© Jan Wlodarczyk/Alamy)",
-      "zh-CN": "普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)",
-      "en-IN": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)"
-    },
-    "descs": {
-      "en-US": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams, and cascades that wind through forested limestone canyons. The constantly changing colors of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight, and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
-      "en-CA": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
-      "en-GB": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
-      "de-DE": "Im Nationalpark Plitvicer Seen scheint Wasser allgegenwärtig zu sein. Sechzehn terrassenförmig angeordnete Seen sind durch zahlreiche Wasserfälle, Bäche und Kaskaden miteinander verbunden und schlängeln sich durch bewaldete Kalksteinschluchten. Je nach Mineralgehalt, Sonneneinstrahlung und Spiegelungen schimmert das Wasser in immer neuen Farbtönen von Smaragdgrün bis Tiefblau. Der 1949 gegründete Nationalpark ist der älteste und größte Kroatiens. Besonders charakteristisch sind seine natürlichen Tuffbarrieren, die durch die Ablagerung von Kalziumkarbonat entstehen. Dieser Prozess setzt sich bis heute fort und verändert die Seen und Wasserfälle stetig.",
-      "fr-FR": "Au cœur de la Croatie, le parc national des Lacs de Plitvice semble sorti d'un rêve. Seize lacs en terrasses se succèdent, reliés par un labyrinthe de cascades, de ruisseaux et de chutes d'eau qui serpentent entre des canyons calcaires boisés. La couleur de l'eau — émeraude, turquoise, bleu profond — change selon la lumière, les minéraux dissous et le reflet des arbres. Aucune photo ne la restitue vraiment.",
-      "es-ES": "En el Parque Nacional de los Lagos de Plitvice, en Croacia, el agua parece estar en todas partes. Dieciséis lagos escalonados se enlazan mediante cascadas, arroyos y saltos que atraviesan cañones calizos cubiertos de bosque, y su color cambia del verde esmeralda al azul intenso según los minerales, la luz y los reflejos. Declarado en 1949, es el parque nacional más antiguo y más grande del país.",
-      "ja-JP": "ここはクロアチア中部に位置するプリトヴィツェ湖群国立公園。高低差のある 16 の湖と、それを繋ぐ 92 の滝や瀑布という壮大な景観が特徴です。湖水は、含まれるミネラルの組成や太陽光の反射によって、エメラルドグリーンから深い青までさまざまな色合いを見せます。園内には木製の遊歩道が整備されており、滝が流れ落ちる様子や澄んだ湖面、木々に囲まれた岸辺などを間近に眺めることができます。こうした圧倒的な自然美と豊かな生態系が評価され、1979年にユネスコ世界遺産に登録されました。",
-      "en-IN": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
-      "it-IT": "Nel Parco nazionale dei laghi di Plitvice, in Croazia, l'acqua sembra essere davvero ovunque. Sedici laghi a gradoni si collegano attraverso cascate, ruscelli e salti che attraversano canyon calcarei coperti di foresta, e il colore passa dal verde smeraldo al blu profondo a seconda dei minerali, della luce e dei riflessi. Istituito nel 1949, è il parco nazionale più antico e più grande del Paese.",
-      "pt-BR": "Em Plitvice, na Croácia, a água nunca descansa em seu projeto de paisagismo. Dezesseis lagos em diferentes níveis são ligados por cachoeiras, riachos e pequenas quedas-d’água que atravessam cânions cobertos pela floresta. Os tons variam do verde-esmeralda ao azul profundo, influenciados pelos minerais dissolvidos, pela luz e pelos reflexos que mudam o tempo todo.",
-      "zh-CN": "在克罗地亚的普利特维采湖群国家公园，水似乎无处不在。十六个阶梯状湖泊由瀑布、溪流和层叠而下的水流组成的网络连接起来，蜿蜒穿过森林覆盖的石灰岩峡谷。湖水的颜色不断变化，从翠绿到深蓝不等，这是由矿物质、阳光和不断变化的倒影共同造就的。普利特维采湖群国家公园成立于1949年，是克罗地亚历史最悠久、面积最大的国家公园。这里以石灰华屏障闻名，这种天然石灰岩构造是富含矿物质的水在数百年间沉积碳酸钙形成的。这些屏障仍在继续生长和变化，逐渐改变着公园内的瀑布和湖泊。"
-    },
-    "quickFacts": {
-      "zh-CN": "普利特维采拥有84公顷的山毛榉和冷杉原始林，也是棕熊、灰狼和猞猁的家园。"
-    },
-    "captions": {
-      "en-US": "Plitvice Lakes National Park, Croatia",
-      "en-CA": "Plitvice Lakes National Park, Croatia"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.PlitviceAutumn_EN-US6255909048",
-      "en-CA": "/th?id=OHR.PlitviceAutumn_EN-CA2443117103"
-    }
-  },
-  "PondCypress": {
-    "name": "PondCypress",
-    "urlbase": "/th?id=OHR.PondCypress_EN-GB5711949030",
-    "date": "20261027",
-    "dateFormatted": "October 27, 2026",
+  "KuneticeCastle": {
+    "name": "KuneticeCastle",
+    "urlbase": "/th?id=OHR.KuneticeCastle_EN-GB5805400783",
+    "date": "20261028",
+    "dateFormatted": "October 28, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1788,87 +1804,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States",
-      "de-DE": "Goldener Spiegel der Natur. Teichzypressen in herbstlicher Färbung, Georgia, USA",
-      "fr-FR": "Le reflet doré de la nature. Cyprès des étangs, Géorgie, États-Unis",
-      "it-IT": "Riflessi dorati",
-      "es-ES": "Reflejos dorados. Cipreses de estanque con color otoñal, Georgia, EE. UU.",
-      "pt-BR": "Um espelho com raízes",
-      "ja-JP": "水面に映る秋の森",
-      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国",
-      "en-IN": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States",
-      "en-US": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia, USA",
-      "en-CA": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia, United States"
+      "en-GB": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "de-DE": "Wo Geschichte Wache hält. Burg Kunětická hora, Böhmen, Tschechien",
+      "fr-FR": "Gardien de l’histoire. Château de Kunětická hora, Bohême, Tchéquie",
+      "it-IT": "Secoli sopra la Boemia",
+      "es-ES": "Siglos sobre Bohemia. Castillo de Kunětická hora, Bohemia, Chequia",
+      "pt-BR": "O melhor ponto de vista",
+      "ja-JP": "夕暮れに佇む古城",
+      "zh-CN": "库涅季采山城堡，波希米亚，捷克",
+      "en-IN": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "en-US": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "en-CA": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia"
     },
     "copyrights": {
-      "en-GB": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
-      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images)",
-      "fr-FR": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
-      "it-IT": "Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images)",
-      "es-ES": "Bosque de cipreses de estanque, Georgia, EE. UU. (© Chris Moore/Getty Images)",
-      "pt-BR": "Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)",
-      "ja-JP": "ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)",
-      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)",
-      "en-IN": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
-      "en-US": "© Chris Moore/Getty Images",
-      "en-CA": "© Chris Moore/Getty Images"
+      "en-GB": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
+      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy)",
+      "it-IT": "Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy)",
+      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia (© Marek Saroch/Alamy)",
+      "pt-BR": "Castelo de Kunětická hora, Boêmia, Chéquia (© Marek Saroch/Alamy)",
+      "ja-JP": "クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)",
+      "zh-CN": "库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)",
+      "en-IN": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "en-US": "© Marek Saroch/Alamy",
+      "en-CA": "© Marek Saroch/Alamy"
     },
     "descs": {
-      "en-GB": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
-      "de-DE": "Goldenes Licht, stilles Wasser und Zypressen, die sich nahezu perfekt darin spiegeln. Diese Szenerie wirkt wie gemalt. Die Teichzypresse ist im Südosten der USA heimisch und gedeiht vor allem in flachen Teichen, Senken und Feuchtgebieten. Diese Aufnahme entstand im US-Bundesstaat Georgia, wo die Bäume unter anderem im Okefenokee-Sumpf zu finden sind. Anders als die meisten Nadelbäume wirft die Teichzypresse im Herbst ihr nadelartiges Laub ab. Zuvor färbt es sich in warme Gelb-, Kupfer- und Orangebrauntöne. Die Art ist eng mit der weiter verbreiteten Sumpfzypresse verwandt, bleibt jedoch meist kleiner und bevorzugt stehende oder flache Gewässer.",
-      "fr-FR": "Se reflétant dans une eau paisible sous la lumière dorée du couchant, ce bosquet de cyprès des étangs compose un saisissant tableau de couleurs et de symétrie. Originaire du sud-est des États-Unis, cet arbre affectionne les mares peu profondes, les dépressions humides et les zones marécageuses. En Géorgie (États-Unis), où cette image a été capturée, il peuple notamment le célèbre marais d’Okefenokee et d’autres terres basses gorgées d’eau.",
-      "es-ES": "Reflejado en un agua sin una onda y encendido por la última luz del día, este bosquete de cipreses de estanque compone una escena de simetría casi perfecta. La especie es propia del sureste de Estados Unidos y esta imagen se tomó en Georgia, donde crece en lugares como el gran pantano de Okefenokee y otros humedales de tierras bajas.",
-      "ja-JP": "水面に映る秋の森. ポンドサイプレス, 米国 ジョージア州. 今日の画像は、米国ジョージア州で見られるポンドサイプレス。ヒノキ科、ヌマスギ属の樹木で、細い葉が小枝に沿うようにつくのが特徴です。秋から冬にかけて球果が成熟します。水辺では「膝根（しっこん）」と呼ばれる根の突起を形成することがあり、米国南東部の池や沼地などの湿地に分布しています。こうした湿地林は、さまざまな生物の重要な生息地となっています。",
-      "en-IN": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
-      "en-US": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of color and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions, and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
-      "en-CA": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
-      "it-IT": "Riflesso in un'acqua senza una piega e illuminato dall'ultima luce del giorno, questo boschetto di cipressi compone una scena di simmetria quasi perfetta. La specie è tipica del sud-est degli Stati Uniti e l'immagine è stata scattata in Georgia, dove cresce in luoghi come la grande palude di Okefenokee e altre zone umide di pianura.",
-      "pt-BR": "Olhando esta paisagem, dá para jurar que o outono resolveu trocar as montanhas por um pântano. Quase. O cenário está na Geórgia, nos Estados Unidos, onde o cipreste-dos-pântanos forma extensos bosques em águas rasas e terrenos encharcados.",
-      "zh-CN": "这片池杉林倒映在平静的水面上，在落日余晖中熠熠生辉，呈现出色彩与对称之美，令人叹为观止。池杉原产于美国东南部，通常生长在浅水池塘、洼地和湿地生境中。这张照片拍摄于乔治亚州，当地的奥克弗诺基沼泽及其他低洼湿地中均可见这些树木。"
+      "en-GB": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "de-DE": "Was könnten diese Mauern wohl alles erzählen? Hoch über der ostböhmischen Landschaft thront die Burg Kunětická hora, die im Deutschen auch als Kunburg bekannt ist. Bereits in der zweiten Hälfte des 14. Jahrhunderts stand an dieser Stelle eine ausgedehnte Burganlage. Ihre erhöhte Lage machte sie weithin sichtbar und zu einem wichtigen strategischen Stützpunkt.",
+      "fr-FR": "Quelles histoires ces murailles pourraient-elles raconter ? Dominant la Bohême orientale, en Tchéquie, le château de Kunětická hora veille sur la campagne depuis la fin du XIVᵉ siècle. Progressivement agrandi, il devint à la fois une imposante forteresse et une résidence aristocratique. Sa position élevée offrait un vaste panorama sur les plaines environnantes et faisait du château un bastion stratégique.",
+      "es-ES": "¿Qué historias contarían estos muros? El castillo de Kunětická hora se alza sobre un cerro solitario en el este de Bohemia, en en Chequia, y lleva siglos vigilando la llanura del Elba. A finales del siglo XIV ya había una fortaleza en esta colina, y su posición elevada, que permitía controlar todo el territorio circundante, la convirtió en una plaza codiciada.",
+      "ja-JP": "チェコ東部のボヘミア地方にそびえるクネティツカー・ホラ城は、14 世紀なかば頃には、すでにこの地に城が存在していたとされています。時代の流れとともに、要塞や貴族の居城として発展し、16 世紀には当時有力だったペルンシュテイン家によって、後期ゴシック様式とルネサンス様式の壮大な城へと改築されました。その後は荒廃し、採石によって一部が失われましたが、20 世紀初めから修復が始まりました。現在は、城内で展示や当時使用されていた部屋を見学することが可能であり、塔からは周囲の雄大な景色を一望できます。中世ボヘミアの歴史を今に伝える印象的な城です。",
+      "en-IN": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "en-US": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "en-CA": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "it-IT": "Che storie racconterebbero queste mura? Il castello di Kunětická hora si alza su un colle isolato nella Boemia orientale, in Cechia, e da secoli tiene d'occhio la pianura dell'Elba. Alla fine del Trecento sulla collina esisteva già una fortezza, e la sua posizione elevata, che permetteva di controllare tutto il territorio intorno, la rese una piazza ambita.",
+      "pt-BR": "No alto de uma colina na Boêmia, na atual Chéquia, o Castelo de Kunětická hora passou por uma história cheia de reviravoltas. Suas origens remontam ao fim do século XIV, quando a posição elevada já oferecia uma vantagem nada desprezível: dali era possível vigiar boa parte da paisagem ao redor. Com o tempo, a fortificação virou também residência de nobres e ganhou novas estruturas.",
+      "zh-CN": "这些城墙会讲述怎样的故事？库涅季采山城堡高踞于捷克波希米亚东部，见证了数百年的历史。城堡的历史可追溯至14世纪末，后来逐渐发展为一座宏伟的要塞和贵族宅邸。它地势高耸，可俯瞰周围乡野，也因此成为一处重要据点。"
     },
     "quickFacts": {
-      "en-US": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
-      "en-GB": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
-      "en-CA": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
-      "de-DE": "Teichzypressen können sogenannte Atemknie entwickeln, knollenartige Wurzelstrukturen, die rund um den Baum aus dem Wasser oder Boden herausragen.",
-      "fr-FR": "Le cyprès des étangs peut développer des racines noueuses, appelées « genoux », qui émergent de l'eau ou du sol autour de l'arbre.",
-      "it-IT": "Il cipresso delle paludi sviluppa radici nodose chiamate «ginocchia», che emergono dall'acqua o dal terreno attorno all'albero.",
-      "es-ES": "El ciprés de estanque desarrolla raíces nudosas conocidas como «rodillas», que emergen del agua o del suelo alrededor del árbol.",
-      "zh-CN": "池杉会长出被称为“膝根”的瘤状根部结构，高出树木周围的水面或土壤。",
-      "en-IN": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree."
+      "zh-CN": "1645年，一支瑞典军队攻占库涅季采山城堡，并在撤离前将其焚毁，加速了城堡此后的长期衰败。"
     },
     "captions": {
-      "en-GB": "A grove of pond cypress trees, Georgia, United States",
-      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA",
-      "fr-FR": "Cyprès des étangs, Géorgie, États-Unis",
+      "en-GB": "Kunětická hora Castle, Bohemia, Czechia",
+      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien",
+      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie",
       "it-IT": "",
-      "es-ES": "Cipreses de estanque con color otoñal, Georgia, EE. UU.",
+      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia",
       "pt-BR": "",
-      "ja-JP": "水面に映る秋の森",
+      "ja-JP": "夕暮れに佇む古城",
       "zh-CN": "",
-      "en-IN": "A grove of pond cypress trees, Georgia, United States"
+      "en-IN": "Kunětická hora Castle, Bohemia, Czechia"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Sumpfzypressen&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=cypr%c3%a8s+des+%c3%a9tangs&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
-      "it-IT": "https://www.bing.com/search?q=cipressi+delle+paludi&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=cipres+estanque&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=cipreste+dos+pantanos&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%9d%e3%83%b3%e3%83%89%e3%82%b5%e3%82%a4%e3%83%97%e3%83%ac%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261026_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%b1%a0%e6%9d%89&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261026_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Burg+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=ch%c3%a2teau+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Castello+di+Kun%c4%9btick%c3%a1+hora&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Castillo+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Castelo+de+Kuneticka+hora+Ch%c3%a9quia&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle+&form=hpcapt&filters=HpDate%3a%2220261027_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%ba%93%e6%b6%85%e5%ad%a3%e9%87%87%e5%b1%b1%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261027_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.PondCypress_EN-GB5711949030",
-      "de-DE": "/th?id=OHR.PondCypress_DE-DE2656375905",
-      "fr-FR": "/th?id=OHR.PondCypress_FR-FR3578297716",
-      "it-IT": "/th?id=OHR.PondCypress_IT-IT6320902214",
-      "es-ES": "/th?id=OHR.PondCypress_ES-ES1413599118",
-      "pt-BR": "/th?id=OHR.PondCypress_PT-BR8608067056",
-      "ja-JP": "/th?id=OHR.PondCypress_JA-JP5777656593",
-      "zh-CN": "/th?id=OHR.PondCypress_ZH-CN9472607734",
-      "en-IN": "/th?id=OHR.PondCypress_EN-IN8944704657"
+      "en-GB": "/th?id=OHR.KuneticeCastle_EN-GB5805400783",
+      "de-DE": "/th?id=OHR.KuneticeCastle_DE-DE2818546067",
+      "fr-FR": "/th?id=OHR.KuneticeCastle_FR-FR0560907896",
+      "it-IT": "/th?id=OHR.KuneticeCastle_IT-IT9181989032",
+      "es-ES": "/th?id=OHR.KuneticeCastle_ES-ES0637644398",
+      "pt-BR": "/th?id=OHR.KuneticeCastle_PT-BR8917469200",
+      "ja-JP": "/th?id=OHR.KuneticeCastle_JA-JP3914699688",
+      "zh-CN": "/th?id=OHR.KuneticeCastle_ZH-CN8895858920",
+      "en-IN": "/th?id=OHR.KuneticeCastle_EN-IN9209042094"
     }
   },
   "BSTEnds2026": {
@@ -2430,38 +2438,6 @@
       "ja-JP": "/th?id=OHR.Persimmons2026_JA-JP2192858733"
     }
   },
-  "RailwayDay2026": {
-    "name": "RailwayDay2026",
-    "urlbase": "/th?id=OHR.RailwayDay2026_JA-JP4058067313",
-    "date": "20261013",
-    "dateFormatted": "October 13, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日は鉄道の日"
-    },
-    "copyrights": {
-      "ja-JP": "嵯峨野トロッコ列車, 京都府京都市 (© giggsy25/Shutterstock)"
-    },
-    "descs": {
-      "ja-JP": "10 月 14 日は「鉄道の日」。1872年の今日、初代新橋駅〜横浜駅（現 桜木町駅）間で日本初の鉄道が正式に開業したことにちなみ、1994 年に運輸省（現 国土交通省）が定めました。そして、今日の画像は京都・嵐山を走るトロッコ列車。秋の嵐山では、色づいた山々の間を嵯峨野トロッコ列車がゆっくりと走り抜けます。渓谷を流れる保津川と紅葉が織りなす風景は、多くの人々を魅了する秋の風物詩となっています。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "今日は鉄道の日"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e9%89%84%e9%81%93%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261013_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.RailwayDay2026_JA-JP4058067313"
-    }
-  },
   "MahaNavami2026": {
     "name": "MahaNavami2026",
     "urlbase": "/th?id=OHR.MahaNavami2026_EN-IN6653933239",
@@ -2494,6 +2470,110 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "PlitviceAutumn": {
+    "name": "PlitviceAutumn",
+    "urlbase": "/th?id=OHR.PlitviceAutumn_EN-US6255909048",
+    "date": "20261013",
+    "dateFormatted": "October 13, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "en-CA": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "en-GB": "A symphony in blue and green. Plitvice Lakes National Park, Croatia",
+      "de-DE": "Eine Symphonie in Blau und Grün. Nationalpark Plitvicer Seen, Kroatien",
+      "fr-FR": "Variations en bleu et vert. Parc national des lacs de Plitvice, Croatie",
+      "it-IT": "Sinfonia in blu e verde",
+      "es-ES": "Sinfonía en azul y verde. Parque Nacional de los Lagos de Plitvice, Croacia",
+      "pt-BR": "A sinfonia das cachoeiras",
+      "ja-JP": "紅葉に彩られた湖と滝",
+      "zh-CN": "蓝与绿的交响曲",
+      "en-IN": "A symphony in blue and green. Plitvice Lakes National Park, Croatia"
+    },
+    "copyrights": {
+      "en-US": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "en-CA": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "en-GB": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+      "de-DE": "Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)",
+      "fr-FR": "Parc national des lacs de Plitvice, Croatie (© Jan Wlodarczyk/Alamy)",
+      "it-IT": "Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)",
+      "es-ES": "Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)",
+      "pt-BR": "Parque Nacional dos Lagos de Plitvice, Croácia (© Jan Wlodarczyk/Alamy)",
+      "ja-JP": "プリトヴィツェ湖群国立公園, クロアチア (© Jan Wlodarczyk/Alamy)",
+      "zh-CN": "普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)",
+      "en-IN": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)"
+    },
+    "descs": {
+      "en-US": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams, and cascades that wind through forested limestone canyons. The constantly changing colors of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight, and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "en-CA": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "en-GB": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "de-DE": "Im Nationalpark Plitvicer Seen scheint Wasser allgegenwärtig zu sein. Sechzehn terrassenförmig angeordnete Seen sind durch zahlreiche Wasserfälle, Bäche und Kaskaden miteinander verbunden und schlängeln sich durch bewaldete Kalksteinschluchten. Je nach Mineralgehalt, Sonneneinstrahlung und Spiegelungen schimmert das Wasser in immer neuen Farbtönen von Smaragdgrün bis Tiefblau. Der 1949 gegründete Nationalpark ist der älteste und größte Kroatiens. Besonders charakteristisch sind seine natürlichen Tuffbarrieren, die durch die Ablagerung von Kalziumkarbonat entstehen. Dieser Prozess setzt sich bis heute fort und verändert die Seen und Wasserfälle stetig.",
+      "fr-FR": "Au cœur de la Croatie, le parc national des Lacs de Plitvice semble sorti d'un rêve. Seize lacs en terrasses se succèdent, reliés par un labyrinthe de cascades, de ruisseaux et de chutes d'eau qui serpentent entre des canyons calcaires boisés. La couleur de l'eau — émeraude, turquoise, bleu profond — change selon la lumière, les minéraux dissous et le reflet des arbres. Aucune photo ne la restitue vraiment.",
+      "es-ES": "En el Parque Nacional de los Lagos de Plitvice, en Croacia, el agua parece estar en todas partes. Dieciséis lagos escalonados se enlazan mediante cascadas, arroyos y saltos que atraviesan cañones calizos cubiertos de bosque, y su color cambia del verde esmeralda al azul intenso según los minerales, la luz y los reflejos. Declarado en 1949, es el parque nacional más antiguo y más grande del país.",
+      "ja-JP": "ここはクロアチア中部に位置するプリトヴィツェ湖群国立公園。高低差のある 16 の湖と、それを繋ぐ 92 の滝や瀑布という壮大な景観が特徴です。湖水は、含まれるミネラルの組成や太陽光の反射によって、エメラルドグリーンから深い青までさまざまな色合いを見せます。園内には木製の遊歩道が整備されており、滝が流れ落ちる様子や澄んだ湖面、木々に囲まれた岸辺などを間近に眺めることができます。こうした圧倒的な自然美と豊かな生態系が評価され、1979年にユネスコ世界遺産に登録されました。",
+      "en-IN": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "it-IT": "Nel Parco nazionale dei laghi di Plitvice, in Croazia, l'acqua sembra essere davvero ovunque. Sedici laghi a gradoni si collegano attraverso cascate, ruscelli e salti che attraversano canyon calcarei coperti di foresta, e il colore passa dal verde smeraldo al blu profondo a seconda dei minerali, della luce e dei riflessi. Istituito nel 1949, è il parco nazionale più antico e più grande del Paese.",
+      "pt-BR": "Em Plitvice, na Croácia, a água nunca descansa em seu projeto de paisagismo. Dezesseis lagos em diferentes níveis são ligados por cachoeiras, riachos e pequenas quedas-d’água que atravessam cânions cobertos pela floresta. Os tons variam do verde-esmeralda ao azul profundo, influenciados pelos minerais dissolvidos, pela luz e pelos reflexos que mudam o tempo todo.",
+      "zh-CN": "在克罗地亚的普利特维采湖群国家公园，水似乎无处不在。十六个阶梯状湖泊由瀑布、溪流和层叠而下的水流组成的网络连接起来，蜿蜒穿过森林覆盖的石灰岩峡谷。湖水的颜色不断变化，从翠绿到深蓝不等，这是由矿物质、阳光和不断变化的倒影共同造就的。普利特维采湖群国家公园成立于1949年，是克罗地亚历史最悠久、面积最大的国家公园。这里以石灰华屏障闻名，这种天然石灰岩构造是富含矿物质的水在数百年间沉积碳酸钙形成的。这些屏障仍在继续生长和变化，逐渐改变着公园内的瀑布和湖泊。"
+    },
+    "quickFacts": {
+      "zh-CN": "普利特维采拥有84公顷的山毛榉和冷杉原始林，也是棕熊、灰狼和猞猁的家园。"
+    },
+    "captions": {
+      "en-US": "Plitvice Lakes National Park, Croatia",
+      "en-CA": "Plitvice Lakes National Park, Croatia"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PlitviceAutumn_EN-US6255909048",
+      "en-CA": "/th?id=OHR.PlitviceAutumn_EN-CA2443117103"
+    }
+  },
+  "RailwayDay2026": {
+    "name": "RailwayDay2026",
+    "urlbase": "/th?id=OHR.RailwayDay2026_JA-JP4058067313",
+    "date": "20261013",
+    "dateFormatted": "October 13, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は鉄道の日"
+    },
+    "copyrights": {
+      "ja-JP": "嵯峨野トロッコ列車, 京都府京都市 (© giggsy25/Shutterstock)"
+    },
+    "descs": {
+      "ja-JP": "10 月 14 日は「鉄道の日」。1872年の今日、初代新橋駅〜横浜駅（現 桜木町駅）間で日本初の鉄道が正式に開業したことにちなみ、1994 年に運輸省（現 国土交通省）が定めました。そして、今日の画像は京都・嵐山を走るトロッコ列車。秋の嵐山では、色づいた山々の間を嵯峨野トロッコ列車がゆっくりと走り抜けます。渓谷を流れる保津川と紅葉が織りなす風景は、多くの人々を魅了する秋の風物詩となっています。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は鉄道の日"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e9%89%84%e9%81%93%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261013_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.RailwayDay2026_JA-JP4058067313"
     }
   },
   "WhiteHouse": {
