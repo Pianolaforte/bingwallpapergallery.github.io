@@ -1,4 +1,148 @@
 {
+  "KuneticeCastle": {
+    "name": "KuneticeCastle",
+    "urlbase": "/th?id=OHR.KuneticeCastle_EN-US9492527404",
+    "date": "20261028",
+    "dateFormatted": "October 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "en-GB": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "en-CA": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "de-DE": "Wo Geschichte Wache hält. Burg Kunětická hora, Böhmen, Tschechien",
+      "fr-FR": "Gardien de l’histoire. Château de Kunětická hora, Bohême, Tchéquie",
+      "it-IT": "Secoli sopra la Boemia",
+      "es-ES": "Siglos sobre Bohemia. Castillo de Kunětická hora, Bohemia, Chequia",
+      "pt-BR": "O melhor ponto de vista",
+      "ja-JP": "夕暮れに佇む古城",
+      "zh-CN": "库涅季采山城堡，波希米亚，捷克",
+      "en-IN": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia"
+    },
+    "copyrights": {
+      "en-US": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "en-GB": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "en-CA": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
+      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy)",
+      "it-IT": "Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy)",
+      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia (© Marek Saroch/Alamy)",
+      "pt-BR": "Castelo de Kunětická hora, Boêmia, Chéquia (© Marek Saroch/Alamy)",
+      "ja-JP": "クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)",
+      "zh-CN": "库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)",
+      "en-IN": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)"
+    },
+    "descs": {
+      "en-US": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "en-GB": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "en-CA": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "de-DE": "Was könnten diese Mauern wohl alles erzählen? Hoch über der ostböhmischen Landschaft thront die Burg Kunětická hora, die im Deutschen auch als Kunburg bekannt ist. Bereits in der zweiten Hälfte des 14. Jahrhunderts stand an dieser Stelle eine ausgedehnte Burganlage. Ihre erhöhte Lage machte sie weithin sichtbar und zu einem wichtigen strategischen Stützpunkt.",
+      "fr-FR": "Quelles histoires ces murailles pourraient-elles raconter ? Dominant la Bohême orientale, en Tchéquie, le château de Kunětická hora veille sur la campagne depuis la fin du XIVᵉ siècle. Progressivement agrandi, il devint à la fois une imposante forteresse et une résidence aristocratique. Sa position élevée offrait un vaste panorama sur les plaines environnantes et faisait du château un bastion stratégique.",
+      "es-ES": "¿Qué historias contarían estos muros? El castillo de Kunětická hora se alza sobre un cerro solitario en el este de Bohemia, en en Chequia, y lleva siglos vigilando la llanura del Elba. A finales del siglo XIV ya había una fortaleza en esta colina, y su posición elevada, que permitía controlar todo el territorio circundante, la convirtió en una plaza codiciada.",
+      "ja-JP": "チェコ東部のボヘミア地方にそびえるクネティツカー・ホラ城は、14 世紀なかば頃には、すでにこの地に城が存在していたとされています。時代の流れとともに、要塞や貴族の居城として発展し、16 世紀には当時有力だったペルンシュテイン家によって、後期ゴシック様式とルネサンス様式の壮大な城へと改築されました。その後は荒廃し、採石によって一部が失われましたが、20 世紀初めから修復が始まりました。現在は、城内で展示や当時使用されていた部屋を見学することが可能であり、塔からは周囲の雄大な景色を一望できます。中世ボヘミアの歴史を今に伝える印象的な城です。",
+      "en-IN": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "it-IT": "Che storie racconterebbero queste mura? Il castello di Kunětická hora si alza su un colle isolato nella Boemia orientale, in Cechia, e da secoli tiene d'occhio la pianura dell'Elba. Alla fine del Trecento sulla collina esisteva già una fortezza, e la sua posizione elevata, che permetteva di controllare tutto il territorio intorno, la rese una piazza ambita.",
+      "pt-BR": "No alto de uma colina na Boêmia, na atual Chéquia, o Castelo de Kunětická hora passou por uma história cheia de reviravoltas. Suas origens remontam ao fim do século XIV, quando a posição elevada já oferecia uma vantagem nada desprezível: dali era possível vigiar boa parte da paisagem ao redor. Com o tempo, a fortificação virou também residência de nobres e ganhou novas estruturas.",
+      "zh-CN": "这些城墙会讲述怎样的故事？库涅季采山城堡高踞于捷克波希米亚东部，见证了数百年的历史。城堡的历史可追溯至14世纪末，后来逐渐发展为一座宏伟的要塞和贵族宅邸。它地势高耸，可俯瞰周围乡野，也因此成为一处重要据点。"
+    },
+    "quickFacts": {
+      "zh-CN": "1645年，一支瑞典军队攻占库涅季采山城堡，并在撤离前将其焚毁，加速了城堡此后的长期衰败。"
+    },
+    "captions": {
+      "en-US": "Kunětická hora Castle, Bohemia, Czechia",
+      "en-GB": "Kunětická hora Castle, Bohemia, Czechia",
+      "en-CA": "Kunětická hora Castle, Bohemia, Czechia",
+      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien",
+      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie",
+      "it-IT": "",
+      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia",
+      "pt-BR": "",
+      "ja-JP": "夕暮れに佇む古城",
+      "zh-CN": "",
+      "en-IN": "Kunětická hora Castle, Bohemia, Czechia"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Burg+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=ch%c3%a2teau+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Castello+di+Kun%c4%9btick%c3%a1+hora&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Castillo+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Castelo+de+Kuneticka+hora+Ch%c3%a9quia&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle+&form=hpcapt&filters=HpDate%3a%2220261027_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%ba%93%e6%b6%85%e5%ad%a3%e9%87%87%e5%b1%b1%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261027_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.KuneticeCastle_EN-US9492527404",
+      "en-GB": "/th?id=OHR.KuneticeCastle_EN-GB5805400783",
+      "en-CA": "/th?id=OHR.KuneticeCastle_EN-CA2792060952",
+      "de-DE": "/th?id=OHR.KuneticeCastle_DE-DE2818546067",
+      "fr-FR": "/th?id=OHR.KuneticeCastle_FR-FR0560907896",
+      "it-IT": "/th?id=OHR.KuneticeCastle_IT-IT9181989032",
+      "es-ES": "/th?id=OHR.KuneticeCastle_ES-ES0637644398",
+      "pt-BR": "/th?id=OHR.KuneticeCastle_PT-BR8917469200",
+      "ja-JP": "/th?id=OHR.KuneticeCastle_JA-JP3914699688",
+      "zh-CN": "/th?id=OHR.KuneticeCastle_ZH-CN8895858920",
+      "en-IN": "/th?id=OHR.KuneticeCastle_EN-IN9209042094"
+    }
+  },
   "PondCypress": {
     "name": "PondCypress",
     "urlbase": "/th?id=OHR.PondCypress_EN-US0123444779",
@@ -655,7 +799,7 @@
       "it-IT": "I colori di Naejangsan",
       "pt-BR": "A Coreia pintada de outono",
       "ja-JP": "紅葉に彩られた東屋",
-      "zh-CN": "内藏山国立公园的秋景，韩国",
+      "zh-CN": "静水映斑斓",
       "en-IN": "Still waters, vivid colours. Autumn in Naejangsan National Park, South Korea"
     },
     "copyrights": {
@@ -1550,60 +1694,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Bridges, rooftops, and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
-      "en-GB": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
       "en-CA": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
+      "en-GB": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
       "de-DE": "Brücken, Dächer und Dämmerung. Blick auf den Breslauer Marktplatz, Breslau, Polen",
       "fr-FR": "La ville aux cent ponts. Place du marché de Wrocław, Pologne",
       "it-IT": "Ponti, tetti e crepuscolo",
@@ -1615,8 +1714,8 @@
     },
     "copyrights": {
       "en-US": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
-      "en-GB": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
       "en-CA": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+      "en-GB": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
       "de-DE": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)",
       "fr-FR": "Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)",
       "it-IT": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
@@ -1628,8 +1727,8 @@
     },
     "descs": {
       "en-US": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers, and one of Central Europe's most striking historic centers. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognizable landmarks.",
-      "en-GB": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
       "en-CA": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+      "en-GB": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
       "de-DE": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
       "fr-FR": "Quand le crépuscule enveloppe Wrocław, la lumière dorée se répand sur les toits, les flèches d'église et l'une des plus belles places historiques d'Europe centrale. Cette ville du sud-ouest de la Pologne s'étend sur un archipel d'îles reliées par plus de cent ponts, mêlant architecture médiévale et vie contemporaine animée.",
       "es-ES": "Cuando cae la tarde sobre Breslavia (Polonia), la luz dorada se derrama por los tejados, las torres de las iglesias y uno de los centros históricos más llamativos de Europa central. La ciudad se reparte entre islas y canales unidos por más de 100 puentes, y combina arquitectura medieval con una vida urbana muy animada. Su corazón es el Rynek, la plaza del Mercado nacida en el siglo XIII, presidida por el ayuntamiento viejo, de estilo gótico.",
@@ -1644,118 +1743,22 @@
     },
     "captions": {
       "en-US": "Market Square from the Witches' Bridge, Wroclaw, Poland",
-      "en-GB": "Market Square from the Witches' Bridge, Wroclaw, Poland",
-      "en-CA": "Market Square from the Witches' Bridge, Wroclaw, Poland",
-      "de-DE": "Blick auf den Breslauer Marktplatz, Breslau, Polen",
-      "fr-FR": "Place du marché de Wrocław, Pologne",
-      "it-IT": "",
-      "es-ES": "Puente de las Brujas y plaza del Mercado, Breslavia, Polonia",
-      "pt-BR": "",
-      "ja-JP": "黄金色に輝く旧市街",
-      "zh-CN": "",
-      "en-IN": "Market Square from the Witches' Bridge, Wroclaw, Poland"
+      "en-CA": "Market Square from the Witches' Bridge, Wroclaw, Poland"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261014_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Breslau&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Breslavia&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Breslavia&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Wroclaw+na+Polonia&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%b4%e3%83%ad%e3%83%84%e3%83%af%e3%83%95&form=hpcapt&filters=HpDate%3a%2220261014_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%bc%97%e7%bd%97%e8%8c%a8%e7%93%a6%e5%a4%ab&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261014_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.WroclawPoland_EN-US7757698922",
-      "en-GB": "/th?id=OHR.WroclawPoland_EN-GB4702725574",
-      "en-CA": "/th?id=OHR.WroclawPoland_EN-CA2941585195",
-      "de-DE": "/th?id=OHR.WroclawPoland_DE-DE7177247783",
-      "fr-FR": "/th?id=OHR.WroclawPoland_FR-FR0061683282",
-      "it-IT": "/th?id=OHR.WroclawPoland_IT-IT1033829565",
-      "es-ES": "/th?id=OHR.WroclawPoland_ES-ES6249915839",
-      "pt-BR": "/th?id=OHR.WroclawPoland_PT-BR5779158730",
-      "ja-JP": "/th?id=OHR.WroclawPoland_JA-JP4298283472",
-      "zh-CN": "/th?id=OHR.WroclawPoland_ZH-CN6042428292",
-      "en-IN": "/th?id=OHR.WroclawPoland_EN-IN8643220357"
+      "en-CA": "/th?id=OHR.WroclawPoland_EN-CA2941585195"
     }
   },
-  "AmmoniteFossils": {
-    "name": "AmmoniteFossils",
-    "urlbase": "/th?id=OHR.AmmoniteFossils_EN-US6354038755",
-    "date": "20261014",
-    "dateFormatted": "October 14, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "Spirals through time. National Fossil Day",
-      "en-GB": "Spirals through time. Ammonite fossils from the Jurassic Period",
-      "de-DE": "Spiralen durch die Zeit. Ammonitenfossilien aus der Jurazeit",
-      "fr-FR": "Le temps pris dans la pierre. Fossiles d'ammonites du Jurassique",
-      "it-IT": "Spirali nel tempo",
-      "es-ES": "Espirales en el tiempo. Fósiles de amonites del Jurásico",
-      "pt-BR": "O Jurássico mandou lembranças",
-      "zh-CN": "穿越时间的螺旋",
-      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period",
-      "ja-JP": "古代の海に生息していた動物の化石"
-    },
-    "copyrights": {
-      "en-US": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
-      "en-GB": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
-      "de-DE": "Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)",
-      "fr-FR": "Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)",
-      "it-IT": "Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)",
-      "es-ES": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
-      "pt-BR": "Fósseis de amonites do período Jurássico (© J Nemchinova/Getty Images)",
-      "zh-CN": "侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)",
-      "en-IN": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
-      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)"
-    },
-    "descs": {
-      "en-US": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. National Fossil Day celebrates paleontology and the discoveries that help scientists reconstruct past environments, trace the evolution of life, and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
-      "en-GB": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
-      "de-DE": "Ammoniten gehören zu den faszinierendsten Fossilien der Jurazeit. Die ausgestorbenen Meerestiere entwickelten eine erstaunliche Vielfalt an Formen und Größen. Heute sind ihre versteinerten Schalen wichtige Zeugen einer längst vergangenen Welt. Für die Wissenschaft sind sie besonders wertvoll, da bestimmte Arten als Leitfossilien dienen und dabei helfen, Gesteinsschichten zeitlich einzuordnen.",
-      "fr-FR": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années.",
-      "es-ES": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
-      "en-IN": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
-      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
-      "it-IT": "Le conchiglie avvolte a spirale dell'immagine appartengono ad ammoniti del Giurassico, molluschi marini che popolavano gli oceani quando i dinosauri dominavano le terre emerse. Somigliavano ai nautili di oggi, ma erano parenti più stretti di calamari e polpi, e le loro conchiglie divise in camere hanno prodotto quelle spirali che riconosciamo al primo sguardo.",
-      "pt-BR": "Como contar a história de um mundo sem testemunhas? Muito antes da escrita, dos mapas ou dos primeiros seres humanos, a Terra já mantinha seus próprios arquivos. Não em papel, mas em pedra. Cada fóssil preserva fragmentos de vidas desaparecidas e ajuda cientistas a reconstruir oceanos, paisagens e criaturas que sumiram há milhões de anos.",
-      "zh-CN": "我们如何知道早在人类出现之前地球是什么样子？化石提供了许多线索。国家化石日旨在赞颂古生物学，以及那些帮助科学家重建过去环境、追溯生命演化并了解数百万年前消失生物的发现。从恐龙到微小的海洋生物，这些过去的遗存保存着早已不复存在的远古世界的一个个瞬间。"
-    },
-    "quickFacts": {
-      "ja-JP": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。",
-      "en-GB": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
-      "de-DE": "Ein Fossil muss nicht unbedingt ein Knochen sein. Auch Spuren, Tierbaue, Nester und andere Überreste urzeitlichen Lebens können zu Fossilien werden.",
-      "fr-FR": "Un fossile n'est pas forcément un os. Des empreintes, des terriers, des nids et d'autres traces de vie ancienne peuvent eux aussi devenir des fossiles.",
-      "it-IT": "Un fossile non è per forza un osso: anche impronte, tane, nidi e altre tracce di vita antica possono fossilizzare.",
-      "es-ES": "Un fósil no tiene que ser un hueso: huellas, madrigueras, nidos y otros rastros de vida antigua también pueden fosilizar.",
-      "zh-CN": "化石不一定非得是骨骼。足迹、洞道、巢穴以及古代生命留下的其他痕迹也可以成为化石。",
-      "en-IN": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
-      "en-US": "A fossil doesn't have to be a bone. Tracks, burrows, nests, and other traces of ancient life can become fossils too."
-    },
-    "captions": {
-      "en-US": "National Fossil Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Fossil+Day&form=hpcapt&filters=HpDate%3a%2220261014_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.AmmoniteFossils_EN-US6354038755"
-    }
-  },
-  "KuneticeCastle": {
-    "name": "KuneticeCastle",
-    "urlbase": "/th?id=OHR.KuneticeCastle_EN-GB5805400783",
-    "date": "20261028",
-    "dateFormatted": "October 28, 2026",
+  "AveburyStones": {
+    "name": "AveburyStones",
+    "urlbase": "/th?id=OHR.AveburyStones_EN-GB5895980350",
+    "date": "20261029",
+    "dateFormatted": "October 29, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1804,79 +1807,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
-      "de-DE": "Wo Geschichte Wache hält. Burg Kunětická hora, Böhmen, Tschechien",
-      "fr-FR": "Gardien de l’histoire. Château de Kunětická hora, Bohême, Tchéquie",
-      "it-IT": "Secoli sopra la Boemia",
-      "es-ES": "Siglos sobre Bohemia. Castillo de Kunětická hora, Bohemia, Chequia",
-      "pt-BR": "O melhor ponto de vista",
-      "ja-JP": "夕暮れに佇む古城",
-      "zh-CN": "库涅季采山城堡，波希米亚，捷克",
-      "en-IN": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
-      "en-US": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
-      "en-CA": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia"
+      "en-GB": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "de-DE": "Wo Nebel auf Jahrtausende trifft. Stehende Steine in Avebury, Wiltshire, England",
+      "fr-FR": "Des millénaires caressés par la brume. Pierres dressées à Avebury dans le Wiltshire, Angleterre",
+      "it-IT": "Una passeggiata nella preistoria",
+      "es-ES": "Un paseo por la prehistoria. Menhires de Avebury, Wiltshire, Inglaterra",
+      "pt-BR": "Um mistério milenar",
+      "ja-JP": "草原に立ち並ぶ巨石群",
+      "zh-CN": "立石，埃夫伯里，威尔特郡，英格兰",
+      "en-IN": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "en-US": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "en-CA": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England"
     },
     "copyrights": {
-      "en-GB": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
-      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
-      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy)",
-      "it-IT": "Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy)",
-      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia (© Marek Saroch/Alamy)",
-      "pt-BR": "Castelo de Kunětická hora, Boêmia, Chéquia (© Marek Saroch/Alamy)",
-      "ja-JP": "クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)",
-      "zh-CN": "库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)",
-      "en-IN": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
-      "en-US": "© Marek Saroch/Alamy",
-      "en-CA": "© Marek Saroch/Alamy"
+      "en-GB": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+      "de-DE": "Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images)",
+      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images)",
+      "it-IT": "Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images)",
+      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
+      "pt-BR": "Círculo de Pedras de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
+      "ja-JP": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
+      "zh-CN": "立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)",
+      "en-IN": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+      "en-US": "© George W Johnson/Getty Images",
+      "en-CA": "© George W Johnson/Getty Images"
     },
     "descs": {
-      "en-GB": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "de-DE": "Was könnten diese Mauern wohl alles erzählen? Hoch über der ostböhmischen Landschaft thront die Burg Kunětická hora, die im Deutschen auch als Kunburg bekannt ist. Bereits in der zweiten Hälfte des 14. Jahrhunderts stand an dieser Stelle eine ausgedehnte Burganlage. Ihre erhöhte Lage machte sie weithin sichtbar und zu einem wichtigen strategischen Stützpunkt.",
-      "fr-FR": "Quelles histoires ces murailles pourraient-elles raconter ? Dominant la Bohême orientale, en Tchéquie, le château de Kunětická hora veille sur la campagne depuis la fin du XIVᵉ siècle. Progressivement agrandi, il devint à la fois une imposante forteresse et une résidence aristocratique. Sa position élevée offrait un vaste panorama sur les plaines environnantes et faisait du château un bastion stratégique.",
-      "es-ES": "¿Qué historias contarían estos muros? El castillo de Kunětická hora se alza sobre un cerro solitario en el este de Bohemia, en en Chequia, y lleva siglos vigilando la llanura del Elba. A finales del siglo XIV ya había una fortaleza en esta colina, y su posición elevada, que permitía controlar todo el territorio circundante, la convirtió en una plaza codiciada.",
-      "ja-JP": "チェコ東部のボヘミア地方にそびえるクネティツカー・ホラ城は、14 世紀なかば頃には、すでにこの地に城が存在していたとされています。時代の流れとともに、要塞や貴族の居城として発展し、16 世紀には当時有力だったペルンシュテイン家によって、後期ゴシック様式とルネサンス様式の壮大な城へと改築されました。その後は荒廃し、採石によって一部が失われましたが、20 世紀初めから修復が始まりました。現在は、城内で展示や当時使用されていた部屋を見学することが可能であり、塔からは周囲の雄大な景色を一望できます。中世ボヘミアの歴史を今に伝える印象的な城です。",
-      "en-IN": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "en-US": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "en-CA": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "it-IT": "Che storie racconterebbero queste mura? Il castello di Kunětická hora si alza su un colle isolato nella Boemia orientale, in Cechia, e da secoli tiene d'occhio la pianura dell'Elba. Alla fine del Trecento sulla collina esisteva già una fortezza, e la sua posizione elevata, che permetteva di controllare tutto il territorio intorno, la rese una piazza ambita.",
-      "pt-BR": "No alto de uma colina na Boêmia, na atual Chéquia, o Castelo de Kunětická hora passou por uma história cheia de reviravoltas. Suas origens remontam ao fim do século XIV, quando a posição elevada já oferecia uma vantagem nada desprezível: dali era possível vigiar boa parte da paisagem ao redor. Com o tempo, a fortificação virou também residência de nobres e ganhou novas estruturas.",
-      "zh-CN": "这些城墙会讲述怎样的故事？库涅季采山城堡高踞于捷克波希米亚东部，见证了数百年的历史。城堡的历史可追溯至14世纪末，后来逐渐发展为一座宏伟的要塞和贵族宅邸。它地势高耸，可俯瞰周围乡野，也因此成为一处重要据点。"
+      "en-GB": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "de-DE": "Das englische Avebury in der Grafschaft Wiltshire bildet das Zentrum einer außergewöhnlichen prähistorischen Landschaft. Vor rund 4.500 Jahren entstand hier ein weitläufiger jungsteinzeitlicher Monumentalkomplex, zu dem der größte prähistorische Steinkreis der Welt, ein mächtiger Henge und mehrere Steinalleen gehören. Diese reichen weit in die umliegende Landschaft hinein und verbinden Avebury mit weiteren bedeutenden Monumenten. Zur Landschaft zählen auch Silbury Hill und die West Kennet Avenue. Bis heute faszinieren diese Zeugnisse der Jungsteinzeit Besucher, Forschende und Archäologen gleichermaßen.",
+      "fr-FR": "Au petit matin, la brume glisse entre les pierres dressées d’Avebury, dans le Wiltshire, en Angleterre, et le paysage semble suspendu hors du temps. Érigé il y a environ 4 500 ans, cet immense ensemble néolithique comprend l’un des plus vastes cercles de pierres préhistoriques au monde, entouré d’un vaste henge et prolongé par des avenues de mégalithes. Avec Silbury Hill et West Kennet Avenue, il forme un remarquable paysage préhistorique qui, depuis des générations, intrigue visiteurs, chercheurs et archéologues.",
+      "es-ES": "Con la niebla de la mañana entre las piedras, los menhires de Avebury, en Wiltshire (Inglaterra), parecen fuera del tiempo. Forman parte de un monumento neolítico levantado hace unos 4.500 años que incluye el mayor círculo de piedras prehistórico del mundo, un enorme recinto de foso y terraplén y avenidas de megalitos que se prolongan por la campiña.",
+      "ja-JP": "イングランド南西部ウィルトシャーにあるエーヴベリー。朝霧に包まれた巨石群は、約 4500 年前の新石器時代に築かれた遺跡の一部です。世界最大の先史時代の環状列石をはじめ、巨大な環状遺構や列石が残されており、シルベリー・ヒルなど周辺の遺跡とともに広大な遺跡群を形成し、ユネスコ世界遺産にも登録されています。訪れる人は巨石の間を歩くことで、現代の田園風景に溶け込む古代遺跡を間近に体感することができます。",
+      "en-IN": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "en-US": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centered on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers, and archaeologists.",
+      "en-CA": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "it-IT": "Con la nebbia del mattino tra le pietre, i menhir di Avebury, nel Wiltshire (Inghilterra), sembrano fuori dal tempo. Fanno parte di un monumento neolitico costruito circa 4.500 anni fa che comprende il più grande cerchio di pietre preistorico del mondo, un enorme recinto di fossato e terrapieno e viali di megaliti che si allungano nella campagna.",
+      "pt-BR": "Quem ergueu essas pedras gigantes em Avebury, na Inglaterra, e por quê? Quatro mil e quinhentos anos depois, a pergunta continua sem resposta. Em Wiltshire, enormes blocos de pedra atravessam campos e estradas, formando o maior círculo de pedras pré-histórico do mundo. E há uma diferença importante: aqui, visitantes podem caminhar entre elas, como quem passeia por um monumento que ainda guarda seu segredo a céu aberto.",
+      "zh-CN": "晨雾在英格兰威尔特郡埃夫伯里的立石间飘荡，眼前景象仿佛超越了时间。这些古老的巨石构成了世界上最非凡的史前景观之一，其核心是一座约建于4500年前的宏大新石器时代纪念性建筑。埃夫伯里拥有世界上最大的史前石圈，还有一座巨型环形遗址，以及延伸至周围乡野的石列大道。它与附近的锡尔伯里山、西肯尼特大道等遗迹共同组成一处规模宏大的新石器时代遗址群，令一代又一代游客、研究人员和考古学家为之着迷。"
     },
     "quickFacts": {
-      "zh-CN": "1645年，一支瑞典军队攻占库涅季采山城堡，并在撤离前将其焚毁，加速了城堡此后的长期衰败。"
+      "zh-CN": "20世纪30年代，考古学家亚历山大·凯勒重新竖起了许多倒伏的埃夫伯里巨石，并用混凝土标出缺失巨石的位置。"
     },
     "captions": {
-      "en-GB": "Kunětická hora Castle, Bohemia, Czechia",
-      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien",
-      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie",
+      "en-GB": "Standing stones at Avebury in Wiltshire, England",
+      "de-DE": "Stehende Steine in Avebury, Wiltshire, England",
+      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre",
       "it-IT": "",
-      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia",
+      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra",
       "pt-BR": "",
-      "ja-JP": "夕暮れに佇む古城",
+      "ja-JP": "草原に立ち並ぶ巨石群",
       "zh-CN": "",
-      "en-IN": "Kunětická hora Castle, Bohemia, Czechia"
+      "en-IN": "Standing stones at Avebury in Wiltshire, England"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Burg+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=ch%c3%a2teau+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Castello+di+Kun%c4%9btick%c3%a1+hora&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Castillo+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Castelo+de+Kuneticka+hora+Ch%c3%a9quia&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle+&form=hpcapt&filters=HpDate%3a%2220261027_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%ba%93%e6%b6%85%e5%ad%a3%e9%87%87%e5%b1%b1%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261027_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Avebury+Steinkreis&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Menhir+di+Avebury+Wiltshire&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Menhires+de+Avebury&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Avebury+na+Inglaterra&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%83%bc%e3%83%b4%e3%83%99%e3%83%aa%e3%83%bc+%e5%b7%a8%e7%9f%b3%e7%be%a4&form=hpcapt&filters=HpDate%3a%2220261028_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e7%89%b9%e9%83%a1%e5%9f%83%e5%a4%ab%e4%bc%af%e9%87%8c%e7%8e%af%e5%bd%a2%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.KuneticeCastle_EN-GB5805400783",
-      "de-DE": "/th?id=OHR.KuneticeCastle_DE-DE2818546067",
-      "fr-FR": "/th?id=OHR.KuneticeCastle_FR-FR0560907896",
-      "it-IT": "/th?id=OHR.KuneticeCastle_IT-IT9181989032",
-      "es-ES": "/th?id=OHR.KuneticeCastle_ES-ES0637644398",
-      "pt-BR": "/th?id=OHR.KuneticeCastle_PT-BR8917469200",
-      "ja-JP": "/th?id=OHR.KuneticeCastle_JA-JP3914699688",
-      "zh-CN": "/th?id=OHR.KuneticeCastle_ZH-CN8895858920",
-      "en-IN": "/th?id=OHR.KuneticeCastle_EN-IN9209042094"
+      "en-GB": "/th?id=OHR.AveburyStones_EN-GB5895980350",
+      "de-DE": "/th?id=OHR.AveburyStones_DE-DE3052154737",
+      "fr-FR": "/th?id=OHR.AveburyStones_FR-FR0792308002",
+      "it-IT": "/th?id=OHR.AveburyStones_IT-IT5634082753",
+      "es-ES": "/th?id=OHR.AveburyStones_ES-ES9090727572",
+      "pt-BR": "/th?id=OHR.AveburyStones_PT-BR9317811680",
+      "ja-JP": "/th?id=OHR.AveburyStones_JA-JP4031336786",
+      "zh-CN": "/th?id=OHR.AveburyStones_ZH-CN9127100951",
+      "en-IN": "/th?id=OHR.AveburyStones_EN-IN9660577333"
     }
   },
   "BSTEnds2026": {
@@ -1987,67 +1990,6 @@
       "fr-FR": "/th?id=OHR.MaligneFest_FR-FR5795515025",
       "pt-BR": "/th?id=OHR.MaligneFest_PT-BR7307872506",
       "zh-CN": "/th?id=OHR.MaligneFest_ZH-CN8343066766"
-    }
-  },
-  "GrizzlySwim": {
-    "name": "GrizzlySwim",
-    "urlbase": "/th?id=OHR.GrizzlySwim_EN-CA2710630781",
-    "date": "20261014",
-    "dateFormatted": "October 14, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
-      "en-US": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska",
-      "pt-BR": "O último buffet do ano",
-      "en-GB": "Catch, eat, repeat. Brown bear, Alaska, United States",
-      "fr-FR": "Maître des eaux. Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
-      "it-IT": "Pesca, mangia, ripeti",
-      "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
-      "zh-CN": "捕捉、进食、重复",
-      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
-      "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA"
-    },
-    "copyrights": {
-      "en-CA": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
-      "en-US": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)",
-      "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
-      "en-GB": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
-      "fr-FR": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
-      "it-IT": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)",
-      "es-ES": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
-      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
-      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
-      "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)"
-    },
-    "descs": {
-      "en-CA": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
-      "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
-      "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-      "de-DE": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
-      "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
-      "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
-      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。"
-    },
-    "quickFacts": {
-      "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
-    },
-    "captions": {
-      "en-CA": "Brown bear in Lake Clark National Park and Preserve, Alaska, USA"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261014_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.GrizzlySwim_EN-CA2710630781"
     }
   },
   "BerlinLibrary": {
@@ -2470,6 +2412,136 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "AmmoniteFossils": {
+    "name": "AmmoniteFossils",
+    "urlbase": "/th?id=OHR.AmmoniteFossils_EN-US6354038755",
+    "date": "20261014",
+    "dateFormatted": "October 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Spirals through time. National Fossil Day",
+      "en-GB": "Spirals through time. Ammonite fossils from the Jurassic Period",
+      "de-DE": "Spiralen durch die Zeit. Ammonitenfossilien aus der Jurazeit",
+      "fr-FR": "Le temps pris dans la pierre. Fossiles d'ammonites du Jurassique",
+      "it-IT": "Spirali nel tempo",
+      "es-ES": "Espirales en el tiempo. Fósiles de amonites del Jurásico",
+      "pt-BR": "O Jurássico mandou lembranças",
+      "zh-CN": "穿越时间的螺旋",
+      "en-IN": "Spirals through time. Ammonite fossils from the Jurassic Period",
+      "ja-JP": "古代の海に生息していた動物の化石"
+    },
+    "copyrights": {
+      "en-US": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+      "en-GB": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+      "de-DE": "Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)",
+      "fr-FR": "Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)",
+      "it-IT": "Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)",
+      "es-ES": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
+      "pt-BR": "Fósseis de amonites do período Jurássico (© J Nemchinova/Getty Images)",
+      "zh-CN": "侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)",
+      "en-IN": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+      "ja-JP": "アンモナイトの化石 (© J Nemchinova/Getty Images)"
+    },
+    "descs": {
+      "en-US": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. National Fossil Day celebrates paleontology and the discoveries that help scientists reconstruct past environments, trace the evolution of life, and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "en-GB": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "de-DE": "Ammoniten gehören zu den faszinierendsten Fossilien der Jurazeit. Die ausgestorbenen Meerestiere entwickelten eine erstaunliche Vielfalt an Formen und Größen. Heute sind ihre versteinerten Schalen wichtige Zeugen einer längst vergangenen Welt. Für die Wissenschaft sind sie besonders wertvoll, da bestimmte Arten als Leitfossilien dienen und dabei helfen, Gesteinsschichten zeitlich einzuordnen.",
+      "fr-FR": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années.",
+      "es-ES": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
+      "en-IN": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+      "ja-JP": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
+      "it-IT": "Le conchiglie avvolte a spirale dell'immagine appartengono ad ammoniti del Giurassico, molluschi marini che popolavano gli oceani quando i dinosauri dominavano le terre emerse. Somigliavano ai nautili di oggi, ma erano parenti più stretti di calamari e polpi, e le loro conchiglie divise in camere hanno prodotto quelle spirali che riconosciamo al primo sguardo.",
+      "pt-BR": "Como contar a história de um mundo sem testemunhas? Muito antes da escrita, dos mapas ou dos primeiros seres humanos, a Terra já mantinha seus próprios arquivos. Não em papel, mas em pedra. Cada fóssil preserva fragmentos de vidas desaparecidas e ajuda cientistas a reconstruir oceanos, paisagens e criaturas que sumiram há milhões de anos.",
+      "zh-CN": "我们如何知道早在人类出现之前地球是什么样子？化石提供了许多线索。国家化石日旨在赞颂古生物学，以及那些帮助科学家重建过去环境、追溯生命演化并了解数百万年前消失生物的发现。从恐龙到微小的海洋生物，这些过去的遗存保存着早已不复存在的远古世界的一个个瞬间。"
+    },
+    "quickFacts": {
+      "ja-JP": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。",
+      "en-GB": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
+      "de-DE": "Ein Fossil muss nicht unbedingt ein Knochen sein. Auch Spuren, Tierbaue, Nester und andere Überreste urzeitlichen Lebens können zu Fossilien werden.",
+      "fr-FR": "Un fossile n'est pas forcément un os. Des empreintes, des terriers, des nids et d'autres traces de vie ancienne peuvent eux aussi devenir des fossiles.",
+      "it-IT": "Un fossile non è per forza un osso: anche impronte, tane, nidi e altre tracce di vita antica possono fossilizzare.",
+      "es-ES": "Un fósil no tiene que ser un hueso: huellas, madrigueras, nidos y otros rastros de vida antigua también pueden fosilizar.",
+      "zh-CN": "化石不一定非得是骨骼。足迹、洞道、巢穴以及古代生命留下的其他痕迹也可以成为化石。",
+      "en-IN": "A fossil doesn't have to be a bone. Tracks, burrows, nests and other traces of ancient life can become fossils too.",
+      "en-US": "A fossil doesn't have to be a bone. Tracks, burrows, nests, and other traces of ancient life can become fossils too."
+    },
+    "captions": {
+      "en-US": "National Fossil Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Fossil+Day&form=hpcapt&filters=HpDate%3a%2220261014_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AmmoniteFossils_EN-US6354038755"
+    }
+  },
+  "GrizzlySwim": {
+    "name": "GrizzlySwim",
+    "urlbase": "/th?id=OHR.GrizzlySwim_EN-CA2710630781",
+    "date": "20261014",
+    "dateFormatted": "October 14, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska, USA",
+      "en-US": "Catch, eat, repeat. Brown bear in Lake Clark National Park and Preserve, Alaska",
+      "pt-BR": "O último buffet do ano",
+      "en-GB": "Catch, eat, repeat. Brown bear, Alaska, United States",
+      "fr-FR": "Maître des eaux. Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
+      "it-IT": "Pesca, mangia, ripeti",
+      "es-ES": "Pescar, comer y repetir. Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
+      "zh-CN": "捕捉、进食、重复",
+      "en-IN": "Catch, eat, repeat. Brown bear, Alaska, United States",
+      "de-DE": "Kolosse des Nordens. Braunbär, Lake Clark National Park and Preserve, Alaska, USA"
+    },
+    "copyrights": {
+      "en-CA": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "en-US": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)",
+      "pt-BR": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
+      "en-GB": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "fr-FR": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
+      "it-IT": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)",
+      "es-ES": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
+      "zh-CN": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
+      "en-IN": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+      "de-DE": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)"
+    },
+    "descs": {
+      "en-CA": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "en-US": "The season of big meals, bigger bellies, and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams, and other foods to build up fat reserves. Some can weigh more than 1,000 pounds before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "en-GB": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "fr-FR": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
+      "es-ES": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
+      "en-IN": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+      "de-DE": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
+      "it-IT": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
+      "pt-BR": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
+      "zh-CN": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。"
+    },
+    "quickFacts": {
+      "zh-CN": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
+    },
+    "captions": {
+      "en-CA": "Brown bear in Lake Clark National Park and Preserve, Alaska, USA"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261014_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.GrizzlySwim_EN-CA2710630781"
     }
   },
   "PlitviceAutumn": {
