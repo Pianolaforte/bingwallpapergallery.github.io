@@ -1,4 +1,148 @@
 {
+  "AveburyStones": {
+    "name": "AveburyStones",
+    "urlbase": "/th?id=OHR.AveburyStones_EN-US9568662876",
+    "date": "20261029",
+    "dateFormatted": "October 29, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "en-GB": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "en-CA": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "de-DE": "Wo Nebel auf Jahrtausende trifft. Stehende Steine in Avebury, Wiltshire, England",
+      "fr-FR": "Des millénaires caressés par la brume. Pierres dressées à Avebury dans le Wiltshire, Angleterre",
+      "it-IT": "Una passeggiata nella preistoria",
+      "es-ES": "Un paseo por la prehistoria. Menhires de Avebury, Wiltshire, Inglaterra",
+      "pt-BR": "Um mistério milenar",
+      "ja-JP": "草原に立ち並ぶ巨石群",
+      "zh-CN": "立石，埃夫伯里，威尔特郡，英格兰",
+      "en-IN": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England"
+    },
+    "copyrights": {
+      "en-US": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+      "en-GB": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+      "en-CA": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+      "de-DE": "Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images)",
+      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images)",
+      "it-IT": "Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images)",
+      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
+      "pt-BR": "Círculo de Pedras de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
+      "ja-JP": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
+      "zh-CN": "立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)",
+      "en-IN": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)"
+    },
+    "descs": {
+      "en-US": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centered on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers, and archaeologists.",
+      "en-GB": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "en-CA": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "de-DE": "Das englische Avebury in der Grafschaft Wiltshire bildet das Zentrum einer außergewöhnlichen prähistorischen Landschaft. Vor rund 4.500 Jahren entstand hier ein weitläufiger jungsteinzeitlicher Monumentalkomplex, zu dem der größte prähistorische Steinkreis der Welt, ein mächtiger Henge und mehrere Steinalleen gehören. Diese reichen weit in die umliegende Landschaft hinein und verbinden Avebury mit weiteren bedeutenden Monumenten. Zur Landschaft zählen auch Silbury Hill und die West Kennet Avenue. Bis heute faszinieren diese Zeugnisse der Jungsteinzeit Besucher, Forschende und Archäologen gleichermaßen.",
+      "fr-FR": "Au petit matin, la brume glisse entre les pierres dressées d’Avebury, dans le Wiltshire, en Angleterre, et le paysage semble suspendu hors du temps. Érigé il y a environ 4 500 ans, cet immense ensemble néolithique comprend l’un des plus vastes cercles de pierres préhistoriques au monde, entouré d’un vaste henge et prolongé par des avenues de mégalithes. Avec Silbury Hill et West Kennet Avenue, il forme un remarquable paysage préhistorique qui, depuis des générations, intrigue visiteurs, chercheurs et archéologues.",
+      "es-ES": "Con la niebla de la mañana entre las piedras, los menhires de Avebury, en Wiltshire (Inglaterra), parecen fuera del tiempo. Forman parte de un monumento neolítico levantado hace unos 4.500 años que incluye el mayor círculo de piedras prehistórico del mundo, un enorme recinto de foso y terraplén y avenidas de megalitos que se prolongan por la campiña.",
+      "ja-JP": "イングランド南西部ウィルトシャーにあるエーヴベリー。朝霧に包まれた巨石群は、約 4500 年前の新石器時代に築かれた遺跡の一部です。世界最大の先史時代の環状列石をはじめ、巨大な環状遺構や列石が残されており、シルベリー・ヒルなど周辺の遺跡とともに広大な遺跡群を形成し、ユネスコ世界遺産にも登録されています。訪れる人は巨石の間を歩くことで、現代の田園風景に溶け込む古代遺跡を間近に体感することができます。",
+      "en-IN": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "it-IT": "Con la nebbia del mattino tra le pietre, i menhir di Avebury, nel Wiltshire (Inghilterra), sembrano fuori dal tempo. Fanno parte di un monumento neolitico costruito circa 4.500 anni fa che comprende il più grande cerchio di pietre preistorico del mondo, un enorme recinto di fossato e terrapieno e viali di megaliti che si allungano nella campagna.",
+      "pt-BR": "Quem ergueu essas pedras gigantes em Avebury, na Inglaterra, e por quê? Quatro mil e quinhentos anos depois, a pergunta continua sem resposta. Em Wiltshire, enormes blocos de pedra atravessam campos e estradas, formando o maior círculo de pedras pré-histórico do mundo. E há uma diferença importante: aqui, visitantes podem caminhar entre elas, como quem passeia por um monumento que ainda guarda seu segredo a céu aberto.",
+      "zh-CN": "晨雾在英格兰威尔特郡埃夫伯里的立石间飘荡，眼前景象仿佛超越了时间。这些古老的巨石构成了世界上最非凡的史前景观之一，其核心是一座约建于4500年前的宏大新石器时代纪念性建筑。埃夫伯里拥有世界上最大的史前石圈，还有一座巨型环形遗址，以及延伸至周围乡野的石列大道。它与附近的锡尔伯里山、西肯尼特大道等遗迹共同组成一处规模宏大的新石器时代遗址群，令一代又一代游客、研究人员和考古学家为之着迷。"
+    },
+    "quickFacts": {
+      "zh-CN": "20世纪30年代，考古学家亚历山大·凯勒重新竖起了许多倒伏的埃夫伯里巨石，并用混凝土标出缺失巨石的位置。"
+    },
+    "captions": {
+      "en-US": "Standing stones at Avebury in Wiltshire, England",
+      "en-GB": "Standing stones at Avebury in Wiltshire, England",
+      "en-CA": "Standing stones at Avebury in Wiltshire, England",
+      "de-DE": "Stehende Steine in Avebury, Wiltshire, England",
+      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre",
+      "it-IT": "",
+      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra",
+      "pt-BR": "",
+      "ja-JP": "草原に立ち並ぶ巨石群",
+      "zh-CN": "",
+      "en-IN": "Standing stones at Avebury in Wiltshire, England"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Avebury+Steinkreis&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Menhir+di+Avebury+Wiltshire&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Menhires+de+Avebury&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Avebury+na+Inglaterra&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%83%bc%e3%83%b4%e3%83%99%e3%83%aa%e3%83%bc+%e5%b7%a8%e7%9f%b3%e7%be%a4&form=hpcapt&filters=HpDate%3a%2220261028_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e7%89%b9%e9%83%a1%e5%9f%83%e5%a4%ab%e4%bc%af%e9%87%8c%e7%8e%af%e5%bd%a2%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AveburyStones_EN-US9568662876",
+      "en-GB": "/th?id=OHR.AveburyStones_EN-GB5895980350",
+      "en-CA": "/th?id=OHR.AveburyStones_EN-CA3104504656",
+      "de-DE": "/th?id=OHR.AveburyStones_DE-DE3052154737",
+      "fr-FR": "/th?id=OHR.AveburyStones_FR-FR0792308002",
+      "it-IT": "/th?id=OHR.AveburyStones_IT-IT5634082753",
+      "es-ES": "/th?id=OHR.AveburyStones_ES-ES9090727572",
+      "pt-BR": "/th?id=OHR.AveburyStones_PT-BR9317811680",
+      "ja-JP": "/th?id=OHR.AveburyStones_JA-JP4031336786",
+      "zh-CN": "/th?id=OHR.AveburyStones_ZH-CN9127100951",
+      "en-IN": "/th?id=OHR.AveburyStones_EN-IN9660577333"
+    }
+  },
   "KuneticeCastle": {
     "name": "KuneticeCastle",
     "urlbase": "/th?id=OHR.KuneticeCastle_EN-US9492527404",
@@ -288,7 +432,7 @@
       "de-DE": "/th?id=OHR.PondCypress_DE-DE2656375905",
       "fr-FR": "/th?id=OHR.PondCypress_FR-FR3578297716",
       "it-IT": "/th?id=OHR.PondCypress_IT-IT6320902214",
-      "es-ES": "/th?id=OHR.PondCypress_ES-ES1413599118",
+      "es-ES": "/th?id=OHR.PondCypress_ES-ES5888685254",
       "pt-BR": "/th?id=OHR.PondCypress_PT-BR8608067056",
       "ja-JP": "/th?id=OHR.PondCypress_JA-JP5777656593",
       "zh-CN": "/th?id=OHR.PondCypress_ZH-CN9472607734",
@@ -659,7 +803,7 @@
       "es-ES": "La vida en manada. Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
       "pt-BR": "Lobo solitário? Nada disso",
       "ja-JP": "冬の大地を進むオオカミたち",
-      "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国",
+      "zh-CN": "荒野伙伴",
       "en-IN": "Partners in the wild. Wolf Awareness Week"
     },
     "copyrights": {
@@ -1572,50 +1716,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
-      "en-GB": "'Peak' into Colorado. Mount Sneffels, Colorado, United States",
       "en-CA": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
+      "en-GB": "'Peak' into Colorado. Mount Sneffels, Colorado, United States",
       "fr-FR": "En haut du Colorado. Le mont Sneffels dans les montagnes San Juan, États-Unis",
       "it-IT": "Oro e neve in Colorado",
       "es-ES": "Oro y nieve en Colorado. Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
@@ -1625,8 +1734,8 @@
     },
     "copyrights": {
       "en-US": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
-      "en-GB": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
       "en-CA": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
+      "en-GB": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
       "fr-FR": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis (© lightphoto/Getty Images)",
       "it-IT": "Monte Sneffels, San Juan Mountains, vicino a Ridgway, Colorado, USA (© lightphoto/Getty Images)",
       "es-ES": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
@@ -1636,8 +1745,8 @@
     },
     "descs": {
       "en-US": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 14,150 feet in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray, and Telluride. It sits within the 16,587-acre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-      "en-GB": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
       "en-CA": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred metres. Rising to 4,310 metres in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 67-square-kilometre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+      "en-GB": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
       "fr-FR": "Certains sommets se méritent avant de dévoiler leur panorama. Le mont Sneffels, lui, concentre son ultime défi dans les dernières centaines de mètres. Culminant à 4 313 mètres dans les monts San Juan, au Colorado (États-Unis), ce géant domine les paysages de Ridgway, Ouray et Telluride. Il s’élève au cœur des 6 713 hectares de la Mount Sneffels Wilderness, territoire protégé depuis 1980. Plusieurs itinéraires permettent de l’approcher, notamment par Yankee Boy Basin ou depuis le secteur des Blue Lakes.",
       "es-ES": "El monte Sneffels se alza sobre las montañas San Juan, cerca de Ridgway, en Colorado (Estados Unidos), y supera los 4.300 metros de altitud. Pertenece al club de los llamados «catorcemiles», los picos que rebasan los 14.000 pies (4.270 m), y en octubre protagoniza uno de los espectáculos más buscados del oeste americano: las laderas se llenan de álamos temblones dorados justo cuando la nieve empieza a asentarse en las cumbres.",
       "ja-JP": "今日の画像は、米国コロラド州南西部、サンファン山地にそびえるスネフェル山。標高約 4,300m を誇るロッキー山脈の名峰です。コロラド州には標高 14,000 フィート（約 4,267m ）以上の山が 58 座あり、これらは総称して「フォーティーナーズ (Fourteeners) 」と呼ばれています。スネフェル山はその中でも特に人気が高く、その美しい山容から、写真の被写体としても人気があります。秋には山麓に黄金色のアスペン林が広がり、雪をいただいた山頂との美しいコントラストが訪れる人々を魅了します。",
@@ -1650,115 +1759,22 @@
     },
     "captions": {
       "en-US": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
-      "en-GB": "Mount Sneffels, Colorado, United States",
-      "en-CA": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
-      "fr-FR": "Le mont Sneffels dans les montagnes San Juan, États-Unis",
-      "it-IT": "",
-      "es-ES": "Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
-      "ja-JP": "黄金色の森の先にそびえる山",
-      "zh-CN": "",
-      "en-IN": "Mount Sneffels, Colorado, United States"
+      "en-CA": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261016_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261025_0400%22",
-      "fr-FR": "https://www.bing.com/search?q=Mont+Sneffels+Colorado+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Monte+Sneffels&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Monte+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b9%e3%83%8d%e3%83%95%e3%82%a7%e3%83%ab%e5%b1%b1+%e3%82%b3%e3%83%ad%e3%83%a9%e3%83%89%e5%b7%9e&form=hpcapt&filters=HpDate%3a%2220261015_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%96%af%e5%a5%88%e8%b4%b9%e5%b0%94%e6%96%af%e5%b1%b1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261025_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.SneffelsAutumn_EN-US3953128777",
-      "en-GB": "/th?id=OHR.SneffelsAutumn_EN-GB4713580034",
-      "en-CA": "/th?id=OHR.SneffelsAutumn_EN-CA1700205921",
-      "fr-FR": "/th?id=OHR.SneffelsAutumn_FR-FR3895133232",
-      "it-IT": "/th?id=OHR.SneffelsAutumn_IT-IT1945499761",
-      "es-ES": "/th?id=OHR.SneffelsAutumn_ES-ES3631909168",
-      "ja-JP": "/th?id=OHR.SneffelsAutumn_JA-JP1327078827",
-      "zh-CN": "/th?id=OHR.SneffelsAutumn_ZH-CN3002661429",
-      "en-IN": "/th?id=OHR.SneffelsAutumn_EN-IN6402134522"
+      "en-CA": "/th?id=OHR.SneffelsAutumn_EN-CA1700205921"
     }
   },
-  "WroclawPoland": {
-    "name": "WroclawPoland",
-    "urlbase": "/th?id=OHR.WroclawPoland_EN-US7757698922",
-    "date": "20261015",
-    "dateFormatted": "October 15, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Bridges, rooftops, and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
-      "en-CA": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
-      "en-GB": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
-      "de-DE": "Brücken, Dächer und Dämmerung. Blick auf den Breslauer Marktplatz, Breslau, Polen",
-      "fr-FR": "La ville aux cent ponts. Place du marché de Wrocław, Pologne",
-      "it-IT": "Ponti, tetti e crepuscolo",
-      "es-ES": "Puentes, tejados y crepúsculo. Puente de las Brujas y plaza del Mercado, Breslavia, Polonia",
-      "pt-BR": "O brilho de Wrocław",
-      "ja-JP": "黄金色に輝く旧市街",
-      "zh-CN": "桥梁、屋顶与暮色",
-      "en-IN": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland"
-    },
-    "copyrights": {
-      "en-US": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
-      "en-CA": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
-      "en-GB": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
-      "de-DE": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)",
-      "fr-FR": "Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)",
-      "it-IT": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
-      "es-ES": "Vista de la plaza del Mercado de Breslavia desde el Puente de las Brujas, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
-      "pt-BR": "Vista da Praça do Mercado de Wrocław a partir da Ponte das Bruxas, Wrocław, Polônia (© Piotr Mitelski/Shutterstock)",
-      "ja-JP": "ヴロツワフ, ポーランド (© Piotr Mitelski/Shutterstock)",
-      "zh-CN": "弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)",
-      "en-IN": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers, and one of Central Europe's most striking historic centers. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognizable landmarks.",
-      "en-CA": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
-      "en-GB": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
-      "de-DE": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
-      "fr-FR": "Quand le crépuscule enveloppe Wrocław, la lumière dorée se répand sur les toits, les flèches d'église et l'une des plus belles places historiques d'Europe centrale. Cette ville du sud-ouest de la Pologne s'étend sur un archipel d'îles reliées par plus de cent ponts, mêlant architecture médiévale et vie contemporaine animée.",
-      "es-ES": "Cuando cae la tarde sobre Breslavia (Polonia), la luz dorada se derrama por los tejados, las torres de las iglesias y uno de los centros históricos más llamativos de Europa central. La ciudad se reparte entre islas y canales unidos por más de 100 puentes, y combina arquitectura medieval con una vida urbana muy animada. Su corazón es el Rynek, la plaza del Mercado nacida en el siglo XIII, presidida por el ayuntamiento viejo, de estilo gótico.",
-      "ja-JP": "夕暮れ時になると、ヴロツワフの歴史ある街並みが黄金色の光に包まれます。ポーランド南西部に位置するこの都市は、同国で最も古い都市の一つです。100 以上の橋で結ばれた水の都として知られ、中世の面影と現代の活気が調和しています。中心部には、13 世紀に開かれたリネク広場と旧市庁舎があり、多くの人でにぎわいます。画像は、聖マリア・マグダレーナ教会の「魔女の橋」から望んだ眺めです。旧市街や広場を一望でき、やわらかな灯りに照らされた街の幻想的な美しさを楽しむことができます。",
-      "en-IN": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
-      "it-IT": "Quando la sera scende su Breslavia (Polonia), la luce dorata si posa sui tetti, sulle torri delle chiese e su uno dei centri storici più sorprendenti dell'Europa centrale. La città si distribuisce tra isole e canali collegati da oltre 100 ponti, e mescola architettura medievale a una vita urbana molto vivace. Il suo cuore è il Rynek, la piazza del Mercato nata nel Duecento, dominata dal vecchio municipio gotico.",
-      "pt-BR": "Se uma cidade pudesse ser descrita como um quebra-cabeça, Wrocław (também chamada Breslávia) já viria com peças extras. Espalhada por ilhas e cortada por canais e rios, a cidade polonesa é atravessada por mais de 100 pontes. No centro está a Rynek, a enorme Praça do Mercado criada no século XIII, cercada por fachadas coloridas e pela antiga Prefeitura gótica.",
-      "zh-CN": "暮色降临弗罗茨瓦夫，金色光芒洒满屋顶、教堂塔楼和中欧最引人注目的历史中心之一。这座位于波兰西南部的城市横跨多座岛屿和水道，由100多座桥梁连接，将中世纪建筑与充满活力的现代生活融为一体。城市中心是热闹的雷内克(Rynek)集市广场，该广场建于13世纪，哥特式老市政厅便坐落于此，它是弗罗茨瓦夫最易辨认的地标之一。"
-    },
-    "quickFacts": {
-      "zh-CN": "弗罗茨瓦夫百年厅于1913年建成时，拥有当时世界上最大的钢筋混凝土穹顶。"
-    },
-    "captions": {
-      "en-US": "Market Square from the Witches' Bridge, Wroclaw, Poland",
-      "en-CA": "Market Square from the Witches' Bridge, Wroclaw, Poland"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.WroclawPoland_EN-US7757698922",
-      "en-CA": "/th?id=OHR.WroclawPoland_EN-CA2941585195"
-    }
-  },
-  "AveburyStones": {
-    "name": "AveburyStones",
-    "urlbase": "/th?id=OHR.AveburyStones_EN-GB5895980350",
-    "date": "20261029",
-    "dateFormatted": "October 29, 2026",
+  "AutumnCranes": {
+    "name": "AutumnCranes",
+    "urlbase": "/th?id=OHR.AutumnCranes_EN-GB1528709848",
+    "date": "20261030",
+    "dateFormatted": "October 30, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1807,79 +1823,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
-      "de-DE": "Wo Nebel auf Jahrtausende trifft. Stehende Steine in Avebury, Wiltshire, England",
-      "fr-FR": "Des millénaires caressés par la brume. Pierres dressées à Avebury dans le Wiltshire, Angleterre",
-      "it-IT": "Una passeggiata nella preistoria",
-      "es-ES": "Un paseo por la prehistoria. Menhires de Avebury, Wiltshire, Inglaterra",
-      "pt-BR": "Um mistério milenar",
-      "ja-JP": "草原に立ち並ぶ巨石群",
-      "zh-CN": "立石，埃夫伯里，威尔特郡，英格兰",
-      "en-IN": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
-      "en-US": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
-      "en-CA": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England"
+      "en-GB": "Time to fly high. Sandhill cranes, New Mexico, USA",
+      "de-DE": "Zeit für Höhenflüge. Kanadakraniche, New Mexico, USA",
+      "fr-FR": "L'heure de prendre de la hauteur. Grues du Canada, Nouveau-Mexique, États-Unis",
+      "it-IT": "È ora di spiccare il volo",
+      "es-ES": "Hora de levantar el vuelo. Grullas canadienses, Nuevo México, Estados Unidos",
+      "pt-BR": "É tempo de levantar voo",
+      "ja-JP": "大空へ羽ばたく. カナダヅル、ニューメキシコ州、アメリカ",
+      "zh-CN": "沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国",
+      "en-IN": "Time to fly high. Sandhill cranes, New Mexico, USA",
+      "en-US": "Time to fly high. Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA",
+      "en-CA": "Time to fly high. Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA"
     },
     "copyrights": {
-      "en-GB": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
-      "de-DE": "Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images)",
-      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images)",
-      "it-IT": "Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images)",
-      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
-      "pt-BR": "Círculo de Pedras de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
-      "ja-JP": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
-      "zh-CN": "立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)",
-      "en-IN": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
-      "en-US": "© George W Johnson/Getty Images",
-      "en-CA": "© George W Johnson/Getty Images"
+      "en-GB": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "de-DE": "Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "fr-FR": "Grues du Canada, réserve de Bosque del Apache, Nouveau-Mexique, États-Unis (© Terry St.Louis/Getty Images)",
+      "it-IT": "Gru canadesi, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "es-ES": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo Mexico, EUA (© Terry St.Louis/Getty Images)",
+      "pt-BR": "Grous-canadenses, Refúgio Nacional de Vida Selvagem Bosque del Apache, Novo México, Estados Unidos (© Terry St.Louis/Getty Images)",
+      "ja-JP": "カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images)",
+      "zh-CN": "沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)",
+      "en-IN": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "en-US": "© Terry St.Louis/Getty Images",
+      "en-CA": "© Terry St.Louis/Getty Images"
     },
     "descs": {
-      "en-GB": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
-      "de-DE": "Das englische Avebury in der Grafschaft Wiltshire bildet das Zentrum einer außergewöhnlichen prähistorischen Landschaft. Vor rund 4.500 Jahren entstand hier ein weitläufiger jungsteinzeitlicher Monumentalkomplex, zu dem der größte prähistorische Steinkreis der Welt, ein mächtiger Henge und mehrere Steinalleen gehören. Diese reichen weit in die umliegende Landschaft hinein und verbinden Avebury mit weiteren bedeutenden Monumenten. Zur Landschaft zählen auch Silbury Hill und die West Kennet Avenue. Bis heute faszinieren diese Zeugnisse der Jungsteinzeit Besucher, Forschende und Archäologen gleichermaßen.",
-      "fr-FR": "Au petit matin, la brume glisse entre les pierres dressées d’Avebury, dans le Wiltshire, en Angleterre, et le paysage semble suspendu hors du temps. Érigé il y a environ 4 500 ans, cet immense ensemble néolithique comprend l’un des plus vastes cercles de pierres préhistoriques au monde, entouré d’un vaste henge et prolongé par des avenues de mégalithes. Avec Silbury Hill et West Kennet Avenue, il forme un remarquable paysage préhistorique qui, depuis des générations, intrigue visiteurs, chercheurs et archéologues.",
-      "es-ES": "Con la niebla de la mañana entre las piedras, los menhires de Avebury, en Wiltshire (Inglaterra), parecen fuera del tiempo. Forman parte de un monumento neolítico levantado hace unos 4.500 años que incluye el mayor círculo de piedras prehistórico del mundo, un enorme recinto de foso y terraplén y avenidas de megalitos que se prolongan por la campiña.",
-      "ja-JP": "イングランド南西部ウィルトシャーにあるエーヴベリー。朝霧に包まれた巨石群は、約 4500 年前の新石器時代に築かれた遺跡の一部です。世界最大の先史時代の環状列石をはじめ、巨大な環状遺構や列石が残されており、シルベリー・ヒルなど周辺の遺跡とともに広大な遺跡群を形成し、ユネスコ世界遺産にも登録されています。訪れる人は巨石の間を歩くことで、現代の田園風景に溶け込む古代遺跡を間近に体感することができます。",
-      "en-IN": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
-      "en-US": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centered on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers, and archaeologists.",
-      "en-CA": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
-      "it-IT": "Con la nebbia del mattino tra le pietre, i menhir di Avebury, nel Wiltshire (Inghilterra), sembrano fuori dal tempo. Fanno parte di un monumento neolitico costruito circa 4.500 anni fa che comprende il più grande cerchio di pietre preistorico del mondo, un enorme recinto di fossato e terrapieno e viali di megaliti che si allungano nella campagna.",
-      "pt-BR": "Quem ergueu essas pedras gigantes em Avebury, na Inglaterra, e por quê? Quatro mil e quinhentos anos depois, a pergunta continua sem resposta. Em Wiltshire, enormes blocos de pedra atravessam campos e estradas, formando o maior círculo de pedras pré-histórico do mundo. E há uma diferença importante: aqui, visitantes podem caminhar entre elas, como quem passeia por um monumento que ainda guarda seu segredo a céu aberto.",
-      "zh-CN": "晨雾在英格兰威尔特郡埃夫伯里的立石间飘荡，眼前景象仿佛超越了时间。这些古老的巨石构成了世界上最非凡的史前景观之一，其核心是一座约建于4500年前的宏大新石器时代纪念性建筑。埃夫伯里拥有世界上最大的史前石圈，还有一座巨型环形遗址，以及延伸至周围乡野的石列大道。它与附近的锡尔伯里山、西肯尼特大道等遗迹共同组成一处规模宏大的新石器时代遗址群，令一代又一代游客、研究人员和考古学家为之着迷。"
+      "en-GB": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
+      "de-DE": "Der Winter bringt einen vertrauten Rhythmus in das Bosque del Apache National Wildlife Refuge in New Mexico. Die Kraniche treffen ein, die Feuchtgebiete füllen sich mit Vögeln und das Gebiet wird zu einem Knotenpunkt für saisonale Wildtiere. Das 1939 gegründete, 23.000 Hektar große Schutzgebiet wurde geschaffen, um Zugvögeln einen geschützten Rastplatz zu bieten. Seine Feuchtgebiete, Felder und Wasserwege sind heute das ganze Jahr über Rückzugsort für Wildtiere. Kanadakraniche, die auf dem heutigen Bild zu sehen sind, sind besonders im Winter häufig in diesem Schutzgebiet anzutreffen.",
+      "fr-FR": "L'hiver instaure un rythme particulier dans la réserve naturelle nationale de Bosque del Apache, au Nouveau-Mexique. Créé en 1939, ce sanctuaire de 230 km2 offre une halte protégée aux oiseaux aquatiques migrateurs. Ses zones humides, ses champs et ses cours d'eau abritent aussi une faune toute l'année.",
+      "es-ES": "El invierno trae consigo un ritmo familiar al Refugio Nacional de Vida Silvestre Bosque del Apache, en Nuevo México. Las grullas regresan, los humedales se llenan de aves y la zona se convierte en un punto de encuentro para la fauna estacional. Fundado en 1939, este santuario de 57.331 acres (23,201 hectáreas) se creó para ofrecer una parada protegida a las aves acuáticas migratorias. Hoy, sus humedales, campos y cursos de agua albergan fauna durante todo el año. Las grullas canadienses, protagonistas de la imagen de hoy, están especialmente ligadas al refugio durante el invierno.",
+      "ja-JP": "冬を迎えるニューメキシコ州のボスケ・デル・アパッチ国立野生動物保護区には、多くの渡り鳥が飛来します。この保護区は1939年に、渡り鳥の重要な中継地として設立されました。約232平方キロメートルに及ぶこの地域には、湿地や草地、水辺が広がり、一年を通して多様な野生動物が暮らしています。写真のカナダヅルは例年10月下旬ごろから姿を見せ、冬の間、ここで過ごします。夜は浅瀬で休み、日の出ごろになると餌を求めて近くの野原へと飛び立ちます。",
+      "en-IN": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
+      "en-US": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields, and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
+      "en-CA": "Winter transforms Bosque del Apache National Wildlife Refuge in New Mexico into a haven for wildlife. Established in 1939, the 57,331-acre sanctuary provides an important stopover for migrating waterfowl and supports wildlife year-round. Sandhill cranes, featured in today's image, arrive in late October and spend the winter here, roosting in shallow water at night and feeding in nearby fields at sunrise. The refuge is a key wintering ground for the Rocky Mountain population of sandhill cranes. Other seasonal visitors include snow geese, northern pintails, hawks and eagles, while mule deer, coyotes and other mammals inhabit its diverse habitats.",
+      "it-IT": "Come ogni anno l’inverno trasforma il Bosque del Apache National Wildlife Refuge, nel New Mexico, in un vivace rifugio per la fauna migratoria. Istituita nel 1939, la riserva ospita numerose specie durante tutto l’anno. Protagoniste di questa stagione sono le gru canadesi, che arrivano dalla fine di ottobre e trascorrono la notte nelle acque poco profonde, prima di raggiungere i campi all’alba in cerca di cibo. Oche, anatre, aquile e falchi si uniscono allo spettacolo, insieme a cervi muli, coyote e lepri, mentre i diversi habitat offrono rifugio alle specie a rischio di estinzione.",
+      "pt-BR": "O inverno traz um ritmo familiar ao Refúgio Nacional de Vida Selvagem Bosque del Apache, no Novo México, nos Estados Unidos. Os grous chegam, as áreas úmidas se enchem de aves e o local se torna um ponto de encontro para animais que aparecem nessa época do ano. Criado em 1939, o refúgio de cerca de 23.200 hectares foi estabelecido para oferecer uma parada segura às aves aquáticas migratórias. Hoje, suas áreas úmidas, campos e cursos d’água abrigam animais durante o ano inteiro. Os grous-canadenses, que aparecem na imagem de hoje, são uma presença característica no refúgio durante o inverno. Outros visitantes sazonais incluem gansos-das-neves, gansos-de-ross, arrabios, patos-colhereiros, gaviões e águias.",
+      "zh-CN": "冬天为新墨西哥州的博斯克德尔阿帕奇国家野生动物保护区带来熟悉的节奏。沙丘鹤陆续飞来，湿地聚满鸟儿，这片区域成为季节性野生动物的聚集地。这座占地57,331英亩的保护区成立于1939年，旨在为迁徙的水鸟提供受保护的中途栖息地。如今，这里的湿地、田野和水道全年滋养着野生动物。画面中的沙丘鹤尤其是保护区冬季的标志性身影。"
     },
     "quickFacts": {
-      "zh-CN": "20世纪30年代，考古学家亚历山大·凯勒重新竖起了许多倒伏的埃夫伯里巨石，并用混凝土标出缺失巨石的位置。"
+      "zh-CN": "西班牙语“Bosque del Apache”意为“阿帕奇人的树林”，得名于曾在里奥格兰德河沿岸树林扎营的阿帕奇人。"
     },
     "captions": {
-      "en-GB": "Standing stones at Avebury in Wiltshire, England",
-      "de-DE": "Stehende Steine in Avebury, Wiltshire, England",
-      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre",
+      "en-GB": "Sandhill cranes, New Mexico, USA",
+      "de-DE": "Kanadakraniche, New Mexico, USA",
+      "fr-FR": "Grues du Canada, Nouveau-Mexique, États-Unis",
       "it-IT": "",
-      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra",
+      "es-ES": "Grullas canadienses, Nuevo México, Estados Unidos",
       "pt-BR": "",
-      "ja-JP": "草原に立ち並ぶ巨石群",
+      "ja-JP": "カナダヅル、ニューメキシコ州、アメリカ",
       "zh-CN": "",
-      "en-IN": "Standing stones at Avebury in Wiltshire, England"
+      "en-IN": "Sandhill cranes, New Mexico, USA"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Avebury+Steinkreis&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Menhir+di+Avebury+Wiltshire&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Menhires+de+Avebury&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Avebury+na+Inglaterra&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%83%bc%e3%83%b4%e3%83%99%e3%83%aa%e3%83%bc+%e5%b7%a8%e7%9f%b3%e7%be%a4&form=hpcapt&filters=HpDate%3a%2220261028_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e7%89%b9%e9%83%a1%e5%9f%83%e5%a4%ab%e4%bc%af%e9%87%8c%e7%8e%af%e5%bd%a2%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Kanadakranich&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Grue+du+Canada&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+      "it-IT": "https://www.bing.com/search?q=gru+canadesi&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Grullas+Canadienses&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Grous-canadenses&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80%e3%83%85%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220261029_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b2%99%e4%b8%98%e9%b9%a4&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261029_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AveburyStones_EN-GB5895980350",
-      "de-DE": "/th?id=OHR.AveburyStones_DE-DE3052154737",
-      "fr-FR": "/th?id=OHR.AveburyStones_FR-FR0792308002",
-      "it-IT": "/th?id=OHR.AveburyStones_IT-IT5634082753",
-      "es-ES": "/th?id=OHR.AveburyStones_ES-ES9090727572",
-      "pt-BR": "/th?id=OHR.AveburyStones_PT-BR9317811680",
-      "ja-JP": "/th?id=OHR.AveburyStones_JA-JP4031336786",
-      "zh-CN": "/th?id=OHR.AveburyStones_ZH-CN9127100951",
-      "en-IN": "/th?id=OHR.AveburyStones_EN-IN9660577333"
+      "en-GB": "/th?id=OHR.AutumnCranes_EN-GB1528709848",
+      "de-DE": "/th?id=OHR.AutumnCranes_DE-DE0229834342",
+      "fr-FR": "/th?id=OHR.AutumnCranes_FR-FR2970535620",
+      "it-IT": "/th?id=OHR.AutumnCranes_IT-IT0637151336",
+      "es-ES": "/th?id=OHR.AutumnCranes_ES-ES8460518037",
+      "pt-BR": "/th?id=OHR.AutumnCranes_PT-BR8749482923",
+      "ja-JP": "/th?id=OHR.AutumnCranes_JA-JP2456396404",
+      "zh-CN": "/th?id=OHR.AutumnCranes_ZH-CN5772055404",
+      "en-IN": "/th?id=OHR.AutumnCranes_EN-IN9113460841"
     }
   },
   "BSTEnds2026": {
@@ -2022,38 +2038,6 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.BerlinLibrary_DE-DE5145605761"
-    }
-  },
-  "AndechsAbbey": {
-    "name": "AndechsAbbey",
-    "urlbase": "/th?id=OHR.AndechsAbbey_DE-DE4997798666",
-    "date": "20261015",
-    "dateFormatted": "October 15, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Hoch über Bayern. Kloster Andechs bei Sonnenuntergang, Andechs, Bayern"
-    },
-    "copyrights": {
-      "de-DE": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)"
-    },
-    "descs": {
-      "de-DE": "Andechs in Oberbayern verbindet weite Ausblicke mit einer langen Geschichte. Hoch auf dem Heiligen Berg thront das Kloster Andechs, ein Wallfahrtsort, zu dem Menschen bereits seit dem 12. Jahrhundert pilgern. Das Benediktinerkloster selbst wurde 1455 gegründet. Seitdem betreuen Benediktiner die Wallfahrt. Die religiösen Wurzeln des Berges sind jedoch noch älter: Der dort verwahrte Reliquienschatz reicht bis ins 10. Jahrhundert zurück."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Kloster+Andechs&form=hpcapt&filters=HpDate%3a%2220261015_2200%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.AndechsAbbey_DE-DE4997798666"
     }
   },
   "ReimsChampagne": {
@@ -2284,38 +2268,6 @@
       "pt-BR": "/th?id=OHR.Nazare_PT-BR0405066219"
     }
   },
-  "Veadeiros": {
-    "name": "Veadeiros",
-    "urlbase": "/th?id=OHR.Veadeiros_PT-BR0644976929",
-    "date": "20261016",
-    "dateFormatted": "October 16, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "Correntes criativas"
-    },
-    "copyrights": {
-      "pt-BR": "Chapada dos Veadeiros, Goiás (© Roberto Kenji/Shutterstock)"
-    },
-    "descs": {
-      "pt-BR": "Se alguém dissesse que esta imagem mostra uma obra de arte abstrata, seria fácil acreditar. Mas o artista aqui é menos convencional: água corrente, toneladas de rocha e muito, muito tempo. No Parque Nacional da Chapada dos Veadeiros, em Goiás, a natureza passou milhões de anos esculpindo cânions e fendas que parecem desafiar a lógica da pedra. Gota após gota, corrente após corrente, a água desgasta a rocha e redesenha a paisagem, alimentando rios de águas cristalinas e cachoeiras que despencam por antigos paredões."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=Chapada+dos+Veadeiros&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.Veadeiros_PT-BR0644976929"
-    }
-  },
   "TsutanumaMomiji2026": {
     "name": "TsutanumaMomiji2026",
     "urlbase": "/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988",
@@ -2412,6 +2364,142 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "WroclawPoland": {
+    "name": "WroclawPoland",
+    "urlbase": "/th?id=OHR.WroclawPoland_EN-US7757698922",
+    "date": "20261015",
+    "dateFormatted": "October 15, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Bridges, rooftops, and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
+      "en-CA": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
+      "en-GB": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland",
+      "de-DE": "Brücken, Dächer und Dämmerung. Blick auf den Breslauer Marktplatz, Breslau, Polen",
+      "fr-FR": "La ville aux cent ponts. Place du marché de Wrocław, Pologne",
+      "it-IT": "Ponti, tetti e crepuscolo",
+      "es-ES": "Puentes, tejados y crepúsculo. Puente de las Brujas y plaza del Mercado, Breslavia, Polonia",
+      "pt-BR": "O brilho de Wrocław",
+      "ja-JP": "黄金色に輝く旧市街",
+      "zh-CN": "桥梁、屋顶与暮色",
+      "en-IN": "Bridges, rooftops and twilight. Market Square from the Witches' Bridge, Wroclaw, Poland"
+    },
+    "copyrights": {
+      "en-US": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+      "en-CA": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+      "en-GB": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+      "de-DE": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)",
+      "fr-FR": "Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)",
+      "it-IT": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
+      "es-ES": "Vista de la plaza del Mercado de Breslavia desde el Puente de las Brujas, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
+      "pt-BR": "Vista da Praça do Mercado de Wrocław a partir da Ponte das Bruxas, Wrocław, Polônia (© Piotr Mitelski/Shutterstock)",
+      "ja-JP": "ヴロツワフ, ポーランド (© Piotr Mitelski/Shutterstock)",
+      "zh-CN": "弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)",
+      "en-IN": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers, and one of Central Europe's most striking historic centers. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognizable landmarks.",
+      "en-CA": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+      "en-GB": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+      "de-DE": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
+      "fr-FR": "Quand le crépuscule enveloppe Wrocław, la lumière dorée se répand sur les toits, les flèches d'église et l'une des plus belles places historiques d'Europe centrale. Cette ville du sud-ouest de la Pologne s'étend sur un archipel d'îles reliées par plus de cent ponts, mêlant architecture médiévale et vie contemporaine animée.",
+      "es-ES": "Cuando cae la tarde sobre Breslavia (Polonia), la luz dorada se derrama por los tejados, las torres de las iglesias y uno de los centros históricos más llamativos de Europa central. La ciudad se reparte entre islas y canales unidos por más de 100 puentes, y combina arquitectura medieval con una vida urbana muy animada. Su corazón es el Rynek, la plaza del Mercado nacida en el siglo XIII, presidida por el ayuntamiento viejo, de estilo gótico.",
+      "ja-JP": "夕暮れ時になると、ヴロツワフの歴史ある街並みが黄金色の光に包まれます。ポーランド南西部に位置するこの都市は、同国で最も古い都市の一つです。100 以上の橋で結ばれた水の都として知られ、中世の面影と現代の活気が調和しています。中心部には、13 世紀に開かれたリネク広場と旧市庁舎があり、多くの人でにぎわいます。画像は、聖マリア・マグダレーナ教会の「魔女の橋」から望んだ眺めです。旧市街や広場を一望でき、やわらかな灯りに照らされた街の幻想的な美しさを楽しむことができます。",
+      "en-IN": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+      "it-IT": "Quando la sera scende su Breslavia (Polonia), la luce dorata si posa sui tetti, sulle torri delle chiese e su uno dei centri storici più sorprendenti dell'Europa centrale. La città si distribuisce tra isole e canali collegati da oltre 100 ponti, e mescola architettura medievale a una vita urbana molto vivace. Il suo cuore è il Rynek, la piazza del Mercato nata nel Duecento, dominata dal vecchio municipio gotico.",
+      "pt-BR": "Se uma cidade pudesse ser descrita como um quebra-cabeça, Wrocław (também chamada Breslávia) já viria com peças extras. Espalhada por ilhas e cortada por canais e rios, a cidade polonesa é atravessada por mais de 100 pontes. No centro está a Rynek, a enorme Praça do Mercado criada no século XIII, cercada por fachadas coloridas e pela antiga Prefeitura gótica.",
+      "zh-CN": "暮色降临弗罗茨瓦夫，金色光芒洒满屋顶、教堂塔楼和中欧最引人注目的历史中心之一。这座位于波兰西南部的城市横跨多座岛屿和水道，由100多座桥梁连接，将中世纪建筑与充满活力的现代生活融为一体。城市中心是热闹的雷内克(Rynek)集市广场，该广场建于13世纪，哥特式老市政厅便坐落于此，它是弗罗茨瓦夫最易辨认的地标之一。"
+    },
+    "quickFacts": {
+      "zh-CN": "弗罗茨瓦夫百年厅于1913年建成时，拥有当时世界上最大的钢筋混凝土穹顶。"
+    },
+    "captions": {
+      "en-US": "Market Square from the Witches' Bridge, Wroclaw, Poland",
+      "en-CA": "Market Square from the Witches' Bridge, Wroclaw, Poland"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.WroclawPoland_EN-US7757698922",
+      "en-CA": "/th?id=OHR.WroclawPoland_EN-CA2941585195"
+    }
+  },
+  "AndechsAbbey": {
+    "name": "AndechsAbbey",
+    "urlbase": "/th?id=OHR.AndechsAbbey_DE-DE4997798666",
+    "date": "20261015",
+    "dateFormatted": "October 15, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Hoch über Bayern. Kloster Andechs bei Sonnenuntergang, Andechs, Bayern"
+    },
+    "copyrights": {
+      "de-DE": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)"
+    },
+    "descs": {
+      "de-DE": "Andechs in Oberbayern verbindet weite Ausblicke mit einer langen Geschichte. Hoch auf dem Heiligen Berg thront das Kloster Andechs, ein Wallfahrtsort, zu dem Menschen bereits seit dem 12. Jahrhundert pilgern. Das Benediktinerkloster selbst wurde 1455 gegründet. Seitdem betreuen Benediktiner die Wallfahrt. Die religiösen Wurzeln des Berges sind jedoch noch älter: Der dort verwahrte Reliquienschatz reicht bis ins 10. Jahrhundert zurück."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Kloster+Andechs&form=hpcapt&filters=HpDate%3a%2220261015_2200%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.AndechsAbbey_DE-DE4997798666"
+    }
+  },
+  "Veadeiros": {
+    "name": "Veadeiros",
+    "urlbase": "/th?id=OHR.Veadeiros_PT-BR0644976929",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "Correntes criativas"
+    },
+    "copyrights": {
+      "pt-BR": "Chapada dos Veadeiros, Goiás (© Roberto Kenji/Shutterstock)"
+    },
+    "descs": {
+      "pt-BR": "Se alguém dissesse que esta imagem mostra uma obra de arte abstrata, seria fácil acreditar. Mas o artista aqui é menos convencional: água corrente, toneladas de rocha e muito, muito tempo. No Parque Nacional da Chapada dos Veadeiros, em Goiás, a natureza passou milhões de anos esculpindo cânions e fendas que parecem desafiar a lógica da pedra. Gota após gota, corrente após corrente, a água desgasta a rocha e redesenha a paisagem, alimentando rios de águas cristalinas e cachoeiras que despencam por antigos paredões."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Chapada+dos+Veadeiros&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Veadeiros_PT-BR0644976929"
     }
   },
   "AmmoniteFossils": {
