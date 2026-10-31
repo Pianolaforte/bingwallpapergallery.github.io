@@ -1,4 +1,148 @@
 {
+  "AutumnCranes": {
+    "name": "AutumnCranes",
+    "urlbase": "/th?id=OHR.AutumnCranes_EN-US9795571462",
+    "date": "20261030",
+    "dateFormatted": "October 30, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Time to fly high. Bosque del Apache National Wildlife Refuge, New Mexico",
+      "en-GB": "Time to fly high. Sandhill cranes, New Mexico, USA",
+      "en-CA": "Time to fly high. Sandhill cranes, New Mexico, USA",
+      "de-DE": "Zeit für Höhenflüge. Kanadakraniche, New Mexico, USA",
+      "fr-FR": "L'heure de prendre de la hauteur. Grues du Canada, Nouveau-Mexique, États-Unis",
+      "it-IT": "È ora di spiccare il volo",
+      "es-ES": "Hora de levantar el vuelo. Grullas canadienses, Nuevo México, Estados Unidos",
+      "pt-BR": "É tempo de levantar voo",
+      "ja-JP": "大空へ羽ばたく. カナダヅル、ニューメキシコ州、アメリカ",
+      "zh-CN": "沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国",
+      "en-IN": "Time to fly high. Sandhill cranes, New Mexico, USA"
+    },
+    "copyrights": {
+      "en-US": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "en-GB": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "en-CA": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "de-DE": "Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "fr-FR": "Grues du Canada, réserve de Bosque del Apache, Nouveau-Mexique, États-Unis (© Terry St.Louis/Getty Images)",
+      "it-IT": "Gru canadesi, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "es-ES": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo Mexico, EUA (© Terry St.Louis/Getty Images)",
+      "pt-BR": "Grous-canadenses, Refúgio Nacional de Vida Selvagem Bosque del Apache, Novo México, Estados Unidos (© Terry St.Louis/Getty Images)",
+      "ja-JP": "カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images)",
+      "zh-CN": "沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)",
+      "en-IN": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields, and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
+      "en-GB": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
+      "en-CA": "Winter transforms Bosque del Apache National Wildlife Refuge in New Mexico into a haven for wildlife. Established in 1939, the 57,331-acre sanctuary provides an important stopover for migrating waterfowl and supports wildlife year-round. Sandhill cranes, featured in today's image, arrive in late October and spend the winter here, roosting in shallow water at night and feeding in nearby fields at sunrise. The refuge is a key wintering ground for the Rocky Mountain population of sandhill cranes. Other seasonal visitors include snow geese, northern pintails, hawks and eagles, while mule deer, coyotes and other mammals inhabit its diverse habitats.",
+      "de-DE": "Der Winter bringt einen vertrauten Rhythmus in das Bosque del Apache National Wildlife Refuge in New Mexico. Die Kraniche treffen ein, die Feuchtgebiete füllen sich mit Vögeln und das Gebiet wird zu einem Knotenpunkt für saisonale Wildtiere. Das 1939 gegründete, 23.000 Hektar große Schutzgebiet wurde geschaffen, um Zugvögeln einen geschützten Rastplatz zu bieten. Seine Feuchtgebiete, Felder und Wasserwege sind heute das ganze Jahr über Rückzugsort für Wildtiere. Kanadakraniche, die auf dem heutigen Bild zu sehen sind, sind besonders im Winter häufig in diesem Schutzgebiet anzutreffen.",
+      "fr-FR": "L'hiver instaure un rythme particulier dans la réserve naturelle nationale de Bosque del Apache, au Nouveau-Mexique. Créé en 1939, ce sanctuaire de 230 km2 offre une halte protégée aux oiseaux aquatiques migrateurs. Ses zones humides, ses champs et ses cours d'eau abritent aussi une faune toute l'année.",
+      "es-ES": "El invierno trae consigo un ritmo familiar al Refugio Nacional de Vida Silvestre Bosque del Apache, en Nuevo México. Las grullas regresan, los humedales se llenan de aves y la zona se convierte en un punto de encuentro para la fauna estacional. Fundado en 1939, este santuario de 57.331 acres (23,201 hectáreas) se creó para ofrecer una parada protegida a las aves acuáticas migratorias. Hoy, sus humedales, campos y cursos de agua albergan fauna durante todo el año. Las grullas canadienses, protagonistas de la imagen de hoy, están especialmente ligadas al refugio durante el invierno.",
+      "ja-JP": "冬を迎えるニューメキシコ州のボスケ・デル・アパッチ国立野生動物保護区には、多くの渡り鳥が飛来します。この保護区は1939年に、渡り鳥の重要な中継地として設立されました。約232平方キロメートルに及ぶこの地域には、湿地や草地、水辺が広がり、一年を通して多様な野生動物が暮らしています。写真のカナダヅルは例年10月下旬ごろから姿を見せ、冬の間、ここで過ごします。夜は浅瀬で休み、日の出ごろになると餌を求めて近くの野原へと飛び立ちます。",
+      "en-IN": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
+      "it-IT": "Come ogni anno l’inverno trasforma il Bosque del Apache National Wildlife Refuge, nel New Mexico, in un vivace rifugio per la fauna migratoria. Istituita nel 1939, la riserva ospita numerose specie durante tutto l’anno. Protagoniste di questa stagione sono le gru canadesi, che arrivano dalla fine di ottobre e trascorrono la notte nelle acque poco profonde, prima di raggiungere i campi all’alba in cerca di cibo. Oche, anatre, aquile e falchi si uniscono allo spettacolo, insieme a cervi muli, coyote e lepri, mentre i diversi habitat offrono rifugio alle specie a rischio di estinzione.",
+      "pt-BR": "O inverno traz um ritmo familiar ao Refúgio Nacional de Vida Selvagem Bosque del Apache, no Novo México, nos Estados Unidos. Os grous chegam, as áreas úmidas se enchem de aves e o local se torna um ponto de encontro para animais que aparecem nessa época do ano. Criado em 1939, o refúgio de cerca de 23.200 hectares foi estabelecido para oferecer uma parada segura às aves aquáticas migratórias. Hoje, suas áreas úmidas, campos e cursos d’água abrigam animais durante o ano inteiro. Os grous-canadenses, que aparecem na imagem de hoje, são uma presença característica no refúgio durante o inverno. Outros visitantes sazonais incluem gansos-das-neves, gansos-de-ross, arrabios, patos-colhereiros, gaviões e águias.",
+      "zh-CN": "冬天为新墨西哥州的博斯克德尔阿帕奇国家野生动物保护区带来熟悉的节奏。沙丘鹤陆续飞来，湿地聚满鸟儿，这片区域成为季节性野生动物的聚集地。这座占地57,331英亩的保护区成立于1939年，旨在为迁徙的水鸟提供受保护的中途栖息地。如今，这里的湿地、田野和水道全年滋养着野生动物。画面中的沙丘鹤尤其是保护区冬季的标志性身影。"
+    },
+    "quickFacts": {
+      "zh-CN": "西班牙语“Bosque del Apache”意为“阿帕奇人的树林”，得名于曾在里奥格兰德河沿岸树林扎营的阿帕奇人。"
+    },
+    "captions": {
+      "en-US": "Bosque del Apache National Wildlife Refuge, New Mexico",
+      "en-GB": "Sandhill cranes, New Mexico, USA",
+      "en-CA": "Sandhill cranes, New Mexico, USA",
+      "de-DE": "Kanadakraniche, New Mexico, USA",
+      "fr-FR": "Grues du Canada, Nouveau-Mexique, États-Unis",
+      "it-IT": "",
+      "es-ES": "Grullas canadienses, Nuevo México, Estados Unidos",
+      "pt-BR": "",
+      "ja-JP": "カナダヅル、ニューメキシコ州、アメリカ",
+      "zh-CN": "",
+      "en-IN": "Sandhill cranes, New Mexico, USA"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Kanadakranich&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Grue+du+Canada&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+      "it-IT": "https://www.bing.com/search?q=gru+canadesi&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Grullas+Canadienses&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Grous-canadenses&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80%e3%83%85%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220261029_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b2%99%e4%b8%98%e9%b9%a4&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261029_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AutumnCranes_EN-US9795571462",
+      "en-GB": "/th?id=OHR.AutumnCranes_EN-GB1528709848",
+      "en-CA": "/th?id=OHR.AutumnCranes_EN-CA4395405990",
+      "de-DE": "/th?id=OHR.AutumnCranes_DE-DE0229834342",
+      "fr-FR": "/th?id=OHR.AutumnCranes_FR-FR2970535620",
+      "it-IT": "/th?id=OHR.AutumnCranes_IT-IT0637151336",
+      "es-ES": "/th?id=OHR.AutumnCranes_ES-ES8460518037",
+      "pt-BR": "/th?id=OHR.AutumnCranes_PT-BR8749482923",
+      "ja-JP": "/th?id=OHR.AutumnCranes_JA-JP2456396404",
+      "zh-CN": "/th?id=OHR.AutumnCranes_ZH-CN5772055404",
+      "en-IN": "/th?id=OHR.AutumnCranes_EN-IN9113460841"
+    }
+  },
   "AveburyStones": {
     "name": "AveburyStones",
     "urlbase": "/th?id=OHR.AveburyStones_EN-US9568662876",
@@ -670,7 +814,7 @@
       "es-ES": "Una catedral de libros. Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
       "pt-BR": "A biblioteca mais teatral do Rio",
       "ja-JP": "図書館の天窓から差し込む自然光",
-      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西",
+      "zh-CN": "书香里的极致华美",
       "en-IN": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
     },
     "copyrights": {
@@ -1587,50 +1731,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "The past, unearthed. International Archaeology Day",
-      "en-GB": "The past, unearthed. International Archaeology Day",
       "en-CA": "The past, unearthed. International Archaeology Day",
+      "en-GB": "The past, unearthed. International Archaeology Day",
       "de-DE": "Die Vergangenheit ans Licht gebracht. Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
       "it-IT": "Arte di 36.000 anni fa",
       "es-ES": "Arte de hace 36.000 años. Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
@@ -1640,8 +1749,8 @@
     },
     "copyrights": {
       "en-US": "Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
-      "en-GB": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
       "en-CA": "Life-size replica of Chauvet Cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "en-GB": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
       "de-DE": "Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)",
       "it-IT": "Riproduzione a grandezza naturale delle pitture della grotta di Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
       "es-ES": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
@@ -1651,8 +1760,8 @@
     },
     "descs": {
       "en-US": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organized by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programs, site visits, simulated digs, and hands-on activities.",
-      "en-GB": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
       "en-CA": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "en-GB": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
       "de-DE": "Die Chauvet-Höhle bei Vallon-Pont-d’Arc in Südfrankreich zählt zu den bedeutendsten Fundstätten prähistorischer Höhlenkunst. An ihren Wänden finden sich mehr als 1000 Zeichnungen, vor allem eindrucksvolle Darstellungen von Tieren wie Löwen, Nashörnern, Pferden und Mammuts. Die außergewöhnlich gut erhaltenen Kunstwerke geben faszinierende Einblicke in die kreative Welt der Menschen der Altsteinzeit. Um die empfindlichen Originale zu schützen, wurde in der Nähe eine lebensgroße Nachbildung geschaffen, in der Besucher die Höhlenmalereien in einer möglichst authentischen Umgebung erleben können.",
       "es-ES": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público.",
       "en-IN": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
@@ -1672,109 +1781,22 @@
     },
     "captions": {
       "en-US": "International Archaeology Day",
-      "en-GB": "International Archaeology Day",
-      "en-CA": "International Archaeology Day",
-      "de-DE": "Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
-      "it-IT": "",
-      "es-ES": "Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
-      "pt-BR": "",
-      "zh-CN": "",
-      "en-IN": "International Archaeology Day"
+      "en-CA": "International Archaeology Day"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0700%22",
-      "en-GB": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261016_2300%22",
-      "en-CA": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Chauvet-H%c3%b6hle&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
-      "it-IT": "https://www.bing.com/search?q=grotta+di+Chauvet&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=cueva+de+Chauvet&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Caverna+de+Chauvet&form=hpcapt&mkt=pt-br",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e8%80%83%e5%8f%a4%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261016_1830%22"
+      "en-CA": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
-      "en-GB": "/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874",
-      "en-CA": "/th?id=OHR.ChauvetPaintingsFrance_EN-CA7438357428",
-      "de-DE": "/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746",
-      "it-IT": "/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809",
-      "es-ES": "/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224",
-      "pt-BR": "/th?id=OHR.ChauvetPaintingsFrance_PT-BR7808142972",
-      "zh-CN": "/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955",
-      "en-IN": "/th?id=OHR.ChauvetPaintingsFrance_EN-IN6496493041"
+      "en-CA": "/th?id=OHR.ChauvetPaintingsFrance_EN-CA7438357428"
     }
   },
-  "SneffelsAutumn": {
-    "name": "SneffelsAutumn",
-    "urlbase": "/th?id=OHR.SneffelsAutumn_EN-US3953128777",
-    "date": "20261016",
-    "dateFormatted": "October 16, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
-      "en-CA": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
-      "en-GB": "'Peak' into Colorado. Mount Sneffels, Colorado, United States",
-      "fr-FR": "En haut du Colorado. Le mont Sneffels dans les montagnes San Juan, États-Unis",
-      "it-IT": "Oro e neve in Colorado",
-      "es-ES": "Oro y nieve en Colorado. Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
-      "ja-JP": "黄金色の森の先にそびえる山",
-      "zh-CN": "一窥科罗拉多群峰",
-      "en-IN": "'Peak' into Colorado. Mount Sneffels, Colorado, United States"
-    },
-    "copyrights": {
-      "en-US": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
-      "en-CA": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
-      "en-GB": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
-      "fr-FR": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis (© lightphoto/Getty Images)",
-      "it-IT": "Monte Sneffels, San Juan Mountains, vicino a Ridgway, Colorado, USA (© lightphoto/Getty Images)",
-      "es-ES": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
-      "ja-JP": "スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)",
-      "zh-CN": "斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)",
-      "en-IN": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 14,150 feet in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray, and Telluride. It sits within the 16,587-acre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-      "en-CA": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred metres. Rising to 4,310 metres in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 67-square-kilometre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-      "en-GB": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-      "fr-FR": "Certains sommets se méritent avant de dévoiler leur panorama. Le mont Sneffels, lui, concentre son ultime défi dans les dernières centaines de mètres. Culminant à 4 313 mètres dans les monts San Juan, au Colorado (États-Unis), ce géant domine les paysages de Ridgway, Ouray et Telluride. Il s’élève au cœur des 6 713 hectares de la Mount Sneffels Wilderness, territoire protégé depuis 1980. Plusieurs itinéraires permettent de l’approcher, notamment par Yankee Boy Basin ou depuis le secteur des Blue Lakes.",
-      "es-ES": "El monte Sneffels se alza sobre las montañas San Juan, cerca de Ridgway, en Colorado (Estados Unidos), y supera los 4.300 metros de altitud. Pertenece al club de los llamados «catorcemiles», los picos que rebasan los 14.000 pies (4.270 m), y en octubre protagoniza uno de los espectáculos más buscados del oeste americano: las laderas se llenan de álamos temblones dorados justo cuando la nieve empieza a asentarse en las cumbres.",
-      "ja-JP": "今日の画像は、米国コロラド州南西部、サンファン山地にそびえるスネフェル山。標高約 4,300m を誇るロッキー山脈の名峰です。コロラド州には標高 14,000 フィート（約 4,267m ）以上の山が 58 座あり、これらは総称して「フォーティーナーズ (Fourteeners) 」と呼ばれています。スネフェル山はその中でも特に人気が高く、その美しい山容から、写真の被写体としても人気があります。秋には山麓に黄金色のアスペン林が広がり、雪をいただいた山頂との美しいコントラストが訪れる人々を魅了します。",
-      "en-IN": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-      "it-IT": "Il monte Sneffels si alza sulle San Juan Mountains, vicino a Ridgway, in Colorado (Stati Uniti), e supera i 4.300 metri di quota. Fa parte del club dei cosiddetti «quattordicimila», le cime che oltrepassano i 14.000 piedi (4270 metri), e in ottobre regala uno degli spettacoli più cercati dell'ovest americano: i versanti si riempiono di pioppi tremuli dorati proprio quando la neve inizia a fermarsi sulle vette.",
-      "zh-CN": "有些山会让你付出一番努力才能欣赏到美景，而攀登斯奈费尔斯山，最考验人的则是最后几百英尺。它高耸于科罗拉多州的圣胡安山脉，海拔14,150英尺，是一座“十四峰”，在里奇韦、乌雷和特柳赖德一带十分醒目。它坐落在占地16,587英亩的斯奈费尔斯山荒野区内，这片保护区于1980年获指定。徒步者可以从多条路线登山，包括经扬基博伊盆地和蓝湖群地区的路线。"
-    },
-    "quickFacts": {
-      "zh-CN": "根据美国联邦荒野管理规定，斯奈费尔斯山荒野区通常禁止机动车辆和机械运输工具进入。"
-    },
-    "captions": {
-      "en-US": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
-      "en-CA": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261016_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261025_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.SneffelsAutumn_EN-US3953128777",
-      "en-CA": "/th?id=OHR.SneffelsAutumn_EN-CA1700205921"
-    }
-  },
-  "AutumnCranes": {
-    "name": "AutumnCranes",
-    "urlbase": "/th?id=OHR.AutumnCranes_EN-GB1528709848",
-    "date": "20261030",
-    "dateFormatted": "October 30, 2026",
+  "FrankfurtHalloween": {
+    "name": "FrankfurtHalloween",
+    "urlbase": "/th?id=OHR.FrankfurtHalloween_EN-GB3041218795",
+    "date": "20261031",
+    "dateFormatted": "October 31, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1823,79 +1845,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Time to fly high. Sandhill cranes, New Mexico, USA",
-      "de-DE": "Zeit für Höhenflüge. Kanadakraniche, New Mexico, USA",
-      "fr-FR": "L'heure de prendre de la hauteur. Grues du Canada, Nouveau-Mexique, États-Unis",
-      "it-IT": "È ora di spiccare il volo",
-      "es-ES": "Hora de levantar el vuelo. Grullas canadienses, Nuevo México, Estados Unidos",
-      "pt-BR": "É tempo de levantar voo",
-      "ja-JP": "大空へ羽ばたく. カナダヅル、ニューメキシコ州、アメリカ",
-      "zh-CN": "沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国",
-      "en-IN": "Time to fly high. Sandhill cranes, New Mexico, USA",
-      "en-US": "Time to fly high. Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA",
-      "en-CA": "Time to fly high. Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA"
+      "en-GB": "Ghosts of empires past. It's Halloween!",
+      "de-DE": "Der Geist vergangener Kaiserreiche. Heute ist Halloween!",
+      "fr-FR": "Visiteurs d'un autre monde. C’est Halloween !",
+      "it-IT": "Fantasmi di imperi passati",
+      "es-ES": "Los fantasmas de imperios pasados. ¡Es Halloween!",
+      "pt-BR": "Ecos de um império",
+      "ja-JP": "帝国の面影. 今日はハロウィン！",
+      "zh-CN": "圣巴尔多禄茂教堂，法兰克福，德国",
+      "en-IN": "Ghosts of empires past. It's Halloween!",
+      "en-US": "Ghosts of empires past. St. Bartholomew's Cathedral in Frankfurt, Germany",
+      "en-CA": "Ghosts of empires past. St. Bartholomew's Cathedral in Frankfurt, Germany"
     },
     "copyrights": {
-      "en-GB": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
-      "de-DE": "Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
-      "fr-FR": "Grues du Canada, réserve de Bosque del Apache, Nouveau-Mexique, États-Unis (© Terry St.Louis/Getty Images)",
-      "it-IT": "Gru canadesi, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
-      "es-ES": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo Mexico, EUA (© Terry St.Louis/Getty Images)",
-      "pt-BR": "Grous-canadenses, Refúgio Nacional de Vida Selvagem Bosque del Apache, Novo México, Estados Unidos (© Terry St.Louis/Getty Images)",
-      "ja-JP": "カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images)",
-      "zh-CN": "沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)",
-      "en-IN": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
-      "en-US": "© Terry St.Louis/Getty Images",
-      "en-CA": "© Terry St.Louis/Getty Images"
+      "en-GB": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "de-DE": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
+      "fr-FR": "Cathédrale Saint-Barthélemy à Francfort, Allemagne (© AlxeyPnferov/Getty Images)",
+      "it-IT": "Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)",
+      "es-ES": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
+      "pt-BR": "Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)",
+      "ja-JP": "聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images)",
+      "zh-CN": "圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)",
+      "en-IN": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "en-US": "© AlxeyPnferov/Getty Images",
+      "en-CA": "© AlxeyPnferov/Getty Images"
     },
     "descs": {
-      "en-GB": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
-      "de-DE": "Der Winter bringt einen vertrauten Rhythmus in das Bosque del Apache National Wildlife Refuge in New Mexico. Die Kraniche treffen ein, die Feuchtgebiete füllen sich mit Vögeln und das Gebiet wird zu einem Knotenpunkt für saisonale Wildtiere. Das 1939 gegründete, 23.000 Hektar große Schutzgebiet wurde geschaffen, um Zugvögeln einen geschützten Rastplatz zu bieten. Seine Feuchtgebiete, Felder und Wasserwege sind heute das ganze Jahr über Rückzugsort für Wildtiere. Kanadakraniche, die auf dem heutigen Bild zu sehen sind, sind besonders im Winter häufig in diesem Schutzgebiet anzutreffen.",
-      "fr-FR": "L'hiver instaure un rythme particulier dans la réserve naturelle nationale de Bosque del Apache, au Nouveau-Mexique. Créé en 1939, ce sanctuaire de 230 km2 offre une halte protégée aux oiseaux aquatiques migrateurs. Ses zones humides, ses champs et ses cours d'eau abritent aussi une faune toute l'année.",
-      "es-ES": "El invierno trae consigo un ritmo familiar al Refugio Nacional de Vida Silvestre Bosque del Apache, en Nuevo México. Las grullas regresan, los humedales se llenan de aves y la zona se convierte en un punto de encuentro para la fauna estacional. Fundado en 1939, este santuario de 57.331 acres (23,201 hectáreas) se creó para ofrecer una parada protegida a las aves acuáticas migratorias. Hoy, sus humedales, campos y cursos de agua albergan fauna durante todo el año. Las grullas canadienses, protagonistas de la imagen de hoy, están especialmente ligadas al refugio durante el invierno.",
-      "ja-JP": "冬を迎えるニューメキシコ州のボスケ・デル・アパッチ国立野生動物保護区には、多くの渡り鳥が飛来します。この保護区は1939年に、渡り鳥の重要な中継地として設立されました。約232平方キロメートルに及ぶこの地域には、湿地や草地、水辺が広がり、一年を通して多様な野生動物が暮らしています。写真のカナダヅルは例年10月下旬ごろから姿を見せ、冬の間、ここで過ごします。夜は浅瀬で休み、日の出ごろになると餌を求めて近くの野原へと飛び立ちます。",
-      "en-IN": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
-      "en-US": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields, and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
-      "en-CA": "Winter transforms Bosque del Apache National Wildlife Refuge in New Mexico into a haven for wildlife. Established in 1939, the 57,331-acre sanctuary provides an important stopover for migrating waterfowl and supports wildlife year-round. Sandhill cranes, featured in today's image, arrive in late October and spend the winter here, roosting in shallow water at night and feeding in nearby fields at sunrise. The refuge is a key wintering ground for the Rocky Mountain population of sandhill cranes. Other seasonal visitors include snow geese, northern pintails, hawks and eagles, while mule deer, coyotes and other mammals inhabit its diverse habitats.",
-      "it-IT": "Come ogni anno l’inverno trasforma il Bosque del Apache National Wildlife Refuge, nel New Mexico, in un vivace rifugio per la fauna migratoria. Istituita nel 1939, la riserva ospita numerose specie durante tutto l’anno. Protagoniste di questa stagione sono le gru canadesi, che arrivano dalla fine di ottobre e trascorrono la notte nelle acque poco profonde, prima di raggiungere i campi all’alba in cerca di cibo. Oche, anatre, aquile e falchi si uniscono allo spettacolo, insieme a cervi muli, coyote e lepri, mentre i diversi habitat offrono rifugio alle specie a rischio di estinzione.",
-      "pt-BR": "O inverno traz um ritmo familiar ao Refúgio Nacional de Vida Selvagem Bosque del Apache, no Novo México, nos Estados Unidos. Os grous chegam, as áreas úmidas se enchem de aves e o local se torna um ponto de encontro para animais que aparecem nessa época do ano. Criado em 1939, o refúgio de cerca de 23.200 hectares foi estabelecido para oferecer uma parada segura às aves aquáticas migratórias. Hoje, suas áreas úmidas, campos e cursos d’água abrigam animais durante o ano inteiro. Os grous-canadenses, que aparecem na imagem de hoje, são uma presença característica no refúgio durante o inverno. Outros visitantes sazonais incluem gansos-das-neves, gansos-de-ross, arrabios, patos-colhereiros, gaviões e águias.",
-      "zh-CN": "冬天为新墨西哥州的博斯克德尔阿帕奇国家野生动物保护区带来熟悉的节奏。沙丘鹤陆续飞来，湿地聚满鸟儿，这片区域成为季节性野生动物的聚集地。这座占地57,331英亩的保护区成立于1939年，旨在为迁徙的水鸟提供受保护的中途栖息地。如今，这里的湿地、田野和水道全年滋养着野生动物。画面中的沙丘鹤尤其是保护区冬季的标志性身影。"
+      "en-GB": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
+      "de-DE": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
+      "fr-FR": "Oubliez les fumigènes. Francfort, en Allemagne, dispose d’un atout bien plus étonnant : une cathédrale gothique. La silhouette médiévale de la cathédrale Saint-Barthélemy semble avoir été spécialement conçue pour célébrer Halloween. L’histoire de cette fête est remplie de mystères et de fantômes. Le lieu est donc idéal !",
+      "es-ES": "Olvídate de la máquina de humo. Fráncfort, Alemania, tiene algo mucho más efectivo: una catedral gótica con una torre que parece lista para una sesión espiritista a medianoche. La catedral de San Bartolomé, que vemos en la imagen, tiene la silueta medieval que Halloween habría elegido como escenario perfecto. Pero la historia de esta celebración es aún más extraña.",
+      "ja-JP": "ドイツ・フランクフルトのフランクフルト大聖堂は、ゴシック様式の塔と中世を思わせるシルエットが印象的で、この時期らしい神秘的な雰囲気を醸し出しています。ハロウィンの風習には、収穫期の終わりと冬の始まりを告げる古代ケルトの祭り「サウィン」に由来するものがあるといわれています。当時は、この時期になると生者と死者の世界の境界が曖昧になり、超自然的な存在が現れると信じられていました。その後、11月1日が「諸聖人の日（万聖節）」と定められると、その前夜は「万聖節前夜」と呼ばれ、やがて「ハロウィン」という呼び名へと変わっていきました。",
+      "en-IN": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
+      "en-US": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St. Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the holiday's own history is even stranger.",
+      "en-CA": "Frankfurt, Germany, provides a fitting backdrop for Halloween with St. Bartholomew's Cathedral and its striking Gothic tower. Yet the holiday's origins are even more intriguing. Many Halloween traditions are linked to Samhain, an ancient Celtic festival marking the end of the harvest season and the start of winter. People believed the boundary between the living and the dead grew thin, prompting bonfires, offerings and disguises to ward off wandering spirits. Later, the Christian observances of All Saints' Day and All Souls' Day helped shape Halloween as we know it today. St. Bartholomew's may set the scene, but Halloween brings the ghosts, legends and mystery.",
+      "it-IT": "A Francoforte, in Germania, il Duomo Imperiale di San Bartolomeo, con la sua imponente architettura gotica, offre lo scenario perfetto per Halloween, una festa dalle origini avvolte nel mistero. Alcune delle sue tradizioni vengono associate a Samhain, un’antica festività celtica che segnava la fine del raccolto e l’inizio dell’inverno, quando si credeva che il confine tra il mondo dei vivi e quello dei morti si assottigliasse. In seguito, la vigilia di Ognissanti divenne “All Hallows’ Eve”, da cui deriva Halloween. Tra fantasmi, falò, travestimenti e suggestioni soprannaturali, non manca proprio nulla per una notte da brividi.",
+      "pt-BR": "Esqueça a máquina de fumaça. Frankfurt, na Alemanha, tem algo muito mais eficaz: uma catedral gótica com uma torre que parece pronta para uma sessão espírita à meia-noite. A Catedral de São Bartolomeu, vista aqui, tem uma silhueta medieval que parece ter sido feita sob medida para o Halloween. Mas a própria história da data é ainda mais estranha.",
+      "zh-CN": "忘了烟雾机吧。德国法兰克福有更能烘托气氛的景物：一座哥特式大教堂，塔楼仿佛随时能上演一场午夜招魂会。画面中的圣巴尔多禄茂教堂有着中世纪风格的轮廓，简直像是万圣节特意挑选的布景。不过，这个节日本身的历史更加离奇。"
     },
     "quickFacts": {
-      "zh-CN": "西班牙语“Bosque del Apache”意为“阿帕奇人的树林”，得名于曾在里奥格兰德河沿岸树林扎营的阿帕奇人。"
+      "zh-CN": "1562年至1792年，神圣罗马帝国的当选皇帝曾在法兰克福的圣巴尔多禄茂教堂举行加冕仪式。"
     },
     "captions": {
-      "en-GB": "Sandhill cranes, New Mexico, USA",
-      "de-DE": "Kanadakraniche, New Mexico, USA",
-      "fr-FR": "Grues du Canada, Nouveau-Mexique, États-Unis",
+      "en-GB": "It's Halloween!",
+      "de-DE": "Heute ist Halloween!",
+      "fr-FR": "C’est Halloween !",
       "it-IT": "",
-      "es-ES": "Grullas canadienses, Nuevo México, Estados Unidos",
+      "es-ES": "¡Es Halloween!",
       "pt-BR": "",
-      "ja-JP": "カナダヅル、ニューメキシコ州、アメリカ",
+      "ja-JP": "今日はハロウィン！",
       "zh-CN": "",
-      "en-IN": "Sandhill cranes, New Mexico, USA"
+      "en-IN": "It's Halloween!"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Kanadakranich&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Grue+du+Canada&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
-      "it-IT": "https://www.bing.com/search?q=gru+canadesi&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Grullas+Canadienses&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Grous-canadenses&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80%e3%83%85%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220261029_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%b2%99%e4%b8%98%e9%b9%a4&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261029_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Halloween&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Halloween&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261030_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%87%e5%9c%a3%e8%8a%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AutumnCranes_EN-GB1528709848",
-      "de-DE": "/th?id=OHR.AutumnCranes_DE-DE0229834342",
-      "fr-FR": "/th?id=OHR.AutumnCranes_FR-FR2970535620",
-      "it-IT": "/th?id=OHR.AutumnCranes_IT-IT0637151336",
-      "es-ES": "/th?id=OHR.AutumnCranes_ES-ES8460518037",
-      "pt-BR": "/th?id=OHR.AutumnCranes_PT-BR8749482923",
-      "ja-JP": "/th?id=OHR.AutumnCranes_JA-JP2456396404",
-      "zh-CN": "/th?id=OHR.AutumnCranes_ZH-CN5772055404",
-      "en-IN": "/th?id=OHR.AutumnCranes_EN-IN9113460841"
+      "en-GB": "/th?id=OHR.FrankfurtHalloween_EN-GB3041218795",
+      "de-DE": "/th?id=OHR.FrankfurtHalloween_DE-DE2172526536",
+      "fr-FR": "/th?id=OHR.FrankfurtHalloween_FR-FR8337402452",
+      "it-IT": "/th?id=OHR.FrankfurtHalloween_IT-IT1676201038",
+      "es-ES": "/th?id=OHR.FrankfurtHalloween_ES-ES0138515727",
+      "pt-BR": "/th?id=OHR.FrankfurtHalloween_PT-BR9368321413",
+      "ja-JP": "/th?id=OHR.FrankfurtHalloween_JA-JP4785085446",
+      "zh-CN": "/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698",
+      "en-IN": "/th?id=OHR.FrankfurtHalloween_EN-IN8941917618"
     }
   },
   "BSTEnds2026": {
@@ -1930,17 +1952,70 @@
       "en-GB": "/th?id=OHR.BSTEnds2026_EN-GB5502884225"
     }
   },
-  "MaligneFest": {
-    "name": "MaligneFest",
-    "urlbase": "/th?id=OHR.MaligneFest_EN-CA6755477171",
-    "date": "20261016",
-    "dateFormatted": "October 16, 2026",
+  "SneffelsAutumn": {
+    "name": "SneffelsAutumn",
+    "urlbase": "/th?id=OHR.SneffelsAutumn_EN-CA1700205921",
+    "date": "20261025",
+    "dateFormatted": "October 25, 2026",
     "markets": [
       {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
+      }
+    ],
+    "titles": {
+      "en-CA": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
+      "en-US": "'Peak' into Colorado. Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
+      "en-GB": "'Peak' into Colorado. Mount Sneffels, Colorado, United States",
+      "fr-FR": "En haut du Colorado. Le mont Sneffels dans les montagnes San Juan, États-Unis",
+      "it-IT": "Oro e neve in Colorado",
+      "es-ES": "Oro y nieve en Colorado. Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
+      "ja-JP": "黄金色の森の先にそびえる山",
+      "zh-CN": "一窥科罗拉多群峰",
+      "en-IN": "'Peak' into Colorado. Mount Sneffels, Colorado, United States"
+    },
+    "copyrights": {
+      "en-CA": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
+      "en-US": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
+      "en-GB": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
+      "fr-FR": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis (© lightphoto/Getty Images)",
+      "it-IT": "Monte Sneffels, San Juan Mountains, vicino a Ridgway, Colorado, USA (© lightphoto/Getty Images)",
+      "es-ES": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
+      "ja-JP": "スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)",
+      "zh-CN": "斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)",
+      "en-IN": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred metres. Rising to 4,310 metres in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 67-square-kilometre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+      "en-US": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 14,150 feet in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray, and Telluride. It sits within the 16,587-acre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+      "en-GB": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+      "fr-FR": "Certains sommets se méritent avant de dévoiler leur panorama. Le mont Sneffels, lui, concentre son ultime défi dans les dernières centaines de mètres. Culminant à 4 313 mètres dans les monts San Juan, au Colorado (États-Unis), ce géant domine les paysages de Ridgway, Ouray et Telluride. Il s’élève au cœur des 6 713 hectares de la Mount Sneffels Wilderness, territoire protégé depuis 1980. Plusieurs itinéraires permettent de l’approcher, notamment par Yankee Boy Basin ou depuis le secteur des Blue Lakes.",
+      "es-ES": "El monte Sneffels se alza sobre las montañas San Juan, cerca de Ridgway, en Colorado (Estados Unidos), y supera los 4.300 metros de altitud. Pertenece al club de los llamados «catorcemiles», los picos que rebasan los 14.000 pies (4.270 m), y en octubre protagoniza uno de los espectáculos más buscados del oeste americano: las laderas se llenan de álamos temblones dorados justo cuando la nieve empieza a asentarse en las cumbres.",
+      "ja-JP": "今日の画像は、米国コロラド州南西部、サンファン山地にそびえるスネフェル山。標高約 4,300m を誇るロッキー山脈の名峰です。コロラド州には標高 14,000 フィート（約 4,267m ）以上の山が 58 座あり、これらは総称して「フォーティーナーズ (Fourteeners) 」と呼ばれています。スネフェル山はその中でも特に人気が高く、その美しい山容から、写真の被写体としても人気があります。秋には山麓に黄金色のアスペン林が広がり、雪をいただいた山頂との美しいコントラストが訪れる人々を魅了します。",
+      "en-IN": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+      "it-IT": "Il monte Sneffels si alza sulle San Juan Mountains, vicino a Ridgway, in Colorado (Stati Uniti), e supera i 4.300 metri di quota. Fa parte del club dei cosiddetti «quattordicimila», le cime che oltrepassano i 14.000 piedi (4270 metri), e in ottobre regala uno degli spettacoli più cercati dell'ovest americano: i versanti si riempiono di pioppi tremuli dorati proprio quando la neve inizia a fermarsi sulle vette.",
+      "zh-CN": "有些山会让你付出一番努力才能欣赏到美景，而攀登斯奈费尔斯山，最考验人的则是最后几百英尺。它高耸于科罗拉多州的圣胡安山脉，海拔14,150英尺，是一座“十四峰”，在里奇韦、乌雷和特柳赖德一带十分醒目。它坐落在占地16,587英亩的斯奈费尔斯山荒野区内，这片保护区于1980年获指定。徒步者可以从多条路线登山，包括经扬基博伊盆地和蓝湖群地区的路线。"
+    },
+    "quickFacts": {
+      "zh-CN": "根据美国联邦荒野管理规定，斯奈费尔斯山荒野区通常禁止机动车辆和机械运输工具进入。"
+    },
+    "captions": {
+      "en-CA": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261025_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.SneffelsAutumn_EN-CA1700205921"
+    }
+  },
+  "MaligneFest": {
+    "name": "MaligneFest",
+    "urlbase": "/th?id=OHR.MaligneFest_DE-DE5179640958",
+    "date": "20261024",
+    "dateFormatted": "October 24, 2026",
+    "markets": [
       {
         "code": "de-DE",
         "name": "DE",
@@ -1963,23 +2038,23 @@
       }
     ],
     "titles": {
-      "en-CA": "Under a blanket of stars. Jasper Dark Sky Festival is here",
       "de-DE": "Wo Gipfel auf Stille treffen. Maligne Lake, Jasper-Nationalpark, Alberta, Kanada",
       "fr-FR": "Des étoiles plein les yeux. Lac Maligne, Parc national Jasper, Alberta, Canada",
       "pt-BR": "Um cenário que dispensa moldura",
-      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大"
+      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大",
+      "en-CA": "Under a blanket of stars. Jasper Dark Sky Festival is here"
     },
     "copyrights": {
-      "en-CA": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)",
       "de-DE": "Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images)",
       "fr-FR": "Lac Maligne, Parc national Jasper, Alberta, Canada (© Andrey Popov/Getty Images)",
       "pt-BR": "Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá (© Andrey Popov/Getty Images)",
-      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)"
+      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)",
+      "en-CA": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)"
     },
     "descs": {
-      "en-CA": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it.",
       "de-DE": "Türkisfarbenes Wasser, schroffe Berggipfel und dichte Wälder prägen das Bild des Maligne Lake im Jasper-Nationalpark. Der von Gletschern gespeiste See erstreckt sich über rund 22 Kilometer durch die kanadischen Rocky Mountains. Sein Wasser bleibt selbst an warmen Sommertagen ausgesprochen kalt. Wanderwege eröffnen unterschiedliche Perspektiven auf die umliegende Bergwelt, während sich vom Kanu aus die lange, weitgehend unberührte Uferlandschaft entdecken lässt.",
       "fr-FR": "Quand la nuit enveloppe le parc national de Jasper, en Alberta (Canada), les montagnes changent de décor. Désigné réserve de ciel étoilé en 2011, ce territoire de plus de 11 000 km² limite la pollution lumineuse afin de préserver l’obscurité. Étoiles, planètes et Voie lactée composent alors un spectacle saisissant au-dessus des sommets. Puis l’aube se lève et ramène doucement le regard vers la terre.",
+      "en-CA": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it.",
       "zh-CN": "夜幕降临加拿大艾伯塔省的贾斯珀国家公园时，群山便有了全新的背景。该公园于2011年被指定为暗夜天空保护区，面积超过11,000平方千米，并采取了减少光污染的措施。在这里，繁星、行星和银河系联袂上演天幕奇观，让游客不由得仰望天空。晨光到来后，视线又从头顶的天空转向脚下的景致。",
       "pt-BR": "O Parque Nacional de Jasper, em Alberta, Canadá, trabalha em turnos: de dia, grandes mamíferos dominam as montanhas; à noite, o céu entra em cena. Reconhecido como Reserva de Céu Escuro em 2011, o parque ocupa mais de 11 mil km² e adota medidas para reduzir a poluição luminosa. Com pouca interferência das luzes artificiais, estrelas, planetas e a Via Láctea ganham condições privilegiadas para aparecer."
     },
@@ -1987,21 +2062,18 @@
       "zh-CN": "据加拿大公园管理局介绍，精灵岛距玛琳湖北岸14公里，只能乘船抵达。"
     },
     "captions": {
-      "en-CA": "Jasper Dark Sky Festival is here",
       "de-DE": "Maligne Lake, Jasper-Nationalpark, Alberta, Kanada",
       "fr-FR": "Lac Maligne, Parc national Jasper, Alberta, Canada",
       "pt-BR": "",
       "zh-CN": ""
     },
     "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Jasper+Dark+Sky+Festival&form=hpcapt&filters=HpDate%3a%2220261016_0400%22",
       "de-DE": "https://www.bing.com/search?q=Jasper-Nationalpark+Kanada&form=hpcapt&filters=HpDate%3a%2220261024_2200%22",
       "fr-FR": "https://www.bing.com/search?q=Lac+Maligne&form=hpcapt&filters=HpDate%3a%2220261024_2200%22",
       "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+de+Jasper+Canad%c3%a1&form=hpcapt&mkt=pt-br",
       "zh-CN": "https://www.bing.com/search?q=%e7%8e%9b%e7%90%b3%e6%b9%96&form=hpcapt&mkt=zh-cn"
     },
     "urlbases": {
-      "en-CA": "/th?id=OHR.MaligneFest_EN-CA6755477171",
       "de-DE": "/th?id=OHR.MaligneFest_DE-DE5179640958",
       "fr-FR": "/th?id=OHR.MaligneFest_FR-FR5795515025",
       "pt-BR": "/th?id=OHR.MaligneFest_PT-BR7307872506",
@@ -2072,40 +2144,6 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.ReimsChampagne_FR-FR6230244152"
-    }
-  },
-  "SmilingSquirrel": {
-    "name": "SmilingSquirrel",
-    "urlbase": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584",
-    "date": "20261016",
-    "dateFormatted": "October 16, 2026",
-    "markets": [
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "fr-FR": "Le jardinier des bois. Écureuil roux"
-    },
-    "copyrights": {
-      "fr-FR": "Écureuil roux (© Cédric GUERE/Getty Images)"
-    },
-    "descs": {
-      "fr-FR": "Sur l’image du jour, un écureuil semble nous adresser un sourire malicieux. Une expression irrésistible, parfaitement assortie à l’effervescence de l’automne."
-    },
-    "quickFacts": {
-      "fr-FR": "Le pelage de l’écureuil roux peut beaucoup varier, allant du roux orangé au brun très foncé, voire presque noir."
-    },
-    "captions": {
-      "fr-FR": "Écureuil roux"
-    },
-    "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261016_2200%22"
-    },
-    "urlbases": {
-      "fr-FR": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584"
     }
   },
   "CarbonaraRomeMarket": {
@@ -2300,38 +2338,6 @@
       "ja-JP": "/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988"
     }
   },
-  "Persimmons2026": {
-    "name": "Persimmons2026",
-    "urlbase": "/th?id=OHR.Persimmons2026_JA-JP2192858733",
-    "date": "20261016",
-    "dateFormatted": "October 16, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "秋の風に揺れる干し柿"
-    },
-    "copyrights": {
-      "ja-JP": "ずらりと並ぶ干し柿, 長野県 妻籠宿 (© wayfarer2020/Shutterstock)"
-    },
-    "descs": {
-      "ja-JP": "柿は、秋を代表する果物のひとつです。生で食べるほか、干し柿などに加工して古くから親しまれてきました。そして画像は、長野県の妻籠宿で見られる干し柿の様子。秋から冬にかけて、鮮やかな柿の色が歴史ある街並みを彩ります。干し柿は、主に渋柿の皮をむいて乾燥させた伝統的な保存食です。干すことで渋みが感じられなくなり、水分が減ることで甘みが凝縮されます。作り方は地域や種類によって異なり、乾燥の途中や仕上げの段階で柿をもむなど、さまざまな工夫が受け継がれています。独特の食感と濃厚な甘みを楽しめる、秋から冬ならではの味覚です。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "秋の風に揺れる干し柿"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e5%b9%b2%e3%81%97%e6%9f%bf&form=hpcapt&filters=HpDate%3a%2220261016_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.Persimmons2026_JA-JP2192858733"
-    }
-  },
   "MahaNavami2026": {
     "name": "MahaNavami2026",
     "urlbase": "/th?id=OHR.MahaNavami2026_EN-IN6653933239",
@@ -2364,6 +2370,72 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "SmilingSquirrel": {
+    "name": "SmilingSquirrel",
+    "urlbase": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Le jardinier des bois. Écureuil roux"
+    },
+    "copyrights": {
+      "fr-FR": "Écureuil roux (© Cédric GUERE/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Sur l’image du jour, un écureuil semble nous adresser un sourire malicieux. Une expression irrésistible, parfaitement assortie à l’effervescence de l’automne."
+    },
+    "quickFacts": {
+      "fr-FR": "Le pelage de l’écureuil roux peut beaucoup varier, allant du roux orangé au brun très foncé, voire presque noir."
+    },
+    "captions": {
+      "fr-FR": "Écureuil roux"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261016_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584"
+    }
+  },
+  "Persimmons2026": {
+    "name": "Persimmons2026",
+    "urlbase": "/th?id=OHR.Persimmons2026_JA-JP2192858733",
+    "date": "20261016",
+    "dateFormatted": "October 16, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "秋の風に揺れる干し柿"
+    },
+    "copyrights": {
+      "ja-JP": "ずらりと並ぶ干し柿, 長野県 妻籠宿 (© wayfarer2020/Shutterstock)"
+    },
+    "descs": {
+      "ja-JP": "柿は、秋を代表する果物のひとつです。生で食べるほか、干し柿などに加工して古くから親しまれてきました。そして画像は、長野県の妻籠宿で見られる干し柿の様子。秋から冬にかけて、鮮やかな柿の色が歴史ある街並みを彩ります。干し柿は、主に渋柿の皮をむいて乾燥させた伝統的な保存食です。干すことで渋みが感じられなくなり、水分が減ることで甘みが凝縮されます。作り方は地域や種類によって異なり、乾燥の途中や仕上げの段階で柿をもむなど、さまざまな工夫が受け継がれています。独特の食感と濃厚な甘みを楽しめる、秋から冬ならではの味覚です。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "秋の風に揺れる干し柿"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e5%b9%b2%e3%81%97%e6%9f%bf&form=hpcapt&filters=HpDate%3a%2220261016_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.Persimmons2026_JA-JP2192858733"
     }
   },
   "WroclawPoland": {
