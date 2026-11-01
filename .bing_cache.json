@@ -1,4 +1,148 @@
 {
+  "FrankfurtHalloween": {
+    "name": "FrankfurtHalloween",
+    "urlbase": "/th?id=OHR.FrankfurtHalloween_EN-US0115213682",
+    "date": "20261031",
+    "dateFormatted": "October 31, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Ghosts of empires past. It's Halloween!",
+      "en-GB": "Ghosts of empires past. It's Halloween!",
+      "en-CA": "Ghosts of empires past. It's Halloween!",
+      "de-DE": "Der Geist vergangener Kaiserreiche. Heute ist Halloween!",
+      "fr-FR": "Visiteurs d'un autre monde. C’est Halloween !",
+      "it-IT": "Fantasmi di imperi passati",
+      "es-ES": "Los fantasmas de imperios pasados. ¡Es Halloween!",
+      "pt-BR": "Ecos de um império",
+      "ja-JP": "帝国の面影. 今日はハロウィン！",
+      "zh-CN": "圣巴尔多禄茂教堂，法兰克福，德国",
+      "en-IN": "Ghosts of empires past. It's Halloween!"
+    },
+    "copyrights": {
+      "en-US": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "en-GB": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "en-CA": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "de-DE": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
+      "fr-FR": "Cathédrale Saint-Barthélemy à Francfort, Allemagne (© AlxeyPnferov/Getty Images)",
+      "it-IT": "Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)",
+      "es-ES": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
+      "pt-BR": "Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)",
+      "ja-JP": "聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images)",
+      "zh-CN": "圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)",
+      "en-IN": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St. Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the holiday's own history is even stranger.",
+      "en-GB": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
+      "en-CA": "Frankfurt, Germany, provides a fitting backdrop for Halloween with St. Bartholomew's Cathedral and its striking Gothic tower. Yet the holiday's origins are even more intriguing. Many Halloween traditions are linked to Samhain, an ancient Celtic festival marking the end of the harvest season and the start of winter. People believed the boundary between the living and the dead grew thin, prompting bonfires, offerings and disguises to ward off wandering spirits. Later, the Christian observances of All Saints' Day and All Souls' Day helped shape Halloween as we know it today. St. Bartholomew's may set the scene, but Halloween brings the ghosts, legends and mystery.",
+      "de-DE": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
+      "fr-FR": "Oubliez les fumigènes. Francfort, en Allemagne, dispose d’un atout bien plus étonnant : une cathédrale gothique. La silhouette médiévale de la cathédrale Saint-Barthélemy semble avoir été spécialement conçue pour célébrer Halloween. L’histoire de cette fête est remplie de mystères et de fantômes. Le lieu est donc idéal !",
+      "es-ES": "Olvídate de la máquina de humo. Fráncfort, Alemania, tiene algo mucho más efectivo: una catedral gótica con una torre que parece lista para una sesión espiritista a medianoche. La catedral de San Bartolomé, que vemos en la imagen, tiene la silueta medieval que Halloween habría elegido como escenario perfecto. Pero la historia de esta celebración es aún más extraña.",
+      "ja-JP": "ドイツ・フランクフルトのフランクフルト大聖堂は、ゴシック様式の塔と中世を思わせるシルエットが印象的で、この時期らしい神秘的な雰囲気を醸し出しています。ハロウィンの風習には、収穫期の終わりと冬の始まりを告げる古代ケルトの祭り「サウィン」に由来するものがあるといわれています。当時は、この時期になると生者と死者の世界の境界が曖昧になり、超自然的な存在が現れると信じられていました。その後、11月1日が「諸聖人の日（万聖節）」と定められると、その前夜は「万聖節前夜」と呼ばれ、やがて「ハロウィン」という呼び名へと変わっていきました。",
+      "en-IN": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
+      "it-IT": "A Francoforte, in Germania, il Duomo Imperiale di San Bartolomeo, con la sua imponente architettura gotica, offre lo scenario perfetto per Halloween, una festa dalle origini avvolte nel mistero. Alcune delle sue tradizioni vengono associate a Samhain, un’antica festività celtica che segnava la fine del raccolto e l’inizio dell’inverno, quando si credeva che il confine tra il mondo dei vivi e quello dei morti si assottigliasse. In seguito, la vigilia di Ognissanti divenne “All Hallows’ Eve”, da cui deriva Halloween. Tra fantasmi, falò, travestimenti e suggestioni soprannaturali, non manca proprio nulla per una notte da brividi.",
+      "pt-BR": "Esqueça a máquina de fumaça. Frankfurt, na Alemanha, tem algo muito mais eficaz: uma catedral gótica com uma torre que parece pronta para uma sessão espírita à meia-noite. A Catedral de São Bartolomeu, vista aqui, tem uma silhueta medieval que parece ter sido feita sob medida para o Halloween. Mas a própria história da data é ainda mais estranha.",
+      "zh-CN": "忘了烟雾机吧。德国法兰克福有更能烘托气氛的景物：一座哥特式大教堂，塔楼仿佛随时能上演一场午夜招魂会。画面中的圣巴尔多禄茂教堂有着中世纪风格的轮廓，简直像是万圣节特意挑选的布景。不过，这个节日本身的历史更加离奇。"
+    },
+    "quickFacts": {
+      "zh-CN": "1562年至1792年，神圣罗马帝国的当选皇帝曾在法兰克福的圣巴尔多禄茂教堂举行加冕仪式。"
+    },
+    "captions": {
+      "en-US": "It's Halloween!",
+      "en-GB": "It's Halloween!",
+      "en-CA": "It's Halloween!",
+      "de-DE": "Heute ist Halloween!",
+      "fr-FR": "C’est Halloween !",
+      "it-IT": "",
+      "es-ES": "¡Es Halloween!",
+      "pt-BR": "",
+      "ja-JP": "今日はハロウィン！",
+      "zh-CN": "",
+      "en-IN": "It's Halloween!"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0700%22",
+      "en-GB": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0400%22",
+      "de-DE": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Halloween&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Halloween&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261030_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%87%e5%9c%a3%e8%8a%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FrankfurtHalloween_EN-US0115213682",
+      "en-GB": "/th?id=OHR.FrankfurtHalloween_EN-GB3041218795",
+      "en-CA": "/th?id=OHR.FrankfurtHalloween_EN-CA9657628051",
+      "de-DE": "/th?id=OHR.FrankfurtHalloween_DE-DE2172526536",
+      "fr-FR": "/th?id=OHR.FrankfurtHalloween_FR-FR8337402452",
+      "it-IT": "/th?id=OHR.FrankfurtHalloween_IT-IT1676201038",
+      "es-ES": "/th?id=OHR.FrankfurtHalloween_ES-ES0138515727",
+      "pt-BR": "/th?id=OHR.FrankfurtHalloween_PT-BR9368321413",
+      "ja-JP": "/th?id=OHR.FrankfurtHalloween_JA-JP4785085446",
+      "zh-CN": "/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698",
+      "en-IN": "/th?id=OHR.FrankfurtHalloween_EN-IN8941917618"
+    }
+  },
   "AutumnCranes": {
     "name": "AutumnCranes",
     "urlbase": "/th?id=OHR.AutumnCranes_EN-US9795571462",
@@ -1598,55 +1742,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
-      "en-GB": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
       "en-CA": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-GB": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
       "de-DE": "75 und voller Leben. Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
       "fr-FR": "75 ans et rayonnant. Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
       "es-ES": "La torre de los príncipes. Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
@@ -1657,8 +1761,8 @@
     },
     "copyrights": {
       "en-US": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
-      "en-GB": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
       "en-CA": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "en-GB": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
       "de-DE": "Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)",
       "fr-FR": "Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles (© joe daniel price/Getty Images)",
       "es-ES": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales (© joe daniel price/Getty Images)",
@@ -1669,8 +1773,8 @@
     },
     "descs": {
       "en-US": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline, and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 3,500 feet, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "en-GB": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
       "en-CA": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 2,130 square kilometres, with nine mountain ranges, 119 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,050 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "en-GB": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
       "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen. Seit seiner Ausweisung im Jahr 1951 schützt er auf rund 2.130 Quadratkilometern eine außergewöhnlich vielfältige Landschaft. Neun Gebirgszüge, etwa 119 Kilometer Küste, Moore, heimische Wälder und weitläufige Hochlandgebiete prägen die Region. Mit 1.085 Metern ist der Yr Wyddfa der höchste Berg des Parks. Auch die Gipfel der Carneddau und Glyderau sowie der Cadair Idris im Süden gehören zu dieser eindrucksvollen Bergwelt. Zahlreiche geschützte Gebiete bieten zudem wertvolle Lebensräume für Tiere und Pflanzen.",
       "fr-FR": "Si les parcs tenaient un journal d’anniversaire, celui d’Eryri (Snowdonia) aurait 75 ans d’histoire à raconter. Désigné parc national en 1951, ce territoire gallois s’étend sur environ 2 130 km² : neuf chaînes de montagnes, près de 119 km de côtes, des tourbières, des bois indigènes et de vastes terres d’altitude. À 1 085 mètres d’altitude s’élève Yr Wyddfa, son sommet emblématique, entouré des reliefs des Carneddau et des Glyderau, tandis que Cadair Idris domine le sud. Cette mosaïque d’habitats abrite 17 réserves naturelles nationales et 56 sites d’intérêt scientifique particulier.",
       "es-ES": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
@@ -1684,119 +1788,22 @@
     },
     "captions": {
       "en-US": "Eryri National Park (Snowdonia) in Wales turns 75",
-      "en-GB": "Eryri National Park (Snowdonia) in Wales turns 75",
-      "en-CA": "Eryri National Park (Snowdonia) in Wales turns 75",
-      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
-      "fr-FR": "Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
-      "es-ES": "Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
-      "pt-BR": "",
-      "ja-JP": "丘の上に佇む城跡",
-      "zh-CN": "",
-      "en-IN": "Eryri National Park (Snowdonia) in Wales turns 75"
+      "en-CA": "Eryri National Park (Snowdonia) in Wales turns 75"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Eryri-Nationalpark+Informationen&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=parc+Eryri+Pays+de+Galles&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
-      "es-ES": "https://www.bing.com/search?q=Castillo+de+Dolbadarn&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+de+Eryri+Snowdonia+Pais+de+Gales&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%83%aa%e3%83%aa%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261017_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e6%96%af%e8%af%ba%e7%99%bb%e5%b0%bc%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
-      "en-GB": "/th?id=OHR.DolbadarnWales_EN-GB4918405829",
-      "en-CA": "/th?id=OHR.DolbadarnWales_EN-CA7756366430",
-      "de-DE": "/th?id=OHR.DolbadarnWales_DE-DE0565954250",
-      "fr-FR": "/th?id=OHR.DolbadarnWales_FR-FR3604957648",
-      "es-ES": "/th?id=OHR.DolbadarnWales_ES-ES3329263701",
-      "pt-BR": "/th?id=OHR.DolbadarnWales_PT-BR0887027747",
-      "ja-JP": "/th?id=OHR.DolbadarnWales_JA-JP2361140889",
-      "zh-CN": "/th?id=OHR.DolbadarnWales_ZH-CN3649667806",
-      "en-IN": "/th?id=OHR.DolbadarnWales_EN-IN6584156399"
+      "en-CA": "/th?id=OHR.DolbadarnWales_EN-CA7756366430"
     }
   },
-  "ChauvetPaintingsFrance": {
-    "name": "ChauvetPaintingsFrance",
-    "urlbase": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
-    "date": "20261017",
-    "dateFormatted": "October 17, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "The past, unearthed. International Archaeology Day",
-      "en-CA": "The past, unearthed. International Archaeology Day",
-      "en-GB": "The past, unearthed. International Archaeology Day",
-      "de-DE": "Die Vergangenheit ans Licht gebracht. Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
-      "it-IT": "Arte di 36.000 anni fa",
-      "es-ES": "Arte de hace 36.000 años. Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
-      "pt-BR": "O passado deixou sua assinatura",
-      "zh-CN": "发掘尘封的过去",
-      "en-IN": "The past, unearthed. International Archaeology Day"
-    },
-    "copyrights": {
-      "en-US": "Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
-      "en-CA": "Life-size replica of Chauvet Cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
-      "en-GB": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
-      "de-DE": "Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)",
-      "it-IT": "Riproduzione a grandezza naturale delle pitture della grotta di Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
-      "es-ES": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
-      "pt-BR": "Réplica em tamanho real das pinturas rupestres da Caverna de Chauvet, Vallon-Pont-d'Arc, França (© Audrey Poree/Alamy)",
-      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)",
-      "en-IN": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)"
-    },
-    "descs": {
-      "en-US": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organized by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programs, site visits, simulated digs, and hands-on activities.",
-      "en-CA": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
-      "en-GB": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
-      "de-DE": "Die Chauvet-Höhle bei Vallon-Pont-d’Arc in Südfrankreich zählt zu den bedeutendsten Fundstätten prähistorischer Höhlenkunst. An ihren Wänden finden sich mehr als 1000 Zeichnungen, vor allem eindrucksvolle Darstellungen von Tieren wie Löwen, Nashörnern, Pferden und Mammuts. Die außergewöhnlich gut erhaltenen Kunstwerke geben faszinierende Einblicke in die kreative Welt der Menschen der Altsteinzeit. Um die empfindlichen Originale zu schützen, wurde in der Nähe eine lebensgroße Nachbildung geschaffen, in der Besucher die Höhlenmalereien in einer möglichst authentischen Umgebung erleben können.",
-      "es-ES": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público.",
-      "en-IN": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
-      "it-IT": "Questi cavalli, leoni e rinoceronti sono stati dipinti circa 36.000 anni fa nella grotta di Chauvet, a Vallon-Pont-d'Arc (Francia), ma quello che vedi è una copia. La grotta originale, scoperta nel 1994, è rimasta sigillata per millenni e conserva oltre 400 pitture e incisioni: per proteggerla dai danni che provoca la presenza umana non è mai stata aperta al pubblico.",
-      "pt-BR": "Imagine encontrar uma caverna e descobrir que alguém preencheu suas paredes com mamutes, rinocerontes e bisões há milhares de anos. Foi assim que a Caverna de Chauvet, no sul da França, entrou para a história. Descoberta em 1994, ela guarda mais de mil desenhos e gravuras, alguns com cerca de 36 mil anos.",
-      "zh-CN": "有些发现始于一把铲子，另一些则始于洞穴墙壁上的一幅图画。国际考古日既颂扬抽丝剥茧般的考古工作，也重视支撑发现的证据。这项年度活动由美国考古学会主办，始于2011年；随着参与范围扩展至全球，活动于2013年更名为“国际考古日”。如今，它通过讲座、博物馆项目、遗址参观、模拟发掘和动手实践活动，让公众更加贴近考古学。"
-    },
-    "quickFacts": {
-      "en-US": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
-      "en-GB": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
-      "en-CA": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
-      "de-DE": "In der Chauvet-Höhle sind die Fußabdrücke eines prähistorischen Jugendlichen erhalten geblieben, der vor etwa 30.000 Jahren barfuß durch ihre Gänge lief.",
-      "it-IT": "La grotta conserva le impronte di un adolescente preistorico che camminò a piedi nudi lungo i suoi passaggi circa 30.000 anni fa.",
-      "es-ES": "La cueva conserva las huellas de un adolescente prehistórico que caminó descalzo por sus pasadizos hace unos 30.000 años.",
-      "zh-CN": "肖维岩洞保存着一名史前青少年的足迹，大约3万年前，这名青少年曾赤脚走过洞内通道。",
-      "en-IN": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago."
-    },
-    "captions": {
-      "en-US": "International Archaeology Day",
-      "en-CA": "International Archaeology Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0700%22",
-      "en-CA": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
-      "en-CA": "/th?id=OHR.ChauvetPaintingsFrance_EN-CA7438357428"
-    }
-  },
-  "FrankfurtHalloween": {
-    "name": "FrankfurtHalloween",
-    "urlbase": "/th?id=OHR.FrankfurtHalloween_EN-GB3041218795",
-    "date": "20261031",
-    "dateFormatted": "October 31, 2026",
+  "SchwarzwaldAutumn": {
+    "name": "SchwarzwaldAutumn",
+    "urlbase": "/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438",
+    "date": "20261101",
+    "dateFormatted": "November 01, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1845,79 +1852,76 @@
       }
     ],
     "titles": {
-      "en-GB": "Ghosts of empires past. It's Halloween!",
-      "de-DE": "Der Geist vergangener Kaiserreiche. Heute ist Halloween!",
-      "fr-FR": "Visiteurs d'un autre monde. C’est Halloween !",
-      "it-IT": "Fantasmi di imperi passati",
-      "es-ES": "Los fantasmas de imperios pasados. ¡Es Halloween!",
-      "pt-BR": "Ecos de um império",
-      "ja-JP": "帝国の面影. 今日はハロウィン！",
-      "zh-CN": "圣巴尔多禄茂教堂，法兰克福，德国",
-      "en-IN": "Ghosts of empires past. It's Halloween!",
-      "en-US": "Ghosts of empires past. St. Bartholomew's Cathedral in Frankfurt, Germany",
-      "en-CA": "Ghosts of empires past. St. Bartholomew's Cathedral in Frankfurt, Germany"
+      "en-GB": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
+      "de-DE": "Wälder im Nebel. Schwarzwald, Baden-Württemberg",
+      "fr-FR": "Manteau de brume sur la forêt. Forêt-Noire, Bade-Wurtemberg, Allemagne",
+      "it-IT": "Alberi che svettano tra la foschia",
+      "es-ES": "Niebla entre los árboles. Selva Negra, Baden-Württemberg, Alemania",
+      "pt-BR": "A floresta em segredo",
+      "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
+      "zh-CN": "黑森林，巴登-符腾堡州，德国",
+      "en-IN": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
+      "en-CA": "Mist among the trees. Black Forest, Baden-Württemberg, Germany"
     },
     "copyrights": {
-      "en-GB": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
-      "de-DE": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
-      "fr-FR": "Cathédrale Saint-Barthélemy à Francfort, Allemagne (© AlxeyPnferov/Getty Images)",
-      "it-IT": "Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)",
-      "es-ES": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
-      "pt-BR": "Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)",
-      "ja-JP": "聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images)",
-      "zh-CN": "圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)",
-      "en-IN": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
-      "en-US": "© AlxeyPnferov/Getty Images",
-      "en-CA": "© AlxeyPnferov/Getty Images"
+      "en-GB": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+      "de-DE": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
+      "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)",
+      "it-IT": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
+      "es-ES": "La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)",
+      "pt-BR": "Floresta Negra, Baden-Württemberg, Alemanha (© Britus/Getty Images)",
+      "ja-JP": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)",
+      "zh-CN": "黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)",
+      "en-IN": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+      "en-CA": "© Britus/Getty Images"
     },
     "descs": {
-      "en-GB": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
-      "de-DE": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
-      "fr-FR": "Oubliez les fumigènes. Francfort, en Allemagne, dispose d’un atout bien plus étonnant : une cathédrale gothique. La silhouette médiévale de la cathédrale Saint-Barthélemy semble avoir été spécialement conçue pour célébrer Halloween. L’histoire de cette fête est remplie de mystères et de fantômes. Le lieu est donc idéal !",
-      "es-ES": "Olvídate de la máquina de humo. Fráncfort, Alemania, tiene algo mucho más efectivo: una catedral gótica con una torre que parece lista para una sesión espiritista a medianoche. La catedral de San Bartolomé, que vemos en la imagen, tiene la silueta medieval que Halloween habría elegido como escenario perfecto. Pero la historia de esta celebración es aún más extraña.",
-      "ja-JP": "ドイツ・フランクフルトのフランクフルト大聖堂は、ゴシック様式の塔と中世を思わせるシルエットが印象的で、この時期らしい神秘的な雰囲気を醸し出しています。ハロウィンの風習には、収穫期の終わりと冬の始まりを告げる古代ケルトの祭り「サウィン」に由来するものがあるといわれています。当時は、この時期になると生者と死者の世界の境界が曖昧になり、超自然的な存在が現れると信じられていました。その後、11月1日が「諸聖人の日（万聖節）」と定められると、その前夜は「万聖節前夜」と呼ばれ、やがて「ハロウィン」という呼び名へと変わっていきました。",
-      "en-IN": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
-      "en-US": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St. Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the holiday's own history is even stranger.",
-      "en-CA": "Frankfurt, Germany, provides a fitting backdrop for Halloween with St. Bartholomew's Cathedral and its striking Gothic tower. Yet the holiday's origins are even more intriguing. Many Halloween traditions are linked to Samhain, an ancient Celtic festival marking the end of the harvest season and the start of winter. People believed the boundary between the living and the dead grew thin, prompting bonfires, offerings and disguises to ward off wandering spirits. Later, the Christian observances of All Saints' Day and All Souls' Day helped shape Halloween as we know it today. St. Bartholomew's may set the scene, but Halloween brings the ghosts, legends and mystery.",
-      "it-IT": "A Francoforte, in Germania, il Duomo Imperiale di San Bartolomeo, con la sua imponente architettura gotica, offre lo scenario perfetto per Halloween, una festa dalle origini avvolte nel mistero. Alcune delle sue tradizioni vengono associate a Samhain, un’antica festività celtica che segnava la fine del raccolto e l’inizio dell’inverno, quando si credeva che il confine tra il mondo dei vivi e quello dei morti si assottigliasse. In seguito, la vigilia di Ognissanti divenne “All Hallows’ Eve”, da cui deriva Halloween. Tra fantasmi, falò, travestimenti e suggestioni soprannaturali, non manca proprio nulla per una notte da brividi.",
-      "pt-BR": "Esqueça a máquina de fumaça. Frankfurt, na Alemanha, tem algo muito mais eficaz: uma catedral gótica com uma torre que parece pronta para uma sessão espírita à meia-noite. A Catedral de São Bartolomeu, vista aqui, tem uma silhueta medieval que parece ter sido feita sob medida para o Halloween. Mas a própria história da data é ainda mais estranha.",
-      "zh-CN": "忘了烟雾机吧。德国法兰克福有更能烘托气氛的景物：一座哥特式大教堂，塔楼仿佛随时能上演一场午夜招魂会。画面中的圣巴尔多禄茂教堂有着中世纪风格的轮廓，简直像是万圣节特意挑选的布景。不过，这个节日本身的历史更加离奇。"
+      "en-GB": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+      "de-DE": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
+      "fr-FR": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
+      "es-ES": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
+      "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ. ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
+      "en-IN": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+      "en-CA": "The Black Forest in south-west Germany is known for its misty landscapes, forested hills, deep valleys, lakes and picturesque towns. Stretching about 160 kilometres, the region is home to Feldberg, its highest peak at 1,493 metres, and marks the source of both the Danube and Neckar rivers. Beyond its natural beauty, the Black Forest is rich in history and tradition. Forestry has shaped the region for centuries, while its renowned clockmaking heritage helped make the cuckoo clock famous around the world. Today, the area remains one of Germany's most distinctive destinations, blending cultural heritage with striking scenery.",
+      "it-IT": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
+      "pt-BR": "Hoje, estamos apreciando as paisagens cobertas de névoa da Floresta Negra, que se estende por cerca de 160 quilômetros pelo sudoeste da Alemanha, reunindo colinas arborizadas, vales profundos, lagos e cidades encantadoras. Seu ponto mais alto, o Feldberg, chega a 1.493 metros de altitude. A Floresta Negra também abriga as nascentes dos rios Danúbio e Neckar. História e tradição não faltam por aqui. A atividade florestal tem um papel importante na região há muito tempo, e a tradição secular de fabricar relógios ajudou a tornar o característico relógio de cuco famoso muito além da Alemanha.",
+      "zh-CN": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。"
     },
     "quickFacts": {
-      "zh-CN": "1562年至1792年，神圣罗马帝国的当选皇帝曾在法兰克福的圣巴尔多禄茂教堂举行加冕仪式。"
+      "zh-CN": "黑森林传统民俗头饰“绒球帽”上有14个羊毛绒球；未婚女性传统上佩戴红色绒球帽。"
     },
     "captions": {
-      "en-GB": "It's Halloween!",
-      "de-DE": "Heute ist Halloween!",
-      "fr-FR": "C’est Halloween !",
+      "en-GB": "Black Forest, Baden-Württemberg, Germany",
+      "de-DE": "Schwarzwald, Baden-Württemberg",
+      "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne",
       "it-IT": "",
-      "es-ES": "¡Es Halloween!",
+      "es-ES": "Selva Negra, Baden-Württemberg, Alemania",
       "pt-BR": "",
-      "ja-JP": "今日はハロウィン！",
+      "ja-JP": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
       "zh-CN": "",
-      "en-IN": "It's Halloween!"
+      "en-IN": "Black Forest, Baden-Württemberg, Germany"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Halloween&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Halloween&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261030_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%87%e5%9c%a3%e8%8a%82&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Schwarzwald+Deutschland&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=For%c3%aat-Noire+Allemagne&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Foresta+Nera+Germania&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Selva+Negra+Alemania&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Floresta+Negra+na+Alemanha&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%83%a5%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%84%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%88+%e3%83%89%e3%82%a4%e3%83%84&form=hpcapt&filters=HpDate%3a%2220261031_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%be%b7%e5%9b%bd%e9%bb%91%e6%a3%ae%e6%9e%97&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261031_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.FrankfurtHalloween_EN-GB3041218795",
-      "de-DE": "/th?id=OHR.FrankfurtHalloween_DE-DE2172526536",
-      "fr-FR": "/th?id=OHR.FrankfurtHalloween_FR-FR8337402452",
-      "it-IT": "/th?id=OHR.FrankfurtHalloween_IT-IT1676201038",
-      "es-ES": "/th?id=OHR.FrankfurtHalloween_ES-ES0138515727",
-      "pt-BR": "/th?id=OHR.FrankfurtHalloween_PT-BR9368321413",
-      "ja-JP": "/th?id=OHR.FrankfurtHalloween_JA-JP4785085446",
-      "zh-CN": "/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698",
-      "en-IN": "/th?id=OHR.FrankfurtHalloween_EN-IN8941917618"
+      "en-GB": "/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438",
+      "de-DE": "/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453",
+      "fr-FR": "/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698",
+      "it-IT": "/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599",
+      "es-ES": "/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557",
+      "pt-BR": "/th?id=OHR.SchwarzwaldAutumn_PT-BR1065721767",
+      "ja-JP": "/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951",
+      "zh-CN": "/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599",
+      "en-IN": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203"
     }
   },
   "BSTEnds2026": {
@@ -2041,7 +2045,7 @@
       "de-DE": "Wo Gipfel auf Stille treffen. Maligne Lake, Jasper-Nationalpark, Alberta, Kanada",
       "fr-FR": "Des étoiles plein les yeux. Lac Maligne, Parc national Jasper, Alberta, Canada",
       "pt-BR": "Um cenário que dispensa moldura",
-      "zh-CN": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大",
+      "zh-CN": "群峰与宁静相遇之地",
       "en-CA": "Under a blanket of stars. Jasper Dark Sky Festival is here"
     },
     "copyrights": {
@@ -2176,38 +2180,6 @@
     },
     "urlbases": {
       "it-IT": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754"
-    }
-  },
-  "ValdiFunesDolomite": {
-    "name": "ValdiFunesDolomite",
-    "urlbase": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672",
-    "date": "20261017",
-    "dateFormatted": "October 17, 2026",
-    "markets": [
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      }
-    ],
-    "titles": {
-      "it-IT": "Il segreto delle Dolomiti"
-    },
-    "copyrights": {
-      "it-IT": "La Val di Funes, Bolzano, Trentino-Alto Adige, Italia (© Achim Thomae/Getty Images)"
-    },
-    "descs": {
-      "it-IT": "La Val di Funes, in provincia di Bolzano (Trentino-Alto Adige, Italia), è una di quelle valli che si nascondono bene: si stacca dalla Valle Isarco attraverso una gola strettissima e si apre solo dopo, per ventiquattro chilometri di prati, boschi e masi appesi ai versanti."
-    },
-    "quickFacts": {},
-    "captions": {
-      "it-IT": ""
-    },
-    "copyrightlinks": {
-      "it-IT": "https://www.bing.com/search?q=La+Val+di+Funes&form=hpcapt"
-    },
-    "urlbases": {
-      "it-IT": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672"
     }
   },
   "GernikaPaisVasco": {
@@ -2370,6 +2342,111 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.MahaNavami2026_EN-IN6653933239"
+    }
+  },
+  "ChauvetPaintingsFrance": {
+    "name": "ChauvetPaintingsFrance",
+    "urlbase": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
+    "date": "20261017",
+    "dateFormatted": "October 17, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "The past, unearthed. International Archaeology Day",
+      "en-CA": "The past, unearthed. International Archaeology Day",
+      "en-GB": "The past, unearthed. International Archaeology Day",
+      "de-DE": "Die Vergangenheit ans Licht gebracht. Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich",
+      "it-IT": "Arte di 36.000 anni fa",
+      "es-ES": "Arte de hace 36.000 años. Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
+      "pt-BR": "O passado deixou sua assinatura",
+      "zh-CN": "发掘尘封的过去",
+      "en-IN": "The past, unearthed. International Archaeology Day"
+    },
+    "copyrights": {
+      "en-US": "Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "en-CA": "Life-size replica of Chauvet Cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "en-GB": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+      "de-DE": "Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)",
+      "it-IT": "Riproduzione a grandezza naturale delle pitture della grotta di Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+      "es-ES": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+      "pt-BR": "Réplica em tamanho real das pinturas rupestres da Caverna de Chauvet, Vallon-Pont-d'Arc, França (© Audrey Poree/Alamy)",
+      "zh-CN": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)",
+      "en-IN": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)"
+    },
+    "descs": {
+      "en-US": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organized by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programs, site visits, simulated digs, and hands-on activities.",
+      "en-CA": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "en-GB": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "de-DE": "Die Chauvet-Höhle bei Vallon-Pont-d’Arc in Südfrankreich zählt zu den bedeutendsten Fundstätten prähistorischer Höhlenkunst. An ihren Wänden finden sich mehr als 1000 Zeichnungen, vor allem eindrucksvolle Darstellungen von Tieren wie Löwen, Nashörnern, Pferden und Mammuts. Die außergewöhnlich gut erhaltenen Kunstwerke geben faszinierende Einblicke in die kreative Welt der Menschen der Altsteinzeit. Um die empfindlichen Originale zu schützen, wurde in der Nähe eine lebensgroße Nachbildung geschaffen, in der Besucher die Höhlenmalereien in einer möglichst authentischen Umgebung erleben können.",
+      "es-ES": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público.",
+      "en-IN": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities.",
+      "it-IT": "Questi cavalli, leoni e rinoceronti sono stati dipinti circa 36.000 anni fa nella grotta di Chauvet, a Vallon-Pont-d'Arc (Francia), ma quello che vedi è una copia. La grotta originale, scoperta nel 1994, è rimasta sigillata per millenni e conserva oltre 400 pitture e incisioni: per proteggerla dai danni che provoca la presenza umana non è mai stata aperta al pubblico.",
+      "pt-BR": "Imagine encontrar uma caverna e descobrir que alguém preencheu suas paredes com mamutes, rinocerontes e bisões há milhares de anos. Foi assim que a Caverna de Chauvet, no sul da França, entrou para a história. Descoberta em 1994, ela guarda mais de mil desenhos e gravuras, alguns com cerca de 36 mil anos.",
+      "zh-CN": "有些发现始于一把铲子，另一些则始于洞穴墙壁上的一幅图画。国际考古日既颂扬抽丝剥茧般的考古工作，也重视支撑发现的证据。这项年度活动由美国考古学会主办，始于2011年；随着参与范围扩展至全球，活动于2013年更名为“国际考古日”。如今，它通过讲座、博物馆项目、遗址参观、模拟发掘和动手实践活动，让公众更加贴近考古学。"
+    },
+    "quickFacts": {
+      "en-US": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "en-GB": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "en-CA": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago.",
+      "de-DE": "In der Chauvet-Höhle sind die Fußabdrücke eines prähistorischen Jugendlichen erhalten geblieben, der vor etwa 30.000 Jahren barfuß durch ihre Gänge lief.",
+      "it-IT": "La grotta conserva le impronte di un adolescente preistorico che camminò a piedi nudi lungo i suoi passaggi circa 30.000 anni fa.",
+      "es-ES": "La cueva conserva las huellas de un adolescente prehistórico que caminó descalzo por sus pasadizos hace unos 30.000 años.",
+      "zh-CN": "肖维岩洞保存着一名史前青少年的足迹，大约3万年前，这名青少年曾赤脚走过洞内通道。",
+      "en-IN": "The Chauvet Cave preserves the footprints of a prehistoric adolescent who walked barefoot through its passages about 30,000 years ago."
+    },
+    "captions": {
+      "en-US": "International Archaeology Day",
+      "en-CA": "International Archaeology Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0700%22",
+      "en-CA": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
+      "en-CA": "/th?id=OHR.ChauvetPaintingsFrance_EN-CA7438357428"
+    }
+  },
+  "ValdiFunesDolomite": {
+    "name": "ValdiFunesDolomite",
+    "urlbase": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672",
+    "date": "20261017",
+    "dateFormatted": "October 17, 2026",
+    "markets": [
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      }
+    ],
+    "titles": {
+      "it-IT": "Il segreto delle Dolomiti"
+    },
+    "copyrights": {
+      "it-IT": "La Val di Funes, Bolzano, Trentino-Alto Adige, Italia (© Achim Thomae/Getty Images)"
+    },
+    "descs": {
+      "it-IT": "La Val di Funes, in provincia di Bolzano (Trentino-Alto Adige, Italia), è una di quelle valli che si nascondono bene: si stacca dalla Valle Isarco attraverso una gola strettissima e si apre solo dopo, per ventiquattro chilometri di prati, boschi e masi appesi ai versanti."
+    },
+    "quickFacts": {},
+    "captions": {
+      "it-IT": ""
+    },
+    "copyrightlinks": {
+      "it-IT": "https://www.bing.com/search?q=La+Val+di+Funes&form=hpcapt"
+    },
+    "urlbases": {
+      "it-IT": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672"
     }
   },
   "SmilingSquirrel": {
