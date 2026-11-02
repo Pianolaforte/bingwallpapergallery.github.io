@@ -1,4 +1,36 @@
 {
+  "NativeBaskets": {
+    "name": "NativeBaskets",
+    "urlbase": "/th?id=OHR.NativeBaskets_EN-US0205712064",
+    "date": "20261101",
+    "dateFormatted": "November 01, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Crafting continuity. Native American Heritage Month"
+    },
+    "copyrights": {
+      "en-US": "Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)"
+    },
+    "descs": {
+      "en-US": "A basket can carry far more than its contents. The Native American basketry seen here in Santa Fe, New Mexico, points to a much bigger story: a rich variety of techniques and designs developed by communities across the country. Their materials, patterns, and styles reflect their places of origin, turning everyday objects into records of local knowledge and identity."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Native American Heritage Month"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Native+American+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220261101_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.NativeBaskets_EN-US0205712064"
+    }
+  },
   "FrankfurtHalloween": {
     "name": "FrankfurtHalloween",
     "urlbase": "/th?id=OHR.FrankfurtHalloween_EN-US0115213682",
@@ -825,7 +857,7 @@
       "it-IT": "Acqua, pietra e mistero",
       "es-ES": "Agua, piedra y misterio. Cascadas otoñales cerca de Sitovo, Plovdiv, Bulgaria",
       "ja-JP": "紅葉の中を流れ落ちる滝",
-      "zh-CN": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚",
+      "zh-CN": "大自然的秋日乐章",
       "en-IN": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria"
     },
     "copyrights": {
@@ -1598,14 +1630,84 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-CA": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-IN": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-GB": "The road that runs on water. Grand Canal in Venice, Italy",
+      "de-DE": "Die Straße, die übers Wasser führt. Canal Grande in Venedig, Italien",
+      "fr-FR": "Des routes qui éclaboussent. Le Grand Canal à Venise, Italie",
+      "it-IT": "L'alba sull'acqua",
+      "es-ES": "Amanecer sobre el agua. Amanecer sobre el Gran Canal, Venecia, Italia",
+      "pt-BR": "Quando a água vira caminho",
+      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
+      "zh-CN": "水上通衢"
+    },
+    "copyrights": {
+      "en-US": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "en-CA": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "en-IN": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "en-GB": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "de-DE": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
+      "fr-FR": "Le Grand Canal à Venise, Italie (© Juan Romero/Cavan Images)",
+      "it-IT": "Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)",
+      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia (© Juan Romero/Cavan Images)",
+      "pt-BR": "Grande Canal de Veneza, Itália (© Juan Romero/Cavan Images)",
+      "ja-JP": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
+      "zh-CN": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)"
+    },
+    "descs": {
+      "en-US": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-CA": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.8-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-GB": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "de-DE": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
+      "fr-FR": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
+      "es-ES": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
+      "ja-JP": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
+      "it-IT": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
+      "pt-BR": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
+      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。"
+    },
+    "quickFacts": {
+      "zh-CN": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
+    },
+    "captions": {
+      "en-US": "Grand Canal in Venice, Italy",
+      "en-CA": "Grand Canal in Venice, Italy",
+      "en-IN": "Grand Canal in Venice, Italy"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0400%22",
+      "en-IN": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261024_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
+      "en-CA": "/th?id=OHR.VeniceSunrise_EN-CA8133659672",
+      "en-IN": "/th?id=OHR.VeniceSunrise_EN-IN8305689376"
+    }
+  },
+  "HudsonBear": {
+    "name": "HudsonBear",
+    "urlbase": "/th?id=OHR.HudsonBear_EN-GB3657065728",
+    "date": "20261102",
+    "dateFormatted": "November 02, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
       },
       {
         "code": "de-DE",
@@ -1649,154 +1751,89 @@
       }
     ],
     "titles": {
-      "en-US": "The road that runs on water. Grand Canal in Venice, Italy",
-      "en-GB": "The road that runs on water. Grand Canal in Venice, Italy",
-      "en-CA": "The road that runs on water. Grand Canal in Venice, Italy",
-      "de-DE": "Die Straße, die übers Wasser führt. Canal Grande in Venedig, Italien",
-      "fr-FR": "Des routes qui éclaboussent. Le Grand Canal à Venise, Italie",
-      "it-IT": "L'alba sull'acqua",
-      "es-ES": "Amanecer sobre el agua. Amanecer sobre el Gran Canal, Venecia, Italia",
-      "pt-BR": "Quando a água vira caminho",
-      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
-      "zh-CN": "水上通衢",
-      "en-IN": "The road that runs on water. Grand Canal in Venice, Italy"
+      "en-GB": "A future written in ice. Polar Bear Week",
+      "de-DE": "Eine Zukunft, geprägt vom Eis. Eisbären, Kanada",
+      "fr-FR": "Un avenir écrit dans la glace. Ours polaire au Canada",
+      "it-IT": "Un futuro scolpito nel ghiaccio",
+      "es-ES": "Un futuro escrito en hielo. Semana del Oso Polar",
+      "pt-BR": "O futuro sobre o gelo",
+      "ja-JP": "氷がつなぐ未来. ホッキョクグマ週間",
+      "zh-CN": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大",
+      "en-IN": "A future written in ice. Polar Bear Week",
+      "en-US": "A future written in ice. Polar bear and cubs by Hudson Bay, Manitoba, Canada",
+      "en-CA": "A future written in ice. Polar bear and cubs by Hudson Bay, Manitoba, Canada"
     },
     "copyrights": {
-      "en-US": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
-      "en-GB": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
-      "en-CA": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
-      "de-DE": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
-      "fr-FR": "Le Grand Canal à Venise, Italie (© Juan Romero/Cavan Images)",
-      "it-IT": "Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)",
-      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia (© Juan Romero/Cavan Images)",
-      "pt-BR": "Grande Canal de Veneza, Itália (© Juan Romero/Cavan Images)",
-      "ja-JP": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
-      "zh-CN": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)",
-      "en-IN": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)"
+      "en-GB": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "de-DE": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)",
+      "fr-FR": "Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "it-IT": "Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "es-ES": "Osa polar con sus cachorros cerca de la bahía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
+      "pt-BR": "Urso-polar e filhotes na Baía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
+      "ja-JP": "ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock)",
+      "zh-CN": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大 (© Danita Delimont/Adobe Stock)",
+      "en-IN": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "en-US": "© Danita Delimont/Adobe Stock",
+      "en-CA": "© Danita Delimont/Adobe Stock"
     },
     "descs": {
-      "en-US": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "en-GB": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "en-CA": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.8-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "de-DE": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
-      "fr-FR": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
-      "es-ES": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
-      "ja-JP": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
-      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "it-IT": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
-      "pt-BR": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
-      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。"
+      "en-GB": "While November might bring us a step closer to the festive season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
+      "de-DE": "Auch wenn uns der November der Weihnachtszeit einen Schritt näherbringt, haben Eisbären andere Pläne. Sie versammeln sich an den Ufern der Hudson Bay in Manitoba, Kanada, und warten darauf, dass sich Meereis bildet, damit sie wieder auf Robbenjagd gehen können.",
+      "fr-FR": "Si le mois de novembre nous rapproche un peu plus des fêtes de fin d’année, les ours polaires, eux, ont d’autres projets. Ils se rassemblent le long des rives de la baie d’Hudson, dans le Manitoba (Canada), en attendant que la banquise se forme pour pouvoir repartir chasser le phoque. Les ours polaires sont de puissants nageurs, des chasseurs hors pair et remarquablement adaptés à la vie dans l’un des environnements les plus hostiles de la planète. Pourtant, le recul de la banquise les oblige à passer plus de temps sur la terre ferme, ce qui rend la recherche de nourriture plus difficile et augmente le risque de rencontres avec les humains.",
+      "es-ES": "Aunque noviembre nos acerca un poco más a la época navideña, los osos polares tienen otros planes. Se reúnen en las costas de la bahía de Hudson, en Manitoba, Canadá, a la espera de que se forme el hielo marino para volver a salir en busca de focas. Este espectáculo anual inspiró la Semana del Oso Polar, que se celebra durante la primera semana de noviembre y rinde homenaje al mayor depredador terrestre del Ártico. Los osos polares son excelentes nadadores, hábiles cazadores y están extraordinariamente adaptados a la vida en uno de los entornos más extremos del planeta. Sin embargo, la reducción del hielo marino hace que muchos pasen más tiempo en tierra firme, lo que dificulta la búsqueda de alimento y aumenta el riesgo de encuentros con personas.",
+      "ja-JP": "カナダ・マニトバ州のハドソン湾沿岸では、ホッキョクグマたちが、海氷が張るのを待っています。海氷ができると、再び氷の上でアザラシを狩れるようになります。11月の第1週には「ホッキョクグマ週間」が行われます。泳ぎも狩りも得意な彼らは、地球上でも指折りの厳しい環境に適応して暮らしています。しかし、海氷の減少によって陸上で過ごす時間が長くなり、餌を確保しにくくなるなどの影響が出ています。写真に写っているのは、ハドソン湾近くで暮らす母グマと子グマたちです。この愛らしい親子の姿は、北極の美しい自然と、ホッキョクグマが生きるために欠かせない海氷を守る大切さを伝えています。",
+      "en-IN": "These polar bears are gathering along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
+      "en-US": "While November might bring us a step closer to the holiday season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters, and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
+      "en-CA": "November marks an important time for polar bears along the shores of Hudson Bay in Manitoba, where they gather and wait for sea ice to form before returning to hunt seals. This annual event is celebrated during Polar Bear Week, observed in early November. Polar bears are powerful swimmers and highly adapted to Arctic life, but shrinking sea ice is forcing many to spend more time on land, making it harder to find food. The mother and cubs seen in today's image represent generations of bears that have followed this seasonal cycle, highlighting both the beauty of the Arctic and the importance of protecting the habitat these iconic Canadian animals depend on.",
+      "it-IT": "Con l’arrivo di novembre, gli orsi polari si radunano lungo le coste della baia di Hudson, in Canada, in attesa che si formi il ghiaccio marino per tornare a caccia di foche. Abili nuotatori e formidabili predatori, sono perfettamente adattati a uno degli ambienti più estremi della Terra. La diminuzione delle banchise li costringe a trascorrere sempre più tempo sulla terraferma, dove aumenta la difficoltà nel trovare cibo ed il rischio di incontri con l’uomo. L’immagine ritrae una femmina con i suoi cuccioli nei pressi della baia di Hudson, dove gli orsi si radunano stagionalmente da generazioni.",
+      "pt-BR": "Novembro nos aproxima das festas de fim de ano, mas os ursos-polares têm outros planos. Eles se reúnem às margens da Baía de Hudson, em Manitoba, no Canadá, esperando que o gelo marinho se forme para voltar a caçar focas. Excelentes nadadores e caçadores habilidosos, os ursos-polares são muito bem adaptados à vida em um dos ambientes mais hostis da Terra. No entanto, a redução do gelo marinho faz com que muitos passem mais tempo em terra firme, dificultando a busca por alimento e aumentando o risco de encontros com pessoas.",
+      "zh-CN": "11月也许让我们离节日季又近了一步，但北极熊有别的打算。它们聚集在加拿大马尼托巴省的哈得孙湾沿岸，等待海冰形成，以便重返冰面捕猎海豹。每年上演的这一幕催生了在11月第一周举行的北极熊周，以庆祝北极地区体型最大的陆生捕食者。北极熊是游泳健将、捕猎高手，也极其适应地球上最严酷的环境之一。然而，海冰不断缩减，意味着许多北极熊不得不在陆地上待更久，觅食更加困难，与人类相遇的风险也随之上升。"
     },
     "quickFacts": {
-      "zh-CN": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
+      "en-US": "In a single season, a polar bear may cover more than 620 miles while searching for food and suitable ice.",
+      "en-GB": "In a single season, a polar bear may cover more than 1,000 kilometres while searching for food and suitable ice.",
+      "en-CA": "In a single season, a polar bear may travel more than 1,000 kilometres in search of food and suitable sea ice.",
+      "de-DE": "In einer einzigen Saison kann ein Eisbär auf der Suche nach Nahrung und geeigneten Eisflächen mehr als 1.000 Kilometer zurücklegen.",
+      "fr-FR": "En une saison, un ours polaire peut parcourir plus de 1 000 km à la recherche de nourriture et de la banquise.",
+      "it-IT": "In una sola stagione, un orso polare può percorrere oltre 1.000 km alla ricerca di cibo e del ghiaccio ideale.",
+      "es-ES": "En una sola temporada, un oso polar puede recorrer más de 1,000 kilómetros en busca de alimento y hielo adecuado.",
+      "pt-BR": "Em uma única estação do ano, um urso-polar pode percorrer mais de 1.000 quilômetros em busca de alimento e de gelo em condições adequadas.",
+      "ja-JP": "ホッキョクグマは、餌を捕りやすく、生息に適した氷を求めて、1シーズンに1,000キロメートル以上移動することがあります。",
+      "zh-CN": "为了寻找食物和合适的海冰，北极熊在一个季节里可能跋涉超过620英里。",
+      "en-IN": "In a single season, a polar bear may cover more than 1,000 kilometres while searching for food and suitable ice."
     },
     "captions": {
-      "en-US": "Grand Canal in Venice, Italy",
-      "en-GB": "Grand Canal in Venice, Italy",
-      "en-CA": "Grand Canal in Venice, Italy",
-      "de-DE": "Canal Grande in Venedig, Italien",
-      "fr-FR": "Le Grand Canal à Venise, Italie",
+      "en-GB": "Polar Bear Week",
+      "de-DE": "Eisbären, Kanada",
+      "fr-FR": "Ours polaire au Canada",
       "it-IT": "",
-      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia",
+      "es-ES": "Semana del Oso Polar",
       "pt-BR": "",
-      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
+      "ja-JP": "ホッキョクグマ週間",
       "zh-CN": "",
-      "en-IN": "Grand Canal in Venice, Italy"
+      "en-IN": "Polar Bear Week"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261018_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Canal+Grande&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Grand+Canal+Venise&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
-      "it-IT": "https://www.bing.com/search?q=Canal+Grande+Venezia&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Venecia&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Grande+Canal+de+Veneza&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%87&form=hpcapt&filters=HpDate%3a%2220261018_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%a4%a7%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261024_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Eisb%c3%a4ren&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Orso+Polare&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Urso+polar&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220261101_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8c%97%e6%9e%81%e7%86%8a%e5%91%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
-      "en-GB": "/th?id=OHR.VeniceSunrise_EN-GB5027785704",
-      "en-CA": "/th?id=OHR.VeniceSunrise_EN-CA8133659672",
-      "de-DE": "/th?id=OHR.VeniceSunrise_DE-DE1204445748",
-      "fr-FR": "/th?id=OHR.VeniceSunrise_FR-FR4230208455",
-      "it-IT": "/th?id=OHR.VeniceSunrise_IT-IT2943629456",
-      "es-ES": "/th?id=OHR.VeniceSunrise_ES-ES2930999770",
-      "pt-BR": "/th?id=OHR.VeniceSunrise_PT-BR8365610239",
-      "ja-JP": "/th?id=OHR.VeniceSunrise_JA-JP2535499489",
-      "zh-CN": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339",
-      "en-IN": "/th?id=OHR.VeniceSunrise_EN-IN8305689376"
-    }
-  },
-  "DolbadarnWales": {
-    "name": "DolbadarnWales",
-    "urlbase": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
-    "date": "20261018",
-    "dateFormatted": "October 18, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
-      "en-CA": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
-      "en-GB": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
-      "de-DE": "75 und voller Leben. Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
-      "fr-FR": "75 ans et rayonnant. Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
-      "es-ES": "La torre de los príncipes. Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
-      "pt-BR": "Onde o tempo perde altitude",
-      "ja-JP": "丘の上に佇む城跡",
-      "zh-CN": "75载，风华正茂",
-      "en-IN": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75"
-    },
-    "copyrights": {
-      "en-US": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
-      "en-CA": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
-      "en-GB": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
-      "de-DE": "Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)",
-      "fr-FR": "Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles (© joe daniel price/Getty Images)",
-      "es-ES": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales (© joe daniel price/Getty Images)",
-      "pt-BR": "Castelo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), País de Gales (© joe daniel price/Getty Images)",
-      "ja-JP": "ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)",
-      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)",
-      "en-IN": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)"
-    },
-    "descs": {
-      "en-US": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline, and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 3,500 feet, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "en-CA": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 2,130 square kilometres, with nine mountain ranges, 119 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,050 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "en-GB": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen. Seit seiner Ausweisung im Jahr 1951 schützt er auf rund 2.130 Quadratkilometern eine außergewöhnlich vielfältige Landschaft. Neun Gebirgszüge, etwa 119 Kilometer Küste, Moore, heimische Wälder und weitläufige Hochlandgebiete prägen die Region. Mit 1.085 Metern ist der Yr Wyddfa der höchste Berg des Parks. Auch die Gipfel der Carneddau und Glyderau sowie der Cadair Idris im Süden gehören zu dieser eindrucksvollen Bergwelt. Zahlreiche geschützte Gebiete bieten zudem wertvolle Lebensräume für Tiere und Pflanzen.",
-      "fr-FR": "Si les parcs tenaient un journal d’anniversaire, celui d’Eryri (Snowdonia) aurait 75 ans d’histoire à raconter. Désigné parc national en 1951, ce territoire gallois s’étend sur environ 2 130 km² : neuf chaînes de montagnes, près de 119 km de côtes, des tourbières, des bois indigènes et de vastes terres d’altitude. À 1 085 mètres d’altitude s’élève Yr Wyddfa, son sommet emblématique, entouré des reliefs des Carneddau et des Glyderau, tandis que Cadair Idris domine le sud. Cette mosaïque d’habitats abrite 17 réserves naturelles nationales et 56 sites d’intérêt scientifique particulier.",
-      "es-ES": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
-      "ja-JP": "エリリ国立公園（旧スノードニア国立公園）は、面積約 2,130km² を誇るウェールズ最大の国立公園です。1951 年の今日、10 月 18 日に国立公園に指定されました。公園内には、ウェールズ最高峰のイール・ウィドファ（旧スノードン山）がそびえるなど、雄大な山岳風景が広がっています。そして画像は、公園内にあるドルバダーン城。13 世紀に築かれたウェールズを代表する城のひとつで、特徴的な円塔が美しい景観の中にたたずんでいます。",
-      "en-IN": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across more than 2,100 square kilometres, with nine mountain ranges, about 120 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-      "pt-BR": "Hoje tem parabéns no País de Gales: o Parque Nacional de Eryri completa 75 anos. Eryri é o nome galês oficial; Snowdonia, o antigo nome em inglês. Criado em 1951, o parque não perdeu tempo para impressionar. São mais de 2 mil km² de montanhas, turfeiras, bosques nativos e litoral, reunindo nove cadeias montanhosas e mais de cem quilômetros de costa. No topo da conversa está Yr Wyddfa, com mais de mil metros de altitude. Por perto vêm os maciços de Carneddau e Glyderau; ao sul, Cadair Idris também faz questão de aparecer.",
-      "zh-CN": "如果公园也能写生日手记，威尔士斯诺登尼亚国家公园一定有许多精彩故事可讲。今天是这座公园成立75周年，纪念它于1951年获指定为国家公园。斯诺登尼亚占地823平方英里，拥有九条山脉和74英里海岸线，栖息地类型从泥炭地、原生林地到高地景观不一而足。斯诺登山海拔超过3,500英尺，是斯诺登尼亚的最高点。附近的卡内道山脉和格利德赖山脉群峰耸立，卡代尔伊德里斯山则矗立在南部。这些受保护的景观为野生动物提供了栖息地，其中包括17处国家级自然保护区和56处特殊科学价值地点。"
-    },
-    "quickFacts": {
-      "zh-CN": "2015年，斯诺登尼亚被认定为国际暗夜保护区，以表彰其卓越的夜空质量和限制光污染的努力。"
-    },
-    "captions": {
-      "en-US": "Eryri National Park (Snowdonia) in Wales turns 75",
-      "en-CA": "Eryri National Park (Snowdonia) in Wales turns 75"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
-      "en-CA": "/th?id=OHR.DolbadarnWales_EN-CA7756366430"
+      "en-GB": "/th?id=OHR.HudsonBear_EN-GB3657065728",
+      "de-DE": "/th?id=OHR.HudsonBear_DE-DE3504338986",
+      "fr-FR": "/th?id=OHR.HudsonBear_FR-FR2767726453",
+      "it-IT": "/th?id=OHR.HudsonBear_IT-IT6232079426",
+      "es-ES": "/th?id=OHR.HudsonBear_ES-ES0469501883",
+      "pt-BR": "/th?id=OHR.HudsonBear_PT-BR1375226804",
+      "ja-JP": "/th?id=OHR.HudsonBear_JA-JP9155678647",
+      "zh-CN": "/th?id=OHR.HudsonBear_ZH-CN6630706907",
+      "en-IN": "/th?id=OHR.HudsonBear_EN-IN9299365522"
     }
   },
   "SchwarzwaldAutumn": {
@@ -1809,6 +1846,11 @@
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
       },
       {
         "code": "de-DE",
@@ -1853,6 +1895,7 @@
     ],
     "titles": {
       "en-GB": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
+      "en-CA": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
       "de-DE": "Wälder im Nebel. Schwarzwald, Baden-Württemberg",
       "fr-FR": "Manteau de brume sur la forêt. Forêt-Noire, Bade-Wurtemberg, Allemagne",
       "it-IT": "Alberi che svettano tra la foschia",
@@ -1860,11 +1903,11 @@
       "pt-BR": "A floresta em segredo",
       "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
       "zh-CN": "黑森林，巴登-符腾堡州，德国",
-      "en-IN": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
-      "en-CA": "Mist among the trees. Black Forest, Baden-Württemberg, Germany"
+      "en-IN": "Mist among the trees. Black Forest, Baden-Württemberg, Germany"
     },
     "copyrights": {
       "en-GB": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+      "en-CA": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
       "de-DE": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
       "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)",
       "it-IT": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
@@ -1872,17 +1915,16 @@
       "pt-BR": "Floresta Negra, Baden-Württemberg, Alemanha (© Britus/Getty Images)",
       "ja-JP": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)",
       "zh-CN": "黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)",
-      "en-IN": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
-      "en-CA": "© Britus/Getty Images"
+      "en-IN": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)"
     },
     "descs": {
       "en-GB": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+      "en-CA": "The Black Forest in south-west Germany is known for its misty landscapes, forested hills, deep valleys, lakes and picturesque towns. Stretching about 160 kilometres, the region is home to Feldberg, its highest peak at 1,493 metres, and marks the source of both the Danube and Neckar rivers. Beyond its natural beauty, the Black Forest is rich in history and tradition. Forestry has shaped the region for centuries, while its renowned clockmaking heritage helped make the cuckoo clock famous around the world. Today, the area remains one of Germany's most distinctive destinations, blending cultural heritage with striking scenery.",
       "de-DE": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
       "fr-FR": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
       "es-ES": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
       "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ. ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
       "en-IN": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
-      "en-CA": "The Black Forest in south-west Germany is known for its misty landscapes, forested hills, deep valleys, lakes and picturesque towns. Stretching about 160 kilometres, the region is home to Feldberg, its highest peak at 1,493 metres, and marks the source of both the Danube and Neckar rivers. Beyond its natural beauty, the Black Forest is rich in history and tradition. Forestry has shaped the region for centuries, while its renowned clockmaking heritage helped make the cuckoo clock famous around the world. Today, the area remains one of Germany's most distinctive destinations, blending cultural heritage with striking scenery.",
       "it-IT": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
       "pt-BR": "Hoje, estamos apreciando as paisagens cobertas de névoa da Floresta Negra, que se estende por cerca de 160 quilômetros pelo sudoeste da Alemanha, reunindo colinas arborizadas, vales profundos, lagos e cidades encantadoras. Seu ponto mais alto, o Feldberg, chega a 1.493 metros de altitude. A Floresta Negra também abriga as nascentes dos rios Danúbio e Neckar. História e tradição não faltam por aqui. A atividade florestal tem um papel importante na região há muito tempo, e a tradição secular de fabricar relógios ajudou a tornar o característico relógio de cuco famoso muito além da Alemanha.",
       "zh-CN": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。"
@@ -1892,6 +1934,7 @@
     },
     "captions": {
       "en-GB": "Black Forest, Baden-Württemberg, Germany",
+      "en-CA": "Black Forest, Baden-Württemberg, Germany",
       "de-DE": "Schwarzwald, Baden-Württemberg",
       "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne",
       "it-IT": "",
@@ -1903,6 +1946,7 @@
     },
     "copyrightlinks": {
       "en-GB": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0400%22",
       "de-DE": "https://www.bing.com/search?q=Schwarzwald+Deutschland&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
       "fr-FR": "https://www.bing.com/search?q=For%c3%aat-Noire+Allemagne&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
       "it-IT": "https://www.bing.com/search?q=Foresta+Nera+Germania&form=hpcapt",
@@ -1914,6 +1958,7 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438",
+      "en-CA": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535",
       "de-DE": "/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453",
       "fr-FR": "/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698",
       "it-IT": "/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599",
@@ -2308,6 +2353,75 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988"
+    }
+  },
+  "DolbadarnWales": {
+    "name": "DolbadarnWales",
+    "urlbase": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
+    "date": "20261018",
+    "dateFormatted": "October 18, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-CA": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-GB": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75",
+      "de-DE": "75 und voller Leben. Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen",
+      "fr-FR": "75 ans et rayonnant. Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
+      "es-ES": "La torre de los príncipes. Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
+      "pt-BR": "Onde o tempo perde altitude",
+      "ja-JP": "丘の上に佇む城跡",
+      "zh-CN": "75载，风华正茂",
+      "en-IN": "75 and thriving. Eryri National Park (Snowdonia) in Wales turns 75"
+    },
+    "copyrights": {
+      "en-US": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "en-CA": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "en-GB": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "de-DE": "Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)",
+      "fr-FR": "Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles (© joe daniel price/Getty Images)",
+      "es-ES": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales (© joe daniel price/Getty Images)",
+      "pt-BR": "Castelo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), País de Gales (© joe daniel price/Getty Images)",
+      "ja-JP": "ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)",
+      "zh-CN": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)",
+      "en-IN": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)"
+    },
+    "descs": {
+      "en-US": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline, and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 3,500 feet, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "en-CA": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 2,130 square kilometres, with nine mountain ranges, 119 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,050 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "en-GB": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "de-DE": "Der Eryri-Nationalpark in Wales feiert sein 75-jähriges Bestehen. Seit seiner Ausweisung im Jahr 1951 schützt er auf rund 2.130 Quadratkilometern eine außergewöhnlich vielfältige Landschaft. Neun Gebirgszüge, etwa 119 Kilometer Küste, Moore, heimische Wälder und weitläufige Hochlandgebiete prägen die Region. Mit 1.085 Metern ist der Yr Wyddfa der höchste Berg des Parks. Auch die Gipfel der Carneddau und Glyderau sowie der Cadair Idris im Süden gehören zu dieser eindrucksvollen Bergwelt. Zahlreiche geschützte Gebiete bieten zudem wertvolle Lebensräume für Tiere und Pflanzen.",
+      "fr-FR": "Si les parcs tenaient un journal d’anniversaire, celui d’Eryri (Snowdonia) aurait 75 ans d’histoire à raconter. Désigné parc national en 1951, ce territoire gallois s’étend sur environ 2 130 km² : neuf chaînes de montagnes, près de 119 km de côtes, des tourbières, des bois indigènes et de vastes terres d’altitude. À 1 085 mètres d’altitude s’élève Yr Wyddfa, son sommet emblématique, entouré des reliefs des Carneddau et des Glyderau, tandis que Cadair Idris domine le sud. Cette mosaïque d’habitats abrite 17 réserves naturelles nationales et 56 sites d’intérêt scientifique particulier.",
+      "es-ES": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
+      "ja-JP": "エリリ国立公園（旧スノードニア国立公園）は、面積約 2,130km² を誇るウェールズ最大の国立公園です。1951 年の今日、10 月 18 日に国立公園に指定されました。公園内には、ウェールズ最高峰のイール・ウィドファ（旧スノードン山）がそびえるなど、雄大な山岳風景が広がっています。そして画像は、公園内にあるドルバダーン城。13 世紀に築かれたウェールズを代表する城のひとつで、特徴的な円塔が美しい景観の中にたたずんでいます。",
+      "en-IN": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across more than 2,100 square kilometres, with nine mountain ranges, about 120 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+      "pt-BR": "Hoje tem parabéns no País de Gales: o Parque Nacional de Eryri completa 75 anos. Eryri é o nome galês oficial; Snowdonia, o antigo nome em inglês. Criado em 1951, o parque não perdeu tempo para impressionar. São mais de 2 mil km² de montanhas, turfeiras, bosques nativos e litoral, reunindo nove cadeias montanhosas e mais de cem quilômetros de costa. No topo da conversa está Yr Wyddfa, com mais de mil metros de altitude. Por perto vêm os maciços de Carneddau e Glyderau; ao sul, Cadair Idris também faz questão de aparecer.",
+      "zh-CN": "如果公园也能写生日手记，威尔士斯诺登尼亚国家公园一定有许多精彩故事可讲。今天是这座公园成立75周年，纪念它于1951年获指定为国家公园。斯诺登尼亚占地823平方英里，拥有九条山脉和74英里海岸线，栖息地类型从泥炭地、原生林地到高地景观不一而足。斯诺登山海拔超过3,500英尺，是斯诺登尼亚的最高点。附近的卡内道山脉和格利德赖山脉群峰耸立，卡代尔伊德里斯山则矗立在南部。这些受保护的景观为野生动物提供了栖息地，其中包括17处国家级自然保护区和56处特殊科学价值地点。"
+    },
+    "quickFacts": {
+      "zh-CN": "2015年，斯诺登尼亚被认定为国际暗夜保护区，以表彰其卓越的夜空质量和限制光污染的努力。"
+    },
+    "captions": {
+      "en-US": "Eryri National Park (Snowdonia) in Wales turns 75",
+      "en-CA": "Eryri National Park (Snowdonia) in Wales turns 75"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
+      "en-CA": "/th?id=OHR.DolbadarnWales_EN-CA7756366430"
     }
   },
   "MahaNavami2026": {
