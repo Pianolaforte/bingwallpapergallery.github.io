@@ -1,4 +1,158 @@
 {
+  "HudsonBear": {
+    "name": "HudsonBear",
+    "urlbase": "/th?id=OHR.HudsonBear_EN-US0297833232",
+    "date": "20261102",
+    "dateFormatted": "November 02, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A future written in ice. Polar Bear Week",
+      "en-GB": "A future written in ice. Polar Bear Week",
+      "en-CA": "A future written in ice. Polar Bear Week",
+      "de-DE": "Eine Zukunft, geprägt vom Eis. Eisbären, Kanada",
+      "fr-FR": "Un avenir écrit dans la glace. Ours polaire au Canada",
+      "it-IT": "Un futuro scolpito nel ghiaccio",
+      "es-ES": "Un futuro escrito en hielo. Semana del Oso Polar",
+      "pt-BR": "O futuro sobre o gelo",
+      "ja-JP": "氷がつなぐ未来. ホッキョクグマ週間",
+      "zh-CN": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大",
+      "en-IN": "A future written in ice. Polar Bear Week"
+    },
+    "copyrights": {
+      "en-US": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "en-GB": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "en-CA": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "de-DE": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)",
+      "fr-FR": "Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "it-IT": "Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "es-ES": "Osa polar con sus cachorros cerca de la bahía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
+      "pt-BR": "Urso-polar e filhotes na Baía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
+      "ja-JP": "ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock)",
+      "zh-CN": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大 (© Danita Delimont/Adobe Stock)",
+      "en-IN": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)"
+    },
+    "descs": {
+      "en-US": "While November might bring us a step closer to the holiday season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters, and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
+      "en-GB": "While November might bring us a step closer to the festive season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
+      "en-CA": "November marks an important time for polar bears along the shores of Hudson Bay in Manitoba, where they gather and wait for sea ice to form before returning to hunt seals. This annual event is celebrated during Polar Bear Week, observed in early November. Polar bears are powerful swimmers and highly adapted to Arctic life, but shrinking sea ice is forcing many to spend more time on land, making it harder to find food. The mother and cubs seen in today's image represent generations of bears that have followed this seasonal cycle, highlighting both the beauty of the Arctic and the importance of protecting the habitat these iconic Canadian animals depend on.",
+      "de-DE": "Auch wenn uns der November der Weihnachtszeit einen Schritt näherbringt, haben Eisbären andere Pläne. Sie versammeln sich an den Ufern der Hudson Bay in Manitoba, Kanada, und warten darauf, dass sich Meereis bildet, damit sie wieder auf Robbenjagd gehen können.",
+      "fr-FR": "Si le mois de novembre nous rapproche un peu plus des fêtes de fin d’année, les ours polaires, eux, ont d’autres projets. Ils se rassemblent le long des rives de la baie d’Hudson, dans le Manitoba (Canada), en attendant que la banquise se forme pour pouvoir repartir chasser le phoque. Les ours polaires sont de puissants nageurs, des chasseurs hors pair et remarquablement adaptés à la vie dans l’un des environnements les plus hostiles de la planète. Pourtant, le recul de la banquise les oblige à passer plus de temps sur la terre ferme, ce qui rend la recherche de nourriture plus difficile et augmente le risque de rencontres avec les humains.",
+      "es-ES": "Aunque noviembre nos acerca un poco más a la época navideña, los osos polares tienen otros planes. Se reúnen en las costas de la bahía de Hudson, en Manitoba, Canadá, a la espera de que se forme el hielo marino para volver a salir en busca de focas. Este espectáculo anual inspiró la Semana del Oso Polar, que se celebra durante la primera semana de noviembre y rinde homenaje al mayor depredador terrestre del Ártico. Los osos polares son excelentes nadadores, hábiles cazadores y están extraordinariamente adaptados a la vida en uno de los entornos más extremos del planeta. Sin embargo, la reducción del hielo marino hace que muchos pasen más tiempo en tierra firme, lo que dificulta la búsqueda de alimento y aumenta el riesgo de encuentros con personas.",
+      "ja-JP": "カナダ・マニトバ州のハドソン湾沿岸では、ホッキョクグマたちが、海氷が張るのを待っています。海氷ができると、再び氷の上でアザラシを狩れるようになります。11月の第1週には「ホッキョクグマ週間」が行われます。泳ぎも狩りも得意な彼らは、地球上でも指折りの厳しい環境に適応して暮らしています。しかし、海氷の減少によって陸上で過ごす時間が長くなり、餌を確保しにくくなるなどの影響が出ています。写真に写っているのは、ハドソン湾近くで暮らす母グマと子グマたちです。この愛らしい親子の姿は、北極の美しい自然と、ホッキョクグマが生きるために欠かせない海氷を守る大切さを伝えています。",
+      "en-IN": "These polar bears are gathering along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
+      "it-IT": "Con l’arrivo di novembre, gli orsi polari si radunano lungo le coste della baia di Hudson, in Canada, in attesa che si formi il ghiaccio marino per tornare a caccia di foche. Abili nuotatori e formidabili predatori, sono perfettamente adattati a uno degli ambienti più estremi della Terra. La diminuzione delle banchise li costringe a trascorrere sempre più tempo sulla terraferma, dove aumenta la difficoltà nel trovare cibo ed il rischio di incontri con l’uomo. L’immagine ritrae una femmina con i suoi cuccioli nei pressi della baia di Hudson, dove gli orsi si radunano stagionalmente da generazioni.",
+      "pt-BR": "Novembro nos aproxima das festas de fim de ano, mas os ursos-polares têm outros planos. Eles se reúnem às margens da Baía de Hudson, em Manitoba, no Canadá, esperando que o gelo marinho se forme para voltar a caçar focas. Excelentes nadadores e caçadores habilidosos, os ursos-polares são muito bem adaptados à vida em um dos ambientes mais hostis da Terra. No entanto, a redução do gelo marinho faz com que muitos passem mais tempo em terra firme, dificultando a busca por alimento e aumentando o risco de encontros com pessoas.",
+      "zh-CN": "11月也许让我们离节日季又近了一步，但北极熊有别的打算。它们聚集在加拿大马尼托巴省的哈得孙湾沿岸，等待海冰形成，以便重返冰面捕猎海豹。每年上演的这一幕催生了在11月第一周举行的北极熊周，以庆祝北极地区体型最大的陆生捕食者。北极熊是游泳健将、捕猎高手，也极其适应地球上最严酷的环境之一。然而，海冰不断缩减，意味着许多北极熊不得不在陆地上待更久，觅食更加困难，与人类相遇的风险也随之上升。"
+    },
+    "quickFacts": {
+      "en-US": "In a single season, a polar bear may cover more than 620 miles while searching for food and suitable ice.",
+      "en-GB": "In a single season, a polar bear may cover more than 1,000 kilometres while searching for food and suitable ice.",
+      "en-CA": "In a single season, a polar bear may travel more than 1,000 kilometres in search of food and suitable sea ice.",
+      "de-DE": "In einer einzigen Saison kann ein Eisbär auf der Suche nach Nahrung und geeigneten Eisflächen mehr als 1.000 Kilometer zurücklegen.",
+      "fr-FR": "En une saison, un ours polaire peut parcourir plus de 1 000 km à la recherche de nourriture et de la banquise.",
+      "it-IT": "In una sola stagione, un orso polare può percorrere oltre 1.000 km alla ricerca di cibo e del ghiaccio ideale.",
+      "es-ES": "En una sola temporada, un oso polar puede recorrer más de 1,000 kilómetros en busca de alimento y hielo adecuado.",
+      "pt-BR": "Em uma única estação do ano, um urso-polar pode percorrer mais de 1.000 quilômetros em busca de alimento e de gelo em condições adequadas.",
+      "ja-JP": "ホッキョクグマは、餌を捕りやすく、生息に適した氷を求めて、1シーズンに1,000キロメートル以上移動することがあります。",
+      "zh-CN": "为了寻找食物和合适的海冰，北极熊在一个季节里可能跋涉超过620英里。",
+      "en-IN": "In a single season, a polar bear may cover more than 1,000 kilometres while searching for food and suitable ice."
+    },
+    "captions": {
+      "en-US": "Polar Bear Week",
+      "en-GB": "Polar Bear Week",
+      "en-CA": "Polar Bear Week",
+      "de-DE": "Eisbären, Kanada",
+      "fr-FR": "Ours polaire au Canada",
+      "it-IT": "",
+      "es-ES": "Semana del Oso Polar",
+      "pt-BR": "",
+      "ja-JP": "ホッキョクグマ週間",
+      "zh-CN": "",
+      "en-IN": "Polar Bear Week"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Eisb%c3%a4ren&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Orso+Polare&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Urso+polar&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220261101_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%8c%97%e6%9e%81%e7%86%8a%e5%91%a8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HudsonBear_EN-US0297833232",
+      "en-GB": "/th?id=OHR.HudsonBear_EN-GB3657065728",
+      "en-CA": "/th?id=OHR.HudsonBear_EN-CA5688581864",
+      "de-DE": "/th?id=OHR.HudsonBear_DE-DE3504338986",
+      "fr-FR": "/th?id=OHR.HudsonBear_FR-FR2767726453",
+      "it-IT": "/th?id=OHR.HudsonBear_IT-IT6232079426",
+      "es-ES": "/th?id=OHR.HudsonBear_ES-ES0469501883",
+      "pt-BR": "/th?id=OHR.HudsonBear_PT-BR1375226804",
+      "ja-JP": "/th?id=OHR.HudsonBear_JA-JP9155678647",
+      "zh-CN": "/th?id=OHR.HudsonBear_ZH-CN6630706907",
+      "en-IN": "/th?id=OHR.HudsonBear_EN-IN9299365522"
+    }
+  },
   "NativeBaskets": {
     "name": "NativeBaskets",
     "urlbase": "/th?id=OHR.NativeBaskets_EN-US0205712064",
@@ -679,7 +833,7 @@
       "es-ES": "Reflejos dorados. Cipreses de estanque con color otoñal, Georgia, EE. UU.",
       "pt-BR": "Um espelho com raízes",
       "ja-JP": "水面に映る秋の森",
-      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国",
+      "zh-CN": "大自然的金色明镜",
       "en-IN": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States"
     },
     "copyrights": {
@@ -702,7 +856,7 @@
       "de-DE": "Goldenes Licht, stilles Wasser und Zypressen, die sich nahezu perfekt darin spiegeln. Diese Szenerie wirkt wie gemalt. Die Teichzypresse ist im Südosten der USA heimisch und gedeiht vor allem in flachen Teichen, Senken und Feuchtgebieten. Diese Aufnahme entstand im US-Bundesstaat Georgia, wo die Bäume unter anderem im Okefenokee-Sumpf zu finden sind. Anders als die meisten Nadelbäume wirft die Teichzypresse im Herbst ihr nadelartiges Laub ab. Zuvor färbt es sich in warme Gelb-, Kupfer- und Orangebrauntöne. Die Art ist eng mit der weiter verbreiteten Sumpfzypresse verwandt, bleibt jedoch meist kleiner und bevorzugt stehende oder flache Gewässer.",
       "fr-FR": "Se reflétant dans une eau paisible sous la lumière dorée du couchant, ce bosquet de cyprès des étangs compose un saisissant tableau de couleurs et de symétrie. Originaire du sud-est des États-Unis, cet arbre affectionne les mares peu profondes, les dépressions humides et les zones marécageuses. En Géorgie (États-Unis), où cette image a été capturée, il peuple notamment le célèbre marais d’Okefenokee et d’autres terres basses gorgées d’eau.",
       "es-ES": "Reflejado en un agua sin una onda y encendido por la última luz del día, este bosquete de cipreses de estanque compone una escena de simetría casi perfecta. La especie es propia del sureste de Estados Unidos y esta imagen se tomó en Georgia, donde crece en lugares como el gran pantano de Okefenokee y otros humedales de tierras bajas.",
-      "ja-JP": "水面に映る秋の森. ポンドサイプレス, 米国 ジョージア州. 今日の画像は、米国ジョージア州で見られるポンドサイプレス。ヒノキ科、ヌマスギ属の樹木で、細い葉が小枝に沿うようにつくのが特徴です。秋から冬にかけて球果が成熟します。水辺では「膝根（しっこん）」と呼ばれる根の突起を形成することがあり、米国南東部の池や沼地などの湿地に分布しています。こうした湿地林は、さまざまな生物の重要な生息地となっています。",
+      "ja-JP": "今日の画像は、米国ジョージア州で見られるポンドサイプレス。ヒノキ科、ヌマスギ属の樹木で、細い葉が小枝に沿うようにつくのが特徴です。秋から冬にかけて球果が成熟します。水辺では「膝根（しっこん）」と呼ばれる根の突起を形成することがあり、米国南東部の池や沼地などの湿地に分布しています。こうした湿地林は、さまざまな生物の重要な生息地となっています。",
       "en-IN": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
       "it-IT": "Riflesso in un'acqua senza una piega e illuminato dall'ultima luce del giorno, questo boschetto di cipressi compone una scena di simmetria quasi perfetta. La specie è tipica del sud-est degli Stati Uniti e l'immagine è stata scattata in Georgia, dove cresce in luoghi come la grande palude di Okefenokee e altre zone umide di pianura.",
       "pt-BR": "Olhando esta paisagem, dá para jurar que o outono resolveu trocar as montanhas por um pântano. Quase. O cenário está na Geórgia, nos Estados Unidos, onde o cipreste-dos-pântanos forma extensos bosques em águas rasas e terrenos encharcados.",
@@ -1486,60 +1640,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Life in the slow lane. International Sloth Day",
-      "en-GB": "Life in the slow lane. International Sloth Day",
       "en-CA": "Life in the slow lane. International Sloth Day",
+      "en-GB": "Life in the slow lane. International Sloth Day",
       "de-DE": "Immer mit der Ruhe. Internationaler Tag des Faultiers",
       "fr-FR": "La vie au ralenti. Journée internationale du paresseux",
       "it-IT": "La lentezza come strategia",
@@ -1551,8 +1660,8 @@
     },
     "copyrights": {
       "en-US": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "en-GB": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
       "en-CA": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "en-GB": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
       "de-DE": "Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
       "fr-FR": "Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
       "it-IT": "Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
@@ -1564,8 +1673,8 @@
     },
     "descs": {
       "en-US": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on, and take your time.",
-      "en-GB": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
       "en-CA": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+      "en-GB": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
       "de-DE": "Am 20. Oktober ist Internationaler Tag des Faultiers. Das Braunkehl-Faultier aus den tropischen Wäldern Mittel- und Südamerikas zeigt eindrucksvoll, dass ein langsames Leben durchaus Vorteile haben kann. Auch rund um Puerto Viejo de Talamanca in Costa Rica findet es in den Baumkronen einen passenden Lebensraum.",
       "fr-FR": "Lentement mais sûrement… Le paresseux à gorge brune semble bien avoir renoncé à toute idée de course. À l’occasion de la Journée internationale du paresseux, ce mammifère à trois doigts nous souffle une autre façon d’avancer : économiser son énergie, s’accrocher et savourer le temps.",
       "es-ES": "Este perezoso de tres dedos, fotografiado en Puerto Viejo de Talamanca (Costa Rica), no es un animal perezoso: es un animal eficiente. Su dieta se basa en hojas, un alimento pobre en energía y difícil de digerir, así que ha resuelto el problema por el otro extremo, gastando lo mínimo. Se mueve despacio, duerme mucho y digiere durante días.",
@@ -1580,129 +1689,22 @@
     },
     "captions": {
       "en-US": "International Sloth Day",
-      "en-GB": "International Sloth Day",
-      "en-CA": "International Sloth Day",
-      "de-DE": "Internationaler Tag des Faultiers",
-      "fr-FR": "Journée internationale du paresseux",
-      "it-IT": "",
-      "es-ES": "Día Internacional del Perezoso",
-      "pt-BR": "",
-      "ja-JP": "木の枝にぶら下がるナマケモノ",
-      "zh-CN": "",
-      "en-IN": "International Sloth Day"
+      "en-CA": "International Sloth Day"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261020_0700%22",
-      "en-GB": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261019_2300%22",
-      "en-CA": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261020_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Internationaler+Tag+des+Faultiers&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+paresseux&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
-      "it-IT": "https://www.bing.com/search?q=bradipo+tridattilo&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Perezoso+de+tres+dedos&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+Internacional+da+Pregui%c3%a7a&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e4%bb%8a%e6%97%a5%e3%81%af%e5%9b%bd%e9%9a%9b%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%a2%e3%83%8e%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261019_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%a0%91%e6%87%92%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261019_1830%22"
+      "en-CA": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261020_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.BrownSloth_EN-US6816754257",
-      "en-GB": "/th?id=OHR.BrownSloth_EN-GB5100181368",
-      "en-CA": "/th?id=OHR.BrownSloth_EN-CA8530499250",
-      "de-DE": "/th?id=OHR.BrownSloth_DE-DE1394372620",
-      "fr-FR": "/th?id=OHR.BrownSloth_FR-FR7781895704",
-      "it-IT": "/th?id=OHR.BrownSloth_IT-IT3225849910",
-      "es-ES": "/th?id=OHR.BrownSloth_ES-ES6810824751",
-      "pt-BR": "/th?id=OHR.BrownSloth_PT-BR9878913953",
-      "ja-JP": "/th?id=OHR.BrownSloth_JA-JP2697515435",
-      "zh-CN": "/th?id=OHR.BrownSloth_ZH-CN5776383136",
-      "en-IN": "/th?id=OHR.BrownSloth_EN-IN7427775510"
+      "en-CA": "/th?id=OHR.BrownSloth_EN-CA8530499250"
     }
   },
-  "VeniceSunrise": {
-    "name": "VeniceSunrise",
-    "urlbase": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
-    "date": "20261019",
-    "dateFormatted": "October 19, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-US": "The road that runs on water. Grand Canal in Venice, Italy",
-      "en-CA": "The road that runs on water. Grand Canal in Venice, Italy",
-      "en-IN": "The road that runs on water. Grand Canal in Venice, Italy",
-      "en-GB": "The road that runs on water. Grand Canal in Venice, Italy",
-      "de-DE": "Die Straße, die übers Wasser führt. Canal Grande in Venedig, Italien",
-      "fr-FR": "Des routes qui éclaboussent. Le Grand Canal à Venise, Italie",
-      "it-IT": "L'alba sull'acqua",
-      "es-ES": "Amanecer sobre el agua. Amanecer sobre el Gran Canal, Venecia, Italia",
-      "pt-BR": "Quando a água vira caminho",
-      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
-      "zh-CN": "水上通衢"
-    },
-    "copyrights": {
-      "en-US": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
-      "en-CA": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
-      "en-IN": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
-      "en-GB": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
-      "de-DE": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
-      "fr-FR": "Le Grand Canal à Venise, Italie (© Juan Romero/Cavan Images)",
-      "it-IT": "Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)",
-      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia (© Juan Romero/Cavan Images)",
-      "pt-BR": "Grande Canal de Veneza, Itália (© Juan Romero/Cavan Images)",
-      "ja-JP": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
-      "zh-CN": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)"
-    },
-    "descs": {
-      "en-US": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "en-CA": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.8-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "en-GB": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-      "de-DE": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
-      "fr-FR": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
-      "es-ES": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
-      "ja-JP": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
-      "it-IT": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
-      "pt-BR": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
-      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。"
-    },
-    "quickFacts": {
-      "zh-CN": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
-    },
-    "captions": {
-      "en-US": "Grand Canal in Venice, Italy",
-      "en-CA": "Grand Canal in Venice, Italy",
-      "en-IN": "Grand Canal in Venice, Italy"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0400%22",
-      "en-IN": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261024_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
-      "en-CA": "/th?id=OHR.VeniceSunrise_EN-CA8133659672",
-      "en-IN": "/th?id=OHR.VeniceSunrise_EN-IN8305689376"
-    }
-  },
-  "HudsonBear": {
-    "name": "HudsonBear",
-    "urlbase": "/th?id=OHR.HudsonBear_EN-GB3657065728",
-    "date": "20261102",
-    "dateFormatted": "November 02, 2026",
+  "AlpineBraies": {
+    "name": "AlpineBraies",
+    "urlbase": "/th?id=OHR.AlpineBraies_EN-GB4055015386",
+    "date": "20261103",
+    "dateFormatted": "November 03, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1751,89 +1753,79 @@
       }
     ],
     "titles": {
-      "en-GB": "A future written in ice. Polar Bear Week",
-      "de-DE": "Eine Zukunft, geprägt vom Eis. Eisbären, Kanada",
-      "fr-FR": "Un avenir écrit dans la glace. Ours polaire au Canada",
-      "it-IT": "Un futuro scolpito nel ghiaccio",
-      "es-ES": "Un futuro escrito en hielo. Semana del Oso Polar",
-      "pt-BR": "O futuro sobre o gelo",
-      "ja-JP": "氷がつなぐ未来. ホッキョクグマ週間",
-      "zh-CN": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大",
-      "en-IN": "A future written in ice. Polar Bear Week",
-      "en-US": "A future written in ice. Polar bear and cubs by Hudson Bay, Manitoba, Canada",
-      "en-CA": "A future written in ice. Polar bear and cubs by Hudson Bay, Manitoba, Canada"
+      "en-GB": "Peace among the peaks. Lake Braies, Dolomites, Italy",
+      "de-DE": "Stille Gipfelwelten. Pragser Wildsee, Dolomiten, Italien",
+      "fr-FR": "La paix parmi les sommets. Lac de Braies, Dolomites, Italie",
+      "it-IT": "Pace in cima al mondo",
+      "es-ES": "Paz entre las cumbres. Lago de Braies, Dolomitas, Italia",
+      "pt-BR": "Paz entre as montanhas",
+      "ja-JP": "山々に抱かれた静けさ. ブライエス湖、ドロミテ、イタリア",
+      "zh-CN": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利",
+      "en-IN": "Peace among the peaks. Lake Braies, Dolomites, Italy",
+      "en-US": "Peace among the peaks. Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy",
+      "en-CA": "Peace among the peaks. Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy"
     },
     "copyrights": {
-      "en-GB": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-      "de-DE": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)",
-      "fr-FR": "Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-      "it-IT": "Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-      "es-ES": "Osa polar con sus cachorros cerca de la bahía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
-      "pt-BR": "Urso-polar e filhotes na Baía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
-      "ja-JP": "ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock)",
-      "zh-CN": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大 (© Danita Delimont/Adobe Stock)",
-      "en-IN": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-      "en-US": "© Danita Delimont/Adobe Stock",
-      "en-CA": "© Danita Delimont/Adobe Stock"
+      "en-GB": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+      "de-DE": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)",
+      "fr-FR": "Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images)",
+      "it-IT": "Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)",
+      "es-ES": "Lago Braies, Parque Natural Fanes‑Sennes‑Braies, Los Dolomitas, Italia (© leonid_tit/Getty Images)",
+      "pt-BR": "Lago di Braies, Parque Natural Fanes-Sennes-Braies, Dolomitas, Itália (© leonid_tit/Getty Images)",
+      "ja-JP": "ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images)",
+      "zh-CN": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)",
+      "en-IN": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+      "en-US": "© leonid_tit/Getty Images",
+      "en-CA": "© leonid_tit/Getty Images"
     },
     "descs": {
-      "en-GB": "While November might bring us a step closer to the festive season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
-      "de-DE": "Auch wenn uns der November der Weihnachtszeit einen Schritt näherbringt, haben Eisbären andere Pläne. Sie versammeln sich an den Ufern der Hudson Bay in Manitoba, Kanada, und warten darauf, dass sich Meereis bildet, damit sie wieder auf Robbenjagd gehen können.",
-      "fr-FR": "Si le mois de novembre nous rapproche un peu plus des fêtes de fin d’année, les ours polaires, eux, ont d’autres projets. Ils se rassemblent le long des rives de la baie d’Hudson, dans le Manitoba (Canada), en attendant que la banquise se forme pour pouvoir repartir chasser le phoque. Les ours polaires sont de puissants nageurs, des chasseurs hors pair et remarquablement adaptés à la vie dans l’un des environnements les plus hostiles de la planète. Pourtant, le recul de la banquise les oblige à passer plus de temps sur la terre ferme, ce qui rend la recherche de nourriture plus difficile et augmente le risque de rencontres avec les humains.",
-      "es-ES": "Aunque noviembre nos acerca un poco más a la época navideña, los osos polares tienen otros planes. Se reúnen en las costas de la bahía de Hudson, en Manitoba, Canadá, a la espera de que se forme el hielo marino para volver a salir en busca de focas. Este espectáculo anual inspiró la Semana del Oso Polar, que se celebra durante la primera semana de noviembre y rinde homenaje al mayor depredador terrestre del Ártico. Los osos polares son excelentes nadadores, hábiles cazadores y están extraordinariamente adaptados a la vida en uno de los entornos más extremos del planeta. Sin embargo, la reducción del hielo marino hace que muchos pasen más tiempo en tierra firme, lo que dificulta la búsqueda de alimento y aumenta el riesgo de encuentros con personas.",
-      "ja-JP": "カナダ・マニトバ州のハドソン湾沿岸では、ホッキョクグマたちが、海氷が張るのを待っています。海氷ができると、再び氷の上でアザラシを狩れるようになります。11月の第1週には「ホッキョクグマ週間」が行われます。泳ぎも狩りも得意な彼らは、地球上でも指折りの厳しい環境に適応して暮らしています。しかし、海氷の減少によって陸上で過ごす時間が長くなり、餌を確保しにくくなるなどの影響が出ています。写真に写っているのは、ハドソン湾近くで暮らす母グマと子グマたちです。この愛らしい親子の姿は、北極の美しい自然と、ホッキョクグマが生きるために欠かせない海氷を守る大切さを伝えています。",
-      "en-IN": "These polar bears are gathering along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
-      "en-US": "While November might bring us a step closer to the holiday season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters, and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
-      "en-CA": "November marks an important time for polar bears along the shores of Hudson Bay in Manitoba, where they gather and wait for sea ice to form before returning to hunt seals. This annual event is celebrated during Polar Bear Week, observed in early November. Polar bears are powerful swimmers and highly adapted to Arctic life, but shrinking sea ice is forcing many to spend more time on land, making it harder to find food. The mother and cubs seen in today's image represent generations of bears that have followed this seasonal cycle, highlighting both the beauty of the Arctic and the importance of protecting the habitat these iconic Canadian animals depend on.",
-      "it-IT": "Con l’arrivo di novembre, gli orsi polari si radunano lungo le coste della baia di Hudson, in Canada, in attesa che si formi il ghiaccio marino per tornare a caccia di foche. Abili nuotatori e formidabili predatori, sono perfettamente adattati a uno degli ambienti più estremi della Terra. La diminuzione delle banchise li costringe a trascorrere sempre più tempo sulla terraferma, dove aumenta la difficoltà nel trovare cibo ed il rischio di incontri con l’uomo. L’immagine ritrae una femmina con i suoi cuccioli nei pressi della baia di Hudson, dove gli orsi si radunano stagionalmente da generazioni.",
-      "pt-BR": "Novembro nos aproxima das festas de fim de ano, mas os ursos-polares têm outros planos. Eles se reúnem às margens da Baía de Hudson, em Manitoba, no Canadá, esperando que o gelo marinho se forme para voltar a caçar focas. Excelentes nadadores e caçadores habilidosos, os ursos-polares são muito bem adaptados à vida em um dos ambientes mais hostis da Terra. No entanto, a redução do gelo marinho faz com que muitos passem mais tempo em terra firme, dificultando a busca por alimento e aumentando o risco de encontros com pessoas.",
-      "zh-CN": "11月也许让我们离节日季又近了一步，但北极熊有别的打算。它们聚集在加拿大马尼托巴省的哈得孙湾沿岸，等待海冰形成，以便重返冰面捕猎海豹。每年上演的这一幕催生了在11月第一周举行的北极熊周，以庆祝北极地区体型最大的陆生捕食者。北极熊是游泳健将、捕猎高手，也极其适应地球上最严酷的环境之一。然而，海冰不断缩减，意味着许多北极熊不得不在陆地上待更久，觅食更加困难，与人类相遇的风险也随之上升。"
+      "en-GB": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
+      "de-DE": "Der Pragser Wildsee liegt auf fast 1.500 Metern Höhe in den Südtiroler Dolomiten. Umgeben von Wäldern und den imposanten Gipfeln des Naturparks Fanes-Sennes-Prags, ist der See für sein auffallend grün-blaues Wasser bekannt. Ein 3,5 Kilometer langer Wanderweg führt um das Ufer herum, aber der Wildsee lässt sich auch mit traditionellen Holzruderbooten erkunden. Der See ist zudem Ausgangspunkt für mehrere Bergwanderungen, darunter der berühmte Alta Via 1 Höhenweg der Dolomiten.",
+      "fr-FR": "Le lac de Braies se trouve à près de 1 500 mètres d'altitude dans les Dolomites du Tyrol du Sud, au nord de l'Italie. Entouré de forêts et des sommets spectaculaires du parc naturel de Fanes-Sennes-Braies, ce lac est réputé pour ses eaux d'un vert et d'un bleu saisissants. Un sentier de 3,5 kilomètres fait le tour de ses rives, tandis que des barques traditionnelles en bois permettent de profiter autrement du paysage. Le lac est également le point de départ de plusieurs randonnées en montagne, dont la célèbre Alta Via 1 des Dolomites qui parcoure 125 km dans les montagnes.",
+      "es-ES": "El lago de Braies se encuentra a casi 1,500 metros sobre el nivel del mar, en los Dolomitas del Tirol del Sur, al norte de Italia. Rodeado de bosques y de las imponentes cumbres del Parque Natural Fanes-Sennes-Braies, el lago destaca por sus intensas aguas verdes y azules. Un sendero de 3,5 kilómetros recorre sus orillas, mientras que las tradicionales barcas de remo de madera ofrecen otra forma de disfrutar del paisaje. El lago también es el punto de partida de varias rutas de montaña, incluida la famosa Alta Via 1 de los Dolomitas.",
+      "ja-JP": "イタリア北部、南チロル地方のドロミテにあるブライエス湖は、標高約1,500メートルに位置しています。ファネス・セネス・ブライエス自然公園の森と雄大な山々に囲まれ、緑と青が織りなす美しい湖面が魅力です。湖畔には約3.5キロメートルの遊歩道があり、伝統的な木造ボートに乗って景色を楽しむこともできます。また、ドロミテの有名なトレイル「アルタ・ヴィア1」をはじめ、さまざまなハイキングコースの出発点にもなっています。",
+      "en-IN": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
+      "en-US": "Tucked among the peaks of the Dolomites, Lake Braies sits nearly 5,000 feet above sea level in northern Italy. Its green and blue waters are framed by forest and the mountains of Fanes-Sennes-Braies Nature Park. Visitors can follow a two-mile trail around the shore or head out onto the water in one of the lake's traditional wooden rowboats. It's also a great place to begin exploring the surrounding mountains, with several hiking routes starting here, including the famous Alta Via 1.",
+      "en-CA": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
+      "it-IT": "Adagiato a quasi 1.500 metri di altitudine, nel cuore delle Dolomiti dell’Alto Adige, il lago di Braies è circondato dai boschi e dalle spettacolari vette del Parco Naturale Fanes-Senes-Braies. Famoso per le acque dalle intense sfumature di verde e blu, è costeggiato da un sentiero panoramico di 3,5 km. Il paesaggio può essere ammirato anche da una prospettiva diversa, a bordo di una delle tradizionali barche a remi di legno. Dal lago partono numerosi itinerari escursionistici, tra cui la celebre Alta Via 1 delle Dolomiti.",
+      "pt-BR": "O Lago di Braies fica a quase 1.500 metros acima do nível do mar, nas Dolomitas do Tirol do Sul, no norte da Itália. Cercado por florestas e pelos picos imponentes do Parque Natural Fanes-Sennes-Braies, o lago é conhecido por suas águas em tons intensos de verde e azul. Uma trilha de 3,5 quilômetros contorna suas margens, enquanto os tradicionais barcos de madeira a remo oferecem outra forma de apreciar a paisagem. O lago também é ponto de partida para várias caminhadas pelas montanhas, incluindo a famosa Alta Via 1 das Dolomitas.",
+      "zh-CN": "布莱埃斯湖坐落在意大利北部南蒂罗尔的多洛米蒂山脉，海拔近1500米。湖泊四周森林环绕，法内斯-塞内斯-布莱埃斯湖自然公园的壮丽群峰耸立其间，以动人的碧绿和湛蓝湖水闻名。一条3.5公里长的步道环绕湖岸，游客也可以乘坐传统木质划艇，从另一种视角欣赏风光。这里还是多条山间徒步路线的起点，包括多洛米蒂山脉著名的多洛米蒂高山步道1号。"
     },
     "quickFacts": {
-      "en-US": "In a single season, a polar bear may cover more than 620 miles while searching for food and suitable ice.",
-      "en-GB": "In a single season, a polar bear may cover more than 1,000 kilometres while searching for food and suitable ice.",
-      "en-CA": "In a single season, a polar bear may travel more than 1,000 kilometres in search of food and suitable sea ice.",
-      "de-DE": "In einer einzigen Saison kann ein Eisbär auf der Suche nach Nahrung und geeigneten Eisflächen mehr als 1.000 Kilometer zurücklegen.",
-      "fr-FR": "En une saison, un ours polaire peut parcourir plus de 1 000 km à la recherche de nourriture et de la banquise.",
-      "it-IT": "In una sola stagione, un orso polare può percorrere oltre 1.000 km alla ricerca di cibo e del ghiaccio ideale.",
-      "es-ES": "En una sola temporada, un oso polar puede recorrer más de 1,000 kilómetros en busca de alimento y hielo adecuado.",
-      "pt-BR": "Em uma única estação do ano, um urso-polar pode percorrer mais de 1.000 quilômetros em busca de alimento e de gelo em condições adequadas.",
-      "ja-JP": "ホッキョクグマは、餌を捕りやすく、生息に適した氷を求めて、1シーズンに1,000キロメートル以上移動することがあります。",
-      "zh-CN": "为了寻找食物和合适的海冰，北极熊在一个季节里可能跋涉超过620英里。",
-      "en-IN": "In a single season, a polar bear may cover more than 1,000 kilometres while searching for food and suitable ice."
+      "zh-CN": "布莱埃斯湖最深处达36米，平均水深约17米。"
     },
     "captions": {
-      "en-GB": "Polar Bear Week",
-      "de-DE": "Eisbären, Kanada",
-      "fr-FR": "Ours polaire au Canada",
+      "en-GB": "Lake Braies, Dolomites, Italy",
+      "de-DE": "Pragser Wildsee, Dolomiten, Italien",
+      "fr-FR": "Lac de Braies, Dolomites, Italie",
       "it-IT": "",
-      "es-ES": "Semana del Oso Polar",
+      "es-ES": "Lago de Braies, Dolomitas, Italia",
       "pt-BR": "",
-      "ja-JP": "ホッキョクグマ週間",
+      "ja-JP": "ブライエス湖、ドロミテ、イタリア",
       "zh-CN": "",
-      "en-IN": "Polar Bear Week"
+      "en-IN": "Lake Braies, Dolomites, Italy"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Eisb%c3%a4ren&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Orso+Polare&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Urso+polar&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220261101_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8c%97%e6%9e%81%e7%86%8a%e5%91%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261103_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Pragser+Wildsee+Dolomiten&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Lac+de+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Lago+di+Braies+Dolomiti&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lago+Braies+Dolomitas&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Lago+di+Braies+Dolomitas&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%82%a8%e3%82%b9%e6%b9%96+%e3%83%89%e3%83%ad%e3%83%9f%e3%83%86&form=hpcapt&filters=HpDate%3a%2220261102_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.HudsonBear_EN-GB3657065728",
-      "de-DE": "/th?id=OHR.HudsonBear_DE-DE3504338986",
-      "fr-FR": "/th?id=OHR.HudsonBear_FR-FR2767726453",
-      "it-IT": "/th?id=OHR.HudsonBear_IT-IT6232079426",
-      "es-ES": "/th?id=OHR.HudsonBear_ES-ES0469501883",
-      "pt-BR": "/th?id=OHR.HudsonBear_PT-BR1375226804",
-      "ja-JP": "/th?id=OHR.HudsonBear_JA-JP9155678647",
-      "zh-CN": "/th?id=OHR.HudsonBear_ZH-CN6630706907",
-      "en-IN": "/th?id=OHR.HudsonBear_EN-IN9299365522"
+      "en-GB": "/th?id=OHR.AlpineBraies_EN-GB4055015386",
+      "de-DE": "/th?id=OHR.AlpineBraies_DE-DE4176036164",
+      "fr-FR": "/th?id=OHR.AlpineBraies_FR-FR8651963330",
+      "it-IT": "/th?id=OHR.AlpineBraies_IT-IT4890299611",
+      "es-ES": "/th?id=OHR.AlpineBraies_ES-ES0997130535",
+      "pt-BR": "/th?id=OHR.AlpineBraies_PT-BR2922400118",
+      "ja-JP": "/th?id=OHR.AlpineBraies_JA-JP1334653956",
+      "zh-CN": "/th?id=OHR.AlpineBraies_ZH-CN7307997866",
+      "en-IN": "/th?id=OHR.AlpineBraies_EN-IN9491975263"
     }
   },
   "SchwarzwaldAutumn": {
@@ -2353,6 +2345,70 @@
     },
     "urlbases": {
       "ja-JP": "/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988"
+    }
+  },
+  "VeniceSunrise": {
+    "name": "VeniceSunrise",
+    "urlbase": "/th?id=OHR.VeniceSunrise_EN-IN8305689376",
+    "date": "20261024",
+    "dateFormatted": "October 24, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-US": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-CA": "The road that runs on water. Grand Canal in Venice, Italy",
+      "en-GB": "The road that runs on water. Grand Canal in Venice, Italy",
+      "de-DE": "Die Straße, die übers Wasser führt. Canal Grande in Venedig, Italien",
+      "fr-FR": "Des routes qui éclaboussent. Le Grand Canal à Venise, Italie",
+      "it-IT": "L'alba sull'acqua",
+      "es-ES": "Amanecer sobre el agua. Amanecer sobre el Gran Canal, Venecia, Italia",
+      "pt-BR": "Quando a água vira caminho",
+      "ja-JP": "夕焼けに染まるヴェネツィアの大運河",
+      "zh-CN": "水上通衢"
+    },
+    "copyrights": {
+      "en-IN": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "en-US": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "en-CA": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "en-GB": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+      "de-DE": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
+      "fr-FR": "Le Grand Canal à Venise, Italie (© Juan Romero/Cavan Images)",
+      "it-IT": "Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)",
+      "es-ES": "Amanecer sobre el Gran Canal, Venecia, Italia (© Juan Romero/Cavan Images)",
+      "pt-BR": "Grande Canal de Veneza, Itália (© Juan Romero/Cavan Images)",
+      "ja-JP": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
+      "zh-CN": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)"
+    },
+    "descs": {
+      "en-IN": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-US": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-CA": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.8-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "en-GB": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+      "de-DE": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
+      "fr-FR": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
+      "es-ES": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
+      "ja-JP": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
+      "it-IT": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
+      "pt-BR": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
+      "zh-CN": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。"
+    },
+    "quickFacts": {
+      "zh-CN": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
+    },
+    "captions": {
+      "en-IN": "Grand Canal in Venice, Italy"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261024_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.VeniceSunrise_EN-IN8305689376"
     }
   },
   "DolbadarnWales": {
