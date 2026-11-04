@@ -1,4 +1,148 @@
 {
+  "AlpineBraies": {
+    "name": "AlpineBraies",
+    "urlbase": "/th?id=OHR.AlpineBraies_EN-US6636326357",
+    "date": "20261103",
+    "dateFormatted": "November 03, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Peace among the peaks. Lake Braies, Dolomites, Italy",
+      "en-GB": "Peace among the peaks. Lake Braies, Dolomites, Italy",
+      "en-CA": "Peace among the peaks. Lake Braies, Dolomites, Italy",
+      "de-DE": "Stille Gipfelwelten. Pragser Wildsee, Dolomiten, Italien",
+      "fr-FR": "La paix parmi les sommets. Lac de Braies, Dolomites, Italie",
+      "it-IT": "Pace in cima al mondo",
+      "es-ES": "Paz entre las cumbres. Lago de Braies, Dolomitas, Italia",
+      "pt-BR": "Paz entre as montanhas",
+      "ja-JP": "山々に抱かれた静けさ. ブライエス湖、ドロミテ、イタリア",
+      "zh-CN": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利",
+      "en-IN": "Peace among the peaks. Lake Braies, Dolomites, Italy"
+    },
+    "copyrights": {
+      "en-US": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+      "en-GB": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+      "en-CA": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+      "de-DE": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)",
+      "fr-FR": "Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images)",
+      "it-IT": "Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)",
+      "es-ES": "Lago Braies, Parque Natural Fanes‑Sennes‑Braies, Los Dolomitas, Italia (© leonid_tit/Getty Images)",
+      "pt-BR": "Lago di Braies, Parque Natural Fanes-Sennes-Braies, Dolomitas, Itália (© leonid_tit/Getty Images)",
+      "ja-JP": "ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images)",
+      "zh-CN": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)",
+      "en-IN": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Tucked among the peaks of the Dolomites, Lake Braies sits nearly 5,000 feet above sea level in northern Italy. Its green and blue waters are framed by forest and the mountains of Fanes-Sennes-Braies Nature Park. Visitors can follow a two-mile trail around the shore or head out onto the water in one of the lake's traditional wooden rowboats. It's also a great place to begin exploring the surrounding mountains, with several hiking routes starting here, including the famous Alta Via 1.",
+      "en-GB": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
+      "en-CA": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
+      "de-DE": "Der Pragser Wildsee liegt auf fast 1.500 Metern Höhe in den Südtiroler Dolomiten. Umgeben von Wäldern und den imposanten Gipfeln des Naturparks Fanes-Sennes-Prags, ist der See für sein auffallend grün-blaues Wasser bekannt. Ein 3,5 Kilometer langer Wanderweg führt um das Ufer herum, aber der Wildsee lässt sich auch mit traditionellen Holzruderbooten erkunden. Der See ist zudem Ausgangspunkt für mehrere Bergwanderungen, darunter der berühmte Alta Via 1 Höhenweg der Dolomiten.",
+      "fr-FR": "Le lac de Braies se trouve à près de 1 500 mètres d'altitude dans les Dolomites du Tyrol du Sud, au nord de l'Italie. Entouré de forêts et des sommets spectaculaires du parc naturel de Fanes-Sennes-Braies, ce lac est réputé pour ses eaux d'un vert et d'un bleu saisissants. Un sentier de 3,5 kilomètres fait le tour de ses rives, tandis que des barques traditionnelles en bois permettent de profiter autrement du paysage. Le lac est également le point de départ de plusieurs randonnées en montagne, dont la célèbre Alta Via 1 des Dolomites qui parcoure 125 km dans les montagnes.",
+      "es-ES": "El lago de Braies se encuentra a casi 1,500 metros sobre el nivel del mar, en los Dolomitas del Tirol del Sur, al norte de Italia. Rodeado de bosques y de las imponentes cumbres del Parque Natural Fanes-Sennes-Braies, el lago destaca por sus intensas aguas verdes y azules. Un sendero de 3,5 kilómetros recorre sus orillas, mientras que las tradicionales barcas de remo de madera ofrecen otra forma de disfrutar del paisaje. El lago también es el punto de partida de varias rutas de montaña, incluida la famosa Alta Via 1 de los Dolomitas.",
+      "ja-JP": "イタリア北部、南チロル地方のドロミテにあるブライエス湖は、標高約1,500メートルに位置しています。ファネス・セネス・ブライエス自然公園の森と雄大な山々に囲まれ、緑と青が織りなす美しい湖面が魅力です。湖畔には約3.5キロメートルの遊歩道があり、伝統的な木造ボートに乗って景色を楽しむこともできます。また、ドロミテの有名なトレイル「アルタ・ヴィア1」をはじめ、さまざまなハイキングコースの出発点にもなっています。",
+      "en-IN": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
+      "it-IT": "Adagiato a quasi 1.500 metri di altitudine, nel cuore delle Dolomiti dell’Alto Adige, il lago di Braies è circondato dai boschi e dalle spettacolari vette del Parco Naturale Fanes-Senes-Braies. Famoso per le acque dalle intense sfumature di verde e blu, è costeggiato da un sentiero panoramico di 3,5 km. Il paesaggio può essere ammirato anche da una prospettiva diversa, a bordo di una delle tradizionali barche a remi di legno. Dal lago partono numerosi itinerari escursionistici, tra cui la celebre Alta Via 1 delle Dolomiti.",
+      "pt-BR": "O Lago di Braies fica a quase 1.500 metros acima do nível do mar, nas Dolomitas do Tirol do Sul, no norte da Itália. Cercado por florestas e pelos picos imponentes do Parque Natural Fanes-Sennes-Braies, o lago é conhecido por suas águas em tons intensos de verde e azul. Uma trilha de 3,5 quilômetros contorna suas margens, enquanto os tradicionais barcos de madeira a remo oferecem outra forma de apreciar a paisagem. O lago também é ponto de partida para várias caminhadas pelas montanhas, incluindo a famosa Alta Via 1 das Dolomitas.",
+      "zh-CN": "布莱埃斯湖坐落在意大利北部南蒂罗尔的多洛米蒂山脉，海拔近1500米。湖泊四周森林环绕，法内斯-塞内斯-布莱埃斯湖自然公园的壮丽群峰耸立其间，以动人的碧绿和湛蓝湖水闻名。一条3.5公里长的步道环绕湖岸，游客也可以乘坐传统木质划艇，从另一种视角欣赏风光。这里还是多条山间徒步路线的起点，包括多洛米蒂山脉著名的多洛米蒂高山步道1号。"
+    },
+    "quickFacts": {
+      "zh-CN": "布莱埃斯湖最深处达36米，平均水深约17米。"
+    },
+    "captions": {
+      "en-US": "Lake Braies, Dolomites, Italy",
+      "en-GB": "Lake Braies, Dolomites, Italy",
+      "en-CA": "Lake Braies, Dolomites, Italy",
+      "de-DE": "Pragser Wildsee, Dolomiten, Italien",
+      "fr-FR": "Lac de Braies, Dolomites, Italie",
+      "it-IT": "",
+      "es-ES": "Lago de Braies, Dolomitas, Italia",
+      "pt-BR": "",
+      "ja-JP": "ブライエス湖、ドロミテ、イタリア",
+      "zh-CN": "",
+      "en-IN": "Lake Braies, Dolomites, Italy"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261103_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261103_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261103_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Pragser+Wildsee+Dolomiten&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Lac+de+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Lago+di+Braies+Dolomiti&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lago+Braies+Dolomitas&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Lago+di+Braies+Dolomitas&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%82%a8%e3%82%b9%e6%b9%96+%e3%83%89%e3%83%ad%e3%83%9f%e3%83%86&form=hpcapt&filters=HpDate%3a%2220261102_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AlpineBraies_EN-US6636326357",
+      "en-GB": "/th?id=OHR.AlpineBraies_EN-GB4055015386",
+      "en-CA": "/th?id=OHR.AlpineBraies_EN-CA5888574678",
+      "de-DE": "/th?id=OHR.AlpineBraies_DE-DE4176036164",
+      "fr-FR": "/th?id=OHR.AlpineBraies_FR-FR8651963330",
+      "it-IT": "/th?id=OHR.AlpineBraies_IT-IT4890299611",
+      "es-ES": "/th?id=OHR.AlpineBraies_ES-ES0997130535",
+      "pt-BR": "/th?id=OHR.AlpineBraies_PT-BR2922400118",
+      "ja-JP": "/th?id=OHR.AlpineBraies_JA-JP1334653956",
+      "zh-CN": "/th?id=OHR.AlpineBraies_ZH-CN7307997866",
+      "en-IN": "/th?id=OHR.AlpineBraies_EN-IN9491975263"
+    }
+  },
   "HudsonBear": {
     "name": "HudsonBear",
     "urlbase": "/th?id=OHR.HudsonBear_EN-US0297833232",
@@ -689,7 +833,7 @@
       "es-ES": "Siglos sobre Bohemia. Castillo de Kunětická hora, Bohemia, Chequia",
       "pt-BR": "O melhor ponto de vista",
       "ja-JP": "夕暮れに佇む古城",
-      "zh-CN": "库涅季采山城堡，波希米亚，捷克",
+      "zh-CN": "历史守望之地",
       "en-IN": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia"
     },
     "copyrights": {
@@ -1496,60 +1640,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
-      "en-GB": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
       "en-CA": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
+      "en-GB": "Winging it over the river. Nguyen Hoang Bridge, Hue, Vietnam",
       "de-DE": "Über den Fluss fliegen. Nguyen-Hoang-Brücke, Huế, Vietnam",
       "fr-FR": "Vol au-dessus de la rivière. Pont Nguyen Hoang, Hué, Vietnam",
       "it-IT": "Un ponte appena nato",
@@ -1561,8 +1660,8 @@
     },
     "copyrights": {
       "en-US": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
-      "en-GB": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
       "en-CA": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+      "en-GB": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
       "de-DE": "Nguyen-Hoang-Brücke über den Parfümfluss, Huế, Vietnam (© VU PHAM VAN/Getty Images)",
       "fr-FR": "Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images)",
       "it-IT": "Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
@@ -1574,8 +1673,8 @@
     },
     "descs": {
       "en-US": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
-      "en-GB": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on 26 March 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
       "en-CA": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
+      "en-GB": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on 26 March 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
       "de-DE": "Die Nguyen-Hoang-Brücke schafft im Stadtbild von Huế, Vietnam, eine moderne Verbindung zwischen Vergangenheit und Gegenwart. Seit dem 26. März 2025 führt sie über den Parfümfluss und verbindet zeitgemäße Ingenieurskunst mit der Geschichte der ehemaligen Kaiserstadt. Ihr Entwurf trägt den Namen „Der Kranich mit Blick auf Thien Mu“ und ist von einer lokalen Legende sowie der nahe gelegenen Thien-Mu-Pagode inspiriert. Die Stahlbögen erinnern an die ausgebreiteten Flügel eines Kranichs, während die V-förmigen Pfeiler friedlich am Fluss versammelte Vögel darstellen.",
       "fr-FR": "À Hué, au Vietnam, passé et avenir se rejoignent au-dessus de la rivière des Parfums. Ouvert à la circulation le 26 mars 2025, le pont Nguyen Hoang redessine l’horizon de la ville. Son concept, « La grue tournée vers Thien Mu », s’inspire d’une légende locale et de la célèbre pagode voisine.",
       "es-ES": "El puente Nguyễn Hoàng cruza el río de los Perfumes en Hue (Vietnam), y es una incorporación muy reciente al paisaje: se abrió al tráfico en marzo de 2025. Mide 380 metros de largo y más de 40 de ancho, y su diseño es obra del finlandés Antti Karjalainen, especialista en puentes.",
@@ -1590,121 +1689,22 @@
     },
     "captions": {
       "en-US": "Nguyen Hoang Bridge, Hue, Vietnam",
-      "en-GB": "Nguyen Hoang Bridge, Hue, Vietnam",
-      "en-CA": "Nguyen Hoang Bridge, Hue, Vietnam",
-      "de-DE": "Nguyen-Hoang-Brücke, Huế, Vietnam",
-      "fr-FR": "Pont Nguyen Hoang, Hué, Vietnam",
-      "it-IT": "",
-      "es-ES": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam",
-      "pt-BR": "",
-      "ja-JP": "ライトアップされたアーチ橋",
-      "zh-CN": "",
-      "en-IN": "Nguyen Hoang Bridge, Hue, Vietnam"
+      "en-CA": "Nguyen Hoang Bridge, Hue, Vietnam"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261021_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261021_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Hu%e1%ba%bf&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
-      "fr-FR": "https://www.bing.com/search?q=Hu%c3%a9+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
-      "it-IT": "https://www.bing.com/search?q=fiume+dei+Profumi+Hue&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Hue%2c+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=hue+no+vietna&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b0%e3%82%a8%e3%83%b3%e3%83%bb%e3%83%9b%e3%82%a2%e3%83%b3%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220261020_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%b6%8a%e5%8d%97%e9%a1%ba%e5%8c%96%e5%b8%82&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261021_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.VietnamBridge_EN-US6907946681",
-      "en-GB": "/th?id=OHR.VietnamBridge_EN-GB5180652549",
-      "en-CA": "/th?id=OHR.VietnamBridge_EN-CA8865714729",
-      "de-DE": "/th?id=OHR.VietnamBridge_DE-DE1735618070",
-      "fr-FR": "/th?id=OHR.VietnamBridge_FR-FR7991423921",
-      "it-IT": "/th?id=OHR.VietnamBridge_IT-IT3479546401",
-      "es-ES": "/th?id=OHR.VietnamBridge_ES-ES2577546493",
-      "pt-BR": "/th?id=OHR.VietnamBridge_PT-BR8870725479",
-      "ja-JP": "/th?id=OHR.VietnamBridge_JA-JP2833280767",
-      "zh-CN": "/th?id=OHR.VietnamBridge_ZH-CN6134321119",
-      "en-IN": "/th?id=OHR.VietnamBridge_EN-IN7535392593"
+      "en-CA": "/th?id=OHR.VietnamBridge_EN-CA8865714729"
     }
   },
-  "BrownSloth": {
-    "name": "BrownSloth",
-    "urlbase": "/th?id=OHR.BrownSloth_EN-US6816754257",
-    "date": "20261020",
-    "dateFormatted": "October 20, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Life in the slow lane. International Sloth Day",
-      "en-CA": "Life in the slow lane. International Sloth Day",
-      "en-GB": "Life in the slow lane. International Sloth Day",
-      "de-DE": "Immer mit der Ruhe. Internationaler Tag des Faultiers",
-      "fr-FR": "La vie au ralenti. Journée internationale du paresseux",
-      "it-IT": "La lentezza come strategia",
-      "es-ES": "La lentitud como estrategia. Día Internacional del Perezoso",
-      "pt-BR": "Devagar se vai ao longe",
-      "ja-JP": "木の枝にぶら下がるナマケモノ",
-      "zh-CN": "慢节奏生活",
-      "en-IN": "Life in the slow lane. International Sloth Day"
-    },
-    "copyrights": {
-      "en-US": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "en-CA": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "en-GB": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "de-DE": "Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "fr-FR": "Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "it-IT": "Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "es-ES": "Perezoso de tres dedos de garganta marrón joven, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "pt-BR": "Preguiça-comum em Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-      "ja-JP": "木の枝にぶら下がるナマケモノ, コスタリカ (© Suzi Eszterhas/Minden Pictures)",
-      "zh-CN": "褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)",
-      "en-IN": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)"
-    },
-    "descs": {
-      "en-US": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on, and take your time.",
-      "en-CA": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
-      "en-GB": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
-      "de-DE": "Am 20. Oktober ist Internationaler Tag des Faultiers. Das Braunkehl-Faultier aus den tropischen Wäldern Mittel- und Südamerikas zeigt eindrucksvoll, dass ein langsames Leben durchaus Vorteile haben kann. Auch rund um Puerto Viejo de Talamanca in Costa Rica findet es in den Baumkronen einen passenden Lebensraum.",
-      "fr-FR": "Lentement mais sûrement… Le paresseux à gorge brune semble bien avoir renoncé à toute idée de course. À l’occasion de la Journée internationale du paresseux, ce mammifère à trois doigts nous souffle une autre façon d’avancer : économiser son énergie, s’accrocher et savourer le temps.",
-      "es-ES": "Este perezoso de tres dedos, fotografiado en Puerto Viejo de Talamanca (Costa Rica), no es un animal perezoso: es un animal eficiente. Su dieta se basa en hojas, un alimento pobre en energía y difícil de digerir, así que ha resuelto el problema por el otro extremo, gastando lo mínimo. Se mueve despacio, duerme mucho y digiere durante días.",
-      "ja-JP": "今日の画像は、ゆったりとした動作が特徴のナマケモノ。中南米の森林に生息し、生活のほとんどを樹上で過ごします。地上での動きはとても遅いものの、実は泳ぐのが得意という特徴があり、地上よりも数倍速く動くことが可能です。また、毛に藻が生えることがあるものの、その緑色が天敵から身を隠す保護色の役割を果たします。さらに、その毛には「ナマケモノガ」と呼ばれる蛾の仲間など、さまざまな生物も暮らしており、独自の「微小生態系」が形成されています。",
-      "en-IN": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
-      "it-IT": "Questo bradipo tridattilo, fotografato a Puerto Viejo de Talamanca (Costa Rica), non è un animale pigro: è un animale efficiente. La sua dieta si basa sulle foglie, un alimento povero di energia e difficile da digerire, così ha risolto il problema dall'altro capo, spendendo il minimo indispensabile. Si muove piano, dorme molto e digerisce per giorni.",
-      "pt-BR": "Quem disse que a vida precisa ser corrida? Segundo a preguiça, o segredo é se pendurar, economizar energia e deixar a pressa para os outros. No Dia Internacional da Preguiça, em 20 de outubro, vale conhecer a engenharia por trás desse estilo de vida deliberadamente lento.",
-      "zh-CN": "稳扎稳打才能赢得比赛——而褐喉三趾树懒似乎很乐意彻底放弃比赛。在国际树懒日，这种三趾哺乳动物为生存之道带来了另一番启示：保存能量，牢牢抓住，慢慢来。"
-    },
-    "quickFacts": {
-      "zh-CN": "褐喉三趾树懒每天可能睡15至18小时，通常只在夜间短暂活动。"
-    },
-    "captions": {
-      "en-US": "International Sloth Day",
-      "en-CA": "International Sloth Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261020_0700%22",
-      "en-CA": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261020_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.BrownSloth_EN-US6816754257",
-      "en-CA": "/th?id=OHR.BrownSloth_EN-CA8530499250"
-    }
-  },
-  "AlpineBraies": {
-    "name": "AlpineBraies",
-    "urlbase": "/th?id=OHR.AlpineBraies_EN-GB4055015386",
-    "date": "20261103",
-    "dateFormatted": "November 03, 2026",
+  "AutumnChina": {
+    "name": "AutumnChina",
+    "urlbase": "/th?id=OHR.AutumnChina_EN-GB4167994080",
+    "date": "20261104",
+    "dateFormatted": "November 04, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1753,79 +1753,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Peace among the peaks. Lake Braies, Dolomites, Italy",
-      "de-DE": "Stille Gipfelwelten. Pragser Wildsee, Dolomiten, Italien",
-      "fr-FR": "La paix parmi les sommets. Lac de Braies, Dolomites, Italie",
-      "it-IT": "Pace in cima al mondo",
-      "es-ES": "Paz entre las cumbres. Lago de Braies, Dolomitas, Italia",
-      "pt-BR": "Paz entre as montanhas",
-      "ja-JP": "山々に抱かれた静けさ. ブライエス湖、ドロミテ、イタリア",
-      "zh-CN": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利",
-      "en-IN": "Peace among the peaks. Lake Braies, Dolomites, Italy",
-      "en-US": "Peace among the peaks. Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy",
-      "en-CA": "Peace among the peaks. Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy"
+      "en-GB": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China",
+      "de-DE": "Paddeln durch ein Gemälde. Farbenfrohe Sumpfzypressen, Xuancheng, Anhui, China",
+      "fr-FR": "Glisser à travers une peinture. Cyprès chauves, Xuancheng, Anhui, Chine",
+      "it-IT": "In kayak tra i colori d’autunno",
+      "es-ES": "Remando en un bosque colorido. Coloridos cipreses calvos, Xuancheng, Anhui, China",
+      "pt-BR": "A floresta virou galeria",
+      "ja-JP": "秋色の森を水上散歩. 色鮮やかなラクウショウ、安徽省宣城市、中国",
+      "zh-CN": "五彩落羽杉间划船的人们，宣城，安徽省，中国",
+      "en-IN": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China",
+      "en-US": "Paddling a painted forest. People rowing among colorful bald cypress, Xuancheng, Anhui, China",
+      "en-CA": "Paddling a painted forest. People rowing among colourful bald cypress, Xuancheng, Anhui, China"
     },
     "copyrights": {
-      "en-GB": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
-      "de-DE": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)",
-      "fr-FR": "Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images)",
-      "it-IT": "Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)",
-      "es-ES": "Lago Braies, Parque Natural Fanes‑Sennes‑Braies, Los Dolomitas, Italia (© leonid_tit/Getty Images)",
-      "pt-BR": "Lago di Braies, Parque Natural Fanes-Sennes-Braies, Dolomitas, Itália (© leonid_tit/Getty Images)",
-      "ja-JP": "ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images)",
-      "zh-CN": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)",
-      "en-IN": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
-      "en-US": "© leonid_tit/Getty Images",
-      "en-CA": "© leonid_tit/Getty Images"
+      "en-GB": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "de-DE": "Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "fr-FR": "Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)",
+      "it-IT": "Una persona che rema tra colorati cipressi calvi, Xuancheng, Anhui, Cina (© Jackal Pan/Getty Images)",
+      "es-ES": "Personas remando entre coloridos cipreses calvos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "pt-BR": "Pessoas remando entre ciprestes-calvos coloridos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "ja-JP": "色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)",
+      "zh-CN": "五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)",
+      "en-IN": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "en-US": "© Jackal Pan/Getty Images",
+      "en-CA": "© Jackal Pan/Getty Images"
     },
     "descs": {
-      "en-GB": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
-      "de-DE": "Der Pragser Wildsee liegt auf fast 1.500 Metern Höhe in den Südtiroler Dolomiten. Umgeben von Wäldern und den imposanten Gipfeln des Naturparks Fanes-Sennes-Prags, ist der See für sein auffallend grün-blaues Wasser bekannt. Ein 3,5 Kilometer langer Wanderweg führt um das Ufer herum, aber der Wildsee lässt sich auch mit traditionellen Holzruderbooten erkunden. Der See ist zudem Ausgangspunkt für mehrere Bergwanderungen, darunter der berühmte Alta Via 1 Höhenweg der Dolomiten.",
-      "fr-FR": "Le lac de Braies se trouve à près de 1 500 mètres d'altitude dans les Dolomites du Tyrol du Sud, au nord de l'Italie. Entouré de forêts et des sommets spectaculaires du parc naturel de Fanes-Sennes-Braies, ce lac est réputé pour ses eaux d'un vert et d'un bleu saisissants. Un sentier de 3,5 kilomètres fait le tour de ses rives, tandis que des barques traditionnelles en bois permettent de profiter autrement du paysage. Le lac est également le point de départ de plusieurs randonnées en montagne, dont la célèbre Alta Via 1 des Dolomites qui parcoure 125 km dans les montagnes.",
-      "es-ES": "El lago de Braies se encuentra a casi 1,500 metros sobre el nivel del mar, en los Dolomitas del Tirol del Sur, al norte de Italia. Rodeado de bosques y de las imponentes cumbres del Parque Natural Fanes-Sennes-Braies, el lago destaca por sus intensas aguas verdes y azules. Un sendero de 3,5 kilómetros recorre sus orillas, mientras que las tradicionales barcas de remo de madera ofrecen otra forma de disfrutar del paisaje. El lago también es el punto de partida de varias rutas de montaña, incluida la famosa Alta Via 1 de los Dolomitas.",
-      "ja-JP": "イタリア北部、南チロル地方のドロミテにあるブライエス湖は、標高約1,500メートルに位置しています。ファネス・セネス・ブライエス自然公園の森と雄大な山々に囲まれ、緑と青が織りなす美しい湖面が魅力です。湖畔には約3.5キロメートルの遊歩道があり、伝統的な木造ボートに乗って景色を楽しむこともできます。また、ドロミテの有名なトレイル「アルタ・ヴィア1」をはじめ、さまざまなハイキングコースの出発点にもなっています。",
-      "en-IN": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
-      "en-US": "Tucked among the peaks of the Dolomites, Lake Braies sits nearly 5,000 feet above sea level in northern Italy. Its green and blue waters are framed by forest and the mountains of Fanes-Sennes-Braies Nature Park. Visitors can follow a two-mile trail around the shore or head out onto the water in one of the lake's traditional wooden rowboats. It's also a great place to begin exploring the surrounding mountains, with several hiking routes starting here, including the famous Alta Via 1.",
-      "en-CA": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
-      "it-IT": "Adagiato a quasi 1.500 metri di altitudine, nel cuore delle Dolomiti dell’Alto Adige, il lago di Braies è circondato dai boschi e dalle spettacolari vette del Parco Naturale Fanes-Senes-Braies. Famoso per le acque dalle intense sfumature di verde e blu, è costeggiato da un sentiero panoramico di 3,5 km. Il paesaggio può essere ammirato anche da una prospettiva diversa, a bordo di una delle tradizionali barche a remi di legno. Dal lago partono numerosi itinerari escursionistici, tra cui la celebre Alta Via 1 delle Dolomiti.",
-      "pt-BR": "O Lago di Braies fica a quase 1.500 metros acima do nível do mar, nas Dolomitas do Tirol do Sul, no norte da Itália. Cercado por florestas e pelos picos imponentes do Parque Natural Fanes-Sennes-Braies, o lago é conhecido por suas águas em tons intensos de verde e azul. Uma trilha de 3,5 quilômetros contorna suas margens, enquanto os tradicionais barcos de madeira a remo oferecem outra forma de apreciar a paisagem. O lago também é ponto de partida para várias caminhadas pelas montanhas, incluindo a famosa Alta Via 1 das Dolomitas.",
-      "zh-CN": "布莱埃斯湖坐落在意大利北部南蒂罗尔的多洛米蒂山脉，海拔近1500米。湖泊四周森林环绕，法内斯-塞内斯-布莱埃斯湖自然公园的壮丽群峰耸立其间，以动人的碧绿和湛蓝湖水闻名。一条3.5公里长的步道环绕湖岸，游客也可以乘坐传统木质划艇，从另一种视角欣赏风光。这里还是多条山间徒步路线的起点，包括多洛米蒂山脉著名的多洛米蒂高山步道1号。"
+      "en-GB": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
+      "de-DE": "In Xuancheng in der Provinz Anhui paddeln Menschen durch ein leuchtendes Labyrinth aus Sumpfzypressen, wo der Herbst die überfluteten Wälder in ein Farbenspiel aus Bernstein, Kupfer und tiefem Rost verwandelt. Die wissenschaftlich als „Taxodium distichum“ bezeichnete Sumpfzypresse ist unter den Nadelbäumen ungewöhnlich, da sie jeden Herbst ihre weichen, federartigen Nadeln abwirft, die sich vor dem Abfallen rotbraun färben.",
+      "fr-FR": "Dans ce labyrinthe lumineux de cyprès chauves à Xuancheng, dans la province de l'Anhui, l’automne métamorphose les zones boisées inondées en une mosaïque aux teintes ambre, cuivre et rouille profond. Le cyprès chauve se distingue des autres conifères par sa particularité de perdre ses aiguilles souples et plumeuses chaque automne. Celles-ci virent au brun rougeâtre avant de tomber.",
+      "es-ES": "En Xuancheng, Anhui, varias personas reman por un resplandeciente laberinto de cipreses calvos, donde el otoño transforma los bosques inundados en un mosaico de tonos ámbar, cobre y rojizos. Conocido científicamente como Taxodium distichum, el ciprés calvo es una conífera poco común, ya que cada otoño pierde sus suaves hojas en forma de aguja, que adquieren un tono marrón rojizo antes de caer. En Norteamérica, es conocido por prosperar en pantanos, llanuras aluviales y otros hábitats húmedos, donde suele desarrollar unas peculiares protuberancias de las raíces, conocidas como “rodillas”, que sobresalen del suelo y del agua.",
+      "ja-JP": "中国・安徽省宣城市では、秋になると水に浸かったラクウショウの森が、琥珀色や銅色、深いさび色に染まります。ラクウショウは針葉樹でありながら、秋に柔らかな葉が赤褐色に変わって落ちる珍しい木です。北米では湿地に育ち、地面や水面から「膝根」と呼ばれる呼吸根を突き出すことでも知られ、樹齢1,000年を超える木の記録もあります。晩秋には葉が燃えるような色に変わり、ボートでゆったり進むと、水面にその色がきらめいて、まるで生きた絵画のようです。",
+      "en-IN": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
+      "en-US": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper, and deep rust. Known scientifically as 'Taxodium distichum,' bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop. In North America, it is famous for thriving in swamps, floodplains, and other wet habitats, often developing knobby root projections called 'knees' that rise above the surrounding soil and water.",
+      "en-CA": "People paddle through flooded woodlands in Xuancheng, Anhui, where fall transforms bald cypress forests into a striking display of amber, copper and rust-coloured foliage. Unlike most conifers, bald cypress sheds its soft needles each fall after they turn reddish-brown. Native to North America, these trees thrive in wetlands, swamps and floodplains, often developing distinctive root \"knees\" that rise above the water. Some specimens have lived for more than 1,000 years. In late fall, the still water reflects the colourful canopy above, creating a remarkable landscape that highlights the bald cypress's natural connection to wetland environments.",
+      "it-IT": "A Xuancheng, nella provincia cinese dell’Anhui, è possibile attraversare in kayak un bosco di cipressi calvi che, in autunno, si tingono di tonalità ambrate, ramate e rossastre. Il cipresso calvo è una conifera insolita poiché i suoi morbidi aghi assumono colori intensi prima di cadere. Conosciuta scientificamente come “Taxodium distichum”, questa specie prospera negli ambienti paludosi, con esemplari che possono vivere per oltre 1.000 anni. Quando il “foliage” raggiunge il suo splendore, i colori si riflettono sulle acque tranquille e il bosco si trasforma in un vero e proprio dipinto vivente.",
+      "pt-BR": "Pessoas remam por um labirinto de ciprestes-calvos de cores vibrantes em Xuancheng, Anhui, onde o outono transforma a floresta alagada em um mosaico de tons de âmbar, cobre e ferrugem escuro. Conhecido cientificamente como Taxodium distichum, o cipreste-calvo é incomum entre as coníferas por perder suas folhas finas e macias, semelhantes a penas, a cada outono. Antes de cair, elas adquirem uma coloração marrom-avermelhada. Na América do Norte, a espécie é conhecida por prosperar em pântanos, planícies de inundação e outros ambientes úmidos, muitas vezes desenvolvendo projeções das raízes em forma de nódulos chamadas de “joelhos”, que se projetam acima do solo e da água ao redor.",
+      "zh-CN": "在安徽省宣城，人们划船穿过色彩斑斓的落羽杉林。秋天将这片被水淹没的林地变成由琥珀色、铜色和深铁锈色交织而成的锦绣景致。落羽杉的学名是“Taxodium distichum”，它在针叶树中颇为特别：每年秋季，柔软如羽毛的针叶会先变成红褐色，然后脱落。在北美洲，落羽杉因能生长在沼泽、河漫滩等湿地环境而闻名，常长出称为“膝状根”的瘤状根部突起，露出周围的泥土和水面。"
     },
     "quickFacts": {
-      "zh-CN": "布莱埃斯湖最深处达36米，平均水深约17米。"
+      "zh-CN": "落羽杉木材耐腐朽，历史上曾被用于制作木桶、铁路枕木和屋顶木瓦。"
     },
     "captions": {
-      "en-GB": "Lake Braies, Dolomites, Italy",
-      "de-DE": "Pragser Wildsee, Dolomiten, Italien",
-      "fr-FR": "Lac de Braies, Dolomites, Italie",
+      "en-GB": "Colourful bald cypress, Xuancheng, Anhui, China",
+      "de-DE": "Farbenfrohe Sumpfzypressen, Xuancheng, Anhui, China",
+      "fr-FR": "Cyprès chauves, Xuancheng, Anhui, Chine",
       "it-IT": "",
-      "es-ES": "Lago de Braies, Dolomitas, Italia",
+      "es-ES": "Coloridos cipreses calvos, Xuancheng, Anhui, China",
       "pt-BR": "",
-      "ja-JP": "ブライエス湖、ドロミテ、イタリア",
+      "ja-JP": "色鮮やかなラクウショウ、安徽省宣城市、中国",
       "zh-CN": "",
-      "en-IN": "Lake Braies, Dolomites, Italy"
+      "en-IN": "Colourful bald cypress, Xuancheng, Anhui, China"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261103_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Pragser+Wildsee+Dolomiten&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Lac+de+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Lago+di+Braies+Dolomiti&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lago+Braies+Dolomitas&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Lago+di+Braies+Dolomitas&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%82%a8%e3%82%b9%e6%b9%96+%e3%83%89%e3%83%ad%e3%83%9f%e3%83%86&form=hpcapt&filters=HpDate%3a%2220261102_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_1830%22"
+      "en-GB": "https://www.bing.com/search?q=bald+cypress&form=hpcapt&filters=HpDate%3a%2220261104_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Sumpfzypressen&form=hpcapt&filters=HpDate%3a%2220261103_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=cypr%c3%a8s+chauve&form=hpcapt&filters=HpDate%3a%2220261103_2300%22",
+      "it-IT": "https://www.bing.com/search?q=cipressi+calvi&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=cipreses+calvos&form=hpcapt&filters=HpDate%3a%2220261103_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=cipreste-calvo&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a9%e3%82%af%e3%82%a6%e3%82%b7%e3%83%a7%e3%82%a6&form=hpcapt&filters=HpDate%3a%2220261103_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%90%bd%e7%be%bd%e6%9d%89&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=bald+cypress&form=hpcapt&filters=HpDate%3a%2220261103_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.AlpineBraies_EN-GB4055015386",
-      "de-DE": "/th?id=OHR.AlpineBraies_DE-DE4176036164",
-      "fr-FR": "/th?id=OHR.AlpineBraies_FR-FR8651963330",
-      "it-IT": "/th?id=OHR.AlpineBraies_IT-IT4890299611",
-      "es-ES": "/th?id=OHR.AlpineBraies_ES-ES0997130535",
-      "pt-BR": "/th?id=OHR.AlpineBraies_PT-BR2922400118",
-      "ja-JP": "/th?id=OHR.AlpineBraies_JA-JP1334653956",
-      "zh-CN": "/th?id=OHR.AlpineBraies_ZH-CN7307997866",
-      "en-IN": "/th?id=OHR.AlpineBraies_EN-IN9491975263"
+      "en-GB": "/th?id=OHR.AutumnChina_EN-GB4167994080",
+      "de-DE": "/th?id=OHR.AutumnChina_DE-DE5410503674",
+      "fr-FR": "/th?id=OHR.AutumnChina_FR-FR8803814320",
+      "it-IT": "/th?id=OHR.AutumnChina_IT-IT6649354105",
+      "es-ES": "/th?id=OHR.AutumnChina_ES-ES1074193696",
+      "pt-BR": "/th?id=OHR.AutumnChina_PT-BR3147584224",
+      "ja-JP": "/th?id=OHR.AutumnChina_JA-JP2275105446",
+      "zh-CN": "/th?id=OHR.AutumnChina_ZH-CN7665959692",
+      "en-IN": "/th?id=OHR.AutumnChina_EN-IN9898936239"
     }
   },
   "SchwarzwaldAutumn": {
@@ -2409,6 +2409,78 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.VeniceSunrise_EN-IN8305689376"
+    }
+  },
+  "BrownSloth": {
+    "name": "BrownSloth",
+    "urlbase": "/th?id=OHR.BrownSloth_EN-US6816754257",
+    "date": "20261020",
+    "dateFormatted": "October 20, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Life in the slow lane. International Sloth Day",
+      "en-CA": "Life in the slow lane. International Sloth Day",
+      "en-GB": "Life in the slow lane. International Sloth Day",
+      "de-DE": "Immer mit der Ruhe. Internationaler Tag des Faultiers",
+      "fr-FR": "La vie au ralenti. Journée internationale du paresseux",
+      "it-IT": "La lentezza come strategia",
+      "es-ES": "La lentitud como estrategia. Día Internacional del Perezoso",
+      "pt-BR": "Devagar se vai ao longe",
+      "ja-JP": "木の枝にぶら下がるナマケモノ",
+      "zh-CN": "慢节奏生活",
+      "en-IN": "Life in the slow lane. International Sloth Day"
+    },
+    "copyrights": {
+      "en-US": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "en-CA": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "en-GB": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "de-DE": "Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "fr-FR": "Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "it-IT": "Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "es-ES": "Perezoso de tres dedos de garganta marrón joven, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "pt-BR": "Preguiça-comum em Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+      "ja-JP": "木の枝にぶら下がるナマケモノ, コスタリカ (© Suzi Eszterhas/Minden Pictures)",
+      "zh-CN": "褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)",
+      "en-IN": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on, and take your time.",
+      "en-CA": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+      "en-GB": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+      "de-DE": "Am 20. Oktober ist Internationaler Tag des Faultiers. Das Braunkehl-Faultier aus den tropischen Wäldern Mittel- und Südamerikas zeigt eindrucksvoll, dass ein langsames Leben durchaus Vorteile haben kann. Auch rund um Puerto Viejo de Talamanca in Costa Rica findet es in den Baumkronen einen passenden Lebensraum.",
+      "fr-FR": "Lentement mais sûrement… Le paresseux à gorge brune semble bien avoir renoncé à toute idée de course. À l’occasion de la Journée internationale du paresseux, ce mammifère à trois doigts nous souffle une autre façon d’avancer : économiser son énergie, s’accrocher et savourer le temps.",
+      "es-ES": "Este perezoso de tres dedos, fotografiado en Puerto Viejo de Talamanca (Costa Rica), no es un animal perezoso: es un animal eficiente. Su dieta se basa en hojas, un alimento pobre en energía y difícil de digerir, así que ha resuelto el problema por el otro extremo, gastando lo mínimo. Se mueve despacio, duerme mucho y digiere durante días.",
+      "ja-JP": "今日の画像は、ゆったりとした動作が特徴のナマケモノ。中南米の森林に生息し、生活のほとんどを樹上で過ごします。地上での動きはとても遅いものの、実は泳ぐのが得意という特徴があり、地上よりも数倍速く動くことが可能です。また、毛に藻が生えることがあるものの、その緑色が天敵から身を隠す保護色の役割を果たします。さらに、その毛には「ナマケモノガ」と呼ばれる蛾の仲間など、さまざまな生物も暮らしており、独自の「微小生態系」が形成されています。",
+      "en-IN": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+      "it-IT": "Questo bradipo tridattilo, fotografato a Puerto Viejo de Talamanca (Costa Rica), non è un animale pigro: è un animale efficiente. La sua dieta si basa sulle foglie, un alimento povero di energia e difficile da digerire, così ha risolto il problema dall'altro capo, spendendo il minimo indispensabile. Si muove piano, dorme molto e digerisce per giorni.",
+      "pt-BR": "Quem disse que a vida precisa ser corrida? Segundo a preguiça, o segredo é se pendurar, economizar energia e deixar a pressa para os outros. No Dia Internacional da Preguiça, em 20 de outubro, vale conhecer a engenharia por trás desse estilo de vida deliberadamente lento.",
+      "zh-CN": "稳扎稳打才能赢得比赛——而褐喉三趾树懒似乎很乐意彻底放弃比赛。在国际树懒日，这种三趾哺乳动物为生存之道带来了另一番启示：保存能量，牢牢抓住，慢慢来。"
+    },
+    "quickFacts": {
+      "zh-CN": "褐喉三趾树懒每天可能睡15至18小时，通常只在夜间短暂活动。"
+    },
+    "captions": {
+      "en-US": "International Sloth Day",
+      "en-CA": "International Sloth Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261020_0700%22",
+      "en-CA": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261020_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BrownSloth_EN-US6816754257",
+      "en-CA": "/th?id=OHR.BrownSloth_EN-CA8530499250"
     }
   },
   "DolbadarnWales": {
