@@ -1,4 +1,137 @@
 {
+  "StileCrossing": {
+    "name": "StileCrossing",
+    "urlbase": "/th?id=OHR.StileCrossing_EN-US9052435517",
+    "date": "20261105",
+    "dateFormatted": "November 05, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "One step closer to the summit. Black Crag, Lake District, England",
+      "en-CA": "One step closer to the summit. Black Crag, Lake District, England",
+      "de-DE": "Ein Schritt näher am Gipfel. Black Crag, Lake District, England",
+      "fr-FR": "Un pas de plus vers le sommet. Black Crag, Lake District, Angleterre",
+      "it-IT": "Un passo alla volta",
+      "es-ES": "Un paso más cerca de la cumbre. Black Crag, Distrito de los Lagos, Inglaterra",
+      "pt-BR": "Falta muito pro topo?",
+      "ja-JP": "山頂へ、もう一歩. ブラック・クラッグ、湖水地方、イギリス",
+      "zh-CN": "石墙边的木制翻越梯，黑岩，湖区，英格兰",
+      "en-IN": "One step closer to the summit. Black Crag, Lake District, England"
+    },
+    "copyrights": {
+      "en-US": "Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
+      "en-CA": "Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
+      "de-DE": "Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
+      "fr-FR": "Échelle près d'un mur de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images)",
+      "it-IT": "Una scaletta appoggiata ad un muro di pietra, Black Crag, Lake District, Inghilterra (© Alex Treadway/Getty Images)",
+      "es-ES": "Escalera de madera, Black Crag, Distrito de los Lagos, Inglaterra (© Alex Treadway/Getty Images)",
+      "pt-BR": "Escada de madeira sobre um muro de pedra, Black Crag, Lake District, Inglaterra (© Alex Treadway/Getty Images)",
+      "ja-JP": "石垣に設けられた木製の踏み越し段、ブラック・クラッグ、湖水地方、イギリス (© Alex Treadway/Getty Images)",
+      "zh-CN": "石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)",
+      "en-IN": "Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)"
+    },
+    "descs": {
+      "en-US": "A simple wooden stile leads into one of England's most celebrated landscapes. The Lake District, a UNESCO World Heritage Site, is a patchwork of shimmering lakes, rugged fells, and centuries-old stone walls, all shaped by both nature and farming traditions.",
+      "en-CA": "A simple wooden gate opens onto the Lake District, a UNESCO World Heritage Site in north-west England known for its lakes, rolling hills and centuries-old stone walls. This path leads toward Black Crag, the summit of Black Fell, which rises to about 323 metres and offers impressive views of Windermere, Coniston Water, and the Langdale Pikes. The route passes Tarn Hows, one of the region's most scenic spots, before climbing through a landscape shaped by nature and farming traditions. Some trails also follow Tom Gill, where woodland paths run alongside cascading waterfalls in this picturesque corner of Cumbria.",
+      "de-DE": "Ein einfacher Holzsteg führt in eine der berühmtesten Landschaften Englands. Der Lake District, ein UNESCO-Weltkulturerbe, ist ein Flickenteppich aus schimmernden Seen, schroffen Hügeln und jahrhundertealten Steinmauern.",
+      "fr-FR": "Une simple échelle en bois mène à l’un des paysages les plus connus d’Angleterre. Le Lake District, classé au patrimoine mondial de l’UNESCO, est une mosaïque de lacs scintillants, de collines escarpées, de cascades et de murs de pierre séculaires, le tout façonné à la fois par la nature et par les traditions agricoles.",
+      "es-ES": "Un sencillo paso de madera conduce a uno de los paisajes más emblemáticos de Inglaterra. El Distrito de los Lagos, declarado Patrimonio de la Humanidad por la UNESCO, forma un mosaico de lagos resplandecientes, colinas escarpadas y muros de piedra centenarios, moldeado tanto por la naturaleza como por siglos de tradición agrícola.",
+      "ja-JP": "木製の踏み越し段の先に広がるのは、ユネスコ世界遺産に登録されたイングランド屈指の景勝地、湖水地方です。ブラック・フェルの岩山の山頂「ブラック・クラッグ」は、標高約323メートルとそれほど高くはありませんが、ウィンダミア湖やコニストン・ウォーター、ラングデール・パイクスを見渡せる絶景スポットです。風光明媚なターン・ハウズをめぐって山頂を目指すルートのほか、トム・ギル経由なら森の中を流れ落ちる滝にも出会えます。",
+      "en-IN": "A simple wooden stile leads into one of England's most celebrated landscapes. The Lake District, a UNESCO World Heritage Site, is a patchwork of shimmering lakes, rugged fells and centuries-old stone walls, all shaped by both nature and farming traditions.",
+      "it-IT": "Una semplice scaletta in legno introduce ad uno dei paesaggi più celebri d’Inghilterra: il Lake District, Patrimonio dell’Umanità UNESCO, tra laghi, rilievi scoscesi e antichi muretti di pietra. Il sentiero conduce verso Black Fell e la sua cima rocciosa, Black Crag, a 323 metri di altitudine. Dalla vetta, la vista spazia a perdita d’occhio sui laghi Windermere e Coniston, con le Langdale Pikes a farne da cornice. L’itinerario costeggia anche Tarn Hows, uno degli angoli più suggestivi della regione, regalando a ogni passo panorami mozzafiato e un’autentica sensazione di avventura.",
+      "pt-BR": "Uma simples escada de madeira para transpor um muro dá acesso a uma das paisagens mais famosas da Inglaterra. O Lake District, reconhecido como Patrimônio Mundial pela UNESCO, é um mosaico de lagos cintilantes, elevações de relevo acidentado e muros de pedra centenários, moldado tanto pela natureza quanto pelas tradições agrícolas.",
+      "zh-CN": "一座简朴的木制翻越梯，将人们引向英格兰最负盛名的风景区之一。被列为联合国教科文组织世界遗产的湖区，湖泊波光粼粼，山丘崎岖起伏，古老的石墙纵横其间；自然力量与世代相传的农耕传统共同塑造了这片景观。"
+    },
+    "quickFacts": {
+      "zh-CN": "英格兰湖区于2017年被列入联合国教科文组织世界遗产名录，其独特的文化景观由此获得认可。"
+    },
+    "captions": {
+      "en-US": "Black Crag, Lake District, England",
+      "en-CA": "Black Crag, Lake District, England",
+      "de-DE": "Black Crag, Lake District, England",
+      "fr-FR": "Black Crag, Lake District, Angleterre",
+      "it-IT": "",
+      "es-ES": "Black Crag, Distrito de los Lagos, Inglaterra",
+      "pt-BR": "",
+      "ja-JP": "ブラック・クラッグ、湖水地方、イギリス",
+      "zh-CN": "",
+      "en-IN": "Black Crag, Lake District, England"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261105_0800%22",
+      "en-CA": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261105_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Lake+District+Vereinigtes+K%c3%b6nigreich&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Lake+District+Inghilterra&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e6%b9%96%e6%b0%b4%e5%9c%b0%e6%96%b9&form=hpcapt&filters=HpDate%3a%2220261104_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e6%b9%96%e5%8c%ba&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261104_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.StileCrossing_EN-US9052435517",
+      "en-CA": "/th?id=OHR.StileCrossing_EN-CA6257654888",
+      "de-DE": "/th?id=OHR.StileCrossing_DE-DE6131632165",
+      "fr-FR": "/th?id=OHR.StileCrossing_FR-FR8951232534",
+      "it-IT": "/th?id=OHR.StileCrossing_IT-IT7249235484",
+      "es-ES": "/th?id=OHR.StileCrossing_ES-ES1149628904",
+      "pt-BR": "/th?id=OHR.StileCrossing_PT-BR3493884309",
+      "ja-JP": "/th?id=OHR.StileCrossing_JA-JP3443452365",
+      "zh-CN": "/th?id=OHR.StileCrossing_ZH-CN9811465935",
+      "en-IN": "/th?id=OHR.StileCrossing_EN-IN0635462552"
+    }
+  },
   "AutumnChina": {
     "name": "AutumnChina",
     "urlbase": "/th?id=OHR.AutumnChina_EN-US0467722422",
@@ -689,7 +822,7 @@
       "es-ES": "Hora de levantar el vuelo. Grullas canadienses, Nuevo México, Estados Unidos",
       "pt-BR": "É tempo de levantar voo",
       "ja-JP": "大空へ羽ばたく. カナダヅル、ニューメキシコ州、アメリカ",
-      "zh-CN": "沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国",
+      "zh-CN": "展翅高飞的时节",
       "en-IN": "Time to fly high. Sandhill cranes, New Mexico, USA"
     },
     "copyrights": {
@@ -1511,19 +1644,98 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
       },
       {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "en-US": "Partners in the wild. Wolf Awareness Week",
+      "en-CA": "Partners in the wild. Wolf Awareness Week",
+      "ja-JP": "冬の大地を進むオオカミたち",
+      "en-GB": "Partners in the wild. Wolf Awareness Week",
+      "de-DE": "Partner in freier Wildbahn. Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
+      "it-IT": "La vita nel branco",
+      "es-ES": "La vida en manada. Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+      "pt-BR": "Lobo solitário? Nada disso",
+      "zh-CN": "荒野伙伴",
+      "en-IN": "Partners in the wild. Wolf Awareness Week"
+    },
+    "copyrights": {
+      "en-US": "Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)",
+      "en-CA": "Two grey wolves Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
+      "ja-JP": "ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images)",
+      "en-GB": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
+      "de-DE": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
+      "it-IT": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
+      "es-ES": "Dos lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© John Morrison/Getty Images)",
+      "pt-BR": "Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA (© John Morrison/Getty Images)",
+      "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)",
+      "en-IN": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Two gray wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+      "en-CA": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+      "ja-JP": "今日の画像は、米国ワイオミング州のイエローストーン国立公園内を歩く 2 頭のハイイロオオカミです。ユーラシア大陸と北米に広く生息しており、分厚い毛皮によって厳しい冬の寒さにも耐えることができます。家族単位の群れ（パック）で生活し、協力して狩りや子育て、縄張りの防衛を行います。20 世紀初頭に、イエローストーン国立公園からは一度姿を消しましたが、1995 年に再導入が開始されました。現在公園は、野生のハイイロオオカミを観察できる世界有数の場所として知られています。",
+      "en-GB": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+      "de-DE": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft.",
+      "es-ES": "Dos lobos grises cruzan el matorral del Parque Nacional de Yellowstone, en Wyoming (Estados Unidos), donde viven algunas de las manadas mejor estudiadas del mundo. Y esa palabra, manada, describe en realidad una familia: un grupo emparentado que caza en equipo, defiende su territorio y saca adelante a las crías del año. Su pelaje denso les permite aguantar inviernos extremos, y su oído y su olfato los convierten en cazadores extraordinarios.",
+      "en-IN": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+      "it-IT": "Due lupi grigi attraversano la boscaglia del Parco nazionale di Yellowstone, nel Wyoming (Stati Uniti), dove vivono alcuni dei branchi più studiati al mondo. E quella parola, branco, descrive in realtà una famiglia: un gruppo di parenti che caccia in squadra, difende il territorio e alleva insieme i cuccioli dell'anno.",
+      "pt-BR": "Quem vê esses dois lobos‑cinzentos no Parque Nacional de Yellowstone talvez nem imagine que seus antepassados foram expulsos dali. Nos Estados Unidos, a perseguição aos grandes predadores levou à eliminação dos lobos na região no início do século XX. Então, em 1995, eles começaram a voltar, reintroduzidos como parte de um dos mais conhecidos projetos de conservação do mundo.",
+      "zh-CN": "两只灰狼穿行在怀俄明州黄石国家公园的山艾灌丛中，这里生活着北美洲一些最受密切关注的狼群。厚实的皮毛帮助它们抵御严冬，敏锐的感官则使它们成为技艺高超的猎手和交流者。"
+    },
+    "quickFacts": {
+      "en-US": "Gray wolves can communicate through howls, body language, scent marking, and a range of vocalizations, including barks, whines, and growls.",
+      "en-GB": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls.",
+      "en-CA": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls.",
+      "de-DE": "Wölfe können durch Heulen, Körpersprache, Duftmarkierungen und eine Reihe von Lautäußerungen kommunizieren, darunter Bellen, Winseln und Knurren.",
+      "it-IT": "I lupi grigi comunicano con ululati, linguaggio del corpo, marcature odorose e un repertorio di suoni che comprende latrati, guaiti e ringhi.",
+      "es-ES": "Los lobos grises se comunican con aullidos, lenguaje corporal, marcas de olor y un repertorio de sonidos que incluye ladridos, gemidos y gruñidos.",
+      "zh-CN": "灰狼可以通过嚎叫、肢体语言、气味标记以及多种发声方式进行交流，包括吠叫、呜咽和低吼。",
+      "en-IN": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls."
+    },
+    "captions": {
+      "en-US": "Wolf Awareness Week",
+      "en-CA": "Wolf Awareness Week",
+      "ja-JP": "冬の大地を進むオオカミたち"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0400%22",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%82%a4%e3%82%a4%e3%83%ad%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220261024_1500%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.YellowstoneWolves_EN-US7105521535",
+      "en-CA": "/th?id=OHR.YellowstoneWolves_EN-CA9692259331",
+      "ja-JP": "/th?id=OHR.YellowstoneWolves_JA-JP3378091323"
+    }
+  },
+  "PipiwaiTrail": {
+    "name": "PipiwaiTrail",
+    "urlbase": "/th?id=OHR.PipiwaiTrail_EN-GB4651327269",
+    "date": "20261106",
+    "dateFormatted": "November 06, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
         "code": "de-DE",
         "name": "DE",
         "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
       },
       {
         "code": "it-IT",
@@ -1557,155 +1769,79 @@
       }
     ],
     "titles": {
-      "en-US": "Partners in the wild. Wolf Awareness Week",
-      "en-GB": "Partners in the wild. Wolf Awareness Week",
-      "en-CA": "Partners in the wild. Wolf Awareness Week",
-      "de-DE": "Partner in freier Wildbahn. Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
-      "it-IT": "La vita nel branco",
-      "es-ES": "La vida en manada. Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
-      "pt-BR": "Lobo solitário? Nada disso",
-      "ja-JP": "冬の大地を進むオオカミたち",
-      "zh-CN": "荒野伙伴",
-      "en-IN": "Partners in the wild. Wolf Awareness Week"
+      "en-GB": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii",
+      "de-DE": "Ein grüner Tunnel durch Maui. Bambuswald, Haleakalā-Nationalpark, Maui, Hawaii",
+      "fr-FR": "Toit de verdure à travers Maui. Parc national de Haleakalā, Maui, Hawaii",
+      "it-IT": "Un tunnel verde nel cuore di Maui",
+      "es-ES": "Un túnel verde que atraviesa Maui. Bosque de bambú, Parque Nacional Haleakalā, Maui, Hawái",
+      "pt-BR": "O portal verde de Maui",
+      "ja-JP": "マウイ島を抜ける緑のトンネル. 竹林、ハレアカラ国立公園、マウイ島、ハワイ",
+      "zh-CN": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国",
+      "en-IN": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii",
+      "en-US": "A green tunnel through Maui. Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii",
+      "en-CA": "A green tunnel through Maui. Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA"
     },
     "copyrights": {
-      "en-US": "Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)",
-      "en-GB": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
-      "en-CA": "Two grey wolves Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
-      "de-DE": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
-      "it-IT": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
-      "es-ES": "Dos lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© John Morrison/Getty Images)",
-      "pt-BR": "Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA (© John Morrison/Getty Images)",
-      "ja-JP": "ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images)",
-      "zh-CN": "两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)",
-      "en-IN": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)"
+      "en-GB": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+      "de-DE": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+      "fr-FR": "Forêt de bambous, Pīpīwai Trail, Hawaii, États-Unis (© MNStudio/Getty Images)",
+      "it-IT": "Foresta di Bambù, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+      "es-ES": "Bosque de Bambú, Sendero Pīpīwai, Parque Nacional Haleakalā, Maui, Hawái, EE. UU. (© MNStudio/Getty Images)",
+      "pt-BR": "Floresta de bambu, Trilha Pīpīwai, Parque Nacional de Haleakalā, Maui, Havaí, Estados Unidos (© MNStudio/Getty Images)",
+      "ja-JP": "ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images)",
+      "zh-CN": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)",
+      "en-IN": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+      "en-US": "© MNStudio/Getty Images",
+      "en-CA": "© MNStudio/Getty Images"
     },
     "descs": {
-      "en-US": "Two gray wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
-      "en-GB": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
-      "en-CA": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
-      "de-DE": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft.",
-      "es-ES": "Dos lobos grises cruzan el matorral del Parque Nacional de Yellowstone, en Wyoming (Estados Unidos), donde viven algunas de las manadas mejor estudiadas del mundo. Y esa palabra, manada, describe en realidad una familia: un grupo emparentado que caza en equipo, defiende su territorio y saca adelante a las crías del año. Su pelaje denso les permite aguantar inviernos extremos, y su oído y su olfato los convierten en cazadores extraordinarios.",
-      "ja-JP": "今日の画像は、米国ワイオミング州のイエローストーン国立公園内を歩く 2 頭のハイイロオオカミです。ユーラシア大陸と北米に広く生息しており、分厚い毛皮によって厳しい冬の寒さにも耐えることができます。家族単位の群れ（パック）で生活し、協力して狩りや子育て、縄張りの防衛を行います。20 世紀初頭に、イエローストーン国立公園からは一度姿を消しましたが、1995 年に再導入が開始されました。現在公園は、野生のハイイロオオカミを観察できる世界有数の場所として知られています。",
-      "en-IN": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
-      "it-IT": "Due lupi grigi attraversano la boscaglia del Parco nazionale di Yellowstone, nel Wyoming (Stati Uniti), dove vivono alcuni dei branchi più studiati al mondo. E quella parola, branco, descrive in realtà una famiglia: un gruppo di parenti che caccia in squadra, difende il territorio e alleva insieme i cuccioli dell'anno.",
-      "pt-BR": "Quem vê esses dois lobos‑cinzentos no Parque Nacional de Yellowstone talvez nem imagine que seus antepassados foram expulsos dali. Nos Estados Unidos, a perseguição aos grandes predadores levou à eliminação dos lobos na região no início do século XX. Então, em 1995, eles começaram a voltar, reintroduzidos como parte de um dos mais conhecidos projetos de conservação do mundo.",
-      "zh-CN": "两只灰狼穿行在怀俄明州黄石国家公园的山艾灌丛中，这里生活着北美洲一些最受密切关注的狼群。厚实的皮毛帮助它们抵御严冬，敏锐的感官则使它们成为技艺高超的猎手和交流者。"
+      "en-GB": "A volcano, a rainforest and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 3,055-metre summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun', reflecting the Hawaiian mo'olelo of Māui capturing the Sun to lengthen the day.",
+      "de-DE": "Ein Vulkan, ein Regenwald und ein Bambushain? Der Haleakalā-Nationalpark auf Maui bietet all das. Der Park erstreckt sich über die gesamte Insel Maui, vom 3.055 Meter hohen Gipfel bis zur Küste, und schützt Landschaften, die sich je nach Höhe, Niederschlagsmenge und Temperatur dramatisch verändern. Er wurde 1916 als Teil des Hawaii-Nationalparks gegründet und 1961 zu einem eigenständigen Nationalpark erklärt. Der Name Haleakalā bedeutet übersetzt „Haus der Sonne“ und spiegelt die hawaiianische Legende (mo’olelo) wider, wonach Māui die Sonne einfing, um den Tag zu verlängern.",
+      "fr-FR": "Un volcan, une forêt tropicale, une bambouseraie… Le parc national de Haleakalā, sur l’île de Maui, réunit bien ces trois éléments. De son sommet, à 3 000 mètres d’altitude, jusqu’à la côte, le parc abrite des paysages qui varient considérablement. Haleakalā signifie « Maison du Soleil », en référence au mo'olelo hawaïen selon lequel le demi-dieu Māui aurait capturé le soleil pour prolonger la journée.",
+      "es-ES": "¿Un volcán, una selva tropical y un bosque de bambú? El Parque Nacional Haleakalā, en Maui, tiene los tres. El parque se extiende desde la cumbre de Maui, a 3.055 metros de altura, hasta la costa, y protege paisajes que cambian radicalmente según la altitud, las precipitaciones y la temperatura. Fue establecido en 1916 como parte del Parque Nacional de Hawái y se convirtió en un parque nacional independiente en 1961. El nombre Haleakalā significa “Casa del Sol” y hace referencia al mo'olelo hawaiano en el que Māui atrapa al sol para prolongar el día.",
+      "ja-JP": "マウイ島を抜ける緑のトンネル. ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ. マウイ島のハレアカラ国立公園は、標高約3,055メートルの山頂から海岸まで、火山や熱帯雨林など変化に富んだ自然が広がっています。キパフル地区にあるピピワイ・トレイルをたどると、緑豊かな森の先に見事な竹林が現れます。歩き始めて約1.6キロ進むと、頭上を覆うように竹が生い茂り、まるで緑のトンネルの中を歩いているようです。風が吹くと竹同士が触れ合い、独特の音が辺りに響きます。",
+      "en-IN": "A volcano, a rainforest and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 3,055-metre summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun', reflecting the Hawaiian mo'olelo of Māui capturing the Sun to lengthen the day.",
+      "en-US": "A volcano, a rainforest, and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 10,023-foot summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall, and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun,' reflecting the Hawaiian mo'olelo of Māui capturing the sun to lengthen the day.",
+      "en-CA": "Haleakalā National Park on Maui is home to an extraordinary mix of landscapes, from volcanic slopes and rainforest to towering bamboo forests. The park stretches from the summit of Haleakalā, which rises 3,055 metres above sea level, to the Pacific coast. More than 850 plant species grow here, including some found nowhere else on Earth, alongside native Hawaiian wildlife. One of the park's most popular walks is the Pīpīwai Trail, which winds through lush forest before reaching a remarkable bamboo grove. As the bamboo sways in the breeze, its tall stalks create distinctive sounds that add to the unique experience.",
+      "it-IT": "Un vulcano, una rigogliosa foresta pluviale e distese di bambù: l’Haleakalā National Park di Maui racchiude paesaggi straordinariamente diversi. Dalla vetta, a oltre 3.000 metri, fino alla costa, lo scenario cambia con l’altitudine, le piogge e le temperature. Il nome Haleakalā significa “Casa del Sole” e richiama un’antica leggenda hawaiana, secondo cui Māui catturò il sole per allungare le giornate. Nel distretto di Kīpahulu, il Pīpīwai Trail conduce alla celebre foresta di bambù, dove gli alti fusti formano una volta verde sopra il sentiero e, mossi dal vento, si urtano tra loro producendo un caratteristico ticchettio.",
+      "pt-BR": "Um vulcão, uma floresta tropical e um bambuzal? O Parque Nacional de Haleakalā, em Maui, tem os três. Do cume, a cerca de 3.055 metros de altitude, até o litoral, o parque protege paisagens que mudam radicalmente conforme a altitude, a quantidade de chuva e a temperatura. Criado em 1916 como parte do Parque Nacional do Havaí, tornou-se um parque nacional independente em 1961. O nome Haleakalā significa “Casa do Sol” e remete ao mo‘olelo, a narrativa tradicional havaiana de Māui, que capturou o sol para prolongar o dia. O parque abriga mais de 850 espécies de plantas, incluindo a silversword de Haleakalā.",
+      "zh-CN": "火山、雨林和竹林？毛伊岛上的哈莱亚卡拉国家公园三者兼有。公园的范围从毛伊岛上海拔10023英尺的山顶一直延伸到海岸，保护着随海拔、降雨量和气温变化而呈现迥异面貌的景观。它于1916年作为夏威夷国家公园的一部分设立，1961年成为独立的国家公园。哈莱阿卡拉意为“太阳之家”，这一名称呼应了夏威夷口述传说“moʻolelo”中毛伊捉住太阳、延长白昼的故事。"
     },
     "quickFacts": {
-      "en-US": "Gray wolves can communicate through howls, body language, scent marking, and a range of vocalizations, including barks, whines, and growls.",
-      "en-GB": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls.",
-      "en-CA": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls.",
-      "de-DE": "Wölfe können durch Heulen, Körpersprache, Duftmarkierungen und eine Reihe von Lautäußerungen kommunizieren, darunter Bellen, Winseln und Knurren.",
-      "it-IT": "I lupi grigi comunicano con ululati, linguaggio del corpo, marcature odorose e un repertorio di suoni che comprende latrati, guaiti e ringhi.",
-      "es-ES": "Los lobos grises se comunican con aullidos, lenguaje corporal, marcas de olor y un repertorio de sonidos que incluye ladridos, gemidos y gruñidos.",
-      "zh-CN": "灰狼可以通过嚎叫、肢体语言、气味标记以及多种发声方式进行交流，包括吠叫、呜咽和低吼。",
-      "en-IN": "Grey wolves can communicate through howls, body language, scent marking and a range of vocalisations, including barks, whines and growls."
+      "zh-CN": "前往哈莱阿卡拉山顶观赏日出的游客须提前预约；名额最多提前60天开放。"
     },
     "captions": {
-      "en-US": "Wolf Awareness Week",
-      "en-GB": "Wolf Awareness Week",
-      "en-CA": "Wolf Awareness Week",
-      "de-DE": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
+      "en-GB": "Bamboo forest, Haleakalā National Park, Maui, Hawaii",
+      "de-DE": "Bambuswald, Haleakalā-Nationalpark, Maui, Hawaii",
+      "fr-FR": "Parc national de Haleakalā, Maui, Hawaii",
       "it-IT": "",
-      "es-ES": "Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+      "es-ES": "Bosque de bambú, Parque Nacional Haleakalā, Maui, Hawái",
       "pt-BR": "",
-      "ja-JP": "冬の大地を進むオオカミたち",
+      "ja-JP": "竹林、ハレアカラ国立公園、マウイ島、ハワイ",
       "zh-CN": "",
-      "en-IN": "Wolf Awareness Week"
+      "en-IN": "Bamboo forest, Haleakalā National Park, Maui, Hawaii"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261022_2300%22",
-      "en-CA": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Wolf+Tier&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
-      "it-IT": "https://www.bing.com/search?q=parco+nazionale+di+yellowstone&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+Yellowstone&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
-      "pt-BR": "https://www.bing.com/search?q=lobo+cinzento&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%82%a4%e3%82%a4%e3%83%ad%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220261024_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%81%b0%e7%8b%bc&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261022_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Haleakala+National+Park&form=hpcapt&filters=HpDate%3a%2220261106_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Haleakala-Nationalpark+Hawaii&form=hpcapt&filters=HpDate%3a%2220261105_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Parc+national+Haleakal%c4%81&form=hpcapt&filters=HpDate%3a%2220261105_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Haleakala+National+Park&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+Haleakala+&form=hpcapt&filters=HpDate%3a%2220261105_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+de+Haleakal%c4%81&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8f%e3%83%ac%e3%82%a2%e3%82%ab%e3%83%a9%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261105_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%93%88%e8%8e%b1%e4%ba%9a%e5%8d%a1%e6%8b%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Haleakala+National+Park&form=hpcapt&filters=HpDate%3a%2220261105_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.YellowstoneWolves_EN-US7105521535",
-      "en-GB": "/th?id=OHR.YellowstoneWolves_EN-GB5342942021",
-      "en-CA": "/th?id=OHR.YellowstoneWolves_EN-CA9692259331",
-      "de-DE": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752",
-      "it-IT": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116",
-      "es-ES": "/th?id=OHR.YellowstoneWolves_ES-ES1877782674",
-      "pt-BR": "/th?id=OHR.YellowstoneWolves_PT-BR5538259597",
-      "ja-JP": "/th?id=OHR.YellowstoneWolves_JA-JP3378091323",
-      "zh-CN": "/th?id=OHR.YellowstoneWolves_ZH-CN6767268961",
-      "en-IN": "/th?id=OHR.YellowstoneWolves_EN-IN7964007510"
-    }
-  },
-  "NaejangsanNP": {
-    "name": "NaejangsanNP",
-    "urlbase": "/th?id=OHR.NaejangsanNP_EN-US7010419904",
-    "date": "20261022",
-    "dateFormatted": "October 22, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Still waters, vivid colors. Autumn in Naejangsan National Park, South Korea",
-      "en-CA": "Still waters, vivid colours. Fall in Naejangsan National Park, South Korea",
-      "en-GB": "Still waters, vivid colours. Autumn in Naejangsan National Park, South Korea",
-      "de-DE": "Stille Wasser, leuchtende Farben. Herbst im Naejangsan-Nationalpark, Südkorea",
-      "fr-FR": "Eaux paisibles, teintes flamboyantes. Parc national de Naejangsan, Corée du Sud",
-      "it-IT": "I colori di Naejangsan",
-      "pt-BR": "A Coreia pintada de outono",
-      "ja-JP": "紅葉に彩られた東屋",
-      "zh-CN": "静水映斑斓",
-      "en-IN": "Still waters, vivid colours. Autumn in Naejangsan National Park, South Korea"
-    },
-    "copyrights": {
-      "en-US": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
-      "en-CA": "Fall in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
-      "en-GB": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
-      "de-DE": "Herbst im Naejangsan-Nationalpark, Südkorea (© Twenty47studio/Getty Images)",
-      "fr-FR": "Le parc national de Naejangsan en automne, Corée du Sud (© Twenty47studio/Getty Images)",
-      "it-IT": "Autunno nel Parco nazionale di Naejangsan, Corea del Sud (© Twenty47studio/Getty Images)",
-      "pt-BR": "Outono no Parque Nacional Naejangsan, Coreia do Sul (© Twenty47studio/Getty Images)",
-      "ja-JP": "内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images)",
-      "zh-CN": "内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)",
-      "en-IN": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow, and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colors, making it one of Korea's premier destinations for fall scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
-      "en-CA": "Few places in South Korea capture the magic of fall quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for fall scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
-      "en-GB": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for autumn scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
-      "de-DE": "Ein Herbst wie aus dem Bilderbuch: Im Naejangsan-Nationalpark leuchten die Berghänge in kräftigem Rot, Orange, Gelb und Gold. Der im Südwesten Südkoreas gelegene Park ist vor allem für seine spektakulären Ahornfarben bekannt. Kein Wunder, dass er zu den beliebtesten Reisezielen des Landes zu dieser Jahreszeit zählt. Sein Name bedeutet „viele Geheimnisse in den Bergen“ und passt gut zur abwechslungsreichen Umgebung.",
-      "fr-FR": "Peu d’endroits en Corée du Sud incarnent l’automne avec autant d’éclat que le parc national de Naejangsan. Dans le sud-ouest du pays, ses montagnes se parent de rouge écarlate, d’orange et d’or, portées par des érables flamboyants. Son nom, qui évoque les « nombreux secrets de la montagne », semble inviter à découvrir ses paysages changeants.",
-      "ja-JP": "ここは韓国南西部に位置する内蔵山（ネジャンサン）国立公園です。内蔵山は「内蔵九峰」と呼ばれる 9 つの峰からなり、その最高峰は標高 763m の神仙峰（シンソンボン）です。公園は韓国を代表する紅葉の名所として知られ、秋には山々が鮮やかに色づきます。「内蔵山」という名前には、「山の中に尽きることのない宝が隠されている」という意味が込められています。画像は、公園を象徴する風景のひとつとして親しまれている東屋、羽化亭（ウファジョン）です。",
-      "en-IN": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for autumn scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
-      "it-IT": "Pochi luoghi della Corea del Sud raccontano l'autunno come il Parco nazionale di Naejangsan, nel sud-ovest del Paese, dove i versanti si accendono di scarlatto, arancione, giallo e oro. Il merito è degli aceri: il parco ne riunisce tredici varietà e il suo fogliame lo ha reso una delle mete autunnali più amate del Paese.",
-      "pt-BR": "Prepare o celular: Naejangsan, na Coreia do Sul, é o tipo de lugar que faz o outono parecer ter contratado uma equipe de cenografia. No sudoeste do país, o Parque Nacional Naejangsan fica famoso pelas folhas dos bordos, que mudam para tons intensos de vermelho, laranja, amarelo e dourado. O próprio nome da montanha significa algo como “inúmeras coisas escondidas”, em referência à quantidade de paisagens reunidas entre seus vales e encostas.",
-      "zh-CN": "在韩国，很少有地方能像内藏山国立公园一样尽显秋日的魔力，这里的山坡闪耀着猩红、橙色、黄色和金色的绚丽光彩。公园位于韩国西南部，尤以鲜艳的枫叶色彩闻名，是韩国首屈一指的赏秋胜地之一。其名称意为“山中藏有许多秘密”，体现了这一地区丰富多样的景观。"
-    },
-    "quickFacts": {
-      "zh-CN": "内藏山于1971年获指定，成为韩国第八座国家公园，其山地景观由此受到国家公园制度保护。"
-    },
-    "captions": {
-      "en-US": "Autumn in Naejangsan National Park, South Korea",
-      "en-CA": "Fall in Naejangsan National Park, South Korea"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261022_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261022_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.NaejangsanNP_EN-US7010419904",
-      "en-CA": "/th?id=OHR.NaejangsanNP_EN-CA9328142735"
+      "en-GB": "/th?id=OHR.PipiwaiTrail_EN-GB4651327269",
+      "de-DE": "/th?id=OHR.PipiwaiTrail_DE-DE9691097479",
+      "fr-FR": "/th?id=OHR.PipiwaiTrail_FR-FR9210868970",
+      "it-IT": "/th?id=OHR.PipiwaiTrail_IT-IT5147973458",
+      "es-ES": "/th?id=OHR.PipiwaiTrail_ES-ES2022669562",
+      "pt-BR": "/th?id=OHR.PipiwaiTrail_PT-BR4772010381",
+      "ja-JP": "/th?id=OHR.PipiwaiTrail_JA-JP1383562325",
+      "zh-CN": "/th?id=OHR.PipiwaiTrail_ZH-CN1811194311",
+      "en-IN": "/th?id=OHR.PipiwaiTrail_EN-IN0566152296"
     }
   },
   "FireworksBattersea": {
@@ -1963,123 +2099,6 @@
       "en-CA": "/th?id=OHR.SneffelsAutumn_EN-CA1700205921"
     }
   },
-  "StileCrossing": {
-    "name": "StileCrossing",
-    "urlbase": "/th?id=OHR.StileCrossing_DE-DE6131632165",
-    "date": "20261104",
-    "dateFormatted": "November 04, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "de-DE": "Ein Schritt näher am Gipfel. Black Crag, Lake District, England",
-      "fr-FR": "Un pas de plus vers le sommet. Black Crag, Lake District, Angleterre",
-      "it-IT": "Un passo alla volta",
-      "es-ES": "Un paso más cerca de la cumbre. Black Crag, Distrito de los Lagos, Inglaterra",
-      "pt-BR": "Falta muito pro topo?",
-      "ja-JP": "山頂へ、もう一歩. ブラック・クラッグ、湖水地方、イギリス",
-      "zh-CN": "石墙边的木制翻越梯，黑岩，湖区，英格兰",
-      "en-IN": "One step closer to the summit. Black Crag, Lake District, England",
-      "en-US": "One step closer to the summit. Wooden stile at a stone wall, Black Crag, Lake District, England",
-      "en-CA": "One step closer to the summit. Wooden stile at a stone wall, Black Crag, Lake District, England"
-    },
-    "copyrights": {
-      "de-DE": "Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
-      "fr-FR": "Échelle près d'un mur de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images)",
-      "it-IT": "Una scaletta appoggiata ad un muro di pietra, Black Crag, Lake District, Inghilterra (© Alex Treadway/Getty Images)",
-      "es-ES": "Escalera de madera, Black Crag, Distrito de los Lagos, Inglaterra (© Alex Treadway/Getty Images)",
-      "pt-BR": "Escada de madeira sobre um muro de pedra, Black Crag, Lake District, Inglaterra (© Alex Treadway/Getty Images)",
-      "ja-JP": "石垣に設けられた木製の踏み越し段、ブラック・クラッグ、湖水地方、イギリス (© Alex Treadway/Getty Images)",
-      "zh-CN": "石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)",
-      "en-IN": "Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
-      "en-US": "© Alex Treadway/Getty Images",
-      "en-CA": "© Alex Treadway/Getty Images"
-    },
-    "descs": {
-      "de-DE": "Ein einfacher Holzsteg führt in eine der berühmtesten Landschaften Englands. Der Lake District, ein UNESCO-Weltkulturerbe, ist ein Flickenteppich aus schimmernden Seen, schroffen Hügeln und jahrhundertealten Steinmauern.",
-      "fr-FR": "Une simple échelle en bois mène à l’un des paysages les plus connus d’Angleterre. Le Lake District, classé au patrimoine mondial de l’UNESCO, est une mosaïque de lacs scintillants, de collines escarpées, de cascades et de murs de pierre séculaires, le tout façonné à la fois par la nature et par les traditions agricoles.",
-      "es-ES": "Un sencillo paso de madera conduce a uno de los paisajes más emblemáticos de Inglaterra. El Distrito de los Lagos, declarado Patrimonio de la Humanidad por la UNESCO, forma un mosaico de lagos resplandecientes, colinas escarpadas y muros de piedra centenarios, moldeado tanto por la naturaleza como por siglos de tradición agrícola.",
-      "ja-JP": "木製の踏み越し段の先に広がるのは、ユネスコ世界遺産に登録されたイングランド屈指の景勝地、湖水地方です。ブラック・フェルの岩山の山頂「ブラック・クラッグ」は、標高約323メートルとそれほど高くはありませんが、ウィンダミア湖やコニストン・ウォーター、ラングデール・パイクスを見渡せる絶景スポットです。風光明媚なターン・ハウズをめぐって山頂を目指すルートのほか、トム・ギル経由なら森の中を流れ落ちる滝にも出会えます。",
-      "en-IN": "A simple wooden stile leads into one of England's most celebrated landscapes. The Lake District, a UNESCO World Heritage Site, is a patchwork of shimmering lakes, rugged fells and centuries-old stone walls, all shaped by both nature and farming traditions.",
-      "en-US": "A simple wooden stile leads into one of England's most celebrated landscapes. The Lake District, a UNESCO World Heritage Site, is a patchwork of shimmering lakes, rugged fells, and centuries-old stone walls, all shaped by both nature and farming traditions.",
-      "en-CA": "A simple wooden gate opens onto the Lake District, a UNESCO World Heritage Site in north-west England known for its lakes, rolling hills and centuries-old stone walls. This path leads toward Black Crag, the summit of Black Fell, which rises to about 323 metres and offers impressive views of Windermere, Coniston Water, and the Langdale Pikes. The route passes Tarn Hows, one of the region's most scenic spots, before climbing through a landscape shaped by nature and farming traditions. Some trails also follow Tom Gill, where woodland paths run alongside cascading waterfalls in this picturesque corner of Cumbria.",
-      "it-IT": "Una semplice scaletta in legno introduce ad uno dei paesaggi più celebri d’Inghilterra: il Lake District, Patrimonio dell’Umanità UNESCO, tra laghi, rilievi scoscesi e antichi muretti di pietra. Il sentiero conduce verso Black Fell e la sua cima rocciosa, Black Crag, a 323 metri di altitudine. Dalla vetta, la vista spazia a perdita d’occhio sui laghi Windermere e Coniston, con le Langdale Pikes a farne da cornice. L’itinerario costeggia anche Tarn Hows, uno degli angoli più suggestivi della regione, regalando a ogni passo panorami mozzafiato e un’autentica sensazione di avventura.",
-      "pt-BR": "Uma simples escada de madeira para transpor um muro dá acesso a uma das paisagens mais famosas da Inglaterra. O Lake District, reconhecido como Patrimônio Mundial pela UNESCO, é um mosaico de lagos cintilantes, elevações de relevo acidentado e muros de pedra centenários, moldado tanto pela natureza quanto pelas tradições agrícolas.",
-      "zh-CN": "一座简朴的木制翻越梯，将人们引向英格兰最负盛名的风景区之一。被列为联合国教科文组织世界遗产的湖区，湖泊波光粼粼，山丘崎岖起伏，古老的石墙纵横其间；自然力量与世代相传的农耕传统共同塑造了这片景观。"
-    },
-    "quickFacts": {
-      "zh-CN": "英格兰湖区于2017年被列入联合国教科文组织世界遗产名录，其独特的文化景观由此获得认可。"
-    },
-    "captions": {
-      "de-DE": "Black Crag, Lake District, England",
-      "fr-FR": "Black Crag, Lake District, Angleterre",
-      "it-IT": "",
-      "es-ES": "Black Crag, Distrito de los Lagos, Inglaterra",
-      "pt-BR": "",
-      "ja-JP": "ブラック・クラッグ、湖水地方、イギリス",
-      "zh-CN": "",
-      "en-IN": "Black Crag, Lake District, England"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Lake+District+Vereinigtes+K%c3%b6nigreich&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Lake+District+Inghilterra&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e6%b9%96%e6%b0%b4%e5%9c%b0%e6%96%b9&form=hpcapt&filters=HpDate%3a%2220261104_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e6%b9%96%e5%8c%ba&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261104_1830%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.StileCrossing_DE-DE6131632165",
-      "fr-FR": "/th?id=OHR.StileCrossing_FR-FR8951232534",
-      "it-IT": "/th?id=OHR.StileCrossing_IT-IT7249235484",
-      "es-ES": "/th?id=OHR.StileCrossing_ES-ES1149628904",
-      "pt-BR": "/th?id=OHR.StileCrossing_PT-BR3493884309",
-      "ja-JP": "/th?id=OHR.StileCrossing_JA-JP3443452365",
-      "zh-CN": "/th?id=OHR.StileCrossing_ZH-CN9811465935",
-      "en-IN": "/th?id=OHR.StileCrossing_EN-IN0635462552"
-    }
-  },
   "MaligneFest": {
     "name": "MaligneFest",
     "urlbase": "/th?id=OHR.MaligneFest_DE-DE5179640958",
@@ -2182,40 +2201,6 @@
       "de-DE": "/th?id=OHR.BerlinLibrary_DE-DE5145605761"
     }
   },
-  "ReimsChampagne": {
-    "name": "ReimsChampagne",
-    "urlbase": "/th?id=OHR.ReimsChampagne_FR-FR6230244152",
-    "date": "20261022",
-    "dateFormatted": "October 22, 2026",
-    "markets": [
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      }
-    ],
-    "titles": {
-      "fr-FR": "Là où naissent les bulles. Journée mondiale du champagne"
-    },
-    "copyrights": {
-      "fr-FR": "Vignobles à Verzenay, montagne de Reims, Champagne (© Philippe TURPIN/Getty Images)"
-    },
-    "descs": {
-      "fr-FR": "Dans les collines de Champagne, l’automne dore les vignes et fait rougir les feuilles. Sous les rangs de chardonnay, pinot noir et meunier, la craie retient et restitue progressivement l’eau, tandis que, quelques mètres plus bas, les bouteilles prennent leur temps. Dans la fraîcheur des caves, l’effervescence naît doucement, presque en secret. Il faudra de la patience, quelques gestes précis et beaucoup de savoir-faire avant d’entendre enfin ce petit bruit du bouchon qui annonce souvent les bons moments."
-    },
-    "quickFacts": {
-      "fr-FR": "Une bouteille de champagne contient environ 49 millions de bulles qui se forment principalement lorsque le CO₂ dissous s’échappe au contact du verre."
-    },
-    "captions": {
-      "fr-FR": "Journée mondiale du champagne"
-    },
-    "copyrightlinks": {
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+du+champagne&form=hpcapt&filters=HpDate%3a%2220261022_2200%22"
-    },
-    "urlbases": {
-      "fr-FR": "/th?id=OHR.ReimsChampagne_FR-FR6230244152"
-    }
-  },
   "CarbonaraRomeMarket": {
     "name": "CarbonaraRomeMarket",
     "urlbase": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754",
@@ -2312,38 +2297,6 @@
       "pt-BR": "/th?id=OHR.Nazare_PT-BR0405066219"
     }
   },
-  "TsutanumaMomiji2026": {
-    "name": "TsutanumaMomiji2026",
-    "urlbase": "/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988",
-    "date": "20261022",
-    "dateFormatted": "October 22, 2026",
-    "markets": [
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      }
-    ],
-    "titles": {
-      "ja-JP": "今日は霜降"
-    },
-    "copyrights": {
-      "ja-JP": "蔦沼, 青森県 十和田市 (© MASATO SAITO/Getty Images)"
-    },
-    "descs": {
-      "ja-JP": "今日 10 月 23 日は、二十四節気の「霜降」。朝晩の冷え込みが一層厳しくなり、木々の紅葉が進む時期でもあります。そしてここは、青森県十和田市の蔦温泉の近くにある蔦沼。十和田八幡平国立公園内にある景勝地で、「蔦七沼」の一つとして知られています。ブナの天然林に囲まれた蔦沼は、蔦温泉から徒歩約 10 分の場所にあり、四季折々の美しい風景を気軽に楽しめます。最大の魅力は、風のない朝に現れる「水鏡」で、周囲のブナ林が水面に映り込み、幻想的な風景が広がります。"
-    },
-    "quickFacts": {},
-    "captions": {
-      "ja-JP": "今日は霜降"
-    },
-    "copyrightlinks": {
-      "ja-JP": "https://www.bing.com/search?q=%e8%94%a6%e6%b2%bc&form=hpcapt&filters=HpDate%3a%2220261022_1500%22"
-    },
-    "urlbases": {
-      "ja-JP": "/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988"
-    }
-  },
   "VeniceSunrise": {
     "name": "VeniceSunrise",
     "urlbase": "/th?id=OHR.VeniceSunrise_EN-IN8305689376",
@@ -2406,6 +2359,141 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.VeniceSunrise_EN-IN8305689376"
+    }
+  },
+  "NaejangsanNP": {
+    "name": "NaejangsanNP",
+    "urlbase": "/th?id=OHR.NaejangsanNP_EN-US7010419904",
+    "date": "20261022",
+    "dateFormatted": "October 22, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Still waters, vivid colors. Autumn in Naejangsan National Park, South Korea",
+      "en-CA": "Still waters, vivid colours. Fall in Naejangsan National Park, South Korea",
+      "en-GB": "Still waters, vivid colours. Autumn in Naejangsan National Park, South Korea",
+      "de-DE": "Stille Wasser, leuchtende Farben. Herbst im Naejangsan-Nationalpark, Südkorea",
+      "fr-FR": "Eaux paisibles, teintes flamboyantes. Parc national de Naejangsan, Corée du Sud",
+      "it-IT": "I colori di Naejangsan",
+      "pt-BR": "A Coreia pintada de outono",
+      "ja-JP": "紅葉に彩られた東屋",
+      "zh-CN": "静水映斑斓",
+      "en-IN": "Still waters, vivid colours. Autumn in Naejangsan National Park, South Korea"
+    },
+    "copyrights": {
+      "en-US": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
+      "en-CA": "Fall in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
+      "en-GB": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
+      "de-DE": "Herbst im Naejangsan-Nationalpark, Südkorea (© Twenty47studio/Getty Images)",
+      "fr-FR": "Le parc national de Naejangsan en automne, Corée du Sud (© Twenty47studio/Getty Images)",
+      "it-IT": "Autunno nel Parco nazionale di Naejangsan, Corea del Sud (© Twenty47studio/Getty Images)",
+      "pt-BR": "Outono no Parque Nacional Naejangsan, Coreia do Sul (© Twenty47studio/Getty Images)",
+      "ja-JP": "内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images)",
+      "zh-CN": "内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)",
+      "en-IN": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow, and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colors, making it one of Korea's premier destinations for fall scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "en-CA": "Few places in South Korea capture the magic of fall quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for fall scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "en-GB": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for autumn scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "de-DE": "Ein Herbst wie aus dem Bilderbuch: Im Naejangsan-Nationalpark leuchten die Berghänge in kräftigem Rot, Orange, Gelb und Gold. Der im Südwesten Südkoreas gelegene Park ist vor allem für seine spektakulären Ahornfarben bekannt. Kein Wunder, dass er zu den beliebtesten Reisezielen des Landes zu dieser Jahreszeit zählt. Sein Name bedeutet „viele Geheimnisse in den Bergen“ und passt gut zur abwechslungsreichen Umgebung.",
+      "fr-FR": "Peu d’endroits en Corée du Sud incarnent l’automne avec autant d’éclat que le parc national de Naejangsan. Dans le sud-ouest du pays, ses montagnes se parent de rouge écarlate, d’orange et d’or, portées par des érables flamboyants. Son nom, qui évoque les « nombreux secrets de la montagne », semble inviter à découvrir ses paysages changeants.",
+      "ja-JP": "ここは韓国南西部に位置する内蔵山（ネジャンサン）国立公園です。内蔵山は「内蔵九峰」と呼ばれる 9 つの峰からなり、その最高峰は標高 763m の神仙峰（シンソンボン）です。公園は韓国を代表する紅葉の名所として知られ、秋には山々が鮮やかに色づきます。「内蔵山」という名前には、「山の中に尽きることのない宝が隠されている」という意味が込められています。画像は、公園を象徴する風景のひとつとして親しまれている東屋、羽化亭（ウファジョン）です。",
+      "en-IN": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for autumn scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "it-IT": "Pochi luoghi della Corea del Sud raccontano l'autunno come il Parco nazionale di Naejangsan, nel sud-ovest del Paese, dove i versanti si accendono di scarlatto, arancione, giallo e oro. Il merito è degli aceri: il parco ne riunisce tredici varietà e il suo fogliame lo ha reso una delle mete autunnali più amate del Paese.",
+      "pt-BR": "Prepare o celular: Naejangsan, na Coreia do Sul, é o tipo de lugar que faz o outono parecer ter contratado uma equipe de cenografia. No sudoeste do país, o Parque Nacional Naejangsan fica famoso pelas folhas dos bordos, que mudam para tons intensos de vermelho, laranja, amarelo e dourado. O próprio nome da montanha significa algo como “inúmeras coisas escondidas”, em referência à quantidade de paisagens reunidas entre seus vales e encostas.",
+      "zh-CN": "在韩国，很少有地方能像内藏山国立公园一样尽显秋日的魔力，这里的山坡闪耀着猩红、橙色、黄色和金色的绚丽光彩。公园位于韩国西南部，尤以鲜艳的枫叶色彩闻名，是韩国首屈一指的赏秋胜地之一。其名称意为“山中藏有许多秘密”，体现了这一地区丰富多样的景观。"
+    },
+    "quickFacts": {
+      "zh-CN": "内藏山于1971年获指定，成为韩国第八座国家公园，其山地景观由此受到国家公园制度保护。"
+    },
+    "captions": {
+      "en-US": "Autumn in Naejangsan National Park, South Korea",
+      "en-CA": "Fall in Naejangsan National Park, South Korea"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261022_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261022_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.NaejangsanNP_EN-US7010419904",
+      "en-CA": "/th?id=OHR.NaejangsanNP_EN-CA9328142735"
+    }
+  },
+  "ReimsChampagne": {
+    "name": "ReimsChampagne",
+    "urlbase": "/th?id=OHR.ReimsChampagne_FR-FR6230244152",
+    "date": "20261022",
+    "dateFormatted": "October 22, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Là où naissent les bulles. Journée mondiale du champagne"
+    },
+    "copyrights": {
+      "fr-FR": "Vignobles à Verzenay, montagne de Reims, Champagne (© Philippe TURPIN/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Dans les collines de Champagne, l’automne dore les vignes et fait rougir les feuilles. Sous les rangs de chardonnay, pinot noir et meunier, la craie retient et restitue progressivement l’eau, tandis que, quelques mètres plus bas, les bouteilles prennent leur temps. Dans la fraîcheur des caves, l’effervescence naît doucement, presque en secret. Il faudra de la patience, quelques gestes précis et beaucoup de savoir-faire avant d’entendre enfin ce petit bruit du bouchon qui annonce souvent les bons moments."
+    },
+    "quickFacts": {
+      "fr-FR": "Une bouteille de champagne contient environ 49 millions de bulles qui se forment principalement lorsque le CO₂ dissous s’échappe au contact du verre."
+    },
+    "captions": {
+      "fr-FR": "Journée mondiale du champagne"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+du+champagne&form=hpcapt&filters=HpDate%3a%2220261022_2200%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.ReimsChampagne_FR-FR6230244152"
+    }
+  },
+  "TsutanumaMomiji2026": {
+    "name": "TsutanumaMomiji2026",
+    "urlbase": "/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988",
+    "date": "20261022",
+    "dateFormatted": "October 22, 2026",
+    "markets": [
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      }
+    ],
+    "titles": {
+      "ja-JP": "今日は霜降"
+    },
+    "copyrights": {
+      "ja-JP": "蔦沼, 青森県 十和田市 (© MASATO SAITO/Getty Images)"
+    },
+    "descs": {
+      "ja-JP": "今日 10 月 23 日は、二十四節気の「霜降」。朝晩の冷え込みが一層厳しくなり、木々の紅葉が進む時期でもあります。そしてここは、青森県十和田市の蔦温泉の近くにある蔦沼。十和田八幡平国立公園内にある景勝地で、「蔦七沼」の一つとして知られています。ブナの天然林に囲まれた蔦沼は、蔦温泉から徒歩約 10 分の場所にあり、四季折々の美しい風景を気軽に楽しめます。最大の魅力は、風のない朝に現れる「水鏡」で、周囲のブナ林が水面に映り込み、幻想的な風景が広がります。"
+    },
+    "quickFacts": {},
+    "captions": {
+      "ja-JP": "今日は霜降"
+    },
+    "copyrightlinks": {
+      "ja-JP": "https://www.bing.com/search?q=%e8%94%a6%e6%b2%bc&form=hpcapt&filters=HpDate%3a%2220261022_1500%22"
+    },
+    "urlbases": {
+      "ja-JP": "/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988"
     }
   },
   "VietnamBridge": {
