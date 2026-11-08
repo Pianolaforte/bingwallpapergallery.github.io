@@ -1,4 +1,148 @@
 {
+  "DakotaBison": {
+    "name": "DakotaBison",
+    "urlbase": "/th?id=OHR.DakotaBison_EN-US0710175615",
+    "date": "20261107",
+    "dateFormatted": "November 07, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The giant that came back. National Bison Day",
+      "en-GB": "Roaming the grasslands. A bison in Theodore Roosevelt National Park, USA",
+      "en-CA": "The giant that came back. Bison",
+      "de-DE": "Der zurückgekehrte Riese. Ein Bison in Nord-Dakota, USA",
+      "fr-FR": "Un géant de retour. Sauvage et libre",
+      "it-IT": "Il ritorno del gigante",
+      "es-ES": "El gigante que regresó para quedarse. Bisonte Americano",
+      "pt-BR": "O grandão está de volta",
+      "ja-JP": "よみがえった草原の巨人. セオドア・ルーズベルト国立公園のアメリカバイソン",
+      "zh-CN": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国",
+      "en-IN": "Roaming the grasslands. A bison in Theodore Roosevelt National Park, USA"
+    },
+    "copyrights": {
+      "en-US": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)",
+      "en-GB": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+      "en-CA": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+      "de-DE": "Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock)",
+      "fr-FR": "Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)",
+      "it-IT": "Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+      "es-ES": "Un bisonte en los pastizales del Parque Nacional Theodore Roosevelt, Dakota del Norte, EE. UU. (© Tandem Stock/Adobe Stock)",
+      "pt-BR": "Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)",
+      "ja-JP": "セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)",
+      "zh-CN": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)",
+      "en-IN": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)"
+    },
+    "descs": {
+      "en-US": "When the going gets tough, the bison gets grazing. National Bison Day celebrates the North American mammal that can weigh up to 2,000 pounds yet sprint at 35 mph. Observed on the first Saturday of November, the day honors the bovine that became the United States' national mammal in 2016.",
+      "en-GB": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
+      "en-CA": "One of North America's most remarkable animals, the bison is a powerful symbol of strength, resilience and conservation. Weighing as much as 900 kilograms (2,000 pounds) and capable of running up to 55 km/h (35 mph), bison are surprisingly agile. Despite being commonly called buffalo, American bison are a distinct species known for their massive shoulder hump, curved horns and shaggy coats that help them thrive through harsh winters. Once pushed to the brink of extinction, bison have made an inspiring comeback thanks to conservation efforts across Canada and the United States, making them a powerful example of successful wildlife recovery.",
+      "de-DE": "Obwohl er oft als Büffel bezeichnet wird, gehört der amerikanische Bison nicht zu den echten Büffeln, die in Afrika und Asien beheimatet sind. Sein wissenschaftlicher Name „Bison bison”, lässt wenig Raum für Verwechslungen. Dieses nordamerikanische Säugetier kann bis zu 900 Kilo wiegen und dennoch mit einer Geschwindigkeit von fast 60 km/h sprinten. Sein muskulöser Schulterhöcker hilft ihm den Kopf hin und her zu schwingen, um Schnee beiseite zu schieben und so an das darunter liegende Gras zu gelangen. Sowohl Männchen als auch Weibchen haben Hörner und einen Bart. Schwanzbewegungen geben Aufschluss über ihre Stimmung: Schwanzwedeln signalisiert in der Regel Gelassenheit, während ein gehobener Schwanz auf Unruhe hindeuten kann.",
+      "fr-FR": "Bien qu'on le confonde souvent avec les buffles originaires d'Afrique et d'Asie, le bison d'Amérique n'appartient pas à la même famille. Son nom scientifique « Bison bison » insiste sur ses particularités. Lourd mais rapide, le bison peut peser jusqu’à 900 kg et courir jusqu’à une vitesse de 56 km/h.",
+      "es-ES": "Cuando las cosas se ponen difíciles, el bisonte sigue pastando. Este mamífero norteamericano puede pesar hasta 907 kilogramos y, aun así, correr a velocidades de hasta 56 kilómetros por hora. En 2016 se convirtió en el mamífero nacional de Estados Unidos.",
+      "ja-JP": "北米の草原に暮らすアメリカバイソンは、世界でも最大級の陸上哺乳類です。体重は900キロほどにもなりますが、時速約65キロで走ることができます。「バッファロー」と呼ばれることもありますが、アフリカやアジアにすむ本来のバッファローとは別の動物です。肩の大きなこぶは発達した筋肉で、冬は頭を左右に振って雪をかき分け、その下の草を探します。しっぽを見れば気分もわかり、ゆったり揺れていれば落ち着いているサイン、ピンと立っていたら興奮しているのかもしれません。一時は絶滅寸前まで追い込まれましたが、保護活動によって少しずつ数を取り戻してきました。",
+      "en-IN": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
+      "it-IT": "Imponente ma sorprendentemente agile, il bisonte americano può pesare fino a 900 kg e correre a circa 56 km/h. Spesso chiamato erroneamente “bufalo”, specie originaria di Africa e Asia, è dotato di una possente gobba che lo aiuta a spostare la neve con la testa per raggiungere l’erba sottostante. Curiosità: sia i maschi che le femmine hanno corna e barba. Ma attenzione alla coda: se si muove, generalmente segnala calma; se sollevata, può indicare agitazione! Un tempo vicino all’estinzione, il bisonte ha compiuto uno straordinario ritorno grazie agli enormi sforzi per la sua conservazione. Yellowstone resta l’unico luogo negli Stati Uniti dove continua a vivere ininterrottamente fin dalla preistoria.",
+      "pt-BR": "Um bisão no Parque Nacional Theodore Roosevelt, EUA. Os bisões estão entre os maiores mamíferos terrestres do mundo; podem pesar até 900 quilos e atingir velocidades de 65 quilômetros por hora, apesar do grande porte.",
+      "zh-CN": "再艰难的环境，也挡不住野牛吃草的脚步。美国全国野牛日赞颂这种北美哺乳动物：它体重可达2000磅(约907千克)，奔跑时速却能达到35英里(约56千米)。这个节日定在每年11月的第一个星期六，旨在向2016年成为美国国家哺乳动物的野牛致敬。"
+    },
+    "quickFacts": {
+      "zh-CN": "野牛在泥土中打滚形成的浅坑可能积水，为草原植物和动物提供栖息地。"
+    },
+    "captions": {
+      "en-US": "National Bison Day",
+      "en-GB": "A bison in Theodore Roosevelt National Park, USA",
+      "en-CA": "Bison",
+      "de-DE": "Ein Bison in Nord-Dakota, USA",
+      "fr-FR": "Sauvage et libre",
+      "it-IT": "",
+      "es-ES": "Bisonte Americano",
+      "pt-BR": "",
+      "ja-JP": "セオドア・ルーズベルト国立公園のアメリカバイソン",
+      "zh-CN": "",
+      "en-IN": "A bison in Theodore Roosevelt National Park, USA"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220261107_0800%22",
+      "en-GB": "https://www.bing.com/search?q=American+bison&form=hpcapt&filters=HpDate%3a%2220261107_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Bison&form=hpcapt&filters=HpDate%3a%2220261107_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Bisons&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=bison+bison&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Bisonte&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Bisonte+Americano&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Bis%c3%a3o+americano&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%90%e3%82%a4%e3%82%bd%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261106_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e6%b4%b2%e9%87%8e%e7%89%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=American+bison&form=hpcapt&filters=HpDate%3a%2220261106_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DakotaBison_EN-US0710175615",
+      "en-GB": "/th?id=OHR.DakotaBison_EN-GB4535875354",
+      "en-CA": "/th?id=OHR.DakotaBison_EN-CA6055061732",
+      "de-DE": "/th?id=OHR.DakotaBison_DE-DE0154878283",
+      "fr-FR": "/th?id=OHR.DakotaBison_FR-FR7465030722",
+      "it-IT": "/th?id=OHR.DakotaBison_IT-IT5607960276",
+      "es-ES": "/th?id=OHR.DakotaBison_ES-ES8128030749",
+      "pt-BR": "/th?id=OHR.DakotaBison_PT-BR6015279362",
+      "ja-JP": "/th?id=OHR.DakotaBison_JA-JP7700625518",
+      "zh-CN": "/th?id=OHR.DakotaBison_ZH-CN2302503868",
+      "en-IN": "/th?id=OHR.DakotaBison_EN-IN0635434875"
+    }
+  },
   "PipiwaiTrail": {
     "name": "PipiwaiTrail",
     "urlbase": "/th?id=OHR.PipiwaiTrail_EN-US0631882545",
@@ -1643,80 +1787,11 @@
       "en-IN": "/th?id=OHR.SitovoWaterfall_EN-IN8441319721"
     }
   },
-  "PortugueseLibrary": {
-    "name": "PortugueseLibrary",
-    "urlbase": "/th?id=OHR.PortugueseLibrary_EN-US7519268149",
-    "date": "20261024",
-    "dateFormatted": "October 24, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "en-CA": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "en-GB": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "fr-FR": "De quoi en perdre ses mots. Cabinet royal portugais de lecture, Rio de Janeiro, Brésil",
-      "it-IT": "Una cattedrale di libri",
-      "es-ES": "Una catedral de libros. Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
-      "pt-BR": "A biblioteca mais teatral do Rio",
-      "ja-JP": "図書館の天窓から差し込む自然光",
-      "zh-CN": "书香里的极致华美",
-      "en-IN": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
-    },
-    "copyrights": {
-      "en-US": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
-      "en-CA": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
-      "en-GB": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
-      "fr-FR": "Cabinet royal portugais de lecture, Rio de Janeiro, Brésil (© Antonio Salaverry/Shutterstock)",
-      "it-IT": "Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)",
-      "es-ES": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil (© Antonio Salaverry/Shutterstock)",
-      "pt-BR": "Real Gabinete Português de Leitura, Rio de Janeiro (© Antonio Salaverry/Shutterstock)",
-      "ja-JP": "王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)",
-      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)",
-      "en-IN": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)"
-    },
-    "descs": {
-      "en-US": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 70 feet around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-      "en-CA": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-      "en-GB": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-      "fr-FR": "Aujourd’hui, nous pénétrons dans le Cabinet royal portugais de lecture, à Rio de Janeiro (Brésil), où le simple geste d’ouvrir un livre prend des dimensions monumentales. Fondée en 1837 par 43 immigrants portugais, seulement quinze ans après l’indépendance du Brésil, l’institution s’installe plus tard dans cet édifice, achevé près d’un demi-siècle après sa fondation. Dans la majestueuse salle de lecture, les rayonnages s’élèvent à plus de 21 mètres, sous une imposante verrière qui transforme la lumière du jour en élément d’architecture.",
-      "es-ES": "El Real Gabinete Portugués de Lectura, en Río de Janeiro (Brasil), es una de esas bibliotecas que se visitan con la boca abierta. Tres alturas de estanterías de madera oscura cubren las paredes de suelo a techo, cargadas de volúmenes encuadernados, y desde arriba una gran claraboya de vidrio de colores deja caer la luz sobre la sala de lectura.",
-      "ja-JP": "ここはブラジルのリオデジャネイロにある王立ポルトガル図書館。ブラジルがポルトガルから独立した後、ポルトガルの言語と文化の保存・振興を目的として 1837 年に設立されました。約 35 万冊の蔵書を有し、ポルトガル国外では最大級のポルトガル語文献コレクションを誇ります。広大な閲覧室には、20m 以上の高さを誇る巨大な本棚が設置され、ステンドグラスの天窓や、アーミラリー天球儀で美しく装飾されています。設立から2世紀近くが経った今も、ブラジルとポルトガルの文化的な結びつきを伝え続けています。",
-      "en-IN": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-      "it-IT": "Il Real Gabinete Portoghese di Lettura, a Rio de Janeiro (Brasile), è una di quelle biblioteche che si visitano a bocca aperta. Tre livelli di scaffali in legno scuro coprono le pareti da terra al soffitto, carichi di volumi rilegati, e dall'alto un grande lucernario di vetri colorati lascia cadere la luce sulla sala di lettura.",
-      "pt-BR": "O endereço é carioca, mas a fachada fez check-in na Europa antes de chegar aqui. O Real Gabinete Português de Leitura nasceu em 1837, 15 anos depois da Independência do Brasil, quando 43 imigrantes portugueses criaram uma instituição dedicada aos livros. Sua fachada foi esculpida em Lisboa, transportada de navio pelo Atlântico e montada no Rio de Janeiro.",
-      "zh-CN": "今天，我们走进巴西里约热内卢的皇家葡萄牙语阅览室。在这里，翻开一本书这一朴素举动，被赋予了宏伟的建筑抱负。巴西独立仅15年后，43名葡萄牙移民于1837年创办了这家机构；约半个世纪后，机构最终迁入眼前这座以华丽的新曼努埃尔式建成的建筑。书架环绕宽阔的阅览大厅，高逾70英尺；大厅上方覆盖着一扇巨型彩绘玻璃天窗，让自然光也成为设计的一部分。"
-    },
-    "quickFacts": {
-      "zh-CN": "据场馆官网介绍，皇家葡萄牙语阅览室工作日10时至17时免费开放参观。"
-    },
-    "captions": {
-      "en-US": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
-      "en-CA": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261024_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261024_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.PortugueseLibrary_EN-US7519268149",
-      "en-CA": "/th?id=OHR.PortugueseLibrary_EN-CA0206045106"
-    }
-  },
-  "DakotaBison": {
-    "name": "DakotaBison",
-    "urlbase": "/th?id=OHR.DakotaBison_EN-GB4535875354",
-    "date": "20261107",
-    "dateFormatted": "November 07, 2026",
+  "DiwaliLamps": {
+    "name": "DiwaliLamps",
+    "urlbase": "/th?id=OHR.DiwaliLamps_EN-GB4404345220",
+    "date": "20261108",
+    "dateFormatted": "November 08, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1765,79 +1840,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Roaming the grasslands. A bison in Theodore Roosevelt National Park, USA",
-      "de-DE": "Der zurückgekehrte Riese. Ein Bison in Nord-Dakota, USA",
-      "fr-FR": "Un géant de retour. Sauvage et libre",
-      "it-IT": "Il ritorno del gigante",
-      "es-ES": "El gigante que regresó para quedarse. Bisonte Americano",
-      "pt-BR": "O grandão está de volta",
-      "ja-JP": "よみがえった草原の巨人. セオドア・ルーズベルト国立公園のアメリカバイソン",
-      "zh-CN": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国",
-      "en-IN": "Roaming the grasslands. A bison in Theodore Roosevelt National Park, USA",
-      "en-US": "The giant that came back. A bison in the grasslands of Theodore Roosevelt National Park, North Dakota",
-      "en-CA": "The giant that came back. A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA"
+      "en-GB": "A celebration that shines. Diwali (Festival of Lights)",
+      "de-DE": "Ein strahlendes Fest. Diwali, das Lichterfest",
+      "fr-FR": "Célébration qui scintille. Diwali (Fête des lumières)",
+      "it-IT": "Una festa che illumina",
+      "es-ES": "Una celebración que brilla. Diwali (Festival de las luces)",
+      "pt-BR": "Uma festa que ilumina",
+      "ja-JP": "光に包まれる祝祭. ディーワーリー（光の祭典）",
+      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度",
+      "en-IN": "Happy Diwali!",
+      "en-US": "A celebration that shines. Lanterns for Diwali, Mumbai, Maharashtra, India",
+      "en-CA": "A celebration that shines. Lanterns for Diwali, Mumbai, Maharashtra, India"
     },
     "copyrights": {
-      "en-GB": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
-      "de-DE": "Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock)",
-      "fr-FR": "Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)",
-      "it-IT": "Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock)",
-      "es-ES": "Un bisonte en los pastizales del Parque Nacional Theodore Roosevelt, Dakota del Norte, EE. UU. (© Tandem Stock/Adobe Stock)",
-      "pt-BR": "Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)",
-      "ja-JP": "セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)",
-      "zh-CN": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)",
-      "en-IN": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
-      "en-US": "© Tandem Stock/Adobe Stock",
-      "en-CA": "© Tandem Stock/Adobe Stock"
+      "en-GB": "Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "de-DE": "Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)",
+      "fr-FR": "Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)",
+      "it-IT": "Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "es-ES": "Linternas del Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "pt-BR": "Lanternas para o Diwali, Mumbai, Maharashtra, Índia (© Dinodia Photo/Getty Images)",
+      "ja-JP": "ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images)",
+      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)",
+      "en-IN": "Lanterns for Diwali in Mumbai, Maharashtra (© Dinodia Photo/Getty Images)",
+      "en-US": "© Dinodia Photo/Getty Images",
+      "en-CA": "© Dinodia Photo/Getty Images"
     },
     "descs": {
-      "en-GB": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
-      "de-DE": "Obwohl er oft als Büffel bezeichnet wird, gehört der amerikanische Bison nicht zu den echten Büffeln, die in Afrika und Asien beheimatet sind. Sein wissenschaftlicher Name „Bison bison”, lässt wenig Raum für Verwechslungen. Dieses nordamerikanische Säugetier kann bis zu 900 Kilo wiegen und dennoch mit einer Geschwindigkeit von fast 60 km/h sprinten. Sein muskulöser Schulterhöcker hilft ihm den Kopf hin und her zu schwingen, um Schnee beiseite zu schieben und so an das darunter liegende Gras zu gelangen. Sowohl Männchen als auch Weibchen haben Hörner und einen Bart. Schwanzbewegungen geben Aufschluss über ihre Stimmung: Schwanzwedeln signalisiert in der Regel Gelassenheit, während ein gehobener Schwanz auf Unruhe hindeuten kann.",
-      "fr-FR": "Bien qu'on le confonde souvent avec les buffles originaires d'Afrique et d'Asie, le bison d'Amérique n'appartient pas à la même famille. Son nom scientifique « Bison bison » insiste sur ses particularités. Lourd mais rapide, le bison peut peser jusqu’à 900 kg et courir jusqu’à une vitesse de 56 km/h.",
-      "es-ES": "Cuando las cosas se ponen difíciles, el bisonte sigue pastando. Este mamífero norteamericano puede pesar hasta 907 kilogramos y, aun así, correr a velocidades de hasta 56 kilómetros por hora. En 2016 se convirtió en el mamífero nacional de Estados Unidos.",
-      "ja-JP": "北米の草原に暮らすアメリカバイソンは、世界でも最大級の陸上哺乳類です。体重は900キロほどにもなりますが、時速約65キロで走ることができます。「バッファロー」と呼ばれることもありますが、アフリカやアジアにすむ本来のバッファローとは別の動物です。肩の大きなこぶは発達した筋肉で、冬は頭を左右に振って雪をかき分け、その下の草を探します。しっぽを見れば気分もわかり、ゆったり揺れていれば落ち着いているサイン、ピンと立っていたら興奮しているのかもしれません。一時は絶滅寸前まで追い込まれましたが、保護活動によって少しずつ数を取り戻してきました。",
-      "en-IN": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
-      "en-US": "When the going gets tough, the bison gets grazing. National Bison Day celebrates the North American mammal that can weigh up to 2,000 pounds yet sprint at 35 mph. Observed on the first Saturday of November, the day honors the bovine that became the United States' national mammal in 2016.",
-      "en-CA": "One of North America's most remarkable animals, the bison is a powerful symbol of strength, resilience and conservation. Weighing as much as 900 kilograms (2,000 pounds) and capable of running up to 55 km/h (35 mph), bison are surprisingly agile. Despite being commonly called buffalo, American bison are a distinct species known for their massive shoulder hump, curved horns and shaggy coats that help them thrive through harsh winters. Once pushed to the brink of extinction, bison have made an inspiring comeback thanks to conservation efforts across Canada and the United States, making them a powerful example of successful wildlife recovery.",
-      "it-IT": "Imponente ma sorprendentemente agile, il bisonte americano può pesare fino a 900 kg e correre a circa 56 km/h. Spesso chiamato erroneamente “bufalo”, specie originaria di Africa e Asia, è dotato di una possente gobba che lo aiuta a spostare la neve con la testa per raggiungere l’erba sottostante. Curiosità: sia i maschi che le femmine hanno corna e barba. Ma attenzione alla coda: se si muove, generalmente segnala calma; se sollevata, può indicare agitazione! Un tempo vicino all’estinzione, il bisonte ha compiuto uno straordinario ritorno grazie agli enormi sforzi per la sua conservazione. Yellowstone resta l’unico luogo negli Stati Uniti dove continua a vivere ininterrottamente fin dalla preistoria.",
-      "pt-BR": "Um bisão no Parque Nacional Theodore Roosevelt, EUA. Os bisões estão entre os maiores mamíferos terrestres do mundo; podem pesar até 900 quilos e atingir velocidades de 65 quilômetros por hora, apesar do grande porte.",
-      "zh-CN": "再艰难的环境，也挡不住野牛吃草的脚步。美国全国野牛日赞颂这种北美哺乳动物：它体重可达2000磅(约907千克)，奔跑时速却能达到35英里(约56千米)。这个节日定在每年11月的第一个星期六，旨在向2016年成为美国国家哺乳动物的野牛致敬。"
+      "en-GB": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets and family gatherings.",
+      "de-DE": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
+      "fr-FR": "Que se passe-t-il quand une nuit sombre donne lieu à la célébration la plus lumineuse de l’année ? Diwali, qui signifie « rangée de lumières » en sanskrit, a lieu lors de la nuit de la nouvelle lune du mois hindou de Kartik. À travers l'Inde, cette célébration s'accompagne de récits et de traditions variés. Durant 5 jours, elle est ponctuée par l’allumage des diyas (lampes à huile), pour symboliser la lumière, le nettoyage de la maison, des prières, des rangolis sur le sol, des échanges de cadeaux et des réunions familiales.",
+      "es-ES": "¿Qué sucede cuando la noche más oscura se llena de luz? Llega Diwali. El Festival de las Luces es celebrado por millones de personas en todo el mundo y reúne diyas, linternas, rangoli, oraciones, dulces y encuentros familiares.",
+      "ja-JP": "光に包まれる祝祭. ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド. ディーワーリーは、新月の暗い夜を明るく照らす「光の祭典」です。世界中で多くの人々が祝い、ディヤーと呼ばれる小さな灯明やランタンをともし、色鮮やかなランゴーリーで辺りを飾り、家族でお菓子を分け合います。ヒンドゥー教をはじめ、ジャイナ教やシク教でも大切にされている祝祭で、名前はサンスクリット語で「光の列」を意味する「ディーパーヴァリ」に由来します。",
+      "en-IN": "Across India, Diwali brings homes, streets and neighbourhoods to life with the warm glow of lanterns, diyas and colourful decorations. Known as the Festival of Lights, it celebrates themes of hope, new beginnings and the triumph of light over darkness. Traditions vary across the country, but for many families, the festivities include creating rangoli, performing Lakshmi Puja, exchanging sweets and gifts, and spending time with loved ones. Diwali is also associated with Lord Rama's return to Ayodhya after defeating Ravana. More than a festival, it's a time for togetherness, reflection and welcoming the year ahead with optimism.",
+      "en-US": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets, and family gatherings.",
+      "en-CA": "Diwali, the Festival of Lights, is celebrated by millions of people around the world, including vibrant communities across Canada. Rooted in the Sanskrit word dipavali, meaning “row of lights,” the festival symbolizes the triumph of light over darkness and hope over adversity. Families and friends gather to light diyas and lanterns, create colourful rangoli, share sweets and take part in prayers and celebrations. While traditions vary across regions and faiths, Diwali is widely recognized as a time of reflection, gratitude and togetherness. As communities across Canada come together to celebrate, the festival continues to brighten neighbourhoods, workplaces and schools with its message of unity, joy and renewal.",
+      "it-IT": "Quando la notte più buia dell’anno incontra la festa più luminosa, è tempo di Diwali. Milioni di persone nel mondo celebrano la Festa delle Luci con “diya”, le tradizionali lampade a olio, lanterne, rangoli, preghiere, dolci e momenti in famiglia. Il nome deriva dal sanscrito “dipavali”, che significa “fila di luci”. In India, storie e tradizioni cambiano da una regione all’altra: alcuni celebrano il ritorno di Rama ad Ayodhya, altri la vittoria di Krishna su Narakasura o rendono omaggio alla dea Kali. Anche giainisti e sikh festeggiano il Diwali, illuminando case e comunità.",
+      "pt-BR": "O que acontece quando a noite mais escura do ano ganha a celebração mais iluminada? Diwali. O Festival das Luzes é celebrado por milhões de pessoas em todo o mundo, reunindo diyas, lanternas, rangolis, orações, doces e encontros em família.",
+      "zh-CN": "一年中最黑暗的夜晚遇上最明亮的庆典，会是什么景象？答案就是排灯节。世界各地数百万人庆祝这个灯节，点亮油灯和灯笼，绘制兰戈利彩绘，祈祷、品尝甜点，并与家人团聚。"
     },
     "quickFacts": {
-      "zh-CN": "野牛在泥土中打滚形成的浅坑可能积水，为草原植物和动物提供栖息地。"
+      "zh-CN": "排灯节持续五天，但由于它遵循印度教阴历，每年在公历上的日期都会变化。"
     },
     "captions": {
-      "en-GB": "A bison in Theodore Roosevelt National Park, USA",
-      "de-DE": "Ein Bison in Nord-Dakota, USA",
-      "fr-FR": "Sauvage et libre",
+      "en-GB": "Diwali (Festival of Lights)",
+      "de-DE": "Diwali, das Lichterfest",
+      "fr-FR": "Diwali (Fête des lumières)",
       "it-IT": "",
-      "es-ES": "Bisonte Americano",
+      "es-ES": "Diwali (Festival de las luces)",
       "pt-BR": "",
-      "ja-JP": "セオドア・ルーズベルト国立公園のアメリカバイソン",
+      "ja-JP": "ディーワーリー（光の祭典）",
       "zh-CN": "",
-      "en-IN": "A bison in Theodore Roosevelt National Park, USA"
+      "en-IN": "Happy Diwali!"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=American+bison&form=hpcapt&filters=HpDate%3a%2220261107_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Bisons&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=bison+bison&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Bisonte&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Bisonte+Americano&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Bis%c3%a3o+americano&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%90%e3%82%a4%e3%82%bd%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261106_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e6%b4%b2%e9%87%8e%e7%89%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=American+bison&form=hpcapt&filters=HpDate%3a%2220261106_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Diwali&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=diwali+festival+das+luzes&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%af%e3%83%bc%e3%83%aa%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220261107_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%8e%92%e7%81%af%e8%8a%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.DakotaBison_EN-GB4535875354",
-      "de-DE": "/th?id=OHR.DakotaBison_DE-DE0154878283",
-      "fr-FR": "/th?id=OHR.DakotaBison_FR-FR7465030722",
-      "it-IT": "/th?id=OHR.DakotaBison_IT-IT5607960276",
-      "es-ES": "/th?id=OHR.DakotaBison_ES-ES8128030749",
-      "pt-BR": "/th?id=OHR.DakotaBison_PT-BR6015279362",
-      "ja-JP": "/th?id=OHR.DakotaBison_JA-JP7700625518",
-      "zh-CN": "/th?id=OHR.DakotaBison_ZH-CN2302503868",
-      "en-IN": "/th?id=OHR.DakotaBison_EN-IN0635434875"
+      "en-GB": "/th?id=OHR.DiwaliLamps_EN-GB4404345220",
+      "de-DE": "/th?id=OHR.DiwaliLamps_DE-DE0703233561",
+      "fr-FR": "/th?id=OHR.DiwaliLamps_FR-FR3288508792",
+      "it-IT": "/th?id=OHR.DiwaliLamps_IT-IT6072370244",
+      "es-ES": "/th?id=OHR.DiwaliLamps_ES-ES3505917135",
+      "pt-BR": "/th?id=OHR.DiwaliLamps_PT-BR7355901557",
+      "ja-JP": "/th?id=OHR.DiwaliLamps_JA-JP0443643151",
+      "zh-CN": "/th?id=OHR.DiwaliLamps_ZH-CN2462894749",
+      "en-IN": "/th?id=OHR.DiwaliLamps_EN-IN0900276687"
     }
   },
   "FireworksBattersea": {
@@ -1938,7 +2013,7 @@
       "es-ES": "Niebla entre los árboles. Selva Negra, Baden-Württemberg, Alemania",
       "pt-BR": "A floresta em segredo",
       "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
-      "zh-CN": "黑森林，巴登-符腾堡州，德国",
+      "zh-CN": "林间迷雾",
       "en-IN": "Mist among the trees. Black Forest, Baden-Württemberg, Germany"
     },
     "copyrights": {
@@ -1959,7 +2034,7 @@
       "de-DE": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
       "fr-FR": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
       "es-ES": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
-      "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ. ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
+      "ja-JP": "ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
       "en-IN": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
       "it-IT": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
       "pt-BR": "Hoje, estamos apreciando as paisagens cobertas de névoa da Floresta Negra, que se estende por cerca de 160 quilômetros pelo sudoeste da Alemanha, reunindo colinas arborizadas, vales profundos, lagos e cidades encantadoras. Seu ponto mais alto, o Feldberg, chega a 1.493 metros de altitude. A Floresta Negra também abriga as nascentes dos rios Danúbio e Neckar. História e tradição não faltam por aqui. A atividade florestal tem um papel importante na região há muito tempo, e a tradição secular de fabricar relógios ajudou a tornar o característico relógio de cuco famoso muito além da Alemanha.",
@@ -2003,38 +2078,6 @@
       "ja-JP": "/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951",
       "zh-CN": "/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599",
       "en-IN": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203"
-    }
-  },
-  "BSTEnds2026": {
-    "name": "BSTEnds2026",
-    "urlbase": "/th?id=OHR.BSTEnds2026_EN-GB5502884225",
-    "date": "20261024",
-    "dateFormatted": "October 24, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      }
-    ],
-    "titles": {
-      "en-GB": "The clock strikes back. British Summer Time ends"
-    },
-    "copyrights": {
-      "en-GB": "The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)"
-    },
-    "descs": {
-      "en-GB": "Ready to turn back time? Britain does it every autumn, no time machine required. Today, British Summer Time (BST) ends as clocks go back one hour from 2 am BST to 1 am GMT, giving you an extra hour in bed."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-GB": "British Summer Time ends"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=British+Summer+Time&form=hpcapt&filters=HpDate%3a%2220261024_2300%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.BSTEnds2026_EN-GB5502884225"
     }
   },
   "SneffelsAutumn": {
@@ -2093,6 +2136,139 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.SneffelsAutumn_EN-CA1700205921"
+    }
+  },
+  "Nazare": {
+    "name": "Nazare",
+    "urlbase": "/th?id=OHR.Nazare_PT-BR0405066219",
+    "date": "20261026",
+    "dateFormatted": "October 26, 2026",
+    "markets": [
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      }
+    ],
+    "titles": {
+      "pt-BR": "A fé depois da festa"
+    },
+    "copyrights": {
+      "pt-BR": "Basílica Santuário de Nossa Senhora de Nazaré, Belém, Pará (© filipefrazao/Getty Images)"
+    },
+    "descs": {
+      "pt-BR": "Belém, no Pará, pode até guardar as fitas e devolver as ruas ao trânsito. Mas convencer o Círio de Nazaré a ir embora é outra história. Romarias, brinquedos de miriti, almoços em família e reencontros têm seu auge no segundo domingo de outubro, quando mais de dois milhões ocupam as ruas. Não à toa, o Círio virou Patrimônio Cultural do Brasil pelo IPHAN em 2004 e Patrimônio Cultural Imaterial da Humanidade pela UNESCO em 2013."
+    },
+    "quickFacts": {},
+    "captions": {
+      "pt-BR": ""
+    },
+    "copyrightlinks": {
+      "pt-BR": "https://www.bing.com/search?q=Cirio+Nazare&form=hpcapt&mkt=pt-br"
+    },
+    "urlbases": {
+      "pt-BR": "/th?id=OHR.Nazare_PT-BR0405066219"
+    }
+  },
+  "PortugueseLibrary": {
+    "name": "PortugueseLibrary",
+    "urlbase": "/th?id=OHR.PortugueseLibrary_EN-US7519268149",
+    "date": "20261024",
+    "dateFormatted": "October 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-CA": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-GB": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "fr-FR": "De quoi en perdre ses mots. Cabinet royal portugais de lecture, Rio de Janeiro, Brésil",
+      "it-IT": "Una cattedrale di libri",
+      "es-ES": "Una catedral de libros. Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
+      "pt-BR": "A biblioteca mais teatral do Rio",
+      "ja-JP": "図書館の天窓から差し込む自然光",
+      "zh-CN": "书香里的极致华美",
+      "en-IN": "Bookishly extravagant. Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
+    },
+    "copyrights": {
+      "en-US": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+      "en-CA": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+      "en-GB": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+      "fr-FR": "Cabinet royal portugais de lecture, Rio de Janeiro, Brésil (© Antonio Salaverry/Shutterstock)",
+      "it-IT": "Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)",
+      "es-ES": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil (© Antonio Salaverry/Shutterstock)",
+      "pt-BR": "Real Gabinete Português de Leitura, Rio de Janeiro (© Antonio Salaverry/Shutterstock)",
+      "ja-JP": "王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)",
+      "zh-CN": "皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)",
+      "en-IN": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 70 feet around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "en-CA": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "en-GB": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "fr-FR": "Aujourd’hui, nous pénétrons dans le Cabinet royal portugais de lecture, à Rio de Janeiro (Brésil), où le simple geste d’ouvrir un livre prend des dimensions monumentales. Fondée en 1837 par 43 immigrants portugais, seulement quinze ans après l’indépendance du Brésil, l’institution s’installe plus tard dans cet édifice, achevé près d’un demi-siècle après sa fondation. Dans la majestueuse salle de lecture, les rayonnages s’élèvent à plus de 21 mètres, sous une imposante verrière qui transforme la lumière du jour en élément d’architecture.",
+      "es-ES": "El Real Gabinete Portugués de Lectura, en Río de Janeiro (Brasil), es una de esas bibliotecas que se visitan con la boca abierta. Tres alturas de estanterías de madera oscura cubren las paredes de suelo a techo, cargadas de volúmenes encuadernados, y desde arriba una gran claraboya de vidrio de colores deja caer la luz sobre la sala de lectura.",
+      "ja-JP": "ここはブラジルのリオデジャネイロにある王立ポルトガル図書館。ブラジルがポルトガルから独立した後、ポルトガルの言語と文化の保存・振興を目的として 1837 年に設立されました。約 35 万冊の蔵書を有し、ポルトガル国外では最大級のポルトガル語文献コレクションを誇ります。広大な閲覧室には、20m 以上の高さを誇る巨大な本棚が設置され、ステンドグラスの天窓や、アーミラリー天球儀で美しく装飾されています。設立から2世紀近くが経った今も、ブラジルとポルトガルの文化的な結びつきを伝え続けています。",
+      "en-IN": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+      "it-IT": "Il Real Gabinete Portoghese di Lettura, a Rio de Janeiro (Brasile), è una di quelle biblioteche che si visitano a bocca aperta. Tre livelli di scaffali in legno scuro coprono le pareti da terra al soffitto, carichi di volumi rilegati, e dall'alto un grande lucernario di vetri colorati lascia cadere la luce sulla sala di lettura.",
+      "pt-BR": "O endereço é carioca, mas a fachada fez check-in na Europa antes de chegar aqui. O Real Gabinete Português de Leitura nasceu em 1837, 15 anos depois da Independência do Brasil, quando 43 imigrantes portugueses criaram uma instituição dedicada aos livros. Sua fachada foi esculpida em Lisboa, transportada de navio pelo Atlântico e montada no Rio de Janeiro.",
+      "zh-CN": "今天，我们走进巴西里约热内卢的皇家葡萄牙语阅览室。在这里，翻开一本书这一朴素举动，被赋予了宏伟的建筑抱负。巴西独立仅15年后，43名葡萄牙移民于1837年创办了这家机构；约半个世纪后，机构最终迁入眼前这座以华丽的新曼努埃尔式建成的建筑。书架环绕宽阔的阅览大厅，高逾70英尺；大厅上方覆盖着一扇巨型彩绘玻璃天窗，让自然光也成为设计的一部分。"
+    },
+    "quickFacts": {
+      "zh-CN": "据场馆官网介绍，皇家葡萄牙语阅览室工作日10时至17时免费开放参观。"
+    },
+    "captions": {
+      "en-US": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+      "en-CA": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261024_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261024_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PortugueseLibrary_EN-US7519268149",
+      "en-CA": "/th?id=OHR.PortugueseLibrary_EN-CA0206045106"
+    }
+  },
+  "BSTEnds2026": {
+    "name": "BSTEnds2026",
+    "urlbase": "/th?id=OHR.BSTEnds2026_EN-GB5502884225",
+    "date": "20261024",
+    "dateFormatted": "October 24, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "The clock strikes back. British Summer Time ends"
+    },
+    "copyrights": {
+      "en-GB": "The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)"
+    },
+    "descs": {
+      "en-GB": "Ready to turn back time? Britain does it every autumn, no time machine required. Today, British Summer Time (BST) ends as clocks go back one hour from 2 am BST to 1 am GMT, giving you an extra hour in bed."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "British Summer Time ends"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=British+Summer+Time&form=hpcapt&filters=HpDate%3a%2220261024_2300%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.BSTEnds2026_EN-GB5502884225"
     }
   },
   "MaligneFest": {
@@ -2227,38 +2403,6 @@
     },
     "urlbases": {
       "es-ES": "/th?id=OHR.GernikaPaisVasco_ES-ES5108223011"
-    }
-  },
-  "Nazare": {
-    "name": "Nazare",
-    "urlbase": "/th?id=OHR.Nazare_PT-BR0405066219",
-    "date": "20261026",
-    "dateFormatted": "October 26, 2026",
-    "markets": [
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      }
-    ],
-    "titles": {
-      "pt-BR": "A fé depois da festa"
-    },
-    "copyrights": {
-      "pt-BR": "Basílica Santuário de Nossa Senhora de Nazaré, Belém, Pará (© filipefrazao/Getty Images)"
-    },
-    "descs": {
-      "pt-BR": "Belém, no Pará, pode até guardar as fitas e devolver as ruas ao trânsito. Mas convencer o Círio de Nazaré a ir embora é outra história. Romarias, brinquedos de miriti, almoços em família e reencontros têm seu auge no segundo domingo de outubro, quando mais de dois milhões ocupam as ruas. Não à toa, o Círio virou Patrimônio Cultural do Brasil pelo IPHAN em 2004 e Patrimônio Cultural Imaterial da Humanidade pela UNESCO em 2013."
-    },
-    "quickFacts": {},
-    "captions": {
-      "pt-BR": ""
-    },
-    "copyrightlinks": {
-      "pt-BR": "https://www.bing.com/search?q=Cirio+Nazare&form=hpcapt&mkt=pt-br"
-    },
-    "urlbases": {
-      "pt-BR": "/th?id=OHR.Nazare_PT-BR0405066219"
     }
   },
   "YellowstoneWolves": {
