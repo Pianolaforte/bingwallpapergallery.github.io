@@ -1,4 +1,148 @@
 {
+  "DiwaliLamps": {
+    "name": "DiwaliLamps",
+    "urlbase": "/th?id=OHR.DiwaliLamps_EN-US0788074051",
+    "date": "20261108",
+    "dateFormatted": "November 08, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "A celebration that shines. Diwali (Festival of Lights)",
+      "en-GB": "A celebration that shines. Diwali (Festival of Lights)",
+      "en-CA": "A celebration that shines. Diwali (Festival of Lights)",
+      "de-DE": "Ein strahlendes Fest. Diwali, das Lichterfest",
+      "fr-FR": "Célébration qui scintille. Diwali (Fête des lumières)",
+      "it-IT": "Una festa che illumina",
+      "es-ES": "Una celebración que brilla. Diwali (Festival de las luces)",
+      "pt-BR": "Uma festa que ilumina",
+      "ja-JP": "光に包まれる祝祭. ディーワーリー（光の祭典）",
+      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度",
+      "en-IN": "Happy Diwali!"
+    },
+    "copyrights": {
+      "en-US": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "en-GB": "Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "en-CA": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "de-DE": "Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)",
+      "fr-FR": "Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)",
+      "it-IT": "Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "es-ES": "Linternas del Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "pt-BR": "Lanternas para o Diwali, Mumbai, Maharashtra, Índia (© Dinodia Photo/Getty Images)",
+      "ja-JP": "ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images)",
+      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)",
+      "en-IN": "Lanterns for Diwali in Mumbai, Maharashtra (© Dinodia Photo/Getty Images)"
+    },
+    "descs": {
+      "en-US": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets, and family gatherings.",
+      "en-GB": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets and family gatherings.",
+      "en-CA": "Diwali, the Festival of Lights, is celebrated by millions of people around the world, including vibrant communities across Canada. Rooted in the Sanskrit word dipavali, meaning “row of lights,” the festival symbolizes the triumph of light over darkness and hope over adversity. Families and friends gather to light diyas and lanterns, create colourful rangoli, share sweets and take part in prayers and celebrations. While traditions vary across regions and faiths, Diwali is widely recognized as a time of reflection, gratitude and togetherness. As communities across Canada come together to celebrate, the festival continues to brighten neighbourhoods, workplaces and schools with its message of unity, joy and renewal.",
+      "de-DE": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
+      "fr-FR": "Que se passe-t-il quand une nuit sombre donne lieu à la célébration la plus lumineuse de l’année ? Diwali, qui signifie « rangée de lumières » en sanskrit, a lieu lors de la nuit de la nouvelle lune du mois hindou de Kartik. À travers l'Inde, cette célébration s'accompagne de récits et de traditions variés. Durant 5 jours, elle est ponctuée par l’allumage des diyas (lampes à huile), pour symboliser la lumière, le nettoyage de la maison, des prières, des rangolis sur le sol, des échanges de cadeaux et des réunions familiales.",
+      "es-ES": "¿Qué sucede cuando la noche más oscura se llena de luz? Llega Diwali. El Festival de las Luces es celebrado por millones de personas en todo el mundo y reúne diyas, linternas, rangoli, oraciones, dulces y encuentros familiares.",
+      "ja-JP": "光に包まれる祝祭. ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド. ディーワーリーは、新月の暗い夜を明るく照らす「光の祭典」です。世界中で多くの人々が祝い、ディヤーと呼ばれる小さな灯明やランタンをともし、色鮮やかなランゴーリーで辺りを飾り、家族でお菓子を分け合います。ヒンドゥー教をはじめ、ジャイナ教やシク教でも大切にされている祝祭で、名前はサンスクリット語で「光の列」を意味する「ディーパーヴァリ」に由来します。",
+      "en-IN": "Across India, Diwali brings homes, streets and neighbourhoods to life with the warm glow of lanterns, diyas and colourful decorations. Known as the Festival of Lights, it celebrates themes of hope, new beginnings and the triumph of light over darkness. Traditions vary across the country, but for many families, the festivities include creating rangoli, performing Lakshmi Puja, exchanging sweets and gifts, and spending time with loved ones. Diwali is also associated with Lord Rama's return to Ayodhya after defeating Ravana. More than a festival, it's a time for togetherness, reflection and welcoming the year ahead with optimism.",
+      "it-IT": "Quando la notte più buia dell’anno incontra la festa più luminosa, è tempo di Diwali. Milioni di persone nel mondo celebrano la Festa delle Luci con “diya”, le tradizionali lampade a olio, lanterne, rangoli, preghiere, dolci e momenti in famiglia. Il nome deriva dal sanscrito “dipavali”, che significa “fila di luci”. In India, storie e tradizioni cambiano da una regione all’altra: alcuni celebrano il ritorno di Rama ad Ayodhya, altri la vittoria di Krishna su Narakasura o rendono omaggio alla dea Kali. Anche giainisti e sikh festeggiano il Diwali, illuminando case e comunità.",
+      "pt-BR": "O que acontece quando a noite mais escura do ano ganha a celebração mais iluminada? Diwali. O Festival das Luzes é celebrado por milhões de pessoas em todo o mundo, reunindo diyas, lanternas, rangolis, orações, doces e encontros em família.",
+      "zh-CN": "一年中最黑暗的夜晚遇上最明亮的庆典，会是什么景象？答案就是排灯节。世界各地数百万人庆祝这个灯节，点亮油灯和灯笼，绘制兰戈利彩绘，祈祷、品尝甜点，并与家人团聚。"
+    },
+    "quickFacts": {
+      "zh-CN": "排灯节持续五天，但由于它遵循印度教阴历，每年在公历上的日期都会变化。"
+    },
+    "captions": {
+      "en-US": "Diwali (Festival of Lights)",
+      "en-GB": "Diwali (Festival of Lights)",
+      "en-CA": "Diwali (Festival of Lights)",
+      "de-DE": "Diwali, das Lichterfest",
+      "fr-FR": "Diwali (Fête des lumières)",
+      "it-IT": "",
+      "es-ES": "Diwali (Festival de las luces)",
+      "pt-BR": "",
+      "ja-JP": "ディーワーリー（光の祭典）",
+      "zh-CN": "",
+      "en-IN": "Happy Diwali!"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Diwali&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=diwali+festival+das+luzes&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%af%e3%83%bc%e3%83%aa%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220261107_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%8e%92%e7%81%af%e8%8a%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DiwaliLamps_EN-US0788074051",
+      "en-GB": "/th?id=OHR.DiwaliLamps_EN-GB4404345220",
+      "en-CA": "/th?id=OHR.DiwaliLamps_EN-CA5815375040",
+      "de-DE": "/th?id=OHR.DiwaliLamps_DE-DE0703233561",
+      "fr-FR": "/th?id=OHR.DiwaliLamps_FR-FR3288508792",
+      "it-IT": "/th?id=OHR.DiwaliLamps_IT-IT6072370244",
+      "es-ES": "/th?id=OHR.DiwaliLamps_ES-ES3505917135",
+      "pt-BR": "/th?id=OHR.DiwaliLamps_PT-BR7355901557",
+      "ja-JP": "/th?id=OHR.DiwaliLamps_JA-JP0443643151",
+      "zh-CN": "/th?id=OHR.DiwaliLamps_ZH-CN2462894749",
+      "en-IN": "/th?id=OHR.DiwaliLamps_EN-IN0900276687"
+    }
+  },
   "DakotaBison": {
     "name": "DakotaBison",
     "urlbase": "/th?id=OHR.DakotaBison_EN-US0710175615",
@@ -780,7 +924,7 @@
       "es-ES": "Un futuro escrito en hielo. Semana del Oso Polar",
       "pt-BR": "O futuro sobre o gelo",
       "ja-JP": "氷がつなぐ未来. ホッキョクグマ週間",
-      "zh-CN": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大",
+      "zh-CN": "写在冰上的未来",
       "en-IN": "A future written in ice. Polar Bear Week"
     },
     "copyrights": {
@@ -1654,154 +1798,16 @@
       "en-US": "/th?id=OHR.HangingBat_EN-US7714746725"
     }
   },
-  "SitovoWaterfall": {
-    "name": "SitovoWaterfall",
-    "urlbase": "/th?id=OHR.SitovoWaterfall_EN-US7626867890",
-    "date": "20261025",
-    "dateFormatted": "October 25, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-US": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
-      "en-GB": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
-      "en-CA": "Nature's fall soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
-      "de-DE": "Der Klang des Herbstes. Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien",
-      "fr-FR": "Le son de l’automne. Une cascade en Automne près de Sitovo, Bulgarie",
-      "it-IT": "Acqua, pietra e mistero",
-      "es-ES": "Agua, piedra y misterio. Cascadas otoñales cerca de Sitovo, Plovdiv, Bulgaria",
-      "ja-JP": "紅葉の中を流れ落ちる滝",
-      "zh-CN": "大自然的秋日乐章",
-      "en-IN": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria"
-    },
-    "copyrights": {
-      "en-US": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
-      "en-GB": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
-      "en-CA": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
-      "de-DE": "Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images)",
-      "fr-FR": "Une cascade en Automne près de Sitovo, Oblast de Plovdiv, Bulgarie (© Nadya85/Getty Images)",
-      "it-IT": "Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images)",
-      "es-ES": "Cascadas otoñales cerca de Sitovo, provincia de Plovdiv, Bulgaria (© Nadya85/Getty Images)",
-      "ja-JP": "シトヴォ滝, ブルガリア (© Nadya85/Getty Images)",
-      "zh-CN": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images)",
-      "en-IN": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)"
-    },
-    "descs": {
-      "en-US": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
-      "en-GB": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
-      "en-CA": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
-      "de-DE": "Ein Steinbogen, rauschendes Wasser und leuchtendes Herbstlaub: Der Sitovo-Wasserfall in den westlichen Rhodopen Bulgariens scheint wie für eine Märchenszene geschaffen. Nahe dem Dorf Sitovo, südwestlich von Plowdiw, fällt das Wasser unter einer alten Steinbrücke hindurch. Moosbewachsene Felsen und Kiefern bringen kräftiges Grün in die herbstliche Landschaft, während gefallene Blätter das Ufer bedecken oder durch die kleinen Becken treiben. Nach Regen und während der Schneeschmelze im Frühjahr führt der Wasserfall besonders viel Wasser und sein Rauschen erfüllt den umliegenden Wald.",
-      "fr-FR": "Dans les Rhodopes occidentales, en Bulgarie, l’automne enveloppe la cascade de Sitovo d’une lumière douce. Près du village de Sitovo, au sud-ouest de Plovdiv, l’eau bondit sous un vieux pont de pierre dont l’arche encadre la cascade comme une scène de conte. Mousses, pins et feuillages mêlent leurs verts aux teintes rousses, tandis que les feuilles mortes s’accumulent sur les berges ou dérivent dans les vasques. Après les pluies et lors de la fonte printanière des neiges, le torrent s’anime et sa rumeur emplit la forêt.",
-      "es-ES": "En la parte occidental de los montes Ródope, en Bulgaria, las hojas otoñales se acumulan junto a las aguas turbulentas de la cascada de Sitovo. Cerca del pueblo de Sitovo, al suroeste de Plovdiv, las cataratas caen en cascada sobre salientes rocosos bajo un puente de piedra, cuyo arco enmarca la cascada como una escena sacada de un cuento de hadas.",
-      "ja-JP": "今日の画像は、ブルガリア南部のロドピ山脈を流れるシトヴォ滝です。色づいた木々と流れ落ちる滝の組み合わせが、絵画のような美しさを演出します。この自然風景に加え、歴史もこの地域の魅力です。近くのシトヴォ村にはロドピ山脈の伝統的な家屋が残っているほか、近隣には石に刻まれた「シトヴォの碑文」があります。1928 年に初めて記録されたこの碑文は、現在も解読されておらず、その起源や意味はいまだ謎に包まれています。",
-      "en-IN": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
-      "it-IT": "Nella parte occidentale dei Monti Rodopi, in Bulgaria, le foglie autunnali si raccolgono lungo le acque impetuose della cascata di Sitovo. Nei pressi del villaggio di Sitovo, a sud-ovest di Plovdiv, le cascate si gettano su sporgenze rocciose sotto un antico ponte di pietra, il cui arco incornicia la cascata come in una scena da libro di fiabe.",
-      "zh-CN": "在保加利亚的西罗多彼山脉，秋叶汇聚在奔腾的西托沃瀑布旁。瀑布位于普罗夫迪夫西南方向的西托沃村附近，从一座古老石桥下倾泻而下；桥拱如画框般圈住飞瀑，宛若童话书中的场景。覆满苔藓的石头和松树为秋日景观添上层层绿意，落叶则堆积在水边，或漂过一汪汪水潭。雨后和春季融雪期间，瀑布尤其奔涌欢腾，湍急水声回荡在周围的林地间。"
-    },
-    "quickFacts": {
-      "zh-CN": "西罗多彼山脉被认定为关键生物多样性区域，这是对全球生物多样性至关重要地点的一项全球认定。"
-    },
-    "captions": {
-      "en-US": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
-      "en-GB": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
-      "en-CA": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
-      "de-DE": "Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien",
-      "fr-FR": "Une cascade en Automne près de Sitovo, Bulgarie",
-      "it-IT": "",
-      "es-ES": "Cascadas otoñales cerca de Sitovo, Plovdiv, Bulgaria",
-      "ja-JP": "紅葉の中を流れ落ちる滝",
-      "zh-CN": "",
-      "en-IN": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261025_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261026_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261026_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Sitowo+Plowdiw+Bulgarien&form=hpcapt&filters=HpDate%3a%2220261025_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=village+de+Sitovo+Bulgarie&form=hpcapt&filters=HpDate%3a%2220261025_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Sitovo+provincia+di+Plovdiv&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261025_2300%22",
-      "ja-JP": "https://www.bing.com/search?q=Sitovo+waterfall&form=hpcapt&filters=HpDate%3a%2220261025_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%bf%9d%e5%8a%a0%e5%88%a9%e4%ba%9a%e6%99%ae%e7%bd%97%e5%a4%ab%e8%bf%aa%e5%a4%ab%e8%a5%bf%e6%89%98%e6%b2%83&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261025_1830%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.SitovoWaterfall_EN-US7626867890",
-      "en-GB": "/th?id=OHR.SitovoWaterfall_EN-GB5626792550",
-      "en-CA": "/th?id=OHR.SitovoWaterfall_EN-CA2117878012",
-      "de-DE": "/th?id=OHR.SitovoWaterfall_DE-DE2533514641",
-      "fr-FR": "/th?id=OHR.SitovoWaterfall_FR-FR3730397148",
-      "it-IT": "/th?id=OHR.SitovoWaterfall_IT-IT4859902057",
-      "es-ES": "/th?id=OHR.SitovoWaterfall_ES-ES1073935690",
-      "ja-JP": "/th?id=OHR.SitovoWaterfall_JA-JP3524382726",
-      "zh-CN": "/th?id=OHR.SitovoWaterfall_ZH-CN8495214046",
-      "en-IN": "/th?id=OHR.SitovoWaterfall_EN-IN8441319721"
-    }
-  },
-  "DiwaliLamps": {
-    "name": "DiwaliLamps",
-    "urlbase": "/th?id=OHR.DiwaliLamps_EN-GB4404345220",
-    "date": "20261108",
-    "dateFormatted": "November 08, 2026",
+  "TrianaSpain": {
+    "name": "TrianaSpain",
+    "urlbase": "/th?id=OHR.TrianaSpain_EN-GB4312074959",
+    "date": "20261109",
+    "dateFormatted": "November 09, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
       },
       {
         "code": "fr-FR",
@@ -1840,79 +1846,73 @@
       }
     ],
     "titles": {
-      "en-GB": "A celebration that shines. Diwali (Festival of Lights)",
-      "de-DE": "Ein strahlendes Fest. Diwali, das Lichterfest",
-      "fr-FR": "Célébration qui scintille. Diwali (Fête des lumières)",
-      "it-IT": "Una festa che illumina",
-      "es-ES": "Una celebración que brilla. Diwali (Festival de las luces)",
-      "pt-BR": "Uma festa que ilumina",
-      "ja-JP": "光に包まれる祝祭. ディーワーリー（光の祭典）",
-      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度",
-      "en-IN": "Happy Diwali!",
-      "en-US": "A celebration that shines. Lanterns for Diwali, Mumbai, Maharashtra, India",
-      "en-CA": "A celebration that shines. Lanterns for Diwali, Mumbai, Maharashtra, India"
+      "en-GB": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "fr-FR": "Ici, l’art trouve son rythme. Quartier historique de Triana, Séville, Espagne",
+      "it-IT": "Dove l’arte trova il suo ritmo",
+      "es-ES": "Donde el arte encuentra su ritmo. Barrio histórico de Triana, Sevilla, España",
+      "pt-BR": "Onde o flamenco respira",
+      "ja-JP": "芸術がリズムを刻む街. セビリアの歴史地区トリアナ、スペイン",
+      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙",
+      "en-IN": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "en-US": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "en-CA": "Where art finds its rhythm. Historic district of Triana, Seville, Spain"
     },
     "copyrights": {
-      "en-GB": "Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "de-DE": "Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)",
-      "fr-FR": "Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)",
-      "it-IT": "Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "es-ES": "Linternas del Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "pt-BR": "Lanternas para o Diwali, Mumbai, Maharashtra, Índia (© Dinodia Photo/Getty Images)",
-      "ja-JP": "ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images)",
-      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)",
-      "en-IN": "Lanterns for Diwali in Mumbai, Maharashtra (© Dinodia Photo/Getty Images)",
-      "en-US": "© Dinodia Photo/Getty Images",
-      "en-CA": "© Dinodia Photo/Getty Images"
+      "en-GB": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+      "fr-FR": "Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)",
+      "it-IT": "Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images)",
+      "es-ES": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
+      "pt-BR": "Bairro histórico de Triana, Sevilha, Espanha (© Andrzej Rostek/Getty Images)",
+      "ja-JP": "セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)",
+      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)",
+      "en-IN": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+      "en-US": "© Andrzej Rostek/Getty Images",
+      "en-CA": "© Andrzej Rostek/Getty Images"
     },
     "descs": {
-      "en-GB": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets and family gatherings.",
-      "de-DE": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
-      "fr-FR": "Que se passe-t-il quand une nuit sombre donne lieu à la célébration la plus lumineuse de l’année ? Diwali, qui signifie « rangée de lumières » en sanskrit, a lieu lors de la nuit de la nouvelle lune du mois hindou de Kartik. À travers l'Inde, cette célébration s'accompagne de récits et de traditions variés. Durant 5 jours, elle est ponctuée par l’allumage des diyas (lampes à huile), pour symboliser la lumière, le nettoyage de la maison, des prières, des rangolis sur le sol, des échanges de cadeaux et des réunions familiales.",
-      "es-ES": "¿Qué sucede cuando la noche más oscura se llena de luz? Llega Diwali. El Festival de las Luces es celebrado por millones de personas en todo el mundo y reúne diyas, linternas, rangoli, oraciones, dulces y encuentros familiares.",
-      "ja-JP": "光に包まれる祝祭. ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド. ディーワーリーは、新月の暗い夜を明るく照らす「光の祭典」です。世界中で多くの人々が祝い、ディヤーと呼ばれる小さな灯明やランタンをともし、色鮮やかなランゴーリーで辺りを飾り、家族でお菓子を分け合います。ヒンドゥー教をはじめ、ジャイナ教やシク教でも大切にされている祝祭で、名前はサンスクリット語で「光の列」を意味する「ディーパーヴァリ」に由来します。",
-      "en-IN": "Across India, Diwali brings homes, streets and neighbourhoods to life with the warm glow of lanterns, diyas and colourful decorations. Known as the Festival of Lights, it celebrates themes of hope, new beginnings and the triumph of light over darkness. Traditions vary across the country, but for many families, the festivities include creating rangoli, performing Lakshmi Puja, exchanging sweets and gifts, and spending time with loved ones. Diwali is also associated with Lord Rama's return to Ayodhya after defeating Ravana. More than a festival, it's a time for togetherness, reflection and welcoming the year ahead with optimism.",
-      "en-US": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets, and family gatherings.",
-      "en-CA": "Diwali, the Festival of Lights, is celebrated by millions of people around the world, including vibrant communities across Canada. Rooted in the Sanskrit word dipavali, meaning “row of lights,” the festival symbolizes the triumph of light over darkness and hope over adversity. Families and friends gather to light diyas and lanterns, create colourful rangoli, share sweets and take part in prayers and celebrations. While traditions vary across regions and faiths, Diwali is widely recognized as a time of reflection, gratitude and togetherness. As communities across Canada come together to celebrate, the festival continues to brighten neighbourhoods, workplaces and schools with its message of unity, joy and renewal.",
-      "it-IT": "Quando la notte più buia dell’anno incontra la festa più luminosa, è tempo di Diwali. Milioni di persone nel mondo celebrano la Festa delle Luci con “diya”, le tradizionali lampade a olio, lanterne, rangoli, preghiere, dolci e momenti in famiglia. Il nome deriva dal sanscrito “dipavali”, che significa “fila di luci”. In India, storie e tradizioni cambiano da una regione all’altra: alcuni celebrano il ritorno di Rama ad Ayodhya, altri la vittoria di Krishna su Narakasura o rendono omaggio alla dea Kali. Anche giainisti e sikh festeggiano il Diwali, illuminando case e comunità.",
-      "pt-BR": "O que acontece quando a noite mais escura do ano ganha a celebração mais iluminada? Diwali. O Festival das Luzes é celebrado por milhões de pessoas em todo o mundo, reunindo diyas, lanternas, rangolis, orações, doces e encontros em família.",
-      "zh-CN": "一年中最黑暗的夜晚遇上最明亮的庆典，会是什么景象？答案就是排灯节。世界各地数百万人庆祝这个灯节，点亮油灯和灯笼，绘制兰戈利彩绘，祈祷、品尝甜点，并与家人团聚。"
+      "en-GB": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
+      "fr-FR": "En traversant le fleuve Guadalquivir à Séville, capitale de l’Andalousie en Espagne, l’ambiance change complètement. De l’autre côté de la rive se trouve Triana, un quartier haut en couleur où la céramique, le flamenco et les traditions locales font partie intégrante de la vie quotidienne. Depuis le XIXe siècle, le pont Isabelle II, également connu sous le nom de pont de Triana, relie ce quartier au centre historique de Séville.",
+      "es-ES": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+      "ja-JP": "スペイン南部アンダルシア州の州都セビリアで、グアダルキビール川を渡ると、街の表情が少し変わります。対岸のトリアナは、フラメンコや昔ながらの文化が息づく色彩豊かな地区で、19世紀に架けられたイサベル2世橋（トリアナ橋）で歴史地区とつながっています。古くから陶器作りが盛んで、今も色鮮やかなタイルが建物や工房を彩っています。職人や市場、音楽、細い路地が織りなす独特の雰囲気こそ、トリアナならではの魅力です。",
+      "en-IN": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
+      "en-US": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+      "en-CA": "Cross the Guadalquivir River and discover Triana, one of Seville’s most vibrant neighbourhoods. Connected to the city’s historic centre by the iconic Triana Bridge since the 19th century, this riverside district is known for its colourful ceramics, flamenco heritage and lively local culture. Brightly decorated buildings, traditional tile workshops and bustling markets give Triana a character all its own. Stroll along Calle Betis for scenic river views, explore streets lined with artisan studios, or simply soak up the neighbourhood’s welcoming atmosphere. While Seville’s famous landmarks are just steps away, Triana offers a unique glimpse into the traditions, creativity and everyday life that help define Andalusia.",
+      "it-IT": "Attraversato il Guadalquivir si ha come l’impressione che il ritmo di Siviglia cambi d’improvviso. Triana, situato sull’altra sponda del fiume, è un quartiere variopinto dove ceramiche, flamenco e tradizioni locali fanno parte integrante della vita quotidiana. Dal XIX secolo, il ponte Isabella II collega il centro città a questo storico quartiere. Passeggiando per le sue strade, si incontrano facciate decorate con “azulejos” (tipiche maioliche colorate), botteghe artigiane e vicoli dove si respira la storia del flamenco. Lungo Calle Betis, edifici dai colori vivaci si affacciano dolcemente sul fiume. Tra mercati, cortili piastrellati e terrazze, Triana conserva tutt’oggi un fascino unico.",
+      "pt-BR": "Ao atravessar o rio Guadalquivir em Sevilha, capital da região da Andaluzia, na Espanha, o ritmo da cidade parece mudar. Do outro lado fica Triana, um bairro colorido onde a cerâmica, o flamenco e as tradições locais se entrelaçam no cotidiano. Desde o século XIX, a Ponte Isabel II, também conhecida como Ponte de Triana, liga o bairro ao centro histórico de Sevilha. Triana não é definida por um único monumento. Seu encanto está na combinação de artesãos e mercados, música e pátios revestidos de azulejos, terraços à beira do rio e ruas estreitas. Sevilha pode estar logo do outro lado do rio, mas Triana tem um espírito próprio.",
+      "zh-CN": "在西班牙安达卢西亚地区首府塞维利亚，跨过瓜达尔基维尔河，城市的节奏似乎便悄然改变。河对岸是色彩缤纷的特里亚纳街区，陶艺、弗拉门戈和当地传统融入日常生活。自19世纪以来，伊莎贝尔二世桥——又称特里亚纳桥——一直连接着这里与塞维利亚的历史中心。"
     },
     "quickFacts": {
-      "zh-CN": "排灯节持续五天，但由于它遵循印度教阴历，每年在公历上的日期都会变化。"
+      "zh-CN": "特里亚纳市场下方保留着圣豪尔赫城堡的遗址；这座城堡曾是宗教裁判所的总部，如今设有历史展览。"
     },
     "captions": {
-      "en-GB": "Diwali (Festival of Lights)",
-      "de-DE": "Diwali, das Lichterfest",
-      "fr-FR": "Diwali (Fête des lumières)",
+      "en-GB": "Historic district of Triana, Seville, Spain",
+      "fr-FR": "Quartier historique de Triana, Séville, Espagne",
       "it-IT": "",
-      "es-ES": "Diwali (Festival de las luces)",
+      "es-ES": "Barrio histórico de Triana, Sevilla, España",
       "pt-BR": "",
-      "ja-JP": "ディーワーリー（光の祭典）",
+      "ja-JP": "セビリアの歴史地区トリアナ、スペイン",
       "zh-CN": "",
-      "en-IN": "Happy Diwali!"
+      "en-IN": "Historic district of Triana, Seville, Spain"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Diwali&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=diwali+festival+das+luzes&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%af%e3%83%bc%e3%83%aa%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220261107_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%8e%92%e7%81%af%e8%8a%82&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0000%22",
+      "fr-FR": "https://www.bing.com/search?q=S%c3%a9ville+Espagne&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Siviglia+Spagna&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Sevilla+Espa%c3%b1a&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Sevilha+Espanha&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%bb%e3%83%93%e3%83%aa%e3%82%a2+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261108_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%a1%9e%e7%bb%b4%e5%88%a9%e4%ba%9a&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261108_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.DiwaliLamps_EN-GB4404345220",
-      "de-DE": "/th?id=OHR.DiwaliLamps_DE-DE0703233561",
-      "fr-FR": "/th?id=OHR.DiwaliLamps_FR-FR3288508792",
-      "it-IT": "/th?id=OHR.DiwaliLamps_IT-IT6072370244",
-      "es-ES": "/th?id=OHR.DiwaliLamps_ES-ES3505917135",
-      "pt-BR": "/th?id=OHR.DiwaliLamps_PT-BR7355901557",
-      "ja-JP": "/th?id=OHR.DiwaliLamps_JA-JP0443643151",
-      "zh-CN": "/th?id=OHR.DiwaliLamps_ZH-CN2462894749",
-      "en-IN": "/th?id=OHR.DiwaliLamps_EN-IN0900276687"
+      "en-GB": "/th?id=OHR.TrianaSpain_EN-GB4312074959",
+      "fr-FR": "/th?id=OHR.TrianaSpain_FR-FR5872801405",
+      "it-IT": "/th?id=OHR.TrianaSpain_IT-IT6419651277",
+      "es-ES": "/th?id=OHR.TrianaSpain_ES-ES2622392783",
+      "pt-BR": "/th?id=OHR.TrianaSpain_PT-BR8294912902",
+      "ja-JP": "/th?id=OHR.TrianaSpain_JA-JP2076026093",
+      "zh-CN": "/th?id=OHR.TrianaSpain_ZH-CN6329291776",
+      "en-IN": "/th?id=OHR.TrianaSpain_EN-IN5231956941"
     }
   },
   "FireworksBattersea": {
@@ -2078,6 +2078,99 @@
       "ja-JP": "/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951",
       "zh-CN": "/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599",
       "en-IN": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203"
+    }
+  },
+  "SitovoWaterfall": {
+    "name": "SitovoWaterfall",
+    "urlbase": "/th?id=OHR.SitovoWaterfall_EN-CA2117878012",
+    "date": "20261026",
+    "dateFormatted": "October 26, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Nature's fall soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
+      "en-US": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
+      "en-GB": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
+      "de-DE": "Der Klang des Herbstes. Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien",
+      "fr-FR": "Le son de l’automne. Une cascade en Automne près de Sitovo, Bulgarie",
+      "it-IT": "Acqua, pietra e mistero",
+      "es-ES": "Agua, piedra y misterio. Cascadas otoñales cerca de Sitovo, Plovdiv, Bulgaria",
+      "ja-JP": "紅葉の中を流れ落ちる滝",
+      "zh-CN": "大自然的秋日乐章",
+      "en-IN": "Nature's autumn soundtrack. Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria"
+    },
+    "copyrights": {
+      "en-CA": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+      "en-US": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+      "en-GB": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+      "de-DE": "Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images)",
+      "fr-FR": "Une cascade en Automne près de Sitovo, Oblast de Plovdiv, Bulgarie (© Nadya85/Getty Images)",
+      "it-IT": "Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images)",
+      "es-ES": "Cascadas otoñales cerca de Sitovo, provincia de Plovdiv, Bulgaria (© Nadya85/Getty Images)",
+      "ja-JP": "シトヴォ滝, ブルガリア (© Nadya85/Getty Images)",
+      "zh-CN": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images)",
+      "en-IN": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
+      "en-US": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
+      "en-GB": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
+      "de-DE": "Ein Steinbogen, rauschendes Wasser und leuchtendes Herbstlaub: Der Sitovo-Wasserfall in den westlichen Rhodopen Bulgariens scheint wie für eine Märchenszene geschaffen. Nahe dem Dorf Sitovo, südwestlich von Plowdiw, fällt das Wasser unter einer alten Steinbrücke hindurch. Moosbewachsene Felsen und Kiefern bringen kräftiges Grün in die herbstliche Landschaft, während gefallene Blätter das Ufer bedecken oder durch die kleinen Becken treiben. Nach Regen und während der Schneeschmelze im Frühjahr führt der Wasserfall besonders viel Wasser und sein Rauschen erfüllt den umliegenden Wald.",
+      "fr-FR": "Dans les Rhodopes occidentales, en Bulgarie, l’automne enveloppe la cascade de Sitovo d’une lumière douce. Près du village de Sitovo, au sud-ouest de Plovdiv, l’eau bondit sous un vieux pont de pierre dont l’arche encadre la cascade comme une scène de conte. Mousses, pins et feuillages mêlent leurs verts aux teintes rousses, tandis que les feuilles mortes s’accumulent sur les berges ou dérivent dans les vasques. Après les pluies et lors de la fonte printanière des neiges, le torrent s’anime et sa rumeur emplit la forêt.",
+      "es-ES": "En la parte occidental de los montes Ródope, en Bulgaria, las hojas otoñales se acumulan junto a las aguas turbulentas de la cascada de Sitovo. Cerca del pueblo de Sitovo, al suroeste de Plovdiv, las cataratas caen en cascada sobre salientes rocosos bajo un puente de piedra, cuyo arco enmarca la cascada como una escena sacada de un cuento de hadas.",
+      "ja-JP": "今日の画像は、ブルガリア南部のロドピ山脈を流れるシトヴォ滝です。色づいた木々と流れ落ちる滝の組み合わせが、絵画のような美しさを演出します。この自然風景に加え、歴史もこの地域の魅力です。近くのシトヴォ村にはロドピ山脈の伝統的な家屋が残っているほか、近隣には石に刻まれた「シトヴォの碑文」があります。1928 年に初めて記録されたこの碑文は、現在も解読されておらず、その起源や意味はいまだ謎に包まれています。",
+      "en-IN": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
+      "it-IT": "Nella parte occidentale dei Monti Rodopi, in Bulgaria, le foglie autunnali si raccolgono lungo le acque impetuose della cascata di Sitovo. Nei pressi del villaggio di Sitovo, a sud-ovest di Plovdiv, le cascate si gettano su sporgenze rocciose sotto un antico ponte di pietra, il cui arco incornicia la cascata come in una scena da libro di fiabe.",
+      "zh-CN": "在保加利亚的西罗多彼山脉，秋叶汇聚在奔腾的西托沃瀑布旁。瀑布位于普罗夫迪夫西南方向的西托沃村附近，从一座古老石桥下倾泻而下；桥拱如画框般圈住飞瀑，宛若童话书中的场景。覆满苔藓的石头和松树为秋日景观添上层层绿意，落叶则堆积在水边，或漂过一汪汪水潭。雨后和春季融雪期间，瀑布尤其奔涌欢腾，湍急水声回荡在周围的林地间。"
+    },
+    "quickFacts": {
+      "zh-CN": "西罗多彼山脉被认定为关键生物多样性区域，这是对全球生物多样性至关重要地点的一项全球认定。"
+    },
+    "captions": {
+      "en-CA": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261026_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.SitovoWaterfall_EN-CA2117878012"
+    }
+  },
+  "MauerBerlin": {
+    "name": "MauerBerlin",
+    "urlbase": "/th?id=OHR.MauerBerlin_DE-DE4395338070",
+    "date": "20261108",
+    "dateFormatted": "November 08, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Die Nacht, die Deutschland veränderte. Der Fall der Berliner Mauer"
+    },
+    "copyrights": {
+      "de-DE": "Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Der 9. November 1989 war ein historischer Tag für Berlin und Deutschland. Am Abend verkündete der DDR-Politiker Günter Schabowski auf einer Pressekonferenz neue Reiseregelungen. Auf die Frage, wann diese gelten sollten, antwortete er voreilig und versehentlich, dies sei „sofort“ und „unverzüglich“ der Fall. Daraufhin strömten Tausende Menschen zu den Grenzübergängen in Berlin. Die Grenzsoldaten waren auf den großen Andrang nicht vorbereitet und öffneten schließlich die Übergänge."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Der Fall der Berliner Mauer"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Fall+der+Berliner+Mauer&form=hpcapt&filters=HpDate%3a%2220261108_2300%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.MauerBerlin_DE-DE4395338070"
     }
   },
   "SneffelsAutumn": {
