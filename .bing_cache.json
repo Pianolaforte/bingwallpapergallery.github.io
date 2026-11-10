@@ -1,4 +1,137 @@
 {
+  "TrianaSpain": {
+    "name": "TrianaSpain",
+    "urlbase": "/th?id=OHR.TrianaSpain_EN-US0872031458",
+    "date": "20261109",
+    "dateFormatted": "November 09, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "en-GB": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "en-CA": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "fr-FR": "Ici, l’art trouve son rythme. Quartier historique de Triana, Séville, Espagne",
+      "it-IT": "Dove l’arte trova il suo ritmo",
+      "es-ES": "Donde el arte encuentra su ritmo. Barrio histórico de Triana, Sevilla, España",
+      "pt-BR": "Onde o flamenco respira",
+      "ja-JP": "芸術がリズムを刻む街. セビリアの歴史地区トリアナ、スペイン",
+      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙",
+      "en-IN": "Where art finds its rhythm. Historic district of Triana, Seville, Spain"
+    },
+    "copyrights": {
+      "en-US": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+      "en-GB": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+      "en-CA": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+      "fr-FR": "Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)",
+      "it-IT": "Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images)",
+      "es-ES": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
+      "pt-BR": "Bairro histórico de Triana, Sevilha, Espanha (© Andrzej Rostek/Getty Images)",
+      "ja-JP": "セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)",
+      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)",
+      "en-IN": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+      "en-GB": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
+      "en-CA": "Cross the Guadalquivir River and discover Triana, one of Seville’s most vibrant neighbourhoods. Connected to the city’s historic centre by the iconic Triana Bridge since the 19th century, this riverside district is known for its colourful ceramics, flamenco heritage and lively local culture. Brightly decorated buildings, traditional tile workshops and bustling markets give Triana a character all its own. Stroll along Calle Betis for scenic river views, explore streets lined with artisan studios, or simply soak up the neighbourhood’s welcoming atmosphere. While Seville’s famous landmarks are just steps away, Triana offers a unique glimpse into the traditions, creativity and everyday life that help define Andalusia.",
+      "fr-FR": "En traversant le fleuve Guadalquivir à Séville, capitale de l’Andalousie en Espagne, l’ambiance change complètement. De l’autre côté de la rive se trouve Triana, un quartier haut en couleur où la céramique, le flamenco et les traditions locales font partie intégrante de la vie quotidienne. Depuis le XIXe siècle, le pont Isabelle II, également connu sous le nom de pont de Triana, relie ce quartier au centre historique de Séville.",
+      "es-ES": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+      "ja-JP": "スペイン南部アンダルシア州の州都セビリアで、グアダルキビール川を渡ると、街の表情が少し変わります。対岸のトリアナは、フラメンコや昔ながらの文化が息づく色彩豊かな地区で、19世紀に架けられたイサベル2世橋（トリアナ橋）で歴史地区とつながっています。古くから陶器作りが盛んで、今も色鮮やかなタイルが建物や工房を彩っています。職人や市場、音楽、細い路地が織りなす独特の雰囲気こそ、トリアナならではの魅力です。",
+      "en-IN": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
+      "it-IT": "Attraversato il Guadalquivir si ha come l’impressione che il ritmo di Siviglia cambi d’improvviso. Triana, situato sull’altra sponda del fiume, è un quartiere variopinto dove ceramiche, flamenco e tradizioni locali fanno parte integrante della vita quotidiana. Dal XIX secolo, il ponte Isabella II collega il centro città a questo storico quartiere. Passeggiando per le sue strade, si incontrano facciate decorate con “azulejos” (tipiche maioliche colorate), botteghe artigiane e vicoli dove si respira la storia del flamenco. Lungo Calle Betis, edifici dai colori vivaci si affacciano dolcemente sul fiume. Tra mercati, cortili piastrellati e terrazze, Triana conserva tutt’oggi un fascino unico.",
+      "pt-BR": "Ao atravessar o rio Guadalquivir em Sevilha, capital da região da Andaluzia, na Espanha, o ritmo da cidade parece mudar. Do outro lado fica Triana, um bairro colorido onde a cerâmica, o flamenco e as tradições locais se entrelaçam no cotidiano. Desde o século XIX, a Ponte Isabel II, também conhecida como Ponte de Triana, liga o bairro ao centro histórico de Sevilha. Triana não é definida por um único monumento. Seu encanto está na combinação de artesãos e mercados, música e pátios revestidos de azulejos, terraços à beira do rio e ruas estreitas. Sevilha pode estar logo do outro lado do rio, mas Triana tem um espírito próprio.",
+      "zh-CN": "在西班牙安达卢西亚地区首府塞维利亚，跨过瓜达尔基维尔河，城市的节奏似乎便悄然改变。河对岸是色彩缤纷的特里亚纳街区，陶艺、弗拉门戈和当地传统融入日常生活。自19世纪以来，伊莎贝尔二世桥——又称特里亚纳桥——一直连接着这里与塞维利亚的历史中心。"
+    },
+    "quickFacts": {
+      "zh-CN": "特里亚纳市场下方保留着圣豪尔赫城堡的遗址；这座城堡曾是宗教裁判所的总部，如今设有历史展览。"
+    },
+    "captions": {
+      "en-US": "Historic district of Triana, Seville, Spain",
+      "en-GB": "Historic district of Triana, Seville, Spain",
+      "en-CA": "Historic district of Triana, Seville, Spain",
+      "fr-FR": "Quartier historique de Triana, Séville, Espagne",
+      "it-IT": "",
+      "es-ES": "Barrio histórico de Triana, Sevilla, España",
+      "pt-BR": "",
+      "ja-JP": "セビリアの歴史地区トリアナ、スペイン",
+      "zh-CN": "",
+      "en-IN": "Historic district of Triana, Seville, Spain"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0500%22",
+      "fr-FR": "https://www.bing.com/search?q=S%c3%a9ville+Espagne&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Siviglia+Spagna&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Sevilla+Espa%c3%b1a&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Sevilha+Espanha&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%bb%e3%83%93%e3%83%aa%e3%82%a2+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261108_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%a1%9e%e7%bb%b4%e5%88%a9%e4%ba%9a&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261108_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.TrianaSpain_EN-US0872031458",
+      "en-GB": "/th?id=OHR.TrianaSpain_EN-GB4312074959",
+      "en-CA": "/th?id=OHR.TrianaSpain_EN-CA5715664258",
+      "fr-FR": "/th?id=OHR.TrianaSpain_FR-FR5872801405",
+      "it-IT": "/th?id=OHR.TrianaSpain_IT-IT6419651277",
+      "es-ES": "/th?id=OHR.TrianaSpain_ES-ES2622392783",
+      "pt-BR": "/th?id=OHR.TrianaSpain_PT-BR8294912902",
+      "ja-JP": "/th?id=OHR.TrianaSpain_JA-JP2076026093",
+      "zh-CN": "/th?id=OHR.TrianaSpain_ZH-CN6329291776",
+      "en-IN": "/th?id=OHR.TrianaSpain_EN-IN5231956941"
+    }
+  },
   "DiwaliLamps": {
     "name": "DiwaliLamps",
     "urlbase": "/th?id=OHR.DiwaliLamps_EN-US0788074051",
@@ -780,7 +913,7 @@
       "es-ES": "Paz entre las cumbres. Lago de Braies, Dolomitas, Italia",
       "pt-BR": "Paz entre as montanhas",
       "ja-JP": "山々に抱かれた静けさ. ブライエス湖、ドロミテ、イタリア",
-      "zh-CN": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利",
+      "zh-CN": "群峰间的宁静",
       "en-IN": "Peace among the peaks. Lake Braies, Dolomites, Italy"
     },
     "copyrights": {
@@ -1624,56 +1757,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1727,87 +1810,35 @@
       "en-IN": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree."
     },
     "captions": {
-      "en-US": "A grove of pond cypress trees with fall foliage, Georgia",
-      "en-GB": "A grove of pond cypress trees, Georgia, United States",
-      "en-CA": "A grove of pond cypress trees with fall foliage, Georgia, USA",
-      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA",
-      "fr-FR": "Cyprès des étangs, Géorgie, États-Unis",
-      "it-IT": "",
-      "es-ES": "Cipreses de estanque con color otoñal, Georgia, EE. UU.",
-      "pt-BR": "",
-      "ja-JP": "水面に映る秋の森",
-      "zh-CN": "",
-      "en-IN": "A grove of pond cypress trees, Georgia, United States"
+      "en-US": "A grove of pond cypress trees with fall foliage, Georgia"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Sumpfzypressen&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=cypr%c3%a8s+des+%c3%a9tangs&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
-      "it-IT": "https://www.bing.com/search?q=cipressi+delle+paludi&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=cipres+estanque&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=cipreste+dos+pantanos&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%9d%e3%83%b3%e3%83%89%e3%82%b5%e3%82%a4%e3%83%97%e3%83%ac%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261026_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%b1%a0%e6%9d%89&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261026_1830%22"
+      "en-US": "https://www.bing.com/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.PondCypress_EN-US0123444779",
-      "en-GB": "/th?id=OHR.PondCypress_EN-GB5711949030",
-      "en-CA": "/th?id=OHR.PondCypress_EN-CA4795569261",
-      "de-DE": "/th?id=OHR.PondCypress_DE-DE2656375905",
-      "fr-FR": "/th?id=OHR.PondCypress_FR-FR3578297716",
-      "it-IT": "/th?id=OHR.PondCypress_IT-IT6320902214",
-      "es-ES": "/th?id=OHR.PondCypress_ES-ES5888685254",
-      "pt-BR": "/th?id=OHR.PondCypress_PT-BR8608067056",
-      "ja-JP": "/th?id=OHR.PondCypress_JA-JP5777656593",
-      "zh-CN": "/th?id=OHR.PondCypress_ZH-CN9472607734",
-      "en-IN": "/th?id=OHR.PondCypress_EN-IN8944704657"
+      "en-US": "/th?id=OHR.PondCypress_EN-US0123444779"
     }
   },
-  "HangingBat": {
-    "name": "HangingBat",
-    "urlbase": "/th?id=OHR.HangingBat_EN-US7714746725",
-    "date": "20261026",
-    "dateFormatted": "October 26, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "Hanging in there. Bat Week"
-    },
-    "copyrights": {
-      "en-US": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)"
-    },
-    "descs": {
-      "en-US": "Bat Week shines a spotlight on some of the world's most important and often misunderstood mammals. Observed each October, the event celebrates the vital role bats play in healthy ecosystems across the globe. As pollinators, seed dispersers, and natural pest controllers, they support forests, farms, and food supplies. Some can consume thousands of insects in a single night, helping reduce the need for pesticides. With more than 1,500 species found worldwide, bats are the only mammals capable of sustained flight, making them one of nature's most impressive success stories."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-US": "Bat Week"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Bat+Week&form=hpcapt&filters=HpDate%3a%2220261026_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.HangingBat_EN-US7714746725"
-    }
-  },
-  "TrianaSpain": {
-    "name": "TrianaSpain",
-    "urlbase": "/th?id=OHR.TrianaSpain_EN-GB4312074959",
-    "date": "20261109",
-    "dateFormatted": "November 09, 2026",
+  "RoseIsland": {
+    "name": "RoseIsland",
+    "urlbase": "/th?id=OHR.RoseIsland_EN-GB4222638797",
+    "date": "20261110",
+    "dateFormatted": "November 10, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
       },
       {
         "code": "fr-FR",
@@ -1846,73 +1877,82 @@
       }
     ],
     "titles": {
-      "en-GB": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
-      "fr-FR": "Ici, l’art trouve son rythme. Quartier historique de Triana, Séville, Espagne",
-      "it-IT": "Dove l’arte trova il suo ritmo",
-      "es-ES": "Donde el arte encuentra su ritmo. Barrio histórico de Triana, Sevilla, España",
-      "pt-BR": "Onde o flamenco respira",
-      "ja-JP": "芸術がリズムを刻む街. セビリアの歴史地区トリアナ、スペイン",
-      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙",
-      "en-IN": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
-      "en-US": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
-      "en-CA": "Where art finds its rhythm. Historic district of Triana, Seville, Spain"
+      "en-GB": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
+      "en-CA": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
+      "de-DE": "Die Lizenz zum Chillen. Luftaufnahme von Rose Island, Bahamas",
+      "fr-FR": "Permis de se relaxer. Vue aérienne de Rose Island, aux Bahamas",
+      "it-IT": "Missione: relax",
+      "es-ES": "Con licencia para relajarse. Vista aérea de Rose Island, Bahamas",
+      "pt-BR": "Proibido ter pressa",
+      "ja-JP": "楽園でひと休み. ローズ島の空撮、バハマ",
+      "zh-CN": "玫瑰岛航拍图，巴哈马",
+      "en-IN": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
+      "en-US": "Licensed to chill. Aerial view of Rose Island, The Bahamas"
     },
     "copyrights": {
-      "en-GB": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
-      "fr-FR": "Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)",
-      "it-IT": "Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images)",
-      "es-ES": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
-      "pt-BR": "Bairro histórico de Triana, Sevilha, Espanha (© Andrzej Rostek/Getty Images)",
-      "ja-JP": "セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)",
-      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)",
-      "en-IN": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
-      "en-US": "© Andrzej Rostek/Getty Images",
-      "en-CA": "© Andrzej Rostek/Getty Images"
+      "en-GB": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+      "en-CA": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+      "de-DE": "Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+      "fr-FR": "Vue aérienne de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+      "it-IT": "Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+      "es-ES": "Vista aérea de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+      "pt-BR": "Vista aérea de Rose Island, nas Bahamas (© Abstract Aerial Art/Getty Images)",
+      "ja-JP": "ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)",
+      "zh-CN": "玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)",
+      "en-IN": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+      "en-US": "© Abstract Aerial Art/Getty Images"
     },
     "descs": {
-      "en-GB": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
-      "fr-FR": "En traversant le fleuve Guadalquivir à Séville, capitale de l’Andalousie en Espagne, l’ambiance change complètement. De l’autre côté de la rive se trouve Triana, un quartier haut en couleur où la céramique, le flamenco et les traditions locales font partie intégrante de la vie quotidienne. Depuis le XIXe siècle, le pont Isabelle II, également connu sous le nom de pont de Triana, relie ce quartier au centre historique de Séville.",
-      "es-ES": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
-      "ja-JP": "スペイン南部アンダルシア州の州都セビリアで、グアダルキビール川を渡ると、街の表情が少し変わります。対岸のトリアナは、フラメンコや昔ながらの文化が息づく色彩豊かな地区で、19世紀に架けられたイサベル2世橋（トリアナ橋）で歴史地区とつながっています。古くから陶器作りが盛んで、今も色鮮やかなタイルが建物や工房を彩っています。職人や市場、音楽、細い路地が織りなす独特の雰囲気こそ、トリアナならではの魅力です。",
-      "en-IN": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
-      "en-US": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
-      "en-CA": "Cross the Guadalquivir River and discover Triana, one of Seville’s most vibrant neighbourhoods. Connected to the city’s historic centre by the iconic Triana Bridge since the 19th century, this riverside district is known for its colourful ceramics, flamenco heritage and lively local culture. Brightly decorated buildings, traditional tile workshops and bustling markets give Triana a character all its own. Stroll along Calle Betis for scenic river views, explore streets lined with artisan studios, or simply soak up the neighbourhood’s welcoming atmosphere. While Seville’s famous landmarks are just steps away, Triana offers a unique glimpse into the traditions, creativity and everyday life that help define Andalusia.",
-      "it-IT": "Attraversato il Guadalquivir si ha come l’impressione che il ritmo di Siviglia cambi d’improvviso. Triana, situato sull’altra sponda del fiume, è un quartiere variopinto dove ceramiche, flamenco e tradizioni locali fanno parte integrante della vita quotidiana. Dal XIX secolo, il ponte Isabella II collega il centro città a questo storico quartiere. Passeggiando per le sue strade, si incontrano facciate decorate con “azulejos” (tipiche maioliche colorate), botteghe artigiane e vicoli dove si respira la storia del flamenco. Lungo Calle Betis, edifici dai colori vivaci si affacciano dolcemente sul fiume. Tra mercati, cortili piastrellati e terrazze, Triana conserva tutt’oggi un fascino unico.",
-      "pt-BR": "Ao atravessar o rio Guadalquivir em Sevilha, capital da região da Andaluzia, na Espanha, o ritmo da cidade parece mudar. Do outro lado fica Triana, um bairro colorido onde a cerâmica, o flamenco e as tradições locais se entrelaçam no cotidiano. Desde o século XIX, a Ponte Isabel II, também conhecida como Ponte de Triana, liga o bairro ao centro histórico de Sevilha. Triana não é definida por um único monumento. Seu encanto está na combinação de artesãos e mercados, música e pátios revestidos de azulejos, terraços à beira do rio e ruas estreitas. Sevilha pode estar logo do outro lado do rio, mas Triana tem um espírito próprio.",
-      "zh-CN": "在西班牙安达卢西亚地区首府塞维利亚，跨过瓜达尔基维尔河，城市的节奏似乎便悄然改变。河对岸是色彩缤纷的特里亚纳街区，陶艺、弗拉门戈和当地传统融入日常生活。自19世纪以来，伊莎贝尔二世桥——又称特里亚纳桥——一直连接着这里与塞维利亚的历史中心。"
+      "en-GB": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just five kilometres east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure Thunderball, including the explosive destruction of the Disco Volante.",
+      "en-CA": "Rose Island is a picture-perfect escape in The Bahamas, where lush greenery meets some of the most vibrant blue waters in the Caribbean. Located just a short boat ride from Nassau, this peaceful cay is known for its pristine beaches, crystal-clear shallows and relaxed island atmosphere. Movie fans may recognize it as a filming location from the 1965 James Bond adventure Thunderball, but today Rose Island's biggest attractions are its natural beauty and unique wildlife, including its famous swimming pigs. Viewed from above, the island showcases the dazzling colours that make The Bahamas world-renowned, with turquoise lagoons, sandy shoals and clear waters creating a breathtaking tropical landscape.",
+      "de-DE": "Von oben betrachtet wirkt Rose Island wie ein grüner Pinselstrich, umgeben von allen erdenklichen Blauschattierungen. Nur fünf Kilometer östlich von Paradise Island auf den Bahamas, bietet diese schlanke Insel weniger belebte Straßen und Stadtviertel, aber dafür mehr Sandstrände, seichtes Wasser und eine Lagune im Landesinneren. Ihr friedliches Erscheinungsbild wird von einer Prise filmischer Dramatik unterstrichen: Rose Island diente als Drehort für das James-Bond-Abenteuer „Thunderball“ aus dem Jahr 1965, einschließlich der explosiven Zerstörung der „Disco Volante“.",
+      "fr-FR": "Vue du ciel, Rose Island aux Bahamas ressemble à un coup de pinceau vert entouré de toutes les nuances de bleu. Cet îlot tout en longueur troque les routes encombrées et les quartiers urbains contre des plages de sable fin et des eaux cristallines. Rose Island est aussi une star de cinéma : le film de James Bond « Opération Tonnerre » (1965) y a été tourné, notamment  la scène spectaculaire de la destruction du yacht « Disco Volante ».",
+      "es-ES": "Vista desde arriba, Rose Island parece una pincelada verde rodeada por todos los matices del azul. A solo 4,8 kilómetros al este de Paradise Island, en las Bahamas, este estrecho cayo cambia las carreteras transitadas y las manzanas urbanas por costas arenosas, aguas poco profundas y una laguna interior. Su apacible apariencia también guarda un toque de dramatismo cinematográfico. Rose Island sirvió como localización para la película de James Bond.",
+      "ja-JP": "上空から眺めるローズ島は、さまざまな青に囲まれた緑のひと筆のように見えます。バハマのパラダイス島から東へ約5キロの場所にある細長い島で、砂浜や浅瀬、島内のラグーンが広がっています。この穏やかな島は、1965年のジェームズ・ボンド映画「007 サンダーボール作戦」のロケ地として使われたほか、泳ぐ豚でも知られています。透明な海と白い砂が織りなすターコイズブルーや深い青のグラデーションは、真上から見下ろすといっそう鮮やかです。",
+      "en-IN": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just five kilometres east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball', including the explosive destruction of the Disco Volante.",
+      "en-US": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just three miles east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters, and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball,' including the explosive destruction of the Disco Volante.",
+      "it-IT": "Vista dall’alto, Rose Island sembra una pennellata di verde immersa nelle mille sfumature di blu delle Bahamas. A pochi chilometri da Paradise Island, l’isola è circondata da spiagge sabbiose, bassi fondali e acque cristalline, e racchiude al suo interno una tranquilla laguna. Nel 1965 fu scelta come location per alcune riprese del film di James Bond “Thunderball”, ma oggi è conosciuta anche per i suoi simpatici maialini nuotatori. Tra spiagge bianche, barriere coralline e acque dai colori spettacolari, Rose Island regala dall’alto un panorama paradisiaco.",
+      "pt-BR": "Vista de cima, Rose Island parece uma pincelada de verde cercada por todos os tons de azul. Situada a apenas cinco quilômetros a leste de Paradise Island, nas Bahamas, essa estreita ilhota troca estradas movimentadas e quarteirões urbanos por praias de areia, águas rasas e uma lagoa interior. Sua aparência tranquila também traz um toque de drama cinematográfico. Rose Island foi usada como locação no filme de James Bond de 1965, 007 Contra a Chantagem Atômica (Thunderball), incluindo a explosiva destruição do Disco Volante.",
+      "zh-CN": "从空中俯瞰，玫瑰岛就像一抹绿意，周围环绕着深浅不一的蓝色海水。这座狭长的小岛位于巴哈马天堂岛以东仅三英里处，没有繁忙的道路和成片的城市街区，取而代之的是沙滩、浅海和岛内潟湖。宁静的外表之下，它还藏着一段电影故事：1965年的詹姆斯·邦德冒险电影《霹雳弹》曾在玫瑰岛取景，其中包括“飞碟号”被炸毁的场景。"
     },
     "quickFacts": {
-      "zh-CN": "特里亚纳市场下方保留着圣豪尔赫城堡的遗址；这座城堡曾是宗教裁判所的总部，如今设有历史展览。"
+      "zh-CN": "玫瑰岛只能乘船抵达；从拿骚或天堂岛出发，航程通常需25至30分钟，具体取决于海况。"
     },
     "captions": {
-      "en-GB": "Historic district of Triana, Seville, Spain",
-      "fr-FR": "Quartier historique de Triana, Séville, Espagne",
+      "en-GB": "Aerial view of Rose Island, The Bahamas",
+      "en-CA": "Aerial view of Rose Island, The Bahamas",
+      "de-DE": "Luftaufnahme von Rose Island, Bahamas",
+      "fr-FR": "Vue aérienne de Rose Island, aux Bahamas",
       "it-IT": "",
-      "es-ES": "Barrio histórico de Triana, Sevilla, España",
+      "es-ES": "Vista aérea de Rose Island, Bahamas",
       "pt-BR": "",
-      "ja-JP": "セビリアの歴史地区トリアナ、スペイン",
+      "ja-JP": "ローズ島の空撮、バハマ",
       "zh-CN": "",
-      "en-IN": "Historic district of Triana, Seville, Spain"
+      "en-IN": "Aerial view of Rose Island, The Bahamas"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0000%22",
-      "fr-FR": "https://www.bing.com/search?q=S%c3%a9ville+Espagne&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Siviglia+Spagna&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Sevilla+Espa%c3%b1a&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Sevilha+Espanha&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%bb%e3%83%93%e3%83%aa%e3%82%a2+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261108_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%a1%9e%e7%bb%b4%e5%88%a9%e4%ba%9a&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261108_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Rose+Island+nas+Bahamas&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%ad%e3%83%bc%e3%82%ba%e5%b3%b6+%e3%83%90%e3%83%8f%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220261109_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac%e7%8e%ab%e7%91%b0%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.TrianaSpain_EN-GB4312074959",
-      "fr-FR": "/th?id=OHR.TrianaSpain_FR-FR5872801405",
-      "it-IT": "/th?id=OHR.TrianaSpain_IT-IT6419651277",
-      "es-ES": "/th?id=OHR.TrianaSpain_ES-ES2622392783",
-      "pt-BR": "/th?id=OHR.TrianaSpain_PT-BR8294912902",
-      "ja-JP": "/th?id=OHR.TrianaSpain_JA-JP2076026093",
-      "zh-CN": "/th?id=OHR.TrianaSpain_ZH-CN6329291776",
-      "en-IN": "/th?id=OHR.TrianaSpain_EN-IN5231956941"
+      "en-GB": "/th?id=OHR.RoseIsland_EN-GB4222638797",
+      "en-CA": "/th?id=OHR.RoseIsland_EN-CA5604124548",
+      "de-DE": "/th?id=OHR.RoseIsland_DE-DE1760101963",
+      "fr-FR": "/th?id=OHR.RoseIsland_FR-FR0867516842",
+      "it-IT": "/th?id=OHR.RoseIsland_IT-IT6994665330",
+      "es-ES": "/th?id=OHR.RoseIsland_ES-ES2836865726",
+      "pt-BR": "/th?id=OHR.RoseIsland_PT-BR8484348763",
+      "ja-JP": "/th?id=OHR.RoseIsland_JA-JP3257968381",
+      "zh-CN": "/th?id=OHR.RoseIsland_ZH-CN6477140814",
+      "en-IN": "/th?id=OHR.RoseIsland_EN-IN1259562642"
     }
   },
   "FireworksBattersea": {
@@ -2080,6 +2120,70 @@
       "en-IN": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203"
     }
   },
+  "MauerBerlin": {
+    "name": "MauerBerlin",
+    "urlbase": "/th?id=OHR.MauerBerlin_DE-DE4395338070",
+    "date": "20261108",
+    "dateFormatted": "November 08, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Die Nacht, die Deutschland veränderte. Der Fall der Berliner Mauer"
+    },
+    "copyrights": {
+      "de-DE": "Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Der 9. November 1989 war ein historischer Tag für Berlin und Deutschland. Am Abend verkündete der DDR-Politiker Günter Schabowski auf einer Pressekonferenz neue Reiseregelungen. Auf die Frage, wann diese gelten sollten, antwortete er voreilig und versehentlich, dies sei „sofort“ und „unverzüglich“ der Fall. Daraufhin strömten Tausende Menschen zu den Grenzübergängen in Berlin. Die Grenzsoldaten waren auf den großen Andrang nicht vorbereitet und öffneten schließlich die Übergänge."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Der Fall der Berliner Mauer"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Fall+der+Berliner+Mauer&form=hpcapt&filters=HpDate%3a%2220261108_2300%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.MauerBerlin_DE-DE4395338070"
+    }
+  },
+  "HangingBat": {
+    "name": "HangingBat",
+    "urlbase": "/th?id=OHR.HangingBat_EN-US7714746725",
+    "date": "20261026",
+    "dateFormatted": "October 26, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Hanging in there. Bat Week"
+    },
+    "copyrights": {
+      "en-US": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)"
+    },
+    "descs": {
+      "en-US": "Bat Week shines a spotlight on some of the world's most important and often misunderstood mammals. Observed each October, the event celebrates the vital role bats play in healthy ecosystems across the globe. As pollinators, seed dispersers, and natural pest controllers, they support forests, farms, and food supplies. Some can consume thousands of insects in a single night, helping reduce the need for pesticides. With more than 1,500 species found worldwide, bats are the only mammals capable of sustained flight, making them one of nature's most impressive success stories."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Bat Week"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Bat+Week&form=hpcapt&filters=HpDate%3a%2220261026_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.HangingBat_EN-US7714746725"
+    }
+  },
   "SitovoWaterfall": {
     "name": "SitovoWaterfall",
     "urlbase": "/th?id=OHR.SitovoWaterfall_EN-CA2117878012",
@@ -2139,38 +2243,6 @@
     },
     "urlbases": {
       "en-CA": "/th?id=OHR.SitovoWaterfall_EN-CA2117878012"
-    }
-  },
-  "MauerBerlin": {
-    "name": "MauerBerlin",
-    "urlbase": "/th?id=OHR.MauerBerlin_DE-DE4395338070",
-    "date": "20261108",
-    "dateFormatted": "November 08, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Die Nacht, die Deutschland veränderte. Der Fall der Berliner Mauer"
-    },
-    "copyrights": {
-      "de-DE": "Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Der 9. November 1989 war ein historischer Tag für Berlin und Deutschland. Am Abend verkündete der DDR-Politiker Günter Schabowski auf einer Pressekonferenz neue Reiseregelungen. Auf die Frage, wann diese gelten sollten, antwortete er voreilig und versehentlich, dies sei „sofort“ und „unverzüglich“ der Fall. Daraufhin strömten Tausende Menschen zu den Grenzübergängen in Berlin. Die Grenzsoldaten waren auf den großen Andrang nicht vorbereitet und öffneten schließlich die Übergänge."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Der Fall der Berliner Mauer"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Fall+der+Berliner+Mauer&form=hpcapt&filters=HpDate%3a%2220261108_2300%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.MauerBerlin_DE-DE4395338070"
     }
   },
   "SneffelsAutumn": {
