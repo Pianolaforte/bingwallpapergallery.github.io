@@ -1,4 +1,148 @@
 {
+  "RoseIsland": {
+    "name": "RoseIsland",
+    "urlbase": "/th?id=OHR.RoseIsland_EN-US0952497192",
+    "date": "20261110",
+    "dateFormatted": "November 10, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
+      "en-GB": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
+      "en-CA": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
+      "de-DE": "Die Lizenz zum Chillen. Luftaufnahme von Rose Island, Bahamas",
+      "fr-FR": "Permis de se relaxer. Vue aérienne de Rose Island, aux Bahamas",
+      "it-IT": "Missione: relax",
+      "es-ES": "Con licencia para relajarse. Vista aérea de Rose Island, Bahamas",
+      "pt-BR": "Proibido ter pressa",
+      "ja-JP": "楽園でひと休み. ローズ島の空撮、バハマ",
+      "zh-CN": "玫瑰岛航拍图，巴哈马",
+      "en-IN": "Licensed to chill. Aerial view of Rose Island, The Bahamas"
+    },
+    "copyrights": {
+      "en-US": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+      "en-GB": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+      "en-CA": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+      "de-DE": "Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+      "fr-FR": "Vue aérienne de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+      "it-IT": "Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+      "es-ES": "Vista aérea de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+      "pt-BR": "Vista aérea de Rose Island, nas Bahamas (© Abstract Aerial Art/Getty Images)",
+      "ja-JP": "ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)",
+      "zh-CN": "玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)",
+      "en-IN": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)"
+    },
+    "descs": {
+      "en-US": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just three miles east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters, and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball,' including the explosive destruction of the Disco Volante.",
+      "en-GB": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just five kilometres east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure Thunderball, including the explosive destruction of the Disco Volante.",
+      "en-CA": "Rose Island is a picture-perfect escape in The Bahamas, where lush greenery meets some of the most vibrant blue waters in the Caribbean. Located just a short boat ride from Nassau, this peaceful cay is known for its pristine beaches, crystal-clear shallows and relaxed island atmosphere. Movie fans may recognize it as a filming location from the 1965 James Bond adventure Thunderball, but today Rose Island's biggest attractions are its natural beauty and unique wildlife, including its famous swimming pigs. Viewed from above, the island showcases the dazzling colours that make The Bahamas world-renowned, with turquoise lagoons, sandy shoals and clear waters creating a breathtaking tropical landscape.",
+      "de-DE": "Von oben betrachtet wirkt Rose Island wie ein grüner Pinselstrich, umgeben von allen erdenklichen Blauschattierungen. Nur fünf Kilometer östlich von Paradise Island auf den Bahamas, bietet diese schlanke Insel weniger belebte Straßen und Stadtviertel, aber dafür mehr Sandstrände, seichtes Wasser und eine Lagune im Landesinneren. Ihr friedliches Erscheinungsbild wird von einer Prise filmischer Dramatik unterstrichen: Rose Island diente als Drehort für das James-Bond-Abenteuer „Thunderball“ aus dem Jahr 1965, einschließlich der explosiven Zerstörung der „Disco Volante“.",
+      "fr-FR": "Vue du ciel, Rose Island aux Bahamas ressemble à un coup de pinceau vert entouré de toutes les nuances de bleu. Cet îlot tout en longueur troque les routes encombrées et les quartiers urbains contre des plages de sable fin et des eaux cristallines. Rose Island est aussi une star de cinéma : le film de James Bond « Opération Tonnerre » (1965) y a été tourné, notamment  la scène spectaculaire de la destruction du yacht « Disco Volante ».",
+      "es-ES": "Vista desde arriba, Rose Island parece una pincelada verde rodeada por todos los matices del azul. A solo 4,8 kilómetros al este de Paradise Island, en las Bahamas, este estrecho cayo cambia las carreteras transitadas y las manzanas urbanas por costas arenosas, aguas poco profundas y una laguna interior. Su apacible apariencia también guarda un toque de dramatismo cinematográfico. Rose Island sirvió como localización para la película de James Bond.",
+      "ja-JP": "上空から眺めるローズ島は、さまざまな青に囲まれた緑のひと筆のように見えます。バハマのパラダイス島から東へ約5キロの場所にある細長い島で、砂浜や浅瀬、島内のラグーンが広がっています。この穏やかな島は、1965年のジェームズ・ボンド映画「007 サンダーボール作戦」のロケ地として使われたほか、泳ぐ豚でも知られています。透明な海と白い砂が織りなすターコイズブルーや深い青のグラデーションは、真上から見下ろすといっそう鮮やかです。",
+      "en-IN": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just five kilometres east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball', including the explosive destruction of the Disco Volante.",
+      "it-IT": "Vista dall’alto, Rose Island sembra una pennellata di verde immersa nelle mille sfumature di blu delle Bahamas. A pochi chilometri da Paradise Island, l’isola è circondata da spiagge sabbiose, bassi fondali e acque cristalline, e racchiude al suo interno una tranquilla laguna. Nel 1965 fu scelta come location per alcune riprese del film di James Bond “Thunderball”, ma oggi è conosciuta anche per i suoi simpatici maialini nuotatori. Tra spiagge bianche, barriere coralline e acque dai colori spettacolari, Rose Island regala dall’alto un panorama paradisiaco.",
+      "pt-BR": "Vista de cima, Rose Island parece uma pincelada de verde cercada por todos os tons de azul. Situada a apenas cinco quilômetros a leste de Paradise Island, nas Bahamas, essa estreita ilhota troca estradas movimentadas e quarteirões urbanos por praias de areia, águas rasas e uma lagoa interior. Sua aparência tranquila também traz um toque de drama cinematográfico. Rose Island foi usada como locação no filme de James Bond de 1965, 007 Contra a Chantagem Atômica (Thunderball), incluindo a explosiva destruição do Disco Volante.",
+      "zh-CN": "从空中俯瞰，玫瑰岛就像一抹绿意，周围环绕着深浅不一的蓝色海水。这座狭长的小岛位于巴哈马天堂岛以东仅三英里处，没有繁忙的道路和成片的城市街区，取而代之的是沙滩、浅海和岛内潟湖。宁静的外表之下，它还藏着一段电影故事：1965年的詹姆斯·邦德冒险电影《霹雳弹》曾在玫瑰岛取景，其中包括“飞碟号”被炸毁的场景。"
+    },
+    "quickFacts": {
+      "zh-CN": "玫瑰岛只能乘船抵达；从拿骚或天堂岛出发，航程通常需25至30分钟，具体取决于海况。"
+    },
+    "captions": {
+      "en-US": "Aerial view of Rose Island, The Bahamas",
+      "en-GB": "Aerial view of Rose Island, The Bahamas",
+      "en-CA": "Aerial view of Rose Island, The Bahamas",
+      "de-DE": "Luftaufnahme von Rose Island, Bahamas",
+      "fr-FR": "Vue aérienne de Rose Island, aux Bahamas",
+      "it-IT": "",
+      "es-ES": "Vista aérea de Rose Island, Bahamas",
+      "pt-BR": "",
+      "ja-JP": "ローズ島の空撮、バハマ",
+      "zh-CN": "",
+      "en-IN": "Aerial view of Rose Island, The Bahamas"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Rose+Island+nas+Bahamas&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%ad%e3%83%bc%e3%82%ba%e5%b3%b6+%e3%83%90%e3%83%8f%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220261109_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac%e7%8e%ab%e7%91%b0%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.RoseIsland_EN-US0952497192",
+      "en-GB": "/th?id=OHR.RoseIsland_EN-GB4222638797",
+      "en-CA": "/th?id=OHR.RoseIsland_EN-CA5604124548",
+      "de-DE": "/th?id=OHR.RoseIsland_DE-DE1760101963",
+      "fr-FR": "/th?id=OHR.RoseIsland_FR-FR0867516842",
+      "it-IT": "/th?id=OHR.RoseIsland_IT-IT6994665330",
+      "es-ES": "/th?id=OHR.RoseIsland_ES-ES2836865726",
+      "pt-BR": "/th?id=OHR.RoseIsland_PT-BR8484348763",
+      "ja-JP": "/th?id=OHR.RoseIsland_JA-JP3257968381",
+      "zh-CN": "/th?id=OHR.RoseIsland_ZH-CN6477140814",
+      "en-IN": "/th?id=OHR.RoseIsland_EN-IN1259562642"
+    }
+  },
   "TrianaSpain": {
     "name": "TrianaSpain",
     "urlbase": "/th?id=OHR.TrianaSpain_EN-US0872031458",
@@ -769,7 +913,7 @@
       "es-ES": "Remando en un bosque colorido. Coloridos cipreses calvos, Xuancheng, Anhui, China",
       "pt-BR": "A floresta virou galeria",
       "ja-JP": "秋色の森を水上散歩. 色鮮やかなラクウショウ、安徽省宣城市、中国",
-      "zh-CN": "五彩落羽杉间划船的人们，宣城，安徽省，中国",
+      "zh-CN": "泛舟如画秋林",
       "en-IN": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China"
     },
     "copyrights": {
@@ -1615,60 +1759,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
-      "en-GB": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
       "en-CA": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "en-GB": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
       "de-DE": "Wo Geschichte Wache hält. Burg Kunětická hora, Böhmen, Tschechien",
       "fr-FR": "Gardien de l’histoire. Château de Kunětická hora, Bohême, Tchéquie",
       "it-IT": "Secoli sopra la Boemia",
@@ -1680,8 +1779,8 @@
     },
     "copyrights": {
       "en-US": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
-      "en-GB": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
       "en-CA": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "en-GB": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
       "de-DE": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
       "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy)",
       "it-IT": "Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy)",
@@ -1693,8 +1792,8 @@
     },
     "descs": {
       "en-US": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "en-GB": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
       "en-CA": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "en-GB": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
       "de-DE": "Was könnten diese Mauern wohl alles erzählen? Hoch über der ostböhmischen Landschaft thront die Burg Kunětická hora, die im Deutschen auch als Kunburg bekannt ist. Bereits in der zweiten Hälfte des 14. Jahrhunderts stand an dieser Stelle eine ausgedehnte Burganlage. Ihre erhöhte Lage machte sie weithin sichtbar und zu einem wichtigen strategischen Stützpunkt.",
       "fr-FR": "Quelles histoires ces murailles pourraient-elles raconter ? Dominant la Bohême orientale, en Tchéquie, le château de Kunětická hora veille sur la campagne depuis la fin du XIVᵉ siècle. Progressivement agrandi, il devint à la fois une imposante forteresse et une résidence aristocratique. Sa position élevée offrait un vaste panorama sur les plaines environnantes et faisait du château un bastion stratégique.",
       "es-ES": "¿Qué historias contarían estos muros? El castillo de Kunětická hora se alza sobre un cerro solitario en el este de Bohemia, en en Chequia, y lleva siglos vigilando la llanura del Elba. A finales del siglo XIV ya había una fortaleza en esta colina, y su posición elevada, que permitía controlar todo el territorio circundante, la convirtió en una plaza codiciada.",
@@ -1709,250 +1808,49 @@
     },
     "captions": {
       "en-US": "Kunětická hora Castle, Bohemia, Czechia",
-      "en-GB": "Kunětická hora Castle, Bohemia, Czechia",
-      "en-CA": "Kunětická hora Castle, Bohemia, Czechia",
-      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien",
-      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie",
-      "it-IT": "",
-      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia",
-      "pt-BR": "",
-      "ja-JP": "夕暮れに佇む古城",
-      "zh-CN": "",
-      "en-IN": "Kunětická hora Castle, Bohemia, Czechia"
+      "en-CA": "Kunětická hora Castle, Bohemia, Czechia"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Burg+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=ch%c3%a2teau+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Castello+di+Kun%c4%9btick%c3%a1+hora&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Castillo+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Castelo+de+Kuneticka+hora+Ch%c3%a9quia&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle+&form=hpcapt&filters=HpDate%3a%2220261027_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%ba%93%e6%b6%85%e5%ad%a3%e9%87%87%e5%b1%b1%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261027_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0400%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.KuneticeCastle_EN-US9492527404",
-      "en-GB": "/th?id=OHR.KuneticeCastle_EN-GB5805400783",
-      "en-CA": "/th?id=OHR.KuneticeCastle_EN-CA2792060952",
-      "de-DE": "/th?id=OHR.KuneticeCastle_DE-DE2818546067",
-      "fr-FR": "/th?id=OHR.KuneticeCastle_FR-FR0560907896",
-      "it-IT": "/th?id=OHR.KuneticeCastle_IT-IT9181989032",
-      "es-ES": "/th?id=OHR.KuneticeCastle_ES-ES0637644398",
-      "pt-BR": "/th?id=OHR.KuneticeCastle_PT-BR8917469200",
-      "ja-JP": "/th?id=OHR.KuneticeCastle_JA-JP3914699688",
-      "zh-CN": "/th?id=OHR.KuneticeCastle_ZH-CN8895858920",
-      "en-IN": "/th?id=OHR.KuneticeCastle_EN-IN9209042094"
+      "en-CA": "/th?id=OHR.KuneticeCastle_EN-CA2792060952"
     }
   },
-  "PondCypress": {
-    "name": "PondCypress",
-    "urlbase": "/th?id=OHR.PondCypress_EN-US0123444779",
-    "date": "20261027",
-    "dateFormatted": "October 27, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia",
-      "en-GB": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States",
-      "en-CA": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia, USA",
-      "de-DE": "Goldener Spiegel der Natur. Teichzypressen in herbstlicher Färbung, Georgia, USA",
-      "fr-FR": "Le reflet doré de la nature. Cyprès des étangs, Géorgie, États-Unis",
-      "it-IT": "Riflessi dorati",
-      "es-ES": "Reflejos dorados. Cipreses de estanque con color otoñal, Georgia, EE. UU.",
-      "pt-BR": "Um espelho com raízes",
-      "ja-JP": "水面に映る秋の森",
-      "zh-CN": "大自然的金色明镜",
-      "en-IN": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States"
-    },
-    "copyrights": {
-      "en-US": "A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)",
-      "en-GB": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
-      "en-CA": "A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images)",
-      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images)",
-      "fr-FR": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
-      "it-IT": "Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images)",
-      "es-ES": "Bosque de cipreses de estanque, Georgia, EE. UU. (© Chris Moore/Getty Images)",
-      "pt-BR": "Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)",
-      "ja-JP": "ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)",
-      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)",
-      "en-IN": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of color and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions, and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
-      "en-GB": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
-      "en-CA": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
-      "de-DE": "Goldenes Licht, stilles Wasser und Zypressen, die sich nahezu perfekt darin spiegeln. Diese Szenerie wirkt wie gemalt. Die Teichzypresse ist im Südosten der USA heimisch und gedeiht vor allem in flachen Teichen, Senken und Feuchtgebieten. Diese Aufnahme entstand im US-Bundesstaat Georgia, wo die Bäume unter anderem im Okefenokee-Sumpf zu finden sind. Anders als die meisten Nadelbäume wirft die Teichzypresse im Herbst ihr nadelartiges Laub ab. Zuvor färbt es sich in warme Gelb-, Kupfer- und Orangebrauntöne. Die Art ist eng mit der weiter verbreiteten Sumpfzypresse verwandt, bleibt jedoch meist kleiner und bevorzugt stehende oder flache Gewässer.",
-      "fr-FR": "Se reflétant dans une eau paisible sous la lumière dorée du couchant, ce bosquet de cyprès des étangs compose un saisissant tableau de couleurs et de symétrie. Originaire du sud-est des États-Unis, cet arbre affectionne les mares peu profondes, les dépressions humides et les zones marécageuses. En Géorgie (États-Unis), où cette image a été capturée, il peuple notamment le célèbre marais d’Okefenokee et d’autres terres basses gorgées d’eau.",
-      "es-ES": "Reflejado en un agua sin una onda y encendido por la última luz del día, este bosquete de cipreses de estanque compone una escena de simetría casi perfecta. La especie es propia del sureste de Estados Unidos y esta imagen se tomó en Georgia, donde crece en lugares como el gran pantano de Okefenokee y otros humedales de tierras bajas.",
-      "ja-JP": "今日の画像は、米国ジョージア州で見られるポンドサイプレス。ヒノキ科、ヌマスギ属の樹木で、細い葉が小枝に沿うようにつくのが特徴です。秋から冬にかけて球果が成熟します。水辺では「膝根（しっこん）」と呼ばれる根の突起を形成することがあり、米国南東部の池や沼地などの湿地に分布しています。こうした湿地林は、さまざまな生物の重要な生息地となっています。",
-      "en-IN": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
-      "it-IT": "Riflesso in un'acqua senza una piega e illuminato dall'ultima luce del giorno, questo boschetto di cipressi compone una scena di simmetria quasi perfetta. La specie è tipica del sud-est degli Stati Uniti e l'immagine è stata scattata in Georgia, dove cresce in luoghi come la grande palude di Okefenokee e altre zone umide di pianura.",
-      "pt-BR": "Olhando esta paisagem, dá para jurar que o outono resolveu trocar as montanhas por um pântano. Quase. O cenário está na Geórgia, nos Estados Unidos, onde o cipreste-dos-pântanos forma extensos bosques em águas rasas e terrenos encharcados.",
-      "zh-CN": "这片池杉林倒映在平静的水面上，在落日余晖中熠熠生辉，呈现出色彩与对称之美，令人叹为观止。池杉原产于美国东南部，通常生长在浅水池塘、洼地和湿地生境中。这张照片拍摄于乔治亚州，当地的奥克弗诺基沼泽及其他低洼湿地中均可见这些树木。"
-    },
-    "quickFacts": {
-      "en-US": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
-      "en-GB": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
-      "en-CA": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
-      "de-DE": "Teichzypressen können sogenannte Atemknie entwickeln, knollenartige Wurzelstrukturen, die rund um den Baum aus dem Wasser oder Boden herausragen.",
-      "fr-FR": "Le cyprès des étangs peut développer des racines noueuses, appelées « genoux », qui émergent de l'eau ou du sol autour de l'arbre.",
-      "it-IT": "Il cipresso delle paludi sviluppa radici nodose chiamate «ginocchia», che emergono dall'acqua o dal terreno attorno all'albero.",
-      "es-ES": "El ciprés de estanque desarrolla raíces nudosas conocidas como «rodillas», que emergen del agua o del suelo alrededor del árbol.",
-      "zh-CN": "池杉会长出被称为“膝根”的瘤状根部结构，高出树木周围的水面或土壤。",
-      "en-IN": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree."
-    },
-    "captions": {
-      "en-US": "A grove of pond cypress trees with fall foliage, Georgia"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.PondCypress_EN-US0123444779"
-    }
-  },
-  "RoseIsland": {
-    "name": "RoseIsland",
-    "urlbase": "/th?id=OHR.RoseIsland_EN-GB4222638797",
-    "date": "20261110",
-    "dateFormatted": "November 10, 2026",
+  "PoppiesField": {
+    "name": "PoppiesField",
+    "urlbase": "/th?id=OHR.PoppiesField_EN-GB3947926925",
+    "date": "20261111",
+    "dateFormatted": "November 11, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
-      "en-GB": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
-      "en-CA": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
-      "de-DE": "Die Lizenz zum Chillen. Luftaufnahme von Rose Island, Bahamas",
-      "fr-FR": "Permis de se relaxer. Vue aérienne de Rose Island, aux Bahamas",
-      "it-IT": "Missione: relax",
-      "es-ES": "Con licencia para relajarse. Vista aérea de Rose Island, Bahamas",
-      "pt-BR": "Proibido ter pressa",
-      "ja-JP": "楽園でひと休み. ローズ島の空撮、バハマ",
-      "zh-CN": "玫瑰岛航拍图，巴哈马",
-      "en-IN": "Licensed to chill. Aerial view of Rose Island, The Bahamas",
-      "en-US": "Licensed to chill. Aerial view of Rose Island, The Bahamas"
+      "en-GB": "We will remember them. Remembrance Day"
     },
     "copyrights": {
-      "en-GB": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
-      "en-CA": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
-      "de-DE": "Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
-      "fr-FR": "Vue aérienne de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
-      "it-IT": "Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
-      "es-ES": "Vista aérea de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
-      "pt-BR": "Vista aérea de Rose Island, nas Bahamas (© Abstract Aerial Art/Getty Images)",
-      "ja-JP": "ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)",
-      "zh-CN": "玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)",
-      "en-IN": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
-      "en-US": "© Abstract Aerial Art/Getty Images"
+      "en-GB": "A field of poppies (© lloyd-horgan/Getty Images)"
     },
     "descs": {
-      "en-GB": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just five kilometres east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure Thunderball, including the explosive destruction of the Disco Volante.",
-      "en-CA": "Rose Island is a picture-perfect escape in The Bahamas, where lush greenery meets some of the most vibrant blue waters in the Caribbean. Located just a short boat ride from Nassau, this peaceful cay is known for its pristine beaches, crystal-clear shallows and relaxed island atmosphere. Movie fans may recognize it as a filming location from the 1965 James Bond adventure Thunderball, but today Rose Island's biggest attractions are its natural beauty and unique wildlife, including its famous swimming pigs. Viewed from above, the island showcases the dazzling colours that make The Bahamas world-renowned, with turquoise lagoons, sandy shoals and clear waters creating a breathtaking tropical landscape.",
-      "de-DE": "Von oben betrachtet wirkt Rose Island wie ein grüner Pinselstrich, umgeben von allen erdenklichen Blauschattierungen. Nur fünf Kilometer östlich von Paradise Island auf den Bahamas, bietet diese schlanke Insel weniger belebte Straßen und Stadtviertel, aber dafür mehr Sandstrände, seichtes Wasser und eine Lagune im Landesinneren. Ihr friedliches Erscheinungsbild wird von einer Prise filmischer Dramatik unterstrichen: Rose Island diente als Drehort für das James-Bond-Abenteuer „Thunderball“ aus dem Jahr 1965, einschließlich der explosiven Zerstörung der „Disco Volante“.",
-      "fr-FR": "Vue du ciel, Rose Island aux Bahamas ressemble à un coup de pinceau vert entouré de toutes les nuances de bleu. Cet îlot tout en longueur troque les routes encombrées et les quartiers urbains contre des plages de sable fin et des eaux cristallines. Rose Island est aussi une star de cinéma : le film de James Bond « Opération Tonnerre » (1965) y a été tourné, notamment  la scène spectaculaire de la destruction du yacht « Disco Volante ».",
-      "es-ES": "Vista desde arriba, Rose Island parece una pincelada verde rodeada por todos los matices del azul. A solo 4,8 kilómetros al este de Paradise Island, en las Bahamas, este estrecho cayo cambia las carreteras transitadas y las manzanas urbanas por costas arenosas, aguas poco profundas y una laguna interior. Su apacible apariencia también guarda un toque de dramatismo cinematográfico. Rose Island sirvió como localización para la película de James Bond.",
-      "ja-JP": "上空から眺めるローズ島は、さまざまな青に囲まれた緑のひと筆のように見えます。バハマのパラダイス島から東へ約5キロの場所にある細長い島で、砂浜や浅瀬、島内のラグーンが広がっています。この穏やかな島は、1965年のジェームズ・ボンド映画「007 サンダーボール作戦」のロケ地として使われたほか、泳ぐ豚でも知られています。透明な海と白い砂が織りなすターコイズブルーや深い青のグラデーションは、真上から見下ろすといっそう鮮やかです。",
-      "en-IN": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just five kilometres east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball', including the explosive destruction of the Disco Volante.",
-      "en-US": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just three miles east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters, and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball,' including the explosive destruction of the Disco Volante.",
-      "it-IT": "Vista dall’alto, Rose Island sembra una pennellata di verde immersa nelle mille sfumature di blu delle Bahamas. A pochi chilometri da Paradise Island, l’isola è circondata da spiagge sabbiose, bassi fondali e acque cristalline, e racchiude al suo interno una tranquilla laguna. Nel 1965 fu scelta come location per alcune riprese del film di James Bond “Thunderball”, ma oggi è conosciuta anche per i suoi simpatici maialini nuotatori. Tra spiagge bianche, barriere coralline e acque dai colori spettacolari, Rose Island regala dall’alto un panorama paradisiaco.",
-      "pt-BR": "Vista de cima, Rose Island parece uma pincelada de verde cercada por todos os tons de azul. Situada a apenas cinco quilômetros a leste de Paradise Island, nas Bahamas, essa estreita ilhota troca estradas movimentadas e quarteirões urbanos por praias de areia, águas rasas e uma lagoa interior. Sua aparência tranquila também traz um toque de drama cinematográfico. Rose Island foi usada como locação no filme de James Bond de 1965, 007 Contra a Chantagem Atômica (Thunderball), incluindo a explosiva destruição do Disco Volante.",
-      "zh-CN": "从空中俯瞰，玫瑰岛就像一抹绿意，周围环绕着深浅不一的蓝色海水。这座狭长的小岛位于巴哈马天堂岛以东仅三英里处，没有繁忙的道路和成片的城市街区，取而代之的是沙滩、浅海和岛内潟湖。宁静的外表之下，它还藏着一段电影故事：1965年的詹姆斯·邦德冒险电影《霹雳弹》曾在玫瑰岛取景，其中包括“飞碟号”被炸毁的场景。"
+      "en-GB": "We will remember them. A field of poppies. For Remembrance Day, we are looking out over a field of poppies, recognised as symbols of remembrance for more than a century."
     },
     "quickFacts": {
-      "zh-CN": "玫瑰岛只能乘船抵达；从拿骚或天堂岛出发，航程通常需25至30分钟，具体取决于海况。"
+      "en-GB": "The Poppy Appeal raised £56.6m in 2025 for work to support serving personnel, veterans and their families."
     },
     "captions": {
-      "en-GB": "Aerial view of Rose Island, The Bahamas",
-      "en-CA": "Aerial view of Rose Island, The Bahamas",
-      "de-DE": "Luftaufnahme von Rose Island, Bahamas",
-      "fr-FR": "Vue aérienne de Rose Island, aux Bahamas",
-      "it-IT": "",
-      "es-ES": "Vista aérea de Rose Island, Bahamas",
-      "pt-BR": "",
-      "ja-JP": "ローズ島の空撮、バハマ",
-      "zh-CN": "",
-      "en-IN": "Aerial view of Rose Island, The Bahamas"
+      "en-GB": "Remembrance Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Rose+Island+nas+Bahamas&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%ad%e3%83%bc%e3%82%ba%e5%b3%b6+%e3%83%90%e3%83%8f%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220261109_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac%e7%8e%ab%e7%91%b0%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Remembrance+Day&form=hpcapt&filters=HpDate%3a%2220261111_0000%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.RoseIsland_EN-GB4222638797",
-      "en-CA": "/th?id=OHR.RoseIsland_EN-CA5604124548",
-      "de-DE": "/th?id=OHR.RoseIsland_DE-DE1760101963",
-      "fr-FR": "/th?id=OHR.RoseIsland_FR-FR0867516842",
-      "it-IT": "/th?id=OHR.RoseIsland_IT-IT6994665330",
-      "es-ES": "/th?id=OHR.RoseIsland_ES-ES2836865726",
-      "pt-BR": "/th?id=OHR.RoseIsland_PT-BR8484348763",
-      "ja-JP": "/th?id=OHR.RoseIsland_JA-JP3257968381",
-      "zh-CN": "/th?id=OHR.RoseIsland_ZH-CN6477140814",
-      "en-IN": "/th?id=OHR.RoseIsland_EN-IN1259562642"
+      "en-GB": "/th?id=OHR.PoppiesField_EN-GB3947926925"
     }
   },
   "FireworksBattersea": {
@@ -2120,6 +2018,116 @@
       "en-IN": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203"
     }
   },
+  "Atlantica": {
+    "name": "Atlantica",
+    "urlbase": "/th?id=OHR.Atlantica_DE-DE2362030432",
+    "date": "20261110",
+    "dateFormatted": "November 10, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "de-DE": "Ein Wald voller Wunder. Der Atlantische Regenwald, Brasilien",
+      "it-IT": "Una foresta piena di meraviglie",
+      "es-ES": "Una jungla llena de maravillas. Selva Atlántica, Brasil",
+      "pt-BR": "O reino das maravilhas verdes",
+      "ja-JP": "驚きに満ちた森. 大西洋岸森林、ブラジル",
+      "zh-CN": "大西洋森林，巴西",
+      "en-IN": "A forest full of wonder. The Atlantic Forest, Brazil",
+      "en-CA": "A forest full of wonder. The Atlantic Forest, Brazil"
+    },
+    "copyrights": {
+      "de-DE": "Der Atlantische Regenwald, Brasilien (© FG Trade/Getty Images)",
+      "it-IT": "Foresta Atlantica, Brasile (© FG Trade/Getty Images)",
+      "es-ES": "Selva Atlántica, Brasil (© FG Trade/Getty Images)",
+      "pt-BR": "Mata Atlântica, Brasil (© FG Trade/Getty Images)",
+      "ja-JP": "大西洋岸森林、ブラジル (© FG Trade/Getty Images)",
+      "zh-CN": "大西洋森林，巴西 (© FG Trade/Getty Images)",
+      "en-IN": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)",
+      "en-CA": "© FG Trade/Getty Images"
+    },
+    "descs": {
+      "de-DE": "Der Atlantische Regenwald ist einer der weltweit bedeutendsten Hotspots der Artenvielfalt und erstreckt sich über einen Großteil der brasilianischen Atlantikküste bis nach Argentinien und Paraguay. Seine Landschaft umfasst tropische und subtropische Wälder, Mangroven und küstennahe Lebensräume und bietet rund 20.000 Pflanzenarten sowie einer außergewöhnlichen Vielfalt an Wildtieren, darunter Jaguare und Goldlöwenäffchen, eine Heimat. Ein Großteil des Waldes ist im Laufe der Jahrhunderte verschwunden, doch er spielt weiterhin eine wichtige Rolle bei der Speicherung von Kohlenstoff und der Versorgung von Millionen von Menschen in der gesamten Region mit Süßwasser.",
+      "es-ES": "La Selva Atlántica es uno de los grandes puntos críticos de biodiversidad del mundo. Se extiende a lo largo de buena parte de la costa atlántica de Brasil y llega hasta Argentina y Paraguay. Su paisaje comprende bosques tropicales y subtropicales, manglares y hábitats costeros, y alberga alrededor de 20.000 especies de plantas y una extraordinaria variedad de fauna, incluidos jaguares y tamarinos león dorados. Gran parte la selva ha desaparecido a lo largo de los siglos, pero aún desempeña un papel importante al almacenar carbono y abastecer de agua dulce a millones de personas en toda la región.",
+      "ja-JP": "大西洋岸森林は、世界有数の生物多様性を誇る地域の一つです。ブラジルの大西洋沿岸からアルゼンチンやパラグアイにまで広がり、熱帯・亜熱帯の森林やマングローブなど、さまざまな環境が見られます。約2万種の植物が生育し、ジャガーやゴールデンライオンタマリンをはじめ、多彩な野生動物が暮らしています。長い年月の間に森林の多くが失われましたが、現在も炭素を蓄え、地域の多くの人々に淡水をもたらすなど、大切な役割を果たしています。",
+      "en-IN": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
+      "en-CA": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
+      "it-IT": "La Foresta Atlantica è uno dei grandi scrigni di biodiversità del pianeta. Si estende lungo gran parte della costa brasiliana e raggiunge alcune aree di Argentina e Paraguay. Tra foreste tropicali e subtropicali, mangrovie e habitat costieri, ospita circa 20.000 specie vegetali e una straordinaria varietà di animali, tra cui giaguari e scimmie leonine. Sebbene gran parte della foresta sia scomparsa nel corso dei secoli, questo prezioso ecosistema continua a svolgere un ruolo fondamentale: immagazzina anidride carbonica e garantisce risorse di acqua dolce a milioni di persone.",
+      "pt-BR": "A Mata Atlântica é um dos grandes hotspots de biodiversidade do mundo, estendendo-se por grande parte da costa atlântica do Brasil e também por áreas da Argentina e do Paraguai. Sua paisagem inclui florestas tropicais e subtropicais, manguezais e habitats costeiros, que abrigam cerca de 20 mil espécies de plantas e uma extraordinária variedade de fauna, incluindo onças-pintadas e micos-leões-dourados. Grande parte da floresta desapareceu ao longo dos séculos, mas ela continua desempenhando um papel importante no armazenamento de carbono e no fornecimento de água doce para milhões de pessoas em toda a região.",
+      "zh-CN": "大西洋森林是世界上重要的生物多样性热点地区之一，沿巴西大西洋沿岸的广大地带延伸，并进入阿根廷和巴拉圭境内。这里的景观包括热带与亚热带森林、红树林和海岸生境，孕育了约2万种植物以及种类繁多的野生动物，其中包括美洲豹和金狮绢毛猴。几个世纪以来，大片森林已经消失，但它仍在储存碳，并为该地区数百万人提供淡水方面发挥着重要作用。"
+    },
+    "quickFacts": {
+      "en-CA": "The Atlantic Forest is home to around 150 million people, which is roughly a third of South America's total population.",
+      "de-DE": "Im Atlantischen Regenwald leben rund 150 Millionen Menschen, was etwa einem Drittel der Gesamtbevölkerung Südamerikas entspricht.",
+      "it-IT": "Nella Foresta Atlantica vivono circa 150 milioni di persone, quasi un terzo della popolazione sudamericana.",
+      "es-ES": "La Selva Atlántica alberga a unos 150 millones de personas, aproximadamente un tercio de la población total de Sudamérica.",
+      "pt-BR": "A Mata Atlântica abriga cerca de 150 milhões de pessoas, o que corresponde a aproximadamente um terço da população total da América do Sul.",
+      "ja-JP": "大西洋岸森林には約1億5,000万人が暮らしており、これは南米の総人口のおよそ3分の1にあたります。",
+      "zh-CN": "大西洋森林地区生活着约1.5亿人，约占南美洲总人口的三分之一。",
+      "en-IN": "The Atlantic Forest is home to around 150 million people, which is roughly a third of South America's total population."
+    },
+    "captions": {
+      "de-DE": "Der Atlantische Regenwald, Brasilien",
+      "it-IT": "",
+      "es-ES": "Selva Atlántica, Brasil",
+      "pt-BR": "",
+      "ja-JP": "大西洋岸森林、ブラジル",
+      "zh-CN": "",
+      "en-IN": "The Atlantic Forest, Brazil"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Atlantischer+Regenwald+Brasilien&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Foresta+Atlantica+Brasile&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Selva+Atl%c3%a1ntica+Brasil&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Mata+Atl%c3%a2ntica+Brasil&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e5%a4%a7%e8%a5%bf%e6%b4%8b%e5%b2%b8%e6%a3%ae%e6%9e%97+%e3%83%96%e3%83%a9%e3%82%b8%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220261110_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e8%a5%bf%e5%a4%a7%e8%a5%bf%e6%b4%8b%e6%a3%ae%e6%9e%97&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Atlantic+Forest+Brazil&form=hpcapt&filters=HpDate%3a%2220261110_1830%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.Atlantica_DE-DE2362030432",
+      "it-IT": "/th?id=OHR.Atlantica_IT-IT7343444003",
+      "es-ES": "/th?id=OHR.Atlantica_ES-ES2909750092",
+      "pt-BR": "/th?id=OHR.Atlantica_PT-BR8667026625",
+      "ja-JP": "/th?id=OHR.Atlantica_JA-JP3902829738",
+      "zh-CN": "/th?id=OHR.Atlantica_ZH-CN6593995386",
+      "en-IN": "/th?id=OHR.Atlantica_EN-IN3149189379"
+    }
+  },
   "MauerBerlin": {
     "name": "MauerBerlin",
     "urlbase": "/th?id=OHR.MauerBerlin_DE-DE4395338070",
@@ -2150,6 +2158,110 @@
     },
     "urlbases": {
       "de-DE": "/th?id=OHR.MauerBerlin_DE-DE4395338070"
+    }
+  },
+  "ArmisticeTriomphe": {
+    "name": "ArmisticeTriomphe",
+    "urlbase": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700",
+    "date": "20261110",
+    "dateFormatted": "November 10, 2026",
+    "markets": [
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      }
+    ],
+    "titles": {
+      "fr-FR": "Une flamme rallumée chaque jour. Tombe du soldat inconnu, Arc de Triomphe, Paris, France"
+    },
+    "copyrights": {
+      "fr-FR": "Arc de Triomphe, Paris, France (© Beboy_ltd/Getty Images)"
+    },
+    "descs": {
+      "fr-FR": "Sous l’Arc de Triomphe repose le Soldat inconnu, symbole de tous les combattants morts pour la France durant la Première guerre mondiale. Sa tombe, sur laquelle brûle la flamme du souvenir, ravivée chaque soir, invite au recueillement et perpétue la mémoire de ceux qui ont donné leur vie pour leur pays. Le jour de l'Armistice, une gerbe y est déposée."
+    },
+    "quickFacts": {},
+    "captions": {
+      "fr-FR": "Tombe du soldat inconnu, Arc de Triomphe, Paris, France"
+    },
+    "copyrightlinks": {
+      "fr-FR": "https://www.bing.com/search?q=Tombe+du+Soldat+Inconnu+Arc+De+Triomphe&form=hpcapt&filters=HpDate%3a%2220261110_2300%22"
+    },
+    "urlbases": {
+      "fr-FR": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700"
+    }
+  },
+  "PondCypress": {
+    "name": "PondCypress",
+    "urlbase": "/th?id=OHR.PondCypress_EN-US0123444779",
+    "date": "20261027",
+    "dateFormatted": "October 27, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia",
+      "en-GB": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States",
+      "en-CA": "Nature's golden mirror. A grove of pond cypress trees with fall foliage, Georgia, USA",
+      "de-DE": "Goldener Spiegel der Natur. Teichzypressen in herbstlicher Färbung, Georgia, USA",
+      "fr-FR": "Le reflet doré de la nature. Cyprès des étangs, Géorgie, États-Unis",
+      "it-IT": "Riflessi dorati",
+      "es-ES": "Reflejos dorados. Cipreses de estanque con color otoñal, Georgia, EE. UU.",
+      "pt-BR": "Um espelho com raízes",
+      "ja-JP": "水面に映る秋の森",
+      "zh-CN": "大自然的金色明镜",
+      "en-IN": "Nature's golden mirror. A grove of pond cypress trees, Georgia, United States"
+    },
+    "copyrights": {
+      "en-US": "A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)",
+      "en-GB": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
+      "en-CA": "A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images)",
+      "de-DE": "Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images)",
+      "fr-FR": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
+      "it-IT": "Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images)",
+      "es-ES": "Bosque de cipreses de estanque, Georgia, EE. UU. (© Chris Moore/Getty Images)",
+      "pt-BR": "Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)",
+      "ja-JP": "ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)",
+      "zh-CN": "秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)",
+      "en-IN": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of color and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions, and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "en-GB": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "en-CA": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "de-DE": "Goldenes Licht, stilles Wasser und Zypressen, die sich nahezu perfekt darin spiegeln. Diese Szenerie wirkt wie gemalt. Die Teichzypresse ist im Südosten der USA heimisch und gedeiht vor allem in flachen Teichen, Senken und Feuchtgebieten. Diese Aufnahme entstand im US-Bundesstaat Georgia, wo die Bäume unter anderem im Okefenokee-Sumpf zu finden sind. Anders als die meisten Nadelbäume wirft die Teichzypresse im Herbst ihr nadelartiges Laub ab. Zuvor färbt es sich in warme Gelb-, Kupfer- und Orangebrauntöne. Die Art ist eng mit der weiter verbreiteten Sumpfzypresse verwandt, bleibt jedoch meist kleiner und bevorzugt stehende oder flache Gewässer.",
+      "fr-FR": "Se reflétant dans une eau paisible sous la lumière dorée du couchant, ce bosquet de cyprès des étangs compose un saisissant tableau de couleurs et de symétrie. Originaire du sud-est des États-Unis, cet arbre affectionne les mares peu profondes, les dépressions humides et les zones marécageuses. En Géorgie (États-Unis), où cette image a été capturée, il peuple notamment le célèbre marais d’Okefenokee et d’autres terres basses gorgées d’eau.",
+      "es-ES": "Reflejado en un agua sin una onda y encendido por la última luz del día, este bosquete de cipreses de estanque compone una escena de simetría casi perfecta. La especie es propia del sureste de Estados Unidos y esta imagen se tomó en Georgia, donde crece en lugares como el gran pantano de Okefenokee y otros humedales de tierras bajas.",
+      "ja-JP": "今日の画像は、米国ジョージア州で見られるポンドサイプレス。ヒノキ科、ヌマスギ属の樹木で、細い葉が小枝に沿うようにつくのが特徴です。秋から冬にかけて球果が成熟します。水辺では「膝根（しっこん）」と呼ばれる根の突起を形成することがあり、米国南東部の池や沼地などの湿地に分布しています。こうした湿地林は、さまざまな生物の重要な生息地となっています。",
+      "en-IN": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+      "it-IT": "Riflesso in un'acqua senza una piega e illuminato dall'ultima luce del giorno, questo boschetto di cipressi compone una scena di simmetria quasi perfetta. La specie è tipica del sud-est degli Stati Uniti e l'immagine è stata scattata in Georgia, dove cresce in luoghi come la grande palude di Okefenokee e altre zone umide di pianura.",
+      "pt-BR": "Olhando esta paisagem, dá para jurar que o outono resolveu trocar as montanhas por um pântano. Quase. O cenário está na Geórgia, nos Estados Unidos, onde o cipreste-dos-pântanos forma extensos bosques em águas rasas e terrenos encharcados.",
+      "zh-CN": "这片池杉林倒映在平静的水面上，在落日余晖中熠熠生辉，呈现出色彩与对称之美，令人叹为观止。池杉原产于美国东南部，通常生长在浅水池塘、洼地和湿地生境中。这张照片拍摄于乔治亚州，当地的奥克弗诺基沼泽及其他低洼湿地中均可见这些树木。"
+    },
+    "quickFacts": {
+      "en-US": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "en-GB": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "en-CA": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+      "de-DE": "Teichzypressen können sogenannte Atemknie entwickeln, knollenartige Wurzelstrukturen, die rund um den Baum aus dem Wasser oder Boden herausragen.",
+      "fr-FR": "Le cyprès des étangs peut développer des racines noueuses, appelées « genoux », qui émergent de l'eau ou du sol autour de l'arbre.",
+      "it-IT": "Il cipresso delle paludi sviluppa radici nodose chiamate «ginocchia», che emergono dall'acqua o dal terreno attorno all'albero.",
+      "es-ES": "El ciprés de estanque desarrolla raíces nudosas conocidas como «rodillas», que emergen del agua o del suelo alrededor del árbol.",
+      "zh-CN": "池杉会长出被称为“膝根”的瘤状根部结构，高出树木周围的水面或土壤。",
+      "en-IN": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree."
+    },
+    "captions": {
+      "en-US": "A grove of pond cypress trees with fall foliage, Georgia"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PondCypress_EN-US0123444779"
     }
   },
   "HangingBat": {
