@@ -1,4 +1,38 @@
 {
+  "SunsetFlags": {
+    "name": "SunsetFlags",
+    "urlbase": "/th?id=OHR.SunsetFlags_EN-US1046151448",
+    "date": "20261111",
+    "dateFormatted": "November 11, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "A salute in red, white, and blue. Veterans Day"
+    },
+    "copyrights": {
+      "en-US": "American flags in a public park in upstate New York (© Matt Champlin/Getty Images)"
+    },
+    "descs": {
+      "en-US": "As the sun filters through autumn trees in an upstate New York park, rows of flags turn the landscape into a tribute. Veterans Day, observed every November 11, honors all who have served in the US Armed Forces."
+    },
+    "quickFacts": {
+      "en-US": "Veterans Day was originally known as Armistice Day. In 1954, the holiday was renamed to honor American veterans of all wars."
+    },
+    "captions": {
+      "en-US": "Veterans Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Veterans+Day&form=hpcapt&filters=HpDate%3a%2220261111_0800%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.SunsetFlags_EN-US1046151448"
+    }
+  },
   "RoseIsland": {
     "name": "RoseIsland",
     "urlbase": "/th?id=OHR.RoseIsland_EN-US0952497192",
@@ -774,7 +808,7 @@
       "es-ES": "Un paso más cerca de la cumbre. Black Crag, Distrito de los Lagos, Inglaterra",
       "pt-BR": "Falta muito pro topo?",
       "ja-JP": "山頂へ、もう一歩. ブラック・クラッグ、湖水地方、イギリス",
-      "zh-CN": "石墙边的木制翻越梯，黑岩，湖区，英格兰",
+      "zh-CN": "向山巅再迈一步",
       "en-IN": "One step closer to the summit. Black Crag, Lake District, England"
     },
     "copyrights": {
@@ -1613,7 +1647,66 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
+      }
+    ],
+    "titles": {
+      "en-US": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "en-GB": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "en-CA": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
+      "de-DE": "Wo Nebel auf Jahrtausende trifft. Stehende Steine in Avebury, Wiltshire, England",
+      "fr-FR": "Des millénaires caressés par la brume. Pierres dressées à Avebury dans le Wiltshire, Angleterre",
+      "it-IT": "Una passeggiata nella preistoria",
+      "es-ES": "Un paseo por la prehistoria. Menhires de Avebury, Wiltshire, Inglaterra",
+      "pt-BR": "Um mistério milenar",
+      "ja-JP": "草原に立ち並ぶ巨石群",
+      "zh-CN": "薄雾邂逅千年时光",
+      "en-IN": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England"
+    },
+    "copyrights": {
+      "en-US": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+      "en-GB": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+      "en-CA": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+      "de-DE": "Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images)",
+      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images)",
+      "it-IT": "Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images)",
+      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
+      "pt-BR": "Círculo de Pedras de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
+      "ja-JP": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
+      "zh-CN": "立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)",
+      "en-IN": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)"
+    },
+    "descs": {
+      "en-US": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centered on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers, and archaeologists.",
+      "en-GB": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "en-CA": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "de-DE": "Das englische Avebury in der Grafschaft Wiltshire bildet das Zentrum einer außergewöhnlichen prähistorischen Landschaft. Vor rund 4.500 Jahren entstand hier ein weitläufiger jungsteinzeitlicher Monumentalkomplex, zu dem der größte prähistorische Steinkreis der Welt, ein mächtiger Henge und mehrere Steinalleen gehören. Diese reichen weit in die umliegende Landschaft hinein und verbinden Avebury mit weiteren bedeutenden Monumenten. Zur Landschaft zählen auch Silbury Hill und die West Kennet Avenue. Bis heute faszinieren diese Zeugnisse der Jungsteinzeit Besucher, Forschende und Archäologen gleichermaßen.",
+      "fr-FR": "Au petit matin, la brume glisse entre les pierres dressées d’Avebury, dans le Wiltshire, en Angleterre, et le paysage semble suspendu hors du temps. Érigé il y a environ 4 500 ans, cet immense ensemble néolithique comprend l’un des plus vastes cercles de pierres préhistoriques au monde, entouré d’un vaste henge et prolongé par des avenues de mégalithes. Avec Silbury Hill et West Kennet Avenue, il forme un remarquable paysage préhistorique qui, depuis des générations, intrigue visiteurs, chercheurs et archéologues.",
+      "es-ES": "Con la niebla de la mañana entre las piedras, los menhires de Avebury, en Wiltshire (Inglaterra), parecen fuera del tiempo. Forman parte de un monumento neolítico levantado hace unos 4.500 años que incluye el mayor círculo de piedras prehistórico del mundo, un enorme recinto de foso y terraplén y avenidas de megalitos que se prolongan por la campiña.",
+      "ja-JP": "イングランド南西部ウィルトシャーにあるエーヴベリー。朝霧に包まれた巨石群は、約 4500 年前の新石器時代に築かれた遺跡の一部です。世界最大の先史時代の環状列石をはじめ、巨大な環状遺構や列石が残されており、シルベリー・ヒルなど周辺の遺跡とともに広大な遺跡群を形成し、ユネスコ世界遺産にも登録されています。訪れる人は巨石の間を歩くことで、現代の田園風景に溶け込む古代遺跡を間近に体感することができます。",
+      "en-IN": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
+      "it-IT": "Con la nebbia del mattino tra le pietre, i menhir di Avebury, nel Wiltshire (Inghilterra), sembrano fuori dal tempo. Fanno parte di un monumento neolitico costruito circa 4.500 anni fa che comprende il più grande cerchio di pietre preistorico del mondo, un enorme recinto di fossato e terrapieno e viali di megaliti che si allungano nella campagna.",
+      "pt-BR": "Quem ergueu essas pedras gigantes em Avebury, na Inglaterra, e por quê? Quatro mil e quinhentos anos depois, a pergunta continua sem resposta. Em Wiltshire, enormes blocos de pedra atravessam campos e estradas, formando o maior círculo de pedras pré-histórico do mundo. E há uma diferença importante: aqui, visitantes podem caminhar entre elas, como quem passeia por um monumento que ainda guarda seu segredo a céu aberto.",
+      "zh-CN": "晨雾在英格兰威尔特郡埃夫伯里的立石间飘荡，眼前景象仿佛超越了时间。这些古老的巨石构成了世界上最非凡的史前景观之一，其核心是一座约建于4500年前的宏大新石器时代纪念性建筑。埃夫伯里拥有世界上最大的史前石圈，还有一座巨型环形遗址，以及延伸至周围乡野的石列大道。它与附近的锡尔伯里山、西肯尼特大道等遗迹共同组成一处规模宏大的新石器时代遗址群，令一代又一代游客、研究人员和考古学家为之着迷。"
+    },
+    "quickFacts": {
+      "zh-CN": "20世纪30年代，考古学家亚历山大·凯勒重新竖起了许多倒伏的埃夫伯里巨石，并用混凝土标出缺失巨石的位置。"
+    },
+    "captions": {
+      "en-US": "Standing stones at Avebury in Wiltshire, England"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AveburyStones_EN-US9568662876"
+    }
+  },
+  "NorthWindow": {
+    "name": "NorthWindow",
+    "urlbase": "/th?id=OHR.NorthWindow_EN-GB5518413161",
+    "date": "20261112",
+    "dateFormatted": "November 12, 2026",
+    "markets": [
       {
         "code": "en-GB",
         "name": "UK",
@@ -1666,157 +1759,82 @@
       }
     ],
     "titles": {
-      "en-US": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
-      "en-GB": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
-      "en-CA": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England",
-      "de-DE": "Wo Nebel auf Jahrtausende trifft. Stehende Steine in Avebury, Wiltshire, England",
-      "fr-FR": "Des millénaires caressés par la brume. Pierres dressées à Avebury dans le Wiltshire, Angleterre",
-      "it-IT": "Una passeggiata nella preistoria",
-      "es-ES": "Un paseo por la prehistoria. Menhires de Avebury, Wiltshire, Inglaterra",
-      "pt-BR": "Um mistério milenar",
-      "ja-JP": "草原に立ち並ぶ巨石群",
-      "zh-CN": "薄雾邂逅千年时光",
-      "en-IN": "Where mist meets millennia. Standing stones at Avebury in Wiltshire, England"
+      "en-GB": "Architecture without an architect. North Window, Arches National Park, Moab, Utah",
+      "en-CA": "Architecture without an architect. North Window, Arches National Park, Moab, Utah",
+      "de-DE": "Architektur ohne Architekten. North Window, Arches-Nationalpark, Utah, USA",
+      "fr-FR": "Architecture sans architecte. North Window, parc national des Arches, Moab, Utah",
+      "it-IT": "Architettura senza architetto",
+      "es-ES": "Arquitectura sin arquitecto. North Window, Parque Nacional de los Arcos, Moab, Utah",
+      "pt-BR": "Janela aberta pela natureza",
+      "ja-JP": "自然が生んだ建築美. アーチーズ国立公園、モアブ、ユタ州",
+      "zh-CN": "北窗，拱门国家公园，莫阿布，犹他州，美国",
+      "en-IN": "Architecture without an architect. North Window, Arches National Park, Moab, Utah",
+      "en-US": "Architecture without an architect. North Window, Arches National Park, Moab, Utah"
     },
     "copyrights": {
-      "en-US": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
-      "en-GB": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
-      "en-CA": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
-      "de-DE": "Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images)",
-      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images)",
-      "it-IT": "Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images)",
-      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
-      "pt-BR": "Círculo de Pedras de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
-      "ja-JP": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
-      "zh-CN": "立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)",
-      "en-IN": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)"
+      "en-GB": "North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)",
+      "en-CA": "North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)",
+      "de-DE": "North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images)",
+      "fr-FR": "North Window, parc national des Arches, Moab, Utah, États-Unis (© lightphoto/Getty Images)",
+      "it-IT": "North Window, Parco Nazionale degli Arches, Moab, Utah, USA (© lightphoto/Getty Images)",
+      "es-ES": "North Window, Parque Nacional de los Arcos, Moab, Utah, EE. UU. (© lightphoto/Getty Images)",
+      "pt-BR": "Arco da Janela Norte, Parque Nacional dos Arcos, Moab, Utah, EUA (© lightphoto/Getty Images)",
+      "ja-JP": "ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ (© lightphoto/Getty Images)",
+      "zh-CN": "北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)",
+      "en-IN": "North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)",
+      "en-US": "© lightphoto/Getty Images"
     },
     "descs": {
-      "en-US": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centered on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers, and archaeologists.",
-      "en-GB": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
-      "en-CA": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
-      "de-DE": "Das englische Avebury in der Grafschaft Wiltshire bildet das Zentrum einer außergewöhnlichen prähistorischen Landschaft. Vor rund 4.500 Jahren entstand hier ein weitläufiger jungsteinzeitlicher Monumentalkomplex, zu dem der größte prähistorische Steinkreis der Welt, ein mächtiger Henge und mehrere Steinalleen gehören. Diese reichen weit in die umliegende Landschaft hinein und verbinden Avebury mit weiteren bedeutenden Monumenten. Zur Landschaft zählen auch Silbury Hill und die West Kennet Avenue. Bis heute faszinieren diese Zeugnisse der Jungsteinzeit Besucher, Forschende und Archäologen gleichermaßen.",
-      "fr-FR": "Au petit matin, la brume glisse entre les pierres dressées d’Avebury, dans le Wiltshire, en Angleterre, et le paysage semble suspendu hors du temps. Érigé il y a environ 4 500 ans, cet immense ensemble néolithique comprend l’un des plus vastes cercles de pierres préhistoriques au monde, entouré d’un vaste henge et prolongé par des avenues de mégalithes. Avec Silbury Hill et West Kennet Avenue, il forme un remarquable paysage préhistorique qui, depuis des générations, intrigue visiteurs, chercheurs et archéologues.",
-      "es-ES": "Con la niebla de la mañana entre las piedras, los menhires de Avebury, en Wiltshire (Inglaterra), parecen fuera del tiempo. Forman parte de un monumento neolítico levantado hace unos 4.500 años que incluye el mayor círculo de piedras prehistórico del mundo, un enorme recinto de foso y terraplén y avenidas de megalitos que se prolongan por la campiña.",
-      "ja-JP": "イングランド南西部ウィルトシャーにあるエーヴベリー。朝霧に包まれた巨石群は、約 4500 年前の新石器時代に築かれた遺跡の一部です。世界最大の先史時代の環状列石をはじめ、巨大な環状遺構や列石が残されており、シルベリー・ヒルなど周辺の遺跡とともに広大な遺跡群を形成し、ユネスコ世界遺産にも登録されています。訪れる人は巨石の間を歩くことで、現代の田園風景に溶け込む古代遺跡を間近に体感することができます。",
-      "en-IN": "As morning mist drifts among the standing stones of Avebury in Wiltshire, England, the scene feels almost timeless. These ancient megaliths form part of one of the world's most remarkable prehistoric landscapes, centred on a vast Neolithic monument built around 4,500 years ago. Avebury contains the world's largest prehistoric stone circle, as well as a massive henge and stone avenues extending into the surrounding countryside. Together with nearby monuments such as Silbury Hill and West Kennet Avenue, it forms part of an extensive Neolithic complex that has fascinated generations of visitors, researchers and archaeologists.",
-      "it-IT": "Con la nebbia del mattino tra le pietre, i menhir di Avebury, nel Wiltshire (Inghilterra), sembrano fuori dal tempo. Fanno parte di un monumento neolitico costruito circa 4.500 anni fa che comprende il più grande cerchio di pietre preistorico del mondo, un enorme recinto di fossato e terrapieno e viali di megaliti che si allungano nella campagna.",
-      "pt-BR": "Quem ergueu essas pedras gigantes em Avebury, na Inglaterra, e por quê? Quatro mil e quinhentos anos depois, a pergunta continua sem resposta. Em Wiltshire, enormes blocos de pedra atravessam campos e estradas, formando o maior círculo de pedras pré-histórico do mundo. E há uma diferença importante: aqui, visitantes podem caminhar entre elas, como quem passeia por um monumento que ainda guarda seu segredo a céu aberto.",
-      "zh-CN": "晨雾在英格兰威尔特郡埃夫伯里的立石间飘荡，眼前景象仿佛超越了时间。这些古老的巨石构成了世界上最非凡的史前景观之一，其核心是一座约建于4500年前的宏大新石器时代纪念性建筑。埃夫伯里拥有世界上最大的史前石圈，还有一座巨型环形遗址，以及延伸至周围乡野的石列大道。它与附近的锡尔伯里山、西肯尼特大道等遗迹共同组成一处规模宏大的新石器时代遗址群，令一代又一代游客、研究人员和考古学家为之着迷。"
+      "en-GB": "Just north of Moab, Utah, Arches National Park is home to more than 2,000 natural sandstone arches – the densest concentration of arches in the world. Today's image, North Window, is one of the best-known formations in the park's Windows Section, where towering fins, openings and sculpted sandstone create a landscape that looks almost architectural.",
+      "en-CA": "Just north of Moab, Utah, Arches National Park is home to more than 2,000 natural sandstone arches – the densest concentration of arches in the world. Today's image, North Window, is one of the best-known formations in the park's Windows Section, where towering fins, openings and sculpted sandstone create a landscape that looks almost architectural.",
+      "de-DE": "Der nördlich von Moab gelegene Arches-Nationalpark in der Wüste von Utah beherbergt mehr als 2.000 natürliche Sandsteinbögen – die weltweit größte Konzentration solcher Felsformationen. Das heutige Bild zeigt das „North Window“, eine der bekanntesten Formen in der „Windows Section“ des Parks, wo hoch aufragende Felsrippen, Durchbrüche und geformter Sandstein eine Landschaft schaffen, die fast schon architektonisch anmutet",
+      "fr-FR": "Situé juste au nord de Moab, dans l'Utah, le parc national des Arches abrite plus de 2 000 arches naturelles en grès. « North Window » (la Fenêtre Nord) est l'une des formations les plus célèbres. Les imposantes lames rocheuses, les larges ouvertures et les sculptures de grès composent un paysage aux allures quasi architecturales.",
+      "es-ES": "El 12 de noviembre, el Parque Nacional de los Arcos conmemora el aniversario de su designación como parque nacional en 1971. Situado justo al norte de Moab, Utah, este parque de desierto elevado alberga más de 2.000 arcos naturales de arenisca, la mayor concentración de arcos del mundo. La imagen de hoy muestra North Window, una de las formaciones más conocidas de la sección Windows del parque, donde imponentes aletas rocosas, aberturas y arenisca esculpida crean un paisaje de aspecto casi arquitectónico.",
+      "ja-JP": "ユタ州モアブの北に広がるアーチーズ国立公園には、2,000を超える天然の砂岩アーチがあり、世界でもっともアーチが集まっている場所として知られています。写真のノース・ウィンドウは、巨大な石の門のような姿で知られる、園内を代表する景観の一つです。しかし、この壮大な造形を手がけたのは建築家ではありません。水や氷、気温の変化、重力が長い年月をかけてやわらかい岩を削り、自然ならではの建築美をつくり上げました。",
+      "en-IN": "Just north of Moab, Utah, Arches National Park is home to more than 2,000 natural sandstone arches – the densest concentration of arches in the world. Today's image, North Window, is one of the best-known formations in the park's Windows Section, where towering fins, openings and sculpted sandstone create a landscape that looks almost architectural.",
+      "en-US": "On November 12, Arches National Park marks the anniversary of its designation as a national park in 1971. Just north of Moab, Utah, the high-desert park is home to more than 2,000 natural sandstone arches—the densest concentration of arches in the world. Today's image, North Window, is one of the best-known formations in the park's Windows Section, where towering fins, openings, and sculpted sandstone create a landscape that looks almost architectural.",
+      "it-IT": "Il Parco Nazionale degli Arches, istituito il 12 novembre 1971, custodisce nel cuore dello Utah oltre 2.000 archi naturali di arenaria, la più alta concentrazione al mondo. Tra le formazioni più celebri spicca North Window, protagonista dell’immagine di oggi: un’imponente apertura nella roccia affacciata su scogliere e cieli sconfinati. Ma dietro questa spettacolare architettura non c’è la mano dell’uomo. Acqua, ghiaccio, sbalzi di temperatura e gravità hanno lentamente eroso la roccia più tenera, lasciando intatti gli strati più resistenti. Un capolavoro plasmato dal tempo, con la natura nel ruolo di architetto.",
+      "pt-BR": "Em 12 de novembro, o Parque Nacional dos Arcos celebra o aniversário de sua designação como parque nacional, em 1971. Localizado ao norte de Moab, em Utah, o parque ocupa uma região desértica de altitude e abriga mais de 2.000 arcos naturais de arenito, a maior concentração de arcos do mundo. A imagem de hoje, o Arco da Janela Norte, realmente lembra um enorme portal de pedra, emoldurando penhascos distantes e um céu em constante mudança. Mas não houve projeto, arquiteto ou equipe de construção envolvidos. Em vez disso, a água, o gelo, as variações de temperatura e a gravidade foram desgastando gradualmente as rochas mais macias, deixando para trás as camadas mais resistentes.",
+      "zh-CN": "11月12日是拱门国家公园于1971年获指定为国家公园的周年纪念日。这座高海拔沙漠公园位于犹他州莫阿布以北，拥有2000多座天然砂岩拱门，是世界上拱门分布最密集的地区。今天图片中的北窗，是公园窗区最知名的地貌之一；在那里，高耸的岩脊、岩石开口和经自然雕琢的砂岩，共同构成了一片近乎建筑作品般的景观。"
     },
     "quickFacts": {
-      "zh-CN": "20世纪30年代，考古学家亚历山大·凯勒重新竖起了许多倒伏的埃夫伯里巨石，并用混凝土标出缺失巨石的位置。"
+      "zh-CN": "拱门国家公园禁止游客攀爬、手脚并用地攀登、行走或站立在任何天然拱门上，也禁止从拱门上绳降。"
     },
     "captions": {
-      "en-US": "Standing stones at Avebury in Wiltshire, England",
-      "en-GB": "Standing stones at Avebury in Wiltshire, England",
-      "en-CA": "Standing stones at Avebury in Wiltshire, England",
-      "de-DE": "Stehende Steine in Avebury, Wiltshire, England",
-      "fr-FR": "Pierres dressées à Avebury dans le Wiltshire, Angleterre",
+      "en-GB": "North Window, Arches National Park, Moab, Utah",
+      "en-CA": "North Window, Arches National Park, Moab, Utah",
+      "de-DE": "North Window, Arches-Nationalpark, Utah, USA",
+      "fr-FR": "North Window, parc national des Arches, Moab, Utah",
       "it-IT": "",
-      "es-ES": "Menhires de Avebury, Wiltshire, Inglaterra",
+      "es-ES": "North Window, Parque Nacional de los Arcos, Moab, Utah",
       "pt-BR": "",
-      "ja-JP": "草原に立ち並ぶ巨石群",
+      "ja-JP": "アーチーズ国立公園、モアブ、ユタ州",
       "zh-CN": "",
-      "en-IN": "Standing stones at Avebury in Wiltshire, England"
+      "en-IN": "North Window, Arches National Park, Moab, Utah"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0700%22",
-      "en-GB": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Avebury+Steinkreis&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Menhir+di+Avebury+Wiltshire&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Menhires+de+Avebury&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Avebury+na+Inglaterra&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a8%e3%83%bc%e3%83%b4%e3%83%99%e3%83%aa%e3%83%bc+%e5%b7%a8%e7%9f%b3%e7%be%a4&form=hpcapt&filters=HpDate%3a%2220261028_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e7%89%b9%e9%83%a1%e5%9f%83%e5%a4%ab%e4%bc%af%e9%87%8c%e7%8e%af%e5%bd%a2%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt&filters=HpDate%3a%2220261112_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt&filters=HpDate%3a%2220261112_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Arches-Nationalpark+Utah&form=hpcapt&filters=HpDate%3a%2220261111_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Parc+national+des+Arches&form=hpcapt&filters=HpDate%3a%2220261111_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+degli+Arches&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+de+los+Arcos&form=hpcapt&filters=HpDate%3a%2220261111_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+dos+Arcos&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261111_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%8b%b1%e9%97%a8%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt&filters=HpDate%3a%2220261111_1830%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.AveburyStones_EN-US9568662876",
-      "en-GB": "/th?id=OHR.AveburyStones_EN-GB5895980350",
-      "en-CA": "/th?id=OHR.AveburyStones_EN-CA3104504656",
-      "de-DE": "/th?id=OHR.AveburyStones_DE-DE3052154737",
-      "fr-FR": "/th?id=OHR.AveburyStones_FR-FR0792308002",
-      "it-IT": "/th?id=OHR.AveburyStones_IT-IT5634082753",
-      "es-ES": "/th?id=OHR.AveburyStones_ES-ES9090727572",
-      "pt-BR": "/th?id=OHR.AveburyStones_PT-BR9317811680",
-      "ja-JP": "/th?id=OHR.AveburyStones_JA-JP4031336786",
-      "zh-CN": "/th?id=OHR.AveburyStones_ZH-CN9127100951",
-      "en-IN": "/th?id=OHR.AveburyStones_EN-IN9660577333"
-    }
-  },
-  "KuneticeCastle": {
-    "name": "KuneticeCastle",
-    "urlbase": "/th?id=OHR.KuneticeCastle_EN-US9492527404",
-    "date": "20261028",
-    "dateFormatted": "October 28, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
-      "en-CA": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
-      "en-GB": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
-      "de-DE": "Wo Geschichte Wache hält. Burg Kunětická hora, Böhmen, Tschechien",
-      "fr-FR": "Gardien de l’histoire. Château de Kunětická hora, Bohême, Tchéquie",
-      "it-IT": "Secoli sopra la Boemia",
-      "es-ES": "Siglos sobre Bohemia. Castillo de Kunětická hora, Bohemia, Chequia",
-      "pt-BR": "O melhor ponto de vista",
-      "ja-JP": "夕暮れに佇む古城",
-      "zh-CN": "历史守望之地",
-      "en-IN": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia"
-    },
-    "copyrights": {
-      "en-US": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
-      "en-CA": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
-      "en-GB": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
-      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
-      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy)",
-      "it-IT": "Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy)",
-      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia (© Marek Saroch/Alamy)",
-      "pt-BR": "Castelo de Kunětická hora, Boêmia, Chéquia (© Marek Saroch/Alamy)",
-      "ja-JP": "クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)",
-      "zh-CN": "库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)",
-      "en-IN": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)"
-    },
-    "descs": {
-      "en-US": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "en-CA": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "en-GB": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "de-DE": "Was könnten diese Mauern wohl alles erzählen? Hoch über der ostböhmischen Landschaft thront die Burg Kunětická hora, die im Deutschen auch als Kunburg bekannt ist. Bereits in der zweiten Hälfte des 14. Jahrhunderts stand an dieser Stelle eine ausgedehnte Burganlage. Ihre erhöhte Lage machte sie weithin sichtbar und zu einem wichtigen strategischen Stützpunkt.",
-      "fr-FR": "Quelles histoires ces murailles pourraient-elles raconter ? Dominant la Bohême orientale, en Tchéquie, le château de Kunětická hora veille sur la campagne depuis la fin du XIVᵉ siècle. Progressivement agrandi, il devint à la fois une imposante forteresse et une résidence aristocratique. Sa position élevée offrait un vaste panorama sur les plaines environnantes et faisait du château un bastion stratégique.",
-      "es-ES": "¿Qué historias contarían estos muros? El castillo de Kunětická hora se alza sobre un cerro solitario en el este de Bohemia, en en Chequia, y lleva siglos vigilando la llanura del Elba. A finales del siglo XIV ya había una fortaleza en esta colina, y su posición elevada, que permitía controlar todo el territorio circundante, la convirtió en una plaza codiciada.",
-      "ja-JP": "チェコ東部のボヘミア地方にそびえるクネティツカー・ホラ城は、14 世紀なかば頃には、すでにこの地に城が存在していたとされています。時代の流れとともに、要塞や貴族の居城として発展し、16 世紀には当時有力だったペルンシュテイン家によって、後期ゴシック様式とルネサンス様式の壮大な城へと改築されました。その後は荒廃し、採石によって一部が失われましたが、20 世紀初めから修復が始まりました。現在は、城内で展示や当時使用されていた部屋を見学することが可能であり、塔からは周囲の雄大な景色を一望できます。中世ボヘミアの歴史を今に伝える印象的な城です。",
-      "en-IN": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-      "it-IT": "Che storie racconterebbero queste mura? Il castello di Kunětická hora si alza su un colle isolato nella Boemia orientale, in Cechia, e da secoli tiene d'occhio la pianura dell'Elba. Alla fine del Trecento sulla collina esisteva già una fortezza, e la sua posizione elevata, che permetteva di controllare tutto il territorio intorno, la rese una piazza ambita.",
-      "pt-BR": "No alto de uma colina na Boêmia, na atual Chéquia, o Castelo de Kunětická hora passou por uma história cheia de reviravoltas. Suas origens remontam ao fim do século XIV, quando a posição elevada já oferecia uma vantagem nada desprezível: dali era possível vigiar boa parte da paisagem ao redor. Com o tempo, a fortificação virou também residência de nobres e ganhou novas estruturas.",
-      "zh-CN": "这些城墙会讲述怎样的故事？库涅季采山城堡高踞于捷克波希米亚东部，见证了数百年的历史。城堡的历史可追溯至14世纪末，后来逐渐发展为一座宏伟的要塞和贵族宅邸。它地势高耸，可俯瞰周围乡野，也因此成为一处重要据点。"
-    },
-    "quickFacts": {
-      "zh-CN": "1645年，一支瑞典军队攻占库涅季采山城堡，并在撤离前将其焚毁，加速了城堡此后的长期衰败。"
-    },
-    "captions": {
-      "en-US": "Kunětická hora Castle, Bohemia, Czechia",
-      "en-CA": "Kunětická hora Castle, Bohemia, Czechia"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.KuneticeCastle_EN-US9492527404",
-      "en-CA": "/th?id=OHR.KuneticeCastle_EN-CA2792060952"
+      "en-GB": "/th?id=OHR.NorthWindow_EN-GB5518413161",
+      "en-CA": "/th?id=OHR.NorthWindow_EN-CA6553146914",
+      "de-DE": "/th?id=OHR.NorthWindow_DE-DE3364064033",
+      "fr-FR": "/th?id=OHR.NorthWindow_FR-FR9118968859",
+      "it-IT": "/th?id=OHR.NorthWindow_IT-IT7586548726",
+      "es-ES": "/th?id=OHR.NorthWindow_ES-ES3025809521",
+      "pt-BR": "/th?id=OHR.NorthWindow_PT-BR8858044565",
+      "ja-JP": "/th?id=OHR.NorthWindow_JA-JP8307735119",
+      "zh-CN": "/th?id=OHR.NorthWindow_ZH-CN6734579353",
+      "en-IN": "/th?id=OHR.NorthWindow_EN-IN3919602543"
     }
   },
   "PoppiesField": {
@@ -2020,10 +2038,15 @@
   },
   "Atlantica": {
     "name": "Atlantica",
-    "urlbase": "/th?id=OHR.Atlantica_DE-DE2362030432",
-    "date": "20261110",
-    "dateFormatted": "November 10, 2026",
+    "urlbase": "/th?id=OHR.Atlantica_EN-CA7496830701",
+    "date": "20261111",
+    "dateFormatted": "November 11, 2026",
     "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
       {
         "code": "de-DE",
         "name": "DE",
@@ -2061,31 +2084,31 @@
       }
     ],
     "titles": {
+      "en-CA": "A forest full of wonder. The Atlantic Forest, Brazil",
       "de-DE": "Ein Wald voller Wunder. Der Atlantische Regenwald, Brasilien",
       "it-IT": "Una foresta piena di meraviglie",
       "es-ES": "Una jungla llena de maravillas. Selva Atlántica, Brasil",
       "pt-BR": "O reino das maravilhas verdes",
       "ja-JP": "驚きに満ちた森. 大西洋岸森林、ブラジル",
       "zh-CN": "大西洋森林，巴西",
-      "en-IN": "A forest full of wonder. The Atlantic Forest, Brazil",
-      "en-CA": "A forest full of wonder. The Atlantic Forest, Brazil"
+      "en-IN": "A forest full of wonder. The Atlantic Forest, Brazil"
     },
     "copyrights": {
+      "en-CA": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)",
       "de-DE": "Der Atlantische Regenwald, Brasilien (© FG Trade/Getty Images)",
       "it-IT": "Foresta Atlantica, Brasile (© FG Trade/Getty Images)",
       "es-ES": "Selva Atlántica, Brasil (© FG Trade/Getty Images)",
       "pt-BR": "Mata Atlântica, Brasil (© FG Trade/Getty Images)",
       "ja-JP": "大西洋岸森林、ブラジル (© FG Trade/Getty Images)",
       "zh-CN": "大西洋森林，巴西 (© FG Trade/Getty Images)",
-      "en-IN": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)",
-      "en-CA": "© FG Trade/Getty Images"
+      "en-IN": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)"
     },
     "descs": {
+      "en-CA": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
       "de-DE": "Der Atlantische Regenwald ist einer der weltweit bedeutendsten Hotspots der Artenvielfalt und erstreckt sich über einen Großteil der brasilianischen Atlantikküste bis nach Argentinien und Paraguay. Seine Landschaft umfasst tropische und subtropische Wälder, Mangroven und küstennahe Lebensräume und bietet rund 20.000 Pflanzenarten sowie einer außergewöhnlichen Vielfalt an Wildtieren, darunter Jaguare und Goldlöwenäffchen, eine Heimat. Ein Großteil des Waldes ist im Laufe der Jahrhunderte verschwunden, doch er spielt weiterhin eine wichtige Rolle bei der Speicherung von Kohlenstoff und der Versorgung von Millionen von Menschen in der gesamten Region mit Süßwasser.",
       "es-ES": "La Selva Atlántica es uno de los grandes puntos críticos de biodiversidad del mundo. Se extiende a lo largo de buena parte de la costa atlántica de Brasil y llega hasta Argentina y Paraguay. Su paisaje comprende bosques tropicales y subtropicales, manglares y hábitats costeros, y alberga alrededor de 20.000 especies de plantas y una extraordinaria variedad de fauna, incluidos jaguares y tamarinos león dorados. Gran parte la selva ha desaparecido a lo largo de los siglos, pero aún desempeña un papel importante al almacenar carbono y abastecer de agua dulce a millones de personas en toda la región.",
       "ja-JP": "大西洋岸森林は、世界有数の生物多様性を誇る地域の一つです。ブラジルの大西洋沿岸からアルゼンチンやパラグアイにまで広がり、熱帯・亜熱帯の森林やマングローブなど、さまざまな環境が見られます。約2万種の植物が生育し、ジャガーやゴールデンライオンタマリンをはじめ、多彩な野生動物が暮らしています。長い年月の間に森林の多くが失われましたが、現在も炭素を蓄え、地域の多くの人々に淡水をもたらすなど、大切な役割を果たしています。",
       "en-IN": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
-      "en-CA": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
       "it-IT": "La Foresta Atlantica è uno dei grandi scrigni di biodiversità del pianeta. Si estende lungo gran parte della costa brasiliana e raggiunge alcune aree di Argentina e Paraguay. Tra foreste tropicali e subtropicali, mangrovie e habitat costieri, ospita circa 20.000 specie vegetali e una straordinaria varietà di animali, tra cui giaguari e scimmie leonine. Sebbene gran parte della foresta sia scomparsa nel corso dei secoli, questo prezioso ecosistema continua a svolgere un ruolo fondamentale: immagazzina anidride carbonica e garantisce risorse di acqua dolce a milioni di persone.",
       "pt-BR": "A Mata Atlântica é um dos grandes hotspots de biodiversidade do mundo, estendendo-se por grande parte da costa atlântica do Brasil e também por áreas da Argentina e do Paraguai. Sua paisagem inclui florestas tropicais e subtropicais, manguezais e habitats costeiros, que abrigam cerca de 20 mil espécies de plantas e uma extraordinária variedade de fauna, incluindo onças-pintadas e micos-leões-dourados. Grande parte da floresta desapareceu ao longo dos séculos, mas ela continua desempenhando um papel importante no armazenamento de carbono e no fornecimento de água doce para milhões de pessoas em toda a região.",
       "zh-CN": "大西洋森林是世界上重要的生物多样性热点地区之一，沿巴西大西洋沿岸的广大地带延伸，并进入阿根廷和巴拉圭境内。这里的景观包括热带与亚热带森林、红树林和海岸生境，孕育了约2万种植物以及种类繁多的野生动物，其中包括美洲豹和金狮绢毛猴。几个世纪以来，大片森林已经消失，但它仍在储存碳，并为该地区数百万人提供淡水方面发挥着重要作用。"
@@ -2101,6 +2124,7 @@
       "en-IN": "The Atlantic Forest is home to around 150 million people, which is roughly a third of South America's total population."
     },
     "captions": {
+      "en-CA": "The Atlantic Forest, Brazil",
       "de-DE": "Der Atlantische Regenwald, Brasilien",
       "it-IT": "",
       "es-ES": "Selva Atlántica, Brasil",
@@ -2110,6 +2134,7 @@
       "en-IN": "The Atlantic Forest, Brazil"
     },
     "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Atlantic+Forest+Brazil&form=hpcapt&filters=HpDate%3a%2220261111_0500%22",
       "de-DE": "https://www.bing.com/search?q=Atlantischer+Regenwald+Brasilien&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
       "it-IT": "https://www.bing.com/search?q=Foresta+Atlantica+Brasile&form=hpcapt",
       "es-ES": "https://www.bing.com/search?q=Selva+Atl%c3%a1ntica+Brasil&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
@@ -2119,6 +2144,7 @@
       "en-IN": "https://www.bing.com/search?q=Atlantic+Forest+Brazil&form=hpcapt&filters=HpDate%3a%2220261110_1830%22"
     },
     "urlbases": {
+      "en-CA": "/th?id=OHR.Atlantica_EN-CA7496830701",
       "de-DE": "/th?id=OHR.Atlantica_DE-DE2362030432",
       "it-IT": "/th?id=OHR.Atlantica_IT-IT7343444003",
       "es-ES": "/th?id=OHR.Atlantica_ES-ES2909750092",
@@ -2190,6 +2216,78 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700"
+    }
+  },
+  "KuneticeCastle": {
+    "name": "KuneticeCastle",
+    "urlbase": "/th?id=OHR.KuneticeCastle_EN-US9492527404",
+    "date": "20261028",
+    "dateFormatted": "October 28, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "en-CA": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "en-GB": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia",
+      "de-DE": "Wo Geschichte Wache hält. Burg Kunětická hora, Böhmen, Tschechien",
+      "fr-FR": "Gardien de l’histoire. Château de Kunětická hora, Bohême, Tchéquie",
+      "it-IT": "Secoli sopra la Boemia",
+      "es-ES": "Siglos sobre Bohemia. Castillo de Kunětická hora, Bohemia, Chequia",
+      "pt-BR": "O melhor ponto de vista",
+      "ja-JP": "夕暮れに佇む古城",
+      "zh-CN": "历史守望之地",
+      "en-IN": "Where history stands watch. Kunětická hora Castle, Bohemia, Czechia"
+    },
+    "copyrights": {
+      "en-US": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "en-CA": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "en-GB": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+      "de-DE": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
+      "fr-FR": "Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy)",
+      "it-IT": "Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy)",
+      "es-ES": "Castillo de Kunětická hora, Bohemia, Chequia (© Marek Saroch/Alamy)",
+      "pt-BR": "Castelo de Kunětická hora, Boêmia, Chéquia (© Marek Saroch/Alamy)",
+      "ja-JP": "クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)",
+      "zh-CN": "库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)",
+      "en-IN": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)"
+    },
+    "descs": {
+      "en-US": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "en-CA": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "en-GB": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "de-DE": "Was könnten diese Mauern wohl alles erzählen? Hoch über der ostböhmischen Landschaft thront die Burg Kunětická hora, die im Deutschen auch als Kunburg bekannt ist. Bereits in der zweiten Hälfte des 14. Jahrhunderts stand an dieser Stelle eine ausgedehnte Burganlage. Ihre erhöhte Lage machte sie weithin sichtbar und zu einem wichtigen strategischen Stützpunkt.",
+      "fr-FR": "Quelles histoires ces murailles pourraient-elles raconter ? Dominant la Bohême orientale, en Tchéquie, le château de Kunětická hora veille sur la campagne depuis la fin du XIVᵉ siècle. Progressivement agrandi, il devint à la fois une imposante forteresse et une résidence aristocratique. Sa position élevée offrait un vaste panorama sur les plaines environnantes et faisait du château un bastion stratégique.",
+      "es-ES": "¿Qué historias contarían estos muros? El castillo de Kunětická hora se alza sobre un cerro solitario en el este de Bohemia, en en Chequia, y lleva siglos vigilando la llanura del Elba. A finales del siglo XIV ya había una fortaleza en esta colina, y su posición elevada, que permitía controlar todo el territorio circundante, la convirtió en una plaza codiciada.",
+      "ja-JP": "チェコ東部のボヘミア地方にそびえるクネティツカー・ホラ城は、14 世紀なかば頃には、すでにこの地に城が存在していたとされています。時代の流れとともに、要塞や貴族の居城として発展し、16 世紀には当時有力だったペルンシュテイン家によって、後期ゴシック様式とルネサンス様式の壮大な城へと改築されました。その後は荒廃し、採石によって一部が失われましたが、20 世紀初めから修復が始まりました。現在は、城内で展示や当時使用されていた部屋を見学することが可能であり、塔からは周囲の雄大な景色を一望できます。中世ボヘミアの歴史を今に伝える印象的な城です。",
+      "en-IN": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+      "it-IT": "Che storie racconterebbero queste mura? Il castello di Kunětická hora si alza su un colle isolato nella Boemia orientale, in Cechia, e da secoli tiene d'occhio la pianura dell'Elba. Alla fine del Trecento sulla collina esisteva già una fortezza, e la sua posizione elevata, che permetteva di controllare tutto il territorio intorno, la rese una piazza ambita.",
+      "pt-BR": "No alto de uma colina na Boêmia, na atual Chéquia, o Castelo de Kunětická hora passou por uma história cheia de reviravoltas. Suas origens remontam ao fim do século XIV, quando a posição elevada já oferecia uma vantagem nada desprezível: dali era possível vigiar boa parte da paisagem ao redor. Com o tempo, a fortificação virou também residência de nobres e ganhou novas estruturas.",
+      "zh-CN": "这些城墙会讲述怎样的故事？库涅季采山城堡高踞于捷克波希米亚东部，见证了数百年的历史。城堡的历史可追溯至14世纪末，后来逐渐发展为一座宏伟的要塞和贵族宅邸。它地势高耸，可俯瞰周围乡野，也因此成为一处重要据点。"
+    },
+    "quickFacts": {
+      "zh-CN": "1645年，一支瑞典军队攻占库涅季采山城堡，并在撤离前将其焚毁，加速了城堡此后的长期衰败。"
+    },
+    "captions": {
+      "en-US": "Kunětická hora Castle, Bohemia, Czechia",
+      "en-CA": "Kunětická hora Castle, Bohemia, Czechia"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Kun%c4%9btick%c3%a1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.KuneticeCastle_EN-US9492527404",
+      "en-CA": "/th?id=OHR.KuneticeCastle_EN-CA2792060952"
     }
   },
   "PondCypress": {
