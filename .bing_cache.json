@@ -1,4 +1,148 @@
 {
+  "BlueHK": {
+    "name": "BlueHK",
+    "urlbase": "/th?id=OHR.BlueHK_EN-US7870996687",
+    "date": "20261114",
+    "dateFormatted": "November 14, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "The only way is up. Victoria Harbour, Hong Kong, China",
+      "en-GB": "The only way is up. Victoria Harbour, Hong Kong, China",
+      "en-CA": "The only way is up. Victoria Harbour, Hong Kong, China",
+      "de-DE": "Hoch, höher, Hongkong. Victoria Harbour, Hongkong, China",
+      "fr-FR": "Les yeux rivés vers le haut. Port Victoria, Hong Kong, Chine",
+      "it-IT": "Sempre più in alto",
+      "es-ES": "Una ciudad que mira al cielo. Puerto Victoria, Hong Kong, China",
+      "pt-BR": "O céu é o limite",
+      "ja-JP": "上へ上へと伸びる街. ビクトリア・ハーバー、香港、中国",
+      "zh-CN": "中国香港维多利亚港",
+      "en-IN": "The only way is up. Victoria Harbour, Hong Kong, China"
+    },
+    "copyrights": {
+      "en-US": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+      "en-GB": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+      "en-CA": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+      "de-DE": "Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images)",
+      "fr-FR": "Port Victoria, Hong Kong, Chine (© Juan Romero/Cavan Images)",
+      "it-IT": "Victoria Harbour, Hong Kong, Cina (© Juan Romero/Cavan Images)",
+      "es-ES": "Puerto Victoria, Hong Kong, China (© Juan Romero/Cavan Images)",
+      "pt-BR": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+      "ja-JP": "ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)",
+      "zh-CN": "中国香港维多利亚港 (© Juan Romero/Cavan Images)",
+      "en-IN": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)"
+    },
+    "descs": {
+      "en-US": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk, and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fueling a construction boom. With little flat land available between the harbor and the hills, developers had to build upward, creating this distinctive skyline. In 2026, Hong Kong has 569 buildings above 492 feet high—more than any other city.",
+      "en-GB": "Welcome to Hong Kong, home to more skyscrapers than any other city in the world. Those pictured here tower above Victoria Harbour, whose deep waters helped the island develop into a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth accelerated in the decades after the Second World War, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upwards, creating this distinctive skyline. As of 2026, Hong Kong has 569 completed buildings at least 150 metres tall — more than any other city in the world.",
+      "en-CA": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upward, creating this distinctive skyline. In 2026, Hong Kong has 569 completed buildings at least 150 metres tall — more than any other city.",
+      "de-DE": "Willkommen in Hongkong, der Stadt mit der weltweit höchsten Anzahl an Wolkenkratzern. Die hier abgebildeten Hochhäuser überragen den Victoria Harbour, der sich dank seiner tiefen Gewässer zum geschäftigen Handelshafen der Insel entwickelt hat. Seit den 1840er Jahren laufen hier Schiffe mit Tee, Seide und anderen Waren ein und aus, doch erst in den Jahrzehnten nach dem Zweiten Weltkrieg nahm das Wachstum rasant zu und löste einen Bauboom aus. Da zwischen dem Hafen und den Hügeln nur wenig flaches Land zur Verfügung stand, mussten Bauunternehmer in die Höhe bauen und haben so diese einzigartige Skyline geschaffen. Im Jahr 2026 zählt Hongkong 569 Gebäude, die höher als 150 Meter sind – mehr als jede andere Stadt.",
+      "fr-FR": "Bienvenue à Hong Kong, la ville qui abrite la plus grande concentration de gratte-ciel au monde. Ceux que l'on voit ici dominent le port Victoria. Ses eaux profondes ont permis à l'île de se développer en tant que port de commerce très dynamique et prospère. Si des navires chargés de thé, de soie et d'autres marchandises y transitent depuis les années 1840, la croissance s'est accélérée de façon spectaculaire après la Seconde Guerre mondiale, déclenchant un véritable boom de la construction.",
+      "es-ES": "Bienvenidos a Hong Kong, la ciudad con la mayor concentración de rascacielos del mundo. Los edificios de la imagen se elevan sobre el puerto Victoria, cuyas aguas profundas permitieron que la isla se desarrollara como un importante puerto comercial. Desde la década de 1840 han pasado por aquí barcos cargados de té, seda y otras mercancías; tras la Segunda Guerra Mundial, su rápido crecimiento impulsó un auge de la construcción.",
+      "ja-JP": "上へ上へと伸びる街. ビクトリア・ハーバー、香港、中国. 超高層ビルの数が世界一の街、香港へようこそ。ビクトリア・ハーバー沿いにビルがひしめくのは、港と山の間に平地がほとんどなく、戦後の建設ラッシュで上に伸びるしかなかったためです。2026年現在、高さ150m以上のビルは569棟にのぼり、世界のどの都市よりも多くなっています。",
+      "en-IN": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upwards, creating this distinctive skyline. In 2026, Hong Kong has 569 buildings above 150 metres high – more than any other city.",
+      "it-IT": "Benvenuti a Hong Kong, la città con più grattacieli al mondo. Quelli che svettano sul Victoria Harbour raccontano una storia plasmata anche dai suoi profondi fondali, che favorirono lo sviluppo di un vivace porto commerciale. Navi cariche di tè, seta e merci di ogni tipo, solcano queste acque fin dagli anni Quaranta dell’Ottocento. Dopo la Seconda Guerra Mondiale, la rapida crescita economica diede impulso a un grande boom edilizio. Con poco terreno pianeggiante tra porto e colline, non restava che costruire verso l’alto, dando vita ad un inconfondibile skyline. Nel 2026, Hong Kong conta 569 edifici alti oltre 150 metri, più di qualsiasi altra città.",
+      "pt-BR": "Bem-vindo a Hong Kong, que abriga a maior concentração de arranha-céus do mundo. Os edifícios vistos aqui se erguem sobre Victoria Harbour, cujas águas profundas permitiram que a ilha se desenvolvesse como um movimentado porto comercial. Desde a década de 1840, navios transportando chá, seda e outras mercadorias passam pela região, mas o crescimento disparou nas décadas após a Segunda Guerra Mundial, impulsionando um boom na construção civil. Com pouco terreno plano disponível entre o porto e as colinas, os incorporadores tiveram de construir verticalmente, criando esse horizonte urbano inconfundível. Em 2026, Hong Kong tem 569 edifícios com mais de 150 metros de altura, mais do que qualquer outra cidade.",
+      "zh-CN": "欢迎来到香港，这里拥有全球最多的摩天大楼。图中的高楼耸立在维多利亚港上方，港口水深，使香港得以发展成为繁忙的贸易港。自19世纪40年代起，载着茶叶、丝绸和其他货物的船只便在这里往来；第二次世界大战后的几十年间，经济增长急剧加速，带动了建筑业的繁荣。港口与山丘之间可用的平地有限，开发商只得向上建造，塑造了这片独具特色的天际线。2026年，香港有569栋高度超过492英尺的建筑，比任何其他城市都多。"
+    },
+    "quickFacts": {
+      "zh-CN": "“幻彩咏香江”通常于晚上8点上演，以音乐配合维多利亚港上空的激光和探照灯光束。"
+    },
+    "captions": {
+      "en-US": "Victoria Harbour, Hong Kong, China",
+      "en-GB": "Victoria Harbour, Hong Kong, China",
+      "en-CA": "Victoria Harbour, Hong Kong, China",
+      "de-DE": "Victoria Harbour, Hongkong, China",
+      "fr-FR": "Port Victoria, Hong Kong, Chine",
+      "it-IT": "",
+      "es-ES": "Puerto Victoria, Hong Kong, China",
+      "pt-BR": "",
+      "ja-JP": "ビクトリア・ハーバー、香港、中国",
+      "zh-CN": "",
+      "en-IN": "Victoria Harbour, Hong Kong, China"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Victoria+Harbour+Hongkong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Port+Victoria+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Puerto+Victoria+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Victoria+Harbour+em+Hong+Kong+na+China&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%93%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e3%83%bb%e3%83%8f%e3%83%bc%e3%83%90%e3%83%bc+%e9%a6%99%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220261113_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%ad%e5%9b%bd%e9%a6%99%e6%b8%af%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e6%b8%af&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BlueHK_EN-US7870996687",
+      "en-GB": "/th?id=OHR.BlueHK_EN-GB3274323919",
+      "en-CA": "/th?id=OHR.BlueHK_EN-CA2709774125",
+      "de-DE": "/th?id=OHR.BlueHK_DE-DE1662761141",
+      "fr-FR": "/th?id=OHR.BlueHK_FR-FR2342913478",
+      "it-IT": "/th?id=OHR.BlueHK_IT-IT8939331622",
+      "es-ES": "/th?id=OHR.BlueHK_ES-ES3038554146",
+      "pt-BR": "/th?id=OHR.BlueHK_PT-BR4557088394",
+      "ja-JP": "/th?id=OHR.BlueHK_JA-JP0477081186",
+      "zh-CN": "/th?id=OHR.BlueHK_ZH-CN1382345392",
+      "en-IN": "/th?id=OHR.BlueHK_EN-IN1948913499"
+    }
+  },
   "AbrahamCanada": {
     "name": "AbrahamCanada",
     "urlbase": "/th?id=OHR.AbrahamCanada_EN-US3455540217",
@@ -659,7 +803,7 @@
       "es-ES": "Una celebración que brilla. Diwali (Festival de las luces)",
       "pt-BR": "Uma festa que ilumina",
       "ja-JP": "光に包まれる祝祭. ディーワーリー（光の祭典）",
-      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度",
+      "zh-CN": "光芒四射的节日",
       "en-IN": "Happy Diwali!"
     },
     "copyrights": {
@@ -682,7 +826,7 @@
       "de-DE": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
       "fr-FR": "Que se passe-t-il quand une nuit sombre donne lieu à la célébration la plus lumineuse de l’année ? Diwali, qui signifie « rangée de lumières » en sanskrit, a lieu lors de la nuit de la nouvelle lune du mois hindou de Kartik. À travers l'Inde, cette célébration s'accompagne de récits et de traditions variés. Durant 5 jours, elle est ponctuée par l’allumage des diyas (lampes à huile), pour symboliser la lumière, le nettoyage de la maison, des prières, des rangolis sur le sol, des échanges de cadeaux et des réunions familiales.",
       "es-ES": "¿Qué sucede cuando la noche más oscura se llena de luz? Llega Diwali. El Festival de las Luces es celebrado por millones de personas en todo el mundo y reúne diyas, linternas, rangoli, oraciones, dulces y encuentros familiares.",
-      "ja-JP": "光に包まれる祝祭. ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド. ディーワーリーは、新月の暗い夜を明るく照らす「光の祭典」です。世界中で多くの人々が祝い、ディヤーと呼ばれる小さな灯明やランタンをともし、色鮮やかなランゴーリーで辺りを飾り、家族でお菓子を分け合います。ヒンドゥー教をはじめ、ジャイナ教やシク教でも大切にされている祝祭で、名前はサンスクリット語で「光の列」を意味する「ディーパーヴァリ」に由来します。",
+      "ja-JP": "ディーワーリーは、新月の暗い夜を明るく照らす「光の祭典」です。世界中で多くの人々が祝い、ディヤーと呼ばれる小さな灯明やランタンをともし、色鮮やかなランゴーリーで辺りを飾り、家族でお菓子を分け合います。ヒンドゥー教をはじめ、ジャイナ教やシク教でも大切にされている祝祭で、名前はサンスクリット語で「光の列」を意味する「ディーパーヴァリ」に由来します。",
       "en-IN": "Across India, Diwali brings homes, streets and neighbourhoods to life with the warm glow of lanterns, diyas and colourful decorations. Known as the Festival of Lights, it celebrates themes of hope, new beginnings and the triumph of light over darkness. Traditions vary across the country, but for many families, the festivities include creating rangoli, performing Lakshmi Puja, exchanging sweets and gifts, and spending time with loved ones. Diwali is also associated with Lord Rama's return to Ayodhya after defeating Ravana. More than a festival, it's a time for togetherness, reflection and welcoming the year ahead with optimism.",
       "it-IT": "Quando la notte più buia dell’anno incontra la festa più luminosa, è tempo di Diwali. Milioni di persone nel mondo celebrano la Festa delle Luci con “diya”, le tradizionali lampade a olio, lanterne, rangoli, preghiere, dolci e momenti in famiglia. Il nome deriva dal sanscrito “dipavali”, che significa “fila di luci”. In India, storie e tradizioni cambiano da una regione all’altra: alcuni celebrano il ritorno di Rama ad Ayodhya, altri la vittoria di Krishna su Narakasura o rendono omaggio alla dea Kali. Anche giainisti e sikh festeggiano il Diwali, illuminando case e comunità.",
       "pt-BR": "O que acontece quando a noite mais escura do ano ganha a celebração mais iluminada? Diwali. O Festival das Luzes é celebrado por milhões de pessoas em todo o mundo, reunindo diyas, lanternas, rangolis, orações, doces e encontros em família.",
@@ -1626,83 +1770,11 @@
       "en-US": "/th?id=OHR.NativeBaskets_EN-US0205712064"
     }
   },
-  "FrankfurtHalloween": {
-    "name": "FrankfurtHalloween",
-    "urlbase": "/th?id=OHR.FrankfurtHalloween_EN-US0115213682",
-    "date": "20261031",
-    "dateFormatted": "October 31, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "Ghosts of empires past. It's Halloween!",
-      "en-CA": "Ghosts of empires past. It's Halloween!",
-      "en-GB": "Ghosts of empires past. It's Halloween!",
-      "de-DE": "Der Geist vergangener Kaiserreiche. Heute ist Halloween!",
-      "fr-FR": "Visiteurs d'un autre monde. C’est Halloween !",
-      "it-IT": "Fantasmi di imperi passati",
-      "es-ES": "Los fantasmas de imperios pasados. ¡Es Halloween!",
-      "pt-BR": "Ecos de um império",
-      "ja-JP": "帝国の面影. 今日はハロウィン！",
-      "zh-CN": "往昔帝国的幽影",
-      "en-IN": "Ghosts of empires past. It's Halloween!"
-    },
-    "copyrights": {
-      "en-US": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
-      "en-CA": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
-      "en-GB": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
-      "de-DE": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
-      "fr-FR": "Cathédrale Saint-Barthélemy à Francfort, Allemagne (© AlxeyPnferov/Getty Images)",
-      "it-IT": "Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)",
-      "es-ES": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
-      "pt-BR": "Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)",
-      "ja-JP": "聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images)",
-      "zh-CN": "圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)",
-      "en-IN": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St. Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the holiday's own history is even stranger.",
-      "en-CA": "Frankfurt, Germany, provides a fitting backdrop for Halloween with St. Bartholomew's Cathedral and its striking Gothic tower. Yet the holiday's origins are even more intriguing. Many Halloween traditions are linked to Samhain, an ancient Celtic festival marking the end of the harvest season and the start of winter. People believed the boundary between the living and the dead grew thin, prompting bonfires, offerings and disguises to ward off wandering spirits. Later, the Christian observances of All Saints' Day and All Souls' Day helped shape Halloween as we know it today. St. Bartholomew's may set the scene, but Halloween brings the ghosts, legends and mystery.",
-      "en-GB": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
-      "de-DE": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
-      "fr-FR": "Oubliez les fumigènes. Francfort, en Allemagne, dispose d’un atout bien plus étonnant : une cathédrale gothique. La silhouette médiévale de la cathédrale Saint-Barthélemy semble avoir été spécialement conçue pour célébrer Halloween. L’histoire de cette fête est remplie de mystères et de fantômes. Le lieu est donc idéal !",
-      "es-ES": "Olvídate de la máquina de humo. Fráncfort, Alemania, tiene algo mucho más efectivo: una catedral gótica con una torre que parece lista para una sesión espiritista a medianoche. La catedral de San Bartolomé, que vemos en la imagen, tiene la silueta medieval que Halloween habría elegido como escenario perfecto. Pero la historia de esta celebración es aún más extraña.",
-      "ja-JP": "ドイツ・フランクフルトのフランクフルト大聖堂は、ゴシック様式の塔と中世を思わせるシルエットが印象的で、この時期らしい神秘的な雰囲気を醸し出しています。ハロウィンの風習には、収穫期の終わりと冬の始まりを告げる古代ケルトの祭り「サウィン」に由来するものがあるといわれています。当時は、この時期になると生者と死者の世界の境界が曖昧になり、超自然的な存在が現れると信じられていました。その後、11月1日が「諸聖人の日（万聖節）」と定められると、その前夜は「万聖節前夜」と呼ばれ、やがて「ハロウィン」という呼び名へと変わっていきました。",
-      "en-IN": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
-      "it-IT": "A Francoforte, in Germania, il Duomo Imperiale di San Bartolomeo, con la sua imponente architettura gotica, offre lo scenario perfetto per Halloween, una festa dalle origini avvolte nel mistero. Alcune delle sue tradizioni vengono associate a Samhain, un’antica festività celtica che segnava la fine del raccolto e l’inizio dell’inverno, quando si credeva che il confine tra il mondo dei vivi e quello dei morti si assottigliasse. In seguito, la vigilia di Ognissanti divenne “All Hallows’ Eve”, da cui deriva Halloween. Tra fantasmi, falò, travestimenti e suggestioni soprannaturali, non manca proprio nulla per una notte da brividi.",
-      "pt-BR": "Esqueça a máquina de fumaça. Frankfurt, na Alemanha, tem algo muito mais eficaz: uma catedral gótica com uma torre que parece pronta para uma sessão espírita à meia-noite. A Catedral de São Bartolomeu, vista aqui, tem uma silhueta medieval que parece ter sido feita sob medida para o Halloween. Mas a própria história da data é ainda mais estranha.",
-      "zh-CN": "忘了烟雾机吧。德国法兰克福有更能烘托气氛的景物：一座哥特式大教堂，塔楼仿佛随时能上演一场午夜招魂会。画面中的圣巴尔多禄茂教堂有着中世纪风格的轮廓，简直像是万圣节特意挑选的布景。不过，这个节日本身的历史更加离奇。"
-    },
-    "quickFacts": {
-      "zh-CN": "1562年至1792年，神圣罗马帝国的当选皇帝曾在法兰克福的圣巴尔多禄茂教堂举行加冕仪式。"
-    },
-    "captions": {
-      "en-US": "It's Halloween!",
-      "en-CA": "It's Halloween!"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0700%22",
-      "en-CA": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0400%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.FrankfurtHalloween_EN-US0115213682",
-      "en-CA": "/th?id=OHR.FrankfurtHalloween_EN-CA9657628051"
-    }
-  },
-  "BlueHK": {
-    "name": "BlueHK",
-    "urlbase": "/th?id=OHR.BlueHK_EN-GB3274323919",
-    "date": "20261114",
-    "dateFormatted": "November 14, 2026",
+  "FirstFrost": {
+    "name": "FirstFrost",
+    "urlbase": "/th?id=OHR.FirstFrost_EN-GB4338987849",
+    "date": "20261115",
+    "dateFormatted": "November 15, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1751,79 +1823,89 @@
       }
     ],
     "titles": {
-      "en-GB": "The only way is up. Victoria Harbour, Hong Kong, China",
-      "de-DE": "Hoch, höher, Hongkong. Victoria Harbour, Hongkong, China",
-      "fr-FR": "Les yeux rivés vers le haut. Port Victoria, Hong Kong, Chine",
-      "it-IT": "Sempre più in alto",
-      "es-ES": "Una ciudad que mira al cielo. Puerto Victoria, Hong Kong, China",
-      "pt-BR": "O céu é o limite",
-      "ja-JP": "上へ上へと伸びる街. ビクトリア・ハーバー、香港、中国",
-      "zh-CN": "中国香港维多利亚港",
-      "en-IN": "The only way is up. Victoria Harbour, Hong Kong, China",
-      "en-US": "The only way is up. Victoria Harbour, Hong Kong, China",
-      "en-CA": "The only way is up. Victoria Harbour, Hong Kong, China"
+      "en-GB": "Frosty foliage. Frost on azalea foliage",
+      "de-DE": "Frostige Blätter. Reif auf Azaleenblättern",
+      "fr-FR": "Givre sur tons d'automne. Givre sur le feuillage d’azalées",
+      "it-IT": "Foglie ghiacciate",
+      "es-ES": "Follaje escarchado. Escarcha sobre hojas de azalea",
+      "pt-BR": "Vermelho abaixo de zero",
+      "ja-JP": "霜化粧の葉. ツツジの葉に降りた霜",
+      "zh-CN": "覆霜的红叶杜鹃",
+      "en-IN": "Frosty foliage. Frost on azalea foliage",
+      "en-US": "Frosty foliage. Frozen azalea with red leaves",
+      "en-CA": "Frosty foliage. Frozen azalea with red leaves"
     },
     "copyrights": {
-      "en-GB": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
-      "de-DE": "Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images)",
-      "fr-FR": "Port Victoria, Hong Kong, Chine (© Juan Romero/Cavan Images)",
-      "it-IT": "Victoria Harbour, Hong Kong, Cina (© Juan Romero/Cavan Images)",
-      "es-ES": "Puerto Victoria, Hong Kong, China (© Juan Romero/Cavan Images)",
-      "pt-BR": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
-      "ja-JP": "ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)",
-      "zh-CN": "中国香港维多利亚港 (© Juan Romero/Cavan Images)",
-      "en-IN": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
-      "en-US": "© Juan Romero/Cavan Images",
-      "en-CA": "© Juan Romero/Cavan Images"
+      "en-GB": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+      "de-DE": "Gefrorene Azalee mit roten Blättern (© avoferten/Shutterstock)",
+      "fr-FR": "Azalée gelée aux feuilles rouges (© avoferten/Shutterstock)",
+      "it-IT": "Azalea rossa ricoperta di brina (© avoferten/Shutterstock)",
+      "es-ES": "Escarcha sobre hojas de azalea (© avoferten/Shutterstock)",
+      "pt-BR": "Azaleia congelada com folhas vermelhas (© avoferten/Shutterstock)",
+      "ja-JP": "赤い葉に霜が降りたツツジ (© avoferten/Shutterstock)",
+      "zh-CN": "覆霜的红叶杜鹃 (© avoferten/Shutterstock)",
+      "en-IN": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+      "en-US": "© avoferten/Shutterstock",
+      "en-CA": "© avoferten/Shutterstock"
     },
     "descs": {
-      "en-GB": "Welcome to Hong Kong, home to more skyscrapers than any other city in the world. Those pictured here tower above Victoria Harbour, whose deep waters helped the island develop into a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth accelerated in the decades after the Second World War, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upwards, creating this distinctive skyline. As of 2026, Hong Kong has 569 completed buildings at least 150 metres tall — more than any other city in the world.",
-      "de-DE": "Willkommen in Hongkong, der Stadt mit der weltweit höchsten Anzahl an Wolkenkratzern. Die hier abgebildeten Hochhäuser überragen den Victoria Harbour, der sich dank seiner tiefen Gewässer zum geschäftigen Handelshafen der Insel entwickelt hat. Seit den 1840er Jahren laufen hier Schiffe mit Tee, Seide und anderen Waren ein und aus, doch erst in den Jahrzehnten nach dem Zweiten Weltkrieg nahm das Wachstum rasant zu und löste einen Bauboom aus. Da zwischen dem Hafen und den Hügeln nur wenig flaches Land zur Verfügung stand, mussten Bauunternehmer in die Höhe bauen und haben so diese einzigartige Skyline geschaffen. Im Jahr 2026 zählt Hongkong 569 Gebäude, die höher als 150 Meter sind – mehr als jede andere Stadt.",
-      "fr-FR": "Bienvenue à Hong Kong, la ville qui abrite la plus grande concentration de gratte-ciel au monde. Ceux que l'on voit ici dominent le port Victoria. Ses eaux profondes ont permis à l'île de se développer en tant que port de commerce très dynamique et prospère. Si des navires chargés de thé, de soie et d'autres marchandises y transitent depuis les années 1840, la croissance s'est accélérée de façon spectaculaire après la Seconde Guerre mondiale, déclenchant un véritable boom de la construction.",
-      "es-ES": "Bienvenidos a Hong Kong, la ciudad con la mayor concentración de rascacielos del mundo. Los edificios de la imagen se elevan sobre el puerto Victoria, cuyas aguas profundas permitieron que la isla se desarrollara como un importante puerto comercial. Desde la década de 1840 han pasado por aquí barcos cargados de té, seda y otras mercancías; tras la Segunda Guerra Mundial, su rápido crecimiento impulsó un auge de la construcción.",
-      "ja-JP": "上へ上へと伸びる街. ビクトリア・ハーバー、香港、中国. 超高層ビルの数が世界一の街、香港へようこそ。ビクトリア・ハーバー沿いにビルがひしめくのは、港と山の間に平地がほとんどなく、戦後の建設ラッシュで上に伸びるしかなかったためです。2026年現在、高さ150m以上のビルは569棟にのぼり、世界のどの都市よりも多くなっています。",
-      "en-IN": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upwards, creating this distinctive skyline. In 2026, Hong Kong has 569 buildings above 150 metres high – more than any other city.",
-      "en-US": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk, and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fueling a construction boom. With little flat land available between the harbor and the hills, developers had to build upward, creating this distinctive skyline. In 2026, Hong Kong has 569 buildings above 492 feet high—more than any other city.",
-      "en-CA": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upward, creating this distinctive skyline. In 2026, Hong Kong has 569 completed buildings at least 150 metres tall — more than any other city.",
-      "it-IT": "Benvenuti a Hong Kong, la città con più grattacieli al mondo. Quelli che svettano sul Victoria Harbour raccontano una storia plasmata anche dai suoi profondi fondali, che favorirono lo sviluppo di un vivace porto commerciale. Navi cariche di tè, seta e merci di ogni tipo, solcano queste acque fin dagli anni Quaranta dell’Ottocento. Dopo la Seconda Guerra Mondiale, la rapida crescita economica diede impulso a un grande boom edilizio. Con poco terreno pianeggiante tra porto e colline, non restava che costruire verso l’alto, dando vita ad un inconfondibile skyline. Nel 2026, Hong Kong conta 569 edifici alti oltre 150 metri, più di qualsiasi altra città.",
-      "pt-BR": "Bem-vindo a Hong Kong, que abriga a maior concentração de arranha-céus do mundo. Os edifícios vistos aqui se erguem sobre Victoria Harbour, cujas águas profundas permitiram que a ilha se desenvolvesse como um movimentado porto comercial. Desde a década de 1840, navios transportando chá, seda e outras mercadorias passam pela região, mas o crescimento disparou nas décadas após a Segunda Guerra Mundial, impulsionando um boom na construção civil. Com pouco terreno plano disponível entre o porto e as colinas, os incorporadores tiveram de construir verticalmente, criando esse horizonte urbano inconfundível. Em 2026, Hong Kong tem 569 edifícios com mais de 150 metros de altura, mais do que qualquer outra cidade.",
-      "zh-CN": "欢迎来到香港，这里拥有全球最多的摩天大楼。图中的高楼耸立在维多利亚港上方，港口水深，使香港得以发展成为繁忙的贸易港。自19世纪40年代起，载着茶叶、丝绸和其他货物的船只便在这里往来；第二次世界大战后的几十年间，经济增长急剧加速，带动了建筑业的繁荣。港口与山丘之间可用的平地有限，开发商只得向上建造，塑造了这片独具特色的天际线。2026年，香港有569栋高度超过492英尺的建筑，比任何其他城市都多。"
+      "en-GB": "As autumn's first frost sets in, ice crystals form on the leaves of evergreen shrubs, such as this azalea. The pinks, oranges and yellows of their spring blooms have long since faded, but a new colourful display awaits as their green leaves turn shades of red and purple. For the plants, these pigments can help protect leaves against environmental stresses as temperatures drop. For gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, fresh green growth will emerge, and the colourful cycle begins anew.",
+      "de-DE": "Während der erste Herbstfrost über das Land zieht, bilden sich Eiskristalle auf den Blättern immergrüner Sträucher wie dieser Azalee. Die Rosa-, Orange- und Gelbtöne ihrer Frühlingsblüte sind längst verschwunden und nun erwartet uns ein neues farbenfrohes Schauspiel, bei dem sich die grünen Blätter in Rot- und Violetttöne verwandeln. Diese neuen Pigmente schützen die Blätter der Pflanzen vor den sinkenden Temperaturen, während sie Gärtnern prächtige Herbstfarben liefern, eingerahmt von weißem Raureif. Im Frühling wachsen neue grüne Triebe und dann beginnt der bunte Kreislauf von Neuem.",
+      "fr-FR": "Alors que les premières gelées automnales apparaissent, des cristaux de glace se forment sur les arbustes à feuillage persistant, comme cette azalée. Les teintes roses, orangées et jaunes du printemps ont depuis longtemps disparu, mais un nouveau spectacle coloré s'annonce : le feuillage vert se pare alors de nuances rouges et pourpres.",
+      "es-ES": "A medida que las primeras heladas del otoño avanzan por el sur, se forman cristales de hielo sobre las hojas de arbustos perennes, como esta azalea. Atrás quedan los tonos rosas, naranjas y amarillos de la floración primaveral, pero comienza un nuevo espectáculo de color: las hojas verdes adquieren tonalidades rojas y moradas.",
+      "ja-JP": "霜化粧の葉. 赤い葉に霜が降りたツツジ. 初霜が降りると、常緑低木のツツジの葉に氷の結晶ができます。気温が下がると、緑の葉は赤や紫に色づきます。このときつくられる新しい色素が、葉を寒さから守っているのです。白い霜をまとった赤い葉は、秋の庭をひときわ鮮やかに彩ります。春になれば新しい葉が出て、また緑に包まれます。",
+      "en-IN": "As autumn's first frost sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves and the colourful cycle begins anew.",
+      "en-US": "As fall's first frost works its way across the South, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges, and yellows of their spring blooms, but a new colorful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colorful cycle begins anew.",
+      "en-CA": "As fall's first frost sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant fall display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colourful cycle begins anew.",
+      "it-IT": "Con le prime gelate autunnali, i cristalli di ghiaccio ricoprono le foglie degli arbusti sempreverdi, come nel caso di questa azalea. I colori rosa, arancione e giallo della fioritura primaverile sono un lontano ricordo, con l’autunno che porta con sé un nuovo spettacolo, tingendo le foglie di rosso e viola. Questi pigmenti aiutano la pianta a proteggere le foglie quando scendono le temperature e, allo stesso tempo, regalano un vivace tocco di colore, sfumato dalla brina. Con l’arrivo della primavera, i nuovi germogli riporteranno il verde sull’arbusto, dando nuovamente il via al colorato ciclo delle stagioni.",
+      "pt-BR": "À medida que as primeiras geadas do outono avançam pelo sul, cristais de gelo se formam nas folhas de arbustos de folhagem perene, como esta azaleia. Já ficaram para trás os tons de rosa, laranja e amarelo de sua floração na primavera, mas um novo espetáculo de cores surge quando as folhas verdes ganham tonalidades de vermelho e roxo. Para as plantas, esses novos pigmentos protegem as folhas à medida que as temperaturas caem; para os jardineiros, criam um vibrante cenário de outono emoldurado pela geada branca. Quando a primavera chega, os novos brotos devolvem ao arbusto sua folhagem verde, e o ciclo de cores recomeça.",
+      "zh-CN": "随着秋天的第一场霜降临南方，冰晶在常绿灌木的叶片上凝结，就像这株杜鹃。春日花朵的粉色、橙色和黄色早已褪去，但新的色彩盛宴即将上演：绿色的叶片渐渐变成深浅不一的红色和紫色。对植物而言，这些新形成的色素能在气温下降时保护叶片；对园丁而言，白霜映衬下则是一幅绚丽的秋日景象。春天到来时，新芽会让灌木重披绿装，缤纷的色彩轮回也将重新开始。"
     },
     "quickFacts": {
-      "zh-CN": "“幻彩咏香江”通常于晚上8点上演，以音乐配合维多利亚港上空的激光和探照灯光束。"
+      "en-US": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
+      "en-GB": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
+      "en-CA": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
+      "de-DE": "Die Pigmente, die Azaleenblätter rot oder violett färben, werden Anthocyane genannt.",
+      "fr-FR": "Les pigments qui confèrent aux feuilles d’azalée des teintes rouges ou violettes sont appelés anthocyanes.",
+      "it-IT": "I pigmenti che donano alle foglie dell’azalea sfumature rosse o violacee sono chiamati antociani.",
+      "es-ES": "Los pigmentos que tiñen de rojo o morado las hojas de las azaleas se llaman antocianinas.",
+      "pt-BR": "Os pigmentos que dão às folhas da azaleia tons de vermelho ou roxo são chamados de antocianinas.",
+      "ja-JP": "ツツジの葉を赤や紫に染める色素は、アントシアニンと呼ばれています。",
+      "zh-CN": "使杜鹃叶片呈现红色或紫色的色素叫作花青素。",
+      "en-IN": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins."
     },
     "captions": {
-      "en-GB": "Victoria Harbour, Hong Kong, China",
-      "de-DE": "Victoria Harbour, Hongkong, China",
-      "fr-FR": "Port Victoria, Hong Kong, Chine",
+      "en-GB": "Frost on azalea foliage",
+      "de-DE": "Reif auf Azaleenblättern",
+      "fr-FR": "Givre sur le feuillage d’azalées",
       "it-IT": "",
-      "es-ES": "Puerto Victoria, Hong Kong, China",
+      "es-ES": "Escarcha sobre hojas de azalea",
       "pt-BR": "",
-      "ja-JP": "ビクトリア・ハーバー、香港、中国",
+      "ja-JP": "ツツジの葉に降りた霜",
       "zh-CN": "",
-      "en-IN": "Victoria Harbour, Hong Kong, China"
+      "en-IN": "Frost on azalea foliage"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Victoria+Harbour+Hongkong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Port+Victoria+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Puerto+Victoria+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Victoria+Harbour+em+Hong+Kong+na+China&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%93%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e3%83%bb%e3%83%8f%e3%83%bc%e3%83%90%e3%83%bc+%e9%a6%99%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220261113_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%ad%e5%9b%bd%e9%a6%99%e6%b8%af%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e6%b8%af&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_1830%22"
+      "en-GB": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261115_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Azaleen&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=azal%c3%a9e&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+      "it-IT": "https://www.bing.com/search?q=azalea&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=azaleias&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%84%e3%83%84%e3%82%b8&form=hpcapt&filters=HpDate%3a%2220261114_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%9d%9c%e9%b9%83%e8%8a%b1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261114_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.BlueHK_EN-GB3274323919",
-      "de-DE": "/th?id=OHR.BlueHK_DE-DE1662761141",
-      "fr-FR": "/th?id=OHR.BlueHK_FR-FR2342913478",
-      "it-IT": "/th?id=OHR.BlueHK_IT-IT8939331622",
-      "es-ES": "/th?id=OHR.BlueHK_ES-ES3038554146",
-      "pt-BR": "/th?id=OHR.BlueHK_PT-BR4557088394",
-      "ja-JP": "/th?id=OHR.BlueHK_JA-JP0477081186",
-      "zh-CN": "/th?id=OHR.BlueHK_ZH-CN1382345392",
-      "en-IN": "/th?id=OHR.BlueHK_EN-IN1948913499"
+      "en-GB": "/th?id=OHR.FirstFrost_EN-GB4338987849",
+      "de-DE": "/th?id=OHR.FirstFrost_DE-DE6574553682",
+      "fr-FR": "/th?id=OHR.FirstFrost_FR-FR6372552822",
+      "it-IT": "/th?id=OHR.FirstFrost_IT-IT9068405965",
+      "es-ES": "/th?id=OHR.FirstFrost_ES-ES3306321438",
+      "pt-BR": "/th?id=OHR.FirstFrost_PT-BR6618538565",
+      "ja-JP": "/th?id=OHR.FirstFrost_JA-JP1519167944",
+      "zh-CN": "/th?id=OHR.FirstFrost_ZH-CN2219029557",
+      "en-IN": "/th?id=OHR.FirstFrost_EN-IN2174706343"
     }
   },
   "PoppiesField": {
@@ -1890,139 +1972,6 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.FireworksBattersea_EN-GB4505786809"
-    }
-  },
-  "SchwarzwaldAutumn": {
-    "name": "SchwarzwaldAutumn",
-    "urlbase": "/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438",
-    "date": "20261101",
-    "dateFormatted": "November 01, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
-      "en-CA": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
-      "de-DE": "Wälder im Nebel. Schwarzwald, Baden-Württemberg",
-      "fr-FR": "Manteau de brume sur la forêt. Forêt-Noire, Bade-Wurtemberg, Allemagne",
-      "it-IT": "Alberi che svettano tra la foschia",
-      "es-ES": "Niebla entre los árboles. Selva Negra, Baden-Württemberg, Alemania",
-      "pt-BR": "A floresta em segredo",
-      "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
-      "zh-CN": "林间迷雾",
-      "en-IN": "Mist among the trees. Black Forest, Baden-Württemberg, Germany"
-    },
-    "copyrights": {
-      "en-GB": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
-      "en-CA": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
-      "de-DE": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
-      "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)",
-      "it-IT": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
-      "es-ES": "La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)",
-      "pt-BR": "Floresta Negra, Baden-Württemberg, Alemanha (© Britus/Getty Images)",
-      "ja-JP": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)",
-      "zh-CN": "黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)",
-      "en-IN": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)"
-    },
-    "descs": {
-      "en-GB": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
-      "en-CA": "The Black Forest in south-west Germany is known for its misty landscapes, forested hills, deep valleys, lakes and picturesque towns. Stretching about 160 kilometres, the region is home to Feldberg, its highest peak at 1,493 metres, and marks the source of both the Danube and Neckar rivers. Beyond its natural beauty, the Black Forest is rich in history and tradition. Forestry has shaped the region for centuries, while its renowned clockmaking heritage helped make the cuckoo clock famous around the world. Today, the area remains one of Germany's most distinctive destinations, blending cultural heritage with striking scenery.",
-      "de-DE": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
-      "fr-FR": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
-      "es-ES": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
-      "ja-JP": "ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
-      "en-IN": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
-      "it-IT": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
-      "pt-BR": "Hoje, estamos apreciando as paisagens cobertas de névoa da Floresta Negra, que se estende por cerca de 160 quilômetros pelo sudoeste da Alemanha, reunindo colinas arborizadas, vales profundos, lagos e cidades encantadoras. Seu ponto mais alto, o Feldberg, chega a 1.493 metros de altitude. A Floresta Negra também abriga as nascentes dos rios Danúbio e Neckar. História e tradição não faltam por aqui. A atividade florestal tem um papel importante na região há muito tempo, e a tradição secular de fabricar relógios ajudou a tornar o característico relógio de cuco famoso muito além da Alemanha.",
-      "zh-CN": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。"
-    },
-    "quickFacts": {
-      "zh-CN": "黑森林传统民俗头饰“绒球帽”上有14个羊毛绒球；未婚女性传统上佩戴红色绒球帽。"
-    },
-    "captions": {
-      "en-GB": "Black Forest, Baden-Württemberg, Germany",
-      "en-CA": "Black Forest, Baden-Württemberg, Germany",
-      "de-DE": "Schwarzwald, Baden-Württemberg",
-      "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne",
-      "it-IT": "",
-      "es-ES": "Selva Negra, Baden-Württemberg, Alemania",
-      "pt-BR": "",
-      "ja-JP": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
-      "zh-CN": "",
-      "en-IN": "Black Forest, Baden-Württemberg, Germany"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0400%22",
-      "de-DE": "https://www.bing.com/search?q=Schwarzwald+Deutschland&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=For%c3%aat-Noire+Allemagne&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Foresta+Nera+Germania&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Selva+Negra+Alemania&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Floresta+Negra+na+Alemanha&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b7%e3%83%a5%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%84%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%88+%e3%83%89%e3%82%a4%e3%83%84&form=hpcapt&filters=HpDate%3a%2220261031_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%be%b7%e5%9b%bd%e9%bb%91%e6%a3%ae%e6%9e%97&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261031_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438",
-      "en-CA": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535",
-      "de-DE": "/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453",
-      "fr-FR": "/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698",
-      "it-IT": "/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599",
-      "es-ES": "/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557",
-      "pt-BR": "/th?id=OHR.SchwarzwaldAutumn_PT-BR1065721767",
-      "ja-JP": "/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951",
-      "zh-CN": "/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599",
-      "en-IN": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203"
     }
   },
   "Atlantica": {
@@ -2143,6 +2092,67 @@
       "en-IN": "/th?id=OHR.Atlantica_EN-IN3149189379"
     }
   },
+  "SchwarzwaldAutumn": {
+    "name": "SchwarzwaldAutumn",
+    "urlbase": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535",
+    "date": "20261101",
+    "dateFormatted": "November 01, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
+      "en-GB": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
+      "de-DE": "Wälder im Nebel. Schwarzwald, Baden-Württemberg",
+      "fr-FR": "Manteau de brume sur la forêt. Forêt-Noire, Bade-Wurtemberg, Allemagne",
+      "it-IT": "Alberi che svettano tra la foschia",
+      "es-ES": "Niebla entre los árboles. Selva Negra, Baden-Württemberg, Alemania",
+      "pt-BR": "A floresta em segredo",
+      "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
+      "zh-CN": "林间迷雾",
+      "en-IN": "Mist among the trees. Black Forest, Baden-Württemberg, Germany"
+    },
+    "copyrights": {
+      "en-CA": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+      "en-GB": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+      "de-DE": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
+      "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)",
+      "it-IT": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
+      "es-ES": "La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)",
+      "pt-BR": "Floresta Negra, Baden-Württemberg, Alemanha (© Britus/Getty Images)",
+      "ja-JP": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)",
+      "zh-CN": "黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)",
+      "en-IN": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "The Black Forest in south-west Germany is known for its misty landscapes, forested hills, deep valleys, lakes and picturesque towns. Stretching about 160 kilometres, the region is home to Feldberg, its highest peak at 1,493 metres, and marks the source of both the Danube and Neckar rivers. Beyond its natural beauty, the Black Forest is rich in history and tradition. Forestry has shaped the region for centuries, while its renowned clockmaking heritage helped make the cuckoo clock famous around the world. Today, the area remains one of Germany's most distinctive destinations, blending cultural heritage with striking scenery.",
+      "en-GB": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+      "de-DE": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
+      "fr-FR": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
+      "es-ES": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
+      "ja-JP": "ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
+      "en-IN": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+      "it-IT": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
+      "pt-BR": "Hoje, estamos apreciando as paisagens cobertas de névoa da Floresta Negra, que se estende por cerca de 160 quilômetros pelo sudoeste da Alemanha, reunindo colinas arborizadas, vales profundos, lagos e cidades encantadoras. Seu ponto mais alto, o Feldberg, chega a 1.493 metros de altitude. A Floresta Negra também abriga as nascentes dos rios Danúbio e Neckar. História e tradição não faltam por aqui. A atividade florestal tem um papel importante na região há muito tempo, e a tradição secular de fabricar relógios ajudou a tornar o característico relógio de cuco famoso muito além da Alemanha.",
+      "zh-CN": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。"
+    },
+    "quickFacts": {
+      "zh-CN": "黑森林传统民俗头饰“绒球帽”上有14个羊毛绒球；未婚女性传统上佩戴红色绒球帽。"
+    },
+    "captions": {
+      "en-CA": "Black Forest, Baden-Württemberg, Germany"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535"
+    }
+  },
   "MauerBerlin": {
     "name": "MauerBerlin",
     "urlbase": "/th?id=OHR.MauerBerlin_DE-DE4395338070",
@@ -2237,6 +2247,78 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
+    }
+  },
+  "FrankfurtHalloween": {
+    "name": "FrankfurtHalloween",
+    "urlbase": "/th?id=OHR.FrankfurtHalloween_EN-US0115213682",
+    "date": "20261031",
+    "dateFormatted": "October 31, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "Ghosts of empires past. It's Halloween!",
+      "en-CA": "Ghosts of empires past. It's Halloween!",
+      "en-GB": "Ghosts of empires past. It's Halloween!",
+      "de-DE": "Der Geist vergangener Kaiserreiche. Heute ist Halloween!",
+      "fr-FR": "Visiteurs d'un autre monde. C’est Halloween !",
+      "it-IT": "Fantasmi di imperi passati",
+      "es-ES": "Los fantasmas de imperios pasados. ¡Es Halloween!",
+      "pt-BR": "Ecos de um império",
+      "ja-JP": "帝国の面影. 今日はハロウィン！",
+      "zh-CN": "往昔帝国的幽影",
+      "en-IN": "Ghosts of empires past. It's Halloween!"
+    },
+    "copyrights": {
+      "en-US": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "en-CA": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "en-GB": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "de-DE": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
+      "fr-FR": "Cathédrale Saint-Barthélemy à Francfort, Allemagne (© AlxeyPnferov/Getty Images)",
+      "it-IT": "Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)",
+      "es-ES": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
+      "pt-BR": "Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)",
+      "ja-JP": "聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images)",
+      "zh-CN": "圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)",
+      "en-IN": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St. Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the holiday's own history is even stranger.",
+      "en-CA": "Frankfurt, Germany, provides a fitting backdrop for Halloween with St. Bartholomew's Cathedral and its striking Gothic tower. Yet the holiday's origins are even more intriguing. Many Halloween traditions are linked to Samhain, an ancient Celtic festival marking the end of the harvest season and the start of winter. People believed the boundary between the living and the dead grew thin, prompting bonfires, offerings and disguises to ward off wandering spirits. Later, the Christian observances of All Saints' Day and All Souls' Day helped shape Halloween as we know it today. St. Bartholomew's may set the scene, but Halloween brings the ghosts, legends and mystery.",
+      "en-GB": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
+      "de-DE": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
+      "fr-FR": "Oubliez les fumigènes. Francfort, en Allemagne, dispose d’un atout bien plus étonnant : une cathédrale gothique. La silhouette médiévale de la cathédrale Saint-Barthélemy semble avoir été spécialement conçue pour célébrer Halloween. L’histoire de cette fête est remplie de mystères et de fantômes. Le lieu est donc idéal !",
+      "es-ES": "Olvídate de la máquina de humo. Fráncfort, Alemania, tiene algo mucho más efectivo: una catedral gótica con una torre que parece lista para una sesión espiritista a medianoche. La catedral de San Bartolomé, que vemos en la imagen, tiene la silueta medieval que Halloween habría elegido como escenario perfecto. Pero la historia de esta celebración es aún más extraña.",
+      "ja-JP": "ドイツ・フランクフルトのフランクフルト大聖堂は、ゴシック様式の塔と中世を思わせるシルエットが印象的で、この時期らしい神秘的な雰囲気を醸し出しています。ハロウィンの風習には、収穫期の終わりと冬の始まりを告げる古代ケルトの祭り「サウィン」に由来するものがあるといわれています。当時は、この時期になると生者と死者の世界の境界が曖昧になり、超自然的な存在が現れると信じられていました。その後、11月1日が「諸聖人の日（万聖節）」と定められると、その前夜は「万聖節前夜」と呼ばれ、やがて「ハロウィン」という呼び名へと変わっていきました。",
+      "en-IN": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
+      "it-IT": "A Francoforte, in Germania, il Duomo Imperiale di San Bartolomeo, con la sua imponente architettura gotica, offre lo scenario perfetto per Halloween, una festa dalle origini avvolte nel mistero. Alcune delle sue tradizioni vengono associate a Samhain, un’antica festività celtica che segnava la fine del raccolto e l’inizio dell’inverno, quando si credeva che il confine tra il mondo dei vivi e quello dei morti si assottigliasse. In seguito, la vigilia di Ognissanti divenne “All Hallows’ Eve”, da cui deriva Halloween. Tra fantasmi, falò, travestimenti e suggestioni soprannaturali, non manca proprio nulla per una notte da brividi.",
+      "pt-BR": "Esqueça a máquina de fumaça. Frankfurt, na Alemanha, tem algo muito mais eficaz: uma catedral gótica com uma torre que parece pronta para uma sessão espírita à meia-noite. A Catedral de São Bartolomeu, vista aqui, tem uma silhueta medieval que parece ter sido feita sob medida para o Halloween. Mas a própria história da data é ainda mais estranha.",
+      "zh-CN": "忘了烟雾机吧。德国法兰克福有更能烘托气氛的景物：一座哥特式大教堂，塔楼仿佛随时能上演一场午夜招魂会。画面中的圣巴尔多禄茂教堂有着中世纪风格的轮廓，简直像是万圣节特意挑选的布景。不过，这个节日本身的历史更加离奇。"
+    },
+    "quickFacts": {
+      "zh-CN": "1562年至1792年，神圣罗马帝国的当选皇帝曾在法兰克福的圣巴尔多禄茂教堂举行加冕仪式。"
+    },
+    "captions": {
+      "en-US": "It's Halloween!",
+      "en-CA": "It's Halloween!"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0700%22",
+      "en-CA": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0400%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FrankfurtHalloween_EN-US0115213682",
+      "en-CA": "/th?id=OHR.FrankfurtHalloween_EN-CA9657628051"
     }
   },
   "AutumnCranes": {
