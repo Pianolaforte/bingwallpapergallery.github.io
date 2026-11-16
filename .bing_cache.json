@@ -1,4 +1,158 @@
 {
+  "FirstFrost": {
+    "name": "FirstFrost",
+    "urlbase": "/th?id=OHR.FirstFrost_EN-US8881008245",
+    "date": "20261115",
+    "dateFormatted": "November 15, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Frosty foliage. Frost on azalea foliage",
+      "en-GB": "Frosty foliage. Frost on azalea foliage",
+      "en-CA": "Frosty foliage. Frost on azalea foliage",
+      "de-DE": "Frostige Blätter. Reif auf Azaleenblättern",
+      "fr-FR": "Givre sur tons d'automne. Givre sur le feuillage d’azalées",
+      "it-IT": "Foglie ghiacciate",
+      "es-ES": "Follaje escarchado. Escarcha sobre hojas de azalea",
+      "pt-BR": "Vermelho abaixo de zero",
+      "ja-JP": "霜化粧の葉. ツツジの葉に降りた霜",
+      "zh-CN": "覆霜的红叶杜鹃",
+      "en-IN": "Frosty foliage. Frost on azalea foliage"
+    },
+    "copyrights": {
+      "en-US": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+      "en-GB": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+      "en-CA": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+      "de-DE": "Gefrorene Azalee mit roten Blättern (© avoferten/Shutterstock)",
+      "fr-FR": "Azalée gelée aux feuilles rouges (© avoferten/Shutterstock)",
+      "it-IT": "Azalea rossa ricoperta di brina (© avoferten/Shutterstock)",
+      "es-ES": "Escarcha sobre hojas de azalea (© avoferten/Shutterstock)",
+      "pt-BR": "Azaleia congelada com folhas vermelhas (© avoferten/Shutterstock)",
+      "ja-JP": "赤い葉に霜が降りたツツジ (© avoferten/Shutterstock)",
+      "zh-CN": "覆霜的红叶杜鹃 (© avoferten/Shutterstock)",
+      "en-IN": "Frozen azalea with red leaves (© avoferten/Shutterstock)"
+    },
+    "descs": {
+      "en-US": "As fall's first frost works its way across the South, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges, and yellows of their spring blooms, but a new colorful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colorful cycle begins anew.",
+      "en-GB": "As autumn's first frost sets in, ice crystals form on the leaves of evergreen shrubs, such as this azalea. The pinks, oranges and yellows of their spring blooms have long since faded, but a new colourful display awaits as their green leaves turn shades of red and purple. For the plants, these pigments can help protect leaves against environmental stresses as temperatures drop. For gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, fresh green growth will emerge, and the colourful cycle begins anew.",
+      "en-CA": "As fall's first frost sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant fall display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colourful cycle begins anew.",
+      "de-DE": "Während der erste Herbstfrost über das Land zieht, bilden sich Eiskristalle auf den Blättern immergrüner Sträucher wie dieser Azalee. Die Rosa-, Orange- und Gelbtöne ihrer Frühlingsblüte sind längst verschwunden und nun erwartet uns ein neues farbenfrohes Schauspiel, bei dem sich die grünen Blätter in Rot- und Violetttöne verwandeln. Diese neuen Pigmente schützen die Blätter der Pflanzen vor den sinkenden Temperaturen, während sie Gärtnern prächtige Herbstfarben liefern, eingerahmt von weißem Raureif. Im Frühling wachsen neue grüne Triebe und dann beginnt der bunte Kreislauf von Neuem.",
+      "fr-FR": "Alors que les premières gelées automnales apparaissent, des cristaux de glace se forment sur les arbustes à feuillage persistant, comme cette azalée. Les teintes roses, orangées et jaunes du printemps ont depuis longtemps disparu, mais un nouveau spectacle coloré s'annonce : le feuillage vert se pare alors de nuances rouges et pourpres.",
+      "es-ES": "A medida que las primeras heladas del otoño avanzan por el sur, se forman cristales de hielo sobre las hojas de arbustos perennes, como esta azalea. Atrás quedan los tonos rosas, naranjas y amarillos de la floración primaveral, pero comienza un nuevo espectáculo de color: las hojas verdes adquieren tonalidades rojas y moradas.",
+      "ja-JP": "霜化粧の葉. 赤い葉に霜が降りたツツジ. 初霜が降りると、常緑低木のツツジの葉に氷の結晶ができます。気温が下がると、緑の葉は赤や紫に色づきます。このときつくられる新しい色素が、葉を寒さから守っているのです。白い霜をまとった赤い葉は、秋の庭をひときわ鮮やかに彩ります。春になれば新しい葉が出て、また緑に包まれます。",
+      "en-IN": "As autumn's first frost sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves and the colourful cycle begins anew.",
+      "it-IT": "Con le prime gelate autunnali, i cristalli di ghiaccio ricoprono le foglie degli arbusti sempreverdi, come nel caso di questa azalea. I colori rosa, arancione e giallo della fioritura primaverile sono un lontano ricordo, con l’autunno che porta con sé un nuovo spettacolo, tingendo le foglie di rosso e viola. Questi pigmenti aiutano la pianta a proteggere le foglie quando scendono le temperature e, allo stesso tempo, regalano un vivace tocco di colore, sfumato dalla brina. Con l’arrivo della primavera, i nuovi germogli riporteranno il verde sull’arbusto, dando nuovamente il via al colorato ciclo delle stagioni.",
+      "pt-BR": "À medida que as primeiras geadas do outono avançam pelo sul, cristais de gelo se formam nas folhas de arbustos de folhagem perene, como esta azaleia. Já ficaram para trás os tons de rosa, laranja e amarelo de sua floração na primavera, mas um novo espetáculo de cores surge quando as folhas verdes ganham tonalidades de vermelho e roxo. Para as plantas, esses novos pigmentos protegem as folhas à medida que as temperaturas caem; para os jardineiros, criam um vibrante cenário de outono emoldurado pela geada branca. Quando a primavera chega, os novos brotos devolvem ao arbusto sua folhagem verde, e o ciclo de cores recomeça.",
+      "zh-CN": "随着秋天的第一场霜降临南方，冰晶在常绿灌木的叶片上凝结，就像这株杜鹃。春日花朵的粉色、橙色和黄色早已褪去，但新的色彩盛宴即将上演：绿色的叶片渐渐变成深浅不一的红色和紫色。对植物而言，这些新形成的色素能在气温下降时保护叶片；对园丁而言，白霜映衬下则是一幅绚丽的秋日景象。春天到来时，新芽会让灌木重披绿装，缤纷的色彩轮回也将重新开始。"
+    },
+    "quickFacts": {
+      "en-US": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
+      "en-GB": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
+      "en-CA": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
+      "de-DE": "Die Pigmente, die Azaleenblätter rot oder violett färben, werden Anthocyane genannt.",
+      "fr-FR": "Les pigments qui confèrent aux feuilles d’azalée des teintes rouges ou violettes sont appelés anthocyanes.",
+      "it-IT": "I pigmenti che donano alle foglie dell’azalea sfumature rosse o violacee sono chiamati antociani.",
+      "es-ES": "Los pigmentos que tiñen de rojo o morado las hojas de las azaleas se llaman antocianinas.",
+      "pt-BR": "Os pigmentos que dão às folhas da azaleia tons de vermelho ou roxo são chamados de antocianinas.",
+      "ja-JP": "ツツジの葉を赤や紫に染める色素は、アントシアニンと呼ばれています。",
+      "zh-CN": "使杜鹃叶片呈现红色或紫色的色素叫作花青素。",
+      "en-IN": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins."
+    },
+    "captions": {
+      "en-US": "Frost on azalea foliage",
+      "en-GB": "Frost on azalea foliage",
+      "en-CA": "Frost on azalea foliage",
+      "de-DE": "Reif auf Azaleenblättern",
+      "fr-FR": "Givre sur le feuillage d’azalées",
+      "it-IT": "",
+      "es-ES": "Escarcha sobre hojas de azalea",
+      "pt-BR": "",
+      "ja-JP": "ツツジの葉に降りた霜",
+      "zh-CN": "",
+      "en-IN": "Frost on azalea foliage"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261115_0800%22",
+      "en-GB": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261115_0000%22",
+      "en-CA": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261115_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Azaleen&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=azal%c3%a9e&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+      "it-IT": "https://www.bing.com/search?q=azalea&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=azaleias&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%84%e3%83%84%e3%82%b8&form=hpcapt&filters=HpDate%3a%2220261114_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%9d%9c%e9%b9%83%e8%8a%b1&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261114_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FirstFrost_EN-US8881008245",
+      "en-GB": "/th?id=OHR.FirstFrost_EN-GB4338987849",
+      "en-CA": "/th?id=OHR.FirstFrost_EN-CA1501787869",
+      "de-DE": "/th?id=OHR.FirstFrost_DE-DE6574553682",
+      "fr-FR": "/th?id=OHR.FirstFrost_FR-FR6372552822",
+      "it-IT": "/th?id=OHR.FirstFrost_IT-IT9068405965",
+      "es-ES": "/th?id=OHR.FirstFrost_ES-ES3306321438",
+      "pt-BR": "/th?id=OHR.FirstFrost_PT-BR6618538565",
+      "ja-JP": "/th?id=OHR.FirstFrost_JA-JP1519167944",
+      "zh-CN": "/th?id=OHR.FirstFrost_ZH-CN2219029557",
+      "en-IN": "/th?id=OHR.FirstFrost_EN-IN2174706343"
+    }
+  },
   "BlueHK": {
     "name": "BlueHK",
     "urlbase": "/th?id=OHR.BlueHK_EN-US7870996687",
@@ -664,7 +818,7 @@
       "es-ES": "Donde el arte encuentra su ritmo. Barrio histórico de Triana, Sevilla, España",
       "pt-BR": "Onde o flamenco respira",
       "ja-JP": "芸術がリズムを刻む街. セビリアの歴史地区トリアナ、スペイン",
-      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙",
+      "zh-CN": "艺术与韵律交汇之地",
       "en-IN": "Where art finds its rhythm. Historic district of Triana, Seville, Spain"
     },
     "copyrights": {
@@ -1596,60 +1750,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "A future written in ice. Polar Bear Week",
-      "en-GB": "A future written in ice. Polar Bear Week",
       "en-CA": "A future written in ice. Polar Bear Week",
+      "en-GB": "A future written in ice. Polar Bear Week",
       "de-DE": "Eine Zukunft, geprägt vom Eis. Eisbären, Kanada",
       "fr-FR": "Un avenir écrit dans la glace. Ours polaire au Canada",
       "it-IT": "Un futuro scolpito nel ghiaccio",
@@ -1661,8 +1770,8 @@
     },
     "copyrights": {
       "en-US": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-      "en-GB": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
       "en-CA": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+      "en-GB": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
       "de-DE": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)",
       "fr-FR": "Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
       "it-IT": "Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
@@ -1674,8 +1783,8 @@
     },
     "descs": {
       "en-US": "While November might bring us a step closer to the holiday season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters, and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
-      "en-GB": "While November might bring us a step closer to the festive season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
       "en-CA": "November marks an important time for polar bears along the shores of Hudson Bay in Manitoba, where they gather and wait for sea ice to form before returning to hunt seals. This annual event is celebrated during Polar Bear Week, observed in early November. Polar bears are powerful swimmers and highly adapted to Arctic life, but shrinking sea ice is forcing many to spend more time on land, making it harder to find food. The mother and cubs seen in today's image represent generations of bears that have followed this seasonal cycle, highlighting both the beauty of the Arctic and the importance of protecting the habitat these iconic Canadian animals depend on.",
+      "en-GB": "While November might bring us a step closer to the festive season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
       "de-DE": "Auch wenn uns der November der Weihnachtszeit einen Schritt näherbringt, haben Eisbären andere Pläne. Sie versammeln sich an den Ufern der Hudson Bay in Manitoba, Kanada, und warten darauf, dass sich Meereis bildet, damit sie wieder auf Robbenjagd gehen können.",
       "fr-FR": "Si le mois de novembre nous rapproche un peu plus des fêtes de fin d’année, les ours polaires, eux, ont d’autres projets. Ils se rassemblent le long des rives de la baie d’Hudson, dans le Manitoba (Canada), en attendant que la banquise se forme pour pouvoir repartir chasser le phoque. Les ours polaires sont de puissants nageurs, des chasseurs hors pair et remarquablement adaptés à la vie dans l’un des environnements les plus hostiles de la planète. Pourtant, le recul de la banquise les oblige à passer plus de temps sur la terre ferme, ce qui rend la recherche de nourriture plus difficile et augmente le risque de rencontres avec les humains.",
       "es-ES": "Aunque noviembre nos acerca un poco más a la época navideña, los osos polares tienen otros planes. Se reúnen en las costas de la bahía de Hudson, en Manitoba, Canadá, a la espera de que se forme el hielo marino para volver a salir en busca de focas. Este espectáculo anual inspiró la Semana del Oso Polar, que se celebra durante la primera semana de noviembre y rinde homenaje al mayor depredador terrestre del Ártico. Los osos polares son excelentes nadadores, hábiles cazadores y están extraordinariamente adaptados a la vida en uno de los entornos más extremos del planeta. Sin embargo, la reducción del hielo marino hace que muchos pasen más tiempo en tierra firme, lo que dificulta la búsqueda de alimento y aumenta el riesgo de encuentros con personas.",
@@ -1700,81 +1809,22 @@
     },
     "captions": {
       "en-US": "Polar Bear Week",
-      "en-GB": "Polar Bear Week",
-      "en-CA": "Polar Bear Week",
-      "de-DE": "Eisbären, Kanada",
-      "fr-FR": "Ours polaire au Canada",
-      "it-IT": "",
-      "es-ES": "Semana del Oso Polar",
-      "pt-BR": "",
-      "ja-JP": "ホッキョクグマ週間",
-      "zh-CN": "",
-      "en-IN": "Polar Bear Week"
+      "en-CA": "Polar Bear Week"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0800%22",
-      "en-GB": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Eisb%c3%a4ren&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Orso+Polare&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Urso+polar&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220261101_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%8c%97%e6%9e%81%e7%86%8a%e5%91%a8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0500%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.HudsonBear_EN-US0297833232",
-      "en-GB": "/th?id=OHR.HudsonBear_EN-GB3657065728",
-      "en-CA": "/th?id=OHR.HudsonBear_EN-CA5688581864",
-      "de-DE": "/th?id=OHR.HudsonBear_DE-DE3504338986",
-      "fr-FR": "/th?id=OHR.HudsonBear_FR-FR2767726453",
-      "it-IT": "/th?id=OHR.HudsonBear_IT-IT6232079426",
-      "es-ES": "/th?id=OHR.HudsonBear_ES-ES0469501883",
-      "pt-BR": "/th?id=OHR.HudsonBear_PT-BR1375226804",
-      "ja-JP": "/th?id=OHR.HudsonBear_JA-JP9155678647",
-      "zh-CN": "/th?id=OHR.HudsonBear_ZH-CN6630706907",
-      "en-IN": "/th?id=OHR.HudsonBear_EN-IN9299365522"
+      "en-CA": "/th?id=OHR.HudsonBear_EN-CA5688581864"
     }
   },
-  "NativeBaskets": {
-    "name": "NativeBaskets",
-    "urlbase": "/th?id=OHR.NativeBaskets_EN-US0205712064",
-    "date": "20261101",
-    "dateFormatted": "November 01, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "Crafting continuity. Native American Heritage Month"
-    },
-    "copyrights": {
-      "en-US": "Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)"
-    },
-    "descs": {
-      "en-US": "A basket can carry far more than its contents. The Native American basketry seen here in Santa Fe, New Mexico, points to a much bigger story: a rich variety of techniques and designs developed by communities across the country. Their materials, patterns, and styles reflect their places of origin, turning everyday objects into records of local knowledge and identity."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-US": "Native American Heritage Month"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Native+American+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220261101_0700%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.NativeBaskets_EN-US0205712064"
-    }
-  },
-  "FirstFrost": {
-    "name": "FirstFrost",
-    "urlbase": "/th?id=OHR.FirstFrost_EN-GB4338987849",
-    "date": "20261115",
-    "dateFormatted": "November 15, 2026",
+  "GilaCliff": {
+    "name": "GilaCliff",
+    "urlbase": "/th?id=OHR.GilaCliff_EN-GB1863069273",
+    "date": "20261116",
+    "dateFormatted": "November 16, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1823,89 +1873,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Frosty foliage. Frost on azalea foliage",
-      "de-DE": "Frostige Blätter. Reif auf Azaleenblättern",
-      "fr-FR": "Givre sur tons d'automne. Givre sur le feuillage d’azalées",
-      "it-IT": "Foglie ghiacciate",
-      "es-ES": "Follaje escarchado. Escarcha sobre hojas de azalea",
-      "pt-BR": "Vermelho abaixo de zero",
-      "ja-JP": "霜化粧の葉. ツツジの葉に降りた霜",
-      "zh-CN": "覆霜的红叶杜鹃",
-      "en-IN": "Frosty foliage. Frost on azalea foliage",
-      "en-US": "Frosty foliage. Frozen azalea with red leaves",
-      "en-CA": "Frosty foliage. Frozen azalea with red leaves"
+      "en-GB": "Built to last. Gila Cliff Dwellings National Monument, New Mexico",
+      "de-DE": "Für die Ewigkeit gebaut. Gila Cliff Dwellings National Monument",
+      "fr-FR": "Construites pour durer. Monument national de Gila, Nouveau-Mexique, États-Unis",
+      "it-IT": "Case scolpite per durare",
+      "es-ES": "Construidas para perdurar. Monumento de las Viviendas en los Acantilados de Gila",
+      "pt-BR": "O passado segue de pé",
+      "ja-JP": "時を超える崖の住まい. 断崖の洞窟に残る先住民の住居跡",
+      "zh-CN": "美国新墨西哥州吉拉悬崖民居国家纪念地",
+      "en-IN": "Built to last. Gila Cliff Dwellings National Monument, New Mexico, USA",
+      "en-US": "Built to last. Gila Cliff Dwellings National Monument, New Mexico",
+      "en-CA": "Built to last. Gila Cliff Dwellings National Monument, New Mexico, USA"
     },
     "copyrights": {
-      "en-GB": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
-      "de-DE": "Gefrorene Azalee mit roten Blättern (© avoferten/Shutterstock)",
-      "fr-FR": "Azalée gelée aux feuilles rouges (© avoferten/Shutterstock)",
-      "it-IT": "Azalea rossa ricoperta di brina (© avoferten/Shutterstock)",
-      "es-ES": "Escarcha sobre hojas de azalea (© avoferten/Shutterstock)",
-      "pt-BR": "Azaleia congelada com folhas vermelhas (© avoferten/Shutterstock)",
-      "ja-JP": "赤い葉に霜が降りたツツジ (© avoferten/Shutterstock)",
-      "zh-CN": "覆霜的红叶杜鹃 (© avoferten/Shutterstock)",
-      "en-IN": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
-      "en-US": "© avoferten/Shutterstock",
-      "en-CA": "© avoferten/Shutterstock"
+      "en-GB": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
+      "de-DE": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
+      "fr-FR": "Habitations troglodytes de Gila, Nouveau-Mexique, États-Unis (© Chiara Salvadori/Getty Images)",
+      "it-IT": "Gila Cliff Dwellings National Monument, Nuovo Messico, USA (© Chiara Salvadori/Getty Images)",
+      "es-ES": "Monumento de las Viviendas en los Acantilados de Gila (© Chiara Salvadori/Getty Images)",
+      "pt-BR": "Monumento Nacional Gila Cliff Dwellings, Novo México, EUA (© Chiara Salvadori/Getty Images)",
+      "ja-JP": "ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ (© Chiara Salvadori/Getty Images)",
+      "zh-CN": "美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)",
+      "en-IN": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
+      "en-US": "© Chiara Salvadori/Getty Images",
+      "en-CA": "© Chiara Salvadori/Getty Images"
     },
     "descs": {
-      "en-GB": "As autumn's first frost sets in, ice crystals form on the leaves of evergreen shrubs, such as this azalea. The pinks, oranges and yellows of their spring blooms have long since faded, but a new colourful display awaits as their green leaves turn shades of red and purple. For the plants, these pigments can help protect leaves against environmental stresses as temperatures drop. For gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, fresh green growth will emerge, and the colourful cycle begins anew.",
-      "de-DE": "Während der erste Herbstfrost über das Land zieht, bilden sich Eiskristalle auf den Blättern immergrüner Sträucher wie dieser Azalee. Die Rosa-, Orange- und Gelbtöne ihrer Frühlingsblüte sind längst verschwunden und nun erwartet uns ein neues farbenfrohes Schauspiel, bei dem sich die grünen Blätter in Rot- und Violetttöne verwandeln. Diese neuen Pigmente schützen die Blätter der Pflanzen vor den sinkenden Temperaturen, während sie Gärtnern prächtige Herbstfarben liefern, eingerahmt von weißem Raureif. Im Frühling wachsen neue grüne Triebe und dann beginnt der bunte Kreislauf von Neuem.",
-      "fr-FR": "Alors que les premières gelées automnales apparaissent, des cristaux de glace se forment sur les arbustes à feuillage persistant, comme cette azalée. Les teintes roses, orangées et jaunes du printemps ont depuis longtemps disparu, mais un nouveau spectacle coloré s'annonce : le feuillage vert se pare alors de nuances rouges et pourpres.",
-      "es-ES": "A medida que las primeras heladas del otoño avanzan por el sur, se forman cristales de hielo sobre las hojas de arbustos perennes, como esta azalea. Atrás quedan los tonos rosas, naranjas y amarillos de la floración primaveral, pero comienza un nuevo espectáculo de color: las hojas verdes adquieren tonalidades rojas y moradas.",
-      "ja-JP": "霜化粧の葉. 赤い葉に霜が降りたツツジ. 初霜が降りると、常緑低木のツツジの葉に氷の結晶ができます。気温が下がると、緑の葉は赤や紫に色づきます。このときつくられる新しい色素が、葉を寒さから守っているのです。白い霜をまとった赤い葉は、秋の庭をひときわ鮮やかに彩ります。春になれば新しい葉が出て、また緑に包まれます。",
-      "en-IN": "As autumn's first frost sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves and the colourful cycle begins anew.",
-      "en-US": "As fall's first frost works its way across the South, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges, and yellows of their spring blooms, but a new colorful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colorful cycle begins anew.",
-      "en-CA": "As fall's first frost sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant fall display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colourful cycle begins anew.",
-      "it-IT": "Con le prime gelate autunnali, i cristalli di ghiaccio ricoprono le foglie degli arbusti sempreverdi, come nel caso di questa azalea. I colori rosa, arancione e giallo della fioritura primaverile sono un lontano ricordo, con l’autunno che porta con sé un nuovo spettacolo, tingendo le foglie di rosso e viola. Questi pigmenti aiutano la pianta a proteggere le foglie quando scendono le temperature e, allo stesso tempo, regalano un vivace tocco di colore, sfumato dalla brina. Con l’arrivo della primavera, i nuovi germogli riporteranno il verde sull’arbusto, dando nuovamente il via al colorato ciclo delle stagioni.",
-      "pt-BR": "À medida que as primeiras geadas do outono avançam pelo sul, cristais de gelo se formam nas folhas de arbustos de folhagem perene, como esta azaleia. Já ficaram para trás os tons de rosa, laranja e amarelo de sua floração na primavera, mas um novo espetáculo de cores surge quando as folhas verdes ganham tonalidades de vermelho e roxo. Para as plantas, esses novos pigmentos protegem as folhas à medida que as temperaturas caem; para os jardineiros, criam um vibrante cenário de outono emoldurado pela geada branca. Quando a primavera chega, os novos brotos devolvem ao arbusto sua folhagem verde, e o ciclo de cores recomeça.",
-      "zh-CN": "随着秋天的第一场霜降临南方，冰晶在常绿灌木的叶片上凝结，就像这株杜鹃。春日花朵的粉色、橙色和黄色早已褪去，但新的色彩盛宴即将上演：绿色的叶片渐渐变成深浅不一的红色和紫色。对植物而言，这些新形成的色素能在气温下降时保护叶片；对园丁而言，白霜映衬下则是一幅绚丽的秋日景象。春天到来时，新芽会让灌木重披绿装，缤纷的色彩轮回也将重新开始。"
+      "en-GB": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
+      "de-DE": "Atemberaubende Ausblicke und felsenfeste Fundamente sind Teil des Charmes dieser alten Behausungen, die in eine Felswand in New Mexico eingemeißelt sind. Nomaden nutzten die natürlichen Höhlen oberhalb des Cliff Dweller Creek schon lange als zeitweilige Unterkunft, doch erst das indigene Volk der Mogollon machte sie zu ihrem Zuhause. Archäologen glauben, dass sie in den 1270er und 1280er Jahren Dutzende von Räumen in fünf Felsnischen angelegt haben. Bis zu 15 Familien lebten hier gleichzeitig, zogen ihre Kinder groß, stellten Töpferwaren her und blickten auf das fruchtbare Tal des Gila River hinab, wo sie Getreide anbauten und Wild jagten. Aus unbekannten Gründen zogen die Mogollon um das Jahr 1300 weiter und hinterließen eine der bedeutendsten archäologischen Stätten im Südwesten der USA. Am 16. November 1907 erklärte Präsident Theodore Roosevelt das Gebiet zum „Gila Cliff Dwellings National Monument“ und sicherte damit den Erhalt für künftige Generationen.",
+      "fr-FR": "Cette vue incroyable sur Cliff Dweller Creek ajoute au charme de ces anciennes habitations troglodytes, creusées à flanc de falaise au Nouveau-Mexique. Les nomades ont longtemps utilisé ces grottes naturelles comme abris temporaires, mais ce sont les Amérindiens Mogollon qui en ont fait leur demeure. Les archéologues estiment qu’ils ont aménagé cet habitat dans les années 1270 et 1280. Jusqu’à 15 familles vivaient ici, élevant leurs enfants, fabriquant de la poterie et contemplant la fertile vallée de la Gila.",
+      "es-ES": "Unas vistas impresionantes y unos cimientos sólidos forman parte del encanto de estas antiguas viviendas excavadas en un acantilado de Nuevo México. Los nómadas utilizaban desde hacía tiempo las cuevas naturales sobre el arroyo Cliff Dweller como refugio temporal, pero fue el pueblo indígena mogollón quien las convirtió en su hogar.",
+      "ja-JP": "時を超える崖の住まい. ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ. ニューメキシコ州の断崖の洞窟には、先住民モゴヨン族が住んでいた跡が残っています。13世紀後半、洞窟に部屋をつくった人々は、土器を焼き、眼下に広がる谷で作物を育てたり狩りをしたりしていたと考えられています。ところが1300年ごろ、モゴヨン族は理由もわからないままこの地を去りました。今ではアメリカ南西部でも特に重要な遺跡の一つとして知られています。",
+      "en-IN": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
+      "en-US": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery, and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites. On November 16, 1907, President Theodore Roosevelt designated the area as Gila Cliff Dwellings National Monument, helping to ensure its preservation for future generations.",
+      "en-CA": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
+      "it-IT": "Panorami mozzafiato e fondamenta di pietra sono parte del fascino di queste antiche dimore, incastonate nelle pareti rocciose del Nuovo Messico. Le grotte naturali, usate un tempo come rifugio dalle popolazioni nomadi, divennero poi la casa dei Mogollon, Nativi Americani che, tra il 1270 e il 1290 circa, realizzarono decine di stanze in cinque cavità, dove potevano vivere fino a 15 famiglie. Intorno al 1300, i Mogollon abbandonarono il sito per ragioni sconosciute. Nel 1907, il presidente degli Stati Uniti Theodore Roosevelt istituì il Gila Cliff Dwellings National Monument, per preservare questo straordinario luogo per le generazioni future.",
+      "pt-BR": "Vistas impressionantes e estruturas firmemente assentadas na rocha fazem parte do charme dessas antigas habitações, construídas na encosta de um penhasco no Novo México. Povos nômades já usavam havia muito tempo as cavernas naturais acima de Cliff Dweller Creek como abrigo temporário, mas foram os Mogollon, povo indígena da região, que fizeram delas seu lar. Arqueólogos acreditam que, nas décadas de 1270 e 1280, eles construíram dezenas de cômodos dentro de cinco reentrâncias naturais na rocha. Até 15 famílias viviam ali ao mesmo tempo, criando os filhos, produzindo cerâmica e contemplando o fértil vale do rio Gila, onde cultivavam plantações e caçavam animais selvagens.",
+      "zh-CN": "壮丽的景色和坚实的岩石地基，是这些嵌在新墨西哥州悬崖上的古老民居的魅力所在。游牧者早已将崖居溪上方的天然洞穴用作临时栖身之所，但真正将这里当作家园的，是美洲原住民莫戈隆文化的族人。考古学家认为，他们在13世纪70至80年代，于五处岩穴中建造了数十个房间。这里一度同时住着多达15个家庭；他们在此抚养子女、制作陶器，俯瞰肥沃的吉拉河谷，并在那里种植作物、狩猎野生动物。大约在1300年，莫戈隆人出于未知原因离开，留下了美国西南部最重要的考古遗址之一。1907年11月16日，西奥多·罗斯福总统将此地指定为吉拉悬崖民居国家纪念地，帮助确保它得到保护，留存给后代。"
     },
     "quickFacts": {
-      "en-US": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
-      "en-GB": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
-      "en-CA": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
-      "de-DE": "Die Pigmente, die Azaleenblätter rot oder violett färben, werden Anthocyane genannt.",
-      "fr-FR": "Les pigments qui confèrent aux feuilles d’azalée des teintes rouges ou violettes sont appelés anthocyanes.",
-      "it-IT": "I pigmenti che donano alle foglie dell’azalea sfumature rosse o violacee sono chiamati antociani.",
-      "es-ES": "Los pigmentos que tiñen de rojo o morado las hojas de las azaleas se llaman antocianinas.",
-      "pt-BR": "Os pigmentos que dão às folhas da azaleia tons de vermelho ou roxo são chamados de antocianinas.",
-      "ja-JP": "ツツジの葉を赤や紫に染める色素は、アントシアニンと呼ばれています。",
-      "zh-CN": "使杜鹃叶片呈现红色或紫色的色素叫作花青素。",
-      "en-IN": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins."
+      "zh-CN": "吉拉悬崖民居的原始屋顶木梁至今仍保存着；木梁的年轮帮助考古学家确定这些古老建筑的年代。"
     },
     "captions": {
-      "en-GB": "Frost on azalea foliage",
-      "de-DE": "Reif auf Azaleenblättern",
-      "fr-FR": "Givre sur le feuillage d’azalées",
+      "en-GB": "Gila Cliff Dwellings National Monument, New Mexico",
+      "de-DE": "Gila Cliff Dwellings National Monument",
+      "fr-FR": "Monument national de Gila, Nouveau-Mexique, États-Unis",
       "it-IT": "",
-      "es-ES": "Escarcha sobre hojas de azalea",
+      "es-ES": "Monumento de las Viviendas en los Acantilados de Gila",
       "pt-BR": "",
-      "ja-JP": "ツツジの葉に降りた霜",
+      "ja-JP": "断崖の洞窟に残る先住民の住居跡",
       "zh-CN": "",
-      "en-IN": "Frost on azalea foliage"
+      "en-IN": "Gila Cliff Dwellings National Monument, New Mexico, USA"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261115_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Azaleen&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=azal%c3%a9e&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
-      "it-IT": "https://www.bing.com/search?q=azalea&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=azaleias&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%84%e3%83%84%e3%82%b8&form=hpcapt&filters=HpDate%3a%2220261114_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%9d%9c%e9%b9%83%e8%8a%b1&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261114_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt&filters=HpDate%3a%2220261116_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt&filters=HpDate%3a%2220261115_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Monument+national+habitations+troglodytes+Gila&form=hpcapt&filters=HpDate%3a%2220261115_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Monumento+Nacional+Casas+Acantilado+Gila&form=hpcapt&filters=HpDate%3a%2220261115_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=o+monumento+nacional+gila+cliff+dwellings&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%92%e3%83%a9%e3%83%bb%e3%82%af%e3%83%aa%e3%83%95%e3%83%bb%e3%83%89%e3%82%a6%e3%82%a7%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%b9%e5%9b%bd%e5%ae%9a%e8%a8%98%e5%bf%b5%e7%89%a9&form=hpcapt&filters=HpDate%3a%2220261115_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%90%89%e6%8b%89%e6%82%ac%e5%b4%96%e6%b0%91%e5%b1%85%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%9c%b0&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt&filters=HpDate%3a%2220261115_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.FirstFrost_EN-GB4338987849",
-      "de-DE": "/th?id=OHR.FirstFrost_DE-DE6574553682",
-      "fr-FR": "/th?id=OHR.FirstFrost_FR-FR6372552822",
-      "it-IT": "/th?id=OHR.FirstFrost_IT-IT9068405965",
-      "es-ES": "/th?id=OHR.FirstFrost_ES-ES3306321438",
-      "pt-BR": "/th?id=OHR.FirstFrost_PT-BR6618538565",
-      "ja-JP": "/th?id=OHR.FirstFrost_JA-JP1519167944",
-      "zh-CN": "/th?id=OHR.FirstFrost_ZH-CN2219029557",
-      "en-IN": "/th?id=OHR.FirstFrost_EN-IN2174706343"
+      "en-GB": "/th?id=OHR.GilaCliff_EN-GB1863069273",
+      "de-DE": "/th?id=OHR.GilaCliff_DE-DE8866174254",
+      "fr-FR": "/th?id=OHR.GilaCliff_FR-FR9544531277",
+      "it-IT": "/th?id=OHR.GilaCliff_IT-IT4703679044",
+      "es-ES": "/th?id=OHR.GilaCliff_ES-ES3316486595",
+      "pt-BR": "/th?id=OHR.GilaCliff_PT-BR7125417411",
+      "ja-JP": "/th?id=OHR.GilaCliff_JA-JP2766300250",
+      "zh-CN": "/th?id=OHR.GilaCliff_ZH-CN2393001519",
+      "en-IN": "/th?id=OHR.GilaCliff_EN-IN2285530087"
     }
   },
   "PoppiesField": {
@@ -2092,67 +2132,6 @@
       "en-IN": "/th?id=OHR.Atlantica_EN-IN3149189379"
     }
   },
-  "SchwarzwaldAutumn": {
-    "name": "SchwarzwaldAutumn",
-    "urlbase": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535",
-    "date": "20261101",
-    "dateFormatted": "November 01, 2026",
-    "markets": [
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-CA": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
-      "en-GB": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
-      "de-DE": "Wälder im Nebel. Schwarzwald, Baden-Württemberg",
-      "fr-FR": "Manteau de brume sur la forêt. Forêt-Noire, Bade-Wurtemberg, Allemagne",
-      "it-IT": "Alberi che svettano tra la foschia",
-      "es-ES": "Niebla entre los árboles. Selva Negra, Baden-Württemberg, Alemania",
-      "pt-BR": "A floresta em segredo",
-      "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
-      "zh-CN": "林间迷雾",
-      "en-IN": "Mist among the trees. Black Forest, Baden-Württemberg, Germany"
-    },
-    "copyrights": {
-      "en-CA": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
-      "en-GB": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
-      "de-DE": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
-      "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)",
-      "it-IT": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
-      "es-ES": "La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)",
-      "pt-BR": "Floresta Negra, Baden-Württemberg, Alemanha (© Britus/Getty Images)",
-      "ja-JP": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)",
-      "zh-CN": "黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)",
-      "en-IN": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)"
-    },
-    "descs": {
-      "en-CA": "The Black Forest in south-west Germany is known for its misty landscapes, forested hills, deep valleys, lakes and picturesque towns. Stretching about 160 kilometres, the region is home to Feldberg, its highest peak at 1,493 metres, and marks the source of both the Danube and Neckar rivers. Beyond its natural beauty, the Black Forest is rich in history and tradition. Forestry has shaped the region for centuries, while its renowned clockmaking heritage helped make the cuckoo clock famous around the world. Today, the area remains one of Germany's most distinctive destinations, blending cultural heritage with striking scenery.",
-      "en-GB": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
-      "de-DE": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
-      "fr-FR": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
-      "es-ES": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
-      "ja-JP": "ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
-      "en-IN": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
-      "it-IT": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
-      "pt-BR": "Hoje, estamos apreciando as paisagens cobertas de névoa da Floresta Negra, que se estende por cerca de 160 quilômetros pelo sudoeste da Alemanha, reunindo colinas arborizadas, vales profundos, lagos e cidades encantadoras. Seu ponto mais alto, o Feldberg, chega a 1.493 metros de altitude. A Floresta Negra também abriga as nascentes dos rios Danúbio e Neckar. História e tradição não faltam por aqui. A atividade florestal tem um papel importante na região há muito tempo, e a tradição secular de fabricar relógios ajudou a tornar o característico relógio de cuco famoso muito além da Alemanha.",
-      "zh-CN": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。"
-    },
-    "quickFacts": {
-      "zh-CN": "黑森林传统民俗头饰“绒球帽”上有14个羊毛绒球；未婚女性传统上佩戴红色绒球帽。"
-    },
-    "captions": {
-      "en-CA": "Black Forest, Baden-Württemberg, Germany"
-    },
-    "copyrightlinks": {
-      "en-CA": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0400%22"
-    },
-    "urlbases": {
-      "en-CA": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535"
-    }
-  },
   "MauerBerlin": {
     "name": "MauerBerlin",
     "urlbase": "/th?id=OHR.MauerBerlin_DE-DE4395338070",
@@ -2247,6 +2226,99 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
+    }
+  },
+  "NativeBaskets": {
+    "name": "NativeBaskets",
+    "urlbase": "/th?id=OHR.NativeBaskets_EN-US0205712064",
+    "date": "20261101",
+    "dateFormatted": "November 01, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Crafting continuity. Native American Heritage Month"
+    },
+    "copyrights": {
+      "en-US": "Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)"
+    },
+    "descs": {
+      "en-US": "A basket can carry far more than its contents. The Native American basketry seen here in Santa Fe, New Mexico, points to a much bigger story: a rich variety of techniques and designs developed by communities across the country. Their materials, patterns, and styles reflect their places of origin, turning everyday objects into records of local knowledge and identity."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-US": "Native American Heritage Month"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Native+American+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220261101_0700%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.NativeBaskets_EN-US0205712064"
+    }
+  },
+  "SchwarzwaldAutumn": {
+    "name": "SchwarzwaldAutumn",
+    "urlbase": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535",
+    "date": "20261101",
+    "dateFormatted": "November 01, 2026",
+    "markets": [
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-CA": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
+      "en-GB": "Mist among the trees. Black Forest, Baden-Württemberg, Germany",
+      "de-DE": "Wälder im Nebel. Schwarzwald, Baden-Württemberg",
+      "fr-FR": "Manteau de brume sur la forêt. Forêt-Noire, Bade-Wurtemberg, Allemagne",
+      "it-IT": "Alberi che svettano tra la foschia",
+      "es-ES": "Niebla entre los árboles. Selva Negra, Baden-Württemberg, Alemania",
+      "pt-BR": "A floresta em segredo",
+      "ja-JP": "木々を包む霧. シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
+      "zh-CN": "林间迷雾",
+      "en-IN": "Mist among the trees. Black Forest, Baden-Württemberg, Germany"
+    },
+    "copyrights": {
+      "en-CA": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+      "en-GB": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+      "de-DE": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
+      "fr-FR": "Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)",
+      "it-IT": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
+      "es-ES": "La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)",
+      "pt-BR": "Floresta Negra, Baden-Württemberg, Alemanha (© Britus/Getty Images)",
+      "ja-JP": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)",
+      "zh-CN": "黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)",
+      "en-IN": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)"
+    },
+    "descs": {
+      "en-CA": "The Black Forest in south-west Germany is known for its misty landscapes, forested hills, deep valleys, lakes and picturesque towns. Stretching about 160 kilometres, the region is home to Feldberg, its highest peak at 1,493 metres, and marks the source of both the Danube and Neckar rivers. Beyond its natural beauty, the Black Forest is rich in history and tradition. Forestry has shaped the region for centuries, while its renowned clockmaking heritage helped make the cuckoo clock famous around the world. Today, the area remains one of Germany's most distinctive destinations, blending cultural heritage with striking scenery.",
+      "en-GB": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+      "de-DE": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
+      "fr-FR": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
+      "es-ES": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
+      "ja-JP": "ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
+      "en-IN": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+      "it-IT": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
+      "pt-BR": "Hoje, estamos apreciando as paisagens cobertas de névoa da Floresta Negra, que se estende por cerca de 160 quilômetros pelo sudoeste da Alemanha, reunindo colinas arborizadas, vales profundos, lagos e cidades encantadoras. Seu ponto mais alto, o Feldberg, chega a 1.493 metros de altitude. A Floresta Negra também abriga as nascentes dos rios Danúbio e Neckar. História e tradição não faltam por aqui. A atividade florestal tem um papel importante na região há muito tempo, e a tradição secular de fabricar relógios ajudou a tornar o característico relógio de cuco famoso muito além da Alemanha.",
+      "zh-CN": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。"
+    },
+    "quickFacts": {
+      "zh-CN": "黑森林传统民俗头饰“绒球帽”上有14个羊毛绒球；未婚女性传统上佩戴红色绒球帽。"
+    },
+    "captions": {
+      "en-CA": "Black Forest, Baden-Württemberg, Germany"
+    },
+    "copyrightlinks": {
+      "en-CA": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0400%22"
+    },
+    "urlbases": {
+      "en-CA": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535"
     }
   },
   "FrankfurtHalloween": {
