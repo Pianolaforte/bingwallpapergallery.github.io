@@ -1,4 +1,158 @@
 {
+  "BarnOwlsUnite": {
+    "name": "BarnOwlsUnite",
+    "urlbase": "/th?id=OHR.BarnOwlsUnite_EN-US9661992435",
+    "date": "20261118",
+    "dateFormatted": "November 18, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Hunting from dusk till dawn. A pair of barn owls at dusk",
+      "en-GB": "Hunting from dusk till dawn. A pair of barn owls at dusk",
+      "en-CA": "Hunting from dusk till dawn. A pair of barn owls at dusk",
+      "de-DE": "Jäger der Nacht. Ein Schleiereulenpaar in der Abenddämmerung",
+      "fr-FR": "Chasser du crépuscule à l’aube. Couple de chouettes effraies au crépuscule",
+      "it-IT": "A caccia dal tramonto all’alba",
+      "es-ES": "De caza desde el anochecer. Una pareja de lechuzas al anochecer",
+      "pt-BR": "Dupla do turno da noite",
+      "ja-JP": "夕暮れから始まる狩り. 夕暮れ時のメンフクロウのつがい",
+      "zh-CN": "一对仓鸮",
+      "en-IN": "Hunting from dusk till dawn. A pair of barn owls at dusk"
+    },
+    "copyrights": {
+      "en-US": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+      "en-GB": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+      "en-CA": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+      "de-DE": "Ein Schleiereulenpaar (© Zahoor Salmi/Getty Images)",
+      "fr-FR": "Couple de chouettes effraies  (© Zahoor Salmi/Getty Images)",
+      "it-IT": "Una coppia di barbagianni (© Zahoor Salmi/Getty Images)",
+      "es-ES": "Una pareja de lechuzas al anochecer (© Zahoor Salmi/Getty Images)",
+      "pt-BR": "Corujas-das-torres  (© Zahoor Salmi/Getty Images)",
+      "ja-JP": "メンフクロウのつがい (© Zahoor Salmi/Getty Images)",
+      "zh-CN": "一对仓鸮 (© Zahoor Salmi/Getty Images)",
+      "en-IN": "Pair of barn owls (© Zahoor Salmi/Getty Images)"
+    },
+    "descs": {
+      "en-US": "These barn owls, bathed in evening light, are waiting for the hunt to begin. As night falls, these birds of prey swoop into action, listening for tiny movements in grass or leaves made by mice and voles. Their heart-shaped faces help funnel sound into some of the sharpest ears in the animal kingdom. This allows them to locate their prey with pinpoint precision in the dark before swooping silently, their soft feathers muffling their approach. In autumn, young barn owls strike out to find their own territories. As the nights grow longer, you might spot them earlier in the evening, gliding over fields in search of supper.",
+      "en-GB": "These barn owls, bathed in the evening light, are waiting for the hunt to begin. As night falls, the birds of prey swoop into action, listening for the faint movements of mice and voles in the grass and leaves. Their heart-shaped faces help funnel sound towards their exceptionally sensitive ears, allowing them to locate prey with remarkable precision in the dark. They then swoop down almost silently, their soft feathers helping to muffle the sound of their approach.",
+      "en-CA": "These barn owls, bathed in evening light, are waiting for the hunt to begin. As night falls, these birds of prey swoop into action, listening for tiny movements in grass or leaves made by mice and voles. Their heart-shaped faces help funnel sound into some of the sharpest ears in the animal kingdom. This allows them to locate their prey with pinpoint precision in the dark before swooping silently, their soft feathers muffling their approach. In fall, young barn owls strike out to find their own territories. As the nights grow longer, you might spot them earlier in the evening, gliding over fields in search of dinner.",
+      "de-DE": "Diese in Abendlicht getauchten Schleiereulen warten darauf, dass die Jagd beginnt. Bei Einbruch der Dunkelheit werden diese Raubvögel aktiv und lauschen auf Geräusche kleiner Nager und Wühlmäuse im Gras oder Laub. Ihre herzförmigen Gesichter leiten den Schall zu ihren Ohren, die zu den schärfsten im Tierreich zählen. So können sie ihre Beute im Dunkeln punktgenau orten, bevor sie sich lautlos herabstürzen, gedämpft durch ihr weiches Gefieder. Im Herbst machen sich junge Schleiereulen auf den Weg, um ihr eigenes Revier zu finden. Wenn die Nächte länger werden, kann man sie schon früh am Abend dabei beobachten, wie sie auf der Suche nach ihrem Abendessen lautlos über die Felder gleiten.",
+      "fr-FR": "Ces chouettes effraies, baignées dans la lumière du soir, attendent que la chasse commence. À la tombée de la nuit, ces rapaces passent à l’action, à l’affût du moindre mouvement dans l’herbe ou dans les feuilles, provoqué par des souris ou des campagnols. Leur visage en forme de cœur canalise les sons vers leurs oreilles qui sont parmi les plus fines du règne animal. Cela leur permet de localiser leurs proies avec une précision extrême dans l’obscurité avant de fondre sur elles en silence, leurs plumes douces étouffant leur approche.",
+      "es-ES": "Estas lechuzas, bañadas por la luz del atardecer, esperan a que comience la caza. Al caer la noche, entran en acción y escuchan los pequeños movimientos que ratones y topillos producen entre la hierba y las hojas. Su rostro en forma de corazón canaliza el sonido hacia uno de los sistemas auditivos más agudos del reino animal.",
+      "ja-JP": "夕暮れの光に包まれたメンフクロウが、狩りの始まりをじっと待っています。夜になると、草や落ち葉の中でネズミが動くわずかな音も聞き逃しません。ハート形の顔が音を集めるアンテナの役目を果たし、真っ暗闇でも獲物の位置をぴたりと突き止められるのです。しかも羽音を立てずに飛ぶので、獲物は気づく間もありません。秋は若いメンフクロウが巣立つ季節です。夜が長くなるこの時期は、夕方の早い時間から野原の上をすべるように飛ぶ姿が見られるかもしれません。",
+      "en-IN": "These barn owls, bathed in evening light, are waiting for the hunt to begin. As night falls, these birds of prey swoop into action, listening for tiny movements in grasses or leaves made by mice and voles. Their heart-shaped faces help funnel sound into some of the sharpest ears in the animal kingdom. This allows them to locate their prey with pinpoint precision in the dark before swooping silently, their soft feathers muffling their approach. In autumn, young barn owls strike out to find their own territories. As the nights grow longer, you might spot them earlier in the evening, gliding over fields in search of supper.",
+      "it-IT": "Avvolti dalla luce della sera, questi barbagianni aspettano il momento di andare a caccia. Al calare della notte entrano in azione, captando tra erba e foglie i più piccoli movimenti di topi e arvicole. Il caratteristico muso a forma di cuore convoglia i suoni verso le orecchie, incredibilmente sensibili, permettendogli di individuare le prede al buio con grande precisione. Il morbido piumaggio rende il loro volo quasi silenzioso. In autunno, i barbagianni giovani vanno alla ricerca del proprio territorio e, con le notti più lunghe, diventa più facile avvistarli già nelle prime ore della sera.",
+      "pt-BR": "Estas corujas-das-torres, banhadas pela luz do entardecer, aguardam o início da caçada. Quando a noite cai, essas aves de rapina entram em ação, atentas aos menores movimentos na grama ou entre as folhas, provocados por camundongos e pequenos roedores. Seus rostos em forma de coração funcionam como funis, direcionando o som para ouvidos que estão entre os mais aguçados do reino animal. Isso permite que localizem suas presas com extrema precisão no escuro antes de mergulharem silenciosamente sobre elas, enquanto suas penas macias abafam o som da aproximação.",
+      "zh-CN": "沐浴在傍晚光线中的这对仓鸮，正等待狩猎开始。夜幕降临时，这些猛禽便迅速行动，倾听鼠类和田鼠类在草丛或落叶中发出的细微动静。它们心形的面庞有助于将声音汇集到耳朵，使其听觉跻身动物界最敏锐的行列。这让它们能在黑暗中精准定位猎物，然后悄无声息地俯冲而下，柔软的羽毛掩盖了它们靠近的声响。秋天，年轻的仓鸮会离开巢穴，寻找自己的领地。随着夜晚变长，你可能会在傍晚更早地看到它们掠过田野，寻找晚餐。"
+    },
+    "quickFacts": {
+      "en-US": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom.",
+      "en-GB": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom.",
+      "en-CA": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom.",
+      "de-DE": "Schleiereulen geben unheimliche, kreischende Laute von sich, was vielleicht ihren Ruf als Vorboten von Unheil erklärt.",
+      "fr-FR": "Les chouettes effraies ne hululent pas, elles émettent des cris stridents et inquiétants, ce qui pourrait expliquer leur réputation de messagères de mauvais augure.",
+      "it-IT": "A differenza degli altri rapaci notturni, i barbagianni emettono versi striduli e inquietanti, che alimentano la loro fama di presagi di sventura.",
+      "es-ES": "Las lechuzas no ululan: emiten chillidos inquietantes, quizá origen de su fama de aves de mal agüero.",
+      "pt-BR": "As corujas-das-torres não piam; elas emitem sons estridentes e inquietantes, o que talvez explique sua fama de anunciar desgraças.",
+      "ja-JP": "メンフクロウは「ホーホー」とは鳴かず、不気味な金切り声を上げます。そのせいか、不吉な鳥と見られることもあります。",
+      "zh-CN": "仓鸮不会发出‘咕咕’声；它们会发出令人毛骨悚然的尖叫声，这或许解释了为什么它们被视为厄运的预兆。",
+      "en-IN": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom."
+    },
+    "captions": {
+      "en-US": "A pair of barn owls at dusk",
+      "en-GB": "A pair of barn owls at dusk",
+      "en-CA": "A pair of barn owls at dusk",
+      "de-DE": "Ein Schleiereulenpaar in der Abenddämmerung",
+      "fr-FR": "Couple de chouettes effraies au crépuscule",
+      "it-IT": "",
+      "es-ES": "Una pareja de lechuzas al anochecer",
+      "pt-BR": "",
+      "ja-JP": "夕暮れ時のメンフクロウのつがい",
+      "zh-CN": "",
+      "en-IN": "A pair of barn owls at dusk"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Schleiereule&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=chouette+effraie&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
+      "it-IT": "https://www.bing.com/search?q=barbagianni&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lechuzas&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Coruja-das-torres&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%a1%e3%83%b3%e3%83%95%e3%82%af%e3%83%ad%e3%82%a6&form=hpcapt&filters=HpDate%3a%2220261117_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%bb%93%e9%b8%ae&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261117_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.BarnOwlsUnite_EN-US9661992435",
+      "en-GB": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926",
+      "en-CA": "/th?id=OHR.BarnOwlsUnite_EN-CA4667422481",
+      "de-DE": "/th?id=OHR.BarnOwlsUnite_DE-DE3292837255",
+      "fr-FR": "/th?id=OHR.BarnOwlsUnite_FR-FR0018372456",
+      "it-IT": "/th?id=OHR.BarnOwlsUnite_IT-IT5941580476",
+      "es-ES": "/th?id=OHR.BarnOwlsUnite_ES-ES4442138471",
+      "pt-BR": "/th?id=OHR.BarnOwlsUnite_PT-BR3615870863",
+      "ja-JP": "/th?id=OHR.BarnOwlsUnite_JA-JP5990292316",
+      "zh-CN": "/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291",
+      "en-IN": "/th?id=OHR.BarnOwlsUnite_EN-IN2617869555"
+    }
+  },
   "TrailCedars": {
     "name": "TrailCedars",
     "urlbase": "/th?id=OHR.TrailCedars_EN-US2240500417",
@@ -790,7 +944,7 @@
       "es-ES": "Arquitectura sin arquitecto. North Window, Parque Nacional de los Arcos, Moab, Utah",
       "pt-BR": "Janela aberta pela natureza",
       "ja-JP": "自然が生んだ建築美. アーチーズ国立公園、モアブ、ユタ州",
-      "zh-CN": "北窗，拱门国家公园，莫阿布，犹他州，美国",
+      "zh-CN": "没有建筑师的建筑杰作",
       "en-IN": "Architecture without an architect. North Window, Arches National Park, Moab, Utah"
     },
     "copyrights": {
@@ -1615,51 +1769,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1702,111 +1811,20 @@
       "zh-CN": "英格兰湖区于2017年被列入联合国教科文组织世界遗产名录，其独特的文化景观由此获得认可。"
     },
     "captions": {
-      "en-US": "Black Crag, Lake District, England",
-      "en-CA": "Black Crag, Lake District, England",
-      "de-DE": "Black Crag, Lake District, England",
-      "fr-FR": "Black Crag, Lake District, Angleterre",
-      "it-IT": "",
-      "es-ES": "Black Crag, Distrito de los Lagos, Inglaterra",
-      "pt-BR": "",
-      "ja-JP": "ブラック・クラッグ、湖水地方、イギリス",
-      "zh-CN": "",
-      "en-IN": "Black Crag, Lake District, England"
+      "en-US": "Black Crag, Lake District, England"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261105_0800%22",
-      "en-CA": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261105_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Lake+District+Vereinigtes+K%c3%b6nigreich&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Lake+District+Inghilterra&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e6%b9%96%e6%b0%b4%e5%9c%b0%e6%96%b9&form=hpcapt&filters=HpDate%3a%2220261104_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e6%b9%96%e5%8c%ba&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261104_1830%22"
+      "en-US": "https://www.bing.com/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261105_0800%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.StileCrossing_EN-US9052435517",
-      "en-CA": "/th?id=OHR.StileCrossing_EN-CA6257654888",
-      "de-DE": "/th?id=OHR.StileCrossing_DE-DE6131632165",
-      "fr-FR": "/th?id=OHR.StileCrossing_FR-FR8951232534",
-      "it-IT": "/th?id=OHR.StileCrossing_IT-IT7249235484",
-      "es-ES": "/th?id=OHR.StileCrossing_ES-ES1149628904",
-      "pt-BR": "/th?id=OHR.StileCrossing_PT-BR3493884309",
-      "ja-JP": "/th?id=OHR.StileCrossing_JA-JP3443452365",
-      "zh-CN": "/th?id=OHR.StileCrossing_ZH-CN9811465935",
-      "en-IN": "/th?id=OHR.StileCrossing_EN-IN0635462552"
+      "en-US": "/th?id=OHR.StileCrossing_EN-US9052435517"
     }
   },
-  "AutumnChina": {
-    "name": "AutumnChina",
-    "urlbase": "/th?id=OHR.AutumnChina_EN-US0467722422",
-    "date": "20261104",
-    "dateFormatted": "November 04, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "Paddling a painted forest. Colorful bald cypress, Xuancheng, Anhui, China",
-      "en-GB": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China",
-      "en-CA": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China",
-      "de-DE": "Paddeln durch ein Gemälde. Farbenfrohe Sumpfzypressen, Xuancheng, Anhui, China",
-      "fr-FR": "Glisser à travers une peinture. Cyprès chauves, Xuancheng, Anhui, Chine",
-      "it-IT": "In kayak tra i colori d’autunno",
-      "es-ES": "Remando en un bosque colorido. Coloridos cipreses calvos, Xuancheng, Anhui, China",
-      "pt-BR": "A floresta virou galeria",
-      "ja-JP": "秋色の森を水上散歩. 色鮮やかなラクウショウ、安徽省宣城市、中国",
-      "zh-CN": "泛舟如画秋林",
-      "en-IN": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China"
-    },
-    "copyrights": {
-      "en-US": "People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
-      "en-GB": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
-      "en-CA": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
-      "de-DE": "Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
-      "fr-FR": "Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)",
-      "it-IT": "Una persona che rema tra colorati cipressi calvi, Xuancheng, Anhui, Cina (© Jackal Pan/Getty Images)",
-      "es-ES": "Personas remando entre coloridos cipreses calvos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
-      "pt-BR": "Pessoas remando entre ciprestes-calvos coloridos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
-      "ja-JP": "色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)",
-      "zh-CN": "五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)",
-      "en-IN": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)"
-    },
-    "descs": {
-      "en-US": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper, and deep rust. Known scientifically as 'Taxodium distichum,' bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop. In North America, it is famous for thriving in swamps, floodplains, and other wet habitats, often developing knobby root projections called 'knees' that rise above the surrounding soil and water.",
-      "en-GB": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
-      "en-CA": "People paddle through flooded woodlands in Xuancheng, Anhui, where fall transforms bald cypress forests into a striking display of amber, copper and rust-coloured foliage. Unlike most conifers, bald cypress sheds its soft needles each fall after they turn reddish-brown. Native to North America, these trees thrive in wetlands, swamps and floodplains, often developing distinctive root \"knees\" that rise above the water. Some specimens have lived for more than 1,000 years. In late fall, the still water reflects the colourful canopy above, creating a remarkable landscape that highlights the bald cypress's natural connection to wetland environments.",
-      "de-DE": "In Xuancheng in der Provinz Anhui paddeln Menschen durch ein leuchtendes Labyrinth aus Sumpfzypressen, wo der Herbst die überfluteten Wälder in ein Farbenspiel aus Bernstein, Kupfer und tiefem Rost verwandelt. Die wissenschaftlich als „Taxodium distichum“ bezeichnete Sumpfzypresse ist unter den Nadelbäumen ungewöhnlich, da sie jeden Herbst ihre weichen, federartigen Nadeln abwirft, die sich vor dem Abfallen rotbraun färben.",
-      "fr-FR": "Dans ce labyrinthe lumineux de cyprès chauves à Xuancheng, dans la province de l'Anhui, l’automne métamorphose les zones boisées inondées en une mosaïque aux teintes ambre, cuivre et rouille profond. Le cyprès chauve se distingue des autres conifères par sa particularité de perdre ses aiguilles souples et plumeuses chaque automne. Celles-ci virent au brun rougeâtre avant de tomber.",
-      "es-ES": "En Xuancheng, Anhui, varias personas reman por un resplandeciente laberinto de cipreses calvos, donde el otoño transforma los bosques inundados en un mosaico de tonos ámbar, cobre y rojizos. Conocido científicamente como Taxodium distichum, el ciprés calvo es una conífera poco común, ya que cada otoño pierde sus suaves hojas en forma de aguja, que adquieren un tono marrón rojizo antes de caer. En Norteamérica, es conocido por prosperar en pantanos, llanuras aluviales y otros hábitats húmedos, donde suele desarrollar unas peculiares protuberancias de las raíces, conocidas como “rodillas”, que sobresalen del suelo y del agua.",
-      "ja-JP": "中国・安徽省宣城市では、秋になると水に浸かったラクウショウの森が、琥珀色や銅色、深いさび色に染まります。ラクウショウは針葉樹でありながら、秋に柔らかな葉が赤褐色に変わって落ちる珍しい木です。北米では湿地に育ち、地面や水面から「膝根」と呼ばれる呼吸根を突き出すことでも知られ、樹齢1,000年を超える木の記録もあります。晩秋には葉が燃えるような色に変わり、ボートでゆったり進むと、水面にその色がきらめいて、まるで生きた絵画のようです。",
-      "en-IN": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
-      "it-IT": "A Xuancheng, nella provincia cinese dell’Anhui, è possibile attraversare in kayak un bosco di cipressi calvi che, in autunno, si tingono di tonalità ambrate, ramate e rossastre. Il cipresso calvo è una conifera insolita poiché i suoi morbidi aghi assumono colori intensi prima di cadere. Conosciuta scientificamente come “Taxodium distichum”, questa specie prospera negli ambienti paludosi, con esemplari che possono vivere per oltre 1.000 anni. Quando il “foliage” raggiunge il suo splendore, i colori si riflettono sulle acque tranquille e il bosco si trasforma in un vero e proprio dipinto vivente.",
-      "pt-BR": "Pessoas remam por um labirinto de ciprestes-calvos de cores vibrantes em Xuancheng, Anhui, onde o outono transforma a floresta alagada em um mosaico de tons de âmbar, cobre e ferrugem escuro. Conhecido cientificamente como Taxodium distichum, o cipreste-calvo é incomum entre as coníferas por perder suas folhas finas e macias, semelhantes a penas, a cada outono. Antes de cair, elas adquirem uma coloração marrom-avermelhada. Na América do Norte, a espécie é conhecida por prosperar em pântanos, planícies de inundação e outros ambientes úmidos, muitas vezes desenvolvendo projeções das raízes em forma de nódulos chamadas de “joelhos”, que se projetam acima do solo e da água ao redor.",
-      "zh-CN": "在安徽省宣城，人们划船穿过色彩斑斓的落羽杉林。秋天将这片被水淹没的林地变成由琥珀色、铜色和深铁锈色交织而成的锦绣景致。落羽杉的学名是“Taxodium distichum”，它在针叶树中颇为特别：每年秋季，柔软如羽毛的针叶会先变成红褐色，然后脱落。在北美洲，落羽杉因能生长在沼泽、河漫滩等湿地环境而闻名，常长出称为“膝状根”的瘤状根部突起，露出周围的泥土和水面。"
-    },
-    "quickFacts": {
-      "zh-CN": "落羽杉木材耐腐朽，历史上曾被用于制作木桶、铁路枕木和屋顶木瓦。"
-    },
-    "captions": {
-      "en-US": "Colorful bald cypress, Xuancheng, Anhui, China"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=bald+cypress&form=hpcapt&filters=HpDate%3a%2220261104_0800%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.AutumnChina_EN-US0467722422"
-    }
-  },
-  "BarnOwlsUnite": {
-    "name": "BarnOwlsUnite",
-    "urlbase": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926",
-    "date": "20261118",
-    "dateFormatted": "November 18, 2026",
+  "KnowledgeSculpture": {
+    "name": "KnowledgeSculpture",
+    "urlbase": "/th?id=OHR.KnowledgeSculpture_EN-GB1364284090",
+    "date": "20261119",
+    "dateFormatted": "November 19, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1860,92 +1878,82 @@
       }
     ],
     "titles": {
-      "en-GB": "Hunting from dusk till dawn. A pair of barn owls at dusk",
-      "en-CA": "Hunting from dusk till dawn. A pair of barn owls at dusk",
-      "de-DE": "Jäger der Nacht. Ein Schleiereulenpaar in der Abenddämmerung",
-      "fr-FR": "Chasser du crépuscule à l’aube. Couple de chouettes effraies au crépuscule",
-      "it-IT": "A caccia dal tramonto all’alba",
-      "es-ES": "De caza desde el anochecer. Una pareja de lechuzas al anochecer",
-      "pt-BR": "Dupla do turno da noite",
-      "ja-JP": "夕暮れから始まる狩り. 夕暮れ時のメンフクロウのつがい",
-      "zh-CN": "一对仓鸮",
-      "en-IN": "Hunting from dusk till dawn. A pair of barn owls at dusk",
-      "en-US": "Hunting from dusk till dawn. Pair of barn owls"
+      "en-GB": "Where ideas take shape. World Philosophy Day",
+      "en-CA": "Where ideas take shape. World Philosophy Day",
+      "de-DE": "Wo Ideen Gestalt annehmen. Welttag der Philosophie",
+      "fr-FR": "Quand les idées prennent forme. Journée mondiale de la philosophie",
+      "it-IT": "Dove le idee prendono forma",
+      "es-ES": "Donde las ideas cobran forma. Día Mundial de la Filosofía",
+      "pt-BR": "Cabeça cheia de ideias",
+      "ja-JP": "アイデアが形になる場所. 世界哲学の日",
+      "zh-CN": "雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学",
+      "en-IN": "Where ideas take shape. World Philosophy Day",
+      "en-US": "Where ideas take shape. The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany"
     },
     "copyrights": {
-      "en-GB": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
-      "en-CA": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
-      "de-DE": "Ein Schleiereulenpaar (© Zahoor Salmi/Getty Images)",
-      "fr-FR": "Couple de chouettes effraies  (© Zahoor Salmi/Getty Images)",
-      "it-IT": "Una coppia di barbagianni (© Zahoor Salmi/Getty Images)",
-      "es-ES": "Una pareja de lechuzas al anochecer (© Zahoor Salmi/Getty Images)",
-      "pt-BR": "Corujas-das-torres  (© Zahoor Salmi/Getty Images)",
-      "ja-JP": "メンフクロウのつがい (© Zahoor Salmi/Getty Images)",
-      "zh-CN": "一对仓鸮 (© Zahoor Salmi/Getty Images)",
-      "en-IN": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
-      "en-US": "© Zahoor Salmi/Getty Images"
+      "en-GB": "The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)",
+      "en-CA": "The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)",
+      "de-DE": "Die Skulptur „Body of Knowledge“ von Jaume Plensa an der Goethe-Universität in Frankfurt am Main (© Todamo/Shutterstock)",
+      "fr-FR": "\"Body of Knowledge\" sculpture de Jaume Plensa, Université Goethe de Francfort, Allemagne (© Todamo/Shutterstock)",
+      "it-IT": "\"Body of Knowledge\", scultura di Jaume Plensa, Università Goethe, Francoforte, Germania (© Todamo/Shutterstock)",
+      "es-ES": "La escultura “El cuerpo del conocimiento”, de Jaume Plensa, en la Universidad de Goethe, en Fráncfort, Alemania (© Todamo/Shutterstock)",
+      "pt-BR": "Escultura \"Body of Knowledge\", de Jaume Plensa, na Universidade Goethe em Frankfurt, Alemanha (© Todamo/Shutterstock)",
+      "ja-JP": "ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ (© Todamo/Shutterstock)",
+      "zh-CN": "雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)",
+      "en-IN": "The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)",
+      "en-US": "© Todamo/Shutterstock"
     },
     "descs": {
-      "en-GB": "These barn owls, bathed in the evening light, are waiting for the hunt to begin. As night falls, the birds of prey swoop into action, listening for the faint movements of mice and voles in the grass and leaves. Their heart-shaped faces help funnel sound towards their exceptionally sensitive ears, allowing them to locate prey with remarkable precision in the dark. They then swoop down almost silently, their soft feathers helping to muffle the sound of their approach.",
-      "en-CA": "These barn owls, bathed in evening light, are waiting for the hunt to begin. As night falls, these birds of prey swoop into action, listening for tiny movements in grass or leaves made by mice and voles. Their heart-shaped faces help funnel sound into some of the sharpest ears in the animal kingdom. This allows them to locate their prey with pinpoint precision in the dark before swooping silently, their soft feathers muffling their approach. In fall, young barn owls strike out to find their own territories. As the nights grow longer, you might spot them earlier in the evening, gliding over fields in search of dinner.",
-      "de-DE": "Diese in Abendlicht getauchten Schleiereulen warten darauf, dass die Jagd beginnt. Bei Einbruch der Dunkelheit werden diese Raubvögel aktiv und lauschen auf Geräusche kleiner Nager und Wühlmäuse im Gras oder Laub. Ihre herzförmigen Gesichter leiten den Schall zu ihren Ohren, die zu den schärfsten im Tierreich zählen. So können sie ihre Beute im Dunkeln punktgenau orten, bevor sie sich lautlos herabstürzen, gedämpft durch ihr weiches Gefieder. Im Herbst machen sich junge Schleiereulen auf den Weg, um ihr eigenes Revier zu finden. Wenn die Nächte länger werden, kann man sie schon früh am Abend dabei beobachten, wie sie auf der Suche nach ihrem Abendessen lautlos über die Felder gleiten.",
-      "fr-FR": "Ces chouettes effraies, baignées dans la lumière du soir, attendent que la chasse commence. À la tombée de la nuit, ces rapaces passent à l’action, à l’affût du moindre mouvement dans l’herbe ou dans les feuilles, provoqué par des souris ou des campagnols. Leur visage en forme de cœur canalise les sons vers leurs oreilles qui sont parmi les plus fines du règne animal. Cela leur permet de localiser leurs proies avec une précision extrême dans l’obscurité avant de fondre sur elles en silence, leurs plumes douces étouffant leur approche.",
-      "es-ES": "Estas lechuzas, bañadas por la luz del atardecer, esperan a que comience la caza. Al caer la noche, entran en acción y escuchan los pequeños movimientos que ratones y topillos producen entre la hierba y las hojas. Su rostro en forma de corazón canaliza el sonido hacia uno de los sistemas auditivos más agudos del reino animal.",
-      "ja-JP": "夕暮れの光に包まれたメンフクロウが、狩りの始まりをじっと待っています。夜になると、草や落ち葉の中でネズミが動くわずかな音も聞き逃しません。ハート形の顔が音を集めるアンテナの役目を果たし、真っ暗闇でも獲物の位置をぴたりと突き止められるのです。しかも羽音を立てずに飛ぶので、獲物は気づく間もありません。秋は若いメンフクロウが巣立つ季節です。夜が長くなるこの時期は、夕方の早い時間から野原の上をすべるように飛ぶ姿が見られるかもしれません。",
-      "en-IN": "These barn owls, bathed in evening light, are waiting for the hunt to begin. As night falls, these birds of prey swoop into action, listening for tiny movements in grasses or leaves made by mice and voles. Their heart-shaped faces help funnel sound into some of the sharpest ears in the animal kingdom. This allows them to locate their prey with pinpoint precision in the dark before swooping silently, their soft feathers muffling their approach. In autumn, young barn owls strike out to find their own territories. As the nights grow longer, you might spot them earlier in the evening, gliding over fields in search of supper.",
-      "en-US": "These barn owls, bathed in evening light, are waiting for the hunt to begin. As night falls, these birds of prey swoop into action, listening for tiny movements in grass or leaves made by mice and voles. Their heart-shaped faces help funnel sound into some of the sharpest ears in the animal kingdom. This allows them to locate their prey with pinpoint precision in the dark before swooping silently, their soft feathers muffling their approach. In autumn, young barn owls strike out to find their own territories. As the nights grow longer, you might spot them earlier in the evening, gliding over fields in search of supper.",
-      "it-IT": "Avvolti dalla luce della sera, questi barbagianni aspettano il momento di andare a caccia. Al calare della notte entrano in azione, captando tra erba e foglie i più piccoli movimenti di topi e arvicole. Il caratteristico muso a forma di cuore convoglia i suoni verso le orecchie, incredibilmente sensibili, permettendogli di individuare le prede al buio con grande precisione. Il morbido piumaggio rende il loro volo quasi silenzioso. In autunno, i barbagianni giovani vanno alla ricerca del proprio territorio e, con le notti più lunghe, diventa più facile avvistarli già nelle prime ore della sera.",
-      "pt-BR": "Estas corujas-das-torres, banhadas pela luz do entardecer, aguardam o início da caçada. Quando a noite cai, essas aves de rapina entram em ação, atentas aos menores movimentos na grama ou entre as folhas, provocados por camundongos e pequenos roedores. Seus rostos em forma de coração funcionam como funis, direcionando o som para ouvidos que estão entre os mais aguçados do reino animal. Isso permite que localizem suas presas com extrema precisão no escuro antes de mergulharem silenciosamente sobre elas, enquanto suas penas macias abafam o som da aproximação.",
-      "zh-CN": "沐浴在傍晚光线中的这对仓鸮，正等待狩猎开始。夜幕降临时，这些猛禽便迅速行动，倾听鼠类和田鼠类在草丛或落叶中发出的细微动静。它们心形的面庞有助于将声音汇集到耳朵，使其听觉跻身动物界最敏锐的行列。这让它们能在黑暗中精准定位猎物，然后悄无声息地俯冲而下，柔软的羽毛掩盖了它们靠近的声响。秋天，年轻的仓鸮会离开巢穴，寻找自己的领地。随着夜晚变长，你可能会在傍晚更早地看到它们掠过田野，寻找晚餐。"
+      "en-GB": "It's World Philosophy Day, when thinkers come together to explore life's enduring questions. To mark the occasion, today's image features \"Body of Knowledge\", a sculpture at Goethe University in Frankfurt, Germany. Created by Spanish artist Jaume Plensa, it combines steel letters from eight different alphabets to form a human figure. Plensa explains: 'Our body is the home of the spirit. The place in which ideas live.'",
+      "en-CA": "It's World Philosophy Day, when big thinkers gather to discuss life's eternal mysteries. To celebrate, today's image features the \"Body of Knowledge\" sculpture at Goethe University in Frankfurt, Germany, which molds steel letters from eight different alphabets into a human form. Spanish artist Jaume Plensa explains: \"Our body is the home of the spirit. The place in which ideas live.\" On World Philosophy Day, we're all encouraged to look beyond easy answers and explore the questions that shape us, and the world around us.",
+      "de-DE": "Heute ist der Welttag der Philosophie, an dem sich große Denker versammeln, um über die ewigen Geheimnisse des Lebens zu diskutieren. Zu diesem Anlass zeigt das heutige Bild die Skulptur „Body of Knowledge“ an der Goethe-Universität in Frankfurt, bei der Stahlbuchstaben aus acht verschiedenen Alphabeten zu einer menschlichen Gestalt geformt sind. Der spanische Künstler Jaume Plensa erklärt: „Unser Körper ist der Sitz des Geistes. Der Ort, an dem Ideen leben.“ Am Welttag der Philosophie sind wir alle dazu aufgerufen, den Blick über einfache Antworten hinaus zu richten und die Fragen zu ergründen, die uns und die Welt um uns herum prägen.",
+      "fr-FR": "La Journée mondiale de la philosophie est l’occasion de débattre des mystères éternels de l’existence. Pour marquer l’événement, l’image du jour met à l’honneur la sculpture « Body of Knowledge » (Corps du savoir), située à l’université Goethe de Francfort, en Allemagne. Elle représente une silhouette humaine façonnée à partir de lettres en acier issues de huit alphabets différents. Pour l’artiste espagnol Jaume Plensa «Notre corps est la demeure de l’esprit. Le lieu où habitent les idées».",
+      "es-ES": "Hoy es el Día Mundial de la Filosofía, una ocasión para debatir los grandes enigmas de la vida. La imagen muestra la escultura «El cuerpo del conocimiento», situada en la Universidad Goethe de Fráncfort, Alemania, que reúne letras de acero de ocho alfabetos distintos para formar una figura humana.",
+      "ja-JP": "アイデアが形になる場所. ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ. 今日は世界哲学の日です。ドイツ・フランクフルトのゲーテ大学には、8種類の文字を組み合わせて人の姿をかたどった金属の彫刻「ボディ・オブ・ノレッジ」が置かれています。スペイン出身のアーティスト、ジャウメ・プレンサは「私たちの体は精神の住まいであり、アイデアが息づく場所です」と語っています。簡単な答えに飛びつかず、自分や世界を形づくる問いに向き合ってみませんか。",
+      "en-IN": "It's World Philosophy Day, when big thinkers gather to discuss life's eternal mysteries. To celebrate, today's image features the 'Body of Knowledge' sculpture at Goethe University in Frankfurt, Germany, which moulds steel letters from eight different alphabets into a human form. Spanish artist Jaume Plensa explains: 'Our body is the home of the spirit. The place in which ideas live.' On World Philosophy Day, we're all encouraged to look beyond easy answers and explore the questions that shape us, and the world around us.",
+      "en-US": "It's World Philosophy Day, when big thinkers gather to discuss life's eternal mysteries. To celebrate, today's image features the \"Body of Knowledge\" sculpture at Goethe University in Frankfurt, Germany, which molds steel letters from eight different alphabets into a human form. Spanish artist Jaume Plensa explains: \"Our body is the home of the spirit. The place in which ideas live.\" On World Philosophy Day, we're all encouraged to look beyond easy answers and explore the questions that shape us, and the world around us.",
+      "it-IT": "È la Giornata Mondiale della Filosofia, dedicata ai grandi misteri della vita. L’immagine ci porta all’Università Goethe di Francoforte, in Germania, dove la scultura “Body of Knowledge” (Corpo del Sapere), dell’artista spagnolo Jaume Plensa, dà forma a una figura umana grazie a lettere d’acciaio, provenienti da otto alfabeti diversi, intrecciate tra loro. Come spiega l’artista, il corpo è la dimora dello spirito, il luogo in cui vivono le idee. La ricorrenza invita a guardare oltre le risposte più semplici e a riflettere sulle domande che plasmano l’essere umano ed il mondo che lo circonda.",
+      "pt-BR": "Hoje é o Dia Mundial da Filosofia, quando grandes pensadores se reúnem para discutir os mistérios eternos da vida. Para celebrar a data, a imagem de hoje mostra a escultura Body of Knowledge (“Corpo do Conhecimento”), na Universidade Goethe, em Frankfurt, na Alemanha. A obra reúne letras de aço de oito alfabetos diferentes para formar uma figura humana. O artista espanhol Jaume Plensa explica: “Nosso corpo é o lar do espírito. O lugar onde vivem as ideias.” No Dia Mundial da Filosofia, todos somos convidados a ir além das respostas fáceis e explorar as perguntas que moldam quem somos e o mundo ao nosso redor.",
+      "zh-CN": "今天是世界哲学日，思想家们齐聚一堂，探讨人生中永恒的谜题。为庆祝这一节日，今天的图片展示了位于德国法兰克福的法兰克福歌德大学的雕塑《知识之躯》：来自八种不同文字体系的钢制字母被塑造成一个人形。西班牙艺术家豪梅·普兰萨解释道：‘我们的身体是精神的家园，是思想栖居的地方。’在世界哲学日，我们都受到鼓励，去超越简单的答案，探索塑造我们自身和周围世界的问题。"
     },
     "quickFacts": {
-      "en-US": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom.",
-      "en-GB": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom.",
-      "en-CA": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom.",
-      "de-DE": "Schleiereulen geben unheimliche, kreischende Laute von sich, was vielleicht ihren Ruf als Vorboten von Unheil erklärt.",
-      "fr-FR": "Les chouettes effraies ne hululent pas, elles émettent des cris stridents et inquiétants, ce qui pourrait expliquer leur réputation de messagères de mauvais augure.",
-      "it-IT": "A differenza degli altri rapaci notturni, i barbagianni emettono versi striduli e inquietanti, che alimentano la loro fama di presagi di sventura.",
-      "es-ES": "Las lechuzas no ululan: emiten chillidos inquietantes, quizá origen de su fama de aves de mal agüero.",
-      "pt-BR": "As corujas-das-torres não piam; elas emitem sons estridentes e inquietantes, o que talvez explique sua fama de anunciar desgraças.",
-      "ja-JP": "メンフクロウは「ホーホー」とは鳴かず、不気味な金切り声を上げます。そのせいか、不吉な鳥と見られることもあります。",
-      "zh-CN": "仓鸮不会发出‘咕咕’声；它们会发出令人毛骨悚然的尖叫声，这或许解释了为什么它们被视为厄运的预兆。",
-      "en-IN": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom."
+      "zh-CN": "豪梅·普兰萨的《知识之躯》于2009年受法兰克福歌德大学委托，以彩绘不锈钢制成，尺寸为800×526× 526厘米。"
     },
     "captions": {
-      "en-GB": "A pair of barn owls at dusk",
-      "en-CA": "A pair of barn owls at dusk",
-      "de-DE": "Ein Schleiereulenpaar in der Abenddämmerung",
-      "fr-FR": "Couple de chouettes effraies au crépuscule",
+      "en-GB": "World Philosophy Day",
+      "en-CA": "World Philosophy Day",
+      "de-DE": "Welttag der Philosophie",
+      "fr-FR": "Journée mondiale de la philosophie",
       "it-IT": "",
-      "es-ES": "Una pareja de lechuzas al anochecer",
+      "es-ES": "Día Mundial de la Filosofía",
       "pt-BR": "",
-      "ja-JP": "夕暮れ時のメンフクロウのつがい",
+      "ja-JP": "世界哲学の日",
       "zh-CN": "",
-      "en-IN": "A pair of barn owls at dusk"
+      "en-IN": "World Philosophy Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Schleiereule&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=chouette+effraie&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
-      "it-IT": "https://www.bing.com/search?q=barbagianni&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lechuzas&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Coruja-das-torres&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%a1%e3%83%b3%e3%83%95%e3%82%af%e3%83%ad%e3%82%a6&form=hpcapt&filters=HpDate%3a%2220261117_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%bb%93%e9%b8%ae&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261117_1830%22"
+      "en-GB": "https://www.bing.com/search?q=World+Philosophy+Day&form=hpcapt&filters=HpDate%3a%2220261119_0000%22",
+      "en-CA": "https://www.bing.com/search?q=World+Philosophy+Day&form=hpcapt&filters=HpDate%3a%2220261119_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Welttag+der+Philosophie&form=hpcapt&filters=HpDate%3a%2220261118_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+de+la+philosophie&form=hpcapt&filters=HpDate%3a%2220261118_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Giornata+Mondiale+della+Filosofia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+la+Filosof%c3%ada&form=hpcapt&filters=HpDate%3a%2220261118_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+Mundial+da+Filosofia&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%93%b2%e5%ad%a6%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220261118_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%93%b2%e5%ad%a6%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=World+Philosophy+Day&form=hpcapt&filters=HpDate%3a%2220261118_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926",
-      "en-CA": "/th?id=OHR.BarnOwlsUnite_EN-CA4667422481",
-      "de-DE": "/th?id=OHR.BarnOwlsUnite_DE-DE3292837255",
-      "fr-FR": "/th?id=OHR.BarnOwlsUnite_FR-FR0018372456",
-      "it-IT": "/th?id=OHR.BarnOwlsUnite_IT-IT5941580476",
-      "es-ES": "/th?id=OHR.BarnOwlsUnite_ES-ES4442138471",
-      "pt-BR": "/th?id=OHR.BarnOwlsUnite_PT-BR3615870863",
-      "ja-JP": "/th?id=OHR.BarnOwlsUnite_JA-JP5990292316",
-      "zh-CN": "/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291",
-      "en-IN": "/th?id=OHR.BarnOwlsUnite_EN-IN2617869555"
+      "en-GB": "/th?id=OHR.KnowledgeSculpture_EN-GB1364284090",
+      "en-CA": "/th?id=OHR.KnowledgeSculpture_EN-CA4919138764",
+      "de-DE": "/th?id=OHR.KnowledgeSculpture_DE-DE3802350761",
+      "fr-FR": "/th?id=OHR.KnowledgeSculpture_FR-FR2837374405",
+      "it-IT": "/th?id=OHR.KnowledgeSculpture_IT-IT1368212298",
+      "es-ES": "/th?id=OHR.KnowledgeSculpture_ES-ES4863914751",
+      "pt-BR": "/th?id=OHR.KnowledgeSculpture_PT-BR4000726900",
+      "ja-JP": "/th?id=OHR.KnowledgeSculpture_JA-JP6514822082",
+      "zh-CN": "/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853",
+      "en-IN": "/th?id=OHR.KnowledgeSculpture_EN-IN5790560543"
     }
   },
   "PoppiesField": {
@@ -1980,38 +1988,6 @@
     },
     "urlbases": {
       "en-GB": "/th?id=OHR.PoppiesField_EN-GB3947926925"
-    }
-  },
-  "FireworksBattersea": {
-    "name": "FireworksBattersea",
-    "urlbase": "/th?id=OHR.FireworksBattersea_EN-GB4505786809",
-    "date": "20261105",
-    "dateFormatted": "November 05, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      }
-    ],
-    "titles": {
-      "en-GB": "Remember, remember. Bonfire Night"
-    },
-    "copyrights": {
-      "en-GB": "Fireworks over Battersea Power Station, London (© Michael Lee/Getty Images)"
-    },
-    "descs": {
-      "en-GB": "Happy Bonfire Night, or Guy Fawkes Night, from London's iconic Battersea Power Station, which has towered over the Thames since the 1930s. Fireworks will be seen and heard across London and the UK tonight and over the weekend, to mark the anniversary of the 1605 Gunpowder Plot. The infamous bid to blow up the Houses of Parliament was foiled when Guy Fawkes was caught in the cellars, trying to light the fuse to hidden barrels of gunpowder. His name has since become synonymous with the plot, and his effigy has traditionally been burned to mark the date."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-GB": "Bonfire Night"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=bonfire+night&form=hpcapt&filters=HpDate%3a%2220261105_0000%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.FireworksBattersea_EN-GB4505786809"
     }
   },
   "Atlantica": {
@@ -2226,6 +2202,102 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
+    }
+  },
+  "AutumnChina": {
+    "name": "AutumnChina",
+    "urlbase": "/th?id=OHR.AutumnChina_EN-US0467722422",
+    "date": "20261104",
+    "dateFormatted": "November 04, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Paddling a painted forest. Colorful bald cypress, Xuancheng, Anhui, China",
+      "en-GB": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China",
+      "en-CA": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China",
+      "de-DE": "Paddeln durch ein Gemälde. Farbenfrohe Sumpfzypressen, Xuancheng, Anhui, China",
+      "fr-FR": "Glisser à travers une peinture. Cyprès chauves, Xuancheng, Anhui, Chine",
+      "it-IT": "In kayak tra i colori d’autunno",
+      "es-ES": "Remando en un bosque colorido. Coloridos cipreses calvos, Xuancheng, Anhui, China",
+      "pt-BR": "A floresta virou galeria",
+      "ja-JP": "秋色の森を水上散歩. 色鮮やかなラクウショウ、安徽省宣城市、中国",
+      "zh-CN": "泛舟如画秋林",
+      "en-IN": "Paddling a painted forest. Colourful bald cypress, Xuancheng, Anhui, China"
+    },
+    "copyrights": {
+      "en-US": "People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "en-GB": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "en-CA": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "de-DE": "Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "fr-FR": "Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)",
+      "it-IT": "Una persona che rema tra colorati cipressi calvi, Xuancheng, Anhui, Cina (© Jackal Pan/Getty Images)",
+      "es-ES": "Personas remando entre coloridos cipreses calvos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "pt-BR": "Pessoas remando entre ciprestes-calvos coloridos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+      "ja-JP": "色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)",
+      "zh-CN": "五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)",
+      "en-IN": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)"
+    },
+    "descs": {
+      "en-US": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper, and deep rust. Known scientifically as 'Taxodium distichum,' bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop. In North America, it is famous for thriving in swamps, floodplains, and other wet habitats, often developing knobby root projections called 'knees' that rise above the surrounding soil and water.",
+      "en-GB": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
+      "en-CA": "People paddle through flooded woodlands in Xuancheng, Anhui, where fall transforms bald cypress forests into a striking display of amber, copper and rust-coloured foliage. Unlike most conifers, bald cypress sheds its soft needles each fall after they turn reddish-brown. Native to North America, these trees thrive in wetlands, swamps and floodplains, often developing distinctive root \"knees\" that rise above the water. Some specimens have lived for more than 1,000 years. In late fall, the still water reflects the colourful canopy above, creating a remarkable landscape that highlights the bald cypress's natural connection to wetland environments.",
+      "de-DE": "In Xuancheng in der Provinz Anhui paddeln Menschen durch ein leuchtendes Labyrinth aus Sumpfzypressen, wo der Herbst die überfluteten Wälder in ein Farbenspiel aus Bernstein, Kupfer und tiefem Rost verwandelt. Die wissenschaftlich als „Taxodium distichum“ bezeichnete Sumpfzypresse ist unter den Nadelbäumen ungewöhnlich, da sie jeden Herbst ihre weichen, federartigen Nadeln abwirft, die sich vor dem Abfallen rotbraun färben.",
+      "fr-FR": "Dans ce labyrinthe lumineux de cyprès chauves à Xuancheng, dans la province de l'Anhui, l’automne métamorphose les zones boisées inondées en une mosaïque aux teintes ambre, cuivre et rouille profond. Le cyprès chauve se distingue des autres conifères par sa particularité de perdre ses aiguilles souples et plumeuses chaque automne. Celles-ci virent au brun rougeâtre avant de tomber.",
+      "es-ES": "En Xuancheng, Anhui, varias personas reman por un resplandeciente laberinto de cipreses calvos, donde el otoño transforma los bosques inundados en un mosaico de tonos ámbar, cobre y rojizos. Conocido científicamente como Taxodium distichum, el ciprés calvo es una conífera poco común, ya que cada otoño pierde sus suaves hojas en forma de aguja, que adquieren un tono marrón rojizo antes de caer. En Norteamérica, es conocido por prosperar en pantanos, llanuras aluviales y otros hábitats húmedos, donde suele desarrollar unas peculiares protuberancias de las raíces, conocidas como “rodillas”, que sobresalen del suelo y del agua.",
+      "ja-JP": "中国・安徽省宣城市では、秋になると水に浸かったラクウショウの森が、琥珀色や銅色、深いさび色に染まります。ラクウショウは針葉樹でありながら、秋に柔らかな葉が赤褐色に変わって落ちる珍しい木です。北米では湿地に育ち、地面や水面から「膝根」と呼ばれる呼吸根を突き出すことでも知られ、樹齢1,000年を超える木の記録もあります。晩秋には葉が燃えるような色に変わり、ボートでゆったり進むと、水面にその色がきらめいて、まるで生きた絵画のようです。",
+      "en-IN": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
+      "it-IT": "A Xuancheng, nella provincia cinese dell’Anhui, è possibile attraversare in kayak un bosco di cipressi calvi che, in autunno, si tingono di tonalità ambrate, ramate e rossastre. Il cipresso calvo è una conifera insolita poiché i suoi morbidi aghi assumono colori intensi prima di cadere. Conosciuta scientificamente come “Taxodium distichum”, questa specie prospera negli ambienti paludosi, con esemplari che possono vivere per oltre 1.000 anni. Quando il “foliage” raggiunge il suo splendore, i colori si riflettono sulle acque tranquille e il bosco si trasforma in un vero e proprio dipinto vivente.",
+      "pt-BR": "Pessoas remam por um labirinto de ciprestes-calvos de cores vibrantes em Xuancheng, Anhui, onde o outono transforma a floresta alagada em um mosaico de tons de âmbar, cobre e ferrugem escuro. Conhecido cientificamente como Taxodium distichum, o cipreste-calvo é incomum entre as coníferas por perder suas folhas finas e macias, semelhantes a penas, a cada outono. Antes de cair, elas adquirem uma coloração marrom-avermelhada. Na América do Norte, a espécie é conhecida por prosperar em pântanos, planícies de inundação e outros ambientes úmidos, muitas vezes desenvolvendo projeções das raízes em forma de nódulos chamadas de “joelhos”, que se projetam acima do solo e da água ao redor.",
+      "zh-CN": "在安徽省宣城，人们划船穿过色彩斑斓的落羽杉林。秋天将这片被水淹没的林地变成由琥珀色、铜色和深铁锈色交织而成的锦绣景致。落羽杉的学名是“Taxodium distichum”，它在针叶树中颇为特别：每年秋季，柔软如羽毛的针叶会先变成红褐色，然后脱落。在北美洲，落羽杉因能生长在沼泽、河漫滩等湿地环境而闻名，常长出称为“膝状根”的瘤状根部突起，露出周围的泥土和水面。"
+    },
+    "quickFacts": {
+      "zh-CN": "落羽杉木材耐腐朽，历史上曾被用于制作木桶、铁路枕木和屋顶木瓦。"
+    },
+    "captions": {
+      "en-US": "Colorful bald cypress, Xuancheng, Anhui, China"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=bald+cypress&form=hpcapt&filters=HpDate%3a%2220261104_0800%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AutumnChina_EN-US0467722422"
+    }
+  },
+  "FireworksBattersea": {
+    "name": "FireworksBattersea",
+    "urlbase": "/th?id=OHR.FireworksBattersea_EN-GB4505786809",
+    "date": "20261105",
+    "dateFormatted": "November 05, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      }
+    ],
+    "titles": {
+      "en-GB": "Remember, remember. Bonfire Night"
+    },
+    "copyrights": {
+      "en-GB": "Fireworks over Battersea Power Station, London (© Michael Lee/Getty Images)"
+    },
+    "descs": {
+      "en-GB": "Happy Bonfire Night, or Guy Fawkes Night, from London's iconic Battersea Power Station, which has towered over the Thames since the 1930s. Fireworks will be seen and heard across London and the UK tonight and over the weekend, to mark the anniversary of the 1605 Gunpowder Plot. The infamous bid to blow up the Houses of Parliament was foiled when Guy Fawkes was caught in the cellars, trying to light the fuse to hidden barrels of gunpowder. His name has since become synonymous with the plot, and his effigy has traditionally been burned to mark the date."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-GB": "Bonfire Night"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=bonfire+night&form=hpcapt&filters=HpDate%3a%2220261105_0000%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.FireworksBattersea_EN-GB4505786809"
     }
   },
   "AlpineBraies": {
