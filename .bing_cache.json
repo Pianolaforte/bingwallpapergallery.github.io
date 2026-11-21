@@ -1,4 +1,148 @@
 {
+  "Megaptera": {
+    "name": "Megaptera",
+    "urlbase": "/th?id=OHR.Megaptera_EN-US1728719939",
+    "date": "20261120",
+    "dateFormatted": "November 20, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Feasting in the fjords. Diving humpback whale, Kvaloya, Troms, Northern Norway",
+      "en-GB": "Feasting in the fjords. Diving humpback whale, Kvaloya, Troms, Northern Norway",
+      "en-CA": "Feasting in the fjords. Diving humpback whale, Kvaloya, Troms, Northern Norway",
+      "de-DE": "Festmahl in den Fjorden. Tauchender Buckelwal, Norwegen",
+      "fr-FR": "Festin dans les fjords. Plongée dans les eaux glacées, Kvaløya",
+      "it-IT": "A banchetto tra i fiordi",
+      "es-ES": "Un festín en los fiordos. Ballena jorobada sumergiéndose, Kvaløya, Noruega",
+      "pt-BR": "Banquete entre fiordes",
+      "ja-JP": "フィヨルドを訪れる冬の使者. 潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー",
+      "zh-CN": "正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛",
+      "en-IN": "Feasting in the fjords. Diving humpback whale, Kvaloya, Troms, Northern Norway"
+    },
+    "copyrights": {
+      "en-US": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
+      "en-GB": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
+      "en-CA": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
+      "de-DE": "Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures)",
+      "fr-FR": "Baleine à bosse plongeant, Kvaløya, Troms, Norvège (© Espen Bergersen/Minden Pictures)",
+      "it-IT": "Megattera (Megaptera novaeangliae) in immersione, Kvaløya, Troms, Norvegia settentrionale (© Espen Bergersen/Minden Pictures)",
+      "es-ES": "Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega (© Espen Bergersen/Minden Pictures)",
+      "pt-BR": "Baleia-jubarte (Megaptera novaeangliae) mergulhando, Kvaløya, Troms, norte da Noruega (© Espen Bergersen/Minden Pictures)",
+      "ja-JP": "潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)",
+      "zh-CN": "正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)",
+      "en-IN": "Diving humpback whale, Kvaløya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "Off the coast of Kvaløya in Troms, Northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit this region during the winter months, following migrating herring into the fjords. Humpbacks are famous for bubble-net feeding, a remarkable hunting technique in which whales blow rings of bubbles to corral fish before lunging upward, open-mouthed, to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquility in Norway's wild north.",
+      "en-GB": "Off the coast of Kvaløya in Troms, northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit the region in winter, following migrating herring into the fjords. Humpbacks are known for their remarkable feeding techniques, including bubble-net feeding, in which some whales blow rings or walls of bubbles to corral fish before surging upwards with their mouths open to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquillity in Norway's wild north.",
+      "en-CA": "Off the coast of Kvaløya in Troms, Northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit this region during the winter months, following migrating herring into the fjords. Humpbacks are famous for bubble-net feeding, a remarkable hunting technique in which whales blow rings of bubbles to corral fish before lunging upward, open-mouthed, to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquility in Norway's wild north.",
+      "de-DE": "Vor der Küste von Kvaløya in Troms, im Norden Norwegens, durchstreifen Buckelwale die kalten arktischen Gewässer auf der Suche nach einem ausgiebigen Festmahl. Sie besuchen diese Region in den Wintermonaten und folgen dabei den wandernden Heringsschwärmen in die Fjorde. Buckelwale sind bekannt für ihre „Blasennetz-Jagd“, eine bemerkenswerte Jagdtechnik, bei der die Wale Fischschwärme mit Blasenringen einkreisen, um ihre Beute dann mit weit geöffnetem Maul aufzuschnappen. Auf dem heutigen Bild gleitet ein Buckelwal durch die eisigen Wellen unter einem leuchtenden Pastellhimmel und hält einen Moment der Ruhe im wilden Norden Norwegens fest.",
+      "fr-FR": "Au large de Kvaløya, dans la région de Troms, au nord de la Norvège, des baleines à bosse parcourent les eaux arctiques glacées en quête de nourriture. Elles fréquentent cette zone durant les mois d’hiver, suivant les bancs de harengs qui migrent vers les fjords. Les baleines à bosse sont réputées pour leur technique de chasse au « filet de bulles ». Elles créent des cercles de bulles pour encercler les poissons, avant de remonter en surface, la gueule grande ouverte, pour capturer leurs proies.",
+      "es-ES": "Frente a la costa de Kvaløya, en Troms, al norte de Noruega, las ballenas jorobadas recorren las frías aguas árticas en busca de alimento. Visitan la región durante los meses de invierno mientras siguen a los arenques que migran hacia los fiordos.",
+      "ja-JP": "ノルウェー北部、トロムス県のクヴァロイア島沖には、冬になるとザトウクジラが姿を現します。北極圏の冷たいフィヨルドに、ニシンの群れを追ってやって来るのです。ザトウクジラは、泡の輪で魚の群れを囲い込む「バブルネット・フィーディング」というユニークな方法で知られています。写真は、淡いパステルカラーの空の下、クジラが静かに海へ潜っていく瞬間をとらえたものです。ノルウェー北部の大自然ならではの、穏やかなひとときが伝わってきます。",
+      "en-IN": "Off the coast of Kvaløya in Troms, Northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit this region during the winter months, following migrating herring into the fjords. Humpbacks are famous for bubble-net feeding, a remarkable hunting technique in which whales blow rings of bubbles to corral fish before lunging upwards, open-mouthed, to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquillity in Norway's wild north.",
+      "it-IT": "Al largo di Kvaløya, nella Norvegia settentrionale, le megattere attraversano le acque artiche alla ricerca di un ricco banchetto. Durante l'inverno, queste enormi balene seguono i banchi di aringhe che migrano nei fiordi e, per catturarle, usano una spettacolare tecnica di caccia: soffiando anelli di bolle nel mare radunano i pesci nella stessa zona, per poi risalire verso la superficie a bocca spalancata. Nell’immagine di oggi, una megattera scivola sotto le acque gelide mentre il cielo si tinge di delicate sfumature pastello, regalando un momento di quiete nella natura selvaggia del nord della Norvegia.",
+      "pt-BR": "Ao largo da costa de Kvaløya, em Troms, no norte da Noruega, baleias-jubarte percorrem as frias águas do Ártico em busca de um verdadeiro banquete. Elas visitam essa região durante os meses de inverno, acompanhando os cardumes de arenque que migram para os fiordes. As jubartes são famosas pela técnica de caça conhecida como “rede de bolhas”, um método impressionante em que as baleias soltam anéis de bolhas para cercar os peixes antes de subirem rapidamente, de boca aberta, para capturar suas presas. Na imagem de hoje, uma baleia-jubarte desliza sob as ondas geladas, sob um céu iluminado em tons pastel, registrando um momento de tranquilidade na natureza selvagem do norte da Noruega.",
+      "zh-CN": "在挪威北部特罗姆斯的克瓦尔岛近海，座头鲸穿行于寒冷的北极海水中，寻找一顿丰盛的美餐。冬季，它们追随迁徙的鲱鱼进入峡湾，来到这一地区。座头鲸以气泡网捕食闻名：这种非凡的狩猎技巧是鲸鱼吹出一圈圈气泡，将鱼群围拢，然后张开大嘴向上猛冲，捕获猎物。在今天的图片中，一头座头鲸在柔和的霞光下潜入冰冷的波浪，定格了挪威北部荒野中宁静的一刻。"
+    },
+    "quickFacts": {
+      "zh-CN": "座头鲸尾鳍上的独特斑纹、形状和伤疤，能帮助研究人员识别不同个体，并长期追踪它们的行踪。"
+    },
+    "captions": {
+      "en-US": "Diving humpback whale, Kvaloya, Troms, Northern Norway",
+      "en-GB": "Diving humpback whale, Kvaloya, Troms, Northern Norway",
+      "en-CA": "Diving humpback whale, Kvaloya, Troms, Northern Norway",
+      "de-DE": "Tauchender Buckelwal, Norwegen",
+      "fr-FR": "Plongée dans les eaux glacées, Kvaløya",
+      "it-IT": "",
+      "es-ES": "Ballena jorobada sumergiéndose, Kvaløya, Noruega",
+      "pt-BR": "",
+      "ja-JP": "潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー",
+      "zh-CN": "",
+      "en-IN": "Diving humpback whale, Kvaloya, Troms, Northern Norway"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261120_0800%22",
+      "en-GB": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261120_0000%22",
+      "en-CA": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261120_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Buckelwal&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=baleine+%c3%a0+bosse&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+      "it-IT": "https://www.bing.com/search?q=megattera&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=ballenas+jorobadas&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=baleias-jubarte&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b6%e3%83%88%e3%82%a6%e3%82%af%e3%82%b8%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220261119_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%ba%a7%e5%a4%b4%e9%b2%b8&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261119_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.Megaptera_EN-US1728719939",
+      "en-GB": "/th?id=OHR.Megaptera_EN-GB2786065203",
+      "en-CA": "/th?id=OHR.Megaptera_EN-CA5111539661",
+      "de-DE": "/th?id=OHR.Megaptera_DE-DE6966438629",
+      "fr-FR": "/th?id=OHR.Megaptera_FR-FR4844041131",
+      "it-IT": "/th?id=OHR.Megaptera_IT-IT1232088954",
+      "es-ES": "/th?id=OHR.Megaptera_ES-ES5370739195",
+      "pt-BR": "/th?id=OHR.Megaptera_PT-BR4336826763",
+      "ja-JP": "/th?id=OHR.Megaptera_JA-JP4163269980",
+      "zh-CN": "/th?id=OHR.Megaptera_ZH-CN3361807823",
+      "en-IN": "/th?id=OHR.Megaptera_EN-IN2800635615"
+    }
+  },
   "KnowledgeSculpture": {
     "name": "KnowledgeSculpture",
     "urlbase": "/th?id=OHR.KnowledgeSculpture_EN-US9746703110",
@@ -811,7 +955,7 @@
       "es-ES": "Una ciudad que mira al cielo. Puerto Victoria, Hong Kong, China",
       "pt-BR": "O céu é o limite",
       "ja-JP": "上へ上へと伸びる街. ビクトリア・ハーバー、香港、中国",
-      "zh-CN": "中国香港维多利亚港",
+      "zh-CN": "唯有向上发展",
       "en-IN": "The only way is up. Victoria Harbour, Hong Kong, China"
     },
     "copyrights": {
@@ -834,7 +978,7 @@
       "de-DE": "Willkommen in Hongkong, der Stadt mit der weltweit höchsten Anzahl an Wolkenkratzern. Die hier abgebildeten Hochhäuser überragen den Victoria Harbour, der sich dank seiner tiefen Gewässer zum geschäftigen Handelshafen der Insel entwickelt hat. Seit den 1840er Jahren laufen hier Schiffe mit Tee, Seide und anderen Waren ein und aus, doch erst in den Jahrzehnten nach dem Zweiten Weltkrieg nahm das Wachstum rasant zu und löste einen Bauboom aus. Da zwischen dem Hafen und den Hügeln nur wenig flaches Land zur Verfügung stand, mussten Bauunternehmer in die Höhe bauen und haben so diese einzigartige Skyline geschaffen. Im Jahr 2026 zählt Hongkong 569 Gebäude, die höher als 150 Meter sind – mehr als jede andere Stadt.",
       "fr-FR": "Bienvenue à Hong Kong, la ville qui abrite la plus grande concentration de gratte-ciel au monde. Ceux que l'on voit ici dominent le port Victoria. Ses eaux profondes ont permis à l'île de se développer en tant que port de commerce très dynamique et prospère. Si des navires chargés de thé, de soie et d'autres marchandises y transitent depuis les années 1840, la croissance s'est accélérée de façon spectaculaire après la Seconde Guerre mondiale, déclenchant un véritable boom de la construction.",
       "es-ES": "Bienvenidos a Hong Kong, la ciudad con la mayor concentración de rascacielos del mundo. Los edificios de la imagen se elevan sobre el puerto Victoria, cuyas aguas profundas permitieron que la isla se desarrollara como un importante puerto comercial. Desde la década de 1840 han pasado por aquí barcos cargados de té, seda y otras mercancías; tras la Segunda Guerra Mundial, su rápido crecimiento impulsó un auge de la construcción.",
-      "ja-JP": "上へ上へと伸びる街. ビクトリア・ハーバー、香港、中国. 超高層ビルの数が世界一の街、香港へようこそ。ビクトリア・ハーバー沿いにビルがひしめくのは、港と山の間に平地がほとんどなく、戦後の建設ラッシュで上に伸びるしかなかったためです。2026年現在、高さ150m以上のビルは569棟にのぼり、世界のどの都市よりも多くなっています。",
+      "ja-JP": "超高層ビルの数が世界一の街、香港へようこそ。ビクトリア・ハーバー沿いにビルがひしめくのは、港と山の間に平地がほとんどなく、戦後の建設ラッシュで上に伸びるしかなかったためです。2026年現在、高さ150m以上のビルは569棟にのぼり、世界のどの都市よりも多くなっています。",
       "en-IN": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upwards, creating this distinctive skyline. In 2026, Hong Kong has 569 buildings above 150 metres high – more than any other city.",
       "it-IT": "Benvenuti a Hong Kong, la città con più grattacieli al mondo. Quelli che svettano sul Victoria Harbour raccontano una storia plasmata anche dai suoi profondi fondali, che favorirono lo sviluppo di un vivace porto commerciale. Navi cariche di tè, seta e merci di ogni tipo, solcano queste acque fin dagli anni Quaranta dell’Ottocento. Dopo la Seconda Guerra Mondiale, la rapida crescita economica diede impulso a un grande boom edilizio. Con poco terreno pianeggiante tra porto e colline, non restava che costruire verso l’alto, dando vita ad un inconfondibile skyline. Nel 2026, Hong Kong conta 569 edifici alti oltre 150 metri, più di qualsiasi altra città.",
       "pt-BR": "Bem-vindo a Hong Kong, que abriga a maior concentração de arranha-céus do mundo. Os edifícios vistos aqui se erguem sobre Victoria Harbour, cujas águas profundas permitiram que a ilha se desenvolvesse como um movimentado porto comercial. Desde a década de 1840, navios transportando chá, seda e outras mercadorias passam pela região, mas o crescimento disparou nas décadas após a Segunda Guerra Mundial, impulsionando um boom na construção civil. Com pouco terreno plano disponível entre o porto e as colinas, os incorporadores tiveram de construir verticalmente, criando esse horizonte urbano inconfundível. Em 2026, Hong Kong tem 569 edifícios com mais de 150 metros de altura, mais do que qualquer outra cidade.",
@@ -1625,56 +1769,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1720,114 +1814,20 @@
       "zh-CN": "野牛在泥土中打滚形成的浅坑可能积水，为草原植物和动物提供栖息地。"
     },
     "captions": {
-      "en-US": "National Bison Day",
-      "en-GB": "A bison in Theodore Roosevelt National Park, USA",
-      "en-CA": "Bison",
-      "de-DE": "Ein Bison in Nord-Dakota, USA",
-      "fr-FR": "Sauvage et libre",
-      "it-IT": "",
-      "es-ES": "Bisonte Americano",
-      "pt-BR": "",
-      "ja-JP": "セオドア・ルーズベルト国立公園のアメリカバイソン",
-      "zh-CN": "",
-      "en-IN": "A bison in Theodore Roosevelt National Park, USA"
+      "en-US": "National Bison Day"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220261107_0800%22",
-      "en-GB": "https://www.bing.com/search?q=American+bison&form=hpcapt&filters=HpDate%3a%2220261107_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Bison&form=hpcapt&filters=HpDate%3a%2220261107_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Bisons&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=bison+bison&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Bisonte&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Bisonte+Americano&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Bis%c3%a3o+americano&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%90%e3%82%a4%e3%82%bd%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261106_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e7%be%8e%e6%b4%b2%e9%87%8e%e7%89%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=American+bison&form=hpcapt&filters=HpDate%3a%2220261106_1830%22"
+      "en-US": "https://www.bing.com/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220261107_0800%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.DakotaBison_EN-US0710175615",
-      "en-GB": "/th?id=OHR.DakotaBison_EN-GB4535875354",
-      "en-CA": "/th?id=OHR.DakotaBison_EN-CA6055061732",
-      "de-DE": "/th?id=OHR.DakotaBison_DE-DE0154878283",
-      "fr-FR": "/th?id=OHR.DakotaBison_FR-FR7465030722",
-      "it-IT": "/th?id=OHR.DakotaBison_IT-IT5607960276",
-      "es-ES": "/th?id=OHR.DakotaBison_ES-ES8128030749",
-      "pt-BR": "/th?id=OHR.DakotaBison_PT-BR6015279362",
-      "ja-JP": "/th?id=OHR.DakotaBison_JA-JP7700625518",
-      "zh-CN": "/th?id=OHR.DakotaBison_ZH-CN2302503868",
-      "en-IN": "/th?id=OHR.DakotaBison_EN-IN0635434875"
+      "en-US": "/th?id=OHR.DakotaBison_EN-US0710175615"
     }
   },
-  "PipiwaiTrail": {
-    "name": "PipiwaiTrail",
-    "urlbase": "/th?id=OHR.PipiwaiTrail_EN-US0631882545",
-    "date": "20261106",
-    "dateFormatted": "November 06, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii",
-      "en-GB": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii",
-      "en-CA": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii",
-      "de-DE": "Ein grüner Tunnel durch Maui. Bambuswald, Haleakalā-Nationalpark, Maui, Hawaii",
-      "fr-FR": "Toit de verdure à travers Maui. Parc national de Haleakalā, Maui, Hawaii",
-      "it-IT": "Un tunnel verde nel cuore di Maui",
-      "es-ES": "Un túnel verde que atraviesa Maui. Bosque de bambú, Parque Nacional Haleakalā, Maui, Hawái",
-      "pt-BR": "O portal verde de Maui",
-      "ja-JP": "マウイ島を抜ける緑のトンネル. 竹林、ハレアカラ国立公園、マウイ島、ハワイ",
-      "zh-CN": "穿越毛伊岛的绿色隧道",
-      "en-IN": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii"
-    },
-    "copyrights": {
-      "en-US": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)",
-      "en-GB": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
-      "en-CA": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
-      "de-DE": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)",
-      "fr-FR": "Forêt de bambous, Pīpīwai Trail, Hawaii, États-Unis (© MNStudio/Getty Images)",
-      "it-IT": "Foresta di Bambù, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
-      "es-ES": "Bosque de Bambú, Sendero Pīpīwai, Parque Nacional Haleakalā, Maui, Hawái, EE. UU. (© MNStudio/Getty Images)",
-      "pt-BR": "Floresta de bambu, Trilha Pīpīwai, Parque Nacional de Haleakalā, Maui, Havaí, Estados Unidos (© MNStudio/Getty Images)",
-      "ja-JP": "ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images)",
-      "zh-CN": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)",
-      "en-IN": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)"
-    },
-    "descs": {
-      "en-US": "A volcano, a rainforest, and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 10,023-foot summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall, and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun,' reflecting the Hawaiian mo'olelo of Māui capturing the sun to lengthen the day.",
-      "en-GB": "A volcano, a rainforest and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 3,055-metre summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun', reflecting the Hawaiian mo'olelo of Māui capturing the Sun to lengthen the day.",
-      "en-CA": "Haleakalā National Park on Maui is home to an extraordinary mix of landscapes, from volcanic slopes and rainforest to towering bamboo forests. The park stretches from the summit of Haleakalā, which rises 3,055 metres above sea level, to the Pacific coast. More than 850 plant species grow here, including some found nowhere else on Earth, alongside native Hawaiian wildlife. One of the park's most popular walks is the Pīpīwai Trail, which winds through lush forest before reaching a remarkable bamboo grove. As the bamboo sways in the breeze, its tall stalks create distinctive sounds that add to the unique experience.",
-      "de-DE": "Ein Vulkan, ein Regenwald und ein Bambushain? Der Haleakalā-Nationalpark auf Maui bietet all das. Der Park erstreckt sich über die gesamte Insel Maui, vom 3.055 Meter hohen Gipfel bis zur Küste, und schützt Landschaften, die sich je nach Höhe, Niederschlagsmenge und Temperatur dramatisch verändern. Er wurde 1916 als Teil des Hawaii-Nationalparks gegründet und 1961 zu einem eigenständigen Nationalpark erklärt. Der Name Haleakalā bedeutet übersetzt „Haus der Sonne“ und spiegelt die hawaiianische Legende (mo’olelo) wider, wonach Māui die Sonne einfing, um den Tag zu verlängern.",
-      "fr-FR": "Un volcan, une forêt tropicale, une bambouseraie… Le parc national de Haleakalā, sur l’île de Maui, réunit bien ces trois éléments. De son sommet, à 3 000 mètres d’altitude, jusqu’à la côte, le parc abrite des paysages qui varient considérablement. Haleakalā signifie « Maison du Soleil », en référence au mo'olelo hawaïen selon lequel le demi-dieu Māui aurait capturé le soleil pour prolonger la journée.",
-      "es-ES": "¿Un volcán, una selva tropical y un bosque de bambú? El Parque Nacional Haleakalā, en Maui, tiene los tres. El parque se extiende desde la cumbre de Maui, a 3.055 metros de altura, hasta la costa, y protege paisajes que cambian radicalmente según la altitud, las precipitaciones y la temperatura. Fue establecido en 1916 como parte del Parque Nacional de Hawái y se convirtió en un parque nacional independiente en 1961. El nombre Haleakalā significa “Casa del Sol” y hace referencia al mo'olelo hawaiano en el que Māui atrapa al sol para prolongar el día.",
-      "ja-JP": "マウイ島のハレアカラ国立公園は、標高約3,055メートルの山頂から海岸まで、火山や熱帯雨林など変化に富んだ自然が広がっています。キパフル地区にあるピピワイ・トレイルをたどると、緑豊かな森の先に見事な竹林が現れます。歩き始めて約1.6キロ進むと、頭上を覆うように竹が生い茂り、まるで緑のトンネルの中を歩いているようです。風が吹くと竹同士が触れ合い、独特の音が辺りに響きます。",
-      "en-IN": "A volcano, a rainforest and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 3,055-metre summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun', reflecting the Hawaiian mo'olelo of Māui capturing the Sun to lengthen the day.",
-      "it-IT": "Un vulcano, una rigogliosa foresta pluviale e distese di bambù: l’Haleakalā National Park di Maui racchiude paesaggi straordinariamente diversi. Dalla vetta, a oltre 3.000 metri, fino alla costa, lo scenario cambia con l’altitudine, le piogge e le temperature. Il nome Haleakalā significa “Casa del Sole” e richiama un’antica leggenda hawaiana, secondo cui Māui catturò il sole per allungare le giornate. Nel distretto di Kīpahulu, il Pīpīwai Trail conduce alla celebre foresta di bambù, dove gli alti fusti formano una volta verde sopra il sentiero e, mossi dal vento, si urtano tra loro producendo un caratteristico ticchettio.",
-      "pt-BR": "Um vulcão, uma floresta tropical e um bambuzal? O Parque Nacional de Haleakalā, em Maui, tem os três. Do cume, a cerca de 3.055 metros de altitude, até o litoral, o parque protege paisagens que mudam radicalmente conforme a altitude, a quantidade de chuva e a temperatura. Criado em 1916 como parte do Parque Nacional do Havaí, tornou-se um parque nacional independente em 1961. O nome Haleakalā significa “Casa do Sol” e remete ao mo‘olelo, a narrativa tradicional havaiana de Māui, que capturou o sol para prolongar o dia. O parque abriga mais de 850 espécies de plantas, incluindo a silversword de Haleakalā.",
-      "zh-CN": "火山、雨林和竹林？毛伊岛上的哈莱亚卡拉国家公园三者兼有。公园的范围从毛伊岛上海拔10023英尺的山顶一直延伸到海岸，保护着随海拔、降雨量和气温变化而呈现迥异面貌的景观。它于1916年作为夏威夷国家公园的一部分设立，1961年成为独立的国家公园。哈莱阿卡拉意为“太阳之家”，这一名称呼应了夏威夷口述传说“moʻolelo”中毛伊捉住太阳、延长白昼的故事。"
-    },
-    "quickFacts": {
-      "zh-CN": "前往哈莱阿卡拉山顶观赏日出的游客须提前预约；名额最多提前60天开放。"
-    },
-    "captions": {
-      "en-US": "Bamboo forest, Haleakalā National Park, Maui, Hawaii"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Haleakala+National+Park&form=hpcapt&filters=HpDate%3a%2220261106_0800%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.PipiwaiTrail_EN-US0631882545"
-    }
-  },
-  "Megaptera": {
-    "name": "Megaptera",
-    "urlbase": "/th?id=OHR.Megaptera_EN-GB2786065203",
-    "date": "20261120",
-    "dateFormatted": "November 20, 2026",
+  "RedNice": {
+    "name": "RedNice",
+    "urlbase": "/th?id=OHR.RedNice_EN-GB3371662260",
+    "date": "20261121",
+    "dateFormatted": "November 21, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1881,82 +1881,82 @@
       }
     ],
     "titles": {
-      "en-GB": "Feasting in the fjords. Diving humpback whale, Kvaloya, Troms, Northern Norway",
-      "en-CA": "Feasting in the fjords. Diving humpback whale, Kvaloya, Troms, Northern Norway",
-      "de-DE": "Festmahl in den Fjorden. Tauchender Buckelwal, Norwegen",
-      "fr-FR": "Festin dans les fjords. Plongée dans les eaux glacées, Kvaløya",
-      "it-IT": "A banchetto tra i fiordi",
-      "es-ES": "Un festín en los fiordos. Ballena jorobada sumergiéndose, Kvaløya, Noruega",
-      "pt-BR": "Banquete entre fiordes",
-      "ja-JP": "フィヨルドを訪れる冬の使者. 潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー",
-      "zh-CN": "正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛",
-      "en-IN": "Feasting in the fjords. Diving humpback whale, Kvaloya, Troms, Northern Norway",
-      "en-US": "Feasting in the fjords. Diving humpback whale, Kvaloya, Troms, Northern Norway"
+      "en-GB": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
+      "en-CA": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
+      "de-DE": "Ein Traum aus Terrakotta. Nizza, Provence-Alpes-Côte d'Azur, Frankreich",
+      "fr-FR": "Mosaïque de terre cuite. Nice, Provence-Alpes-Côte d'Azur",
+      "it-IT": "Un sogno color terracotta",
+      "es-ES": "Sueños de terracota. Niza, Provenza-Alpes-Costa Azul, Francia",
+      "pt-BR": "Sonhos em terracota",
+      "ja-JP": "テラコッタ色に染まる街. ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス",
+      "zh-CN": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯",
+      "en-IN": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
+      "en-US": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France"
     },
     "copyrights": {
-      "en-GB": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
-      "en-CA": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
-      "de-DE": "Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures)",
-      "fr-FR": "Baleine à bosse plongeant, Kvaløya, Troms, Norvège (© Espen Bergersen/Minden Pictures)",
-      "it-IT": "Megattera (Megaptera novaeangliae) in immersione, Kvaløya, Troms, Norvegia settentrionale (© Espen Bergersen/Minden Pictures)",
-      "es-ES": "Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega (© Espen Bergersen/Minden Pictures)",
-      "pt-BR": "Baleia-jubarte (Megaptera novaeangliae) mergulhando, Kvaløya, Troms, norte da Noruega (© Espen Bergersen/Minden Pictures)",
-      "ja-JP": "潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)",
-      "zh-CN": "正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)",
-      "en-IN": "Diving humpback whale, Kvaløya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
-      "en-US": "© Espen Bergersen/Minden Pictures"
+      "en-GB": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+      "en-CA": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+      "de-DE": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images)",
+      "fr-FR": "Nice, Provence-Alpes-Côte d'Azur (© Siripong Kaewla-iad/Getty Images)",
+      "it-IT": "Nizza, Provenza-Alpi-Costa Azzurra, Francia (© Siripong Kaewla-iad/Getty Images)",
+      "es-ES": "Niza, Provenza-Alpes-Costa Azul, Francia (© Siripong Kaewla-iad/Getty Images)",
+      "pt-BR": "Nice, Provença-Alpes-Costa Azul, França (© Siripong Kaewla-iad/Getty Images)",
+      "ja-JP": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)",
+      "zh-CN": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)",
+      "en-IN": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+      "en-US": "© Siripong Kaewla-iad/Getty Images"
     },
     "descs": {
-      "en-GB": "Off the coast of Kvaløya in Troms, northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit the region in winter, following migrating herring into the fjords. Humpbacks are known for their remarkable feeding techniques, including bubble-net feeding, in which some whales blow rings or walls of bubbles to corral fish before surging upwards with their mouths open to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquillity in Norway's wild north.",
-      "en-CA": "Off the coast of Kvaløya in Troms, Northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit this region during the winter months, following migrating herring into the fjords. Humpbacks are famous for bubble-net feeding, a remarkable hunting technique in which whales blow rings of bubbles to corral fish before lunging upward, open-mouthed, to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquility in Norway's wild north.",
-      "de-DE": "Vor der Küste von Kvaløya in Troms, im Norden Norwegens, durchstreifen Buckelwale die kalten arktischen Gewässer auf der Suche nach einem ausgiebigen Festmahl. Sie besuchen diese Region in den Wintermonaten und folgen dabei den wandernden Heringsschwärmen in die Fjorde. Buckelwale sind bekannt für ihre „Blasennetz-Jagd“, eine bemerkenswerte Jagdtechnik, bei der die Wale Fischschwärme mit Blasenringen einkreisen, um ihre Beute dann mit weit geöffnetem Maul aufzuschnappen. Auf dem heutigen Bild gleitet ein Buckelwal durch die eisigen Wellen unter einem leuchtenden Pastellhimmel und hält einen Moment der Ruhe im wilden Norden Norwegens fest.",
-      "fr-FR": "Au large de Kvaløya, dans la région de Troms, au nord de la Norvège, des baleines à bosse parcourent les eaux arctiques glacées en quête de nourriture. Elles fréquentent cette zone durant les mois d’hiver, suivant les bancs de harengs qui migrent vers les fjords. Les baleines à bosse sont réputées pour leur technique de chasse au « filet de bulles ». Elles créent des cercles de bulles pour encercler les poissons, avant de remonter en surface, la gueule grande ouverte, pour capturer leurs proies.",
-      "es-ES": "Frente a la costa de Kvaløya, en Troms, al norte de Noruega, las ballenas jorobadas recorren las frías aguas árticas en busca de alimento. Visitan la región durante los meses de invierno mientras siguen a los arenques que migran hacia los fiordos.",
-      "ja-JP": "ノルウェー北部、トロムス県のクヴァロイア島沖には、冬になるとザトウクジラが姿を現します。北極圏の冷たいフィヨルドに、ニシンの群れを追ってやって来るのです。ザトウクジラは、泡の輪で魚の群れを囲い込む「バブルネット・フィーディング」というユニークな方法で知られています。写真は、淡いパステルカラーの空の下、クジラが静かに海へ潜っていく瞬間をとらえたものです。ノルウェー北部の大自然ならではの、穏やかなひとときが伝わってきます。",
-      "en-IN": "Off the coast of Kvaløya in Troms, Northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit this region during the winter months, following migrating herring into the fjords. Humpbacks are famous for bubble-net feeding, a remarkable hunting technique in which whales blow rings of bubbles to corral fish before lunging upwards, open-mouthed, to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquillity in Norway's wild north.",
-      "en-US": "Off the coast of Kvaløya in Troms, Northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit this region during the winter months, following migrating herring into the fjords. Humpbacks are famous for bubble-net feeding, a remarkable hunting technique in which whales blow rings of bubbles to corral fish before lunging upward, open-mouthed, to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquility in Norway's wild north.",
-      "it-IT": "Al largo di Kvaløya, nella Norvegia settentrionale, le megattere attraversano le acque artiche alla ricerca di un ricco banchetto. Durante l'inverno, queste enormi balene seguono i banchi di aringhe che migrano nei fiordi e, per catturarle, usano una spettacolare tecnica di caccia: soffiando anelli di bolle nel mare radunano i pesci nella stessa zona, per poi risalire verso la superficie a bocca spalancata. Nell’immagine di oggi, una megattera scivola sotto le acque gelide mentre il cielo si tinge di delicate sfumature pastello, regalando un momento di quiete nella natura selvaggia del nord della Norvegia.",
-      "pt-BR": "Ao largo da costa de Kvaløya, em Troms, no norte da Noruega, baleias-jubarte percorrem as frias águas do Ártico em busca de um verdadeiro banquete. Elas visitam essa região durante os meses de inverno, acompanhando os cardumes de arenque que migram para os fiordes. As jubartes são famosas pela técnica de caça conhecida como “rede de bolhas”, um método impressionante em que as baleias soltam anéis de bolhas para cercar os peixes antes de subirem rapidamente, de boca aberta, para capturar suas presas. Na imagem de hoje, uma baleia-jubarte desliza sob as ondas geladas, sob um céu iluminado em tons pastel, registrando um momento de tranquilidade na natureza selvagem do norte da Noruega.",
-      "zh-CN": "在挪威北部特罗姆斯的克瓦尔岛近海，座头鲸穿行于寒冷的北极海水中，寻找一顿丰盛的美餐。冬季，它们追随迁徙的鲱鱼进入峡湾，来到这一地区。座头鲸以气泡网捕食闻名：这种非凡的狩猎技巧是鲸鱼吹出一圈圈气泡，将鱼群围拢，然后张开大嘴向上猛冲，捕获猎物。在今天的图片中，一头座头鲸在柔和的霞光下潜入冰冷的波浪，定格了挪威北部荒野中宁静的一刻。"
+      "en-GB": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by the ancient Greeks and long associated with the Italian House of Savoy, Nice officially became part of France in 1860. Today, its layered past remains visible throughout this coastal city in the south of France, where historic architecture meets the blue waters of the Mediterranean and the sunlit hills of the Côte d'Azur.",
+      "en-CA": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+      "de-DE": "In sanftes Sonnenlicht getaucht, präsentiert sich die Altstadt von Nizza auf dem heutigen Bild als ein Mosaik aus mediterranen Terrakotta-Dächern, alten Kirchtürmen und Häuserfassaden in Pastelltönen entlang der französischen Riviera. Von den alten Griechen gegründet und lange Zeit mit dem italienischen Königshaus Savoyen verbunden, wurde Nizza 1860 offiziell Teil Frankreichs. Bis heute ist diese facettenreiche Vergangenheit in der südfranzösischen Küstenstadt sichtbar, wo Architektur der alten Welt auf das Blau des Mittelmeers und die sonnigen Hügel der Côte d’Azur trifft.",
+      "fr-FR": "Baigné de lumière, le quartier du Vieux-Nice est constitué d’une mosaïque de toits en terre cuite, d’églises historiques et de façades aux couleurs ocre. Fondée par les Grecs de l’Antiquité et longtemps liée à la maison royale italienne de Savoie, Nice a officiellement été rattachée à la France en 1860. Aujourd’hui, son passé riche et varié demeure perceptible dans toute la ville, où une architecture d’antan côtoie les eaux bleues de la Méditerranée.",
+      "es-ES": "Bañada por una luz dorada, Niza forma un mosaico de tejados de terracota, iglesias históricas y fachadas en tonos pastel junto a la Riviera francesa. Fundada por los antiguos griegos y vinculada durante siglos a la casa real italiana de Saboya, Niza pasó oficialmente a formar parte de Francia en 1860.",
+      "ja-JP": "テラコッタ色に染まる街. ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス. やわらかな陽光に包まれたニースは、テラコッタ色の屋根や歴史ある教会、パステルカラーの建物が寄り集まった、まるでパッチワークのような街です。古代ギリシャ人によって築かれたこの街は、長くサヴォイア家と深い関わりを持ち、正式にフランス領となったのは1860年でした。今も旧市街にはイタリアの面影が残り、古い街並みが紺碧の地中海と陽光あふれるコート・ダジュールの丘に溶け込んでいます。",
+      "en-IN": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+      "en-US": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches, and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+      "it-IT": "Avvolta da una luce dorata, Nizza si presenta nella foto di oggi come un mosaico di tetti in terracotta, chiese storiche e facciate color pastello sul litorale della Costa Azzurra. Fondata dagli antichi Greci e a lungo legata ai Savoia, la città diventò ufficialmente francese nel 1860. Ancora oggi le tracce del suo passato si incontrano in ogni angolo, tra eleganti architetture d’altri tempi, colline assolate e le acque azzurre del Mediterraneo, che fanno da scenario a questa affascinante città del sud della Francia.",
+      "pt-BR": "Banhada por uma luz dourada do sol, Nice forma um mosaico de telhados de terracota, igrejas históricas e fachadas em tons pastel ao longo da Riviera Francesa, como mostra a imagem de hoje. Fundada pelos antigos gregos e por muito tempo ligada à Casa de Saboia, a dinastia real italiana, Nice tornou-se oficialmente parte da França em 1860. Hoje, esse passado marcado por diferentes influências ainda pode ser visto por toda essa cidade costeira do sul da França, onde a arquitetura de traços históricos encontra as águas azuis do Mediterrâneo e as colinas banhadas pelo sol da Côte d'Azur.",
+      "zh-CN": "在今天的图片中，尼斯沐浴在温暖的阳光下：赤陶色屋顶、历史悠久的教堂和柔和色调的建筑外墙，拼成法国蔚蓝海岸的一幅斑斓图景。尼斯由古希腊人建立，长期与意大利王室萨伏依王朝有着渊源，并于1860年正式成为法国的一部分。如今，在这座位于法国南部的海滨城市，那段层层叠叠的历史依然随处可见：古老的建筑与蔚蓝的地中海海水、蔚蓝海岸阳光照耀的山丘交相辉映。"
     },
     "quickFacts": {
-      "zh-CN": "座头鲸尾鳍上的独特斑纹、形状和伤疤，能帮助研究人员识别不同个体，并长期追踪它们的行踪。"
+      "zh-CN": "1824年，英国游客在尼斯海滨开辟了一条小路，后来逐渐发展为享有盛誉的英国人步行大道（Promenade des Anglais）。"
     },
     "captions": {
-      "en-GB": "Diving humpback whale, Kvaloya, Troms, Northern Norway",
-      "en-CA": "Diving humpback whale, Kvaloya, Troms, Northern Norway",
-      "de-DE": "Tauchender Buckelwal, Norwegen",
-      "fr-FR": "Plongée dans les eaux glacées, Kvaløya",
+      "en-GB": "Nice, Provence-Alpes-Côte d'Azur, France",
+      "en-CA": "Nice, Provence-Alpes-Côte d'Azur, France",
+      "de-DE": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich",
+      "fr-FR": "Nice, Provence-Alpes-Côte d'Azur",
       "it-IT": "",
-      "es-ES": "Ballena jorobada sumergiéndose, Kvaløya, Noruega",
+      "es-ES": "Niza, Provenza-Alpes-Costa Azul, Francia",
       "pt-BR": "",
-      "ja-JP": "潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー",
+      "ja-JP": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス",
       "zh-CN": "",
-      "en-IN": "Diving humpback whale, Kvaloya, Troms, Northern Norway"
+      "en-IN": "Nice, Provence-Alpes-Côte d'Azur, France"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261120_0000%22",
-      "en-CA": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261120_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Buckelwal&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=baleine+%c3%a0+bosse&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
-      "it-IT": "https://www.bing.com/search?q=megattera&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=ballenas+jorobadas&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=baleias-jubarte&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b6%e3%83%88%e3%82%a6%e3%82%af%e3%82%b8%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220261119_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%ba%a7%e5%a4%b4%e9%b2%b8&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261119_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Nizza+Frankreich&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Nizza+Francia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Niza+Francia&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Nice+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8b%e3%83%bc%e3%82%b9+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261120_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e5%b0%bc%e6%96%af&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261120_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.Megaptera_EN-GB2786065203",
-      "en-CA": "/th?id=OHR.Megaptera_EN-CA5111539661",
-      "de-DE": "/th?id=OHR.Megaptera_DE-DE6966438629",
-      "fr-FR": "/th?id=OHR.Megaptera_FR-FR4844041131",
-      "it-IT": "/th?id=OHR.Megaptera_IT-IT1232088954",
-      "es-ES": "/th?id=OHR.Megaptera_ES-ES5370739195",
-      "pt-BR": "/th?id=OHR.Megaptera_PT-BR4336826763",
-      "ja-JP": "/th?id=OHR.Megaptera_JA-JP4163269980",
-      "zh-CN": "/th?id=OHR.Megaptera_ZH-CN3361807823",
-      "en-IN": "/th?id=OHR.Megaptera_EN-IN2800635615"
+      "en-GB": "/th?id=OHR.RedNice_EN-GB3371662260",
+      "en-CA": "/th?id=OHR.RedNice_EN-CA5974961332",
+      "de-DE": "/th?id=OHR.RedNice_DE-DE7638538750",
+      "fr-FR": "/th?id=OHR.RedNice_FR-FR1499556885",
+      "it-IT": "/th?id=OHR.RedNice_IT-IT2041247927",
+      "es-ES": "/th?id=OHR.RedNice_ES-ES5584986553",
+      "pt-BR": "/th?id=OHR.RedNice_PT-BR5183216039",
+      "ja-JP": "/th?id=OHR.RedNice_JA-JP4725682184",
+      "zh-CN": "/th?id=OHR.RedNice_ZH-CN3518429866",
+      "en-IN": "/th?id=OHR.RedNice_EN-IN2901720503"
     }
   },
   "PoppiesField": {
@@ -2205,6 +2205,70 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
+    }
+  },
+  "PipiwaiTrail": {
+    "name": "PipiwaiTrail",
+    "urlbase": "/th?id=OHR.PipiwaiTrail_EN-US0631882545",
+    "date": "20261106",
+    "dateFormatted": "November 06, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii",
+      "en-GB": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii",
+      "en-CA": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii",
+      "de-DE": "Ein grüner Tunnel durch Maui. Bambuswald, Haleakalā-Nationalpark, Maui, Hawaii",
+      "fr-FR": "Toit de verdure à travers Maui. Parc national de Haleakalā, Maui, Hawaii",
+      "it-IT": "Un tunnel verde nel cuore di Maui",
+      "es-ES": "Un túnel verde que atraviesa Maui. Bosque de bambú, Parque Nacional Haleakalā, Maui, Hawái",
+      "pt-BR": "O portal verde de Maui",
+      "ja-JP": "マウイ島を抜ける緑のトンネル. 竹林、ハレアカラ国立公園、マウイ島、ハワイ",
+      "zh-CN": "穿越毛伊岛的绿色隧道",
+      "en-IN": "A green tunnel through Maui. Bamboo forest, Haleakalā National Park, Maui, Hawaii"
+    },
+    "copyrights": {
+      "en-US": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)",
+      "en-GB": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+      "en-CA": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+      "de-DE": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+      "fr-FR": "Forêt de bambous, Pīpīwai Trail, Hawaii, États-Unis (© MNStudio/Getty Images)",
+      "it-IT": "Foresta di Bambù, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+      "es-ES": "Bosque de Bambú, Sendero Pīpīwai, Parque Nacional Haleakalā, Maui, Hawái, EE. UU. (© MNStudio/Getty Images)",
+      "pt-BR": "Floresta de bambu, Trilha Pīpīwai, Parque Nacional de Haleakalā, Maui, Havaí, Estados Unidos (© MNStudio/Getty Images)",
+      "ja-JP": "ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images)",
+      "zh-CN": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)",
+      "en-IN": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)"
+    },
+    "descs": {
+      "en-US": "A volcano, a rainforest, and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 10,023-foot summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall, and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun,' reflecting the Hawaiian mo'olelo of Māui capturing the sun to lengthen the day.",
+      "en-GB": "A volcano, a rainforest and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 3,055-metre summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun', reflecting the Hawaiian mo'olelo of Māui capturing the Sun to lengthen the day.",
+      "en-CA": "Haleakalā National Park on Maui is home to an extraordinary mix of landscapes, from volcanic slopes and rainforest to towering bamboo forests. The park stretches from the summit of Haleakalā, which rises 3,055 metres above sea level, to the Pacific coast. More than 850 plant species grow here, including some found nowhere else on Earth, alongside native Hawaiian wildlife. One of the park's most popular walks is the Pīpīwai Trail, which winds through lush forest before reaching a remarkable bamboo grove. As the bamboo sways in the breeze, its tall stalks create distinctive sounds that add to the unique experience.",
+      "de-DE": "Ein Vulkan, ein Regenwald und ein Bambushain? Der Haleakalā-Nationalpark auf Maui bietet all das. Der Park erstreckt sich über die gesamte Insel Maui, vom 3.055 Meter hohen Gipfel bis zur Küste, und schützt Landschaften, die sich je nach Höhe, Niederschlagsmenge und Temperatur dramatisch verändern. Er wurde 1916 als Teil des Hawaii-Nationalparks gegründet und 1961 zu einem eigenständigen Nationalpark erklärt. Der Name Haleakalā bedeutet übersetzt „Haus der Sonne“ und spiegelt die hawaiianische Legende (mo’olelo) wider, wonach Māui die Sonne einfing, um den Tag zu verlängern.",
+      "fr-FR": "Un volcan, une forêt tropicale, une bambouseraie… Le parc national de Haleakalā, sur l’île de Maui, réunit bien ces trois éléments. De son sommet, à 3 000 mètres d’altitude, jusqu’à la côte, le parc abrite des paysages qui varient considérablement. Haleakalā signifie « Maison du Soleil », en référence au mo'olelo hawaïen selon lequel le demi-dieu Māui aurait capturé le soleil pour prolonger la journée.",
+      "es-ES": "¿Un volcán, una selva tropical y un bosque de bambú? El Parque Nacional Haleakalā, en Maui, tiene los tres. El parque se extiende desde la cumbre de Maui, a 3.055 metros de altura, hasta la costa, y protege paisajes que cambian radicalmente según la altitud, las precipitaciones y la temperatura. Fue establecido en 1916 como parte del Parque Nacional de Hawái y se convirtió en un parque nacional independiente en 1961. El nombre Haleakalā significa “Casa del Sol” y hace referencia al mo'olelo hawaiano en el que Māui atrapa al sol para prolongar el día.",
+      "ja-JP": "マウイ島のハレアカラ国立公園は、標高約3,055メートルの山頂から海岸まで、火山や熱帯雨林など変化に富んだ自然が広がっています。キパフル地区にあるピピワイ・トレイルをたどると、緑豊かな森の先に見事な竹林が現れます。歩き始めて約1.6キロ進むと、頭上を覆うように竹が生い茂り、まるで緑のトンネルの中を歩いているようです。風が吹くと竹同士が触れ合い、独特の音が辺りに響きます。",
+      "en-IN": "A volcano, a rainforest and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 3,055-metre summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun', reflecting the Hawaiian mo'olelo of Māui capturing the Sun to lengthen the day.",
+      "it-IT": "Un vulcano, una rigogliosa foresta pluviale e distese di bambù: l’Haleakalā National Park di Maui racchiude paesaggi straordinariamente diversi. Dalla vetta, a oltre 3.000 metri, fino alla costa, lo scenario cambia con l’altitudine, le piogge e le temperature. Il nome Haleakalā significa “Casa del Sole” e richiama un’antica leggenda hawaiana, secondo cui Māui catturò il sole per allungare le giornate. Nel distretto di Kīpahulu, il Pīpīwai Trail conduce alla celebre foresta di bambù, dove gli alti fusti formano una volta verde sopra il sentiero e, mossi dal vento, si urtano tra loro producendo un caratteristico ticchettio.",
+      "pt-BR": "Um vulcão, uma floresta tropical e um bambuzal? O Parque Nacional de Haleakalā, em Maui, tem os três. Do cume, a cerca de 3.055 metros de altitude, até o litoral, o parque protege paisagens que mudam radicalmente conforme a altitude, a quantidade de chuva e a temperatura. Criado em 1916 como parte do Parque Nacional do Havaí, tornou-se um parque nacional independente em 1961. O nome Haleakalā significa “Casa do Sol” e remete ao mo‘olelo, a narrativa tradicional havaiana de Māui, que capturou o sol para prolongar o dia. O parque abriga mais de 850 espécies de plantas, incluindo a silversword de Haleakalā.",
+      "zh-CN": "火山、雨林和竹林？毛伊岛上的哈莱亚卡拉国家公园三者兼有。公园的范围从毛伊岛上海拔10023英尺的山顶一直延伸到海岸，保护着随海拔、降雨量和气温变化而呈现迥异面貌的景观。它于1916年作为夏威夷国家公园的一部分设立，1961年成为独立的国家公园。哈莱阿卡拉意为“太阳之家”，这一名称呼应了夏威夷口述传说“moʻolelo”中毛伊捉住太阳、延长白昼的故事。"
+    },
+    "quickFacts": {
+      "zh-CN": "前往哈莱阿卡拉山顶观赏日出的游客须提前预约；名额最多提前60天开放。"
+    },
+    "captions": {
+      "en-US": "Bamboo forest, Haleakalā National Park, Maui, Hawaii"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Haleakala+National+Park&form=hpcapt&filters=HpDate%3a%2220261106_0800%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.PipiwaiTrail_EN-US0631882545"
     }
   },
   "StileCrossing": {
