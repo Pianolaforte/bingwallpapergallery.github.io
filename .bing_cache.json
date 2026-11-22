@@ -1,4 +1,148 @@
 {
+  "RedNice": {
+    "name": "RedNice",
+    "urlbase": "/th?id=OHR.RedNice_EN-US9978351403",
+    "date": "20261121",
+    "dateFormatted": "November 21, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
+      "en-GB": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
+      "en-CA": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
+      "de-DE": "Ein Traum aus Terrakotta. Nizza, Provence-Alpes-Côte d'Azur, Frankreich",
+      "fr-FR": "Mosaïque de terre cuite. Nice, Provence-Alpes-Côte d'Azur",
+      "it-IT": "Un sogno color terracotta",
+      "es-ES": "Sueños de terracota. Niza, Provenza-Alpes-Costa Azul, Francia",
+      "pt-BR": "Sonhos em terracota",
+      "ja-JP": "テラコッタ色に染まる街. ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス",
+      "zh-CN": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯",
+      "en-IN": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France"
+    },
+    "copyrights": {
+      "en-US": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+      "en-GB": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+      "en-CA": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+      "de-DE": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images)",
+      "fr-FR": "Nice, Provence-Alpes-Côte d'Azur (© Siripong Kaewla-iad/Getty Images)",
+      "it-IT": "Nizza, Provenza-Alpi-Costa Azzurra, Francia (© Siripong Kaewla-iad/Getty Images)",
+      "es-ES": "Niza, Provenza-Alpes-Costa Azul, Francia (© Siripong Kaewla-iad/Getty Images)",
+      "pt-BR": "Nice, Provença-Alpes-Costa Azul, França (© Siripong Kaewla-iad/Getty Images)",
+      "ja-JP": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)",
+      "zh-CN": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)",
+      "en-IN": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches, and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+      "en-GB": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by the ancient Greeks and long associated with the Italian House of Savoy, Nice officially became part of France in 1860. Today, its layered past remains visible throughout this coastal city in the south of France, where historic architecture meets the blue waters of the Mediterranean and the sunlit hills of the Côte d'Azur.",
+      "en-CA": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+      "de-DE": "In sanftes Sonnenlicht getaucht, präsentiert sich die Altstadt von Nizza auf dem heutigen Bild als ein Mosaik aus mediterranen Terrakotta-Dächern, alten Kirchtürmen und Häuserfassaden in Pastelltönen entlang der französischen Riviera. Von den alten Griechen gegründet und lange Zeit mit dem italienischen Königshaus Savoyen verbunden, wurde Nizza 1860 offiziell Teil Frankreichs. Bis heute ist diese facettenreiche Vergangenheit in der südfranzösischen Küstenstadt sichtbar, wo Architektur der alten Welt auf das Blau des Mittelmeers und die sonnigen Hügel der Côte d’Azur trifft.",
+      "fr-FR": "Baigné de lumière, le quartier du Vieux-Nice est constitué d’une mosaïque de toits en terre cuite, d’églises historiques et de façades aux couleurs ocre. Fondée par les Grecs de l’Antiquité et longtemps liée à la maison royale italienne de Savoie, Nice a officiellement été rattachée à la France en 1860. Aujourd’hui, son passé riche et varié demeure perceptible dans toute la ville, où une architecture d’antan côtoie les eaux bleues de la Méditerranée.",
+      "es-ES": "Bañada por una luz dorada, Niza forma un mosaico de tejados de terracota, iglesias históricas y fachadas en tonos pastel junto a la Riviera francesa. Fundada por los antiguos griegos y vinculada durante siglos a la casa real italiana de Saboya, Niza pasó oficialmente a formar parte de Francia en 1860.",
+      "ja-JP": "テラコッタ色に染まる街. ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス. やわらかな陽光に包まれたニースは、テラコッタ色の屋根や歴史ある教会、パステルカラーの建物が寄り集まった、まるでパッチワークのような街です。古代ギリシャ人によって築かれたこの街は、長くサヴォイア家と深い関わりを持ち、正式にフランス領となったのは1860年でした。今も旧市街にはイタリアの面影が残り、古い街並みが紺碧の地中海と陽光あふれるコート・ダジュールの丘に溶け込んでいます。",
+      "en-IN": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+      "it-IT": "Avvolta da una luce dorata, Nizza si presenta nella foto di oggi come un mosaico di tetti in terracotta, chiese storiche e facciate color pastello sul litorale della Costa Azzurra. Fondata dagli antichi Greci e a lungo legata ai Savoia, la città diventò ufficialmente francese nel 1860. Ancora oggi le tracce del suo passato si incontrano in ogni angolo, tra eleganti architetture d’altri tempi, colline assolate e le acque azzurre del Mediterraneo, che fanno da scenario a questa affascinante città del sud della Francia.",
+      "pt-BR": "Banhada por uma luz dourada do sol, Nice forma um mosaico de telhados de terracota, igrejas históricas e fachadas em tons pastel ao longo da Riviera Francesa, como mostra a imagem de hoje. Fundada pelos antigos gregos e por muito tempo ligada à Casa de Saboia, a dinastia real italiana, Nice tornou-se oficialmente parte da França em 1860. Hoje, esse passado marcado por diferentes influências ainda pode ser visto por toda essa cidade costeira do sul da França, onde a arquitetura de traços históricos encontra as águas azuis do Mediterrâneo e as colinas banhadas pelo sol da Côte d'Azur.",
+      "zh-CN": "在今天的图片中，尼斯沐浴在温暖的阳光下：赤陶色屋顶、历史悠久的教堂和柔和色调的建筑外墙，拼成法国蔚蓝海岸的一幅斑斓图景。尼斯由古希腊人建立，长期与意大利王室萨伏依王朝有着渊源，并于1860年正式成为法国的一部分。如今，在这座位于法国南部的海滨城市，那段层层叠叠的历史依然随处可见：古老的建筑与蔚蓝的地中海海水、蔚蓝海岸阳光照耀的山丘交相辉映。"
+    },
+    "quickFacts": {
+      "zh-CN": "1824年，英国游客在尼斯海滨开辟了一条小路，后来逐渐发展为享有盛誉的英国人步行大道（Promenade des Anglais）。"
+    },
+    "captions": {
+      "en-US": "Nice, Provence-Alpes-Côte d'Azur, France",
+      "en-GB": "Nice, Provence-Alpes-Côte d'Azur, France",
+      "en-CA": "Nice, Provence-Alpes-Côte d'Azur, France",
+      "de-DE": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich",
+      "fr-FR": "Nice, Provence-Alpes-Côte d'Azur",
+      "it-IT": "",
+      "es-ES": "Niza, Provenza-Alpes-Costa Azul, Francia",
+      "pt-BR": "",
+      "ja-JP": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス",
+      "zh-CN": "",
+      "en-IN": "Nice, Provence-Alpes-Côte d'Azur, France"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Nizza+Frankreich&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Nizza+Francia&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Niza+Francia&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Nice+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%8b%e3%83%bc%e3%82%b9+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261120_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e5%b0%bc%e6%96%af&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261120_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.RedNice_EN-US9978351403",
+      "en-GB": "/th?id=OHR.RedNice_EN-GB3371662260",
+      "en-CA": "/th?id=OHR.RedNice_EN-CA5974961332",
+      "de-DE": "/th?id=OHR.RedNice_DE-DE7638538750",
+      "fr-FR": "/th?id=OHR.RedNice_FR-FR1499556885",
+      "it-IT": "/th?id=OHR.RedNice_IT-IT2041247927",
+      "es-ES": "/th?id=OHR.RedNice_ES-ES5584986553",
+      "pt-BR": "/th?id=OHR.RedNice_PT-BR5183216039",
+      "ja-JP": "/th?id=OHR.RedNice_JA-JP4725682184",
+      "zh-CN": "/th?id=OHR.RedNice_ZH-CN3518429866",
+      "en-IN": "/th?id=OHR.RedNice_EN-IN2901720503"
+    }
+  },
   "Megaptera": {
     "name": "Megaptera",
     "urlbase": "/th?id=OHR.Megaptera_EN-US1728719939",
@@ -801,7 +945,7 @@
       "es-ES": "Follaje escarchado. Escarcha sobre hojas de azalea",
       "pt-BR": "Vermelho abaixo de zero",
       "ja-JP": "霜化粧の葉. ツツジの葉に降りた霜",
-      "zh-CN": "覆霜的红叶杜鹃",
+      "zh-CN": "霜染枝叶",
       "en-IN": "Frosty foliage. Frost on azalea foliage"
     },
     "copyrights": {
@@ -824,7 +968,7 @@
       "de-DE": "Während der erste Herbstfrost über das Land zieht, bilden sich Eiskristalle auf den Blättern immergrüner Sträucher wie dieser Azalee. Die Rosa-, Orange- und Gelbtöne ihrer Frühlingsblüte sind längst verschwunden und nun erwartet uns ein neues farbenfrohes Schauspiel, bei dem sich die grünen Blätter in Rot- und Violetttöne verwandeln. Diese neuen Pigmente schützen die Blätter der Pflanzen vor den sinkenden Temperaturen, während sie Gärtnern prächtige Herbstfarben liefern, eingerahmt von weißem Raureif. Im Frühling wachsen neue grüne Triebe und dann beginnt der bunte Kreislauf von Neuem.",
       "fr-FR": "Alors que les premières gelées automnales apparaissent, des cristaux de glace se forment sur les arbustes à feuillage persistant, comme cette azalée. Les teintes roses, orangées et jaunes du printemps ont depuis longtemps disparu, mais un nouveau spectacle coloré s'annonce : le feuillage vert se pare alors de nuances rouges et pourpres.",
       "es-ES": "A medida que las primeras heladas del otoño avanzan por el sur, se forman cristales de hielo sobre las hojas de arbustos perennes, como esta azalea. Atrás quedan los tonos rosas, naranjas y amarillos de la floración primaveral, pero comienza un nuevo espectáculo de color: las hojas verdes adquieren tonalidades rojas y moradas.",
-      "ja-JP": "霜化粧の葉. 赤い葉に霜が降りたツツジ. 初霜が降りると、常緑低木のツツジの葉に氷の結晶ができます。気温が下がると、緑の葉は赤や紫に色づきます。このときつくられる新しい色素が、葉を寒さから守っているのです。白い霜をまとった赤い葉は、秋の庭をひときわ鮮やかに彩ります。春になれば新しい葉が出て、また緑に包まれます。",
+      "ja-JP": "初霜が降りると、常緑低木のツツジの葉に氷の結晶ができます。気温が下がると、緑の葉は赤や紫に色づきます。このときつくられる新しい色素が、葉を寒さから守っているのです。白い霜をまとった赤い葉は、秋の庭をひときわ鮮やかに彩ります。春になれば新しい葉が出て、また緑に包まれます。",
       "en-IN": "As autumn's first frost sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves and the colourful cycle begins anew.",
       "it-IT": "Con le prime gelate autunnali, i cristalli di ghiaccio ricoprono le foglie degli arbusti sempreverdi, come nel caso di questa azalea. I colori rosa, arancione e giallo della fioritura primaverile sono un lontano ricordo, con l’autunno che porta con sé un nuovo spettacolo, tingendo le foglie di rosso e viola. Questi pigmenti aiutano la pianta a proteggere le foglie quando scendono le temperature e, allo stesso tempo, regalano un vivace tocco di colore, sfumato dalla brina. Con l’arrivo della primavera, i nuovi germogli riporteranno il verde sull’arbusto, dando nuovamente il via al colorato ciclo delle stagioni.",
       "pt-BR": "À medida que as primeiras geadas do outono avançam pelo sul, cristais de gelo se formam nas folhas de arbustos de folhagem perene, como esta azaleia. Já ficaram para trás os tons de rosa, laranja e amarelo de sua floração na primavera, mas um novo espetáculo de cores surge quando as folhas verdes ganham tonalidades de vermelho e roxo. Para as plantas, esses novos pigmentos protegem as folhas à medida que as temperaturas caem; para os jardineiros, criam um vibrante cenário de outono emoldurado pela geada branca. Quando a primavera chega, os novos brotos devolvem ao arbusto sua folhagem verde, e o ciclo de cores recomeça.",
@@ -1627,60 +1771,15 @@
         "flag": "us"
       },
       {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
         "code": "en-CA",
         "name": "CA",
         "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
       "en-US": "A celebration that shines. Diwali (Festival of Lights)",
-      "en-GB": "A celebration that shines. Diwali (Festival of Lights)",
       "en-CA": "A celebration that shines. Diwali (Festival of Lights)",
+      "en-GB": "A celebration that shines. Diwali (Festival of Lights)",
       "de-DE": "Ein strahlendes Fest. Diwali, das Lichterfest",
       "fr-FR": "Célébration qui scintille. Diwali (Fête des lumières)",
       "it-IT": "Una festa che illumina",
@@ -1692,8 +1791,8 @@
     },
     "copyrights": {
       "en-US": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "en-GB": "Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
       "en-CA": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "en-GB": "Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
       "de-DE": "Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)",
       "fr-FR": "Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)",
       "it-IT": "Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
@@ -1705,8 +1804,8 @@
     },
     "descs": {
       "en-US": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets, and family gatherings.",
-      "en-GB": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets and family gatherings.",
       "en-CA": "Diwali, the Festival of Lights, is celebrated by millions of people around the world, including vibrant communities across Canada. Rooted in the Sanskrit word dipavali, meaning “row of lights,” the festival symbolizes the triumph of light over darkness and hope over adversity. Families and friends gather to light diyas and lanterns, create colourful rangoli, share sweets and take part in prayers and celebrations. While traditions vary across regions and faiths, Diwali is widely recognized as a time of reflection, gratitude and togetherness. As communities across Canada come together to celebrate, the festival continues to brighten neighbourhoods, workplaces and schools with its message of unity, joy and renewal.",
+      "en-GB": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets and family gatherings.",
       "de-DE": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
       "fr-FR": "Que se passe-t-il quand une nuit sombre donne lieu à la célébration la plus lumineuse de l’année ? Diwali, qui signifie « rangée de lumières » en sanskrit, a lieu lors de la nuit de la nouvelle lune du mois hindou de Kartik. À travers l'Inde, cette célébration s'accompagne de récits et de traditions variés. Durant 5 jours, elle est ponctuée par l’allumage des diyas (lampes à huile), pour symboliser la lumière, le nettoyage de la maison, des prières, des rangolis sur le sol, des échanges de cadeaux et des réunions familiales.",
       "es-ES": "¿Qué sucede cuando la noche más oscura se llena de luz? Llega Diwali. El Festival de las Luces es celebrado por millones de personas en todo el mundo y reúne diyas, linternas, rangoli, oraciones, dulces y encuentros familiares.",
@@ -1721,123 +1820,27 @@
     },
     "captions": {
       "en-US": "Diwali (Festival of Lights)",
-      "en-GB": "Diwali (Festival of Lights)",
-      "en-CA": "Diwali (Festival of Lights)",
-      "de-DE": "Diwali, das Lichterfest",
-      "fr-FR": "Diwali (Fête des lumières)",
-      "it-IT": "",
-      "es-ES": "Diwali (Festival de las luces)",
-      "pt-BR": "",
-      "ja-JP": "ディーワーリー（光の祭典）",
-      "zh-CN": "",
-      "en-IN": "Happy Diwali!"
+      "en-CA": "Diwali (Festival of Lights)"
     },
     "copyrightlinks": {
       "en-US": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0800%22",
-      "en-GB": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Diwali&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=diwali+festival+das+luzes&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%af%e3%83%bc%e3%83%aa%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220261107_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%8e%92%e7%81%af%e8%8a%82&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_1830%22"
+      "en-CA": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0500%22"
     },
     "urlbases": {
       "en-US": "/th?id=OHR.DiwaliLamps_EN-US0788074051",
-      "en-GB": "/th?id=OHR.DiwaliLamps_EN-GB4404345220",
-      "en-CA": "/th?id=OHR.DiwaliLamps_EN-CA5815375040",
-      "de-DE": "/th?id=OHR.DiwaliLamps_DE-DE0703233561",
-      "fr-FR": "/th?id=OHR.DiwaliLamps_FR-FR3288508792",
-      "it-IT": "/th?id=OHR.DiwaliLamps_IT-IT6072370244",
-      "es-ES": "/th?id=OHR.DiwaliLamps_ES-ES3505917135",
-      "pt-BR": "/th?id=OHR.DiwaliLamps_PT-BR7355901557",
-      "ja-JP": "/th?id=OHR.DiwaliLamps_JA-JP0443643151",
-      "zh-CN": "/th?id=OHR.DiwaliLamps_ZH-CN2462894749",
-      "en-IN": "/th?id=OHR.DiwaliLamps_EN-IN0900276687"
+      "en-CA": "/th?id=OHR.DiwaliLamps_EN-CA5815375040"
     }
   },
-  "DakotaBison": {
-    "name": "DakotaBison",
-    "urlbase": "/th?id=OHR.DakotaBison_EN-US0710175615",
-    "date": "20261107",
-    "dateFormatted": "November 07, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "The giant that came back. National Bison Day",
-      "en-GB": "Roaming the grasslands. A bison in Theodore Roosevelt National Park, USA",
-      "en-CA": "The giant that came back. Bison",
-      "de-DE": "Der zurückgekehrte Riese. Ein Bison in Nord-Dakota, USA",
-      "fr-FR": "Un géant de retour. Sauvage et libre",
-      "it-IT": "Il ritorno del gigante",
-      "es-ES": "El gigante que regresó para quedarse. Bisonte Americano",
-      "pt-BR": "O grandão está de volta",
-      "ja-JP": "よみがえった草原の巨人. セオドア・ルーズベルト国立公園のアメリカバイソン",
-      "zh-CN": "归来的草原巨兽",
-      "en-IN": "Roaming the grasslands. A bison in Theodore Roosevelt National Park, USA"
-    },
-    "copyrights": {
-      "en-US": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)",
-      "en-GB": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
-      "en-CA": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
-      "de-DE": "Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock)",
-      "fr-FR": "Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)",
-      "it-IT": "Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock)",
-      "es-ES": "Un bisonte en los pastizales del Parque Nacional Theodore Roosevelt, Dakota del Norte, EE. UU. (© Tandem Stock/Adobe Stock)",
-      "pt-BR": "Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)",
-      "ja-JP": "セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)",
-      "zh-CN": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)",
-      "en-IN": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)"
-    },
-    "descs": {
-      "en-US": "When the going gets tough, the bison gets grazing. National Bison Day celebrates the North American mammal that can weigh up to 2,000 pounds yet sprint at 35 mph. Observed on the first Saturday of November, the day honors the bovine that became the United States' national mammal in 2016.",
-      "en-GB": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
-      "en-CA": "One of North America's most remarkable animals, the bison is a powerful symbol of strength, resilience and conservation. Weighing as much as 900 kilograms (2,000 pounds) and capable of running up to 55 km/h (35 mph), bison are surprisingly agile. Despite being commonly called buffalo, American bison are a distinct species known for their massive shoulder hump, curved horns and shaggy coats that help them thrive through harsh winters. Once pushed to the brink of extinction, bison have made an inspiring comeback thanks to conservation efforts across Canada and the United States, making them a powerful example of successful wildlife recovery.",
-      "de-DE": "Obwohl er oft als Büffel bezeichnet wird, gehört der amerikanische Bison nicht zu den echten Büffeln, die in Afrika und Asien beheimatet sind. Sein wissenschaftlicher Name „Bison bison”, lässt wenig Raum für Verwechslungen. Dieses nordamerikanische Säugetier kann bis zu 900 Kilo wiegen und dennoch mit einer Geschwindigkeit von fast 60 km/h sprinten. Sein muskulöser Schulterhöcker hilft ihm den Kopf hin und her zu schwingen, um Schnee beiseite zu schieben und so an das darunter liegende Gras zu gelangen. Sowohl Männchen als auch Weibchen haben Hörner und einen Bart. Schwanzbewegungen geben Aufschluss über ihre Stimmung: Schwanzwedeln signalisiert in der Regel Gelassenheit, während ein gehobener Schwanz auf Unruhe hindeuten kann.",
-      "fr-FR": "Bien qu'on le confonde souvent avec les buffles originaires d'Afrique et d'Asie, le bison d'Amérique n'appartient pas à la même famille. Son nom scientifique « Bison bison » insiste sur ses particularités. Lourd mais rapide, le bison peut peser jusqu’à 900 kg et courir jusqu’à une vitesse de 56 km/h.",
-      "es-ES": "Cuando las cosas se ponen difíciles, el bisonte sigue pastando. Este mamífero norteamericano puede pesar hasta 907 kilogramos y, aun así, correr a velocidades de hasta 56 kilómetros por hora. En 2016 se convirtió en el mamífero nacional de Estados Unidos.",
-      "ja-JP": "北米の草原に暮らすアメリカバイソンは、世界でも最大級の陸上哺乳類です。体重は900キロほどにもなりますが、時速約65キロで走ることができます。「バッファロー」と呼ばれることもありますが、アフリカやアジアにすむ本来のバッファローとは別の動物です。肩の大きなこぶは発達した筋肉で、冬は頭を左右に振って雪をかき分け、その下の草を探します。しっぽを見れば気分もわかり、ゆったり揺れていれば落ち着いているサイン、ピンと立っていたら興奮しているのかもしれません。一時は絶滅寸前まで追い込まれましたが、保護活動によって少しずつ数を取り戻してきました。",
-      "en-IN": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
-      "it-IT": "Imponente ma sorprendentemente agile, il bisonte americano può pesare fino a 900 kg e correre a circa 56 km/h. Spesso chiamato erroneamente “bufalo”, specie originaria di Africa e Asia, è dotato di una possente gobba che lo aiuta a spostare la neve con la testa per raggiungere l’erba sottostante. Curiosità: sia i maschi che le femmine hanno corna e barba. Ma attenzione alla coda: se si muove, generalmente segnala calma; se sollevata, può indicare agitazione! Un tempo vicino all’estinzione, il bisonte ha compiuto uno straordinario ritorno grazie agli enormi sforzi per la sua conservazione. Yellowstone resta l’unico luogo negli Stati Uniti dove continua a vivere ininterrottamente fin dalla preistoria.",
-      "pt-BR": "Um bisão no Parque Nacional Theodore Roosevelt, EUA. Os bisões estão entre os maiores mamíferos terrestres do mundo; podem pesar até 900 quilos e atingir velocidades de 65 quilômetros por hora, apesar do grande porte.",
-      "zh-CN": "再艰难的环境，也挡不住野牛吃草的脚步。美国全国野牛日赞颂这种北美哺乳动物：它体重可达2000磅(约907千克)，奔跑时速却能达到35英里(约56千米)。这个节日定在每年11月的第一个星期六，旨在向2016年成为美国国家哺乳动物的野牛致敬。"
-    },
-    "quickFacts": {
-      "zh-CN": "野牛在泥土中打滚形成的浅坑可能积水，为草原植物和动物提供栖息地。"
-    },
-    "captions": {
-      "en-US": "National Bison Day"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220261107_0800%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.DakotaBison_EN-US0710175615"
-    }
-  },
-  "RedNice": {
-    "name": "RedNice",
-    "urlbase": "/th?id=OHR.RedNice_EN-GB3371662260",
-    "date": "20261121",
-    "dateFormatted": "November 21, 2026",
+  "JustaHermitage": {
+    "name": "JustaHermitage",
+    "urlbase": "/th?id=OHR.JustaHermitage_EN-GB3758221368",
+    "date": "20261122",
+    "dateFormatted": "November 22, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
       },
       {
         "code": "de-DE",
@@ -1881,82 +1884,79 @@
       }
     ],
     "titles": {
-      "en-GB": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
-      "en-CA": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
-      "de-DE": "Ein Traum aus Terrakotta. Nizza, Provence-Alpes-Côte d'Azur, Frankreich",
-      "fr-FR": "Mosaïque de terre cuite. Nice, Provence-Alpes-Côte d'Azur",
-      "it-IT": "Un sogno color terracotta",
-      "es-ES": "Sueños de terracota. Niza, Provenza-Alpes-Costa Azul, Francia",
-      "pt-BR": "Sonhos em terracota",
-      "ja-JP": "テラコッタ色に染まる街. ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス",
-      "zh-CN": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯",
-      "en-IN": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France",
-      "en-US": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France"
+      "en-GB": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "de-DE": "Kapelle im Fels. Die Kapelle von Santa Justa in Kantabrien, Spanien",
+      "fr-FR": "Refuge au milieu des vagues. Ermitage de Santa Justa en Cantabrie, Espagne",
+      "it-IT": "Un rifugio tra le onde",
+      "es-ES": "Un refugio entre las olas. Capilla y ermita de Santa Justa, Cantabria, España",
+      "pt-BR": "Um cantinho entre as ondas",
+      "ja-JP": "波間にたたずむ隠れ家. サンタ・フスタ礼拝堂、カンタブリア州、スペイン",
+      "zh-CN": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂",
+      "en-IN": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "en-US": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "en-CA": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain"
     },
     "copyrights": {
-      "en-GB": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
-      "en-CA": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
-      "de-DE": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images)",
-      "fr-FR": "Nice, Provence-Alpes-Côte d'Azur (© Siripong Kaewla-iad/Getty Images)",
-      "it-IT": "Nizza, Provenza-Alpi-Costa Azzurra, Francia (© Siripong Kaewla-iad/Getty Images)",
-      "es-ES": "Niza, Provenza-Alpes-Costa Azul, Francia (© Siripong Kaewla-iad/Getty Images)",
-      "pt-BR": "Nice, Provença-Alpes-Costa Azul, França (© Siripong Kaewla-iad/Getty Images)",
-      "ja-JP": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)",
-      "zh-CN": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)",
-      "en-IN": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
-      "en-US": "© Siripong Kaewla-iad/Getty Images"
+      "en-GB": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+      "de-DE": "Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images)",
+      "fr-FR": "Ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images)",
+      "it-IT": "Cappella e Eremo di Santa Justa, Cantabria, Spagna (© Tramont_ana/Getty Images)",
+      "es-ES": "Capilla y ermita de Santa Justa, Cantabria (© Tramont_ana/Getty Images)",
+      "pt-BR": "Ermida de Santa Justa, na Cantábria, Espanha (© Tramont_ana/Getty Images)",
+      "ja-JP": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images)",
+      "zh-CN": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)",
+      "en-IN": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+      "en-US": "© Tramont_ana/Getty Images",
+      "en-CA": "© Tramont_ana/Getty Images"
     },
     "descs": {
-      "en-GB": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by the ancient Greeks and long associated with the Italian House of Savoy, Nice officially became part of France in 1860. Today, its layered past remains visible throughout this coastal city in the south of France, where historic architecture meets the blue waters of the Mediterranean and the sunlit hills of the Côte d'Azur.",
-      "en-CA": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
-      "de-DE": "In sanftes Sonnenlicht getaucht, präsentiert sich die Altstadt von Nizza auf dem heutigen Bild als ein Mosaik aus mediterranen Terrakotta-Dächern, alten Kirchtürmen und Häuserfassaden in Pastelltönen entlang der französischen Riviera. Von den alten Griechen gegründet und lange Zeit mit dem italienischen Königshaus Savoyen verbunden, wurde Nizza 1860 offiziell Teil Frankreichs. Bis heute ist diese facettenreiche Vergangenheit in der südfranzösischen Küstenstadt sichtbar, wo Architektur der alten Welt auf das Blau des Mittelmeers und die sonnigen Hügel der Côte d’Azur trifft.",
-      "fr-FR": "Baigné de lumière, le quartier du Vieux-Nice est constitué d’une mosaïque de toits en terre cuite, d’églises historiques et de façades aux couleurs ocre. Fondée par les Grecs de l’Antiquité et longtemps liée à la maison royale italienne de Savoie, Nice a officiellement été rattachée à la France en 1860. Aujourd’hui, son passé riche et varié demeure perceptible dans toute la ville, où une architecture d’antan côtoie les eaux bleues de la Méditerranée.",
-      "es-ES": "Bañada por una luz dorada, Niza forma un mosaico de tejados de terracota, iglesias históricas y fachadas en tonos pastel junto a la Riviera francesa. Fundada por los antiguos griegos y vinculada durante siglos a la casa real italiana de Saboya, Niza pasó oficialmente a formar parte de Francia en 1860.",
-      "ja-JP": "テラコッタ色に染まる街. ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス. やわらかな陽光に包まれたニースは、テラコッタ色の屋根や歴史ある教会、パステルカラーの建物が寄り集まった、まるでパッチワークのような街です。古代ギリシャ人によって築かれたこの街は、長くサヴォイア家と深い関わりを持ち、正式にフランス領となったのは1860年でした。今も旧市街にはイタリアの面影が残り、古い街並みが紺碧の地中海と陽光あふれるコート・ダジュールの丘に溶け込んでいます。",
-      "en-IN": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
-      "en-US": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches, and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
-      "it-IT": "Avvolta da una luce dorata, Nizza si presenta nella foto di oggi come un mosaico di tetti in terracotta, chiese storiche e facciate color pastello sul litorale della Costa Azzurra. Fondata dagli antichi Greci e a lungo legata ai Savoia, la città diventò ufficialmente francese nel 1860. Ancora oggi le tracce del suo passato si incontrano in ogni angolo, tra eleganti architetture d’altri tempi, colline assolate e le acque azzurre del Mediterraneo, che fanno da scenario a questa affascinante città del sud della Francia.",
-      "pt-BR": "Banhada por uma luz dourada do sol, Nice forma um mosaico de telhados de terracota, igrejas históricas e fachadas em tons pastel ao longo da Riviera Francesa, como mostra a imagem de hoje. Fundada pelos antigos gregos e por muito tempo ligada à Casa de Saboia, a dinastia real italiana, Nice tornou-se oficialmente parte da França em 1860. Hoje, esse passado marcado por diferentes influências ainda pode ser visto por toda essa cidade costeira do sul da França, onde a arquitetura de traços históricos encontra as águas azuis do Mediterrâneo e as colinas banhadas pelo sol da Côte d'Azur.",
-      "zh-CN": "在今天的图片中，尼斯沐浴在温暖的阳光下：赤陶色屋顶、历史悠久的教堂和柔和色调的建筑外墙，拼成法国蔚蓝海岸的一幅斑斓图景。尼斯由古希腊人建立，长期与意大利王室萨伏依王朝有着渊源，并于1860年正式成为法国的一部分。如今，在这座位于法国南部的海滨城市，那段层层叠叠的历史依然随处可见：古老的建筑与蔚蓝的地中海海水、蔚蓝海岸阳光照耀的山丘交相辉映。"
+      "en-GB": "Tucked into the rugged coastline of northern Spain, the 16th-century Hermitage of Santa Justa, featured in today's image, overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with the relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site. Its sheltered stone walls create a striking contrast with the powerful waves and rugged cliffs around it.",
+      "de-DE": "Eingebettet in die Klippen der rauen Küste Nordspaniens blickt die Einsiedelei Santa Justa aus dem 16. Jahrhundert auf die tosenden Wellen des Kantabrischen Meeres. Die kleine Kapelle, die teilweise in den Fels hinein gehauen wurde und mit den Reliquien der Heiligen Justa und Rufina in Verbindung gebracht wird, entwickelte sich im Laufe der Zeit zu einem Wallfahrtsort. Ihre schützenden Steinmauern bilden einen eindrucksvollen Kontrast zu den gewaltigen Wellen und schroffen Felsklippen, von denen sie umgeben ist.",
+      "fr-FR": "Niché dans les falaises du littoral nord de l'Espagne, l'ermitage de Santa Justa, datant du XVIe siècle surplombe les vagues déferlantes de la mer Cantabrique. Construite en partie à flanc de rocher et associée aux reliques des saintes Justa et Rufina, cette petite chapelle est finalement devenue un lieu de pèlerinage, ses murs de pierre abrités créant un contraste remarquable avec les vagues puissantes et les falaises rocheuses qui l'entourent.",
+      "es-ES": "Enclavada en los acantilados de la escarpada costa del norte de España y construida en el siglo XVI, la ermita de Santa Justa domina las olas del mar Cantábrico. Construida parcialmente en la roca y asociada a reliquias de las santas Justa y Rufina, la pequeña capilla acabó convirtiéndose en lugar de peregrinación.",
+      "ja-JP": "スペイン北部の荒々しい海岸線には、断崖に寄り添うように建つ小さな礼拝堂があります。16世紀に造られたサンタ・フスタ礼拝堂で、建物の一部は岩をくり抜いてつくられています。聖フスタと聖ルフィナの聖遺物を祀ったことから、やがてカンタブリア海沿岸でも早くから知られる巡礼地となりました。打ち寄せる波とごつごつした岩に囲まれながらも、石壁に守られた礼拝堂の姿は、まわりの力強い自然と見事なコントラストを描いています。",
+      "en-IN": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa, seen in today's image, overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+      "en-US": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+      "en-CA": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+      "it-IT": "Incastonato nelle scogliere della frastagliata costa settentrionale della Spagna, l’Eremo di Santa Justa, risalente al XVI secolo, domina le onde impetuose del Mar Cantabrico. Parzialmente scavata nella roccia e tradizionalmente associata alle reliquie delle sante Giusta e Rufina, la piccola cappella divenne nel tempo meta di pellegrinaggi. Le sue pareti in pietra, protette dalla roccia, creano un suggestivo contrasto con la forza del mare e le scogliere che la circondano.",
+      "pt-BR": "Aninhada nas falésias da costa acidentada do norte da Espanha, a Ermida de Santa Justa, do século XVI e vista na imagem de hoje, debruça-se sobre as ondas que quebram no Mar Cantábrico. Construída em parte dentro da própria rocha e associada a relíquias das santas Justa e Rufina, a pequena capela acabou se tornando um local de peregrinação. Suas paredes de pedra, abrigadas pela falésia, criam um contraste impressionante com as ondas impetuosas e as falésias rochosas ao redor.",
+      "zh-CN": "今天图片中的圣胡斯塔隐修院建于16世纪，坐落在西班牙坎塔布里亚自治区北部崎岖海岸的悬崖间，俯瞰坎塔布连海上翻涌的浪涛。这座小教堂部分嵌入岩石中，与圣胡斯塔与圣鲁菲娜的圣髑有关，后来成为一处朝圣地。它受到庇护的石墙，与四周汹涌的海浪和嶙峋的悬崖形成鲜明对比。"
     },
     "quickFacts": {
-      "zh-CN": "1824年，英国游客在尼斯海滨开辟了一条小路，后来逐渐发展为享有盛誉的英国人步行大道（Promenade des Anglais）。"
+      "zh-CN": "坎塔布里亚自治区的圣胡斯塔隐修院依崖而建，朝南的门上方有一扇小方窗，为堂内引入光线。"
     },
     "captions": {
-      "en-GB": "Nice, Provence-Alpes-Côte d'Azur, France",
-      "en-CA": "Nice, Provence-Alpes-Côte d'Azur, France",
-      "de-DE": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich",
-      "fr-FR": "Nice, Provence-Alpes-Côte d'Azur",
+      "en-GB": "The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "de-DE": "Die Kapelle von Santa Justa in Kantabrien, Spanien",
+      "fr-FR": "Ermitage de Santa Justa en Cantabrie, Espagne",
       "it-IT": "",
-      "es-ES": "Niza, Provenza-Alpes-Costa Azul, Francia",
+      "es-ES": "Capilla y ermita de Santa Justa, Cantabria, España",
       "pt-BR": "",
-      "ja-JP": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス",
+      "ja-JP": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン",
       "zh-CN": "",
-      "en-IN": "Nice, Provence-Alpes-Côte d'Azur, France"
+      "en-IN": "The chapel and hermitage of Santa Justa in Cantabria, Spain"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Nizza+Frankreich&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Nizza+Francia&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Niza+Francia&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Nice+Fran%c3%a7a&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%8b%e3%83%bc%e3%82%b9+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261120_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e5%b0%bc%e6%96%af&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261120_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261122_0000%22",
+      "de-DE": "https://www.bing.com/search?q=Einsiedelei+Santa+Justa+Spanien&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Ermitage+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Cappella+Ermita+Santa+Justa&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Capilla+y+Ermita+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Ermida+Santa+Justa+na+Cant%c3%a1bria&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%bb%e3%83%95%e3%82%b9%e3%82%bf%e7%a4%bc%e6%8b%9d%e5%a0%82&form=hpcapt&filters=HpDate%3a%2220261121_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9c%a3%e8%83%a1%e6%96%af%e5%a1%94%e5%b0%8f%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261121_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.RedNice_EN-GB3371662260",
-      "en-CA": "/th?id=OHR.RedNice_EN-CA5974961332",
-      "de-DE": "/th?id=OHR.RedNice_DE-DE7638538750",
-      "fr-FR": "/th?id=OHR.RedNice_FR-FR1499556885",
-      "it-IT": "/th?id=OHR.RedNice_IT-IT2041247927",
-      "es-ES": "/th?id=OHR.RedNice_ES-ES5584986553",
-      "pt-BR": "/th?id=OHR.RedNice_PT-BR5183216039",
-      "ja-JP": "/th?id=OHR.RedNice_JA-JP4725682184",
-      "zh-CN": "/th?id=OHR.RedNice_ZH-CN3518429866",
-      "en-IN": "/th?id=OHR.RedNice_EN-IN2901720503"
+      "en-GB": "/th?id=OHR.JustaHermitage_EN-GB3758221368",
+      "de-DE": "/th?id=OHR.JustaHermitage_DE-DE4182731523",
+      "fr-FR": "/th?id=OHR.JustaHermitage_FR-FR2303317894",
+      "it-IT": "/th?id=OHR.JustaHermitage_IT-IT2553496386",
+      "es-ES": "/th?id=OHR.JustaHermitage_ES-ES5920553602",
+      "pt-BR": "/th?id=OHR.JustaHermitage_PT-BR5712827780",
+      "ja-JP": "/th?id=OHR.JustaHermitage_JA-JP5350379708",
+      "zh-CN": "/th?id=OHR.JustaHermitage_ZH-CN3751022621",
+      "en-IN": "/th?id=OHR.JustaHermitage_EN-IN3031288581"
     }
   },
   "PoppiesField": {
@@ -2205,6 +2205,70 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
+    }
+  },
+  "DakotaBison": {
+    "name": "DakotaBison",
+    "urlbase": "/th?id=OHR.DakotaBison_EN-US0710175615",
+    "date": "20261107",
+    "dateFormatted": "November 07, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "The giant that came back. National Bison Day",
+      "en-GB": "Roaming the grasslands. A bison in Theodore Roosevelt National Park, USA",
+      "en-CA": "The giant that came back. Bison",
+      "de-DE": "Der zurückgekehrte Riese. Ein Bison in Nord-Dakota, USA",
+      "fr-FR": "Un géant de retour. Sauvage et libre",
+      "it-IT": "Il ritorno del gigante",
+      "es-ES": "El gigante que regresó para quedarse. Bisonte Americano",
+      "pt-BR": "O grandão está de volta",
+      "ja-JP": "よみがえった草原の巨人. セオドア・ルーズベルト国立公園のアメリカバイソン",
+      "zh-CN": "归来的草原巨兽",
+      "en-IN": "Roaming the grasslands. A bison in Theodore Roosevelt National Park, USA"
+    },
+    "copyrights": {
+      "en-US": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)",
+      "en-GB": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+      "en-CA": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+      "de-DE": "Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock)",
+      "fr-FR": "Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)",
+      "it-IT": "Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+      "es-ES": "Un bisonte en los pastizales del Parque Nacional Theodore Roosevelt, Dakota del Norte, EE. UU. (© Tandem Stock/Adobe Stock)",
+      "pt-BR": "Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)",
+      "ja-JP": "セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)",
+      "zh-CN": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)",
+      "en-IN": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)"
+    },
+    "descs": {
+      "en-US": "When the going gets tough, the bison gets grazing. National Bison Day celebrates the North American mammal that can weigh up to 2,000 pounds yet sprint at 35 mph. Observed on the first Saturday of November, the day honors the bovine that became the United States' national mammal in 2016.",
+      "en-GB": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
+      "en-CA": "One of North America's most remarkable animals, the bison is a powerful symbol of strength, resilience and conservation. Weighing as much as 900 kilograms (2,000 pounds) and capable of running up to 55 km/h (35 mph), bison are surprisingly agile. Despite being commonly called buffalo, American bison are a distinct species known for their massive shoulder hump, curved horns and shaggy coats that help them thrive through harsh winters. Once pushed to the brink of extinction, bison have made an inspiring comeback thanks to conservation efforts across Canada and the United States, making them a powerful example of successful wildlife recovery.",
+      "de-DE": "Obwohl er oft als Büffel bezeichnet wird, gehört der amerikanische Bison nicht zu den echten Büffeln, die in Afrika und Asien beheimatet sind. Sein wissenschaftlicher Name „Bison bison”, lässt wenig Raum für Verwechslungen. Dieses nordamerikanische Säugetier kann bis zu 900 Kilo wiegen und dennoch mit einer Geschwindigkeit von fast 60 km/h sprinten. Sein muskulöser Schulterhöcker hilft ihm den Kopf hin und her zu schwingen, um Schnee beiseite zu schieben und so an das darunter liegende Gras zu gelangen. Sowohl Männchen als auch Weibchen haben Hörner und einen Bart. Schwanzbewegungen geben Aufschluss über ihre Stimmung: Schwanzwedeln signalisiert in der Regel Gelassenheit, während ein gehobener Schwanz auf Unruhe hindeuten kann.",
+      "fr-FR": "Bien qu'on le confonde souvent avec les buffles originaires d'Afrique et d'Asie, le bison d'Amérique n'appartient pas à la même famille. Son nom scientifique « Bison bison » insiste sur ses particularités. Lourd mais rapide, le bison peut peser jusqu’à 900 kg et courir jusqu’à une vitesse de 56 km/h.",
+      "es-ES": "Cuando las cosas se ponen difíciles, el bisonte sigue pastando. Este mamífero norteamericano puede pesar hasta 907 kilogramos y, aun así, correr a velocidades de hasta 56 kilómetros por hora. En 2016 se convirtió en el mamífero nacional de Estados Unidos.",
+      "ja-JP": "北米の草原に暮らすアメリカバイソンは、世界でも最大級の陸上哺乳類です。体重は900キロほどにもなりますが、時速約65キロで走ることができます。「バッファロー」と呼ばれることもありますが、アフリカやアジアにすむ本来のバッファローとは別の動物です。肩の大きなこぶは発達した筋肉で、冬は頭を左右に振って雪をかき分け、その下の草を探します。しっぽを見れば気分もわかり、ゆったり揺れていれば落ち着いているサイン、ピンと立っていたら興奮しているのかもしれません。一時は絶滅寸前まで追い込まれましたが、保護活動によって少しずつ数を取り戻してきました。",
+      "en-IN": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
+      "it-IT": "Imponente ma sorprendentemente agile, il bisonte americano può pesare fino a 900 kg e correre a circa 56 km/h. Spesso chiamato erroneamente “bufalo”, specie originaria di Africa e Asia, è dotato di una possente gobba che lo aiuta a spostare la neve con la testa per raggiungere l’erba sottostante. Curiosità: sia i maschi che le femmine hanno corna e barba. Ma attenzione alla coda: se si muove, generalmente segnala calma; se sollevata, può indicare agitazione! Un tempo vicino all’estinzione, il bisonte ha compiuto uno straordinario ritorno grazie agli enormi sforzi per la sua conservazione. Yellowstone resta l’unico luogo negli Stati Uniti dove continua a vivere ininterrottamente fin dalla preistoria.",
+      "pt-BR": "Um bisão no Parque Nacional Theodore Roosevelt, EUA. Os bisões estão entre os maiores mamíferos terrestres do mundo; podem pesar até 900 quilos e atingir velocidades de 65 quilômetros por hora, apesar do grande porte.",
+      "zh-CN": "再艰难的环境，也挡不住野牛吃草的脚步。美国全国野牛日赞颂这种北美哺乳动物：它体重可达2000磅(约907千克)，奔跑时速却能达到35英里(约56千米)。这个节日定在每年11月的第一个星期六，旨在向2016年成为美国国家哺乳动物的野牛致敬。"
+    },
+    "quickFacts": {
+      "zh-CN": "野牛在泥土中打滚形成的浅坑可能积水，为草原植物和动物提供栖息地。"
+    },
+    "captions": {
+      "en-US": "National Bison Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220261107_0800%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DakotaBison_EN-US0710175615"
     }
   },
   "PipiwaiTrail": {
