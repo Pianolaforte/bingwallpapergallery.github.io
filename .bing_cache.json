@@ -1,4 +1,148 @@
 {
+  "JustaHermitage": {
+    "name": "JustaHermitage",
+    "urlbase": "/th?id=OHR.JustaHermitage_EN-US0130271816",
+    "date": "20261122",
+    "dateFormatted": "November 22, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "en-GB": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "en-CA": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "de-DE": "Kapelle im Fels. Die Kapelle von Santa Justa in Kantabrien, Spanien",
+      "fr-FR": "Refuge au milieu des vagues. Ermitage de Santa Justa en Cantabrie, Espagne",
+      "it-IT": "Un rifugio tra le onde",
+      "es-ES": "Un refugio entre las olas. Capilla y ermita de Santa Justa, Cantabria, España",
+      "pt-BR": "Um cantinho entre as ondas",
+      "ja-JP": "波間にたたずむ隠れ家. サンタ・フスタ礼拝堂、カンタブリア州、スペイン",
+      "zh-CN": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂",
+      "en-IN": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain"
+    },
+    "copyrights": {
+      "en-US": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+      "en-GB": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+      "en-CA": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+      "de-DE": "Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images)",
+      "fr-FR": "Ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images)",
+      "it-IT": "Cappella e Eremo di Santa Justa, Cantabria, Spagna (© Tramont_ana/Getty Images)",
+      "es-ES": "Capilla y ermita de Santa Justa, Cantabria (© Tramont_ana/Getty Images)",
+      "pt-BR": "Ermida de Santa Justa, na Cantábria, Espanha (© Tramont_ana/Getty Images)",
+      "ja-JP": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images)",
+      "zh-CN": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)",
+      "en-IN": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+      "en-GB": "Tucked into the rugged coastline of northern Spain, the 16th-century Hermitage of Santa Justa, featured in today's image, overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with the relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site. Its sheltered stone walls create a striking contrast with the powerful waves and rugged cliffs around it.",
+      "en-CA": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+      "de-DE": "Eingebettet in die Klippen der rauen Küste Nordspaniens blickt die Einsiedelei Santa Justa aus dem 16. Jahrhundert auf die tosenden Wellen des Kantabrischen Meeres. Die kleine Kapelle, die teilweise in den Fels hinein gehauen wurde und mit den Reliquien der Heiligen Justa und Rufina in Verbindung gebracht wird, entwickelte sich im Laufe der Zeit zu einem Wallfahrtsort. Ihre schützenden Steinmauern bilden einen eindrucksvollen Kontrast zu den gewaltigen Wellen und schroffen Felsklippen, von denen sie umgeben ist.",
+      "fr-FR": "Niché dans les falaises du littoral nord de l'Espagne, l'ermitage de Santa Justa, datant du XVIe siècle surplombe les vagues déferlantes de la mer Cantabrique. Construite en partie à flanc de rocher et associée aux reliques des saintes Justa et Rufina, cette petite chapelle est finalement devenue un lieu de pèlerinage, ses murs de pierre abrités créant un contraste remarquable avec les vagues puissantes et les falaises rocheuses qui l'entourent.",
+      "es-ES": "Enclavada en los acantilados de la escarpada costa del norte de España y construida en el siglo XVI, la ermita de Santa Justa domina las olas del mar Cantábrico. Construida parcialmente en la roca y asociada a reliquias de las santas Justa y Rufina, la pequeña capilla acabó convirtiéndose en lugar de peregrinación.",
+      "ja-JP": "スペイン北部の荒々しい海岸線には、断崖に寄り添うように建つ小さな礼拝堂があります。16世紀に造られたサンタ・フスタ礼拝堂で、建物の一部は岩をくり抜いてつくられています。聖フスタと聖ルフィナの聖遺物を祀ったことから、やがてカンタブリア海沿岸でも早くから知られる巡礼地となりました。打ち寄せる波とごつごつした岩に囲まれながらも、石壁に守られた礼拝堂の姿は、まわりの力強い自然と見事なコントラストを描いています。",
+      "en-IN": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa, seen in today's image, overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+      "it-IT": "Incastonato nelle scogliere della frastagliata costa settentrionale della Spagna, l’Eremo di Santa Justa, risalente al XVI secolo, domina le onde impetuose del Mar Cantabrico. Parzialmente scavata nella roccia e tradizionalmente associata alle reliquie delle sante Giusta e Rufina, la piccola cappella divenne nel tempo meta di pellegrinaggi. Le sue pareti in pietra, protette dalla roccia, creano un suggestivo contrasto con la forza del mare e le scogliere che la circondano.",
+      "pt-BR": "Aninhada nas falésias da costa acidentada do norte da Espanha, a Ermida de Santa Justa, do século XVI e vista na imagem de hoje, debruça-se sobre as ondas que quebram no Mar Cantábrico. Construída em parte dentro da própria rocha e associada a relíquias das santas Justa e Rufina, a pequena capela acabou se tornando um local de peregrinação. Suas paredes de pedra, abrigadas pela falésia, criam um contraste impressionante com as ondas impetuosas e as falésias rochosas ao redor.",
+      "zh-CN": "今天图片中的圣胡斯塔隐修院建于16世纪，坐落在西班牙坎塔布里亚自治区北部崎岖海岸的悬崖间，俯瞰坎塔布连海上翻涌的浪涛。这座小教堂部分嵌入岩石中，与圣胡斯塔与圣鲁菲娜的圣髑有关，后来成为一处朝圣地。它受到庇护的石墙，与四周汹涌的海浪和嶙峋的悬崖形成鲜明对比。"
+    },
+    "quickFacts": {
+      "zh-CN": "坎塔布里亚自治区的圣胡斯塔隐修院依崖而建，朝南的门上方有一扇小方窗，为堂内引入光线。"
+    },
+    "captions": {
+      "en-US": "The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "en-GB": "The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "en-CA": "The chapel and hermitage of Santa Justa in Cantabria, Spain",
+      "de-DE": "Die Kapelle von Santa Justa in Kantabrien, Spanien",
+      "fr-FR": "Ermitage de Santa Justa en Cantabrie, Espagne",
+      "it-IT": "",
+      "es-ES": "Capilla y ermita de Santa Justa, Cantabria, España",
+      "pt-BR": "",
+      "ja-JP": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン",
+      "zh-CN": "",
+      "en-IN": "The chapel and hermitage of Santa Justa in Cantabria, Spain"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261122_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261122_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261122_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Einsiedelei+Santa+Justa+Spanien&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Ermitage+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Cappella+Ermita+Santa+Justa&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Capilla+y+Ermita+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Ermida+Santa+Justa+na+Cant%c3%a1bria&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%bb%e3%83%95%e3%82%b9%e3%82%bf%e7%a4%bc%e6%8b%9d%e5%a0%82&form=hpcapt&filters=HpDate%3a%2220261121_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%9c%a3%e8%83%a1%e6%96%af%e5%a1%94%e5%b0%8f%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261121_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.JustaHermitage_EN-US0130271816",
+      "en-GB": "/th?id=OHR.JustaHermitage_EN-GB3758221368",
+      "en-CA": "/th?id=OHR.JustaHermitage_EN-CA5542255570",
+      "de-DE": "/th?id=OHR.JustaHermitage_DE-DE4182731523",
+      "fr-FR": "/th?id=OHR.JustaHermitage_FR-FR2303317894",
+      "it-IT": "/th?id=OHR.JustaHermitage_IT-IT2553496386",
+      "es-ES": "/th?id=OHR.JustaHermitage_ES-ES5920553602",
+      "pt-BR": "/th?id=OHR.JustaHermitage_PT-BR5712827780",
+      "ja-JP": "/th?id=OHR.JustaHermitage_JA-JP5350379708",
+      "zh-CN": "/th?id=OHR.JustaHermitage_ZH-CN3751022621",
+      "en-IN": "/th?id=OHR.JustaHermitage_EN-IN3031288581"
+    }
+  },
   "RedNice": {
     "name": "RedNice",
     "urlbase": "/th?id=OHR.RedNice_EN-US9978351403",
@@ -801,7 +945,7 @@
       "es-ES": "Construidas para perdurar. Monumento de las Viviendas en los Acantilados de Gila",
       "pt-BR": "O passado segue de pé",
       "ja-JP": "時を超える崖の住まい. 断崖の洞窟に残る先住民の住居跡",
-      "zh-CN": "美国新墨西哥州吉拉悬崖民居国家纪念地",
+      "zh-CN": "历经岁月，屹立不倒",
       "en-IN": "Built to last. Gila Cliff Dwellings National Monument, New Mexico, USA"
     },
     "copyrights": {
@@ -824,7 +968,7 @@
       "de-DE": "Atemberaubende Ausblicke und felsenfeste Fundamente sind Teil des Charmes dieser alten Behausungen, die in eine Felswand in New Mexico eingemeißelt sind. Nomaden nutzten die natürlichen Höhlen oberhalb des Cliff Dweller Creek schon lange als zeitweilige Unterkunft, doch erst das indigene Volk der Mogollon machte sie zu ihrem Zuhause. Archäologen glauben, dass sie in den 1270er und 1280er Jahren Dutzende von Räumen in fünf Felsnischen angelegt haben. Bis zu 15 Familien lebten hier gleichzeitig, zogen ihre Kinder groß, stellten Töpferwaren her und blickten auf das fruchtbare Tal des Gila River hinab, wo sie Getreide anbauten und Wild jagten. Aus unbekannten Gründen zogen die Mogollon um das Jahr 1300 weiter und hinterließen eine der bedeutendsten archäologischen Stätten im Südwesten der USA. Am 16. November 1907 erklärte Präsident Theodore Roosevelt das Gebiet zum „Gila Cliff Dwellings National Monument“ und sicherte damit den Erhalt für künftige Generationen.",
       "fr-FR": "Cette vue incroyable sur Cliff Dweller Creek ajoute au charme de ces anciennes habitations troglodytes, creusées à flanc de falaise au Nouveau-Mexique. Les nomades ont longtemps utilisé ces grottes naturelles comme abris temporaires, mais ce sont les Amérindiens Mogollon qui en ont fait leur demeure. Les archéologues estiment qu’ils ont aménagé cet habitat dans les années 1270 et 1280. Jusqu’à 15 familles vivaient ici, élevant leurs enfants, fabriquant de la poterie et contemplant la fertile vallée de la Gila.",
       "es-ES": "Unas vistas impresionantes y unos cimientos sólidos forman parte del encanto de estas antiguas viviendas excavadas en un acantilado de Nuevo México. Los nómadas utilizaban desde hacía tiempo las cuevas naturales sobre el arroyo Cliff Dweller como refugio temporal, pero fue el pueblo indígena mogollón quien las convirtió en su hogar.",
-      "ja-JP": "時を超える崖の住まい. ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ. ニューメキシコ州の断崖の洞窟には、先住民モゴヨン族が住んでいた跡が残っています。13世紀後半、洞窟に部屋をつくった人々は、土器を焼き、眼下に広がる谷で作物を育てたり狩りをしたりしていたと考えられています。ところが1300年ごろ、モゴヨン族は理由もわからないままこの地を去りました。今ではアメリカ南西部でも特に重要な遺跡の一つとして知られています。",
+      "ja-JP": "ニューメキシコ州の断崖の洞窟には、先住民モゴヨン族が住んでいた跡が残っています。13世紀後半、洞窟に部屋をつくった人々は、土器を焼き、眼下に広がる谷で作物を育てたり狩りをしたりしていたと考えられています。ところが1300年ごろ、モゴヨン族は理由もわからないままこの地を去りました。今ではアメリカ南西部でも特に重要な遺跡の一つとして知られています。",
       "en-IN": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
       "it-IT": "Panorami mozzafiato e fondamenta di pietra sono parte del fascino di queste antiche dimore, incastonate nelle pareti rocciose del Nuovo Messico. Le grotte naturali, usate un tempo come rifugio dalle popolazioni nomadi, divennero poi la casa dei Mogollon, Nativi Americani che, tra il 1270 e il 1290 circa, realizzarono decine di stanze in cinque cavità, dove potevano vivere fino a 15 famiglie. Intorno al 1300, i Mogollon abbandonarono il sito per ragioni sconosciute. Nel 1907, il presidente degli Stati Uniti Theodore Roosevelt istituì il Gila Cliff Dwellings National Monument, per preservare questo straordinario luogo per le generazioni future.",
       "pt-BR": "Vistas impressionantes e estruturas firmemente assentadas na rocha fazem parte do charme dessas antigas habitações, construídas na encosta de um penhasco no Novo México. Povos nômades já usavam havia muito tempo as cavernas naturais acima de Cliff Dweller Creek como abrigo temporário, mas foram os Mogollon, povo indígena da região, que fizeram delas seu lar. Arqueólogos acreditam que, nas décadas de 1270 e 1280, eles construíram dezenas de cômodos dentro de cinco reentrâncias naturais na rocha. Até 15 famílias viviam ali ao mesmo tempo, criando os filhos, produzindo cerâmica e contemplando o fértil vale do rio Gila, onde cultivavam plantações e caçavam animais selvagens.",
@@ -1636,51 +1780,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1723,124 +1822,30 @@
       "zh-CN": "特里亚纳市场下方保留着圣豪尔赫城堡的遗址；这座城堡曾是宗教裁判所的总部，如今设有历史展览。"
     },
     "captions": {
-      "en-US": "Historic district of Triana, Seville, Spain",
-      "en-GB": "Historic district of Triana, Seville, Spain",
-      "en-CA": "Historic district of Triana, Seville, Spain",
-      "fr-FR": "Quartier historique de Triana, Séville, Espagne",
-      "it-IT": "",
-      "es-ES": "Barrio histórico de Triana, Sevilla, España",
-      "pt-BR": "",
-      "ja-JP": "セビリアの歴史地区トリアナ、スペイン",
-      "zh-CN": "",
-      "en-IN": "Historic district of Triana, Seville, Spain"
+      "en-US": "Historic district of Triana, Seville, Spain"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0800%22",
-      "en-GB": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0500%22",
-      "fr-FR": "https://www.bing.com/search?q=S%c3%a9ville+Espagne&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Siviglia+Spagna&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Sevilla+Espa%c3%b1a&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Sevilha+Espanha&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%bb%e3%83%93%e3%83%aa%e3%82%a2+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261108_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%a1%9e%e7%bb%b4%e5%88%a9%e4%ba%9a&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261108_1830%22"
+      "en-US": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0800%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.TrianaSpain_EN-US0872031458",
-      "en-GB": "/th?id=OHR.TrianaSpain_EN-GB4312074959",
-      "en-CA": "/th?id=OHR.TrianaSpain_EN-CA5715664258",
-      "fr-FR": "/th?id=OHR.TrianaSpain_FR-FR5872801405",
-      "it-IT": "/th?id=OHR.TrianaSpain_IT-IT6419651277",
-      "es-ES": "/th?id=OHR.TrianaSpain_ES-ES2622392783",
-      "pt-BR": "/th?id=OHR.TrianaSpain_PT-BR8294912902",
-      "ja-JP": "/th?id=OHR.TrianaSpain_JA-JP2076026093",
-      "zh-CN": "/th?id=OHR.TrianaSpain_ZH-CN6329291776",
-      "en-IN": "/th?id=OHR.TrianaSpain_EN-IN5231956941"
+      "en-US": "/th?id=OHR.TrianaSpain_EN-US0872031458"
     }
   },
-  "DiwaliLamps": {
-    "name": "DiwaliLamps",
-    "urlbase": "/th?id=OHR.DiwaliLamps_EN-US0788074051",
-    "date": "20261108",
-    "dateFormatted": "November 08, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      }
-    ],
-    "titles": {
-      "en-US": "A celebration that shines. Diwali (Festival of Lights)",
-      "en-CA": "A celebration that shines. Diwali (Festival of Lights)",
-      "en-GB": "A celebration that shines. Diwali (Festival of Lights)",
-      "de-DE": "Ein strahlendes Fest. Diwali, das Lichterfest",
-      "fr-FR": "Célébration qui scintille. Diwali (Fête des lumières)",
-      "it-IT": "Una festa che illumina",
-      "es-ES": "Una celebración que brilla. Diwali (Festival de las luces)",
-      "pt-BR": "Uma festa que ilumina",
-      "ja-JP": "光に包まれる祝祭. ディーワーリー（光の祭典）",
-      "zh-CN": "光芒四射的节日",
-      "en-IN": "Happy Diwali!"
-    },
-    "copyrights": {
-      "en-US": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "en-CA": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "en-GB": "Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "de-DE": "Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)",
-      "fr-FR": "Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)",
-      "it-IT": "Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "es-ES": "Linternas del Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-      "pt-BR": "Lanternas para o Diwali, Mumbai, Maharashtra, Índia (© Dinodia Photo/Getty Images)",
-      "ja-JP": "ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images)",
-      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)",
-      "en-IN": "Lanterns for Diwali in Mumbai, Maharashtra (© Dinodia Photo/Getty Images)"
-    },
-    "descs": {
-      "en-US": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets, and family gatherings.",
-      "en-CA": "Diwali, the Festival of Lights, is celebrated by millions of people around the world, including vibrant communities across Canada. Rooted in the Sanskrit word dipavali, meaning “row of lights,” the festival symbolizes the triumph of light over darkness and hope over adversity. Families and friends gather to light diyas and lanterns, create colourful rangoli, share sweets and take part in prayers and celebrations. While traditions vary across regions and faiths, Diwali is widely recognized as a time of reflection, gratitude and togetherness. As communities across Canada come together to celebrate, the festival continues to brighten neighbourhoods, workplaces and schools with its message of unity, joy and renewal.",
-      "en-GB": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets and family gatherings.",
-      "de-DE": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
-      "fr-FR": "Que se passe-t-il quand une nuit sombre donne lieu à la célébration la plus lumineuse de l’année ? Diwali, qui signifie « rangée de lumières » en sanskrit, a lieu lors de la nuit de la nouvelle lune du mois hindou de Kartik. À travers l'Inde, cette célébration s'accompagne de récits et de traditions variés. Durant 5 jours, elle est ponctuée par l’allumage des diyas (lampes à huile), pour symboliser la lumière, le nettoyage de la maison, des prières, des rangolis sur le sol, des échanges de cadeaux et des réunions familiales.",
-      "es-ES": "¿Qué sucede cuando la noche más oscura se llena de luz? Llega Diwali. El Festival de las Luces es celebrado por millones de personas en todo el mundo y reúne diyas, linternas, rangoli, oraciones, dulces y encuentros familiares.",
-      "ja-JP": "ディーワーリーは、新月の暗い夜を明るく照らす「光の祭典」です。世界中で多くの人々が祝い、ディヤーと呼ばれる小さな灯明やランタンをともし、色鮮やかなランゴーリーで辺りを飾り、家族でお菓子を分け合います。ヒンドゥー教をはじめ、ジャイナ教やシク教でも大切にされている祝祭で、名前はサンスクリット語で「光の列」を意味する「ディーパーヴァリ」に由来します。",
-      "en-IN": "Across India, Diwali brings homes, streets and neighbourhoods to life with the warm glow of lanterns, diyas and colourful decorations. Known as the Festival of Lights, it celebrates themes of hope, new beginnings and the triumph of light over darkness. Traditions vary across the country, but for many families, the festivities include creating rangoli, performing Lakshmi Puja, exchanging sweets and gifts, and spending time with loved ones. Diwali is also associated with Lord Rama's return to Ayodhya after defeating Ravana. More than a festival, it's a time for togetherness, reflection and welcoming the year ahead with optimism.",
-      "it-IT": "Quando la notte più buia dell’anno incontra la festa più luminosa, è tempo di Diwali. Milioni di persone nel mondo celebrano la Festa delle Luci con “diya”, le tradizionali lampade a olio, lanterne, rangoli, preghiere, dolci e momenti in famiglia. Il nome deriva dal sanscrito “dipavali”, che significa “fila di luci”. In India, storie e tradizioni cambiano da una regione all’altra: alcuni celebrano il ritorno di Rama ad Ayodhya, altri la vittoria di Krishna su Narakasura o rendono omaggio alla dea Kali. Anche giainisti e sikh festeggiano il Diwali, illuminando case e comunità.",
-      "pt-BR": "O que acontece quando a noite mais escura do ano ganha a celebração mais iluminada? Diwali. O Festival das Luzes é celebrado por milhões de pessoas em todo o mundo, reunindo diyas, lanternas, rangolis, orações, doces e encontros em família.",
-      "zh-CN": "一年中最黑暗的夜晚遇上最明亮的庆典，会是什么景象？答案就是排灯节。世界各地数百万人庆祝这个灯节，点亮油灯和灯笼，绘制兰戈利彩绘，祈祷、品尝甜点，并与家人团聚。"
-    },
-    "quickFacts": {
-      "zh-CN": "排灯节持续五天，但由于它遵循印度教阴历，每年在公历上的日期都会变化。"
-    },
-    "captions": {
-      "en-US": "Diwali (Festival of Lights)",
-      "en-CA": "Diwali (Festival of Lights)"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0800%22",
-      "en-CA": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0500%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.DiwaliLamps_EN-US0788074051",
-      "en-CA": "/th?id=OHR.DiwaliLamps_EN-CA5815375040"
-    }
-  },
-  "JustaHermitage": {
-    "name": "JustaHermitage",
-    "urlbase": "/th?id=OHR.JustaHermitage_EN-GB3758221368",
-    "date": "20261122",
-    "dateFormatted": "November 22, 2026",
+  "FibonacciFern": {
+    "name": "FibonacciFern",
+    "urlbase": "/th?id=OHR.FibonacciFern_EN-GB6785963710",
+    "date": "20261123",
+    "dateFormatted": "November 23, 2026",
     "markets": [
       {
         "code": "en-GB",
         "name": "UK",
         "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
       },
       {
         "code": "de-DE",
@@ -1884,79 +1889,92 @@
       }
     ],
     "titles": {
-      "en-GB": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
-      "de-DE": "Kapelle im Fels. Die Kapelle von Santa Justa in Kantabrien, Spanien",
-      "fr-FR": "Refuge au milieu des vagues. Ermitage de Santa Justa en Cantabrie, Espagne",
-      "it-IT": "Un rifugio tra le onde",
-      "es-ES": "Un refugio entre las olas. Capilla y ermita de Santa Justa, Cantabria, España",
-      "pt-BR": "Um cantinho entre as ondas",
-      "ja-JP": "波間にたたずむ隠れ家. サンタ・フスタ礼拝堂、カンタブリア州、スペイン",
-      "zh-CN": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂",
-      "en-IN": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
-      "en-US": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain",
-      "en-CA": "Shelter among the waves. The chapel and hermitage of Santa Justa in Cantabria, Spain"
+      "en-GB": "Geometry in nature. Fibonacci Day",
+      "en-CA": "Geometry in nature. Fibonacci Day",
+      "de-DE": "Geometrie in der Natur. Fibonacci-Tag",
+      "fr-FR": "Géométrie au naturel. Journée de Fibonacci",
+      "it-IT": "Geometria in natura",
+      "es-ES": "Geometría en la naturaleza. Día de Fibonacci",
+      "pt-BR": "A natureza fez as contas",
+      "ja-JP": "自然が描く幾何学模様. 渦を巻くシダの若芽",
+      "zh-CN": "蕨类植物的卷曲嫩叶",
+      "en-IN": "Geometry in nature. Fibonacci Day",
+      "en-US": "Geometry in nature. Fiddlehead fern"
     },
     "copyrights": {
-      "en-GB": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
-      "de-DE": "Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images)",
-      "fr-FR": "Ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images)",
-      "it-IT": "Cappella e Eremo di Santa Justa, Cantabria, Spagna (© Tramont_ana/Getty Images)",
-      "es-ES": "Capilla y ermita de Santa Justa, Cantabria (© Tramont_ana/Getty Images)",
-      "pt-BR": "Ermida de Santa Justa, na Cantábria, Espanha (© Tramont_ana/Getty Images)",
-      "ja-JP": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images)",
-      "zh-CN": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)",
-      "en-IN": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
-      "en-US": "© Tramont_ana/Getty Images",
-      "en-CA": "© Tramont_ana/Getty Images"
+      "en-GB": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+      "en-CA": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+      "de-DE": "Farnspitzen (© Reza Saputra/Getty Images)",
+      "fr-FR": "Pousse de fougère (© Reza Saputra/Getty Images)",
+      "it-IT": "Germoglio di felce (© Reza Saputra/Getty Images)",
+      "es-ES": "Brote de helecho (© Reza Saputra/Getty Images)",
+      "pt-BR": "Broto de samambaia (© Reza Saputra/Getty Images)",
+      "ja-JP": "シダの若芽 (© Reza Saputra/Getty Images)",
+      "zh-CN": "蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)",
+      "en-IN": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+      "en-US": "© Reza Saputra/Getty Images"
     },
     "descs": {
-      "en-GB": "Tucked into the rugged coastline of northern Spain, the 16th-century Hermitage of Santa Justa, featured in today's image, overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with the relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site. Its sheltered stone walls create a striking contrast with the powerful waves and rugged cliffs around it.",
-      "de-DE": "Eingebettet in die Klippen der rauen Küste Nordspaniens blickt die Einsiedelei Santa Justa aus dem 16. Jahrhundert auf die tosenden Wellen des Kantabrischen Meeres. Die kleine Kapelle, die teilweise in den Fels hinein gehauen wurde und mit den Reliquien der Heiligen Justa und Rufina in Verbindung gebracht wird, entwickelte sich im Laufe der Zeit zu einem Wallfahrtsort. Ihre schützenden Steinmauern bilden einen eindrucksvollen Kontrast zu den gewaltigen Wellen und schroffen Felsklippen, von denen sie umgeben ist.",
-      "fr-FR": "Niché dans les falaises du littoral nord de l'Espagne, l'ermitage de Santa Justa, datant du XVIe siècle surplombe les vagues déferlantes de la mer Cantabrique. Construite en partie à flanc de rocher et associée aux reliques des saintes Justa et Rufina, cette petite chapelle est finalement devenue un lieu de pèlerinage, ses murs de pierre abrités créant un contraste remarquable avec les vagues puissantes et les falaises rocheuses qui l'entourent.",
-      "es-ES": "Enclavada en los acantilados de la escarpada costa del norte de España y construida en el siglo XVI, la ermita de Santa Justa domina las olas del mar Cantábrico. Construida parcialmente en la roca y asociada a reliquias de las santas Justa y Rufina, la pequeña capilla acabó convirtiéndose en lugar de peregrinación.",
-      "ja-JP": "スペイン北部の荒々しい海岸線には、断崖に寄り添うように建つ小さな礼拝堂があります。16世紀に造られたサンタ・フスタ礼拝堂で、建物の一部は岩をくり抜いてつくられています。聖フスタと聖ルフィナの聖遺物を祀ったことから、やがてカンタブリア海沿岸でも早くから知られる巡礼地となりました。打ち寄せる波とごつごつした岩に囲まれながらも、石壁に守られた礼拝堂の姿は、まわりの力強い自然と見事なコントラストを描いています。",
-      "en-IN": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa, seen in today's image, overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
-      "en-US": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
-      "en-CA": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
-      "it-IT": "Incastonato nelle scogliere della frastagliata costa settentrionale della Spagna, l’Eremo di Santa Justa, risalente al XVI secolo, domina le onde impetuose del Mar Cantabrico. Parzialmente scavata nella roccia e tradizionalmente associata alle reliquie delle sante Giusta e Rufina, la piccola cappella divenne nel tempo meta di pellegrinaggi. Le sue pareti in pietra, protette dalla roccia, creano un suggestivo contrasto con la forza del mare e le scogliere che la circondano.",
-      "pt-BR": "Aninhada nas falésias da costa acidentada do norte da Espanha, a Ermida de Santa Justa, do século XVI e vista na imagem de hoje, debruça-se sobre as ondas que quebram no Mar Cantábrico. Construída em parte dentro da própria rocha e associada a relíquias das santas Justa e Rufina, a pequena capela acabou se tornando um local de peregrinação. Suas paredes de pedra, abrigadas pela falésia, criam um contraste impressionante com as ondas impetuosas e as falésias rochosas ao redor.",
-      "zh-CN": "今天图片中的圣胡斯塔隐修院建于16世纪，坐落在西班牙坎塔布里亚自治区北部崎岖海岸的悬崖间，俯瞰坎塔布连海上翻涌的浪涛。这座小教堂部分嵌入岩石中，与圣胡斯塔与圣鲁菲娜的圣髑有关，后来成为一处朝圣地。它受到庇护的石墙，与四周汹涌的海浪和嶙峋的悬崖形成鲜明对比。"
+      "en-GB": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In maths, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honour the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+      "en-CA": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In math, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, celebrated on November 23 because the date's numbers (11, 23) reflect the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+      "de-DE": "Das heutige Bild zeigt die Windung der Spitze eines jungen Farnsprosses, die an die geometrischen Muster erinnert, die überall in der Natur zu finden sind. In der Mathematik folgt die Fibonacci-Folge (benannt nach dem italienischen Mathematiker Leonardo Fibonacci) einem ähnlichen Muster, wobei jede Zahl durch die Addition der beiden vorhergehenden Zahlen entsteht: 0, 1, 1, 2, 3, 5, 8 und so weiter. Heute ist der Fibonacci-Tag, der aufgrund der amerikanischen Schreibweise des Datums (11/23) zu Ehren dieser Folge gewählt wurde.",
+      "fr-FR": "Aujourd'hui, c'est la Journée Fibonacci, une date choisie en référence aux chiffres qui la composent, 23/11 ou 11/23 écrit en anglais américain, pour rendre hommage à la suite établie par ce mathématicien italien. En mathématiques, la suite de Fibonacci suit une progression similaire, où chaque nombre est obtenu en additionnant les deux qui le précèdent : 0, 1, 1, 2, 3, 5, 8, et ainsi de suite.",
+      "es-ES": "La imagen muestra el enrollamiento gradual del extremo de un brote de helecho, que recuerda los patrones geométricos presentes en la naturaleza. En matemáticas, la sucesión de Fibonacci sigue una progresión similar: cada número se obtiene sumando los dos anteriores: 0, 1, 1, 2, 3, 5, 8 y así sucesivamente.",
+      "ja-JP": "写真は、シダの若芽の先がくるくると渦を巻いている様子です。こうした渦巻き模様は、自然界のあちこちで見ることができます。数学の「フィボナッチ数列」も、前の2つの数を足して次の数をつくる「0、1、1、2、3、5、8……」という並びで、少しずつ大きくなっていく様子がよく似ています。この若芽はやがて伸びて葉を広げますが、ヒマワリの種の並びや松ぼっくり、多肉植物、パイナップルのらせん模様には、この数列がこれからも現れ続けます。",
+      "en-IN": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In maths, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honour the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+      "en-US": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In math, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8, and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honor the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiraling arrangements of sunflower heads, pinecones, succulents, and pineapples.",
+      "it-IT": "L’immagine mostra la punta arrotolata di un germoglio di felce, la cui forma richiama motivi geometrici ricorrenti in natura. In matematica, la successione di Fibonacci segue una progressione simile, dove ogni numero è la somma dei due precedenti, come nella sequenza 0, 1, 1, 2, 3, 5, 8 e così via. E proprio oggi si celebra il Fibonacci Day, ricorrenza scelta per la data 11/23 (23 novembre nel formato americano) che richiama i primi numeri della successione. Crescendo, la felce si dispiegherà, ma forme simili continueranno a comparire nelle spirali di girasoli, pigne, piante succulente e ananas.",
+      "pt-BR": "A imagem de hoje mostra a ponta de uma jovem folha de samambaia se enrolando aos poucos, lembrando os padrões geométricos encontrados por toda a natureza. Na matemática, a sequência de Fibonacci segue uma progressão semelhante: cada número é a soma dos dois anteriores — 0, 1, 1, 2, 3, 5, 8 e assim por diante. Hoje é o Dia de Fibonacci, celebrado nesta data porque, no formato americano, 11/23 faz referência aos primeiros números da sequência. À medida que cresce, a jovem folha de samambaia mostrada aqui vai se desenrolar. Em outras partes do mundo vegetal, porém, a sequência continuará aparecendo nos padrões em espiral dos girassóis, das pinhas, das suculentas e dos abacaxis.",
+      "zh-CN": "今天的图片展示了一片蕨类嫩叶的顶端逐渐卷曲的样子，呼应着自然界随处可见的几何图案。在数学中，斐波那契数列也遵循类似的递进规律：每个数都是前两个数之和，即0、1、1、2、3、5、8，依此类推。今天是斐波那契日；选定这一天，是因为日期11/23中的数字与这一数列相呼应，以此向它致敬。图中的蕨类嫩叶终将随着生长而舒展开来，而在植物世界的其他地方，这一数列还会不断出现在向日葵花盘、松果、多肉植物和菠萝的螺旋排列中。"
     },
     "quickFacts": {
-      "zh-CN": "坎塔布里亚自治区的圣胡斯塔隐修院依崖而建，朝南的门上方有一扇小方窗，为堂内引入光线。"
+      "en-US": "The Fibonacci sequence was popularized through a 13th-century math problem about multiplying rabbits.",
+      "en-GB": "The Fibonacci sequence was popularised through a 13th-century maths problem about multiplying rabbits.",
+      "en-CA": "The Fibonacci sequence was popularized through a 13th-century math problem about multiplying rabbits.",
+      "de-DE": "Die Fibonacci-Folge verbreitete sich durch ein mathematisches Problem aus dem 13. Jahrhundert, bei dem es um die Vermehrung von Kaninchen ging.",
+      "fr-FR": "La suite de Fibonacci a été popularisée grâce à un problème mathématique du XIIIe siècle portant sur la multiplication des lapins.",
+      "it-IT": "La successione di Fibonacci divenne famosa grazie a un problema matematico del XIII secolo sulla riproduzione dei conigli.",
+      "es-ES": "La sucesión de Fibonacci se popularizó mediante un problema matemático del siglo XIII sobre la reproducción de conejos.",
+      "pt-BR": "A sequência de Fibonacci foi popularizada a partir de um problema matemático do século XIII sobre a reprodução de coelhos.",
+      "ja-JP": "フィボナッチ数列が広く知られるようになったきっかけは、13世紀のウサギの増え方をめぐる数学の問題でした。",
+      "zh-CN": "斐波那契数列因一道关于兔子繁殖的13世纪数学题而广为人知。",
+      "en-IN": "The Fibonacci sequence was popularised through a 13th-century maths problem about multiplying rabbits."
     },
     "captions": {
-      "en-GB": "The chapel and hermitage of Santa Justa in Cantabria, Spain",
-      "de-DE": "Die Kapelle von Santa Justa in Kantabrien, Spanien",
-      "fr-FR": "Ermitage de Santa Justa en Cantabrie, Espagne",
+      "en-GB": "Fibonacci Day",
+      "en-CA": "Fibonacci Day",
+      "de-DE": "Fibonacci-Tag",
+      "fr-FR": "Journée de Fibonacci",
       "it-IT": "",
-      "es-ES": "Capilla y ermita de Santa Justa, Cantabria, España",
+      "es-ES": "Día de Fibonacci",
       "pt-BR": "",
-      "ja-JP": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン",
+      "ja-JP": "渦を巻くシダの若芽",
       "zh-CN": "",
-      "en-IN": "The chapel and hermitage of Santa Justa in Cantabria, Spain"
+      "en-IN": "Fibonacci Day"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261122_0000%22",
-      "de-DE": "https://www.bing.com/search?q=Einsiedelei+Santa+Justa+Spanien&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Ermitage+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Cappella+Ermita+Santa+Justa&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Capilla+y+Ermita+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Ermida+Santa+Justa+na+Cant%c3%a1bria&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%bb%e3%83%95%e3%82%b9%e3%82%bf%e7%a4%bc%e6%8b%9d%e5%a0%82&form=hpcapt&filters=HpDate%3a%2220261121_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%9c%a3%e8%83%a1%e6%96%af%e5%a1%94%e5%b0%8f%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261121_1830%22"
+      "en-GB": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261123_0000%22",
+      "en-CA": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261123_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Fibonacci-Tag&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+      "it-IT": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+de+Fibonacci&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0%e5%88%97&form=hpcapt&filters=HpDate%3a%2220261122_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261122_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.JustaHermitage_EN-GB3758221368",
-      "de-DE": "/th?id=OHR.JustaHermitage_DE-DE4182731523",
-      "fr-FR": "/th?id=OHR.JustaHermitage_FR-FR2303317894",
-      "it-IT": "/th?id=OHR.JustaHermitage_IT-IT2553496386",
-      "es-ES": "/th?id=OHR.JustaHermitage_ES-ES5920553602",
-      "pt-BR": "/th?id=OHR.JustaHermitage_PT-BR5712827780",
-      "ja-JP": "/th?id=OHR.JustaHermitage_JA-JP5350379708",
-      "zh-CN": "/th?id=OHR.JustaHermitage_ZH-CN3751022621",
-      "en-IN": "/th?id=OHR.JustaHermitage_EN-IN3031288581"
+      "en-GB": "/th?id=OHR.FibonacciFern_EN-GB6785963710",
+      "en-CA": "/th?id=OHR.FibonacciFern_EN-CA6531851443",
+      "de-DE": "/th?id=OHR.FibonacciFern_DE-DE6300100112",
+      "fr-FR": "/th?id=OHR.FibonacciFern_FR-FR6204076819",
+      "it-IT": "/th?id=OHR.FibonacciFern_IT-IT3074319544",
+      "es-ES": "/th?id=OHR.FibonacciFern_ES-ES6597098315",
+      "pt-BR": "/th?id=OHR.FibonacciFern_PT-BR5976883875",
+      "ja-JP": "/th?id=OHR.FibonacciFern_JA-JP6039925060",
+      "zh-CN": "/th?id=OHR.FibonacciFern_ZH-CN3882237848",
+      "en-IN": "/th?id=OHR.FibonacciFern_EN-IN6938090263"
     }
   },
   "PoppiesField": {
@@ -2111,38 +2129,6 @@
       "en-IN": "/th?id=OHR.Atlantica_EN-IN3149189379"
     }
   },
-  "MauerBerlin": {
-    "name": "MauerBerlin",
-    "urlbase": "/th?id=OHR.MauerBerlin_DE-DE4395338070",
-    "date": "20261108",
-    "dateFormatted": "November 08, 2026",
-    "markets": [
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      }
-    ],
-    "titles": {
-      "de-DE": "Die Nacht, die Deutschland veränderte. Der Fall der Berliner Mauer"
-    },
-    "copyrights": {
-      "de-DE": "Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)"
-    },
-    "descs": {
-      "de-DE": "Der 9. November 1989 war ein historischer Tag für Berlin und Deutschland. Am Abend verkündete der DDR-Politiker Günter Schabowski auf einer Pressekonferenz neue Reiseregelungen. Auf die Frage, wann diese gelten sollten, antwortete er voreilig und versehentlich, dies sei „sofort“ und „unverzüglich“ der Fall. Daraufhin strömten Tausende Menschen zu den Grenzübergängen in Berlin. Die Grenzsoldaten waren auf den großen Andrang nicht vorbereitet und öffneten schließlich die Übergänge."
-    },
-    "quickFacts": {},
-    "captions": {
-      "de-DE": "Der Fall der Berliner Mauer"
-    },
-    "copyrightlinks": {
-      "de-DE": "https://www.bing.com/search?q=Fall+der+Berliner+Mauer&form=hpcapt&filters=HpDate%3a%2220261108_2300%22"
-    },
-    "urlbases": {
-      "de-DE": "/th?id=OHR.MauerBerlin_DE-DE4395338070"
-    }
-  },
   "ArmisticeTriomphe": {
     "name": "ArmisticeTriomphe",
     "urlbase": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700",
@@ -2205,6 +2191,110 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
+    }
+  },
+  "DiwaliLamps": {
+    "name": "DiwaliLamps",
+    "urlbase": "/th?id=OHR.DiwaliLamps_EN-US0788074051",
+    "date": "20261108",
+    "dateFormatted": "November 08, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      }
+    ],
+    "titles": {
+      "en-US": "A celebration that shines. Diwali (Festival of Lights)",
+      "en-CA": "A celebration that shines. Diwali (Festival of Lights)",
+      "en-GB": "A celebration that shines. Diwali (Festival of Lights)",
+      "de-DE": "Ein strahlendes Fest. Diwali, das Lichterfest",
+      "fr-FR": "Célébration qui scintille. Diwali (Fête des lumières)",
+      "it-IT": "Una festa che illumina",
+      "es-ES": "Una celebración que brilla. Diwali (Festival de las luces)",
+      "pt-BR": "Uma festa que ilumina",
+      "ja-JP": "光に包まれる祝祭. ディーワーリー（光の祭典）",
+      "zh-CN": "光芒四射的节日",
+      "en-IN": "Happy Diwali!"
+    },
+    "copyrights": {
+      "en-US": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "en-CA": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "en-GB": "Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "de-DE": "Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)",
+      "fr-FR": "Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)",
+      "it-IT": "Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "es-ES": "Linternas del Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+      "pt-BR": "Lanternas para o Diwali, Mumbai, Maharashtra, Índia (© Dinodia Photo/Getty Images)",
+      "ja-JP": "ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images)",
+      "zh-CN": "排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)",
+      "en-IN": "Lanterns for Diwali in Mumbai, Maharashtra (© Dinodia Photo/Getty Images)"
+    },
+    "descs": {
+      "en-US": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets, and family gatherings.",
+      "en-CA": "Diwali, the Festival of Lights, is celebrated by millions of people around the world, including vibrant communities across Canada. Rooted in the Sanskrit word dipavali, meaning “row of lights,” the festival symbolizes the triumph of light over darkness and hope over adversity. Families and friends gather to light diyas and lanterns, create colourful rangoli, share sweets and take part in prayers and celebrations. While traditions vary across regions and faiths, Diwali is widely recognized as a time of reflection, gratitude and togetherness. As communities across Canada come together to celebrate, the festival continues to brighten neighbourhoods, workplaces and schools with its message of unity, joy and renewal.",
+      "en-GB": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets and family gatherings.",
+      "de-DE": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
+      "fr-FR": "Que se passe-t-il quand une nuit sombre donne lieu à la célébration la plus lumineuse de l’année ? Diwali, qui signifie « rangée de lumières » en sanskrit, a lieu lors de la nuit de la nouvelle lune du mois hindou de Kartik. À travers l'Inde, cette célébration s'accompagne de récits et de traditions variés. Durant 5 jours, elle est ponctuée par l’allumage des diyas (lampes à huile), pour symboliser la lumière, le nettoyage de la maison, des prières, des rangolis sur le sol, des échanges de cadeaux et des réunions familiales.",
+      "es-ES": "¿Qué sucede cuando la noche más oscura se llena de luz? Llega Diwali. El Festival de las Luces es celebrado por millones de personas en todo el mundo y reúne diyas, linternas, rangoli, oraciones, dulces y encuentros familiares.",
+      "ja-JP": "ディーワーリーは、新月の暗い夜を明るく照らす「光の祭典」です。世界中で多くの人々が祝い、ディヤーと呼ばれる小さな灯明やランタンをともし、色鮮やかなランゴーリーで辺りを飾り、家族でお菓子を分け合います。ヒンドゥー教をはじめ、ジャイナ教やシク教でも大切にされている祝祭で、名前はサンスクリット語で「光の列」を意味する「ディーパーヴァリ」に由来します。",
+      "en-IN": "Across India, Diwali brings homes, streets and neighbourhoods to life with the warm glow of lanterns, diyas and colourful decorations. Known as the Festival of Lights, it celebrates themes of hope, new beginnings and the triumph of light over darkness. Traditions vary across the country, but for many families, the festivities include creating rangoli, performing Lakshmi Puja, exchanging sweets and gifts, and spending time with loved ones. Diwali is also associated with Lord Rama's return to Ayodhya after defeating Ravana. More than a festival, it's a time for togetherness, reflection and welcoming the year ahead with optimism.",
+      "it-IT": "Quando la notte più buia dell’anno incontra la festa più luminosa, è tempo di Diwali. Milioni di persone nel mondo celebrano la Festa delle Luci con “diya”, le tradizionali lampade a olio, lanterne, rangoli, preghiere, dolci e momenti in famiglia. Il nome deriva dal sanscrito “dipavali”, che significa “fila di luci”. In India, storie e tradizioni cambiano da una regione all’altra: alcuni celebrano il ritorno di Rama ad Ayodhya, altri la vittoria di Krishna su Narakasura o rendono omaggio alla dea Kali. Anche giainisti e sikh festeggiano il Diwali, illuminando case e comunità.",
+      "pt-BR": "O que acontece quando a noite mais escura do ano ganha a celebração mais iluminada? Diwali. O Festival das Luzes é celebrado por milhões de pessoas em todo o mundo, reunindo diyas, lanternas, rangolis, orações, doces e encontros em família.",
+      "zh-CN": "一年中最黑暗的夜晚遇上最明亮的庆典，会是什么景象？答案就是排灯节。世界各地数百万人庆祝这个灯节，点亮油灯和灯笼，绘制兰戈利彩绘，祈祷、品尝甜点，并与家人团聚。"
+    },
+    "quickFacts": {
+      "zh-CN": "排灯节持续五天，但由于它遵循印度教阴历，每年在公历上的日期都会变化。"
+    },
+    "captions": {
+      "en-US": "Diwali (Festival of Lights)",
+      "en-CA": "Diwali (Festival of Lights)"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0800%22",
+      "en-CA": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0500%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.DiwaliLamps_EN-US0788074051",
+      "en-CA": "/th?id=OHR.DiwaliLamps_EN-CA5815375040"
+    }
+  },
+  "MauerBerlin": {
+    "name": "MauerBerlin",
+    "urlbase": "/th?id=OHR.MauerBerlin_DE-DE4395338070",
+    "date": "20261108",
+    "dateFormatted": "November 08, 2026",
+    "markets": [
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      }
+    ],
+    "titles": {
+      "de-DE": "Die Nacht, die Deutschland veränderte. Der Fall der Berliner Mauer"
+    },
+    "copyrights": {
+      "de-DE": "Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)"
+    },
+    "descs": {
+      "de-DE": "Der 9. November 1989 war ein historischer Tag für Berlin und Deutschland. Am Abend verkündete der DDR-Politiker Günter Schabowski auf einer Pressekonferenz neue Reiseregelungen. Auf die Frage, wann diese gelten sollten, antwortete er voreilig und versehentlich, dies sei „sofort“ und „unverzüglich“ der Fall. Daraufhin strömten Tausende Menschen zu den Grenzübergängen in Berlin. Die Grenzsoldaten waren auf den großen Andrang nicht vorbereitet und öffneten schließlich die Übergänge."
+    },
+    "quickFacts": {},
+    "captions": {
+      "de-DE": "Der Fall der Berliner Mauer"
+    },
+    "copyrightlinks": {
+      "de-DE": "https://www.bing.com/search?q=Fall+der+Berliner+Mauer&form=hpcapt&filters=HpDate%3a%2220261108_2300%22"
+    },
+    "urlbases": {
+      "de-DE": "/th?id=OHR.MauerBerlin_DE-DE4395338070"
     }
   },
   "DakotaBison": {
