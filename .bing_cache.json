@@ -1,4 +1,158 @@
 {
+  "FibonacciFern": {
+    "name": "FibonacciFern",
+    "urlbase": "/th?id=OHR.FibonacciFern_EN-US6307771770",
+    "date": "20261123",
+    "dateFormatted": "November 23, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Geometry in nature. Fibonacci Day",
+      "en-GB": "Geometry in nature. Fibonacci Day",
+      "en-CA": "Geometry in nature. Fibonacci Day",
+      "de-DE": "Geometrie in der Natur. Fibonacci-Tag",
+      "fr-FR": "Géométrie au naturel. Journée de Fibonacci",
+      "it-IT": "Geometria in natura",
+      "es-ES": "Geometría en la naturaleza. Día de Fibonacci",
+      "pt-BR": "A natureza fez as contas",
+      "ja-JP": "自然が描く幾何学模様. 渦を巻くシダの若芽",
+      "zh-CN": "蕨类植物的卷曲嫩叶",
+      "en-IN": "Geometry in nature. Fibonacci Day"
+    },
+    "copyrights": {
+      "en-US": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+      "en-GB": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+      "en-CA": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+      "de-DE": "Farnspitzen (© Reza Saputra/Getty Images)",
+      "fr-FR": "Pousse de fougère (© Reza Saputra/Getty Images)",
+      "it-IT": "Germoglio di felce (© Reza Saputra/Getty Images)",
+      "es-ES": "Brote de helecho (© Reza Saputra/Getty Images)",
+      "pt-BR": "Broto de samambaia (© Reza Saputra/Getty Images)",
+      "ja-JP": "シダの若芽 (© Reza Saputra/Getty Images)",
+      "zh-CN": "蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)",
+      "en-IN": "Fiddlehead fern (© Reza Saputra/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In math, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8, and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honor the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiraling arrangements of sunflower heads, pinecones, succulents, and pineapples.",
+      "en-GB": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In maths, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honour the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+      "en-CA": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In math, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, celebrated on November 23 because the date's numbers (11, 23) reflect the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+      "de-DE": "Das heutige Bild zeigt die Windung der Spitze eines jungen Farnsprosses, die an die geometrischen Muster erinnert, die überall in der Natur zu finden sind. In der Mathematik folgt die Fibonacci-Folge (benannt nach dem italienischen Mathematiker Leonardo Fibonacci) einem ähnlichen Muster, wobei jede Zahl durch die Addition der beiden vorhergehenden Zahlen entsteht: 0, 1, 1, 2, 3, 5, 8 und so weiter. Heute ist der Fibonacci-Tag, der aufgrund der amerikanischen Schreibweise des Datums (11/23) zu Ehren dieser Folge gewählt wurde.",
+      "fr-FR": "Aujourd'hui, c'est la Journée Fibonacci, une date choisie en référence aux chiffres qui la composent, 23/11 ou 11/23 écrit en anglais américain, pour rendre hommage à la suite établie par ce mathématicien italien. En mathématiques, la suite de Fibonacci suit une progression similaire, où chaque nombre est obtenu en additionnant les deux qui le précèdent : 0, 1, 1, 2, 3, 5, 8, et ainsi de suite.",
+      "es-ES": "La imagen muestra el enrollamiento gradual del extremo de un brote de helecho, que recuerda los patrones geométricos presentes en la naturaleza. En matemáticas, la sucesión de Fibonacci sigue una progresión similar: cada número se obtiene sumando los dos anteriores: 0, 1, 1, 2, 3, 5, 8 y así sucesivamente.",
+      "ja-JP": "写真は、シダの若芽の先がくるくると渦を巻いている様子です。こうした渦巻き模様は、自然界のあちこちで見ることができます。数学の「フィボナッチ数列」も、前の2つの数を足して次の数をつくる「0、1、1、2、3、5、8……」という並びで、少しずつ大きくなっていく様子がよく似ています。この若芽はやがて伸びて葉を広げますが、ヒマワリの種の並びや松ぼっくり、多肉植物、パイナップルのらせん模様には、この数列がこれからも現れ続けます。",
+      "en-IN": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In maths, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honour the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+      "it-IT": "L’immagine mostra la punta arrotolata di un germoglio di felce, la cui forma richiama motivi geometrici ricorrenti in natura. In matematica, la successione di Fibonacci segue una progressione simile, dove ogni numero è la somma dei due precedenti, come nella sequenza 0, 1, 1, 2, 3, 5, 8 e così via. E proprio oggi si celebra il Fibonacci Day, ricorrenza scelta per la data 11/23 (23 novembre nel formato americano) che richiama i primi numeri della successione. Crescendo, la felce si dispiegherà, ma forme simili continueranno a comparire nelle spirali di girasoli, pigne, piante succulente e ananas.",
+      "pt-BR": "A imagem de hoje mostra a ponta de uma jovem folha de samambaia se enrolando aos poucos, lembrando os padrões geométricos encontrados por toda a natureza. Na matemática, a sequência de Fibonacci segue uma progressão semelhante: cada número é a soma dos dois anteriores — 0, 1, 1, 2, 3, 5, 8 e assim por diante. Hoje é o Dia de Fibonacci, celebrado nesta data porque, no formato americano, 11/23 faz referência aos primeiros números da sequência. À medida que cresce, a jovem folha de samambaia mostrada aqui vai se desenrolar. Em outras partes do mundo vegetal, porém, a sequência continuará aparecendo nos padrões em espiral dos girassóis, das pinhas, das suculentas e dos abacaxis.",
+      "zh-CN": "今天的图片展示了一片蕨类嫩叶的顶端逐渐卷曲的样子，呼应着自然界随处可见的几何图案。在数学中，斐波那契数列也遵循类似的递进规律：每个数都是前两个数之和，即0、1、1、2、3、5、8，依此类推。今天是斐波那契日；选定这一天，是因为日期11/23中的数字与这一数列相呼应，以此向它致敬。图中的蕨类嫩叶终将随着生长而舒展开来，而在植物世界的其他地方，这一数列还会不断出现在向日葵花盘、松果、多肉植物和菠萝的螺旋排列中。"
+    },
+    "quickFacts": {
+      "en-US": "The Fibonacci sequence was popularized through a 13th-century math problem about multiplying rabbits.",
+      "en-GB": "The Fibonacci sequence was popularised through a 13th-century maths problem about multiplying rabbits.",
+      "en-CA": "The Fibonacci sequence was popularized through a 13th-century math problem about multiplying rabbits.",
+      "de-DE": "Die Fibonacci-Folge verbreitete sich durch ein mathematisches Problem aus dem 13. Jahrhundert, bei dem es um die Vermehrung von Kaninchen ging.",
+      "fr-FR": "La suite de Fibonacci a été popularisée grâce à un problème mathématique du XIIIe siècle portant sur la multiplication des lapins.",
+      "it-IT": "La successione di Fibonacci divenne famosa grazie a un problema matematico del XIII secolo sulla riproduzione dei conigli.",
+      "es-ES": "La sucesión de Fibonacci se popularizó mediante un problema matemático del siglo XIII sobre la reproducción de conejos.",
+      "pt-BR": "A sequência de Fibonacci foi popularizada a partir de um problema matemático do século XIII sobre a reprodução de coelhos.",
+      "ja-JP": "フィボナッチ数列が広く知られるようになったきっかけは、13世紀のウサギの増え方をめぐる数学の問題でした。",
+      "zh-CN": "斐波那契数列因一道关于兔子繁殖的13世纪数学题而广为人知。",
+      "en-IN": "The Fibonacci sequence was popularised through a 13th-century maths problem about multiplying rabbits."
+    },
+    "captions": {
+      "en-US": "Fibonacci Day",
+      "en-GB": "Fibonacci Day",
+      "en-CA": "Fibonacci Day",
+      "de-DE": "Fibonacci-Tag",
+      "fr-FR": "Journée de Fibonacci",
+      "it-IT": "",
+      "es-ES": "Día de Fibonacci",
+      "pt-BR": "",
+      "ja-JP": "渦を巻くシダの若芽",
+      "zh-CN": "",
+      "en-IN": "Fibonacci Day"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261123_0800%22",
+      "en-GB": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261123_0000%22",
+      "en-CA": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261123_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Fibonacci-Tag&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+      "it-IT": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=D%c3%ada+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Dia+de+Fibonacci&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0%e5%88%97&form=hpcapt&filters=HpDate%3a%2220261122_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261122_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FibonacciFern_EN-US6307771770",
+      "en-GB": "/th?id=OHR.FibonacciFern_EN-GB6785963710",
+      "en-CA": "/th?id=OHR.FibonacciFern_EN-CA6531851443",
+      "de-DE": "/th?id=OHR.FibonacciFern_DE-DE6300100112",
+      "fr-FR": "/th?id=OHR.FibonacciFern_FR-FR6204076819",
+      "it-IT": "/th?id=OHR.FibonacciFern_IT-IT3074319544",
+      "es-ES": "/th?id=OHR.FibonacciFern_ES-ES6597098315",
+      "pt-BR": "/th?id=OHR.FibonacciFern_PT-BR5976883875",
+      "ja-JP": "/th?id=OHR.FibonacciFern_JA-JP6039925060",
+      "zh-CN": "/th?id=OHR.FibonacciFern_ZH-CN3882237848",
+      "en-IN": "/th?id=OHR.FibonacciFern_EN-IN6938090263"
+    }
+  },
   "JustaHermitage": {
     "name": "JustaHermitage",
     "urlbase": "/th?id=OHR.JustaHermitage_EN-US0130271816",
@@ -801,7 +955,7 @@
       "es-ES": "Adéntrate en plena naturaleza. Sendero de los Cedros, Montana, EE. UU.",
       "pt-BR": "A trilha chama, bora?",
       "ja-JP": "さあ、大自然の中へ. 原生林を抜ける木道",
-      "zh-CN": "雪松林步道，冰川国家公园，蒙大拿州，美国",
+      "zh-CN": "走进广阔的大自然",
       "en-IN": "Step into the great outdoors. Trail of the Cedars, Glacier National Park, Montana, USA"
     },
     "copyrights": {
@@ -824,7 +978,7 @@
       "de-DE": "Zeit, die frische Herbstluft einzuatmen und die Schönheit der Natur zu genießen! Das heutige Bild zeigt den „Trail of the Cedars“, einen der insgesamt 1.120 Kilometer langen Wanderwege im Glacier-Nationalpark in Montana. Der 1,4 Kilometer lange Rundweg führt über einen Holzsteg durch einen Wald aus Rotzedern und Hemlocktannen. Der Park bietet Wanderwege für jedes Niveau, entlang alpiner Seen, Wildblumenwiesen, über Bergpässe und durch wilde Landschaften, die sich bis zur kanadischen Grenze erstrecken. Aber auch ohne spektakuläre Landschaften vor der Haustür kann man den Herbst bei einem Spaziergang genießen, während die Tage immer kürzer werden.",
       "fr-FR": "C’est le moment de partir à la découverte des grands espaces. Le sentier des Cèdres est l’un des quelque 1 100 km de sentiers de randonnée que compte le parc national de Glacier dans le Montana. Ce parcours en boucle emprunte une passerelle en bois qui serpente au milieu de thuyas géants et de tsugas. Le parc propose des itinéraires adaptés à tous les niveaux, traversant des lacs alpins, des prairies et des cols montagneux. Cette nature sauvage s’étend jusqu’à la frontière canadienne. Le parc offre de nombreuses possibilités de loisirs, été comme hiver.",
       "es-ES": "¡Hora de practicar senderismo! Es el momento de respirar el aire fresco del otoño y adentrarse en plena naturaleza. La imagen muestra el Sendero de los Cedros, uno de los más de 1.125 kilómetros de rutas del Parque Nacional de los Glaciares, en Montana. Su circuito de 1,4 kilómetros incluye una pasarela elevada entre cedros rojos occidentales y tsugas.",
-      "ja-JP": "さあ、大自然の中へ. トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ. モンタナ州のグレイシャー国立公園にある「トレイル・オブ・ザ・シーダーズ」は、約1.4kmの周回コースです。ベイスギやベイツガの原生林の中を木道が通り、樹齢500年を超える巨木も見られます。コースの中ほどにある橋からは、アバランチ・クリークが削った渓谷を見下ろせます。短くて歩きやすく、車いすでも楽しめるので、気軽に森の空気を味わいたいときにぴったりです。",
+      "ja-JP": "モンタナ州のグレイシャー国立公園にある「トレイル・オブ・ザ・シーダーズ」は、約1.4kmの周回コースです。ベイスギやベイツガの原生林の中を木道が通り、樹齢500年を超える巨木も見られます。コースの中ほどにある橋からは、アバランチ・クリークが削った渓谷を見下ろせます。短くて歩きやすく、車いすでも楽しめるので、気軽に森の空気を味わいたいときにぴったりです。",
       "en-IN": "Today's image features the Trail of the Cedars, one of 1,126 kilometres of hiking trails in Glacier National Park, Montana. Its 1.4-km-long loop includes a raised boardwalk which cuts a path through western red cedars and hemlock trees. The park boasts routes for all abilities, taking in alpine lakes, wildflower meadows, mountain passes and wilderness stretching to the Canadian border.",
       "it-IT": "È il periodo giusto per respirare l’aria frizzante d’autunno e immergersi nella natura. Nell’immagine di oggi, il Trail of the Cedars, uno dei tanti sentieri del Parco Nazionale dei Ghiacciai, nel Montana. Il percorso ad anello di circa 1,5 chilometri attraversa, su passerelle sopraelevate, un bosco di tsughe e cedri rossi occidentali. Il parco offre itinerari per ogni livello, tra laghi alpini, prati fioriti, passi montani e territori selvaggi, che si estendono fino al confine canadese. Basta una passeggiata tra gli alberi per sentirsi di nuovo a contatto con la natura.",
       "pt-BR": "É hora de aproveitar a natureza. A imagem de hoje mostra a Trilha dos Cedros, uma das muitas trilhas do Parque Nacional Glacier, em Montana, que juntas somam mais de 1.100 quilômetros. O percurso circular, de cerca de 1,4 quilômetros, inclui uma passarela elevada que atravessa uma floresta de cedros-vermelhos-do-oeste e tsugas. O parque oferece opções para todos os níveis de preparo, com trilhas que passam por lagos alpinos, campos de flores silvestres, passagens entre montanhas e extensas áreas de natureza preservada que chegam até a fronteira com o Canadá.",
@@ -1636,56 +1790,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1731,111 +1835,20 @@
       "zh-CN": "玫瑰岛只能乘船抵达；从拿骚或天堂岛出发，航程通常需25至30分钟，具体取决于海况。"
     },
     "captions": {
-      "en-US": "Aerial view of Rose Island, The Bahamas",
-      "en-GB": "Aerial view of Rose Island, The Bahamas",
-      "en-CA": "Aerial view of Rose Island, The Bahamas",
-      "de-DE": "Luftaufnahme von Rose Island, Bahamas",
-      "fr-FR": "Vue aérienne de Rose Island, aux Bahamas",
-      "it-IT": "",
-      "es-ES": "Vista aérea de Rose Island, Bahamas",
-      "pt-BR": "",
-      "ja-JP": "ローズ島の空撮、バハマ",
-      "zh-CN": "",
-      "en-IN": "Aerial view of Rose Island, The Bahamas"
+      "en-US": "Aerial view of Rose Island, The Bahamas"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0800%22",
-      "en-GB": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Rose+Island+nas+Bahamas&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%ad%e3%83%bc%e3%82%ba%e5%b3%b6+%e3%83%90%e3%83%8f%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220261109_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac%e7%8e%ab%e7%91%b0%e5%b2%9b&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_1830%22"
+      "en-US": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0800%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.RoseIsland_EN-US0952497192",
-      "en-GB": "/th?id=OHR.RoseIsland_EN-GB4222638797",
-      "en-CA": "/th?id=OHR.RoseIsland_EN-CA5604124548",
-      "de-DE": "/th?id=OHR.RoseIsland_DE-DE1760101963",
-      "fr-FR": "/th?id=OHR.RoseIsland_FR-FR0867516842",
-      "it-IT": "/th?id=OHR.RoseIsland_IT-IT6994665330",
-      "es-ES": "/th?id=OHR.RoseIsland_ES-ES2836865726",
-      "pt-BR": "/th?id=OHR.RoseIsland_PT-BR8484348763",
-      "ja-JP": "/th?id=OHR.RoseIsland_JA-JP3257968381",
-      "zh-CN": "/th?id=OHR.RoseIsland_ZH-CN6477140814",
-      "en-IN": "/th?id=OHR.RoseIsland_EN-IN1259562642"
+      "en-US": "/th?id=OHR.RoseIsland_EN-US0952497192"
     }
   },
-  "TrianaSpain": {
-    "name": "TrianaSpain",
-    "urlbase": "/th?id=OHR.TrianaSpain_EN-US0872031458",
-    "date": "20261109",
-    "dateFormatted": "November 09, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
-      "en-GB": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
-      "en-CA": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
-      "fr-FR": "Ici, l’art trouve son rythme. Quartier historique de Triana, Séville, Espagne",
-      "it-IT": "Dove l’arte trova il suo ritmo",
-      "es-ES": "Donde el arte encuentra su ritmo. Barrio histórico de Triana, Sevilla, España",
-      "pt-BR": "Onde o flamenco respira",
-      "ja-JP": "芸術がリズムを刻む街. セビリアの歴史地区トリアナ、スペイン",
-      "zh-CN": "艺术与韵律交汇之地",
-      "en-IN": "Where art finds its rhythm. Historic district of Triana, Seville, Spain"
-    },
-    "copyrights": {
-      "en-US": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
-      "en-GB": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
-      "en-CA": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
-      "fr-FR": "Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)",
-      "it-IT": "Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images)",
-      "es-ES": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
-      "pt-BR": "Bairro histórico de Triana, Sevilha, Espanha (© Andrzej Rostek/Getty Images)",
-      "ja-JP": "セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)",
-      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)",
-      "en-IN": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
-      "en-GB": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
-      "en-CA": "Cross the Guadalquivir River and discover Triana, one of Seville’s most vibrant neighbourhoods. Connected to the city’s historic centre by the iconic Triana Bridge since the 19th century, this riverside district is known for its colourful ceramics, flamenco heritage and lively local culture. Brightly decorated buildings, traditional tile workshops and bustling markets give Triana a character all its own. Stroll along Calle Betis for scenic river views, explore streets lined with artisan studios, or simply soak up the neighbourhood’s welcoming atmosphere. While Seville’s famous landmarks are just steps away, Triana offers a unique glimpse into the traditions, creativity and everyday life that help define Andalusia.",
-      "fr-FR": "En traversant le fleuve Guadalquivir à Séville, capitale de l’Andalousie en Espagne, l’ambiance change complètement. De l’autre côté de la rive se trouve Triana, un quartier haut en couleur où la céramique, le flamenco et les traditions locales font partie intégrante de la vie quotidienne. Depuis le XIXe siècle, le pont Isabelle II, également connu sous le nom de pont de Triana, relie ce quartier au centre historique de Séville.",
-      "es-ES": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
-      "ja-JP": "スペイン南部アンダルシア州の州都セビリアで、グアダルキビール川を渡ると、街の表情が少し変わります。対岸のトリアナは、フラメンコや昔ながらの文化が息づく色彩豊かな地区で、19世紀に架けられたイサベル2世橋（トリアナ橋）で歴史地区とつながっています。古くから陶器作りが盛んで、今も色鮮やかなタイルが建物や工房を彩っています。職人や市場、音楽、細い路地が織りなす独特の雰囲気こそ、トリアナならではの魅力です。",
-      "en-IN": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
-      "it-IT": "Attraversato il Guadalquivir si ha come l’impressione che il ritmo di Siviglia cambi d’improvviso. Triana, situato sull’altra sponda del fiume, è un quartiere variopinto dove ceramiche, flamenco e tradizioni locali fanno parte integrante della vita quotidiana. Dal XIX secolo, il ponte Isabella II collega il centro città a questo storico quartiere. Passeggiando per le sue strade, si incontrano facciate decorate con “azulejos” (tipiche maioliche colorate), botteghe artigiane e vicoli dove si respira la storia del flamenco. Lungo Calle Betis, edifici dai colori vivaci si affacciano dolcemente sul fiume. Tra mercati, cortili piastrellati e terrazze, Triana conserva tutt’oggi un fascino unico.",
-      "pt-BR": "Ao atravessar o rio Guadalquivir em Sevilha, capital da região da Andaluzia, na Espanha, o ritmo da cidade parece mudar. Do outro lado fica Triana, um bairro colorido onde a cerâmica, o flamenco e as tradições locais se entrelaçam no cotidiano. Desde o século XIX, a Ponte Isabel II, também conhecida como Ponte de Triana, liga o bairro ao centro histórico de Sevilha. Triana não é definida por um único monumento. Seu encanto está na combinação de artesãos e mercados, música e pátios revestidos de azulejos, terraços à beira do rio e ruas estreitas. Sevilha pode estar logo do outro lado do rio, mas Triana tem um espírito próprio.",
-      "zh-CN": "在西班牙安达卢西亚地区首府塞维利亚，跨过瓜达尔基维尔河，城市的节奏似乎便悄然改变。河对岸是色彩缤纷的特里亚纳街区，陶艺、弗拉门戈和当地传统融入日常生活。自19世纪以来，伊莎贝尔二世桥——又称特里亚纳桥——一直连接着这里与塞维利亚的历史中心。"
-    },
-    "quickFacts": {
-      "zh-CN": "特里亚纳市场下方保留着圣豪尔赫城堡的遗址；这座城堡曾是宗教裁判所的总部，如今设有历史展览。"
-    },
-    "captions": {
-      "en-US": "Historic district of Triana, Seville, Spain"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0800%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.TrianaSpain_EN-US0872031458"
-    }
-  },
-  "FibonacciFern": {
-    "name": "FibonacciFern",
-    "urlbase": "/th?id=OHR.FibonacciFern_EN-GB6785963710",
-    "date": "20261123",
-    "dateFormatted": "November 23, 2026",
+  "CairngormsSquirrel": {
+    "name": "CairngormsSquirrel",
+    "urlbase": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031",
+    "date": "20261124",
+    "dateFormatted": "November 24, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1889,92 +1902,82 @@
       }
     ],
     "titles": {
-      "en-GB": "Geometry in nature. Fibonacci Day",
-      "en-CA": "Geometry in nature. Fibonacci Day",
-      "de-DE": "Geometrie in der Natur. Fibonacci-Tag",
-      "fr-FR": "Géométrie au naturel. Journée de Fibonacci",
-      "it-IT": "Geometria in natura",
-      "es-ES": "Geometría en la naturaleza. Día de Fibonacci",
-      "pt-BR": "A natureza fez as contas",
-      "ja-JP": "自然が描く幾何学模様. 渦を巻くシダの若芽",
-      "zh-CN": "蕨类植物的卷曲嫩叶",
-      "en-IN": "Geometry in nature. Fibonacci Day",
-      "en-US": "Geometry in nature. Fiddlehead fern"
+      "en-GB": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Scotland",
+      "en-CA": "Fall camouflage. Red squirrel in Cairngorms National Park, Scotland",
+      "de-DE": "Herbstliche Tarnung. Eichhörnchen im Cairngorms-Nationalpark",
+      "fr-FR": "Camouflage d’automne. Écureuil roux, parc des Cairngorms, Highlands, Écosse",
+      "it-IT": "Mimetismo d’autunno",
+      "es-ES": "Preparativos para el invierno. Ardilla roja en el Parque Nacional Cairngorms, Escocia",
+      "pt-BR": "Disfarce nível outono",
+      "ja-JP": "紅葉にまぎれて. キタリス、ケアンゴームズ国立公園、スコットランド",
+      "zh-CN": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地",
+      "en-IN": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Scotland",
+      "en-US": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Highlands, Scotland"
     },
     "copyrights": {
-      "en-GB": "Fiddlehead fern (© Reza Saputra/Getty Images)",
-      "en-CA": "Fiddlehead fern (© Reza Saputra/Getty Images)",
-      "de-DE": "Farnspitzen (© Reza Saputra/Getty Images)",
-      "fr-FR": "Pousse de fougère (© Reza Saputra/Getty Images)",
-      "it-IT": "Germoglio di felce (© Reza Saputra/Getty Images)",
-      "es-ES": "Brote de helecho (© Reza Saputra/Getty Images)",
-      "pt-BR": "Broto de samambaia (© Reza Saputra/Getty Images)",
-      "ja-JP": "シダの若芽 (© Reza Saputra/Getty Images)",
-      "zh-CN": "蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)",
-      "en-IN": "Fiddlehead fern (© Reza Saputra/Getty Images)",
-      "en-US": "© Reza Saputra/Getty Images"
+      "en-GB": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+      "en-CA": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+      "de-DE": "Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland (© Scotland: The Big Picture/Minden Pictures)",
+      "fr-FR": "Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures)",
+      "it-IT": "Scoiattolo rosso (Sciurus vulgaris), Parco Nazionale Cairngorms, Highlands, Scozia (© Scotland: The Big Picture/Minden Pictures)",
+      "es-ES": "Ardilla roja (Sciurus vulgaris) en el Parque Nacional Cairngorms, Tierras Altas de Escocia (© Scotland: The Big Picture/Minden Pictures)",
+      "pt-BR": "Esquilo-vermelho (Sciurus vulgaris) no Parque Nacional de Cairngorms, Highlands, Escócia (© Scotland: The Big Picture/Minden Pictures)",
+      "ja-JP": "キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures)",
+      "zh-CN": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)",
+      "en-IN": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+      "en-US": "© Scotland: The Big Picture/Minden Pictures"
     },
     "descs": {
-      "en-GB": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In maths, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honour the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
-      "en-CA": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In math, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, celebrated on November 23 because the date's numbers (11, 23) reflect the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
-      "de-DE": "Das heutige Bild zeigt die Windung der Spitze eines jungen Farnsprosses, die an die geometrischen Muster erinnert, die überall in der Natur zu finden sind. In der Mathematik folgt die Fibonacci-Folge (benannt nach dem italienischen Mathematiker Leonardo Fibonacci) einem ähnlichen Muster, wobei jede Zahl durch die Addition der beiden vorhergehenden Zahlen entsteht: 0, 1, 1, 2, 3, 5, 8 und so weiter. Heute ist der Fibonacci-Tag, der aufgrund der amerikanischen Schreibweise des Datums (11/23) zu Ehren dieser Folge gewählt wurde.",
-      "fr-FR": "Aujourd'hui, c'est la Journée Fibonacci, une date choisie en référence aux chiffres qui la composent, 23/11 ou 11/23 écrit en anglais américain, pour rendre hommage à la suite établie par ce mathématicien italien. En mathématiques, la suite de Fibonacci suit une progression similaire, où chaque nombre est obtenu en additionnant les deux qui le précèdent : 0, 1, 1, 2, 3, 5, 8, et ainsi de suite.",
-      "es-ES": "La imagen muestra el enrollamiento gradual del extremo de un brote de helecho, que recuerda los patrones geométricos presentes en la naturaleza. En matemáticas, la sucesión de Fibonacci sigue una progresión similar: cada número se obtiene sumando los dos anteriores: 0, 1, 1, 2, 3, 5, 8 y así sucesivamente.",
-      "ja-JP": "写真は、シダの若芽の先がくるくると渦を巻いている様子です。こうした渦巻き模様は、自然界のあちこちで見ることができます。数学の「フィボナッチ数列」も、前の2つの数を足して次の数をつくる「0、1、1、2、3、5、8……」という並びで、少しずつ大きくなっていく様子がよく似ています。この若芽はやがて伸びて葉を広げますが、ヒマワリの種の並びや松ぼっくり、多肉植物、パイナップルのらせん模様には、この数列がこれからも現れ続けます。",
-      "en-IN": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In maths, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honour the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
-      "en-US": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In math, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8, and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honor the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiraling arrangements of sunflower heads, pinecones, succulents, and pineapples.",
-      "it-IT": "L’immagine mostra la punta arrotolata di un germoglio di felce, la cui forma richiama motivi geometrici ricorrenti in natura. In matematica, la successione di Fibonacci segue una progressione simile, dove ogni numero è la somma dei due precedenti, come nella sequenza 0, 1, 1, 2, 3, 5, 8 e così via. E proprio oggi si celebra il Fibonacci Day, ricorrenza scelta per la data 11/23 (23 novembre nel formato americano) che richiama i primi numeri della successione. Crescendo, la felce si dispiegherà, ma forme simili continueranno a comparire nelle spirali di girasoli, pigne, piante succulente e ananas.",
-      "pt-BR": "A imagem de hoje mostra a ponta de uma jovem folha de samambaia se enrolando aos poucos, lembrando os padrões geométricos encontrados por toda a natureza. Na matemática, a sequência de Fibonacci segue uma progressão semelhante: cada número é a soma dos dois anteriores — 0, 1, 1, 2, 3, 5, 8 e assim por diante. Hoje é o Dia de Fibonacci, celebrado nesta data porque, no formato americano, 11/23 faz referência aos primeiros números da sequência. À medida que cresce, a jovem folha de samambaia mostrada aqui vai se desenrolar. Em outras partes do mundo vegetal, porém, a sequência continuará aparecendo nos padrões em espiral dos girassóis, das pinhas, das suculentas e dos abacaxis.",
-      "zh-CN": "今天的图片展示了一片蕨类嫩叶的顶端逐渐卷曲的样子，呼应着自然界随处可见的几何图案。在数学中，斐波那契数列也遵循类似的递进规律：每个数都是前两个数之和，即0、1、1、2、3、5、8，依此类推。今天是斐波那契日；选定这一天，是因为日期11/23中的数字与这一数列相呼应，以此向它致敬。图中的蕨类嫩叶终将随着生长而舒展开来，而在植物世界的其他地方，这一数列还会不断出现在向日葵花盘、松果、多肉植物和菠萝的螺旋排列中。"
+      "en-GB": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and more recently planted conifer woodlands, providing valuable habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels throughout the year. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+      "en-CA": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+      "de-DE": "Als einzige einheimische Eichhörnchenart Großbritanniens fühlen sich die eurasischen Eichhörnchen im schottischen Cairngorms-Nationalpark besonders wohl. Der Park ist ein wichtiger Rückzugsort und bietet sowohl uralte kaledonische Kiefernwälder als auch jüngere Nadelwälder, die den Eichhörnchen das ganze Jahr über reichlich Lebensraum und Nahrung bieten, darunter Pinienkerne, Nüsse und andere Leckerbissen. Das heutige Bild zeigt ein Eichhörnchen umgeben von buntem Herbstlaub, das sich in den schottischen Highlands ganz wie zu Hause fühlt, während es seine nächsten Sprünge plant.",
+      "fr-FR": "L'écureuil roux (Sciurus vulgaris) prospère dans le parc national des Cairngorms en Écosse. Véritable refuge, ce parc abrite d'anciennes forêts de pins calédoniens ainsi que des boisements de conifères plus récents, offrant ainsi un habitat et une nourriture abondante à cet animal tout au long de l'année. Seule espèce d'écureuil indigène de Grande-Bretagne, les écureuils roux sont toujours à la recherche des graines de pin sylvestre, des noisettes et d'autres mets savoureux.",
+      "es-ES": "En el Parque Nacional Cairngorms, en las Tierras Altas de Escocia, una ardilla roja se prepara para los meses fríos. Esta especie euroasiática dedica gran parte del otoño a reunir semillas, piñas y frutos secos, que esconde en numerosos lugares repartidos por su territorio.",
+      "ja-JP": "紅葉にまぎれて. キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド. イギリスにもともとすむ唯一のリスであるキタリスは、スコットランドのケアンゴームズ国立公園で元気に暮らしています。公園には古くから残るカレドニアの松林や新しい針葉樹の森が広がり、ヨーロッパアカマツの種や木の実などの食べものが一年中豊富なため、リスたちにとって大切なすみかになっています。写真のキタリスは、オレンジや黄色に色づいた葉の中にちょこんと座り、次は何をしようかと考えているようです。",
+      "en-IN": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+      "en-US": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts, and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+      "it-IT": "Lo scoiattolo rosso, l’unica specie di scoiattolo autoctona della Gran Bretagna, prospera in condizioni ottimali nel Parco Nazionale dei Cairngorms, in Scozia. Tra antiche pinete caledoniane e boschi di conifere, trova habitat ideali e cibo in abbondanza, dai semi di pino silvestre alle noci. Nell’immagine di oggi, uno scoiattolo rosso fa capolino tra le calde sfumature gialle e arancioni delle foglie. Perfettamente a suo agio nel paesaggio autunnale delle Highlands scozzesi, questo simpatico roditore sembra riflettere sulla sua prossima mossa.",
+      "pt-BR": "Como a única espécie de esquilo nativa da Grã-Bretanha, o esquilo-vermelho encontra um importante refúgio no Parque Nacional de Cairngorms, na Escócia. O parque abriga antigas florestas de pinheiro-da-escócia e bosques de coníferas mais recentes, oferecendo habitat e alimento em abundância para esses animais, que passam o ano em busca de sementes de pinheiro, nozes e outros alimentos. Na imagem de hoje, um esquilo-vermelho está pousado entre folhas em tons quentes de laranja e amarelo, perfeitamente à vontade enquanto parece decidir seu próximo passo nas Terras Altas da Escócia.",
+      "zh-CN": "红松鼠是英国唯一的本土松鼠物种，在苏格兰的凯恩戈姆斯国家公园繁衍生息。这座公园是它们的重要庇护地：古老的喀里多尼亚欧洲赤松林和较新形成的针叶林，为松鼠提供了充足的栖息空间和食物，让它们一年四季都能觅食欧洲赤松的种子、坚果和其他美味。今天的照片中，一只红松鼠栖身于橙黄相间的秋叶间，仿佛与苏格兰高地的景色融为一体，正盘算着下一步要去哪里。"
     },
     "quickFacts": {
-      "en-US": "The Fibonacci sequence was popularized through a 13th-century math problem about multiplying rabbits.",
-      "en-GB": "The Fibonacci sequence was popularised through a 13th-century maths problem about multiplying rabbits.",
-      "en-CA": "The Fibonacci sequence was popularized through a 13th-century math problem about multiplying rabbits.",
-      "de-DE": "Die Fibonacci-Folge verbreitete sich durch ein mathematisches Problem aus dem 13. Jahrhundert, bei dem es um die Vermehrung von Kaninchen ging.",
-      "fr-FR": "La suite de Fibonacci a été popularisée grâce à un problème mathématique du XIIIe siècle portant sur la multiplication des lapins.",
-      "it-IT": "La successione di Fibonacci divenne famosa grazie a un problema matematico del XIII secolo sulla riproduzione dei conigli.",
-      "es-ES": "La sucesión de Fibonacci se popularizó mediante un problema matemático del siglo XIII sobre la reproducción de conejos.",
-      "pt-BR": "A sequência de Fibonacci foi popularizada a partir de um problema matemático do século XIII sobre a reprodução de coelhos.",
-      "ja-JP": "フィボナッチ数列が広く知られるようになったきっかけは、13世紀のウサギの増え方をめぐる数学の問題でした。",
-      "zh-CN": "斐波那契数列因一道关于兔子繁殖的13世纪数学题而广为人知。",
-      "en-IN": "The Fibonacci sequence was popularised through a 13th-century maths problem about multiplying rabbits."
+      "zh-CN": "英国约八成的现存红松鼠生活在苏格兰；它们用树枝交织成巢，内部铺上树叶。这种巢称为“松鼠巢”（drey）。"
     },
     "captions": {
-      "en-GB": "Fibonacci Day",
-      "en-CA": "Fibonacci Day",
-      "de-DE": "Fibonacci-Tag",
-      "fr-FR": "Journée de Fibonacci",
+      "en-GB": "Red squirrel in Cairngorms National Park, Scotland",
+      "en-CA": "Red squirrel in Cairngorms National Park, Scotland",
+      "de-DE": "Eichhörnchen im Cairngorms-Nationalpark",
+      "fr-FR": "Écureuil roux, parc des Cairngorms, Highlands, Écosse",
       "it-IT": "",
-      "es-ES": "Día de Fibonacci",
+      "es-ES": "Ardilla roja en el Parque Nacional Cairngorms, Escocia",
       "pt-BR": "",
-      "ja-JP": "渦を巻くシダの若芽",
+      "ja-JP": "キタリス、ケアンゴームズ国立公園、スコットランド",
       "zh-CN": "",
-      "en-IN": "Fibonacci Day"
+      "en-IN": "Red squirrel in Cairngorms National Park, Scotland"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261123_0000%22",
-      "en-CA": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261123_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Fibonacci-Tag&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
-      "it-IT": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=D%c3%ada+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Dia+de+Fibonacci&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0%e5%88%97&form=hpcapt&filters=HpDate%3a%2220261122_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%97%a5&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261122_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+      "it-IT": "https://www.bing.com/search?q=scoiattolo+rosso+Eurasiatico&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Ardilla+roja+Euroasi%c3%a1tica&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Esquilo-vermelho-eurasi%c3%a1tico&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ad%e3%82%bf%e3%83%aa%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261123_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261123_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.FibonacciFern_EN-GB6785963710",
-      "en-CA": "/th?id=OHR.FibonacciFern_EN-CA6531851443",
-      "de-DE": "/th?id=OHR.FibonacciFern_DE-DE6300100112",
-      "fr-FR": "/th?id=OHR.FibonacciFern_FR-FR6204076819",
-      "it-IT": "/th?id=OHR.FibonacciFern_IT-IT3074319544",
-      "es-ES": "/th?id=OHR.FibonacciFern_ES-ES6597098315",
-      "pt-BR": "/th?id=OHR.FibonacciFern_PT-BR5976883875",
-      "ja-JP": "/th?id=OHR.FibonacciFern_JA-JP6039925060",
-      "zh-CN": "/th?id=OHR.FibonacciFern_ZH-CN3882237848",
-      "en-IN": "/th?id=OHR.FibonacciFern_EN-IN6938090263"
+      "en-GB": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031",
+      "en-CA": "/th?id=OHR.CairngormsSquirrel_EN-CA7409521257",
+      "de-DE": "/th?id=OHR.CairngormsSquirrel_DE-DE7485834001",
+      "fr-FR": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770",
+      "it-IT": "/th?id=OHR.CairngormsSquirrel_IT-IT3679426218",
+      "es-ES": "/th?id=OHR.CairngormsSquirrel_ES-ES5472061849",
+      "pt-BR": "/th?id=OHR.CairngormsSquirrel_PT-BR6516004781",
+      "ja-JP": "/th?id=OHR.CairngormsSquirrel_JA-JP8531667327",
+      "zh-CN": "/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869",
+      "en-IN": "/th?id=OHR.CairngormsSquirrel_EN-IN7928513964"
     }
   },
   "PoppiesField": {
@@ -2191,6 +2194,67 @@
     },
     "urlbases": {
       "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
+    }
+  },
+  "TrianaSpain": {
+    "name": "TrianaSpain",
+    "urlbase": "/th?id=OHR.TrianaSpain_EN-US0872031458",
+    "date": "20261109",
+    "dateFormatted": "November 09, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "en-GB": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "en-CA": "Where art finds its rhythm. Historic district of Triana, Seville, Spain",
+      "fr-FR": "Ici, l’art trouve son rythme. Quartier historique de Triana, Séville, Espagne",
+      "it-IT": "Dove l’arte trova il suo ritmo",
+      "es-ES": "Donde el arte encuentra su ritmo. Barrio histórico de Triana, Sevilla, España",
+      "pt-BR": "Onde o flamenco respira",
+      "ja-JP": "芸術がリズムを刻む街. セビリアの歴史地区トリアナ、スペイン",
+      "zh-CN": "艺术与韵律交汇之地",
+      "en-IN": "Where art finds its rhythm. Historic district of Triana, Seville, Spain"
+    },
+    "copyrights": {
+      "en-US": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+      "en-GB": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+      "en-CA": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+      "fr-FR": "Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)",
+      "it-IT": "Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images)",
+      "es-ES": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
+      "pt-BR": "Bairro histórico de Triana, Sevilha, Espanha (© Andrzej Rostek/Getty Images)",
+      "ja-JP": "セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)",
+      "zh-CN": "特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)",
+      "en-IN": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+      "en-GB": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
+      "en-CA": "Cross the Guadalquivir River and discover Triana, one of Seville’s most vibrant neighbourhoods. Connected to the city’s historic centre by the iconic Triana Bridge since the 19th century, this riverside district is known for its colourful ceramics, flamenco heritage and lively local culture. Brightly decorated buildings, traditional tile workshops and bustling markets give Triana a character all its own. Stroll along Calle Betis for scenic river views, explore streets lined with artisan studios, or simply soak up the neighbourhood’s welcoming atmosphere. While Seville’s famous landmarks are just steps away, Triana offers a unique glimpse into the traditions, creativity and everyday life that help define Andalusia.",
+      "fr-FR": "En traversant le fleuve Guadalquivir à Séville, capitale de l’Andalousie en Espagne, l’ambiance change complètement. De l’autre côté de la rive se trouve Triana, un quartier haut en couleur où la céramique, le flamenco et les traditions locales font partie intégrante de la vie quotidienne. Depuis le XIXe siècle, le pont Isabelle II, également connu sous le nom de pont de Triana, relie ce quartier au centre historique de Séville.",
+      "es-ES": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+      "ja-JP": "スペイン南部アンダルシア州の州都セビリアで、グアダルキビール川を渡ると、街の表情が少し変わります。対岸のトリアナは、フラメンコや昔ながらの文化が息づく色彩豊かな地区で、19世紀に架けられたイサベル2世橋（トリアナ橋）で歴史地区とつながっています。古くから陶器作りが盛んで、今も色鮮やかなタイルが建物や工房を彩っています。職人や市場、音楽、細い路地が織りなす独特の雰囲気こそ、トリアナならではの魅力です。",
+      "en-IN": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colourful neighbourhood where ceramics, flamenco and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighbourhood to Seville's historic centre.",
+      "it-IT": "Attraversato il Guadalquivir si ha come l’impressione che il ritmo di Siviglia cambi d’improvviso. Triana, situato sull’altra sponda del fiume, è un quartiere variopinto dove ceramiche, flamenco e tradizioni locali fanno parte integrante della vita quotidiana. Dal XIX secolo, il ponte Isabella II collega il centro città a questo storico quartiere. Passeggiando per le sue strade, si incontrano facciate decorate con “azulejos” (tipiche maioliche colorate), botteghe artigiane e vicoli dove si respira la storia del flamenco. Lungo Calle Betis, edifici dai colori vivaci si affacciano dolcemente sul fiume. Tra mercati, cortili piastrellati e terrazze, Triana conserva tutt’oggi un fascino unico.",
+      "pt-BR": "Ao atravessar o rio Guadalquivir em Sevilha, capital da região da Andaluzia, na Espanha, o ritmo da cidade parece mudar. Do outro lado fica Triana, um bairro colorido onde a cerâmica, o flamenco e as tradições locais se entrelaçam no cotidiano. Desde o século XIX, a Ponte Isabel II, também conhecida como Ponte de Triana, liga o bairro ao centro histórico de Sevilha. Triana não é definida por um único monumento. Seu encanto está na combinação de artesãos e mercados, música e pátios revestidos de azulejos, terraços à beira do rio e ruas estreitas. Sevilha pode estar logo do outro lado do rio, mas Triana tem um espírito próprio.",
+      "zh-CN": "在西班牙安达卢西亚地区首府塞维利亚，跨过瓜达尔基维尔河，城市的节奏似乎便悄然改变。河对岸是色彩缤纷的特里亚纳街区，陶艺、弗拉门戈和当地传统融入日常生活。自19世纪以来，伊莎贝尔二世桥——又称特里亚纳桥——一直连接着这里与塞维利亚的历史中心。"
+    },
+    "quickFacts": {
+      "zh-CN": "特里亚纳市场下方保留着圣豪尔赫城堡的遗址；这座城堡曾是宗教裁判所的总部，如今设有历史展览。"
+    },
+    "captions": {
+      "en-US": "Historic district of Triana, Seville, Spain"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0800%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.TrianaSpain_EN-US0872031458"
     }
   },
   "DiwaliLamps": {
