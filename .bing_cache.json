@@ -1,4 +1,148 @@
 {
+  "CairngormsSquirrel": {
+    "name": "CairngormsSquirrel",
+    "urlbase": "/th?id=OHR.CairngormsSquirrel_EN-US7053432564",
+    "date": "20261124",
+    "dateFormatted": "November 24, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Scotland",
+      "en-GB": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Scotland",
+      "en-CA": "Fall camouflage. Red squirrel in Cairngorms National Park, Scotland",
+      "de-DE": "Herbstliche Tarnung. Eichhörnchen im Cairngorms-Nationalpark",
+      "fr-FR": "Camouflage d’automne. Écureuil roux, parc des Cairngorms, Highlands, Écosse",
+      "it-IT": "Mimetismo d’autunno",
+      "es-ES": "Preparativos para el invierno. Ardilla roja en el Parque Nacional Cairngorms, Escocia",
+      "pt-BR": "Disfarce nível outono",
+      "ja-JP": "紅葉にまぎれて. キタリス、ケアンゴームズ国立公園、スコットランド",
+      "zh-CN": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地",
+      "en-IN": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Scotland"
+    },
+    "copyrights": {
+      "en-US": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+      "en-GB": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+      "en-CA": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+      "de-DE": "Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland (© Scotland: The Big Picture/Minden Pictures)",
+      "fr-FR": "Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures)",
+      "it-IT": "Scoiattolo rosso (Sciurus vulgaris), Parco Nazionale Cairngorms, Highlands, Scozia (© Scotland: The Big Picture/Minden Pictures)",
+      "es-ES": "Ardilla roja (Sciurus vulgaris) en el Parque Nacional Cairngorms, Tierras Altas de Escocia (© Scotland: The Big Picture/Minden Pictures)",
+      "pt-BR": "Esquilo-vermelho (Sciurus vulgaris) no Parque Nacional de Cairngorms, Highlands, Escócia (© Scotland: The Big Picture/Minden Pictures)",
+      "ja-JP": "キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures)",
+      "zh-CN": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)",
+      "en-IN": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)"
+    },
+    "descs": {
+      "en-US": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts, and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+      "en-GB": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and more recently planted conifer woodlands, providing valuable habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels throughout the year. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+      "en-CA": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+      "de-DE": "Als einzige einheimische Eichhörnchenart Großbritanniens fühlen sich die eurasischen Eichhörnchen im schottischen Cairngorms-Nationalpark besonders wohl. Der Park ist ein wichtiger Rückzugsort und bietet sowohl uralte kaledonische Kiefernwälder als auch jüngere Nadelwälder, die den Eichhörnchen das ganze Jahr über reichlich Lebensraum und Nahrung bieten, darunter Pinienkerne, Nüsse und andere Leckerbissen. Das heutige Bild zeigt ein Eichhörnchen umgeben von buntem Herbstlaub, das sich in den schottischen Highlands ganz wie zu Hause fühlt, während es seine nächsten Sprünge plant.",
+      "fr-FR": "L'écureuil roux (Sciurus vulgaris) prospère dans le parc national des Cairngorms en Écosse. Véritable refuge, ce parc abrite d'anciennes forêts de pins calédoniens ainsi que des boisements de conifères plus récents, offrant ainsi un habitat et une nourriture abondante à cet animal tout au long de l'année. Seule espèce d'écureuil indigène de Grande-Bretagne, les écureuils roux sont toujours à la recherche des graines de pin sylvestre, des noisettes et d'autres mets savoureux.",
+      "es-ES": "En el Parque Nacional Cairngorms, en las Tierras Altas de Escocia, una ardilla roja se prepara para los meses fríos. Esta especie euroasiática dedica gran parte del otoño a reunir semillas, piñas y frutos secos, que esconde en numerosos lugares repartidos por su territorio.",
+      "ja-JP": "紅葉にまぎれて. キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド. イギリスにもともとすむ唯一のリスであるキタリスは、スコットランドのケアンゴームズ国立公園で元気に暮らしています。公園には古くから残るカレドニアの松林や新しい針葉樹の森が広がり、ヨーロッパアカマツの種や木の実などの食べものが一年中豊富なため、リスたちにとって大切なすみかになっています。写真のキタリスは、オレンジや黄色に色づいた葉の中にちょこんと座り、次は何をしようかと考えているようです。",
+      "en-IN": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+      "it-IT": "Lo scoiattolo rosso, l’unica specie di scoiattolo autoctona della Gran Bretagna, prospera in condizioni ottimali nel Parco Nazionale dei Cairngorms, in Scozia. Tra antiche pinete caledoniane e boschi di conifere, trova habitat ideali e cibo in abbondanza, dai semi di pino silvestre alle noci. Nell’immagine di oggi, uno scoiattolo rosso fa capolino tra le calde sfumature gialle e arancioni delle foglie. Perfettamente a suo agio nel paesaggio autunnale delle Highlands scozzesi, questo simpatico roditore sembra riflettere sulla sua prossima mossa.",
+      "pt-BR": "Como a única espécie de esquilo nativa da Grã-Bretanha, o esquilo-vermelho encontra um importante refúgio no Parque Nacional de Cairngorms, na Escócia. O parque abriga antigas florestas de pinheiro-da-escócia e bosques de coníferas mais recentes, oferecendo habitat e alimento em abundância para esses animais, que passam o ano em busca de sementes de pinheiro, nozes e outros alimentos. Na imagem de hoje, um esquilo-vermelho está pousado entre folhas em tons quentes de laranja e amarelo, perfeitamente à vontade enquanto parece decidir seu próximo passo nas Terras Altas da Escócia.",
+      "zh-CN": "红松鼠是英国唯一的本土松鼠物种，在苏格兰的凯恩戈姆斯国家公园繁衍生息。这座公园是它们的重要庇护地：古老的喀里多尼亚欧洲赤松林和较新形成的针叶林，为松鼠提供了充足的栖息空间和食物，让它们一年四季都能觅食欧洲赤松的种子、坚果和其他美味。今天的照片中，一只红松鼠栖身于橙黄相间的秋叶间，仿佛与苏格兰高地的景色融为一体，正盘算着下一步要去哪里。"
+    },
+    "quickFacts": {
+      "zh-CN": "英国约八成的现存红松鼠生活在苏格兰；它们用树枝交织成巢，内部铺上树叶。这种巢称为“松鼠巢”（drey）。"
+    },
+    "captions": {
+      "en-US": "Red squirrel in Cairngorms National Park, Scotland",
+      "en-GB": "Red squirrel in Cairngorms National Park, Scotland",
+      "en-CA": "Red squirrel in Cairngorms National Park, Scotland",
+      "de-DE": "Eichhörnchen im Cairngorms-Nationalpark",
+      "fr-FR": "Écureuil roux, parc des Cairngorms, Highlands, Écosse",
+      "it-IT": "",
+      "es-ES": "Ardilla roja en el Parque Nacional Cairngorms, Escocia",
+      "pt-BR": "",
+      "ja-JP": "キタリス、ケアンゴームズ国立公園、スコットランド",
+      "zh-CN": "",
+      "en-IN": "Red squirrel in Cairngorms National Park, Scotland"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+      "it-IT": "https://www.bing.com/search?q=scoiattolo+rosso+Eurasiatico&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Ardilla+roja+Euroasi%c3%a1tica&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Esquilo-vermelho-eurasi%c3%a1tico&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%82%ad%e3%82%bf%e3%83%aa%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261123_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261123_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.CairngormsSquirrel_EN-US7053432564",
+      "en-GB": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031",
+      "en-CA": "/th?id=OHR.CairngormsSquirrel_EN-CA7409521257",
+      "de-DE": "/th?id=OHR.CairngormsSquirrel_DE-DE7485834001",
+      "fr-FR": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770",
+      "it-IT": "/th?id=OHR.CairngormsSquirrel_IT-IT3679426218",
+      "es-ES": "/th?id=OHR.CairngormsSquirrel_ES-ES5472061849",
+      "pt-BR": "/th?id=OHR.CairngormsSquirrel_PT-BR6516004781",
+      "ja-JP": "/th?id=OHR.CairngormsSquirrel_JA-JP8531667327",
+      "zh-CN": "/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869",
+      "en-IN": "/th?id=OHR.CairngormsSquirrel_EN-IN7928513964"
+    }
+  },
   "FibonacciFern": {
     "name": "FibonacciFern",
     "urlbase": "/th?id=OHR.FibonacciFern_EN-US6307771770",
@@ -801,7 +945,7 @@
       "es-ES": "De caza desde el anochecer. Una pareja de lechuzas al anochecer",
       "pt-BR": "Dupla do turno da noite",
       "ja-JP": "夕暮れから始まる狩り. 夕暮れ時のメンフクロウのつがい",
-      "zh-CN": "一对仓鸮",
+      "zh-CN": "从黄昏狩猎到黎明",
       "en-IN": "Hunting from dusk till dawn. A pair of barn owls at dusk"
     },
     "copyrights": {
@@ -1780,6 +1924,174 @@
       "en-US": "/th?id=OHR.SunsetFlags_EN-US1046151448"
     }
   },
+  "SunsetPoint": {
+    "name": "SunsetPoint",
+    "urlbase": "/th?id=OHR.SunsetPoint_EN-GB6418180336",
+    "date": "20261125",
+    "dateFormatted": "November 25, 2026",
+    "markets": [
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-GB": "When snow meets red rock. Bryce Canyon National Park, Utah",
+      "en-CA": "When snow meets red rock. Bryce Canyon National Park, Utah",
+      "de-DE": "Schneefall im Südwesten. Bryce-Canyon-Nationalpark, Utah",
+      "fr-FR": "Cheminées de fées enneigées. Parc national de Bryce Canyon, Utah, États-Unis",
+      "it-IT": "Il canyon si veste di bianco",
+      "es-ES": "Centinelas de piedra y nieve. Sunset Point, Parque Nacional Bryce Canyon, Utah",
+      "pt-BR": "Até o deserto sente frio",
+      "ja-JP": "赤い奇岩の雪化粧. ブライスキャニオン国立公園、ユタ州",
+      "zh-CN": "日落观景点，布莱斯峡谷国家公园，犹他州",
+      "en-IN": "When snow meets red rock. Bryce Canyon National Park, Utah, USA",
+      "en-US": "A southwestern snowfall. Sunset Point, Bryce Canyon National Park, Utah"
+    },
+    "copyrights": {
+      "en-GB": "Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)",
+      "en-CA": "Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)",
+      "de-DE": "Sunset Point, Bryce-Canyon-Nationalpark, Utah (© Colin D. Young/Alamy)",
+      "fr-FR": "Sunset Point, parc national de Bryce Canyon, Utah, États-Unis (© Colin D. Young/Alamy)",
+      "it-IT": "Sunset Point, Parco Nazionale del Bryce Canyon, Utah (© Colin D. Young/Alamy)",
+      "es-ES": "Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)",
+      "pt-BR": "Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)",
+      "ja-JP": "サンセット・ポイント、ブライスキャニオン国立公園、ユタ州 (© Colin D. Young/Alamy)",
+      "zh-CN": "日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)",
+      "en-IN": "Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)",
+      "en-US": "© Colin D. Young/Alamy"
+    },
+    "descs": {
+      "en-GB": "Snow transforms Bryce Canyon National Park, blanketing the landscape in white while its fiery orange-red hoodoos rise above the snowy terrain. Seen from Sunset Point, one of the park's best-known viewpoints, these fantastical shapes are part of the Claron Formation, a collection of sedimentary rocks deposited around 50 million years ago and later sculpted by weathering and erosion. Because much of the park lies above 2,440 metres, snow can arrive as early as October. In today's image, snow clings to the canyon's ridges and spires while mist drifts across the cliffs, creating an iconic winter scene in the American Southwest.",
+      "en-CA": "Snow transforms Bryce Canyon National Park, blanketing the landscape in white while its fiery orange-red hoodoos rise above the snowy terrain. Seen from Sunset Point, one of the park's most famous overlooks, these fantastical shapes are part of the Claron Formation, whose limestone was deposited about 50 million years ago and later shaped by weathering and erosion. Because much of the park rises above 2,440 metres, snow can arrive as early as October. In today's image, snow clings to the canyon's ridges and spires while mist drifts across the cliffs, creating an iconic winter scene in the American Southwest.",
+      "de-DE": "Schnee verwandelt den Bryce-Canyon-Nationalpark und hüllt die Landschaft in Weiß, während sich die feurig orange-roten Hoodoos über das verschneite Gelände erheben. Vom Sunset Point aus, einem der berühmtesten Aussichtspunkte des Parks, betrachtet, sind diese fantasievollen Formen Teil der Claron-Formation, deren Kalkstein vor etwa 50 Millionen Jahren abgelagert und später durch Verwitterung und Erosion geformt wurde. Da ein Großteil des Parks über 2.400 Meter hoch liegt, kann es bereits im Oktober schneien. Auf dem heutigen Bild liegt Schnee auf den Graten und Felsspitzen des Canyons, während Nebel über die Klippen zieht und so eine einzigartige Winterlandschaft im Südwesten der USA schafft.",
+      "fr-FR": "La neige métamorphose le parc national de Bryce Canyon, recouvrant le paysage d'une couche blanche tandis que ses cheminées de fées, aux teintes rouge orangé flamboyantes, se dressent au-dessus du manteau enneigé. Depuis Sunset Point, l'un des points de vue les plus célèbres du parc, des formes fantastiques se déploient sur l’ensemble de la formation de Claron. Le calcaire s'est déposé il y a environ 50 millions d'années avant d’être façonné par les intempéries et l’érosion. Une grande partie du parc culminant à plus de 2 400 mètres d'altitude, la neige peut faire son apparition dès le mois d'octobre.",
+      "es-ES": "La nieve cubre los hoodoos de Bryce Canyon, en Utah, y acentúa las formas de estas extraordinarias columnas de roca. Aunque se denomina cañón, Bryce es en realidad una sucesión de anfiteatros naturales excavados en el borde de una elevada meseta.",
+      "ja-JP": "雪に覆われたブライスキャニオン国立公園では、オレンジ色に輝く岩の柱「フードゥー」が白い大地からそびえ立ち、鮮やかなコントラストを見せています。写真は、園内でも有名な展望スポットのひとつ、サンセット・ポイントからの眺めです。フードゥーは、約5000万年前に積もった石灰岩の地層が、長い年月をかけて風化や浸食で削られてできたものです。公園の大部分は標高2,400mを超える高地にあるため、早ければ10月には雪が降り始めます。岩の尾根や尖塔に雪が残り、崖の間を霧が流れていく様子は、アメリカ南西部ならではの冬の絶景です。",
+      "en-IN": "Snow transforms Bryce Canyon National Park, blanketing the landscape in white while its fiery orange-red hoodoos rise above the snowy terrain. Seen from Sunset Point, one of the park's most famous overlooks, these fantastical shapes are part of the Claron Formation, whose limestone was deposited about 50 million years ago and later shaped by weathering and erosion. Because much of the park rises above 2,400 metres, snow can arrive as early as October. In today's image, snow clings to the canyon's ridges and spires while mist drifts across the cliffs, creating an iconic winter scene in the American Southwest.",
+      "en-US": "Snow transforms Bryce Canyon National Park, blanketing the landscape in white while its fiery orange-red hoodoos rise above the snowy terrain. Seen from Sunset Point, one of the park's most famous overlooks, these fantastical shapes are part of the Claron Formation, whose limestone was deposited about 50 million years ago and later shaped by weathering and erosion. Because much of the park rises above 8,000 feet, snow can arrive as early as October. In today's image, snow clings to the canyon's ridges and spires while mist drifts across the cliffs, creating an iconic winter scene in the American Southwest.",
+      "it-IT": "La neve colora di bianco il Parco Nazionale del Bryce Canyon, mentre le creste di pietra rosso-arancione emergono dalla candida coltre. Visibili da Sunset Point, queste spettacolari rocce calcaree, risalenti a circa 50 milioni di anni fa, sono state modellate nel tempo dagli agenti atmosferici e dall’erosione. Gran parte del parco si trova a oltre 2.400 metri, un'altitudine dove la prime fioccate possono arrivare già ad ottobre. Nell’immagine di oggi, neve e nebbia avvolgono creste e pinnacoli, creando un suggestivo scenario invernale nel Sud-Ovest degli Stati Uniti.",
+      "pt-BR": "A neve transforma o Parque Nacional Bryce Canyon, cobrindo a paisagem de branco enquanto seus impressionantes hoodoos em tons de laranja e vermelho se elevam acima do terreno nevado. Vistas do Sunset Point, um dos mirantes mais famosos do parque, essas formações de aparência fantástica fazem parte da Formação Claron, cujo calcário foi depositado há cerca de 50 milhões de anos e, mais tarde, moldado pelo intemperismo e pela erosão. Como grande parte do parque fica a mais de 2.400 metros de altitude, a neve pode chegar já em outubro. Na imagem de hoje, ela se acumula nas cristas e nos pináculos do cânion, enquanto a névoa desliza pelos penhascos, criando uma cena de inverno emblemática no sudoeste dos Estados Unidos.",
+      "zh-CN": "白雪让布莱斯峡谷国家公园焕然一新：大地披上银装，鲜艳的橙红色石林在雪地上拔地而起。从公园最著名的观景点之一——日落观景点望去，这些奇特的岩石造型属于克拉伦组。构成它们的石灰岩约在5000万年前沉积，后来又经风化和侵蚀塑造成形。由于公园大部分地区海拔超过8000英尺，早在10月就可能降雪。今天的照片中，积雪覆着峡谷的山脊和石柱，薄雾从崖壁间飘过，呈现出美国西南部标志性的冬日景象。"
+    },
+    "quickFacts": {
+      "zh-CN": "在布莱斯峡谷，一年中有超过170个夜晚的气温会跨越冰点。渗入岩缝的水结冰膨胀，帮助将岩石逐渐塑造成石林柱。"
+    },
+    "captions": {
+      "en-GB": "Bryce Canyon National Park, Utah",
+      "en-CA": "Bryce Canyon National Park, Utah",
+      "de-DE": "Bryce-Canyon-Nationalpark, Utah",
+      "fr-FR": "Parc national de Bryce Canyon, Utah, États-Unis",
+      "it-IT": "",
+      "es-ES": "Sunset Point, Parque Nacional Bryce Canyon, Utah",
+      "pt-BR": "",
+      "ja-JP": "ブライスキャニオン国立公園、ユタ州",
+      "zh-CN": "",
+      "en-IN": "Bryce Canyon National Park, Utah, USA"
+    },
+    "copyrightlinks": {
+      "en-GB": "https://www.bing.com/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220261125_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220261125_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Bryce-Canyon-Nationalpark&form=hpcapt&filters=HpDate%3a%2220261124_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Parc+national+de+Bryce+Canyon&form=hpcapt&filters=HpDate%3a%2220261124_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Parco+Nazionale+del+Bryce+Canyon&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Parque+Nacional+del+Ca%c3%b1%c3%b3n+Bryce&form=hpcapt&filters=HpDate%3a%2220261124_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Parque+Nacional+Bryce+Canyon&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%8b%e3%82%aa%e3%83%b3%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261124_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220261124_1830%22"
+    },
+    "urlbases": {
+      "en-GB": "/th?id=OHR.SunsetPoint_EN-GB6418180336",
+      "en-CA": "/th?id=OHR.SunsetPoint_EN-CA6444917407",
+      "de-DE": "/th?id=OHR.SunsetPoint_DE-DE0548911114",
+      "fr-FR": "/th?id=OHR.SunsetPoint_FR-FR4616557781",
+      "it-IT": "/th?id=OHR.SunsetPoint_IT-IT9291683501",
+      "es-ES": "/th?id=OHR.SunsetPoint_ES-ES7252349167",
+      "pt-BR": "/th?id=OHR.SunsetPoint_PT-BR6763339998",
+      "ja-JP": "/th?id=OHR.SunsetPoint_JA-JP7278727628",
+      "zh-CN": "/th?id=OHR.SunsetPoint_ZH-CN5737034685",
+      "en-IN": "/th?id=OHR.SunsetPoint_EN-IN8140664778"
+    }
+  },
+  "ChhathPuja2026": {
+    "name": "ChhathPuja2026",
+    "urlbase": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581",
+    "date": "20261112",
+    "dateFormatted": "November 12, 2026",
+    "markets": [
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-IN": "Glow of Chhath Puja. Chhath Puja"
+    },
+    "copyrights": {
+      "en-IN": "Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock)"
+    },
+    "descs": {
+      "en-IN": "As the Sun dips towards the horizon, the Damodar River becomes a gathering place for Chhath Puja. The four-day Hindu festival is dedicated to Surya, the Sun God, and Chhathi Maiya. Mainly observed in Bihar, Jharkhand and Uttar Pradesh, as well as parts of Nepal, it is a celebration of gratitude for the Sun and its life-sustaining energy. Devotees observe fasting and gather beside rivers and other bodies of water to pray. One of the festival's most distinctive traditions is offering prayers to both the setting and rising sun, creating striking scenes as families and communities gather at the water's edge at dusk and dawn."
+    },
+    "quickFacts": {},
+    "captions": {
+      "en-IN": "Chhath Puja"
+    },
+    "copyrightlinks": {
+      "en-IN": "https://www.bing.com/search?q=Chhath+Puja&form=hpcapt&filters=HpDate%3a%2220261112_1830%22"
+    },
+    "urlbases": {
+      "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
+    }
+  },
   "RoseIsland": {
     "name": "RoseIsland",
     "urlbase": "/th?id=OHR.RoseIsland_EN-US0952497192",
@@ -1842,142 +2154,6 @@
     },
     "urlbases": {
       "en-US": "/th?id=OHR.RoseIsland_EN-US0952497192"
-    }
-  },
-  "CairngormsSquirrel": {
-    "name": "CairngormsSquirrel",
-    "urlbase": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031",
-    "date": "20261124",
-    "dateFormatted": "November 24, 2026",
-    "markets": [
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-GB": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Scotland",
-      "en-CA": "Fall camouflage. Red squirrel in Cairngorms National Park, Scotland",
-      "de-DE": "Herbstliche Tarnung. Eichhörnchen im Cairngorms-Nationalpark",
-      "fr-FR": "Camouflage d’automne. Écureuil roux, parc des Cairngorms, Highlands, Écosse",
-      "it-IT": "Mimetismo d’autunno",
-      "es-ES": "Preparativos para el invierno. Ardilla roja en el Parque Nacional Cairngorms, Escocia",
-      "pt-BR": "Disfarce nível outono",
-      "ja-JP": "紅葉にまぎれて. キタリス、ケアンゴームズ国立公園、スコットランド",
-      "zh-CN": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地",
-      "en-IN": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Scotland",
-      "en-US": "Autumnal camouflage. Red squirrel in Cairngorms National Park, Highlands, Scotland"
-    },
-    "copyrights": {
-      "en-GB": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
-      "en-CA": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
-      "de-DE": "Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland (© Scotland: The Big Picture/Minden Pictures)",
-      "fr-FR": "Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures)",
-      "it-IT": "Scoiattolo rosso (Sciurus vulgaris), Parco Nazionale Cairngorms, Highlands, Scozia (© Scotland: The Big Picture/Minden Pictures)",
-      "es-ES": "Ardilla roja (Sciurus vulgaris) en el Parque Nacional Cairngorms, Tierras Altas de Escocia (© Scotland: The Big Picture/Minden Pictures)",
-      "pt-BR": "Esquilo-vermelho (Sciurus vulgaris) no Parque Nacional de Cairngorms, Highlands, Escócia (© Scotland: The Big Picture/Minden Pictures)",
-      "ja-JP": "キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures)",
-      "zh-CN": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)",
-      "en-IN": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
-      "en-US": "© Scotland: The Big Picture/Minden Pictures"
-    },
-    "descs": {
-      "en-GB": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and more recently planted conifer woodlands, providing valuable habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels throughout the year. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
-      "en-CA": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
-      "de-DE": "Als einzige einheimische Eichhörnchenart Großbritanniens fühlen sich die eurasischen Eichhörnchen im schottischen Cairngorms-Nationalpark besonders wohl. Der Park ist ein wichtiger Rückzugsort und bietet sowohl uralte kaledonische Kiefernwälder als auch jüngere Nadelwälder, die den Eichhörnchen das ganze Jahr über reichlich Lebensraum und Nahrung bieten, darunter Pinienkerne, Nüsse und andere Leckerbissen. Das heutige Bild zeigt ein Eichhörnchen umgeben von buntem Herbstlaub, das sich in den schottischen Highlands ganz wie zu Hause fühlt, während es seine nächsten Sprünge plant.",
-      "fr-FR": "L'écureuil roux (Sciurus vulgaris) prospère dans le parc national des Cairngorms en Écosse. Véritable refuge, ce parc abrite d'anciennes forêts de pins calédoniens ainsi que des boisements de conifères plus récents, offrant ainsi un habitat et une nourriture abondante à cet animal tout au long de l'année. Seule espèce d'écureuil indigène de Grande-Bretagne, les écureuils roux sont toujours à la recherche des graines de pin sylvestre, des noisettes et d'autres mets savoureux.",
-      "es-ES": "En el Parque Nacional Cairngorms, en las Tierras Altas de Escocia, una ardilla roja se prepara para los meses fríos. Esta especie euroasiática dedica gran parte del otoño a reunir semillas, piñas y frutos secos, que esconde en numerosos lugares repartidos por su territorio.",
-      "ja-JP": "紅葉にまぎれて. キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド. イギリスにもともとすむ唯一のリスであるキタリスは、スコットランドのケアンゴームズ国立公園で元気に暮らしています。公園には古くから残るカレドニアの松林や新しい針葉樹の森が広がり、ヨーロッパアカマツの種や木の実などの食べものが一年中豊富なため、リスたちにとって大切なすみかになっています。写真のキタリスは、オレンジや黄色に色づいた葉の中にちょこんと座り、次は何をしようかと考えているようです。",
-      "en-IN": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
-      "en-US": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts, and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
-      "it-IT": "Lo scoiattolo rosso, l’unica specie di scoiattolo autoctona della Gran Bretagna, prospera in condizioni ottimali nel Parco Nazionale dei Cairngorms, in Scozia. Tra antiche pinete caledoniane e boschi di conifere, trova habitat ideali e cibo in abbondanza, dai semi di pino silvestre alle noci. Nell’immagine di oggi, uno scoiattolo rosso fa capolino tra le calde sfumature gialle e arancioni delle foglie. Perfettamente a suo agio nel paesaggio autunnale delle Highlands scozzesi, questo simpatico roditore sembra riflettere sulla sua prossima mossa.",
-      "pt-BR": "Como a única espécie de esquilo nativa da Grã-Bretanha, o esquilo-vermelho encontra um importante refúgio no Parque Nacional de Cairngorms, na Escócia. O parque abriga antigas florestas de pinheiro-da-escócia e bosques de coníferas mais recentes, oferecendo habitat e alimento em abundância para esses animais, que passam o ano em busca de sementes de pinheiro, nozes e outros alimentos. Na imagem de hoje, um esquilo-vermelho está pousado entre folhas em tons quentes de laranja e amarelo, perfeitamente à vontade enquanto parece decidir seu próximo passo nas Terras Altas da Escócia.",
-      "zh-CN": "红松鼠是英国唯一的本土松鼠物种，在苏格兰的凯恩戈姆斯国家公园繁衍生息。这座公园是它们的重要庇护地：古老的喀里多尼亚欧洲赤松林和较新形成的针叶林，为松鼠提供了充足的栖息空间和食物，让它们一年四季都能觅食欧洲赤松的种子、坚果和其他美味。今天的照片中，一只红松鼠栖身于橙黄相间的秋叶间，仿佛与苏格兰高地的景色融为一体，正盘算着下一步要去哪里。"
-    },
-    "quickFacts": {
-      "zh-CN": "英国约八成的现存红松鼠生活在苏格兰；它们用树枝交织成巢，内部铺上树叶。这种巢称为“松鼠巢”（drey）。"
-    },
-    "captions": {
-      "en-GB": "Red squirrel in Cairngorms National Park, Scotland",
-      "en-CA": "Red squirrel in Cairngorms National Park, Scotland",
-      "de-DE": "Eichhörnchen im Cairngorms-Nationalpark",
-      "fr-FR": "Écureuil roux, parc des Cairngorms, Highlands, Écosse",
-      "it-IT": "",
-      "es-ES": "Ardilla roja en el Parque Nacional Cairngorms, Escocia",
-      "pt-BR": "",
-      "ja-JP": "キタリス、ケアンゴームズ国立公園、スコットランド",
-      "zh-CN": "",
-      "en-IN": "Red squirrel in Cairngorms National Park, Scotland"
-    },
-    "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
-      "it-IT": "https://www.bing.com/search?q=scoiattolo+rosso+Eurasiatico&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Ardilla+roja+Euroasi%c3%a1tica&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Esquilo-vermelho-eurasi%c3%a1tico&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%82%ad%e3%82%bf%e3%83%aa%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220261123_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261123_1830%22"
-    },
-    "urlbases": {
-      "en-GB": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031",
-      "en-CA": "/th?id=OHR.CairngormsSquirrel_EN-CA7409521257",
-      "de-DE": "/th?id=OHR.CairngormsSquirrel_DE-DE7485834001",
-      "fr-FR": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770",
-      "it-IT": "/th?id=OHR.CairngormsSquirrel_IT-IT3679426218",
-      "es-ES": "/th?id=OHR.CairngormsSquirrel_ES-ES5472061849",
-      "pt-BR": "/th?id=OHR.CairngormsSquirrel_PT-BR6516004781",
-      "ja-JP": "/th?id=OHR.CairngormsSquirrel_JA-JP8531667327",
-      "zh-CN": "/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869",
-      "en-IN": "/th?id=OHR.CairngormsSquirrel_EN-IN7928513964"
     }
   },
   "PoppiesField": {
@@ -2162,38 +2338,6 @@
     },
     "urlbases": {
       "fr-FR": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700"
-    }
-  },
-  "ChhathPuja2026": {
-    "name": "ChhathPuja2026",
-    "urlbase": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581",
-    "date": "20261112",
-    "dateFormatted": "November 12, 2026",
-    "markets": [
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
-      }
-    ],
-    "titles": {
-      "en-IN": "Glow of Chhath Puja. Chhath Puja"
-    },
-    "copyrights": {
-      "en-IN": "Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock)"
-    },
-    "descs": {
-      "en-IN": "As the Sun dips towards the horizon, the Damodar River becomes a gathering place for Chhath Puja. The four-day Hindu festival is dedicated to Surya, the Sun God, and Chhathi Maiya. Mainly observed in Bihar, Jharkhand and Uttar Pradesh, as well as parts of Nepal, it is a celebration of gratitude for the Sun and its life-sustaining energy. Devotees observe fasting and gather beside rivers and other bodies of water to pray. One of the festival's most distinctive traditions is offering prayers to both the setting and rising sun, creating striking scenes as families and communities gather at the water's edge at dusk and dawn."
-    },
-    "quickFacts": {},
-    "captions": {
-      "en-IN": "Chhath Puja"
-    },
-    "copyrightlinks": {
-      "en-IN": "https://www.bing.com/search?q=Chhath+Puja&form=hpcapt&filters=HpDate%3a%2220261112_1830%22"
-    },
-    "urlbases": {
-      "en-IN": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581"
     }
   },
   "TrianaSpain": {
