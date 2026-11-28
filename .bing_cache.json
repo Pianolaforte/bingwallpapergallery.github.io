@@ -1,4 +1,148 @@
 {
+  "FaceCanyon": {
+    "name": "FaceCanyon",
+    "urlbase": "/th?id=OHR.FaceCanyon_EN-US6254374163",
+    "date": "20261127",
+    "dateFormatted": "November 27, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      },
+      {
+        "code": "en-GB",
+        "name": "UK",
+        "flag": "gb"
+      },
+      {
+        "code": "en-CA",
+        "name": "CA",
+        "flag": "ca"
+      },
+      {
+        "code": "de-DE",
+        "name": "DE",
+        "flag": "de"
+      },
+      {
+        "code": "fr-FR",
+        "name": "FR",
+        "flag": "fr"
+      },
+      {
+        "code": "it-IT",
+        "name": "IT",
+        "flag": "it"
+      },
+      {
+        "code": "es-ES",
+        "name": "ES",
+        "flag": "es"
+      },
+      {
+        "code": "pt-BR",
+        "name": "BR",
+        "flag": "br"
+      },
+      {
+        "code": "ja-JP",
+        "name": "JP",
+        "flag": "jp"
+      },
+      {
+        "code": "zh-CN",
+        "name": "CN",
+        "flag": "cn"
+      },
+      {
+        "code": "en-IN",
+        "name": "IN",
+        "flag": "in"
+      }
+    ],
+    "titles": {
+      "en-US": "Ribbons of gray and gold. Face Canyon, Lake Powell, Utah",
+      "en-GB": "Ribbons of grey and gold. Face Canyon, Lake Powell, Utah",
+      "en-CA": "Ribbons of grey and gold. Face Canyon, Lake Powell, Utah",
+      "de-DE": "Streifen in Grau und Gold. Face Canyon, Lake Powell, Utah",
+      "fr-FR": "Rubans gris et or. Face Canyon, Lac Powell, Utah",
+      "it-IT": "Acqua, terra e fuoco nel cielo",
+      "es-ES": "Cintas grises y doradas. Face Canyon, Lago Powell, Utah",
+      "pt-BR": "Quando a pedra vira ouro",
+      "ja-JP": "灰色と黄金色が織りなす風景. フェイス・キャニオン、パウエル湖、ユタ州",
+      "zh-CN": "夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国",
+      "en-IN": "Ribbons of grey and gold. Face Canyon, Lake Powell, Utah"
+    },
+    "copyrights": {
+      "en-US": "Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)",
+      "en-GB": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+      "en-CA": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+      "de-DE": "Butte bei Sonnenuntergang, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+      "fr-FR": "Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)",
+      "it-IT": "Butte al tramonto, Face Canyon, Lago Powell, Utah, USA (© Jeff Foott/Minden)",
+      "es-ES": "Colina aislada al atardecer, Face Canyon, Lago Powell, Utah, EE. UU. (© Jeff Foott/Minden)",
+      "pt-BR": "Monolito ao pôr do sol, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)",
+      "ja-JP": "夕暮れの岩山、フェイス・キャニオン、パウエル湖、ユタ州、アメリカ (© Jeff Foott/Minden)",
+      "zh-CN": "夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)",
+      "en-IN": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)"
+    },
+    "descs": {
+      "en-US": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in southern Utah. Many are far from roads and would be hard to reach if they hadn't been flooded by the lake, created in 1963 during the construction of the Glen Canyon Dam. The lake's waters back up about 186 miles, along creeks and canyons which you can explore by boat, kayak, or personal watercraft.",
+      "en-GB": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in southern Utah. Many are far from roads and would be difficult to reach if they hadn't been flooded by the lake, which was created in 1963 during the construction of the Glen Canyon Dam. The lake's waters extend for around 186 miles (299 kilometres), along creeks and canyons which you can explore by boat, kayak or jet ski.",
+      "en-CA": "Hidden among the maze-like sandstone cliffs of southern Utah, Face Canyon offers a striking glimpse into the dramatic landscapes that define Lake Powell, one of the largest human-made lakes in North America. Formed after the construction of the Glen Canyon Dam, the lake transformed once-isolated canyons into waterways that can now be explored by boat, kayak or paddleboard. Towering red rock walls rise above deep blue waters, creating scenery that feels both rugged and serene. Whether arriving at sunset as golden light paints the canyon walls or seeking shade from the midday desert heat, visitors quickly discover that the journey through this remarkable landscape is every bit as rewarding as the destination itself.",
+      "de-DE": "Versteckt in einer uralten Sandsteinlandschaft ist der Face Canyon einer von 96 Canyons, die sich vom Lake Powell im Süden Utahs aus erstrecken. Viele liegen weit abseits von Straßen und wären schwer zu erreichen, wären sie nicht vom See überflutet worden, der 1963 während des Baus des Glen-Canyon-Staudamms entstand. Der See erstreckt sich etwa 300 Kilometer entlang von Flussläufen und Canyons, die man mit dem Boot, Kajak oder anderen Wassersportgeräten erkunden kann.",
+      "fr-FR": "Dissimulé au cœur d’un paysage de grès, Face Canyon est l’un des 96 canyons qui s’étendent depuis le lac Powell, au sud de l’Utah. Nombre d’entre eux seraient difficiles d’accès s’ils n’avaient pas été submergés par les eaux du lac.  Le lac Powell est le deuxième plus grand lac artificiel des États-Unis. Formé en 1963 lors de la construction du barrage de Glen Canyon, il s’étire sur près de 300 km.",
+      "es-ES": "Oculto en un antiguo paisaje de arenisca, Face Canyon es uno de los 96 cañones que se extienden desde el Lago Powell, en el sur de Utah. Muchos están lejos de las carreteras y serían difíciles de alcanzar si no los hubiera inundado el lago, creado en 1963 durante la construcción de la presa de Glen Canyon. Las aguas del lago remontan unos 300 km por arroyos y cañones que se pueden explorar en barco, en kayak o en moto acuática.",
+      "ja-JP": "灰色と黄金色が織りなす風景. 夕暮れの岩山、フェイス・キャニオン、パウエル湖、ユタ州、アメリカ. ユタ州南部のパウエル湖には、砂岩に囲まれた数多くの峡谷が広がっています。その一つ、フェイス・キャニオンは、切り立った岩壁と静かな湖面が美しい場所です。パウエル湖はダムの建設によって生まれた人工湖で、ボートやカヤックで峡谷を巡ることができます。夕暮れには岩肌が黄金色に染まり、幻想的な景色が広がります。高い岩壁が強い日差しを遮ってくれるため、暑い日でも日陰でひと息つけます。",
+      "en-IN": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in southern Utah. Many are far from roads and would be hard to reach if they hadn't been flooded by the lake, created in 1963 during the construction of the Glen Canyon Dam. The lake's waters back up about 300 kilometres, along creeks and canyons which you can explore by boat, kayak or personal watercraft.",
+      "it-IT": "Nascosto tra secolari paesaggi di arenaria, Face Canyon è uno dei 96 valloni che si diramano dal Lago Powell, nello Utah meridionale. Le formazioni rocciose meno accessibili via terra possono essere raggiunte in barca o kayak attraversando le acque del lago, creato nel 1963 con la costruzione della diga di Glen Canyon. Riempito per 17 anni fino a raggiungere il suo massimo livello, è il secondo bacino artificiale più grande degli Stati Uniti. Tra acque blu e imponenti pareti di arenaria, il Lago Powell regala panorami spettacolari, che diventano ancora più suggestivi all’ora del tramonto.",
+      "pt-BR": "Escondido em uma antiga paisagem de arenito, Face Canyon é um dos 96 cânions que se estendem a partir de Lake Powell, no sul de Utah. Muitos deles ficam longe das estradas e seriam de difícil acesso se não tivessem sido inundados pelas águas do lago, formado em 1963 durante a construção da Barragem de Glen Canyon. As águas de Lake Powell se estendem por cerca de 300 quilômetros ao longo de riachos e cânions, que podem ser explorados de barco, caiaque ou moto aquática.",
+      "zh-CN": "脸峡谷隐于古老的砂岩地貌之中，是美国犹他州南部鲍威尔湖沿岸96座峡谷之一。许多峡谷远离公路，若非1963年修建格伦峡谷大坝形成的湖水淹入，此前很难抵达。湖水沿溪流和峡谷向上游延伸约186英里（约300公里），你可以乘船、划皮划艇或驾驶摩托艇探索。"
+    },
+    "quickFacts": {
+      "zh-CN": "鲍威尔湖附近的彩虹桥是当地美洲原住民的圣地；这座天然石桥高约290英尺。"
+    },
+    "captions": {
+      "en-US": "Face Canyon, Lake Powell, Utah",
+      "en-GB": "Face Canyon, Lake Powell, Utah",
+      "en-CA": "Face Canyon, Lake Powell, Utah",
+      "de-DE": "Face Canyon, Lake Powell, Utah",
+      "fr-FR": "Face Canyon, Lac Powell, Utah",
+      "it-IT": "",
+      "es-ES": "Face Canyon, Lago Powell, Utah",
+      "pt-BR": "",
+      "ja-JP": "フェイス・キャニオン、パウエル湖、ユタ州",
+      "zh-CN": "",
+      "en-IN": "Face Canyon, Lake Powell, Utah"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261127_0800%22",
+      "en-GB": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261127_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261127_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Lake+Powell+Stausee&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Lac+Powell&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Lago+Powell&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Lago+Powell&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Lake+Powell+no+Colorado&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab%e6%b9%96&form=hpcapt&filters=HpDate%3a%2220261126_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e9%b2%8d%e5%a8%81%e5%b0%94%e6%b9%96&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261126_1830%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.FaceCanyon_EN-US6254374163",
+      "en-GB": "/th?id=OHR.FaceCanyon_EN-GB5580459617",
+      "en-CA": "/th?id=OHR.FaceCanyon_EN-CA9192055868",
+      "de-DE": "/th?id=OHR.FaceCanyon_DE-DE8985806432",
+      "fr-FR": "/th?id=OHR.FaceCanyon_FR-FR9763207069",
+      "it-IT": "/th?id=OHR.FaceCanyon_IT-IT4616461166",
+      "es-ES": "/th?id=OHR.FaceCanyon_ES-ES7167229862",
+      "pt-BR": "/th?id=OHR.FaceCanyon_PT-BR9349113908",
+      "ja-JP": "/th?id=OHR.FaceCanyon_JA-JP4501981808",
+      "zh-CN": "/th?id=OHR.FaceCanyon_ZH-CN9505064248",
+      "en-IN": "/th?id=OHR.FaceCanyon_EN-IN7727815834"
+    }
+  },
   "WildTom": {
     "name": "WildTom",
     "urlbase": "/th?id=OHR.WildTom_EN-US1069249609",
@@ -691,7 +835,7 @@
       "es-ES": "Sueños de terracota. Niza, Provenza-Alpes-Costa Azul, Francia",
       "pt-BR": "Sonhos em terracota",
       "ja-JP": "テラコッタ色に染まる街. ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス",
-      "zh-CN": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯",
+      "zh-CN": "陶瓦屋顶下的梦",
       "en-IN": "Terracotta dreams. Nice, Provence-Alpes-Côte d'Azur, France"
     },
     "copyrights": {
@@ -714,7 +858,7 @@
       "de-DE": "In sanftes Sonnenlicht getaucht, präsentiert sich die Altstadt von Nizza auf dem heutigen Bild als ein Mosaik aus mediterranen Terrakotta-Dächern, alten Kirchtürmen und Häuserfassaden in Pastelltönen entlang der französischen Riviera. Von den alten Griechen gegründet und lange Zeit mit dem italienischen Königshaus Savoyen verbunden, wurde Nizza 1860 offiziell Teil Frankreichs. Bis heute ist diese facettenreiche Vergangenheit in der südfranzösischen Küstenstadt sichtbar, wo Architektur der alten Welt auf das Blau des Mittelmeers und die sonnigen Hügel der Côte d’Azur trifft.",
       "fr-FR": "Baigné de lumière, le quartier du Vieux-Nice est constitué d’une mosaïque de toits en terre cuite, d’églises historiques et de façades aux couleurs ocre. Fondée par les Grecs de l’Antiquité et longtemps liée à la maison royale italienne de Savoie, Nice a officiellement été rattachée à la France en 1860. Aujourd’hui, son passé riche et varié demeure perceptible dans toute la ville, où une architecture d’antan côtoie les eaux bleues de la Méditerranée.",
       "es-ES": "Bañada por una luz dorada, Niza forma un mosaico de tejados de terracota, iglesias históricas y fachadas en tonos pastel junto a la Riviera francesa. Fundada por los antiguos griegos y vinculada durante siglos a la casa real italiana de Saboya, Niza pasó oficialmente a formar parte de Francia en 1860.",
-      "ja-JP": "テラコッタ色に染まる街. ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス. やわらかな陽光に包まれたニースは、テラコッタ色の屋根や歴史ある教会、パステルカラーの建物が寄り集まった、まるでパッチワークのような街です。古代ギリシャ人によって築かれたこの街は、長くサヴォイア家と深い関わりを持ち、正式にフランス領となったのは1860年でした。今も旧市街にはイタリアの面影が残り、古い街並みが紺碧の地中海と陽光あふれるコート・ダジュールの丘に溶け込んでいます。",
+      "ja-JP": "やわらかな陽光に包まれたニースは、テラコッタ色の屋根や歴史ある教会、パステルカラーの建物が寄り集まった、まるでパッチワークのような街です。古代ギリシャ人によって築かれたこの街は、長くサヴォイア家と深い関わりを持ち、正式にフランス領となったのは1860年でした。今も旧市街にはイタリアの面影が残り、古い街並みが紺碧の地中海と陽光あふれるコート・ダジュールの丘に溶け込んでいます。",
       "en-IN": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
       "it-IT": "Avvolta da una luce dorata, Nizza si presenta nella foto di oggi come un mosaico di tetti in terracotta, chiese storiche e facciate color pastello sul litorale della Costa Azzurra. Fondata dagli antichi Greci e a lungo legata ai Savoia, la città diventò ufficialmente francese nel 1860. Ancora oggi le tracce del suo passato si incontrano in ogni angolo, tra eleganti architetture d’altri tempi, colline assolate e le acque azzurre del Mediterraneo, che fanno da scenario a questa affascinante città del sud della Francia.",
       "pt-BR": "Banhada por uma luz dourada do sol, Nice forma um mosaico de telhados de terracota, igrejas históricas e fachadas em tons pastel ao longo da Riviera Francesa, como mostra a imagem de hoje. Fundada pelos antigos gregos e por muito tempo ligada à Casa de Saboia, a dinastia real italiana, Nice tornou-se oficialmente parte da França em 1860. Hoje, esse passado marcado por diferentes influências ainda pode ser visto por toda essa cidade costeira do sul da França, onde a arquitetura de traços históricos encontra as águas azuis do Mediterrâneo e as colinas banhadas pelo sol da Côte d'Azur.",
@@ -1657,56 +1801,6 @@
         "code": "en-US",
         "name": "US",
         "flag": "us"
-      },
-      {
-        "code": "en-GB",
-        "name": "UK",
-        "flag": "gb"
-      },
-      {
-        "code": "en-CA",
-        "name": "CA",
-        "flag": "ca"
-      },
-      {
-        "code": "de-DE",
-        "name": "DE",
-        "flag": "de"
-      },
-      {
-        "code": "fr-FR",
-        "name": "FR",
-        "flag": "fr"
-      },
-      {
-        "code": "it-IT",
-        "name": "IT",
-        "flag": "it"
-      },
-      {
-        "code": "es-ES",
-        "name": "ES",
-        "flag": "es"
-      },
-      {
-        "code": "pt-BR",
-        "name": "BR",
-        "flag": "br"
-      },
-      {
-        "code": "ja-JP",
-        "name": "JP",
-        "flag": "jp"
-      },
-      {
-        "code": "zh-CN",
-        "name": "CN",
-        "flag": "cn"
-      },
-      {
-        "code": "en-IN",
-        "name": "IN",
-        "flag": "in"
       }
     ],
     "titles": {
@@ -1752,111 +1846,20 @@
       "zh-CN": "“幻彩咏香江”通常于晚上8点上演，以音乐配合维多利亚港上空的激光和探照灯光束。"
     },
     "captions": {
-      "en-US": "Victoria Harbour, Hong Kong, China",
-      "en-GB": "Victoria Harbour, Hong Kong, China",
-      "en-CA": "Victoria Harbour, Hong Kong, China",
-      "de-DE": "Victoria Harbour, Hongkong, China",
-      "fr-FR": "Port Victoria, Hong Kong, Chine",
-      "it-IT": "",
-      "es-ES": "Puerto Victoria, Hong Kong, China",
-      "pt-BR": "",
-      "ja-JP": "ビクトリア・ハーバー、香港、中国",
-      "zh-CN": "",
-      "en-IN": "Victoria Harbour, Hong Kong, China"
+      "en-US": "Victoria Harbour, Hong Kong, China"
     },
     "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0800%22",
-      "en-GB": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Victoria+Harbour+Hongkong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Port+Victoria+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Puerto+Victoria+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Victoria+Harbour+em+Hong+Kong+na+China&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%93%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e3%83%bb%e3%83%8f%e3%83%bc%e3%83%90%e3%83%bc+%e9%a6%99%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220261113_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e4%b8%ad%e5%9b%bd%e9%a6%99%e6%b8%af%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e6%b8%af&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_1830%22"
+      "en-US": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0800%22"
     },
     "urlbases": {
-      "en-US": "/th?id=OHR.BlueHK_EN-US7870996687",
-      "en-GB": "/th?id=OHR.BlueHK_EN-GB3274323919",
-      "en-CA": "/th?id=OHR.BlueHK_EN-CA2709774125",
-      "de-DE": "/th?id=OHR.BlueHK_DE-DE1662761141",
-      "fr-FR": "/th?id=OHR.BlueHK_FR-FR2342913478",
-      "it-IT": "/th?id=OHR.BlueHK_IT-IT8939331622",
-      "es-ES": "/th?id=OHR.BlueHK_ES-ES3038554146",
-      "pt-BR": "/th?id=OHR.BlueHK_PT-BR4557088394",
-      "ja-JP": "/th?id=OHR.BlueHK_JA-JP0477081186",
-      "zh-CN": "/th?id=OHR.BlueHK_ZH-CN1382345392",
-      "en-IN": "/th?id=OHR.BlueHK_EN-IN1948913499"
+      "en-US": "/th?id=OHR.BlueHK_EN-US7870996687"
     }
   },
-  "AbrahamCanada": {
-    "name": "AbrahamCanada",
-    "urlbase": "/th?id=OHR.AbrahamCanada_EN-US3455540217",
-    "date": "20261113",
-    "dateFormatted": "November 13, 2026",
-    "markets": [
-      {
-        "code": "en-US",
-        "name": "US",
-        "flag": "us"
-      }
-    ],
-    "titles": {
-      "en-US": "Hidden depths. Ice on Abraham Lake in Alberta, Canada",
-      "en-GB": "Hidden depths. Ice on Abraham Lake in Alberta, Canada",
-      "en-CA": "Hidden depths. Ice on Abraham Lake in Alberta",
-      "de-DE": "Verborgene Tiefen. Eisiger Abraham Lake in Alberta, Kanada",
-      "fr-FR": "Des profondeurs mystérieuses. Tapis de glace sur le lac Abraham, Alberta (Canada)",
-      "it-IT": "Misteri sommersi",
-      "es-ES": "Profundidades ocultas. Hielo en el lago Abraham, Alberta, Canadá",
-      "pt-BR": "Mistérios congelados",
-      "ja-JP": "氷の下の神秘. アブラハム湖の氷、アルバータ州、カナダ",
-      "zh-CN": "冰下秘境"
-    },
-    "copyrights": {
-      "en-US": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
-      "en-GB": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
-      "en-CA": "Abraham Lake in Alberta (© Guang Cao/Getty Images)",
-      "de-DE": "Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images)",
-      "fr-FR": "Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
-      "it-IT": "Lago Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
-      "es-ES": "Hielo en el lago Abraham, Alberta, Canadá (© Guang Cao/Getty Images)",
-      "pt-BR": "Lago Abraham, Alberta, Canadá (© Guang Cao/Getty Images)",
-      "ja-JP": "アブラハム湖、アルバータ州、カナダ (© Guang Cao/Getty Images)",
-      "zh-CN": "亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)"
-    },
-    "descs": {
-      "en-US": "Dawn's first light is reflected on the frozen surface of Abraham Lake, framed by peaks of the Rocky Mountains. In winter, this picturesque lake in Alberta is famous for its frozen bubbles of methane gas, trapped beneath the ice. Strong winds keep the surface clear of snow, offering winter-long views. Come spring, when the ice thaws, the gas escapes into the atmosphere. Despite its natural beauty, the lake is a human-made reservoir, created in 1972 when the Bighorn Dam was built on the North Saskatchewan River. Its icy beauty in winter and turquoise waters in summer make it a popular photography spot all year round.",
-      "en-GB": "Dawn's first light reflects off the frozen surface of Abraham Lake, framed by the peaks of the Rocky Mountains. In winter, this picturesque lake in Alberta is famous for its frozen methane bubbles, trapped beneath the ice. Strong winds keep the ice largely clear of snow, revealing the bubbles below throughout the winter. As spring arrives and the ice thaws, the trapped gas can escape into the atmosphere.",
-      "en-CA": "Dawn's first light is reflected on the frozen surface of Abraham Lake, framed by Rocky Mountains peaks. In winter, this picturesque lake in Alberta is famous for its frozen bubbles of methane gas, trapped beneath the ice. Strong winds keep the surface clear of snow, offering winter-long views. Come spring, when the ice thaws, the gas escapes into the atmosphere.",
-      "de-DE": "Das erste Licht der Morgendämmerung spiegelt sich auf dem vereisten Abraham Lake, eingerahmt von den Gipfeln der Rocky Mountains. Im Winter ist dieser malerische See in Alberta berühmt für seine gefrorenen Blasen aus Methangas, die unter dem Eis eingeschlossen sind. Starke Winde halten die Oberfläche schneefrei und sorgen so den ganzen Winter über für einen freien Blick. Im Frühling, wenn das Eis schmilzt, entweicht das Gas in die Atmosphäre.",
-      "fr-FR": "Les premières lueurs de l'aube se reflètent sur la surface gelée du lac Abraham, encadré par les sommets des montagnes Rocheuses. En hiver, ce lac pittoresque de l'Alberta au Canada est célèbre pour ses bulles de méthane gelées, piégées sous la glace. Les vents violents empêchent la neige de s'accumuler à la surface, offrant ainsi une image étonnante tout au long de l'hiver. Au printemps, lorsque la glace fond, le gaz s'échappe dans l'atmosphère.",
-      "es-ES": "La primera luz del amanecer se refleja en la superficie helada del lago Abraham, enmarcada por las cumbres de las Montañas Rocosas. En invierno, este pintoresco lago de Alberta es famoso por las burbujas de metano congeladas que quedan atrapadas bajo el hielo. Los fuertes vientos mantienen la superficie despejada de nieve y permiten contemplarlas durante todo el invierno. En primavera, cuando el hielo se derrite, el gas escapa a la atmósfera.",
-      "ja-JP": "ロッキー山脈に抱かれたカナダ・アルバータ州のアブラハム湖は、冬になるとメタンガスの気泡が凍って氷の下に閉じ込められる光景で知られています。強風で雪が吹き飛ばされるため、冬の間ずっとその気泡を眺められるのも魅力です。実は1972年のダム建設でできた人造湖で、夏はターコイズブルーの湖面が美しく、一年を通して人気のフォトスポットです。",
-      "it-IT": "Alle prime luci dell’alba, la superficie ghiacciata del lago Abraham si accende di riflessi, con le maestose vette delle Montagne Rocciose a farne da contorno. Durante l'inverno, è possibile ammirare un incredibile spettacolo: bolle ghiacciate di metano restano intrappolate sotto la superficie del lago, resa visibile dai forti venti che spazzano via la neve. Con il disgelo primaverile, il gas tornerà a liberarsi nell’atmosfera. Nonostante il suo fascino selvaggio, si tratta in realtà di un bacino artificiale, nato nel 1972 con la costruzione della diga di Bighorn sul fiume North Saskatchewan. Ghiacciato d’inverno e turchese d’estate, il lago Abraham offre scenari da fotografare in ogni stagione.",
-      "pt-BR": "A primeira luz do amanhecer se reflete na superfície congelada do Lago Abraham, emoldurada pelos picos das Montanhas Rochosas. No inverno, esse lago pitoresco de Alberta é famoso pelas bolhas congeladas de gás metano presas sob o gelo. Os ventos fortes mantêm a superfície livre de neve, permitindo observar o fenômeno durante todo o inverno. Quando a primavera chega e o gelo derrete, o gás é liberado na atmosfera. Apesar de sua beleza natural, o lago é um reservatório artificial, criado em 1972 com a construção da Barragem de Bighorn no rio North Saskatchewan. Sua beleza gélida no inverno e suas águas em tons de turquesa no verão fazem dele um local muito procurado para fotografia durante todo o ano.",
-      "zh-CN": "黎明的第一缕曙光映照在亚伯拉罕湖冰封的湖面上，远处是落基山脉的群峰。冬季，这座位于艾伯塔省的如画湖泊以困在冰层下的甲烷气泡而闻名。强风使湖面不被积雪覆盖，让人们整个冬天都能观赏这一景象。到了春天，冰层融化，气体便逸散到大气中。"
-    },
-    "quickFacts": {
-      "zh-CN": "亚伯拉罕湖以斯托尼纳科达族向导赛拉斯·亚伯拉罕命名；这一名称由艾伯塔省政府举办的征名比赛选出。"
-    },
-    "captions": {
-      "en-US": "Ice on Abraham Lake in Alberta, Canada"
-    },
-    "copyrightlinks": {
-      "en-US": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220261113_0800%22"
-    },
-    "urlbases": {
-      "en-US": "/th?id=OHR.AbrahamCanada_EN-US3455540217"
-    }
-  },
-  "FaceCanyon": {
-    "name": "FaceCanyon",
-    "urlbase": "/th?id=OHR.FaceCanyon_EN-GB5580459617",
-    "date": "20261127",
-    "dateFormatted": "November 27, 2026",
+  "VltavaPrague": {
+    "name": "VltavaPrague",
+    "urlbase": "/th?id=OHR.VltavaPrague_EN-GB9335121200",
+    "date": "20261128",
+    "dateFormatted": "November 28, 2026",
     "markets": [
       {
         "code": "en-GB",
@@ -1910,82 +1913,82 @@
       }
     ],
     "titles": {
-      "en-GB": "Ribbons of grey and gold. Face Canyon, Lake Powell, Utah",
-      "en-CA": "Ribbons of grey and gold. Face Canyon, Lake Powell, Utah",
-      "de-DE": "Streifen in Grau und Gold. Face Canyon, Lake Powell, Utah",
-      "fr-FR": "Rubans gris et or. Face Canyon, Lac Powell, Utah",
-      "it-IT": "Acqua, terra e fuoco nel cielo",
-      "es-ES": "Cintas grises y doradas. Face Canyon, Lago Powell, Utah",
-      "pt-BR": "Quando a pedra vira ouro",
-      "ja-JP": "灰色と黄金色が織りなす風景. フェイス・キャニオン、パウエル湖、ユタ州",
-      "zh-CN": "夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国",
-      "en-IN": "Ribbons of grey and gold. Face Canyon, Lake Powell, Utah",
-      "en-US": "Ribbons of gray and gold. Butte at sunset, Face Canyon, Lake Powell, Utah"
+      "en-GB": "Bridges through time. View over Vltava River, Prague, Czechia",
+      "en-CA": "Bridges through time. View over Vltava River, Prague, Czechia",
+      "de-DE": "Brücken in die Vergangenheit. Blick auf die Moldau, Prag, Tschechien",
+      "fr-FR": "De pont en pont. Vue sur la Vltava à Prague, Tchéquie",
+      "it-IT": "Ponti attraverso il tempo",
+      "es-ES": "Puentes a través del tiempo. Vista del río Moldava, Praga, Chequia",
+      "pt-BR": "Praga atravessa o tempo",
+      "ja-JP": "歴史をつなぐ橋. ヴルタヴァ川を望む風景、プラハ、チェコ",
+      "zh-CN": "捷克布拉格老城区与伏尔塔瓦河",
+      "en-IN": "Bridges through time. View over Vltava River, Prague, Czechia",
+      "en-US": "Bridges through time. Old town and Vltava River, Prague, Czechia"
     },
     "copyrights": {
-      "en-GB": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
-      "en-CA": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
-      "de-DE": "Butte bei Sonnenuntergang, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
-      "fr-FR": "Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)",
-      "it-IT": "Butte al tramonto, Face Canyon, Lago Powell, Utah, USA (© Jeff Foott/Minden)",
-      "es-ES": "Colina aislada al atardecer, Face Canyon, Lago Powell, Utah, EE. UU. (© Jeff Foott/Minden)",
-      "pt-BR": "Monolito ao pôr do sol, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)",
-      "ja-JP": "夕暮れの岩山、フェイス・キャニオン、パウエル湖、ユタ州、アメリカ (© Jeff Foott/Minden)",
-      "zh-CN": "夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)",
-      "en-IN": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
-      "en-US": "© Jeff Foott/Minden"
+      "en-GB": "Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)",
+      "en-CA": "Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)",
+      "de-DE": "Altstadt und Moldau, Prag, Tschechien (© Lara_Uhryn/Getty Images)",
+      "fr-FR": "Vieille ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images)",
+      "it-IT": "Città Vecchia, fiume Moldava, Praga, Cechia (© Lara_Uhryn/Getty Images)",
+      "es-ES": "Casco antiguo y río Moldava, Praga, Chequia (© Lara_Uhryn/Getty Images)",
+      "pt-BR": "Cidade Antiga e rio Vltava, Praga, República Tcheca (© Lara_Uhryn/Getty Images)",
+      "ja-JP": "旧市街とヴルタヴァ川、プラハ、チェコ (© Lara_Uhryn/Getty Images)",
+      "zh-CN": "捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)",
+      "en-IN": "Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)",
+      "en-US": "© Lara_Uhryn/Getty Images"
     },
     "descs": {
-      "en-GB": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in southern Utah. Many are far from roads and would be difficult to reach if they hadn't been flooded by the lake, which was created in 1963 during the construction of the Glen Canyon Dam. The lake's waters extend for around 186 miles (299 kilometres), along creeks and canyons which you can explore by boat, kayak or jet ski.",
-      "en-CA": "Hidden among the maze-like sandstone cliffs of southern Utah, Face Canyon offers a striking glimpse into the dramatic landscapes that define Lake Powell, one of the largest human-made lakes in North America. Formed after the construction of the Glen Canyon Dam, the lake transformed once-isolated canyons into waterways that can now be explored by boat, kayak or paddleboard. Towering red rock walls rise above deep blue waters, creating scenery that feels both rugged and serene. Whether arriving at sunset as golden light paints the canyon walls or seeking shade from the midday desert heat, visitors quickly discover that the journey through this remarkable landscape is every bit as rewarding as the destination itself.",
-      "de-DE": "Versteckt in einer uralten Sandsteinlandschaft ist der Face Canyon einer von 96 Canyons, die sich vom Lake Powell im Süden Utahs aus erstrecken. Viele liegen weit abseits von Straßen und wären schwer zu erreichen, wären sie nicht vom See überflutet worden, der 1963 während des Baus des Glen-Canyon-Staudamms entstand. Der See erstreckt sich etwa 300 Kilometer entlang von Flussläufen und Canyons, die man mit dem Boot, Kajak oder anderen Wassersportgeräten erkunden kann.",
-      "fr-FR": "Dissimulé au cœur d’un paysage de grès, Face Canyon est l’un des 96 canyons qui s’étendent depuis le lac Powell, au sud de l’Utah. Nombre d’entre eux seraient difficiles d’accès s’ils n’avaient pas été submergés par les eaux du lac.  Le lac Powell est le deuxième plus grand lac artificiel des États-Unis. Formé en 1963 lors de la construction du barrage de Glen Canyon, il s’étire sur près de 300 km.",
-      "es-ES": "Oculto en un antiguo paisaje de arenisca, Face Canyon es uno de los 96 cañones que se extienden desde el Lago Powell, en el sur de Utah. Muchos están lejos de las carreteras y serían difíciles de alcanzar si no los hubiera inundado el lago, creado en 1963 durante la construcción de la presa de Glen Canyon. Las aguas del lago remontan unos 300 km por arroyos y cañones que se pueden explorar en barco, en kayak o en moto acuática.",
-      "ja-JP": "灰色と黄金色が織りなす風景. 夕暮れの岩山、フェイス・キャニオン、パウエル湖、ユタ州、アメリカ. ユタ州南部のパウエル湖には、砂岩に囲まれた数多くの峡谷が広がっています。その一つ、フェイス・キャニオンは、切り立った岩壁と静かな湖面が美しい場所です。パウエル湖はダムの建設によって生まれた人工湖で、ボートやカヤックで峡谷を巡ることができます。夕暮れには岩肌が黄金色に染まり、幻想的な景色が広がります。高い岩壁が強い日差しを遮ってくれるため、暑い日でも日陰でひと息つけます。",
-      "en-IN": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in southern Utah. Many are far from roads and would be hard to reach if they hadn't been flooded by the lake, created in 1963 during the construction of the Glen Canyon Dam. The lake's waters back up about 300 kilometres, along creeks and canyons which you can explore by boat, kayak or personal watercraft.",
-      "en-US": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in southern Utah. Many are far from roads and would be hard to reach if they hadn't been flooded by the lake, created in 1963 during the construction of the Glen Canyon Dam. The lake's waters back up about 186 miles, along creeks and canyons which you can explore by boat, kayak, or personal watercraft.",
-      "it-IT": "Nascosto tra secolari paesaggi di arenaria, Face Canyon è uno dei 96 valloni che si diramano dal Lago Powell, nello Utah meridionale. Le formazioni rocciose meno accessibili via terra possono essere raggiunte in barca o kayak attraversando le acque del lago, creato nel 1963 con la costruzione della diga di Glen Canyon. Riempito per 17 anni fino a raggiungere il suo massimo livello, è il secondo bacino artificiale più grande degli Stati Uniti. Tra acque blu e imponenti pareti di arenaria, il Lago Powell regala panorami spettacolari, che diventano ancora più suggestivi all’ora del tramonto.",
-      "pt-BR": "Escondido em uma antiga paisagem de arenito, Face Canyon é um dos 96 cânions que se estendem a partir de Lake Powell, no sul de Utah. Muitos deles ficam longe das estradas e seriam de difícil acesso se não tivessem sido inundados pelas águas do lago, formado em 1963 durante a construção da Barragem de Glen Canyon. As águas de Lake Powell se estendem por cerca de 300 quilômetros ao longo de riachos e cânions, que podem ser explorados de barco, caiaque ou moto aquática.",
-      "zh-CN": "脸峡谷隐于古老的砂岩地貌之中，是美国犹他州南部鲍威尔湖沿岸96座峡谷之一。许多峡谷远离公路，若非1963年修建格伦峡谷大坝形成的湖水淹入，此前很难抵达。湖水沿溪流和峡谷向上游延伸约186英里（约300公里），你可以乘船、划皮划艇或驾驶摩托艇探索。"
+      "en-GB": "This autumn view from Letná Park looks out over Prague, which was built along the banks of the Vltava River in Czechia. In today's image, the river winds its way through the historic Old Town and Malá Strana districts, beneath Mánes Bridge in the foreground. Many beautiful bridges now span the Vltava, but for centuries there was only one: Charles Bridge, pictured second from the bottom. Its first stones were laid in 1357 during the reign of Charles IV and, until 1841, it was the only way to cross the river on foot. Today, its stone arches, Gothic towers and statues lining the bridge draw large crowds, so visitors are advised to arrive by dawn for the best photographs. Alternatively, they could walk on to the next crossing, Legion Bridge, which is less crowded and offers beautiful views of the National Theatre, Prague Castle and its busier neighbour.",
+      "en-CA": "From the heights of Letná Park, visitors can enjoy one of the most iconic views of Prague, where the Vltava River winds through the heart of Czechia's capital. Framed by historic neighbourhoods and a series of elegant bridges, the scene captures centuries of architectural and cultural heritage in a single panorama. Among these crossings, the famed Charles Bridge stands out as a symbol of the city, linking Prague's past and present with its Gothic towers, stone arches and riverside statues. While it remains a favourite destination for visitors, quieter viewpoints and nearby bridges offer equally stunning perspectives of landmarks such as Prague Castle and the National Theatre, especially as the colours of fall brighten the city's riverbanks and skyline.",
+      "de-DE": "Dieser herbstliche Blick vom Letná-Park zeigt Prag, dass sich entlang der Ufer der Moldau in Tschechien erstreckt. Das heutige Bild zeigt den Lauf des Flusses durch die historische Altstadt und das Stadtviertel Malá Strana unterhalb der Mánes-Brücke im Vordergrund. Viele schöne Brücken führen heutzutage über die Moldau, doch jahrhundertelang gab es nur eine einzige: die Karlsbrücke, die als zweite von unten zu sehen ist. Ihr Grundstein wurde 1357 unter der Herrschaft Karls IV. gelegt und bis 1841 war sie die einzige Möglichkeit, den Fluss zu Fuß zu überqueren.",
+      "fr-FR": "Vue depuis le parc Letná, la rivière Vltava traverse Prague, la capitale de la Tchéquie, sous un ciel automnal. Sur cette image, le cours d’eau serpente à travers les quartiers historiques de la Vieille Ville et de Malá Strana. Le pont Mánes au premier plan jouxte le fameux pont Charles qui est resté pendant des siècles l’unique structure de la ville traversant la Vltava. Ses premières pierres furent posées en 1357, sous le règne de Charles IV.",
+      "es-ES": "Esta vista otoñal desde el parque de Letná contempla Praga, que creció a orillas del río Moldava, en Chequia. En la imagen de hoy, el río serpentea por el histórico casco antiguo y los distritos de Malá Strana, bajo el puente Mánes, en primer plano. Son muchos los hermosos puentes que cruzan ahora el Moldava, pero durante siglos solo hubo uno: el puente de Carlos, que aparece en segundo lugar empezando por abajo. Sus primeras piedras se colocaron en 1357, durante el reinado de Carlos IV, y hasta 1841 fue la única manera de cruzar el río a pie. Hoy sus arcos de piedra, sus torres góticas y las estatuas que bordean el puente atraen a multitudes, por lo que se aconseja a los turistas llegar al amanecer para hacer las mejores fotografías. O bien pueden seguir hasta el siguiente cruce, el puente de la Legión, menos concurrido y con hermosas vistas del Teatro Nacional, del Castillo de Praga y de su vecino más transitado.",
+      "ja-JP": "歴史をつなぐ橋. 旧市街とヴルタヴァ川、プラハ、チェコ. チェコの首都プラハを流れるヴルタヴァ川には、歴史ある美しい橋がいくつも架かっています。なかでも有名なのが、1357年に建設が始まったカレル橋です。1841年までは、歩いて川を渡れる唯一の橋として人々の暮らしを支えてきました。今では橋に並ぶ彫像やゴシック様式の塔が見どころとなり、多くの観光客でにぎわっています。ゆっくり景色を楽しみたいなら、少し離れたレギー橋から眺めるのもおすすめです。",
+      "en-IN": "This autumnal view from Letná Park looks out over Prague, which grew up along the banks of the Vltava River in Czechia. In today's image, the river winds its way through the historic Old Town and Malá Strana districts, beneath Mánes Bridge in the foreground. Many beautiful bridges now span the Vltava, but for centuries there was only one, Charles Bridge, pictured second from the bottom. Its first stones were laid in 1357 during the reign of Charles IV and until 1841, it was the only way to cross the river on foot. Today its stone arches, gothic towers and statues lining the bridge draw large crowds, so tourists are advised to get there by dawn for the best photographs. Or they could walk on to the next crossing, Legion Bridge, which is less crowded and offers beautiful views of the National Theatre, Prague Castle and its busier neighbour.",
+      "en-US": "This autumnal view from Letná Park looks out over Prague, which grew up along the banks of the Vltava River in Czechia. In today's image, the river winds its way through the historic Old Town and Malá Strana districts, beneath Mánes Bridge in the foreground. Many beautiful bridges now span the Vltava, but for centuries there was only one, Charles Bridge, pictured second from the bottom. Its first stones were laid in 1357 during the reign of Charles IV and until 1841, it was the only way to cross the river on foot. Today its stone arches, gothic towers, and statues lining the bridge draw large crowds, so tourists are advised to get there by dawn for the best photographs. Or they could walk on to the next crossing, Legion Bridge, which is less crowded and offers beautiful views of the National Theatre, Prague Castle, and its busier neighbor.",
+      "it-IT": "Questo panorama autunnale, dall’alto del parco Letná, si apre sulla città di Praga e sul Moldava, che attraversa i quartieri della Città Vecchia e di Malá Strana. Il fiume scorre veloce sotto ponti storici come il Mánes (in primo piano) e il Ponte Carlo (il secondo dal basso), costruito a partire dal 1357 sotto Carlo IV e, fino al 1841, unico attraversamento pedonale tra la due sponde. Le sue arcate in pietra, le torri gotiche e le statue ornamentali attirano ogni giorno molti visitatori. Per scattare foto lontani dalla folla, è consigliabile raggiungere il Ponte delle Legioni (quello successivo), da cui si possono ammirare il Teatro Nazionale, il Castello di Praga e lo stesso Ponte Carlo.",
+      "pt-BR": "Esta vista de outono a partir do Parque Letná mostra Praga às margens do rio Vltava, na Tchéquia.  Na imagem de hoje, o rio serpenteia pelos bairros históricos da Cidade Velha e de Malá Strana, passando sob a Ponte Mánes, em primeiro plano. Hoje, muitas belas pontes atravessam o Vltava, mas durante séculos houve apenas uma: a Ponte Carlos, a segunda de baixo para cima na imagem. Suas primeiras pedras foram assentadas em 1357, durante o reinado de Carlos IV, e, até 1841, ela era a única forma de atravessar o rio a pé.",
+      "zh-CN": "从莱特纳公园望去，秋色中的布拉格沿捷克伏尔塔瓦河两岸铺展。照片中，河水穿过历史悠久的老城区和小城区，从前景的马内斯桥下流过。如今，伏尔塔瓦河上横跨着许多美丽的桥梁，但数百年间只有一座查理大桥，即照片中从下往上数第二座桥。1357年，查理四世在位期间，这座桥奠下第一块基石；直到1841年，它都是步行过河的唯一通道。如今，石拱、哥特式桥塔和桥上的雕像吸引大批游客，想拍到好照片，最好黎明时就来。也可以继续走到下一座军团桥，那里人少一些，还能欣赏布拉格国家剧院、布拉格城堡和热闹的查理大桥。"
     },
     "quickFacts": {
-      "zh-CN": "鲍威尔湖附近的彩虹桥是当地美洲原住民的圣地；这座天然石桥高约290英尺。"
+      "zh-CN": "布拉格的查理大桥原称石桥或布拉格桥；自1870年起沿用如今的名称。"
     },
     "captions": {
-      "en-GB": "Face Canyon, Lake Powell, Utah",
-      "en-CA": "Face Canyon, Lake Powell, Utah",
-      "de-DE": "Face Canyon, Lake Powell, Utah",
-      "fr-FR": "Face Canyon, Lac Powell, Utah",
+      "en-GB": "View over Vltava River, Prague, Czechia",
+      "en-CA": "View over Vltava River, Prague, Czechia",
+      "de-DE": "Blick auf die Moldau, Prag, Tschechien",
+      "fr-FR": "Vue sur la Vltava à Prague, Tchéquie",
       "it-IT": "",
-      "es-ES": "Face Canyon, Lago Powell, Utah",
+      "es-ES": "Vista del río Moldava, Praga, Chequia",
       "pt-BR": "",
-      "ja-JP": "フェイス・キャニオン、パウエル湖、ユタ州",
+      "ja-JP": "ヴルタヴァ川を望む風景、プラハ、チェコ",
       "zh-CN": "",
-      "en-IN": "Face Canyon, Lake Powell, Utah"
+      "en-IN": "View over Vltava River, Prague, Czechia"
     },
     "copyrightlinks": {
-      "en-GB": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261127_0000%22",
-      "en-CA": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261127_0500%22",
-      "de-DE": "https://www.bing.com/search?q=Lake+Powell+Stausee&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
-      "fr-FR": "https://www.bing.com/search?q=Lac+Powell&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
-      "it-IT": "https://www.bing.com/search?q=Lago+Powell&form=hpcapt",
-      "es-ES": "https://www.bing.com/search?q=Lago+Powell&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
-      "pt-BR": "https://www.bing.com/search?q=Lake+Powell+no+Colorado&form=hpcapt&mkt=pt-br",
-      "ja-JP": "https://www.bing.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab%e6%b9%96&form=hpcapt&filters=HpDate%3a%2220261126_1500%22",
-      "zh-CN": "https://www.bing.com/search?q=%e9%b2%8d%e5%a8%81%e5%b0%94%e6%b9%96&form=hpcapt&mkt=zh-cn",
-      "en-IN": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261126_1830%22"
+      "en-GB": "https://www.bing.com/search?q=Prague+bridges&form=hpcapt&filters=HpDate%3a%2220261128_0000%22",
+      "en-CA": "https://www.bing.com/search?q=Prague+bridges&form=hpcapt&filters=HpDate%3a%2220261128_0500%22",
+      "de-DE": "https://www.bing.com/search?q=Prager+Br%c3%bccken&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+      "fr-FR": "https://www.bing.com/search?q=Prague+ponts&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+      "it-IT": "https://www.bing.com/search?q=Ponti+di+Praga&form=hpcapt",
+      "es-ES": "https://www.bing.com/search?q=Puentes+de+Praga&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+      "pt-BR": "https://www.bing.com/search?q=Praga+Pontes&form=hpcapt&mkt=pt-br",
+      "ja-JP": "https://www.bing.com/search?q=%e3%83%97%e3%83%a9%e3%83%8f+%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220261127_1500%22",
+      "zh-CN": "https://www.bing.com/search?q=%e5%b8%83%e6%8b%89%e6%a0%bc%e7%9a%84%e6%a1%a5%e6%a2%81&form=hpcapt&mkt=zh-cn",
+      "en-IN": "https://www.bing.com/search?q=Prague+bridges&form=hpcapt&filters=HpDate%3a%2220261127_1830%22"
     },
     "urlbases": {
-      "en-GB": "/th?id=OHR.FaceCanyon_EN-GB5580459617",
-      "en-CA": "/th?id=OHR.FaceCanyon_EN-CA9192055868",
-      "de-DE": "/th?id=OHR.FaceCanyon_DE-DE8985806432",
-      "fr-FR": "/th?id=OHR.FaceCanyon_FR-FR9763207069",
-      "it-IT": "/th?id=OHR.FaceCanyon_IT-IT4616461166",
-      "es-ES": "/th?id=OHR.FaceCanyon_ES-ES7167229862",
-      "pt-BR": "/th?id=OHR.FaceCanyon_PT-BR9349113908",
-      "ja-JP": "/th?id=OHR.FaceCanyon_JA-JP4501981808",
-      "zh-CN": "/th?id=OHR.FaceCanyon_ZH-CN9505064248",
-      "en-IN": "/th?id=OHR.FaceCanyon_EN-IN7727815834"
+      "en-GB": "/th?id=OHR.VltavaPrague_EN-GB9335121200",
+      "en-CA": "/th?id=OHR.VltavaPrague_EN-CA3635435343",
+      "de-DE": "/th?id=OHR.VltavaPrague_DE-DE9849101774",
+      "fr-FR": "/th?id=OHR.VltavaPrague_FR-FR4286783845",
+      "it-IT": "/th?id=OHR.VltavaPrague_IT-IT0736491794",
+      "es-ES": "/th?id=OHR.VltavaPrague_ES-ES8901377082",
+      "pt-BR": "/th?id=OHR.VltavaPrague_PT-BR9631249556",
+      "ja-JP": "/th?id=OHR.VltavaPrague_JA-JP5027997170",
+      "zh-CN": "/th?id=OHR.VltavaPrague_ZH-CN9898139716",
+      "en-IN": "/th?id=OHR.VltavaPrague_EN-IN7319350687"
     }
   },
   "RFHilo": {
@@ -2119,6 +2122,67 @@
       "ja-JP": "/th?id=OHR.RFHilo_JA-JP7653681991",
       "zh-CN": "/th?id=OHR.RFHilo_ZH-CN5962114314",
       "en-IN": "/th?id=OHR.RFHilo_EN-IN3818497787"
+    }
+  },
+  "AbrahamCanada": {
+    "name": "AbrahamCanada",
+    "urlbase": "/th?id=OHR.AbrahamCanada_EN-US3455540217",
+    "date": "20261113",
+    "dateFormatted": "November 13, 2026",
+    "markets": [
+      {
+        "code": "en-US",
+        "name": "US",
+        "flag": "us"
+      }
+    ],
+    "titles": {
+      "en-US": "Hidden depths. Ice on Abraham Lake in Alberta, Canada",
+      "en-GB": "Hidden depths. Ice on Abraham Lake in Alberta, Canada",
+      "en-CA": "Hidden depths. Ice on Abraham Lake in Alberta",
+      "de-DE": "Verborgene Tiefen. Eisiger Abraham Lake in Alberta, Kanada",
+      "fr-FR": "Des profondeurs mystérieuses. Tapis de glace sur le lac Abraham, Alberta (Canada)",
+      "it-IT": "Misteri sommersi",
+      "es-ES": "Profundidades ocultas. Hielo en el lago Abraham, Alberta, Canadá",
+      "pt-BR": "Mistérios congelados",
+      "ja-JP": "氷の下の神秘. アブラハム湖の氷、アルバータ州、カナダ",
+      "zh-CN": "冰下秘境"
+    },
+    "copyrights": {
+      "en-US": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
+      "en-GB": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
+      "en-CA": "Abraham Lake in Alberta (© Guang Cao/Getty Images)",
+      "de-DE": "Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images)",
+      "fr-FR": "Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
+      "it-IT": "Lago Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
+      "es-ES": "Hielo en el lago Abraham, Alberta, Canadá (© Guang Cao/Getty Images)",
+      "pt-BR": "Lago Abraham, Alberta, Canadá (© Guang Cao/Getty Images)",
+      "ja-JP": "アブラハム湖、アルバータ州、カナダ (© Guang Cao/Getty Images)",
+      "zh-CN": "亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)"
+    },
+    "descs": {
+      "en-US": "Dawn's first light is reflected on the frozen surface of Abraham Lake, framed by peaks of the Rocky Mountains. In winter, this picturesque lake in Alberta is famous for its frozen bubbles of methane gas, trapped beneath the ice. Strong winds keep the surface clear of snow, offering winter-long views. Come spring, when the ice thaws, the gas escapes into the atmosphere. Despite its natural beauty, the lake is a human-made reservoir, created in 1972 when the Bighorn Dam was built on the North Saskatchewan River. Its icy beauty in winter and turquoise waters in summer make it a popular photography spot all year round.",
+      "en-GB": "Dawn's first light reflects off the frozen surface of Abraham Lake, framed by the peaks of the Rocky Mountains. In winter, this picturesque lake in Alberta is famous for its frozen methane bubbles, trapped beneath the ice. Strong winds keep the ice largely clear of snow, revealing the bubbles below throughout the winter. As spring arrives and the ice thaws, the trapped gas can escape into the atmosphere.",
+      "en-CA": "Dawn's first light is reflected on the frozen surface of Abraham Lake, framed by Rocky Mountains peaks. In winter, this picturesque lake in Alberta is famous for its frozen bubbles of methane gas, trapped beneath the ice. Strong winds keep the surface clear of snow, offering winter-long views. Come spring, when the ice thaws, the gas escapes into the atmosphere.",
+      "de-DE": "Das erste Licht der Morgendämmerung spiegelt sich auf dem vereisten Abraham Lake, eingerahmt von den Gipfeln der Rocky Mountains. Im Winter ist dieser malerische See in Alberta berühmt für seine gefrorenen Blasen aus Methangas, die unter dem Eis eingeschlossen sind. Starke Winde halten die Oberfläche schneefrei und sorgen so den ganzen Winter über für einen freien Blick. Im Frühling, wenn das Eis schmilzt, entweicht das Gas in die Atmosphäre.",
+      "fr-FR": "Les premières lueurs de l'aube se reflètent sur la surface gelée du lac Abraham, encadré par les sommets des montagnes Rocheuses. En hiver, ce lac pittoresque de l'Alberta au Canada est célèbre pour ses bulles de méthane gelées, piégées sous la glace. Les vents violents empêchent la neige de s'accumuler à la surface, offrant ainsi une image étonnante tout au long de l'hiver. Au printemps, lorsque la glace fond, le gaz s'échappe dans l'atmosphère.",
+      "es-ES": "La primera luz del amanecer se refleja en la superficie helada del lago Abraham, enmarcada por las cumbres de las Montañas Rocosas. En invierno, este pintoresco lago de Alberta es famoso por las burbujas de metano congeladas que quedan atrapadas bajo el hielo. Los fuertes vientos mantienen la superficie despejada de nieve y permiten contemplarlas durante todo el invierno. En primavera, cuando el hielo se derrite, el gas escapa a la atmósfera.",
+      "ja-JP": "ロッキー山脈に抱かれたカナダ・アルバータ州のアブラハム湖は、冬になるとメタンガスの気泡が凍って氷の下に閉じ込められる光景で知られています。強風で雪が吹き飛ばされるため、冬の間ずっとその気泡を眺められるのも魅力です。実は1972年のダム建設でできた人造湖で、夏はターコイズブルーの湖面が美しく、一年を通して人気のフォトスポットです。",
+      "it-IT": "Alle prime luci dell’alba, la superficie ghiacciata del lago Abraham si accende di riflessi, con le maestose vette delle Montagne Rocciose a farne da contorno. Durante l'inverno, è possibile ammirare un incredibile spettacolo: bolle ghiacciate di metano restano intrappolate sotto la superficie del lago, resa visibile dai forti venti che spazzano via la neve. Con il disgelo primaverile, il gas tornerà a liberarsi nell’atmosfera. Nonostante il suo fascino selvaggio, si tratta in realtà di un bacino artificiale, nato nel 1972 con la costruzione della diga di Bighorn sul fiume North Saskatchewan. Ghiacciato d’inverno e turchese d’estate, il lago Abraham offre scenari da fotografare in ogni stagione.",
+      "pt-BR": "A primeira luz do amanhecer se reflete na superfície congelada do Lago Abraham, emoldurada pelos picos das Montanhas Rochosas. No inverno, esse lago pitoresco de Alberta é famoso pelas bolhas congeladas de gás metano presas sob o gelo. Os ventos fortes mantêm a superfície livre de neve, permitindo observar o fenômeno durante todo o inverno. Quando a primavera chega e o gelo derrete, o gás é liberado na atmosfera. Apesar de sua beleza natural, o lago é um reservatório artificial, criado em 1972 com a construção da Barragem de Bighorn no rio North Saskatchewan. Sua beleza gélida no inverno e suas águas em tons de turquesa no verão fazem dele um local muito procurado para fotografia durante todo o ano.",
+      "zh-CN": "黎明的第一缕曙光映照在亚伯拉罕湖冰封的湖面上，远处是落基山脉的群峰。冬季，这座位于艾伯塔省的如画湖泊以困在冰层下的甲烷气泡而闻名。强风使湖面不被积雪覆盖，让人们整个冬天都能观赏这一景象。到了春天，冰层融化，气体便逸散到大气中。"
+    },
+    "quickFacts": {
+      "zh-CN": "亚伯拉罕湖以斯托尼纳科达族向导赛拉斯·亚伯拉罕命名；这一名称由艾伯塔省政府举办的征名比赛选出。"
+    },
+    "captions": {
+      "en-US": "Ice on Abraham Lake in Alberta, Canada"
+    },
+    "copyrightlinks": {
+      "en-US": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220261113_0800%22"
+    },
+    "urlbases": {
+      "en-US": "/th?id=OHR.AbrahamCanada_EN-US3455540217"
     }
   },
   "NorthWindow": {
